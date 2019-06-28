@@ -1,0 +1,622 @@
+D915DFT_Contig144	WormBase_imported	gene	1003	399053	.	+	.	ID=gene:D915_00991;Name=D915_00991;biotype=protein_coding
+D915DFT_Contig144	WormBase_imported	mRNA	1003	399053	.	+	.	ID=transcript:D915_00991;Parent=gene:D915_00991;Name=D915_00991;info=method:InterPro accession:IPR001584 description:Integrase%2C catalytic core %0Amethod:InterPro accession:IPR012337 description:Ribonuclease H-like superfamily %0Amethod:InterPro accession:IPR036397 description:Ribonuclease H superfamily
+D915DFT_Contig144	WormBase_imported	exon	1003	1053	.	+	.	ID=exon:D915_00991.1;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	exon	57900	58301	.	+	.	ID=exon:D915_00991.2;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	exon	58347	58649	.	+	.	ID=exon:D915_00991.3;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	exon	88454	88496	.	+	.	ID=exon:D915_00991.4;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	exon	134995	135048	.	+	.	ID=exon:D915_00991.5;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	exon	137068	137117	.	+	.	ID=exon:D915_00991.6;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	exon	163629	163688	.	+	.	ID=exon:D915_00991.7;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	exon	179006	179075	.	+	.	ID=exon:D915_00991.8;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	exon	215660	215859	.	+	.	ID=exon:D915_00991.9;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	exon	215961	215981	.	+	.	ID=exon:D915_00991.10;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	exon	222772	222783	.	+	.	ID=exon:D915_00991.11;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	exon	227287	227298	.	+	.	ID=exon:D915_00991.12;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	exon	229549	229560	.	+	.	ID=exon:D915_00991.13;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	exon	398979	399053	.	+	.	ID=exon:D915_00991.14;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	CDS	1003	1053	.	+	0	ID=cds:D915_00991;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	CDS	57900	58301	.	+	0	ID=cds:D915_00991;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	CDS	58347	58649	.	+	0	ID=cds:D915_00991;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	CDS	88454	88496	.	+	0	ID=cds:D915_00991;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	CDS	134995	135048	.	+	2	ID=cds:D915_00991;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	CDS	137068	137117	.	+	2	ID=cds:D915_00991;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	CDS	163629	163688	.	+	0	ID=cds:D915_00991;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	CDS	179006	179075	.	+	0	ID=cds:D915_00991;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	CDS	215660	215859	.	+	2	ID=cds:D915_00991;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	CDS	215961	215981	.	+	0	ID=cds:D915_00991;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	CDS	222772	222783	.	+	0	ID=cds:D915_00991;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	CDS	227287	227298	.	+	0	ID=cds:D915_00991;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	CDS	229549	229560	.	+	0	ID=cds:D915_00991;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	CDS	398979	399053	.	+	0	ID=cds:D915_00991;Parent=transcript:D915_00991
+D915DFT_Contig1046	WormBase_imported	gene	19295	179156	.	+	.	ID=gene:D915_05433;Name=D915_05433;biotype=protein_coding
+D915DFT_Contig1046	WormBase_imported	mRNA	19295	179156	.	+	.	ID=transcript:D915_05433;Parent=gene:D915_05433;Name=D915_05433
+D915DFT_Contig1046	WormBase_imported	exon	19295	19549	.	+	.	ID=exon:D915_05433.1;Parent=transcript:D915_05433
+D915DFT_Contig1046	WormBase_imported	exon	48049	48063	.	+	.	ID=exon:D915_05433.2;Parent=transcript:D915_05433
+D915DFT_Contig1046	WormBase_imported	exon	52288	52323	.	+	.	ID=exon:D915_05433.3;Parent=transcript:D915_05433
+D915DFT_Contig1046	WormBase_imported	exon	86899	86955	.	+	.	ID=exon:D915_05433.4;Parent=transcript:D915_05433
+D915DFT_Contig1046	WormBase_imported	exon	127389	127409	.	+	.	ID=exon:D915_05433.5;Parent=transcript:D915_05433
+D915DFT_Contig1046	WormBase_imported	exon	135993	136004	.	+	.	ID=exon:D915_05433.6;Parent=transcript:D915_05433
+D915DFT_Contig1046	WormBase_imported	exon	144726	144746	.	+	.	ID=exon:D915_05433.7;Parent=transcript:D915_05433
+D915DFT_Contig1046	WormBase_imported	exon	154296	154331	.	+	.	ID=exon:D915_05433.8;Parent=transcript:D915_05433
+D915DFT_Contig1046	WormBase_imported	exon	171842	172072	.	+	.	ID=exon:D915_05433.9;Parent=transcript:D915_05433
+D915DFT_Contig1046	WormBase_imported	exon	179109	179156	.	+	.	ID=exon:D915_05433.10;Parent=transcript:D915_05433
+D915DFT_Contig1046	WormBase_imported	CDS	19295	19549	.	+	0	ID=cds:D915_05433;Parent=transcript:D915_05433
+D915DFT_Contig1046	WormBase_imported	CDS	48049	48063	.	+	0	ID=cds:D915_05433;Parent=transcript:D915_05433
+D915DFT_Contig1046	WormBase_imported	CDS	52288	52323	.	+	0	ID=cds:D915_05433;Parent=transcript:D915_05433
+D915DFT_Contig1046	WormBase_imported	CDS	86899	86955	.	+	0	ID=cds:D915_05433;Parent=transcript:D915_05433
+D915DFT_Contig1046	WormBase_imported	CDS	127389	127409	.	+	0	ID=cds:D915_05433;Parent=transcript:D915_05433
+D915DFT_Contig1046	WormBase_imported	CDS	135993	136004	.	+	0	ID=cds:D915_05433;Parent=transcript:D915_05433
+D915DFT_Contig1046	WormBase_imported	CDS	144726	144746	.	+	0	ID=cds:D915_05433;Parent=transcript:D915_05433
+D915DFT_Contig1046	WormBase_imported	CDS	154296	154331	.	+	0	ID=cds:D915_05433;Parent=transcript:D915_05433
+D915DFT_Contig1046	WormBase_imported	CDS	171842	172072	.	+	0	ID=cds:D915_05433;Parent=transcript:D915_05433
+D915DFT_Contig1046	WormBase_imported	CDS	179109	179156	.	+	0	ID=cds:D915_05433;Parent=transcript:D915_05433
+D915DFT_Contig1046	cmscan_rfam_12.2	nucleotide_match	9764	9863	40.1	-	.	ID=cmscan_rfam_12.2.2410;Name=mir-208;Target=mir-208 1 80;Gap=M33 D35 I15 M32 
+D915DFT_Contig1046	cmscan_rfam_12.2	nucleotide_match	106119	106191	35.5	-	.	ID=cmscan_rfam_12.2.2411;Name=tRNA;Target=tRNA 1 71;Gap=M16 I M29 I M26 
+D915DFT_Contig1046	RepeatMasker	repeat_region	879	1006	1089	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	998	1115	975	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	1115	1359	1944	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	1371	1682	2443	-	.	Name=rnd-1_family-773;repeat_class=LINE/Penelope
+D915DFT_Contig1046	RepeatMasker	repeat_region	1685	1938	1825	-	.	Name=rnd-5_family-1001;repeat_class=LINE/Penelope
+D915DFT_Contig1046	RepeatMasker	repeat_region	1942	2027	537	-	.	Name=rnd-1_family-803;repeat_class=LINE/Penelope
+D915DFT_Contig1046	tandem	tandem_repeat	3849	3890	56	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	3849	3890	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	4907	5215	610	-	.	Name=rnd-1_family-21;repeat_class=LINE/RTE-BovB
+D915DFT_Contig1046	RepeatMasker	repeat_region	5286	5417	455	+	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	6202	6281	267	-	.	Name=rnd-4_family-33;repeat_class=LTR
+D915DFT_Contig1046	dust	low_complexity_region	7093	7099	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	7540	7718	1192	+	.	Name=rnd-1_family-132;repeat_class=LINE/Penelope
+D915DFT_Contig1046	RepeatMasker	repeat_region	7716	7938	1377	+	.	Name=rnd-1_family-132;repeat_class=LINE/Penelope
+D915DFT_Contig1046	dust	low_complexity_region	7942	8041	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	8120	8298	1178	+	.	Name=rnd-1_family-132;repeat_class=LINE/Penelope
+D915DFT_Contig1046	RepeatMasker	repeat_region	8303	9308	4310	-	.	Name=rnd-1_family-219;repeat_class=LINE/Penelope
+D915DFT_Contig1046	RepeatMasker	repeat_region	9302	9398	358	+	.	Name=rnd-6_family-622;repeat_class=LINE/Penelope
+D915DFT_Contig1046	dust	low_complexity_region	9876	10020	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	10031	10042	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	11418	11796	1398	+	.	Name=rnd-3_family-207;repeat_class=LINE/Penelope
+D915DFT_Contig1046	dust	low_complexity_region	11797	11896	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	12892	12907	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	13361	13372	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	13445	14660	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	14881	15435	1388	+	.	Name=rnd-3_family-207;repeat_class=LINE/Penelope
+D915DFT_Contig1046	RepeatMasker	repeat_region	17284	17374	233	-	.	Name=rnd-1_family-21;repeat_class=LINE/RTE-BovB
+D915DFT_Contig1046	RepeatMasker	repeat_region	17453	17994	583	-	.	Name=rnd-1_family-342;repeat_class=LINE/RTE-BovB
+D915DFT_Contig1046	RepeatMasker	repeat_region	17996	18104	451	+	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	18014	18707	2786	-	.	Name=rnd-4_family-957;repeat_class=LINE/Penelope
+D915DFT_Contig1046	RepeatMasker	repeat_region	18704	18974	619	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	20342	20503	692	+	.	Name=rnd-6_family-3868;repeat_class=LTR/Gypsy
+D915DFT_Contig1046	dust	low_complexity_region	20355	20361	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	20504	20650	1673	+	.	
+D915DFT_Contig1046	tandem	tandem_repeat	20522	20541	40	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	24074	24090	255	+	.	Name=rnd-1_family-317;repeat_class=Simple_repeat
+D915DFT_Contig1046	RepeatMasker	repeat_region	24091	24156	261	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	24157	24176	255	+	.	Name=rnd-1_family-317;repeat_class=Simple_repeat
+D915DFT_Contig1046	RepeatMasker	repeat_region	24468	24801	563	+	.	Name=rnd-5_family-358;repeat_class=LINE/Penelope
+D915DFT_Contig1046	RepeatMasker	repeat_region	24891	25058	624	+	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	25312	25480	251	+	.	Name=rnd-1_family-270;repeat_class=LINE/Penelope
+D915DFT_Contig1046	RepeatMasker	repeat_region	25354	25459	325	-	.	Name=rnd-1_family-830;repeat_class=LINE/Penelope
+D915DFT_Contig1046	RepeatMasker	repeat_region	25983	26514	1222	+	.	Name=rnd-1_family-303;repeat_class=LINE/Penelope
+D915DFT_Contig1046	dust	low_complexity_region	26188	26194	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	26419	26561	608	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	26571	26667	354	+	.	Name=rnd-1_family-317;repeat_class=Simple_repeat
+D915DFT_Contig1046	RepeatMasker	repeat_region	26680	26715	273	+	.	Name=rnd-4_family-156;repeat_class=DNA/TcMar-Tc1
+D915DFT_Contig1046	RepeatMasker	repeat_region	26716	26774	274	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	26775	26825	273	+	.	Name=rnd-4_family-156;repeat_class=DNA/TcMar-Tc1
+D915DFT_Contig1046	RepeatMasker	repeat_region	26855	27535	1531	-	.	Name=rnd-1_family-122;repeat_class=LINE/CR1
+D915DFT_Contig1046	RepeatMasker	repeat_region	27565	27852	572	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	27678	27881	633	+	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	27886	28039	342	-	.	Name=rnd-1_family-122;repeat_class=LINE/CR1
+D915DFT_Contig1046	RepeatMasker	repeat_region	28078	28163	324	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	28090	28168	487	+	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	28181	28537	606	-	.	Name=rnd-1_family-122;repeat_class=LINE/CR1
+D915DFT_Contig1046	RepeatMasker	repeat_region	29045	29752	2310	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	29283	29292	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	29765	30176	1095	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	30216	30546	1082	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	30544	31220	2345	+	.	Name=rnd-1_family-499;repeat_class=LINE/CR1
+D915DFT_Contig1046	RepeatMasker	repeat_region	31225	31650	1634	-	.	Name=rnd-4_family-597;repeat_class=LINE
+D915DFT_Contig1046	RepeatMasker	repeat_region	31957	32033	673	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	32034	32060	240	+	.	
+D915DFT_Contig1046	dust	low_complexity_region	34580	34586	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	34600	34739	271	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	34771	34888	257	-	.	Name=rnd-5_family-383;repeat_class=DNA/En-Spm
+D915DFT_Contig1046	RepeatMasker	repeat_region	34816	34889	265	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	34911	34930	414	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	34931	35129	1236	+	.	Name=rnd-1_family-84;repeat_class=DNA/hAT-hATm
+D915DFT_Contig1046	dust	low_complexity_region	36295	36301	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	36320	36810	1489	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	38300	38307	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	39696	39702	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	40089	40095	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	40338	40352	.	-	.	
+D915DFT_Contig1046	tandem	tandem_repeat	41496	41531	72	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	41496	41531	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	42058	42406	505	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	42086	42191	578	+	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	42194	42369	987	+	.	
+D915DFT_Contig1046	dust	low_complexity_region	42568	42575	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	43973	44148	267	+	.	Name=rnd-4_family-667;repeat_class=Satellite
+D915DFT_Contig1046	RepeatMasker	repeat_region	44676	44811	257	+	.	Name=rnd-3_family-207;repeat_class=LINE/Penelope
+D915DFT_Contig1046	RepeatMasker	repeat_region	49626	49817	589	+	.	
+D915DFT_Contig1046	tandem	tandem_repeat	49860	49951	184	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	49860	49951	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	51384	51390	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	51484	51490	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	52132	52141	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	53293	53483	380	+	.	Name=rnd-4_family-667;repeat_class=Satellite
+D915DFT_Contig1046	RepeatMasker	repeat_region	53611	53773	330	-	.	Name=rnd-4_family-667;repeat_class=Satellite
+D915DFT_Contig1046	dust	low_complexity_region	56004	56011	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	56772	56786	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	57093	57338	350	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	57094	57100	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	57335	57341	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	57643	58430	1157	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	58693	59110	444	-	.	Name=rnd-1_family-97;repeat_class=LTR/Gypsy
+D915DFT_Contig1046	RepeatMasker	repeat_region	59179	60221	1347	-	.	Name=rnd-1_family-159;repeat_class=LTR/Gypsy
+D915DFT_Contig1046	dust	low_complexity_region	59375	59393	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	60210	60656	387	-	.	Name=rnd-1_family-97;repeat_class=LTR/Gypsy
+D915DFT_Contig1046	RepeatMasker	repeat_region	60662	61322	1146	-	.	Name=rnd-1_family-159;repeat_class=LTR/Gypsy
+D915DFT_Contig1046	RepeatMasker	repeat_region	62010	62994	2490	-	.	Name=rnd-1_family-241;repeat_class=LINE/CR1
+D915DFT_Contig1046	dust	low_complexity_region	62285	62291	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	63001	63064	309	+	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	63034	63785	3461	-	.	Name=rnd-1_family-370;repeat_class=LINE/Rex-Babar
+D915DFT_Contig1046	RepeatMasker	repeat_region	63822	63949	373	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	63963	64133	538	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	64772	64844	235	-	.	Name=rnd-1_family-97;repeat_class=LTR/Gypsy
+D915DFT_Contig1046	dust	low_complexity_region	65262	65268	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	65710	65731	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	66472	66479	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	68049	68063	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	68142	68296	630	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	68373	68379	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	68690	68696	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	69320	69326	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	70075	70203	250	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	73782	76030	11932	-	.	Name=rnd-4_family-17;repeat_class=LINE/RTE-BovB
+D915DFT_Contig1046	dust	low_complexity_region	75338	75344	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	76029	77255	5604	-	.	Name=rnd-1_family-3;repeat_class=LINE/RTE-BovB
+D915DFT_Contig1046	RepeatMasker	repeat_region	78048	78405	2084	+	.	Name=rnd-5_family-1176;repeat_class=LINE/Rex-Babar
+D915DFT_Contig1046	RepeatMasker	repeat_region	78410	79858	6080	+	.	Name=rnd-5_family-1176;repeat_class=LINE/Rex-Babar
+D915DFT_Contig1046	RepeatMasker	repeat_region	79866	80132	350	+	.	Name=rnd-1_family-444;repeat_class=LINE/CR1
+D915DFT_Contig1046	RepeatMasker	repeat_region	80145	80715	1847	+	.	Name=rnd-5_family-1026;repeat_class=LINE
+D915DFT_Contig1046	RepeatMasker	repeat_region	80717	80834	380	+	.	Name=rnd-5_family-1026;repeat_class=LINE
+D915DFT_Contig1046	RepeatMasker	repeat_region	80846	80913	276	+	.	Name=rnd-4_family-465;repeat_class=LINE/Penelope
+D915DFT_Contig1046	RepeatMasker	repeat_region	80939	81671	3431	+	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	81176	81868	1021	+	.	Name=rnd-5_family-383;repeat_class=DNA/En-Spm
+D915DFT_Contig1046	tandem	tandem_repeat	81418	81461	74	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	81418	81476	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	81556	81570	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	82055	82160	228	+	.	Name=rnd-4_family-465;repeat_class=LINE/Penelope
+D915DFT_Contig1046	RepeatMasker	repeat_region	82691	82988	1223	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	83248	84226	1766	+	.	Name=rnd-4_family-252;repeat_class=DNA/TcMar-ISRm11
+D915DFT_Contig1046	RepeatMasker	repeat_region	85205	85501	1584	+	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	85582	85743	444	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	85584	85722	446	+	.	
+D915DFT_Contig1046	dust	low_complexity_region	86100	86107	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	86256	86262	.	-	.	
+D915DFT_Contig1046	tandem	tandem_repeat	87307	87337	41	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	87307	87333	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	87923	87987	276	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	87942	88060	799	+	.	Name=rnd-4_family-957;repeat_class=LINE/Penelope
+D915DFT_Contig1046	RepeatMasker	repeat_region	88743	88838	322	-	.	Name=rnd-6_family-98;repeat_class=LINE/R1
+D915DFT_Contig1046	tandem	tandem_repeat	88757	88838	164	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	88757	89131	.	-	.	
+D915DFT_Contig1046	tandem	tandem_repeat	88939	89107	261	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	89347	89353	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	90180	90187	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	92073	92216	630	-	.	Name=rnd-3_family-97;repeat_class=SINE/tRNA-Lys
+D915DFT_Contig1046	RepeatMasker	repeat_region	93226	93415	320	+	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	93582	93728	288	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	94771	94779	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	95678	96384	434	-	.	Name=rnd-6_family-8;repeat_class=LINE/RTE-BovB
+D915DFT_Contig1046	RepeatMasker	repeat_region	97694	99973	11058	+	.	Name=rnd-4_family-17;repeat_class=LINE/RTE-BovB
+D915DFT_Contig1046	RepeatMasker	repeat_region	99965	101130	5385	+	.	Name=rnd-4_family-17;repeat_class=LINE/RTE-BovB
+D915DFT_Contig1046	dust	low_complexity_region	101330	101336	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	101894	101943	275	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	102018	102110	415	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	102119	102208	319	+	.	
+D915DFT_Contig1046	dust	low_complexity_region	102478	102484	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	103936	104230	955	+	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	106018	106114	415	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	106112	106573	1835	-	.	Name=rnd-6_family-2333;repeat_class=SINE?
+D915DFT_Contig1046	RepeatMasker	repeat_region	106569	106954	1443	+	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	107462	107596	729	+	.	Name=rnd-1_family-18;repeat_class=SINE/tRNA
+D915DFT_Contig1046	dust	low_complexity_region	107712	107718	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	108342	108460	307	+	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	108463	109266	2158	+	.	Name=rnd-4_family-465;repeat_class=LINE/Penelope
+D915DFT_Contig1046	RepeatMasker	repeat_region	109274	109351	336	+	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	109352	109651	284	+	.	Name=rnd-1_family-270;repeat_class=LINE/Penelope
+D915DFT_Contig1046	RepeatMasker	repeat_region	109735	109921	791	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	110498	110598	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	111141	111269	573	+	.	
+D915DFT_Contig1046	tandem	tandem_repeat	111246	111280	56	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	111662	112018	806	-	.	Name=rnd-5_family-40;repeat_class=LTR/Gypsy
+D915DFT_Contig1046	dust	low_complexity_region	112575	112581	.	-	.	
+D915DFT_Contig1046	tandem	tandem_repeat	114050	114072	46	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	114050	114072	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	114366	114374	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	114733	114805	.	-	.	
+D915DFT_Contig1046	tandem	tandem_repeat	114745	114805	101	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	115042	115345	1016	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	115742	115760	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	115951	115957	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	116940	117026	351	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	117025	117254	497	-	.	Name=rnd-1_family-375;repeat_class=DNA/TcMar-ISRm11
+D915DFT_Contig1046	RepeatMasker	repeat_region	117259	117815	1489	-	.	Name=rnd-1_family-464;repeat_class=DNA/TcMar-ISRm11
+D915DFT_Contig1046	RepeatMasker	repeat_region	117572	118203	1586	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	118060	118066	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	118175	118346	375	+	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	121107	121235	545	+	.	
+D915DFT_Contig1046	tandem	tandem_repeat	121212	121246	56	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	121628	121984	805	-	.	Name=rnd-5_family-40;repeat_class=LTR/Gypsy
+D915DFT_Contig1046	dust	low_complexity_region	122541	122547	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	124008	124059	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	124185	124479	1807	+	.	Name=rnd-1_family-12;repeat_class=Satellite
+D915DFT_Contig1046	dust	low_complexity_region	127078	127087	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	127592	127599	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	128582	128588	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	129277	129283	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	131041	131173	489	+	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	132078	135614	14982	-	.	Name=rnd-5_family-974;repeat_class=LINE/RTE-BovB
+D915DFT_Contig1046	dust	low_complexity_region	136068	136074	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	136136	136278	370	+	.	
+D915DFT_Contig1046	dust	low_complexity_region	137274	137280	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	137615	137829	847	+	.	Name=rnd-1_family-73;repeat_class=DNA/hAT-hATm
+D915DFT_Contig1046	dust	low_complexity_region	138609	138623	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	138871	139032	418	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	139044	139234	718	-	.	Name=rnd-5_family-758;repeat_class=Satellite
+D915DFT_Contig1046	dust	low_complexity_region	139658	139664	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	140061	140072	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	140452	140458	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	142616	143322	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	143347	143480	354	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	143978	143985	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	144355	144361	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	144381	144501	232	-	.	Name=rnd-4_family-667;repeat_class=Satellite
+D915DFT_Contig1046	dust	low_complexity_region	145426	145448	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	145664	145758	425	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	145677	145875	589	+	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	145873	146657	2014	+	.	Name=rnd-3_family-207;repeat_class=LINE/Penelope
+D915DFT_Contig1046	RepeatMasker	repeat_region	147028	147446	710	-	.	Name=rnd-1_family-31;repeat_class=LINE/RTE-BovB
+D915DFT_Contig1046	dust	low_complexity_region	147183	147189	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	147479	147873	441	-	.	Name=rnd-1_family-32;repeat_class=LINE/RTE
+D915DFT_Contig1046	RepeatMasker	repeat_region	149584	149649	231	+	.	Name=rnd-1_family-317;repeat_class=Simple_repeat
+D915DFT_Contig1046	RepeatMasker	repeat_region	149724	150317	1316	-	.	Name=rnd-1_family-342;repeat_class=LINE/RTE-BovB
+D915DFT_Contig1046	RepeatMasker	repeat_region	149906	150414	1306	-	.	Name=rnd-1_family-59;repeat_class=LINE/RTE
+D915DFT_Contig1046	RepeatMasker	repeat_region	150408	151771	2818	-	.	Name=rnd-1_family-342;repeat_class=LINE/RTE-BovB
+D915DFT_Contig1046	RepeatMasker	repeat_region	151778	152073	425	-	.	Name=rnd-1_family-231;repeat_class=LINE/RTE-BovB
+D915DFT_Contig1046	RepeatMasker	repeat_region	151941	152420	401	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	152098	152270	384	-	.	Name=rnd-1_family-43;repeat_class=SINE
+D915DFT_Contig1046	RepeatMasker	repeat_region	152271	152363	427	+	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	152364	152710	384	-	.	Name=rnd-1_family-43;repeat_class=SINE
+D915DFT_Contig1046	RepeatMasker	repeat_region	152609	152753	623	-	.	Name=rnd-1_family-148;repeat_class=LINE/RTE-BovB
+D915DFT_Contig1046	RepeatMasker	repeat_region	152831	153130	1045	-	.	Name=rnd-1_family-220;repeat_class=SINE
+D915DFT_Contig1046	RepeatMasker	repeat_region	153344	153737	1357	+	.	Name=rnd-1_family-132;repeat_class=LINE/Penelope
+D915DFT_Contig1046	dust	low_complexity_region	153734	153751	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	153753	154111	1397	-	.	Name=rnd-1_family-219;repeat_class=LINE/Penelope
+D915DFT_Contig1046	dust	low_complexity_region	154550	154556	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	155480	155776	330	-	.	Name=rnd-4_family-567;repeat_class=LTR/Gypsy
+D915DFT_Contig1046	RepeatMasker	repeat_region	156735	156963	271	-	.	Name=rnd-1_family-22;repeat_class=LTR/Pao
+D915DFT_Contig1046	RepeatMasker	repeat_region	157325	157462	460	+	.	Name=rnd-2_family-91;repeat_class=SINE/tRNA
+D915DFT_Contig1046	RepeatMasker	repeat_region	158802	158999	776	+	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	158865	159032	1025	+	.	Name=rnd-1_family-303;repeat_class=LINE/Penelope
+D915DFT_Contig1046	dust	low_complexity_region	159034	160933	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	160934	161019	611	+	.	Name=rnd-1_family-317;repeat_class=Simple_repeat
+D915DFT_Contig1046	RepeatMasker	repeat_region	161715	161848	237	+	.	Name=rnd-3_family-97;repeat_class=SINE/tRNA-Lys
+D915DFT_Contig1046	dust	low_complexity_region	162356	162362	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	164385	164561	662	+	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	164574	164644	253	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	164679	164854	834	+	.	Name=rnd-6_family-554;repeat_class=SINE
+D915DFT_Contig1046	RepeatMasker	repeat_region	164862	164968	242	+	.	
+D915DFT_Contig1046	dust	low_complexity_region	166892	166898	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	169349	169355	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	169524	169530	.	-	.	
+D915DFT_Contig1046	tandem	tandem_repeat	170050	170097	96	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	170050	170097	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	170091	170380	414	-	.	Name=rnd-1_family-170;repeat_class=LINE/CR1
+D915DFT_Contig1046	RepeatMasker	repeat_region	170498	170688	283	-	.	Name=rnd-1_family-301;repeat_class=LINE/CR1
+D915DFT_Contig1046	RepeatMasker	repeat_region	171873	172986	1996	-	.	Name=rnd-5_family-129;repeat_class=LINE/CR1
+D915DFT_Contig1046	dust	low_complexity_region	172676	172687	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	173441	174223	2169	+	.	Name=rnd-2_family-75;repeat_class=LINE/RTE-BovB
+D915DFT_Contig1046	dust	low_complexity_region	177222	177228	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	179349	179355	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	180538	180591	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	180979	181287	1738	+	.	
+D915DFT_Contig1046	dust	low_complexity_region	185108	185114	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	186160	186211	281	+	.	
+D915DFT_Contig1046	dust	low_complexity_region	186932	186938	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	187762	187936	381	+	.	Name=rnd-1_family-376;repeat_class=LINE
+D915DFT_Contig1046	RepeatMasker	repeat_region	187917	188055	234	-	.	Name=rnd-5_family-1136;repeat_class=LINE
+D915DFT_Contig1046	RepeatMasker	repeat_region	188100	188385	906	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	188408	188726	1193	+	.	Name=rnd-1_family-443;repeat_class=LINE/Rex-Babar
+D915DFT_Contig1046	RepeatMasker	repeat_region	188739	188792	271	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	188805	189073	609	+	.	Name=rnd-1_family-627;repeat_class=LINE
+D915DFT_Contig1046	dust	low_complexity_region	188869	188876	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	188898	189436	1522	+	.	Name=rnd-1_family-565;repeat_class=LINE/Rex-Babar
+D915DFT_Contig1046	dust	low_complexity_region	188979	188987	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	189487	189679	826	+	.	Name=rnd-5_family-278;repeat_class=LINE/Rex-Babar
+D915DFT_Contig1046	dust	low_complexity_region	190043	190049	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	190075	190179	353	+	.	Name=rnd-3_family-107;repeat_class=LINE/RTE-BovB
+D915DFT_Contig1046	RepeatMasker	repeat_region	190701	190913	453	+	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	190780	191492	1265	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	194038	194310	726	+	.	Name=rnd-2_family-61;repeat_class=LTR
+D915DFT_Contig1046	RepeatMasker	repeat_region	194307	194385	274	-	.	Name=rnd-3_family-131;repeat_class=LTR
+D915DFT_Contig1046	tandem	tandem_repeat	194538	194562	50	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	194538	194562	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	195588	195688	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	196472	197530	1286	+	.	Name=rnd-5_family-778;repeat_class=LINE/RTE-BovB
+D915DFT_Contig1046	dust	low_complexity_region	199130	199136	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	200955	200961	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	203497	203508	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	203926	203932	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	204296	204303	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	204888	204902	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	205537	205544	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	205567	205574	.	-	.	
+D915DFT_Contig1046	tandem	tandem_repeat	205931	205951	42	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	206626	206709	364	+	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	206754	207465	4586	+	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	208457	208851	453	-	.	Name=rnd-1_family-236;repeat_class=LINE/CR1
+D915DFT_Contig1046	RepeatMasker	repeat_region	208464	208630	604	+	.	Name=rnd-5_family-1488;repeat_class=LINE/CR1
+D915DFT_Contig1046	dust	low_complexity_region	208961	208967	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	209191	209197	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	209539	209740	845	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	209795	210005	416	-	.	Name=rnd-4_family-667;repeat_class=Satellite
+D915DFT_Contig1046	dust	low_complexity_region	210056	210062	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	214055	214061	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	214506	214512	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	216061	216337	608	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	216332	216668	1449	-	.	Name=rnd-5_family-1996;repeat_class=LINE/Rex-Babar
+D915DFT_Contig1046	RepeatMasker	repeat_region	216984	217230	458	+	.	Name=rnd-4_family-667;repeat_class=Satellite
+D915DFT_Contig1046	RepeatMasker	repeat_region	217407	217489	277	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	217562	217624	250	+	.	
+D915DFT_Contig1046	tandem	tandem_repeat	217664	217696	52	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	218032	218105	486	+	.	Name=rnd-1_family-84;repeat_class=DNA/hAT-hATm
+D915DFT_Contig1046	RepeatMasker	repeat_region	218884	218947	240	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	219075	219291	424	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	219494	219558	267	+	.	Name=rnd-1_family-240;repeat_class=LTR/Gypsy
+D915DFT_Contig1046	RepeatMasker	repeat_region	219886	220122	806	-	.	Name=rnd-6_family-43;repeat_class=DNA/TcMar-Pogo
+D915DFT_Contig1046	RepeatMasker	repeat_region	220153	221384	2368	-	.	Name=rnd-6_family-993;repeat_class=DNA
+D915DFT_Contig1046	RepeatMasker	repeat_region	221380	221567	654	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	221626	221895	693	+	.	
+D915DFT_Contig1046	dust	low_complexity_region	221868	221874	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	222125	222131	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	222195	223450	3486	-	.	Name=rnd-5_family-282;repeat_class=LINE/Rex-Babar
+D915DFT_Contig1046	dust	low_complexity_region	223749	223755	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	224160	224166	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	224202	224214	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	224840	225264	755	+	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	225291	225627	542	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	227135	227216	521	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	227217	228835	3292	+	.	Name=rnd-1_family-159;repeat_class=LTR/Gypsy
+D915DFT_Contig1046	RepeatMasker	repeat_region	228821	229291	1397	+	.	Name=rnd-1_family-159;repeat_class=LTR/Gypsy
+D915DFT_Contig1046	RepeatMasker	repeat_region	229357	229471	335	+	.	Name=rnd-1_family-159;repeat_class=LTR/Gypsy
+D915DFT_Contig1046	RepeatMasker	repeat_region	229469	230649	2617	+	.	Name=rnd-1_family-97;repeat_class=LTR/Gypsy
+D915DFT_Contig1046	dust	low_complexity_region	229595	229601	.	-	.	
+D915DFT_Contig1046	dust	low_complexity_region	230572	230578	.	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	230693	231054	1011	-	.	
+D915DFT_Contig1046	RepeatMasker	repeat_region	231072	231160	245	+	.	Name=rnd-1_family-374;repeat_class=LINE/RTE-BovB
+D915DFT_Contig3273	WormBase_imported	gene	10087	35415	.	+	.	ID=gene:D915_11374;Name=D915_11374;biotype=protein_coding
+D915DFT_Contig3273	WormBase_imported	mRNA	10087	35415	.	+	.	ID=transcript:D915_11374;Parent=gene:D915_11374;Name=D915_11374
+D915DFT_Contig3273	WormBase_imported	exon	10087	10116	.	+	.	ID=exon:D915_11374.1;Parent=transcript:D915_11374
+D915DFT_Contig3273	WormBase_imported	exon	15748	15777	.	+	.	ID=exon:D915_11374.2;Parent=transcript:D915_11374
+D915DFT_Contig3273	WormBase_imported	exon	24563	24592	.	+	.	ID=exon:D915_11374.3;Parent=transcript:D915_11374
+D915DFT_Contig3273	WormBase_imported	exon	26513	26542	.	+	.	ID=exon:D915_11374.4;Parent=transcript:D915_11374
+D915DFT_Contig3273	WormBase_imported	exon	26718	26744	.	+	.	ID=exon:D915_11374.5;Parent=transcript:D915_11374
+D915DFT_Contig3273	WormBase_imported	exon	29270	29299	.	+	.	ID=exon:D915_11374.6;Parent=transcript:D915_11374
+D915DFT_Contig3273	WormBase_imported	exon	35389	35415	.	+	.	ID=exon:D915_11374.7;Parent=transcript:D915_11374
+D915DFT_Contig3273	WormBase_imported	CDS	10087	10116	.	+	0	ID=cds:D915_11374;Parent=transcript:D915_11374
+D915DFT_Contig3273	WormBase_imported	CDS	15748	15777	.	+	0	ID=cds:D915_11374;Parent=transcript:D915_11374
+D915DFT_Contig3273	WormBase_imported	CDS	24563	24592	.	+	0	ID=cds:D915_11374;Parent=transcript:D915_11374
+D915DFT_Contig3273	WormBase_imported	CDS	26513	26542	.	+	0	ID=cds:D915_11374;Parent=transcript:D915_11374
+D915DFT_Contig3273	WormBase_imported	CDS	26718	26744	.	+	0	ID=cds:D915_11374;Parent=transcript:D915_11374
+D915DFT_Contig3273	WormBase_imported	CDS	29270	29299	.	+	0	ID=cds:D915_11374;Parent=transcript:D915_11374
+D915DFT_Contig3273	WormBase_imported	CDS	35389	35415	.	+	0	ID=cds:D915_11374;Parent=transcript:D915_11374
+D915DFT_Contig3273	cmscan_rfam_12.2	nucleotide_match	56632	56704	30.2	+	.	ID=cmscan_rfam_12.2.2997;Name=Hammerhead_HH9;Target=Hammerhead_HH9 1 77;Gap=M8 I M37 D5 M27 
+D915DFT_Contig3273	RepeatMasker	repeat_region	194	311	496	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	309	1843	5862	-	.	Name=rnd-5_family-933;repeat_class=LTR/Gypsy
+D915DFT_Contig3273	RepeatMasker	repeat_region	1832	2750	5530	-	.	Name=rnd-1_family-163;repeat_class=LINE/CR1
+D915DFT_Contig3273	RepeatMasker	repeat_region	2342	3648	4280	-	.	Name=rnd-1_family-200;repeat_class=LINE/Rex-Babar
+D915DFT_Contig3273	dust	low_complexity_region	2956	2962	.	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	3373	4455	6313	+	.	Name=rnd-1_family-226;repeat_class=LINE/Rex-Babar
+D915DFT_Contig3273	dust	low_complexity_region	3485	3492	.	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	4160	4780	3670	-	.	Name=rnd-1_family-307;repeat_class=LINE/Rex-Babar
+D915DFT_Contig3273	RepeatMasker	repeat_region	4807	7016	9727	-	.	Name=rnd-5_family-933;repeat_class=LTR/Gypsy
+D915DFT_Contig3273	RepeatMasker	repeat_region	7016	7266	1028	-	.	
+D915DFT_Contig3273	dust	low_complexity_region	7239	7250	.	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	7418	7476	297	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	7428	7642	1104	+	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	7646	7828	919	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	7719	7986	1314	+	.	
+D915DFT_Contig3273	dust	low_complexity_region	11019	11026	.	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	11566	11657	608	+	.	Name=rnd-5_family-358;repeat_class=LINE/Penelope
+D915DFT_Contig3273	dust	low_complexity_region	11657	11757	.	-	.	
+D915DFT_Contig3273	dust	low_complexity_region	14300	14306	.	-	.	
+D915DFT_Contig3273	dust	low_complexity_region	14685	14784	.	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	14785	14837	373	+	.	Name=rnd-1_family-131;repeat_class=LINE/Penelope
+D915DFT_Contig3273	RepeatMasker	repeat_region	14818	14861	310	+	.	
+D915DFT_Contig3273	dust	low_complexity_region	15440	15446	.	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	16043	16191	411	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	16191	16316	336	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	16202	16337	319	+	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	16929	17041	346	-	.	
+D915DFT_Contig3273	dust	low_complexity_region	18144	23957	.	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	25268	25427	463	+	.	
+D915DFT_Contig3273	dust	low_complexity_region	27941	28040	.	-	.	
+D915DFT_Contig3273	dust	low_complexity_region	28305	28311	.	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	30033	30192	465	+	.	
+D915DFT_Contig3273	dust	low_complexity_region	31051	31150	.	-	.	
+D915DFT_Contig3273	dust	low_complexity_region	32652	35218	.	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	36718	36767	235	+	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	38765	38885	718	+	.	Name=rnd-5_family-778;repeat_class=LINE/RTE-BovB
+D915DFT_Contig3273	dust	low_complexity_region	38886	38985	.	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	40235	40716	2246	+	.	Name=rnd-2_family-74;repeat_class=LINE/RTE-BovB
+D915DFT_Contig3273	RepeatMasker	repeat_region	40284	40735	2520	+	.	Name=rnd-1_family-11;repeat_class=LINE/RTE
+D915DFT_Contig3273	tandem	tandem_repeat	40721	40769	91	-	.	
+D915DFT_Contig3273	dust	low_complexity_region	40721	40769	.	-	.	
+D915DFT_Contig3273	dust	low_complexity_region	40887	40893	.	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	40984	41279	1402	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	42390	42568	699	-	.	
+D915DFT_Contig3273	dust	low_complexity_region	42569	42668	.	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	42993	43309	1716	+	.	Name=rnd-1_family-376;repeat_class=LINE
+D915DFT_Contig3273	RepeatMasker	repeat_region	43286	43507	1100	-	.	Name=rnd-1_family-360;repeat_class=LINE/CR1
+D915DFT_Contig3273	RepeatMasker	repeat_region	43288	43552	974	-	.	Name=rnd-5_family-1136;repeat_class=LINE
+D915DFT_Contig3273	RepeatMasker	repeat_region	43548	43631	317	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	43653	44270	1067	+	.	Name=rnd-5_family-576;repeat_class=LINE/CR1
+D915DFT_Contig3273	dust	low_complexity_region	44106	44121	.	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	44128	44359	566	+	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	44361	44772	1008	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	44804	45282	2773	+	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	45350	45409	249	-	.	Name=rnd-4_family-442;repeat_class=DNA/TcMar-Tc1
+D915DFT_Contig3273	RepeatMasker	repeat_region	45441	45595	593	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	45495	45690	691	+	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	45598	45747	433	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	45786	45965	436	+	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	46043	46408	746	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	47054	47141	288	+	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	47169	47318	504	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	47281	47576	844	+	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	47597	47675	387	+	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	47700	47785	262	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	47789	47972	316	-	.	Name=rnd-5_family-1874;repeat_class=DNA/TcMar-Tc1
+D915DFT_Contig3273	RepeatMasker	repeat_region	47844	48007	897	+	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	47914	48248	1898	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	48258	48376	433	-	.	Name=rnd-3_family-94;repeat_class=DNA/TcMar-Tc2
+D915DFT_Contig3273	RepeatMasker	repeat_region	48494	48901	1577	+	.	Name=rnd-5_family-1178;repeat_class=DNA/TcMar-ISRm11
+D915DFT_Contig3273	RepeatMasker	repeat_region	48910	49029	270	-	.	Name=rnd-4_family-667;repeat_class=Satellite
+D915DFT_Contig3273	RepeatMasker	repeat_region	48982	50231	3046	+	.	Name=rnd-3_family-94;repeat_class=DNA/TcMar-Tc2
+D915DFT_Contig3273	dust	low_complexity_region	49469	49475	.	-	.	
+D915DFT_Contig3273	dust	low_complexity_region	49504	49510	.	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	50226	50931	2418	-	.	
+D915DFT_Contig3273	dust	low_complexity_region	50937	52076	.	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	52793	52948	614	+	.	
+D915DFT_Contig3273	dust	low_complexity_region	53420	53428	.	-	.	
+D915DFT_Contig3273	dust	low_complexity_region	53725	53731	.	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	53802	54114	1196	+	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	54494	54673	721	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	54671	55868	3513	+	.	Name=rnd-4_family-465;repeat_class=LINE/Penelope
+D915DFT_Contig3273	RepeatMasker	repeat_region	55806	55878	357	-	.	
+D915DFT_Contig3273	dust	low_complexity_region	55974	55980	.	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	56476	56751	1918	+	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	57451	57623	269	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	57476	57647	318	+	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	57677	57792	554	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	57790	57964	404	+	.	
+D915DFT_Contig3273	dust	low_complexity_region	60175	60226	.	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	60276	60352	436	+	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	61482	61575	225	-	.	Name=rnd-4_family-667;repeat_class=Satellite
+D915DFT_Contig3273	RepeatMasker	repeat_region	62101	62296	692	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	62110	62393	523	+	.	
+D915DFT_Contig3273	dust	low_complexity_region	63059	63087	.	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	63093	63209	471	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	63170	63214	232	+	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	63513	63828	1125	+	.	Name=rnd-1_family-376;repeat_class=LINE
+D915DFT_Contig3273	RepeatMasker	repeat_region	63816	65513	3173	-	.	Name=rnd-5_family-1136;repeat_class=LINE
+D915DFT_Contig3273	RepeatMasker	repeat_region	65349	65442	472	+	.	Name=rnd-1_family-226;repeat_class=LINE/Rex-Babar
+D915DFT_Contig3273	RepeatMasker	repeat_region	65443	65610	818	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	65611	65896	472	+	.	Name=rnd-1_family-226;repeat_class=LINE/Rex-Babar
+D915DFT_Contig3273	dust	low_complexity_region	65695	65701	.	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	65770	66213	1376	-	.	Name=rnd-1_family-348;repeat_class=LINE/Rex-Babar
+D915DFT_Contig3273	dust	low_complexity_region	65774	65780	.	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	66164	66228	272	+	.	
+D915DFT_Contig3273	dust	low_complexity_region	66364	66370	.	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	67592	67693	712	-	.	Name=rnd-6_family-306;repeat_class=Satellite
+D915DFT_Contig3273	RepeatMasker	repeat_region	67693	68094	3056	+	.	Name=rnd-1_family-12;repeat_class=Satellite
+D915DFT_Contig3273	RepeatMasker	repeat_region	68867	69094	871	+	.	
+D915DFT_Contig3273	dust	low_complexity_region	68898	68904	.	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	69486	69573	233	+	.	Name=rnd-1_family-105;repeat_class=LINE/Penelope
+D915DFT_Contig3273	RepeatMasker	repeat_region	69496	69579	273	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	69582	70467	4413	-	.	Name=rnd-1_family-226;repeat_class=LINE/Rex-Babar
+D915DFT_Contig3273	RepeatMasker	repeat_region	70194	71485	3494	+	.	Name=rnd-1_family-200;repeat_class=LINE/Rex-Babar
+D915DFT_Contig3273	RepeatMasker	repeat_region	71072	71956	3653	+	.	Name=rnd-1_family-163;repeat_class=LINE/CR1
+D915DFT_Contig3273	RepeatMasker	repeat_region	72026	72618	2594	-	.	
+D915DFT_Contig3273	dust	low_complexity_region	72634	72644	.	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	73654	73733	376	+	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	73796	73987	1168	-	.	Name=rnd-1_family-401;repeat_class=DNA/TcMar-Tc1
+D915DFT_Contig3273	RepeatMasker	repeat_region	73983	74073	490	-	.	
+D915DFT_Contig3273	dust	low_complexity_region	74079	74086	.	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	74081	74457	2055	-	.	Name=rnd-1_family-480;repeat_class=DNA/TcMar-Tc1
+D915DFT_Contig3273	RepeatMasker	repeat_region	74458	74656	1585	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	74660	74828	296	+	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	74697	74791	498	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	75204	75363	672	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	75788	77099	4164	+	.	Name=rnd-4_family-676;repeat_class=LINE/CR1
+D915DFT_Contig3273	RepeatMasker	repeat_region	77105	77483	1740	+	.	
+D915DFT_Contig3273	dust	low_complexity_region	77484	77583	.	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	77584	78206	2857	+	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	78209	79870	5495	+	.	Name=rnd-4_family-676;repeat_class=LINE/CR1
+D915DFT_Contig3273	dust	low_complexity_region	79545	79551	.	-	.	
+D915DFT_Contig3273	dust	low_complexity_region	79894	80450	.	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	80456	80753	1156	+	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	80756	82394	3048	+	.	Name=rnd-4_family-717;repeat_class=LINE/CR1
+D915DFT_Contig3273	dust	low_complexity_region	82647	83382	.	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	83753	83909	874	+	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	83820	83925	637	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	84853	84902	244	+	.	Name=rnd-6_family-63;repeat_class=LTR/Gypsy
+D915DFT_Contig3273	RepeatMasker	repeat_region	85364	85567	585	-	.	Name=rnd-4_family-667;repeat_class=Satellite
+D915DFT_Contig3273	RepeatMasker	repeat_region	85674	85739	275	-	.	Name=rnd-1_family-161;repeat_class=SINE/tRNA-Lys
+D915DFT_Contig3273	RepeatMasker	repeat_region	85741	85815	379	+	.	Name=rnd-3_family-97;repeat_class=SINE/tRNA-Lys
+D915DFT_Contig3273	RepeatMasker	repeat_region	85812	86155	1830	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	86162	86387	888	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	86380	86449	358	-	.	Name=rnd-1_family-149;repeat_class=LINE/Penelope
+D915DFT_Contig3273	RepeatMasker	repeat_region	86487	87032	2434	+	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	87047	87100	308	+	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	87079	87262	817	+	.	
+D915DFT_Contig3273	dust	low_complexity_region	87097	87103	.	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	87219	87481	1165	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	87443	87556	479	+	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	87549	87722	599	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	87721	87873	684	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	87882	88689	3081	-	.	
+D915DFT_Contig3273	dust	low_complexity_region	88019	88025	.	-	.	
+D915DFT_Contig3273	dust	low_complexity_region	88298	88305	.	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	88742	88797	484	+	.	
+D915DFT_Contig3273	dust	low_complexity_region	88798	88897	.	-	.	
+D915DFT_Contig3273	dust	low_complexity_region	88934	88941	.	-	.	
+D915DFT_Contig3273	dust	low_complexity_region	89961	89967	.	-	.	
+D915DFT_Contig3273	dust	low_complexity_region	90121	90220	.	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	90221	90292	618	+	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	90288	91080	2010	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	91086	91186	344	+	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	91101	91259	445	+	.	Name=rnd-3_family-97;repeat_class=SINE/tRNA-Lys
+D915DFT_Contig3273	RepeatMasker	repeat_region	91845	92130	1707	+	.	Name=rnd-1_family-429;repeat_class=LINE/CR1
+D915DFT_Contig3273	RepeatMasker	repeat_region	92134	92356	1063	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	92185	92421	1105	+	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	92414	95974	17528	-	.	Name=rnd-4_family-701;repeat_class=LINE/RTE-BovB
+D915DFT_Contig3273	RepeatMasker	repeat_region	96033	96290	563	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	96366	96496	261	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	96623	97304	2794	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	97774	98634	1823	+	.	Name=rnd-1_family-209;repeat_class=LTR/Gypsy
+D915DFT_Contig3273	RepeatMasker	repeat_region	98650	98793	962	+	.	Name=rnd-4_family-661;repeat_class=SINE/tRNA
+D915DFT_Contig3273	RepeatMasker	repeat_region	99097	99270	311	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	99606	99663	265	+	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	100045	100256	418	+	.	Name=rnd-5_family-542;repeat_class=LTR/Gypsy
+D915DFT_Contig3273	RepeatMasker	repeat_region	100795	101074	1270	-	.	Name=rnd-1_family-18;repeat_class=SINE/tRNA
+D915DFT_Contig3273	RepeatMasker	repeat_region	101128	101294	631	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	101146	101291	660	+	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	101299	101408	610	+	.	Name=rnd-4_family-661;repeat_class=SINE/tRNA
+D915DFT_Contig3273	RepeatMasker	repeat_region	101581	102389	3303	+	.	Name=rnd-6_family-210;repeat_class=LTR/Gypsy
+D915DFT_Contig3273	RepeatMasker	repeat_region	102385	102942	3489	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	102806	102994	1041	+	.	
+D915DFT_Contig3273	dust	low_complexity_region	103001	103012	.	-	.	
+D915DFT_Contig3273	dust	low_complexity_region	103014	103025	.	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	103025	103103	621	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	103108	103288	1449	+	.	
+D915DFT_Contig3273	dust	low_complexity_region	103288	103447	.	-	.	
+D915DFT_Contig3273	tandem	tandem_repeat	103389	103447	76	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	103446	103556	460	+	.	Name=rnd-6_family-210;repeat_class=LTR/Gypsy
+D915DFT_Contig3273	RepeatMasker	repeat_region	103734	104174	2234	+	.	Name=rnd-1_family-392;repeat_class=LINE/CR1
+D915DFT_Contig3273	RepeatMasker	repeat_region	104170	104700	2147	+	.	Name=rnd-6_family-482;repeat_class=LTR/Pao
+D915DFT_Contig3273	RepeatMasker	repeat_region	104698	105554	5872	+	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	105555	108127	12483	+	.	Name=rnd-1_family-126;repeat_class=LTR/Pao
+D915DFT_Contig3273	RepeatMasker	repeat_region	108140	108262	643	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	108271	108425	617	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	108424	108513	252	+	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	108522	108814	1133	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	108823	108976	636	-	.	Name=rnd-1_family-651;repeat_class=LINE/CR1
+D915DFT_Contig3273	RepeatMasker	repeat_region	109081	109863	4742	+	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	109864	111427	7173	+	.	Name=rnd-1_family-24;repeat_class=LTR/Pao
+D915DFT_Contig3273	dust	low_complexity_region	111051	111058	.	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	111423	111473	339	+	.	Name=rnd-1_family-41;repeat_class=SINE?
+D915DFT_Contig3273	RepeatMasker	repeat_region	111471	112660	6005	-	.	Name=rnd-1_family-13;repeat_class=LTR/Pao
+D915DFT_Contig3273	dust	low_complexity_region	112051	112060	.	-	.	
+D915DFT_Contig3273	RepeatMasker	repeat_region	112659	114562	10191	-	.	Name=rnd-1_family-24;repeat_class=LTR/Pao

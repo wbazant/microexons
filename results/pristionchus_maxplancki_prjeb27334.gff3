@@ -1,0 +1,14 @@
+scaffold761	WormBase_imported	gene	42794	46001	.	-	.	ID=gene:maxplancki-sn_msk-S761-0.21-mRNA-1;Name=maxplancki-sn_msk-S761-0.21-mRNA-1;biotype=protein_coding
+scaffold761	WormBase_imported	mRNA	42794	46001	.	-	.	ID=transcript:maxplancki-sn_msk-S761-0.21-mRNA-1;Parent=gene:maxplancki-sn_msk-S761-0.21-mRNA-1;Name=maxplancki-sn_msk-S761-0.21-mRNA-1
+scaffold761	WormBase_imported	exon	45997	46001	.	-	.	ID=exon:maxplancki-sn_msk-S761-0.21-mRNA-1.1;Parent=transcript:maxplancki-sn_msk-S761-0.21-mRNA-1
+scaffold761	WormBase_imported	exon	45664	45739	.	-	.	ID=exon:maxplancki-sn_msk-S761-0.21-mRNA-1.2;Parent=transcript:maxplancki-sn_msk-S761-0.21-mRNA-1
+scaffold761	WormBase_imported	exon	45025	45138	.	-	.	ID=exon:maxplancki-sn_msk-S761-0.21-mRNA-1.3;Parent=transcript:maxplancki-sn_msk-S761-0.21-mRNA-1
+scaffold761	WormBase_imported	exon	43200	43220	.	-	.	ID=exon:maxplancki-sn_msk-S761-0.21-mRNA-1.4;Parent=transcript:maxplancki-sn_msk-S761-0.21-mRNA-1
+scaffold761	WormBase_imported	exon	43107	43133	.	-	.	ID=exon:maxplancki-sn_msk-S761-0.21-mRNA-1.5;Parent=transcript:maxplancki-sn_msk-S761-0.21-mRNA-1
+scaffold761	WormBase_imported	exon	42794	42802	.	-	.	ID=exon:maxplancki-sn_msk-S761-0.21-mRNA-1.6;Parent=transcript:maxplancki-sn_msk-S761-0.21-mRNA-1
+scaffold761	WormBase_imported	CDS	45997	46001	.	-	0	ID=cds:maxplancki-sn_msk-S761-0.21-mRNA-1;Parent=transcript:maxplancki-sn_msk-S761-0.21-mRNA-1
+scaffold761	WormBase_imported	CDS	45664	45739	.	-	1	ID=cds:maxplancki-sn_msk-S761-0.21-mRNA-1;Parent=transcript:maxplancki-sn_msk-S761-0.21-mRNA-1
+scaffold761	WormBase_imported	CDS	45025	45138	.	-	0	ID=cds:maxplancki-sn_msk-S761-0.21-mRNA-1;Parent=transcript:maxplancki-sn_msk-S761-0.21-mRNA-1
+scaffold761	WormBase_imported	CDS	43200	43220	.	-	0	ID=cds:maxplancki-sn_msk-S761-0.21-mRNA-1;Parent=transcript:maxplancki-sn_msk-S761-0.21-mRNA-1
+scaffold761	WormBase_imported	CDS	43107	43133	.	-	0	ID=cds:maxplancki-sn_msk-S761-0.21-mRNA-1;Parent=transcript:maxplancki-sn_msk-S761-0.21-mRNA-1
+scaffold761	WormBase_imported	CDS	42794	42802	.	-	0	ID=cds:maxplancki-sn_msk-S761-0.21-mRNA-1;Parent=transcript:maxplancki-sn_msk-S761-0.21-mRNA-1

@@ -1,0 +1,45 @@
+D917DFT_Contig22110	WormBase_imported	gene	67	788	.	-	.	ID=gene:D917_07755;Name=D917_07755;biotype=protein_coding
+D917DFT_Contig22110	WormBase_imported	mRNA	67	788	.	-	.	ID=transcript:D917_07755;Parent=gene:D917_07755;Name=D917_07755
+D917DFT_Contig22110	WormBase_imported	exon	765	788	.	-	.	ID=exon:D917_07755.1;Parent=transcript:D917_07755
+D917DFT_Contig22110	WormBase_imported	exon	729	734	.	-	.	ID=exon:D917_07755.2;Parent=transcript:D917_07755
+D917DFT_Contig22110	WormBase_imported	exon	711	716	.	-	.	ID=exon:D917_07755.3;Parent=transcript:D917_07755
+D917DFT_Contig22110	WormBase_imported	exon	681	691	.	-	.	ID=exon:D917_07755.4;Parent=transcript:D917_07755
+D917DFT_Contig22110	WormBase_imported	exon	561	576	.	-	.	ID=exon:D917_07755.5;Parent=transcript:D917_07755
+D917DFT_Contig22110	WormBase_imported	exon	525	535	.	-	.	ID=exon:D917_07755.6;Parent=transcript:D917_07755
+D917DFT_Contig22110	WormBase_imported	exon	341	489	.	-	.	ID=exon:D917_07755.7;Parent=transcript:D917_07755
+D917DFT_Contig22110	WormBase_imported	exon	67	329	.	-	.	ID=exon:D917_07755.8;Parent=transcript:D917_07755
+D917DFT_Contig22110	WormBase_imported	CDS	765	788	.	-	0	ID=cds:D917_07755;Parent=transcript:D917_07755
+D917DFT_Contig22110	WormBase_imported	CDS	729	734	.	-	0	ID=cds:D917_07755;Parent=transcript:D917_07755
+D917DFT_Contig22110	WormBase_imported	CDS	711	716	.	-	0	ID=cds:D917_07755;Parent=transcript:D917_07755
+D917DFT_Contig22110	WormBase_imported	CDS	681	691	.	-	0	ID=cds:D917_07755;Parent=transcript:D917_07755
+D917DFT_Contig22110	WormBase_imported	CDS	561	576	.	-	1	ID=cds:D917_07755;Parent=transcript:D917_07755
+D917DFT_Contig22110	WormBase_imported	CDS	525	535	.	-	0	ID=cds:D917_07755;Parent=transcript:D917_07755
+D917DFT_Contig22110	WormBase_imported	CDS	341	489	.	-	1	ID=cds:D917_07755;Parent=transcript:D917_07755
+D917DFT_Contig22110	WormBase_imported	CDS	67	329	.	-	2	ID=cds:D917_07755;Parent=transcript:D917_07755
+D917DFT_Contig22110	dust	low_complexity_region	1	47	.	-	.	
+D917DFT_Contig22110	tandem	tandem_repeat	10	47	69	-	.	
+D917DFT_Contig22110	dust	low_complexity_region	450	510	.	-	.	
+D917DFT_Contig22110	dust	low_complexity_region	545	610	.	-	.	
+D917DFT_Contig22110	dust	low_complexity_region	689	757	.	-	.	
+D917DFT_Contig22110	dust	low_complexity_region	826	899	.	-	.	
+D917DFT_Contig24949	cmscan_rfam_12.2	nucleotide_match	1	911	750.8	+	.	ID=cmscan_rfam_12.2.8;Name=LSU_rRNA_eukarya;Target=LSU_rRNA_eukarya 2580 3401;Gap=M I2579 M2 D I21 M113 D M455 I2 D M I2 M8 I M84 D4 I69 M136 I M16 
+D917DFT_Contig24949	RepeatMasker	repeat_region	1	941	7060	+	.	Name=rnd-1_family-216;repeat_class=rRNA
+D917DFT_Contig24949	dust	low_complexity_region	932	939	.	-	.	
+D917DFT_Contig33863	RepeatMasker	repeat_region	1	90	760	+	.	
+D917DFT_Contig33863	RepeatMasker	repeat_region	88	152	392	-	.	Name=rnd-1_family-611;repeat_class=DNA/PiggyBac
+D917DFT_Contig33863	dust	low_complexity_region	117	124	.	-	.	
+D917DFT_Contig33863	RepeatMasker	repeat_region	153	847	6206	+	.	Name=rnd-1_family-208;repeat_class=DNA/PiggyBac
+D917DFT_Contig33863	dust	low_complexity_region	811	818	.	-	.	
+D917DFT_Contig1794	dust	low_complexity_region	198	204	.	-	.	
+D917DFT_Contig1794	RepeatMasker	repeat_region	298	342	273	-	.	
+D917DFT_Contig1794	RepeatMasker	repeat_region	340	495	334	+	.	
+D917DFT_Contig1794	dust	low_complexity_region	430	493	.	-	.	
+D917DFT_Contig1794	RepeatMasker	repeat_region	554	700	968	+	.	
+D917DFT_Contig1794	RepeatMasker	repeat_region	701	941	1197	-	.	
+D917DFT_Contig1794	dust	low_complexity_region	833	839	.	-	.	
+D917DFT_Contig22518	RepeatMasker	repeat_region	187	350	604	-	.	Name=rnd-1_family-452;repeat_class=LTR/Pao
+D917DFT_Contig22518	RepeatMasker	repeat_region	241	490	1865	+	.	
+D917DFT_Contig24769	dust	low_complexity_region	195	201	.	-	.	
+D917DFT_Contig24769	dust	low_complexity_region	244	302	.	-	.	
+D917DFT_Contig24769	dust	low_complexity_region	649	733	.	-	.	
+D917DFT_Contig24769	dust	low_complexity_region	878	941	.	-	.	

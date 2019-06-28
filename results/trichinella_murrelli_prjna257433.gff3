@@ -1,0 +1,157 @@
+scaffold1s	WormBase_imported	gene	213016	215909	.	-	.	ID=gene:T05_14213;Name=T05_14213;biotype=protein_coding;description=Protein ovo;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0V0UIW9;locus=ovo
+scaffold1s	WormBase_imported	mRNA	213016	215909	.	-	.	ID=transcript:T05_14213.1;Parent=gene:T05_14213;Name=T05_14213.1;info=method:InterPro accession:IPR013087 description:Zinc finger C2H2-type %0Amethod:InterPro accession:IPR027756 description:Ovo-like %0Amethod:InterPro accession:IPR036236 description:Zinc finger C2H2 superfamily
+scaffold1s	WormBase_imported	exon	215882	215909	.	-	.	ID=exon:T05_14213.1.1;Parent=transcript:T05_14213.1
+scaffold1s	WormBase_imported	exon	215794	215820	.	-	.	ID=exon:T05_14213.1.2;Parent=transcript:T05_14213.1
+scaffold1s	WormBase_imported	exon	215509	215535	.	-	.	ID=exon:T05_14213.1.3;Parent=transcript:T05_14213.1
+scaffold1s	WormBase_imported	exon	215247	215261	.	-	.	ID=exon:T05_14213.1.4;Parent=transcript:T05_14213.1
+scaffold1s	WormBase_imported	exon	213911	214266	.	-	.	ID=exon:T05_14213.1.5;Parent=transcript:T05_14213.1
+scaffold1s	WormBase_imported	exon	213696	213851	.	-	.	ID=exon:T05_14213.1.6;Parent=transcript:T05_14213.1
+scaffold1s	WormBase_imported	exon	213472	213604	.	-	.	ID=exon:T05_14213.1.7;Parent=transcript:T05_14213.1
+scaffold1s	WormBase_imported	exon	213317	213393	.	-	.	ID=exon:T05_14213.1.8;Parent=transcript:T05_14213.1
+scaffold1s	WormBase_imported	exon	213016	213192	.	-	.	ID=exon:T05_14213.1.9;Parent=transcript:T05_14213.1
+scaffold1s	WormBase_imported	CDS	215882	215909	.	-	0	ID=cds:T05_14213.1;Parent=transcript:T05_14213.1
+scaffold1s	WormBase_imported	CDS	215794	215820	.	-	2	ID=cds:T05_14213.1;Parent=transcript:T05_14213.1
+scaffold1s	WormBase_imported	CDS	215509	215535	.	-	2	ID=cds:T05_14213.1;Parent=transcript:T05_14213.1
+scaffold1s	WormBase_imported	CDS	215247	215261	.	-	2	ID=cds:T05_14213.1;Parent=transcript:T05_14213.1
+scaffold1s	WormBase_imported	CDS	213911	214266	.	-	2	ID=cds:T05_14213.1;Parent=transcript:T05_14213.1
+scaffold1s	WormBase_imported	CDS	213696	213851	.	-	0	ID=cds:T05_14213.1;Parent=transcript:T05_14213.1
+scaffold1s	WormBase_imported	CDS	213472	213604	.	-	0	ID=cds:T05_14213.1;Parent=transcript:T05_14213.1
+scaffold1s	WormBase_imported	CDS	213317	213393	.	-	2	ID=cds:T05_14213.1;Parent=transcript:T05_14213.1
+scaffold1s	WormBase_imported	CDS	213016	213192	.	-	0	ID=cds:T05_14213.1;Parent=transcript:T05_14213.1
+scaffold19s	WormBase_imported	gene	140926	143266	.	-	.	ID=gene:T05_5062;Name=T05_5062;biotype=protein_coding
+scaffold19s	WormBase_imported	mRNA	140926	143266	.	-	.	ID=transcript:T05_5062.1;Parent=gene:T05_5062;Name=T05_5062.1
+scaffold19s	WormBase_imported	exon	143227	143266	.	-	.	ID=exon:T05_5062.1.1;Parent=transcript:T05_5062.1
+scaffold19s	WormBase_imported	exon	142386	142420	.	-	.	ID=exon:T05_5062.1.2;Parent=transcript:T05_5062.1
+scaffold19s	WormBase_imported	exon	142184	142227	.	-	.	ID=exon:T05_5062.1.3;Parent=transcript:T05_5062.1
+scaffold19s	WormBase_imported	exon	142042	142087	.	-	.	ID=exon:T05_5062.1.4;Parent=transcript:T05_5062.1
+scaffold19s	WormBase_imported	exon	141929	141937	.	-	.	ID=exon:T05_5062.1.5;Parent=transcript:T05_5062.1
+scaffold19s	WormBase_imported	exon	141864	141881	.	-	.	ID=exon:T05_5062.1.6;Parent=transcript:T05_5062.1
+scaffold19s	WormBase_imported	exon	140926	140952	.	-	.	ID=exon:T05_5062.1.7;Parent=transcript:T05_5062.1
+scaffold19s	WormBase_imported	CDS	143227	143266	.	-	0	ID=cds:T05_5062.1;Parent=transcript:T05_5062.1
+scaffold19s	WormBase_imported	CDS	142386	142420	.	-	2	ID=cds:T05_5062.1;Parent=transcript:T05_5062.1
+scaffold19s	WormBase_imported	CDS	142184	142227	.	-	0	ID=cds:T05_5062.1;Parent=transcript:T05_5062.1
+scaffold19s	WormBase_imported	CDS	142042	142087	.	-	1	ID=cds:T05_5062.1;Parent=transcript:T05_5062.1
+scaffold19s	WormBase_imported	CDS	141929	141937	.	-	0	ID=cds:T05_5062.1;Parent=transcript:T05_5062.1
+scaffold19s	WormBase_imported	CDS	141864	141881	.	-	0	ID=cds:T05_5062.1;Parent=transcript:T05_5062.1
+scaffold19s	WormBase_imported	CDS	140926	140952	.	-	0	ID=cds:T05_5062.1;Parent=transcript:T05_5062.1
+scaffold29s	WormBase_imported	gene	193151	196459	.	-	.	ID=gene:T05_3511;Name=T05_3511;biotype=protein_coding
+scaffold29s	WormBase_imported	mRNA	193151	196459	.	-	.	ID=transcript:T05_3511.1;Parent=gene:T05_3511;Name=T05_3511.1
+scaffold29s	WormBase_imported	exon	196454	196459	.	-	.	ID=exon:T05_3511.1.1;Parent=transcript:T05_3511.1
+scaffold29s	WormBase_imported	exon	195989	196024	.	-	.	ID=exon:T05_3511.1.2;Parent=transcript:T05_3511.1
+scaffold29s	WormBase_imported	exon	195592	195618	.	-	.	ID=exon:T05_3511.1.3;Parent=transcript:T05_3511.1
+scaffold29s	WormBase_imported	exon	194070	194150	.	-	.	ID=exon:T05_3511.1.4;Parent=transcript:T05_3511.1
+scaffold29s	WormBase_imported	exon	193746	193763	.	-	.	ID=exon:T05_3511.1.5;Parent=transcript:T05_3511.1
+scaffold29s	WormBase_imported	exon	193416	193436	.	-	.	ID=exon:T05_3511.1.6;Parent=transcript:T05_3511.1
+scaffold29s	WormBase_imported	exon	193151	193162	.	-	.	ID=exon:T05_3511.1.7;Parent=transcript:T05_3511.1
+scaffold29s	WormBase_imported	CDS	196454	196459	.	-	0	ID=cds:T05_3511.1;Parent=transcript:T05_3511.1
+scaffold29s	WormBase_imported	CDS	195989	196024	.	-	0	ID=cds:T05_3511.1;Parent=transcript:T05_3511.1
+scaffold29s	WormBase_imported	CDS	195592	195618	.	-	0	ID=cds:T05_3511.1;Parent=transcript:T05_3511.1
+scaffold29s	WormBase_imported	CDS	194070	194150	.	-	0	ID=cds:T05_3511.1;Parent=transcript:T05_3511.1
+scaffold29s	WormBase_imported	CDS	193746	193763	.	-	0	ID=cds:T05_3511.1;Parent=transcript:T05_3511.1
+scaffold29s	WormBase_imported	CDS	193416	193436	.	-	0	ID=cds:T05_3511.1;Parent=transcript:T05_3511.1
+scaffold29s	WormBase_imported	CDS	193151	193162	.	-	0	ID=cds:T05_3511.1;Parent=transcript:T05_3511.1
+scaffold51s	WormBase_imported	gene	22806	23502	.	-	.	ID=gene:T05_12447;Name=T05_12447;biotype=protein_coding
+scaffold51s	WormBase_imported	mRNA	22806	23502	.	-	.	ID=transcript:T05_12447.1;Parent=gene:T05_12447;Name=T05_12447.1
+scaffold51s	WormBase_imported	exon	23491	23502	.	-	.	ID=exon:T05_12447.1.1;Parent=transcript:T05_12447.1
+scaffold51s	WormBase_imported	exon	23394	23417	.	-	.	ID=exon:T05_12447.1.2;Parent=transcript:T05_12447.1
+scaffold51s	WormBase_imported	exon	23178	23201	.	-	.	ID=exon:T05_12447.1.3;Parent=transcript:T05_12447.1
+scaffold51s	WormBase_imported	exon	22965	23146	.	-	.	ID=exon:T05_12447.1.4;Parent=transcript:T05_12447.1
+scaffold51s	WormBase_imported	exon	22806	22923	.	-	.	ID=exon:T05_12447.1.5;Parent=transcript:T05_12447.1
+scaffold51s	WormBase_imported	CDS	23491	23502	.	-	0	ID=cds:T05_12447.1;Parent=transcript:T05_12447.1
+scaffold51s	WormBase_imported	CDS	23394	23417	.	-	0	ID=cds:T05_12447.1;Parent=transcript:T05_12447.1
+scaffold51s	WormBase_imported	CDS	23178	23201	.	-	0	ID=cds:T05_12447.1;Parent=transcript:T05_12447.1
+scaffold51s	WormBase_imported	CDS	22965	23146	.	-	0	ID=cds:T05_12447.1;Parent=transcript:T05_12447.1
+scaffold51s	WormBase_imported	CDS	22806	22923	.	-	1	ID=cds:T05_12447.1;Parent=transcript:T05_12447.1
+scaffold52s	WormBase_imported	gene	137618	139114	.	+	.	ID=gene:T05_90;Name=T05_90;biotype=protein_coding
+scaffold52s	WormBase_imported	mRNA	137618	139114	.	+	.	ID=transcript:T05_90.1;Parent=gene:T05_90;Name=T05_90.1
+scaffold52s	WormBase_imported	exon	137618	137853	.	+	.	ID=exon:T05_90.1.1;Parent=transcript:T05_90.1
+scaffold52s	WormBase_imported	exon	138244	138272	.	+	.	ID=exon:T05_90.1.2;Parent=transcript:T05_90.1
+scaffold52s	WormBase_imported	exon	138342	138412	.	+	.	ID=exon:T05_90.1.3;Parent=transcript:T05_90.1
+scaffold52s	WormBase_imported	exon	138581	138616	.	+	.	ID=exon:T05_90.1.4;Parent=transcript:T05_90.1
+scaffold52s	WormBase_imported	exon	138982	139008	.	+	.	ID=exon:T05_90.1.5;Parent=transcript:T05_90.1
+scaffold52s	WormBase_imported	exon	139033	139062	.	+	.	ID=exon:T05_90.1.6;Parent=transcript:T05_90.1
+scaffold52s	WormBase_imported	exon	139097	139114	.	+	.	ID=exon:T05_90.1.7;Parent=transcript:T05_90.1
+scaffold52s	WormBase_imported	CDS	137618	137853	.	+	0	ID=cds:T05_90.1;Parent=transcript:T05_90.1
+scaffold52s	WormBase_imported	CDS	138244	138272	.	+	1	ID=cds:T05_90.1;Parent=transcript:T05_90.1
+scaffold52s	WormBase_imported	CDS	138342	138412	.	+	2	ID=cds:T05_90.1;Parent=transcript:T05_90.1
+scaffold52s	WormBase_imported	CDS	138581	138616	.	+	0	ID=cds:T05_90.1;Parent=transcript:T05_90.1
+scaffold52s	WormBase_imported	CDS	138982	139008	.	+	0	ID=cds:T05_90.1;Parent=transcript:T05_90.1
+scaffold52s	WormBase_imported	CDS	139033	139062	.	+	0	ID=cds:T05_90.1;Parent=transcript:T05_90.1
+scaffold52s	WormBase_imported	CDS	139097	139114	.	+	0	ID=cds:T05_90.1;Parent=transcript:T05_90.1
+scaffold68s	WormBase_imported	gene	14242	16238	.	-	.	ID=gene:T05_6033;Name=T05_6033;biotype=protein_coding
+scaffold68s	WormBase_imported	mRNA	14242	16238	.	-	.	ID=transcript:T05_6033.1;Parent=gene:T05_6033;Name=T05_6033.1
+scaffold68s	WormBase_imported	exon	16224	16238	.	-	.	ID=exon:T05_6033.1.1;Parent=transcript:T05_6033.1
+scaffold68s	WormBase_imported	exon	15830	15838	.	-	.	ID=exon:T05_6033.1.2;Parent=transcript:T05_6033.1
+scaffold68s	WormBase_imported	exon	15776	15787	.	-	.	ID=exon:T05_6033.1.3;Parent=transcript:T05_6033.1
+scaffold68s	WormBase_imported	exon	15567	15607	.	-	.	ID=exon:T05_6033.1.4;Parent=transcript:T05_6033.1
+scaffold68s	WormBase_imported	exon	14769	14778	.	-	.	ID=exon:T05_6033.1.5;Parent=transcript:T05_6033.1
+scaffold68s	WormBase_imported	exon	14242	14334	.	-	.	ID=exon:T05_6033.1.6;Parent=transcript:T05_6033.1
+scaffold68s	WormBase_imported	CDS	16224	16238	.	-	0	ID=cds:T05_6033.1;Parent=transcript:T05_6033.1
+scaffold68s	WormBase_imported	CDS	15830	15838	.	-	0	ID=cds:T05_6033.1;Parent=transcript:T05_6033.1
+scaffold68s	WormBase_imported	CDS	15776	15787	.	-	0	ID=cds:T05_6033.1;Parent=transcript:T05_6033.1
+scaffold68s	WormBase_imported	CDS	15567	15607	.	-	0	ID=cds:T05_6033.1;Parent=transcript:T05_6033.1
+scaffold68s	WormBase_imported	CDS	14769	14778	.	-	1	ID=cds:T05_6033.1;Parent=transcript:T05_6033.1
+scaffold68s	WormBase_imported	CDS	14242	14334	.	-	0	ID=cds:T05_6033.1;Parent=transcript:T05_6033.1
+scaffold108s	WormBase_imported	gene	54382	57848	.	+	.	ID=gene:T05_3483;Name=T05_3483;biotype=protein_coding
+scaffold108s	WormBase_imported	mRNA	54382	57848	.	+	.	ID=transcript:T05_3483.1;Parent=gene:T05_3483;Name=T05_3483.1
+scaffold108s	WormBase_imported	exon	54382	54400	.	+	.	ID=exon:T05_3483.1.1;Parent=transcript:T05_3483.1
+scaffold108s	WormBase_imported	exon	54427	54495	.	+	.	ID=exon:T05_3483.1.2;Parent=transcript:T05_3483.1
+scaffold108s	WormBase_imported	exon	54905	54935	.	+	.	ID=exon:T05_3483.1.3;Parent=transcript:T05_3483.1
+scaffold108s	WormBase_imported	exon	55640	55667	.	+	.	ID=exon:T05_3483.1.4;Parent=transcript:T05_3483.1
+scaffold108s	WormBase_imported	exon	56042	56084	.	+	.	ID=exon:T05_3483.1.5;Parent=transcript:T05_3483.1
+scaffold108s	WormBase_imported	exon	56247	56320	.	+	.	ID=exon:T05_3483.1.6;Parent=transcript:T05_3483.1
+scaffold108s	WormBase_imported	exon	57000	57008	.	+	.	ID=exon:T05_3483.1.7;Parent=transcript:T05_3483.1
+scaffold108s	WormBase_imported	exon	57741	57758	.	+	.	ID=exon:T05_3483.1.8;Parent=transcript:T05_3483.1
+scaffold108s	WormBase_imported	exon	57843	57848	.	+	.	ID=exon:T05_3483.1.9;Parent=transcript:T05_3483.1
+scaffold108s	WormBase_imported	CDS	54382	54400	.	+	0	ID=cds:T05_3483.1;Parent=transcript:T05_3483.1
+scaffold108s	WormBase_imported	CDS	54427	54495	.	+	2	ID=cds:T05_3483.1;Parent=transcript:T05_3483.1
+scaffold108s	WormBase_imported	CDS	54905	54935	.	+	2	ID=cds:T05_3483.1;Parent=transcript:T05_3483.1
+scaffold108s	WormBase_imported	CDS	55640	55667	.	+	1	ID=cds:T05_3483.1;Parent=transcript:T05_3483.1
+scaffold108s	WormBase_imported	CDS	56042	56084	.	+	0	ID=cds:T05_3483.1;Parent=transcript:T05_3483.1
+scaffold108s	WormBase_imported	CDS	56247	56320	.	+	2	ID=cds:T05_3483.1;Parent=transcript:T05_3483.1
+scaffold108s	WormBase_imported	CDS	57000	57008	.	+	0	ID=cds:T05_3483.1;Parent=transcript:T05_3483.1
+scaffold108s	WormBase_imported	CDS	57741	57758	.	+	0	ID=cds:T05_3483.1;Parent=transcript:T05_3483.1
+scaffold108s	WormBase_imported	CDS	57843	57848	.	+	0	ID=cds:T05_3483.1;Parent=transcript:T05_3483.1
+scaffold862s	WormBase_imported	gene	6	2702	.	-	.	ID=gene:T05_980;Name=T05_980;biotype=protein_coding
+scaffold862s	WormBase_imported	mRNA	6	2702	.	-	.	ID=transcript:T05_980.1;Parent=gene:T05_980;Name=T05_980.1
+scaffold862s	WormBase_imported	exon	2684	2702	.	-	.	ID=exon:T05_980.1.1;Parent=transcript:T05_980.1
+scaffold862s	WormBase_imported	exon	2506	2525	.	-	.	ID=exon:T05_980.1.2;Parent=transcript:T05_980.1
+scaffold862s	WormBase_imported	exon	2316	2347	.	-	.	ID=exon:T05_980.1.3;Parent=transcript:T05_980.1
+scaffold862s	WormBase_imported	exon	2148	2168	.	-	.	ID=exon:T05_980.1.4;Parent=transcript:T05_980.1
+scaffold862s	WormBase_imported	exon	1971	1991	.	-	.	ID=exon:T05_980.1.5;Parent=transcript:T05_980.1
+scaffold862s	WormBase_imported	exon	1793	1812	.	-	.	ID=exon:T05_980.1.6;Parent=transcript:T05_980.1
+scaffold862s	WormBase_imported	exon	1615	1634	.	-	.	ID=exon:T05_980.1.7;Parent=transcript:T05_980.1
+scaffold862s	WormBase_imported	exon	1436	1445	.	-	.	ID=exon:T05_980.1.8;Parent=transcript:T05_980.1
+scaffold862s	WormBase_imported	exon	1257	1277	.	-	.	ID=exon:T05_980.1.9;Parent=transcript:T05_980.1
+scaffold862s	WormBase_imported	exon	899	919	.	-	.	ID=exon:T05_980.1.10;Parent=transcript:T05_980.1
+scaffold862s	WormBase_imported	exon	184	204	.	-	.	ID=exon:T05_980.1.11;Parent=transcript:T05_980.1
+scaffold862s	WormBase_imported	exon	6	25	.	-	.	ID=exon:T05_980.1.12;Parent=transcript:T05_980.1
+scaffold862s	WormBase_imported	CDS	2684	2702	.	-	0	ID=cds:T05_980.1;Parent=transcript:T05_980.1
+scaffold862s	WormBase_imported	CDS	2506	2525	.	-	2	ID=cds:T05_980.1;Parent=transcript:T05_980.1
+scaffold862s	WormBase_imported	CDS	2316	2347	.	-	0	ID=cds:T05_980.1;Parent=transcript:T05_980.1
+scaffold862s	WormBase_imported	CDS	2148	2168	.	-	1	ID=cds:T05_980.1;Parent=transcript:T05_980.1
+scaffold862s	WormBase_imported	CDS	1971	1991	.	-	1	ID=cds:T05_980.1;Parent=transcript:T05_980.1
+scaffold862s	WormBase_imported	CDS	1793	1812	.	-	1	ID=cds:T05_980.1;Parent=transcript:T05_980.1
+scaffold862s	WormBase_imported	CDS	1615	1634	.	-	2	ID=cds:T05_980.1;Parent=transcript:T05_980.1
+scaffold862s	WormBase_imported	CDS	1436	1445	.	-	0	ID=cds:T05_980.1;Parent=transcript:T05_980.1
+scaffold862s	WormBase_imported	CDS	1257	1277	.	-	2	ID=cds:T05_980.1;Parent=transcript:T05_980.1
+scaffold862s	WormBase_imported	CDS	899	919	.	-	2	ID=cds:T05_980.1;Parent=transcript:T05_980.1
+scaffold862s	WormBase_imported	CDS	184	204	.	-	2	ID=cds:T05_980.1;Parent=transcript:T05_980.1
+scaffold862s	WormBase_imported	CDS	6	25	.	-	2	ID=cds:T05_980.1;Parent=transcript:T05_980.1
+scaffold862s	trf	tandem_repeat	1	3007	5214	-	.	
+scaffold862s	dust	low_complexity_region	84	98	.	-	.	
+scaffold862s	dust	low_complexity_region	264	276	.	-	.	
+scaffold862s	dust	low_complexity_region	442	455	.	-	.	
+scaffold862s	dust	low_complexity_region	621	634	.	-	.	
+scaffold862s	dust	low_complexity_region	800	813	.	-	.	
+scaffold862s	dust	low_complexity_region	978	992	.	-	.	
+scaffold862s	dust	low_complexity_region	1158	1171	.	-	.	
+scaffold862s	dust	low_complexity_region	1336	1350	.	-	.	
+scaffold862s	dust	low_complexity_region	1516	1529	.	-	.	
+scaffold862s	dust	low_complexity_region	1694	1707	.	-	.	
+scaffold862s	dust	low_complexity_region	1872	1886	.	-	.	
+scaffold862s	dust	low_complexity_region	2051	2064	.	-	.	
+scaffold862s	dust	low_complexity_region	2229	2241	.	-	.	
+scaffold862s	dust	low_complexity_region	2585	2598	.	-	.	
+scaffold862s	dust	low_complexity_region	2764	2778	.	-	.	
+scaffold862s	dust	low_complexity_region	2943	2956	.	-	.	

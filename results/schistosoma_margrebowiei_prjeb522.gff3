@@ -1,0 +1,20 @@
+SMRZ_scaffold0000063	WormBase_imported	gene	38964	54125	.	-	.	ID=gene:SMRZ_0001484901;Name=SMRZ_0001484901;biotype=protein_coding
+SMRZ_scaffold0000063	WormBase_imported	mRNA	38964	54125	.	-	.	ID=transcript:SMRZ_0001484901-mRNA-1;Parent=gene:SMRZ_0001484901;Name=SMRZ_0001484901-mRNA-1;info=method:InterPro accession:IPR001978 description:Troponin %0Amethod:InterPro accession:IPR038077 description:Troponin domain superfamily
+SMRZ_scaffold0000063	WormBase_imported	exon	54120	54125	.	-	.	ID=exon:SMRZ_0001484901-mRNA-1.1;Parent=transcript:SMRZ_0001484901-mRNA-1
+SMRZ_scaffold0000063	WormBase_imported	exon	53304	53333	.	-	.	ID=exon:SMRZ_0001484901-mRNA-1.2;Parent=transcript:SMRZ_0001484901-mRNA-1
+SMRZ_scaffold0000063	WormBase_imported	exon	52466	52495	.	-	.	ID=exon:SMRZ_0001484901-mRNA-1.3;Parent=transcript:SMRZ_0001484901-mRNA-1
+SMRZ_scaffold0000063	WormBase_imported	exon	48554	48661	.	-	.	ID=exon:SMRZ_0001484901-mRNA-1.4;Parent=transcript:SMRZ_0001484901-mRNA-1
+SMRZ_scaffold0000063	WormBase_imported	exon	45254	45374	.	-	.	ID=exon:SMRZ_0001484901-mRNA-1.5;Parent=transcript:SMRZ_0001484901-mRNA-1
+SMRZ_scaffold0000063	WormBase_imported	exon	44570	44670	.	-	.	ID=exon:SMRZ_0001484901-mRNA-1.6;Parent=transcript:SMRZ_0001484901-mRNA-1
+SMRZ_scaffold0000063	WormBase_imported	exon	43384	43427	.	-	.	ID=exon:SMRZ_0001484901-mRNA-1.7;Parent=transcript:SMRZ_0001484901-mRNA-1
+SMRZ_scaffold0000063	WormBase_imported	exon	40684	40837	.	-	.	ID=exon:SMRZ_0001484901-mRNA-1.8;Parent=transcript:SMRZ_0001484901-mRNA-1
+SMRZ_scaffold0000063	WormBase_imported	exon	38964	39167	.	-	.	ID=exon:SMRZ_0001484901-mRNA-1.9;Parent=transcript:SMRZ_0001484901-mRNA-1
+SMRZ_scaffold0000063	WormBase_imported	CDS	54120	54125	.	-	0	ID=cds:SMRZ_0001484901-mRNA-1;Parent=transcript:SMRZ_0001484901-mRNA-1
+SMRZ_scaffold0000063	WormBase_imported	CDS	53304	53333	.	-	0	ID=cds:SMRZ_0001484901-mRNA-1;Parent=transcript:SMRZ_0001484901-mRNA-1
+SMRZ_scaffold0000063	WormBase_imported	CDS	52466	52495	.	-	0	ID=cds:SMRZ_0001484901-mRNA-1;Parent=transcript:SMRZ_0001484901-mRNA-1
+SMRZ_scaffold0000063	WormBase_imported	CDS	48554	48661	.	-	0	ID=cds:SMRZ_0001484901-mRNA-1;Parent=transcript:SMRZ_0001484901-mRNA-1
+SMRZ_scaffold0000063	WormBase_imported	CDS	45254	45374	.	-	0	ID=cds:SMRZ_0001484901-mRNA-1;Parent=transcript:SMRZ_0001484901-mRNA-1
+SMRZ_scaffold0000063	WormBase_imported	CDS	44570	44670	.	-	2	ID=cds:SMRZ_0001484901-mRNA-1;Parent=transcript:SMRZ_0001484901-mRNA-1
+SMRZ_scaffold0000063	WormBase_imported	CDS	43384	43427	.	-	0	ID=cds:SMRZ_0001484901-mRNA-1;Parent=transcript:SMRZ_0001484901-mRNA-1
+SMRZ_scaffold0000063	WormBase_imported	CDS	40684	40837	.	-	1	ID=cds:SMRZ_0001484901-mRNA-1;Parent=transcript:SMRZ_0001484901-mRNA-1
+SMRZ_scaffold0000063	WormBase_imported	CDS	38964	39167	.	-	0	ID=cds:SMRZ_0001484901-mRNA-1;Parent=transcript:SMRZ_0001484901-mRNA-1

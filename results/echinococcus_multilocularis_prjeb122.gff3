@@ -1,0 +1,716 @@
+pathogen_EmW_scaffold_01	WormBase_imported	gene	17431818	17441505	.	-	.	ID=gene:EmuJ_001168700;Name=EmuJ_001168700;biotype=protein_coding;description=von Willebrand factor A domain containing protein;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068Y018
+pathogen_EmW_scaffold_01	WormBase_imported	mRNA	17431818	17441505	.	-	.	ID=transcript:EmuJ_001168700.1;Parent=gene:EmuJ_001168700;Name=EmuJ_001168700.1;info=method:InterPro accession:IPR002035 description:von Willebrand factor%2C type A %0Amethod:InterPro accession:IPR013694 description:VIT domain %0Amethod:InterPro accession:IPR036465 description:von Willebrand factor A-like domain superfamily
+pathogen_EmW_scaffold_01	WormBase_imported	exon	17441260	17441505	.	-	.	ID=exon:EmuJ_001168700.1.1;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	17440909	17441173	.	-	.	ID=exon:EmuJ_001168700.1.2;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	17440684	17440832	.	-	.	ID=exon:EmuJ_001168700.1.3;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	17440396	17440615	.	-	.	ID=exon:EmuJ_001168700.1.4;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	17440185	17440311	.	-	.	ID=exon:EmuJ_001168700.1.5;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	17439924	17440110	.	-	.	ID=exon:EmuJ_001168700.1.6;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	17439709	17439842	.	-	.	ID=exon:EmuJ_001168700.1.7;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	17438455	17438639	.	-	.	ID=exon:EmuJ_001168700.1.8;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	17437568	17437879	.	-	.	ID=exon:EmuJ_001168700.1.9;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	17437427	17437447	.	-	.	ID=exon:EmuJ_001168700.1.10;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	17437328	17437351	.	-	.	ID=exon:EmuJ_001168700.1.11;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	17437217	17437234	.	-	.	ID=exon:EmuJ_001168700.1.12;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	17437127	17437144	.	-	.	ID=exon:EmuJ_001168700.1.13;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	17436300	17436320	.	-	.	ID=exon:EmuJ_001168700.1.14;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	17436207	17436218	.	-	.	ID=exon:EmuJ_001168700.1.15;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	17435375	17435392	.	-	.	ID=exon:EmuJ_001168700.1.16;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	17435114	17435125	.	-	.	ID=exon:EmuJ_001168700.1.17;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	17433900	17433920	.	-	.	ID=exon:EmuJ_001168700.1.18;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	17433810	17433821	.	-	.	ID=exon:EmuJ_001168700.1.19;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	17432754	17432780	.	-	.	ID=exon:EmuJ_001168700.1.20;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	17432610	17432624	.	-	.	ID=exon:EmuJ_001168700.1.21;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	17432476	17432535	.	-	.	ID=exon:EmuJ_001168700.1.22;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	17432167	17432310	.	-	.	ID=exon:EmuJ_001168700.1.23;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	17431818	17432008	.	-	.	ID=exon:EmuJ_001168700.1.24;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	17441260	17441505	.	-	0	ID=cds:EmuJ_001168700.1;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	17440909	17441173	.	-	0	ID=cds:EmuJ_001168700.1;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	17440684	17440832	.	-	2	ID=cds:EmuJ_001168700.1;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	17440396	17440615	.	-	0	ID=cds:EmuJ_001168700.1;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	17440185	17440311	.	-	2	ID=cds:EmuJ_001168700.1;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	17439924	17440110	.	-	1	ID=cds:EmuJ_001168700.1;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	17439709	17439842	.	-	0	ID=cds:EmuJ_001168700.1;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	17438455	17438639	.	-	1	ID=cds:EmuJ_001168700.1;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	17437568	17437879	.	-	2	ID=cds:EmuJ_001168700.1;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	17437427	17437447	.	-	2	ID=cds:EmuJ_001168700.1;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	17437328	17437351	.	-	2	ID=cds:EmuJ_001168700.1;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	17437217	17437234	.	-	2	ID=cds:EmuJ_001168700.1;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	17437127	17437144	.	-	2	ID=cds:EmuJ_001168700.1;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	17436300	17436320	.	-	2	ID=cds:EmuJ_001168700.1;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	17436207	17436218	.	-	2	ID=cds:EmuJ_001168700.1;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	17435375	17435392	.	-	2	ID=cds:EmuJ_001168700.1;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	17435114	17435125	.	-	2	ID=cds:EmuJ_001168700.1;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	17433900	17433920	.	-	2	ID=cds:EmuJ_001168700.1;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	17433810	17433821	.	-	2	ID=cds:EmuJ_001168700.1;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	17432754	17432780	.	-	2	ID=cds:EmuJ_001168700.1;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	17432610	17432624	.	-	2	ID=cds:EmuJ_001168700.1;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	17432476	17432535	.	-	2	ID=cds:EmuJ_001168700.1;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	17432167	17432310	.	-	2	ID=cds:EmuJ_001168700.1;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	17431818	17432008	.	-	2	ID=cds:EmuJ_001168700.1;Parent=transcript:EmuJ_001168700.1
+pathogen_EmW_scaffold_01	WormBase_imported	gene	19171417	19180819	.	-	.	ID=gene:EmuJ_001187100;Name=EmuJ_001187100;biotype=protein_coding;description=Zinc finger protein 91;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068Y1G2
+pathogen_EmW_scaffold_01	WormBase_imported	mRNA	19171417	19180819	.	-	.	ID=transcript:EmuJ_001187100.1;Parent=gene:EmuJ_001187100;Name=EmuJ_001187100.1;info=method:InterPro accession:IPR013087 description:Zinc finger C2H2-type %0Amethod:InterPro accession:IPR036236 description:Zinc finger C2H2 superfamily
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19180798	19180819	.	-	.	ID=exon:EmuJ_001187100.1.1;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19179250	19179663	.	-	.	ID=exon:EmuJ_001187100.1.2;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19179132	19179167	.	-	.	ID=exon:EmuJ_001187100.1.3;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19178789	19178812	.	-	.	ID=exon:EmuJ_001187100.1.4;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19178674	19178700	.	-	.	ID=exon:EmuJ_001187100.1.5;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19178584	19178598	.	-	.	ID=exon:EmuJ_001187100.1.6;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19178231	19178311	.	-	.	ID=exon:EmuJ_001187100.1.7;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19177997	19178083	.	-	.	ID=exon:EmuJ_001187100.1.8;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19177839	19177925	.	-	.	ID=exon:EmuJ_001187100.1.9;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19177685	19177765	.	-	.	ID=exon:EmuJ_001187100.1.10;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19177514	19177603	.	-	.	ID=exon:EmuJ_001187100.1.11;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19177298	19177384	.	-	.	ID=exon:EmuJ_001187100.1.12;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19177139	19177225	.	-	.	ID=exon:EmuJ_001187100.1.13;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19176965	19177051	.	-	.	ID=exon:EmuJ_001187100.1.14;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19176790	19176885	.	-	.	ID=exon:EmuJ_001187100.1.15;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19176205	19176321	.	-	.	ID=exon:EmuJ_001187100.1.16;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19175892	19175966	.	-	.	ID=exon:EmuJ_001187100.1.17;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19175208	19175264	.	-	.	ID=exon:EmuJ_001187100.1.18;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19175036	19175122	.	-	.	ID=exon:EmuJ_001187100.1.19;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19174687	19174773	.	-	.	ID=exon:EmuJ_001187100.1.20;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19174519	19174605	.	-	.	ID=exon:EmuJ_001187100.1.21;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19174321	19174407	.	-	.	ID=exon:EmuJ_001187100.1.22;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19174195	19174245	.	-	.	ID=exon:EmuJ_001187100.1.23;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19173678	19174016	.	-	.	ID=exon:EmuJ_001187100.1.24;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19172887	19172931	.	-	.	ID=exon:EmuJ_001187100.1.25;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19172771	19172830	.	-	.	ID=exon:EmuJ_001187100.1.26;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19171417	19171586	.	-	.	ID=exon:EmuJ_001187100.1.27;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19180798	19180819	.	-	0	ID=cds:EmuJ_001187100.1;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19179250	19179663	.	-	2	ID=cds:EmuJ_001187100.1;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19179132	19179167	.	-	2	ID=cds:EmuJ_001187100.1;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19178789	19178812	.	-	2	ID=cds:EmuJ_001187100.1;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19178674	19178700	.	-	2	ID=cds:EmuJ_001187100.1;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19178584	19178598	.	-	2	ID=cds:EmuJ_001187100.1;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19178231	19178311	.	-	2	ID=cds:EmuJ_001187100.1;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19177997	19178083	.	-	2	ID=cds:EmuJ_001187100.1;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19177839	19177925	.	-	2	ID=cds:EmuJ_001187100.1;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19177685	19177765	.	-	2	ID=cds:EmuJ_001187100.1;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19177514	19177603	.	-	2	ID=cds:EmuJ_001187100.1;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19177298	19177384	.	-	2	ID=cds:EmuJ_001187100.1;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19177139	19177225	.	-	2	ID=cds:EmuJ_001187100.1;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19176965	19177051	.	-	2	ID=cds:EmuJ_001187100.1;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19176790	19176885	.	-	2	ID=cds:EmuJ_001187100.1;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19176205	19176321	.	-	2	ID=cds:EmuJ_001187100.1;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19175892	19175966	.	-	2	ID=cds:EmuJ_001187100.1;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19175208	19175264	.	-	2	ID=cds:EmuJ_001187100.1;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19175036	19175122	.	-	2	ID=cds:EmuJ_001187100.1;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19174687	19174773	.	-	2	ID=cds:EmuJ_001187100.1;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19174519	19174605	.	-	2	ID=cds:EmuJ_001187100.1;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19174321	19174407	.	-	2	ID=cds:EmuJ_001187100.1;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19174195	19174245	.	-	2	ID=cds:EmuJ_001187100.1;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19173678	19174016	.	-	2	ID=cds:EmuJ_001187100.1;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19172887	19172931	.	-	2	ID=cds:EmuJ_001187100.1;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19172771	19172830	.	-	2	ID=cds:EmuJ_001187100.1;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19171417	19171586	.	-	2	ID=cds:EmuJ_001187100.1;Parent=transcript:EmuJ_001187100.1
+pathogen_EmW_scaffold_01	WormBase_imported	gene	19989000	19995395	.	+	.	ID=gene:EmuJ_001201600;Name=EmuJ_001201600;biotype=protein_coding;description=Diagnostic antigen gp50;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068Y0Y0
+pathogen_EmW_scaffold_01	WormBase_imported	mRNA	19989000	19995395	.	+	.	ID=transcript:EmuJ_001201600.1;Parent=gene:EmuJ_001201600;Name=EmuJ_001201600.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19989000	19989045	.	+	.	ID=exon:EmuJ_001201600.1.1;Parent=transcript:EmuJ_001201600.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19989266	19989354	.	+	.	ID=exon:EmuJ_001201600.1.2;Parent=transcript:EmuJ_001201600.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19989563	19989671	.	+	.	ID=exon:EmuJ_001201600.1.3;Parent=transcript:EmuJ_001201600.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19989930	19990052	.	+	.	ID=exon:EmuJ_001201600.1.4;Parent=transcript:EmuJ_001201600.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19990239	19990342	.	+	.	ID=exon:EmuJ_001201600.1.5;Parent=transcript:EmuJ_001201600.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19990476	19990554	.	+	.	ID=exon:EmuJ_001201600.1.6;Parent=transcript:EmuJ_001201600.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19990643	19990783	.	+	.	ID=exon:EmuJ_001201600.1.7;Parent=transcript:EmuJ_001201600.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19990876	19990905	.	+	.	ID=exon:EmuJ_001201600.1.8;Parent=transcript:EmuJ_001201600.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19991101	19991118	.	+	.	ID=exon:EmuJ_001201600.1.9;Parent=transcript:EmuJ_001201600.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19994373	19994387	.	+	.	ID=exon:EmuJ_001201600.1.10;Parent=transcript:EmuJ_001201600.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19994516	19994542	.	+	.	ID=exon:EmuJ_001201600.1.11;Parent=transcript:EmuJ_001201600.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19994826	19994840	.	+	.	ID=exon:EmuJ_001201600.1.12;Parent=transcript:EmuJ_001201600.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19994968	19994994	.	+	.	ID=exon:EmuJ_001201600.1.13;Parent=transcript:EmuJ_001201600.1
+pathogen_EmW_scaffold_01	WormBase_imported	exon	19995343	19995395	.	+	.	ID=exon:EmuJ_001201600.1.14;Parent=transcript:EmuJ_001201600.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19989000	19989045	.	+	0	ID=cds:EmuJ_001201600.1;Parent=transcript:EmuJ_001201600.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19989266	19989354	.	+	2	ID=cds:EmuJ_001201600.1;Parent=transcript:EmuJ_001201600.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19989563	19989671	.	+	0	ID=cds:EmuJ_001201600.1;Parent=transcript:EmuJ_001201600.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19989930	19990052	.	+	2	ID=cds:EmuJ_001201600.1;Parent=transcript:EmuJ_001201600.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19990239	19990342	.	+	2	ID=cds:EmuJ_001201600.1;Parent=transcript:EmuJ_001201600.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19990476	19990554	.	+	0	ID=cds:EmuJ_001201600.1;Parent=transcript:EmuJ_001201600.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19990643	19990783	.	+	2	ID=cds:EmuJ_001201600.1;Parent=transcript:EmuJ_001201600.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19990876	19990905	.	+	2	ID=cds:EmuJ_001201600.1;Parent=transcript:EmuJ_001201600.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19991101	19991118	.	+	2	ID=cds:EmuJ_001201600.1;Parent=transcript:EmuJ_001201600.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19994373	19994387	.	+	2	ID=cds:EmuJ_001201600.1;Parent=transcript:EmuJ_001201600.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19994516	19994542	.	+	2	ID=cds:EmuJ_001201600.1;Parent=transcript:EmuJ_001201600.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19994826	19994840	.	+	2	ID=cds:EmuJ_001201600.1;Parent=transcript:EmuJ_001201600.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19994968	19994994	.	+	2	ID=cds:EmuJ_001201600.1;Parent=transcript:EmuJ_001201600.1
+pathogen_EmW_scaffold_01	WormBase_imported	CDS	19995343	19995395	.	+	2	ID=cds:EmuJ_001201600.1;Parent=transcript:EmuJ_001201600.1
+pathogen_EmW_scaffold_02	WormBase_imported	gene	444263	447650	.	-	.	ID=gene:EmuJ_000734700;Name=EmuJ_000734700;biotype=protein_coding;description=Troponin i;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068YBV2
+pathogen_EmW_scaffold_02	WormBase_imported	mRNA	444263	447650	.	-	.	ID=transcript:EmuJ_000734700.1;Parent=gene:EmuJ_000734700;Name=EmuJ_000734700.1;info=method:InterPro accession:IPR001978 description:Troponin %0Amethod:InterPro accession:IPR038077 description:Troponin domain superfamily
+pathogen_EmW_scaffold_02	WormBase_imported	exon	447628	447650	.	-	.	ID=exon:EmuJ_000734700.1.1;Parent=transcript:EmuJ_000734700.1
+pathogen_EmW_scaffold_02	WormBase_imported	exon	447245	447251	.	-	.	ID=exon:EmuJ_000734700.1.2;Parent=transcript:EmuJ_000734700.1
+pathogen_EmW_scaffold_02	WormBase_imported	exon	447109	447123	.	-	.	ID=exon:EmuJ_000734700.1.3;Parent=transcript:EmuJ_000734700.1
+pathogen_EmW_scaffold_02	WormBase_imported	exon	446958	446972	.	-	.	ID=exon:EmuJ_000734700.1.4;Parent=transcript:EmuJ_000734700.1
+pathogen_EmW_scaffold_02	WormBase_imported	exon	446178	446204	.	-	.	ID=exon:EmuJ_000734700.1.5;Parent=transcript:EmuJ_000734700.1
+pathogen_EmW_scaffold_02	WormBase_imported	exon	446065	446106	.	-	.	ID=exon:EmuJ_000734700.1.6;Parent=transcript:EmuJ_000734700.1
+pathogen_EmW_scaffold_02	WormBase_imported	exon	445597	445626	.	-	.	ID=exon:EmuJ_000734700.1.7;Parent=transcript:EmuJ_000734700.1
+pathogen_EmW_scaffold_02	WormBase_imported	exon	445230	445337	.	-	.	ID=exon:EmuJ_000734700.1.8;Parent=transcript:EmuJ_000734700.1
+pathogen_EmW_scaffold_02	WormBase_imported	exon	445029	445149	.	-	.	ID=exon:EmuJ_000734700.1.9;Parent=transcript:EmuJ_000734700.1
+pathogen_EmW_scaffold_02	WormBase_imported	exon	444793	444937	.	-	.	ID=exon:EmuJ_000734700.1.10;Parent=transcript:EmuJ_000734700.1
+pathogen_EmW_scaffold_02	WormBase_imported	exon	444560	444710	.	-	.	ID=exon:EmuJ_000734700.1.11;Parent=transcript:EmuJ_000734700.1
+pathogen_EmW_scaffold_02	WormBase_imported	exon	444263	444334	.	-	.	ID=exon:EmuJ_000734700.1.12;Parent=transcript:EmuJ_000734700.1
+pathogen_EmW_scaffold_02	WormBase_imported	CDS	447628	447650	.	-	0	ID=cds:EmuJ_000734700.1;Parent=transcript:EmuJ_000734700.1
+pathogen_EmW_scaffold_02	WormBase_imported	CDS	447245	447251	.	-	1	ID=cds:EmuJ_000734700.1;Parent=transcript:EmuJ_000734700.1
+pathogen_EmW_scaffold_02	WormBase_imported	CDS	447109	447123	.	-	0	ID=cds:EmuJ_000734700.1;Parent=transcript:EmuJ_000734700.1
+pathogen_EmW_scaffold_02	WormBase_imported	CDS	446958	446972	.	-	0	ID=cds:EmuJ_000734700.1;Parent=transcript:EmuJ_000734700.1
+pathogen_EmW_scaffold_02	WormBase_imported	CDS	446178	446204	.	-	0	ID=cds:EmuJ_000734700.1;Parent=transcript:EmuJ_000734700.1
+pathogen_EmW_scaffold_02	WormBase_imported	CDS	446065	446106	.	-	0	ID=cds:EmuJ_000734700.1;Parent=transcript:EmuJ_000734700.1
+pathogen_EmW_scaffold_02	WormBase_imported	CDS	445597	445626	.	-	0	ID=cds:EmuJ_000734700.1;Parent=transcript:EmuJ_000734700.1
+pathogen_EmW_scaffold_02	WormBase_imported	CDS	445230	445337	.	-	0	ID=cds:EmuJ_000734700.1;Parent=transcript:EmuJ_000734700.1
+pathogen_EmW_scaffold_02	WormBase_imported	CDS	445029	445149	.	-	0	ID=cds:EmuJ_000734700.1;Parent=transcript:EmuJ_000734700.1
+pathogen_EmW_scaffold_02	WormBase_imported	CDS	444793	444937	.	-	2	ID=cds:EmuJ_000734700.1;Parent=transcript:EmuJ_000734700.1
+pathogen_EmW_scaffold_02	WormBase_imported	CDS	444560	444710	.	-	1	ID=cds:EmuJ_000734700.1;Parent=transcript:EmuJ_000734700.1
+pathogen_EmW_scaffold_02	WormBase_imported	CDS	444263	444334	.	-	0	ID=cds:EmuJ_000734700.1;Parent=transcript:EmuJ_000734700.1
+pathogen_EmW_scaffold_03	WormBase_imported	gene	2795006	2802600	.	-	.	ID=gene:EmuJ_000489200;Name=EmuJ_000489200;biotype=protein_coding
+pathogen_EmW_scaffold_03	WormBase_imported	mRNA	2795006	2802600	.	-	.	ID=transcript:EmuJ_000489200.1;Parent=gene:EmuJ_000489200;Name=EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2802576	2802600	.	-	.	ID=exon:EmuJ_000489200.1.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2802401	2802499	.	-	.	ID=exon:EmuJ_000489200.1.2;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2802016	2802108	.	-	.	ID=exon:EmuJ_000489200.1.3;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2801661	2801747	.	-	.	ID=exon:EmuJ_000489200.1.4;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2801382	2801450	.	-	.	ID=exon:EmuJ_000489200.1.5;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2801177	2801308	.	-	.	ID=exon:EmuJ_000489200.1.6;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2800973	2801038	.	-	.	ID=exon:EmuJ_000489200.1.7;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2800865	2800897	.	-	.	ID=exon:EmuJ_000489200.1.8;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2800694	2800777	.	-	.	ID=exon:EmuJ_000489200.1.9;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2800473	2800487	.	-	.	ID=exon:EmuJ_000489200.1.10;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2800341	2800388	.	-	.	ID=exon:EmuJ_000489200.1.11;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2800230	2800259	.	-	.	ID=exon:EmuJ_000489200.1.12;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2799163	2799852	.	-	.	ID=exon:EmuJ_000489200.1.13;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2799065	2799091	.	-	.	ID=exon:EmuJ_000489200.1.14;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2798848	2798910	.	-	.	ID=exon:EmuJ_000489200.1.15;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2798506	2798706	.	-	.	ID=exon:EmuJ_000489200.1.16;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2798316	2798366	.	-	.	ID=exon:EmuJ_000489200.1.17;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2798178	2798237	.	-	.	ID=exon:EmuJ_000489200.1.18;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2798061	2798108	.	-	.	ID=exon:EmuJ_000489200.1.19;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2797922	2797981	.	-	.	ID=exon:EmuJ_000489200.1.20;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2797809	2797841	.	-	.	ID=exon:EmuJ_000489200.1.21;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2797594	2797725	.	-	.	ID=exon:EmuJ_000489200.1.22;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2797476	2797505	.	-	.	ID=exon:EmuJ_000489200.1.23;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2797383	2797406	.	-	.	ID=exon:EmuJ_000489200.1.24;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2797273	2797296	.	-	.	ID=exon:EmuJ_000489200.1.25;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2797156	2797194	.	-	.	ID=exon:EmuJ_000489200.1.26;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2797013	2797033	.	-	.	ID=exon:EmuJ_000489200.1.27;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2796793	2796912	.	-	.	ID=exon:EmuJ_000489200.1.28;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2796665	2796694	.	-	.	ID=exon:EmuJ_000489200.1.29;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2796475	2796588	.	-	.	ID=exon:EmuJ_000489200.1.30;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2796375	2796407	.	-	.	ID=exon:EmuJ_000489200.1.31;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2796263	2796295	.	-	.	ID=exon:EmuJ_000489200.1.32;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2796137	2796184	.	-	.	ID=exon:EmuJ_000489200.1.33;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2795976	2796056	.	-	.	ID=exon:EmuJ_000489200.1.34;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2795743	2795811	.	-	.	ID=exon:EmuJ_000489200.1.35;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2795562	2795606	.	-	.	ID=exon:EmuJ_000489200.1.36;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2795469	2795489	.	-	.	ID=exon:EmuJ_000489200.1.37;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2795281	2795337	.	-	.	ID=exon:EmuJ_000489200.1.38;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2795121	2795159	.	-	.	ID=exon:EmuJ_000489200.1.39;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	exon	2795006	2795019	.	-	.	ID=exon:EmuJ_000489200.1.40;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2802576	2802600	.	-	0	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2802401	2802499	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2802016	2802108	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2801661	2801747	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2801382	2801450	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2801177	2801308	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2800973	2801038	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2800865	2800897	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2800694	2800777	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2800473	2800487	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2800341	2800388	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2800230	2800259	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2799163	2799852	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2799065	2799091	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2798848	2798910	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2798506	2798706	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2798316	2798366	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2798178	2798237	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2798061	2798108	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2797922	2797981	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2797809	2797841	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2797594	2797725	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2797476	2797505	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2797383	2797406	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2797273	2797296	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2797156	2797194	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2797013	2797033	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2796793	2796912	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2796665	2796694	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2796475	2796588	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2796375	2796407	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2796263	2796295	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2796137	2796184	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2795976	2796056	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2795743	2795811	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2795562	2795606	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2795469	2795489	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2795281	2795337	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2795121	2795159	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_03	WormBase_imported	CDS	2795006	2795019	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
+pathogen_EmW_scaffold_04	WormBase_imported	gene	8366595	8390242	.	+	.	ID=gene:EmuJ_000255900;Name=EmuJ_000255900;biotype=protein_coding;description=Dynein heavy chain;description_source=UniProtKB/TrEMBL;description_source_acc=A0A087W1Z8
+pathogen_EmW_scaffold_04	WormBase_imported	mRNA	8366595	8390242	.	+	.	ID=transcript:EmuJ_000255900.1;Parent=gene:EmuJ_000255900;Name=EmuJ_000255900.1;info=method:InterPro accession:IPR003593 description:AAA+ ATPase domain %0Amethod:InterPro accession:IPR004273 description:Dynein heavy chain region D6 P-loop domain %0Amethod:InterPro accession:IPR013602 description:Dynein heavy chain%2C domain-2 %0Amethod:InterPro accession:IPR024317 description:Dynein heavy chain%2C AAA module D4 %0Amethod:InterPro accession:IPR024743 description:Dynein heavy chain%2C coiled coil stalk %0Amethod:InterPro accession:IPR026983 description:Dynein heavy chain %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR035699 description:Dynein heavy chain%2C hydrolytic ATP-binding dynein motor region %0Amethod:InterPro accession:IPR035706 description:Dynein heavy chain%2C ATP-binding dynein motor region %0Amethod:InterPro accession:IPR041228 description:Dynein heavy chain%2C C-terminal domain %0Amethod:InterPro accession:IPR041466 description:Dynein heavy chain%2C AAA 5 extension domain %0Amethod:InterPro accession:IPR041589 description:Dynein heavy chain 3%2C AAA+ lid domain %0Amethod:InterPro accession:IPR041658 description:Dynein heavy chain AAA lid domain
+pathogen_EmW_scaffold_04	WormBase_imported	exon	8366595	8366624	.	+	.	ID=exon:EmuJ_000255900.1.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	8366830	8367134	.	+	.	ID=exon:EmuJ_000255900.1.2;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	8367402	8367521	.	+	.	ID=exon:EmuJ_000255900.1.3;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	8368199	8368235	.	+	.	ID=exon:EmuJ_000255900.1.4;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	8368348	8368524	.	+	.	ID=exon:EmuJ_000255900.1.5;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	8368602	8368676	.	+	.	ID=exon:EmuJ_000255900.1.6;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	8369056	8369462	.	+	.	ID=exon:EmuJ_000255900.1.7;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	8371082	8372069	.	+	.	ID=exon:EmuJ_000255900.1.8;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	8372564	8372712	.	+	.	ID=exon:EmuJ_000255900.1.9;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	8373023	8373638	.	+	.	ID=exon:EmuJ_000255900.1.10;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	8374091	8374323	.	+	.	ID=exon:EmuJ_000255900.1.11;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	8374568	8374805	.	+	.	ID=exon:EmuJ_000255900.1.12;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	8375012	8375242	.	+	.	ID=exon:EmuJ_000255900.1.13;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	8375316	8375528	.	+	.	ID=exon:EmuJ_000255900.1.14;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	8376111	8376623	.	+	.	ID=exon:EmuJ_000255900.1.15;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	8376694	8376825	.	+	.	ID=exon:EmuJ_000255900.1.16;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	8377129	8377350	.	+	.	ID=exon:EmuJ_000255900.1.17;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	8377601	8377624	.	+	.	ID=exon:EmuJ_000255900.1.18;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	8377706	8377717	.	+	.	ID=exon:EmuJ_000255900.1.19;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	8377806	8377826	.	+	.	ID=exon:EmuJ_000255900.1.20;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	8378271	8378279	.	+	.	ID=exon:EmuJ_000255900.1.21;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	8378348	8378401	.	+	.	ID=exon:EmuJ_000255900.1.22;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	8378762	8378959	.	+	.	ID=exon:EmuJ_000255900.1.23;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	8379495	8379748	.	+	.	ID=exon:EmuJ_000255900.1.24;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	8380052	8380249	.	+	.	ID=exon:EmuJ_000255900.1.25;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	8380529	8380889	.	+	.	ID=exon:EmuJ_000255900.1.26;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	8381414	8381725	.	+	.	ID=exon:EmuJ_000255900.1.27;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	8382208	8382621	.	+	.	ID=exon:EmuJ_000255900.1.28;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	8382797	8383026	.	+	.	ID=exon:EmuJ_000255900.1.29;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	8383253	8383583	.	+	.	ID=exon:EmuJ_000255900.1.30;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	8383917	8384794	.	+	.	ID=exon:EmuJ_000255900.1.31;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	8384870	8385176	.	+	.	ID=exon:EmuJ_000255900.1.32;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	8385417	8387045	.	+	.	ID=exon:EmuJ_000255900.1.33;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	8387306	8387491	.	+	.	ID=exon:EmuJ_000255900.1.34;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	8387984	8388121	.	+	.	ID=exon:EmuJ_000255900.1.35;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	8388369	8388752	.	+	.	ID=exon:EmuJ_000255900.1.36;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	8389226	8389403	.	+	.	ID=exon:EmuJ_000255900.1.37;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	8389690	8389793	.	+	.	ID=exon:EmuJ_000255900.1.38;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	8390036	8390242	.	+	.	ID=exon:EmuJ_000255900.1.39;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	8366595	8366624	.	+	0	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	8366830	8367134	.	+	0	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	8367402	8367521	.	+	1	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	8368199	8368235	.	+	1	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	8368348	8368524	.	+	0	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	8368602	8368676	.	+	0	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	8369056	8369462	.	+	0	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	8371082	8372069	.	+	1	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	8372564	8372712	.	+	0	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	8373023	8373638	.	+	1	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	8374091	8374323	.	+	0	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	8374568	8374805	.	+	1	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	8375012	8375242	.	+	0	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	8375316	8375528	.	+	0	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	8376111	8376623	.	+	0	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	8376694	8376825	.	+	0	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	8377129	8377350	.	+	0	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	8377601	8377624	.	+	0	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	8377706	8377717	.	+	0	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	8377806	8377826	.	+	0	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	8378271	8378279	.	+	0	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	8378348	8378401	.	+	0	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	8378762	8378959	.	+	0	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	8379495	8379748	.	+	0	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	8380052	8380249	.	+	1	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	8380529	8380889	.	+	1	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	8381414	8381725	.	+	0	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	8382208	8382621	.	+	0	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	8382797	8383026	.	+	0	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	8383253	8383583	.	+	1	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	8383917	8384794	.	+	0	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	8384870	8385176	.	+	1	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	8385417	8387045	.	+	0	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	8387306	8387491	.	+	0	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	8387984	8388121	.	+	0	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	8388369	8388752	.	+	0	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	8389226	8389403	.	+	0	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	8389690	8389793	.	+	2	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	8390036	8390242	.	+	0	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
+pathogen_EmW_scaffold_04	WormBase_imported	gene	10207756	10211616	.	+	.	ID=gene:EmuJ_000120500;Name=EmuJ_000120500;biotype=protein_coding;description=Expressed protein;description_source=UniProtKB/TrEMBL;description_source_acc=A0A087VYY1
+pathogen_EmW_scaffold_04	WormBase_imported	mRNA	10207756	10211616	.	+	.	ID=transcript:EmuJ_000120500.1;Parent=gene:EmuJ_000120500;Name=EmuJ_000120500.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	10207756	10207783	.	+	.	ID=exon:EmuJ_000120500.1.1;Parent=transcript:EmuJ_000120500.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	10208064	10208120	.	+	.	ID=exon:EmuJ_000120500.1.2;Parent=transcript:EmuJ_000120500.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	10208210	10208344	.	+	.	ID=exon:EmuJ_000120500.1.3;Parent=transcript:EmuJ_000120500.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	10208567	10208590	.	+	.	ID=exon:EmuJ_000120500.1.4;Parent=transcript:EmuJ_000120500.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	10208682	10208702	.	+	.	ID=exon:EmuJ_000120500.1.5;Parent=transcript:EmuJ_000120500.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	10208825	10208851	.	+	.	ID=exon:EmuJ_000120500.1.6;Parent=transcript:EmuJ_000120500.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	10209073	10209225	.	+	.	ID=exon:EmuJ_000120500.1.7;Parent=transcript:EmuJ_000120500.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	10209417	10209440	.	+	.	ID=exon:EmuJ_000120500.1.8;Parent=transcript:EmuJ_000120500.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	10209873	10209986	.	+	.	ID=exon:EmuJ_000120500.1.9;Parent=transcript:EmuJ_000120500.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	10210058	10210081	.	+	.	ID=exon:EmuJ_000120500.1.10;Parent=transcript:EmuJ_000120500.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	10210189	10210215	.	+	.	ID=exon:EmuJ_000120500.1.11;Parent=transcript:EmuJ_000120500.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	10210822	10210833	.	+	.	ID=exon:EmuJ_000120500.1.12;Parent=transcript:EmuJ_000120500.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	10211262	10211303	.	+	.	ID=exon:EmuJ_000120500.1.13;Parent=transcript:EmuJ_000120500.1
+pathogen_EmW_scaffold_04	WormBase_imported	exon	10211564	10211616	.	+	.	ID=exon:EmuJ_000120500.1.14;Parent=transcript:EmuJ_000120500.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	10207756	10207783	.	+	0	ID=cds:EmuJ_000120500.1;Parent=transcript:EmuJ_000120500.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	10208064	10208120	.	+	2	ID=cds:EmuJ_000120500.1;Parent=transcript:EmuJ_000120500.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	10208210	10208344	.	+	2	ID=cds:EmuJ_000120500.1;Parent=transcript:EmuJ_000120500.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	10208567	10208590	.	+	2	ID=cds:EmuJ_000120500.1;Parent=transcript:EmuJ_000120500.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	10208682	10208702	.	+	2	ID=cds:EmuJ_000120500.1;Parent=transcript:EmuJ_000120500.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	10208825	10208851	.	+	2	ID=cds:EmuJ_000120500.1;Parent=transcript:EmuJ_000120500.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	10209073	10209225	.	+	2	ID=cds:EmuJ_000120500.1;Parent=transcript:EmuJ_000120500.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	10209417	10209440	.	+	2	ID=cds:EmuJ_000120500.1;Parent=transcript:EmuJ_000120500.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	10209873	10209986	.	+	2	ID=cds:EmuJ_000120500.1;Parent=transcript:EmuJ_000120500.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	10210058	10210081	.	+	2	ID=cds:EmuJ_000120500.1;Parent=transcript:EmuJ_000120500.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	10210189	10210215	.	+	2	ID=cds:EmuJ_000120500.1;Parent=transcript:EmuJ_000120500.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	10210822	10210833	.	+	2	ID=cds:EmuJ_000120500.1;Parent=transcript:EmuJ_000120500.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	10211262	10211303	.	+	2	ID=cds:EmuJ_000120500.1;Parent=transcript:EmuJ_000120500.1
+pathogen_EmW_scaffold_04	WormBase_imported	CDS	10211564	10211616	.	+	2	ID=cds:EmuJ_000120500.1;Parent=transcript:EmuJ_000120500.1
+pathogen_EmW_scaffold_05	WormBase_imported	gene	11682151	11688711	.	-	.	ID=gene:EmuJ_000679000;Name=EmuJ_000679000;biotype=protein_coding;description=Mitogen-activated protein kinase;description_source=UniProtKB/TrEMBL;description_source_acc=U6HPV5
+pathogen_EmW_scaffold_05	WormBase_imported	mRNA	11682151	11688711	.	-	.	ID=transcript:EmuJ_000679000.1;Parent=gene:EmuJ_000679000;Name=EmuJ_000679000.1;info=method:InterPro accession:IPR000719 description:Protein kinase domain %0Amethod:InterPro accession:IPR003527 description:Mitogen-activated protein (MAP) kinase%2C conserved site %0Amethod:InterPro accession:IPR008271 description:Serine/threonine-protein kinase%2C active site %0Amethod:InterPro accession:IPR011009 description:Protein kinase-like domain superfamily
+pathogen_EmW_scaffold_05	WormBase_imported	exon	11688659	11688711	.	-	.	ID=exon:EmuJ_000679000.1.1;Parent=transcript:EmuJ_000679000.1
+pathogen_EmW_scaffold_05	WormBase_imported	exon	11688044	11688128	.	-	.	ID=exon:EmuJ_000679000.1.2;Parent=transcript:EmuJ_000679000.1
+pathogen_EmW_scaffold_05	WormBase_imported	exon	11687678	11687924	.	-	.	ID=exon:EmuJ_000679000.1.3;Parent=transcript:EmuJ_000679000.1
+pathogen_EmW_scaffold_05	WormBase_imported	exon	11687365	11687628	.	-	.	ID=exon:EmuJ_000679000.1.4;Parent=transcript:EmuJ_000679000.1
+pathogen_EmW_scaffold_05	WormBase_imported	exon	11687073	11687235	.	-	.	ID=exon:EmuJ_000679000.1.5;Parent=transcript:EmuJ_000679000.1
+pathogen_EmW_scaffold_05	WormBase_imported	exon	11686800	11686989	.	-	.	ID=exon:EmuJ_000679000.1.6;Parent=transcript:EmuJ_000679000.1
+pathogen_EmW_scaffold_05	WormBase_imported	exon	11686621	11686671	.	-	.	ID=exon:EmuJ_000679000.1.7;Parent=transcript:EmuJ_000679000.1
+pathogen_EmW_scaffold_05	WormBase_imported	exon	11685626	11685706	.	-	.	ID=exon:EmuJ_000679000.1.8;Parent=transcript:EmuJ_000679000.1
+pathogen_EmW_scaffold_05	WormBase_imported	exon	11684644	11684664	.	-	.	ID=exon:EmuJ_000679000.1.9;Parent=transcript:EmuJ_000679000.1
+pathogen_EmW_scaffold_05	WormBase_imported	exon	11683965	11683985	.	-	.	ID=exon:EmuJ_000679000.1.10;Parent=transcript:EmuJ_000679000.1
+pathogen_EmW_scaffold_05	WormBase_imported	exon	11683419	11683448	.	-	.	ID=exon:EmuJ_000679000.1.11;Parent=transcript:EmuJ_000679000.1
+pathogen_EmW_scaffold_05	WormBase_imported	exon	11683220	11683264	.	-	.	ID=exon:EmuJ_000679000.1.12;Parent=transcript:EmuJ_000679000.1
+pathogen_EmW_scaffold_05	WormBase_imported	exon	11682252	11682473	.	-	.	ID=exon:EmuJ_000679000.1.13;Parent=transcript:EmuJ_000679000.1
+pathogen_EmW_scaffold_05	WormBase_imported	exon	11682151	11682180	.	-	.	ID=exon:EmuJ_000679000.1.14;Parent=transcript:EmuJ_000679000.1
+pathogen_EmW_scaffold_05	WormBase_imported	CDS	11688659	11688711	.	-	0	ID=cds:EmuJ_000679000.1;Parent=transcript:EmuJ_000679000.1
+pathogen_EmW_scaffold_05	WormBase_imported	CDS	11688044	11688128	.	-	1	ID=cds:EmuJ_000679000.1;Parent=transcript:EmuJ_000679000.1
+pathogen_EmW_scaffold_05	WormBase_imported	CDS	11687678	11687924	.	-	0	ID=cds:EmuJ_000679000.1;Parent=transcript:EmuJ_000679000.1
+pathogen_EmW_scaffold_05	WormBase_imported	CDS	11687365	11687628	.	-	2	ID=cds:EmuJ_000679000.1;Parent=transcript:EmuJ_000679000.1
+pathogen_EmW_scaffold_05	WormBase_imported	CDS	11687073	11687235	.	-	2	ID=cds:EmuJ_000679000.1;Parent=transcript:EmuJ_000679000.1
+pathogen_EmW_scaffold_05	WormBase_imported	CDS	11686800	11686989	.	-	1	ID=cds:EmuJ_000679000.1;Parent=transcript:EmuJ_000679000.1
+pathogen_EmW_scaffold_05	WormBase_imported	CDS	11686621	11686671	.	-	0	ID=cds:EmuJ_000679000.1;Parent=transcript:EmuJ_000679000.1
+pathogen_EmW_scaffold_05	WormBase_imported	CDS	11685626	11685706	.	-	0	ID=cds:EmuJ_000679000.1;Parent=transcript:EmuJ_000679000.1
+pathogen_EmW_scaffold_05	WormBase_imported	CDS	11684644	11684664	.	-	0	ID=cds:EmuJ_000679000.1;Parent=transcript:EmuJ_000679000.1
+pathogen_EmW_scaffold_05	WormBase_imported	CDS	11683965	11683985	.	-	0	ID=cds:EmuJ_000679000.1;Parent=transcript:EmuJ_000679000.1
+pathogen_EmW_scaffold_05	WormBase_imported	CDS	11683419	11683448	.	-	0	ID=cds:EmuJ_000679000.1;Parent=transcript:EmuJ_000679000.1
+pathogen_EmW_scaffold_05	WormBase_imported	CDS	11683220	11683264	.	-	0	ID=cds:EmuJ_000679000.1;Parent=transcript:EmuJ_000679000.1
+pathogen_EmW_scaffold_05	WormBase_imported	CDS	11682252	11682473	.	-	0	ID=cds:EmuJ_000679000.1;Parent=transcript:EmuJ_000679000.1
+pathogen_EmW_scaffold_05	WormBase_imported	CDS	11682151	11682180	.	-	0	ID=cds:EmuJ_000679000.1;Parent=transcript:EmuJ_000679000.1
+pathogen_EmW_scaffold_05	WormBase_imported	gene	11790966	11794450	.	-	.	ID=gene:EmuJ_000566700;Name=EmuJ_000566700;biotype=protein_coding;description=Diagnostic antigen gp50;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068Y7V2
+pathogen_EmW_scaffold_05	WormBase_imported	mRNA	11790966	11794450	.	-	.	ID=transcript:EmuJ_000566700.1;Parent=gene:EmuJ_000566700;Name=EmuJ_000566700.1
+pathogen_EmW_scaffold_05	WormBase_imported	exon	11794405	11794450	.	-	.	ID=exon:EmuJ_000566700.1.1;Parent=transcript:EmuJ_000566700.1
+pathogen_EmW_scaffold_05	WormBase_imported	exon	11794094	11794182	.	-	.	ID=exon:EmuJ_000566700.1.2;Parent=transcript:EmuJ_000566700.1
+pathogen_EmW_scaffold_05	WormBase_imported	exon	11793777	11793882	.	-	.	ID=exon:EmuJ_000566700.1.3;Parent=transcript:EmuJ_000566700.1
+pathogen_EmW_scaffold_05	WormBase_imported	exon	11793423	11793545	.	-	.	ID=exon:EmuJ_000566700.1.4;Parent=transcript:EmuJ_000566700.1
+pathogen_EmW_scaffold_05	WormBase_imported	exon	11793116	11793219	.	-	.	ID=exon:EmuJ_000566700.1.5;Parent=transcript:EmuJ_000566700.1
+pathogen_EmW_scaffold_05	WormBase_imported	exon	11792905	11792983	.	-	.	ID=exon:EmuJ_000566700.1.6;Parent=transcript:EmuJ_000566700.1
+pathogen_EmW_scaffold_05	WormBase_imported	exon	11792685	11792816	.	-	.	ID=exon:EmuJ_000566700.1.7;Parent=transcript:EmuJ_000566700.1
+pathogen_EmW_scaffold_05	WormBase_imported	exon	11792488	11792517	.	-	.	ID=exon:EmuJ_000566700.1.8;Parent=transcript:EmuJ_000566700.1
+pathogen_EmW_scaffold_05	WormBase_imported	exon	11792246	11792263	.	-	.	ID=exon:EmuJ_000566700.1.9;Parent=transcript:EmuJ_000566700.1
+pathogen_EmW_scaffold_05	WormBase_imported	exon	11791516	11791533	.	-	.	ID=exon:EmuJ_000566700.1.10;Parent=transcript:EmuJ_000566700.1
+pathogen_EmW_scaffold_05	WormBase_imported	exon	11791362	11791388	.	-	.	ID=exon:EmuJ_000566700.1.11;Parent=transcript:EmuJ_000566700.1
+pathogen_EmW_scaffold_05	WormBase_imported	exon	11790966	11791018	.	-	.	ID=exon:EmuJ_000566700.1.12;Parent=transcript:EmuJ_000566700.1
+pathogen_EmW_scaffold_05	WormBase_imported	CDS	11794405	11794450	.	-	0	ID=cds:EmuJ_000566700.1;Parent=transcript:EmuJ_000566700.1
+pathogen_EmW_scaffold_05	WormBase_imported	CDS	11794094	11794182	.	-	2	ID=cds:EmuJ_000566700.1;Parent=transcript:EmuJ_000566700.1
+pathogen_EmW_scaffold_05	WormBase_imported	CDS	11793777	11793882	.	-	0	ID=cds:EmuJ_000566700.1;Parent=transcript:EmuJ_000566700.1
+pathogen_EmW_scaffold_05	WormBase_imported	CDS	11793423	11793545	.	-	2	ID=cds:EmuJ_000566700.1;Parent=transcript:EmuJ_000566700.1
+pathogen_EmW_scaffold_05	WormBase_imported	CDS	11793116	11793219	.	-	2	ID=cds:EmuJ_000566700.1;Parent=transcript:EmuJ_000566700.1
+pathogen_EmW_scaffold_05	WormBase_imported	CDS	11792905	11792983	.	-	0	ID=cds:EmuJ_000566700.1;Parent=transcript:EmuJ_000566700.1
+pathogen_EmW_scaffold_05	WormBase_imported	CDS	11792685	11792816	.	-	2	ID=cds:EmuJ_000566700.1;Parent=transcript:EmuJ_000566700.1
+pathogen_EmW_scaffold_05	WormBase_imported	CDS	11792488	11792517	.	-	2	ID=cds:EmuJ_000566700.1;Parent=transcript:EmuJ_000566700.1
+pathogen_EmW_scaffold_05	WormBase_imported	CDS	11792246	11792263	.	-	2	ID=cds:EmuJ_000566700.1;Parent=transcript:EmuJ_000566700.1
+pathogen_EmW_scaffold_05	WormBase_imported	CDS	11791516	11791533	.	-	2	ID=cds:EmuJ_000566700.1;Parent=transcript:EmuJ_000566700.1
+pathogen_EmW_scaffold_05	WormBase_imported	CDS	11791362	11791388	.	-	2	ID=cds:EmuJ_000566700.1;Parent=transcript:EmuJ_000566700.1
+pathogen_EmW_scaffold_05	WormBase_imported	CDS	11790966	11791018	.	-	2	ID=cds:EmuJ_000566700.1;Parent=transcript:EmuJ_000566700.1
+pathogen_EmW_scaffold_08	WormBase_imported	gene	3253591	3258793	.	+	.	ID=gene:EmuJ_001120900;Name=EmuJ_001120900;biotype=protein_coding;description=Diagnostic antigen gp50;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068YF78
+pathogen_EmW_scaffold_08	WormBase_imported	mRNA	3253591	3258793	.	+	.	ID=transcript:EmuJ_001120900.1;Parent=gene:EmuJ_001120900;Name=EmuJ_001120900.1
+pathogen_EmW_scaffold_08	WormBase_imported	exon	3253591	3253636	.	+	.	ID=exon:EmuJ_001120900.1.1;Parent=transcript:EmuJ_001120900.1
+pathogen_EmW_scaffold_08	WormBase_imported	exon	3253856	3253944	.	+	.	ID=exon:EmuJ_001120900.1.2;Parent=transcript:EmuJ_001120900.1
+pathogen_EmW_scaffold_08	WormBase_imported	exon	3254156	3254261	.	+	.	ID=exon:EmuJ_001120900.1.3;Parent=transcript:EmuJ_001120900.1
+pathogen_EmW_scaffold_08	WormBase_imported	exon	3254522	3254644	.	+	.	ID=exon:EmuJ_001120900.1.4;Parent=transcript:EmuJ_001120900.1
+pathogen_EmW_scaffold_08	WormBase_imported	exon	3254845	3254948	.	+	.	ID=exon:EmuJ_001120900.1.5;Parent=transcript:EmuJ_001120900.1
+pathogen_EmW_scaffold_08	WormBase_imported	exon	3255082	3255160	.	+	.	ID=exon:EmuJ_001120900.1.6;Parent=transcript:EmuJ_001120900.1
+pathogen_EmW_scaffold_08	WormBase_imported	exon	3255249	3255389	.	+	.	ID=exon:EmuJ_001120900.1.7;Parent=transcript:EmuJ_001120900.1
+pathogen_EmW_scaffold_08	WormBase_imported	exon	3255557	3255586	.	+	.	ID=exon:EmuJ_001120900.1.8;Parent=transcript:EmuJ_001120900.1
+pathogen_EmW_scaffold_08	WormBase_imported	exon	3255782	3255799	.	+	.	ID=exon:EmuJ_001120900.1.9;Parent=transcript:EmuJ_001120900.1
+pathogen_EmW_scaffold_08	WormBase_imported	exon	3256573	3256587	.	+	.	ID=exon:EmuJ_001120900.1.10;Parent=transcript:EmuJ_001120900.1
+pathogen_EmW_scaffold_08	WormBase_imported	exon	3257054	3257080	.	+	.	ID=exon:EmuJ_001120900.1.11;Parent=transcript:EmuJ_001120900.1
+pathogen_EmW_scaffold_08	WormBase_imported	exon	3257483	3257509	.	+	.	ID=exon:EmuJ_001120900.1.12;Parent=transcript:EmuJ_001120900.1
+pathogen_EmW_scaffold_08	WormBase_imported	exon	3257912	3257938	.	+	.	ID=exon:EmuJ_001120900.1.13;Parent=transcript:EmuJ_001120900.1
+pathogen_EmW_scaffold_08	WormBase_imported	exon	3258247	3258261	.	+	.	ID=exon:EmuJ_001120900.1.14;Parent=transcript:EmuJ_001120900.1
+pathogen_EmW_scaffold_08	WormBase_imported	exon	3258388	3258421	.	+	.	ID=exon:EmuJ_001120900.1.15;Parent=transcript:EmuJ_001120900.1
+pathogen_EmW_scaffold_08	WormBase_imported	exon	3258643	3258793	.	+	.	ID=exon:EmuJ_001120900.1.16;Parent=transcript:EmuJ_001120900.1
+pathogen_EmW_scaffold_08	WormBase_imported	CDS	3253591	3253636	.	+	0	ID=cds:EmuJ_001120900.1;Parent=transcript:EmuJ_001120900.1
+pathogen_EmW_scaffold_08	WormBase_imported	CDS	3253856	3253944	.	+	2	ID=cds:EmuJ_001120900.1;Parent=transcript:EmuJ_001120900.1
+pathogen_EmW_scaffold_08	WormBase_imported	CDS	3254156	3254261	.	+	0	ID=cds:EmuJ_001120900.1;Parent=transcript:EmuJ_001120900.1
+pathogen_EmW_scaffold_08	WormBase_imported	CDS	3254522	3254644	.	+	2	ID=cds:EmuJ_001120900.1;Parent=transcript:EmuJ_001120900.1
+pathogen_EmW_scaffold_08	WormBase_imported	CDS	3254845	3254948	.	+	2	ID=cds:EmuJ_001120900.1;Parent=transcript:EmuJ_001120900.1
+pathogen_EmW_scaffold_08	WormBase_imported	CDS	3255082	3255160	.	+	0	ID=cds:EmuJ_001120900.1;Parent=transcript:EmuJ_001120900.1
+pathogen_EmW_scaffold_08	WormBase_imported	CDS	3255249	3255389	.	+	2	ID=cds:EmuJ_001120900.1;Parent=transcript:EmuJ_001120900.1
+pathogen_EmW_scaffold_08	WormBase_imported	CDS	3255557	3255586	.	+	2	ID=cds:EmuJ_001120900.1;Parent=transcript:EmuJ_001120900.1
+pathogen_EmW_scaffold_08	WormBase_imported	CDS	3255782	3255799	.	+	2	ID=cds:EmuJ_001120900.1;Parent=transcript:EmuJ_001120900.1
+pathogen_EmW_scaffold_08	WormBase_imported	CDS	3256573	3256587	.	+	2	ID=cds:EmuJ_001120900.1;Parent=transcript:EmuJ_001120900.1
+pathogen_EmW_scaffold_08	WormBase_imported	CDS	3257054	3257080	.	+	2	ID=cds:EmuJ_001120900.1;Parent=transcript:EmuJ_001120900.1
+pathogen_EmW_scaffold_08	WormBase_imported	CDS	3257483	3257509	.	+	2	ID=cds:EmuJ_001120900.1;Parent=transcript:EmuJ_001120900.1
+pathogen_EmW_scaffold_08	WormBase_imported	CDS	3257912	3257938	.	+	2	ID=cds:EmuJ_001120900.1;Parent=transcript:EmuJ_001120900.1
+pathogen_EmW_scaffold_08	WormBase_imported	CDS	3258247	3258261	.	+	2	ID=cds:EmuJ_001120900.1;Parent=transcript:EmuJ_001120900.1
+pathogen_EmW_scaffold_08	WormBase_imported	CDS	3258388	3258421	.	+	2	ID=cds:EmuJ_001120900.1;Parent=transcript:EmuJ_001120900.1
+pathogen_EmW_scaffold_08	WormBase_imported	CDS	3258643	3258793	.	+	1	ID=cds:EmuJ_001120900.1;Parent=transcript:EmuJ_001120900.1
+pathogen_EmW_scaffold_08	WormBase_imported	gene	3266053	3272015	.	+	.	ID=gene:EmuJ_001120700;Name=EmuJ_001120700;biotype=protein_coding;description=Diagnostic antigen gp50;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068YJJ5
+pathogen_EmW_scaffold_08	WormBase_imported	mRNA	3266053	3272015	.	+	.	ID=transcript:EmuJ_001120700.1;Parent=gene:EmuJ_001120700;Name=EmuJ_001120700.1
+pathogen_EmW_scaffold_08	WormBase_imported	exon	3266053	3266098	.	+	.	ID=exon:EmuJ_001120700.1.1;Parent=transcript:EmuJ_001120700.1
+pathogen_EmW_scaffold_08	WormBase_imported	exon	3266318	3266406	.	+	.	ID=exon:EmuJ_001120700.1.2;Parent=transcript:EmuJ_001120700.1
+pathogen_EmW_scaffold_08	WormBase_imported	exon	3266618	3266723	.	+	.	ID=exon:EmuJ_001120700.1.3;Parent=transcript:EmuJ_001120700.1
+pathogen_EmW_scaffold_08	WormBase_imported	exon	3266984	3267106	.	+	.	ID=exon:EmuJ_001120700.1.4;Parent=transcript:EmuJ_001120700.1
+pathogen_EmW_scaffold_08	WormBase_imported	exon	3267307	3267410	.	+	.	ID=exon:EmuJ_001120700.1.5;Parent=transcript:EmuJ_001120700.1
+pathogen_EmW_scaffold_08	WormBase_imported	exon	3267544	3267622	.	+	.	ID=exon:EmuJ_001120700.1.6;Parent=transcript:EmuJ_001120700.1
+pathogen_EmW_scaffold_08	WormBase_imported	exon	3267711	3267851	.	+	.	ID=exon:EmuJ_001120700.1.7;Parent=transcript:EmuJ_001120700.1
+pathogen_EmW_scaffold_08	WormBase_imported	exon	3268019	3268048	.	+	.	ID=exon:EmuJ_001120700.1.8;Parent=transcript:EmuJ_001120700.1
+pathogen_EmW_scaffold_08	WormBase_imported	exon	3268244	3268261	.	+	.	ID=exon:EmuJ_001120700.1.9;Parent=transcript:EmuJ_001120700.1
+pathogen_EmW_scaffold_08	WormBase_imported	exon	3269035	3269049	.	+	.	ID=exon:EmuJ_001120700.1.10;Parent=transcript:EmuJ_001120700.1
+pathogen_EmW_scaffold_08	WormBase_imported	exon	3269516	3269542	.	+	.	ID=exon:EmuJ_001120700.1.11;Parent=transcript:EmuJ_001120700.1
+pathogen_EmW_scaffold_08	WormBase_imported	exon	3269945	3269971	.	+	.	ID=exon:EmuJ_001120700.1.12;Parent=transcript:EmuJ_001120700.1
+pathogen_EmW_scaffold_08	WormBase_imported	exon	3270374	3270400	.	+	.	ID=exon:EmuJ_001120700.1.13;Parent=transcript:EmuJ_001120700.1
+pathogen_EmW_scaffold_08	WormBase_imported	exon	3270803	3270829	.	+	.	ID=exon:EmuJ_001120700.1.14;Parent=transcript:EmuJ_001120700.1
+pathogen_EmW_scaffold_08	WormBase_imported	exon	3271232	3271258	.	+	.	ID=exon:EmuJ_001120700.1.15;Parent=transcript:EmuJ_001120700.1
+pathogen_EmW_scaffold_08	WormBase_imported	exon	3271567	3271581	.	+	.	ID=exon:EmuJ_001120700.1.16;Parent=transcript:EmuJ_001120700.1
+pathogen_EmW_scaffold_08	WormBase_imported	exon	3271708	3271734	.	+	.	ID=exon:EmuJ_001120700.1.17;Parent=transcript:EmuJ_001120700.1
+pathogen_EmW_scaffold_08	WormBase_imported	exon	3271963	3272015	.	+	.	ID=exon:EmuJ_001120700.1.18;Parent=transcript:EmuJ_001120700.1
+pathogen_EmW_scaffold_08	WormBase_imported	CDS	3266053	3266098	.	+	0	ID=cds:EmuJ_001120700.1;Parent=transcript:EmuJ_001120700.1
+pathogen_EmW_scaffold_08	WormBase_imported	CDS	3266318	3266406	.	+	2	ID=cds:EmuJ_001120700.1;Parent=transcript:EmuJ_001120700.1
+pathogen_EmW_scaffold_08	WormBase_imported	CDS	3266618	3266723	.	+	0	ID=cds:EmuJ_001120700.1;Parent=transcript:EmuJ_001120700.1
+pathogen_EmW_scaffold_08	WormBase_imported	CDS	3266984	3267106	.	+	2	ID=cds:EmuJ_001120700.1;Parent=transcript:EmuJ_001120700.1
+pathogen_EmW_scaffold_08	WormBase_imported	CDS	3267307	3267410	.	+	2	ID=cds:EmuJ_001120700.1;Parent=transcript:EmuJ_001120700.1
+pathogen_EmW_scaffold_08	WormBase_imported	CDS	3267544	3267622	.	+	0	ID=cds:EmuJ_001120700.1;Parent=transcript:EmuJ_001120700.1
+pathogen_EmW_scaffold_08	WormBase_imported	CDS	3267711	3267851	.	+	2	ID=cds:EmuJ_001120700.1;Parent=transcript:EmuJ_001120700.1
+pathogen_EmW_scaffold_08	WormBase_imported	CDS	3268019	3268048	.	+	2	ID=cds:EmuJ_001120700.1;Parent=transcript:EmuJ_001120700.1
+pathogen_EmW_scaffold_08	WormBase_imported	CDS	3268244	3268261	.	+	2	ID=cds:EmuJ_001120700.1;Parent=transcript:EmuJ_001120700.1
+pathogen_EmW_scaffold_08	WormBase_imported	CDS	3269035	3269049	.	+	2	ID=cds:EmuJ_001120700.1;Parent=transcript:EmuJ_001120700.1
+pathogen_EmW_scaffold_08	WormBase_imported	CDS	3269516	3269542	.	+	2	ID=cds:EmuJ_001120700.1;Parent=transcript:EmuJ_001120700.1
+pathogen_EmW_scaffold_08	WormBase_imported	CDS	3269945	3269971	.	+	2	ID=cds:EmuJ_001120700.1;Parent=transcript:EmuJ_001120700.1
+pathogen_EmW_scaffold_08	WormBase_imported	CDS	3270374	3270400	.	+	2	ID=cds:EmuJ_001120700.1;Parent=transcript:EmuJ_001120700.1
+pathogen_EmW_scaffold_08	WormBase_imported	CDS	3270803	3270829	.	+	2	ID=cds:EmuJ_001120700.1;Parent=transcript:EmuJ_001120700.1
+pathogen_EmW_scaffold_08	WormBase_imported	CDS	3271232	3271258	.	+	2	ID=cds:EmuJ_001120700.1;Parent=transcript:EmuJ_001120700.1
+pathogen_EmW_scaffold_08	WormBase_imported	CDS	3271567	3271581	.	+	2	ID=cds:EmuJ_001120700.1;Parent=transcript:EmuJ_001120700.1
+pathogen_EmW_scaffold_08	WormBase_imported	CDS	3271708	3271734	.	+	2	ID=cds:EmuJ_001120700.1;Parent=transcript:EmuJ_001120700.1
+pathogen_EmW_scaffold_08	WormBase_imported	CDS	3271963	3272015	.	+	2	ID=cds:EmuJ_001120700.1;Parent=transcript:EmuJ_001120700.1
+pathogen_EmW_scaffold_10	WormBase_imported	gene	882431	886131	.	-	.	ID=gene:EmuJ_000324200;Name=EmuJ_000324200;biotype=protein_coding;description=Diagnostic antigen gp50;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068Y299
+pathogen_EmW_scaffold_10	WormBase_imported	mRNA	882431	886131	.	-	.	ID=transcript:EmuJ_000324200.1;Parent=gene:EmuJ_000324200;Name=EmuJ_000324200.1
+pathogen_EmW_scaffold_10	WormBase_imported	exon	886086	886131	.	-	.	ID=exon:EmuJ_000324200.1.1;Parent=transcript:EmuJ_000324200.1
+pathogen_EmW_scaffold_10	WormBase_imported	exon	885877	885968	.	-	.	ID=exon:EmuJ_000324200.1.2;Parent=transcript:EmuJ_000324200.1
+pathogen_EmW_scaffold_10	WormBase_imported	exon	885547	885652	.	-	.	ID=exon:EmuJ_000324200.1.3;Parent=transcript:EmuJ_000324200.1
+pathogen_EmW_scaffold_10	WormBase_imported	exon	885101	885126	.	-	.	ID=exon:EmuJ_000324200.1.4;Parent=transcript:EmuJ_000324200.1
+pathogen_EmW_scaffold_10	WormBase_imported	exon	884996	885084	.	-	.	ID=exon:EmuJ_000324200.1.5;Parent=transcript:EmuJ_000324200.1
+pathogen_EmW_scaffold_10	WormBase_imported	exon	884820	884928	.	-	.	ID=exon:EmuJ_000324200.1.6;Parent=transcript:EmuJ_000324200.1
+pathogen_EmW_scaffold_10	WormBase_imported	exon	884580	884658	.	-	.	ID=exon:EmuJ_000324200.1.7;Parent=transcript:EmuJ_000324200.1
+pathogen_EmW_scaffold_10	WormBase_imported	exon	884222	884362	.	-	.	ID=exon:EmuJ_000324200.1.8;Parent=transcript:EmuJ_000324200.1
+pathogen_EmW_scaffold_10	WormBase_imported	exon	883999	884028	.	-	.	ID=exon:EmuJ_000324200.1.9;Parent=transcript:EmuJ_000324200.1
+pathogen_EmW_scaffold_10	WormBase_imported	exon	883495	883512	.	-	.	ID=exon:EmuJ_000324200.1.10;Parent=transcript:EmuJ_000324200.1
+pathogen_EmW_scaffold_10	WormBase_imported	exon	883166	883192	.	-	.	ID=exon:EmuJ_000324200.1.11;Parent=transcript:EmuJ_000324200.1
+pathogen_EmW_scaffold_10	WormBase_imported	exon	883050	883067	.	-	.	ID=exon:EmuJ_000324200.1.12;Parent=transcript:EmuJ_000324200.1
+pathogen_EmW_scaffold_10	WormBase_imported	exon	882853	882879	.	-	.	ID=exon:EmuJ_000324200.1.13;Parent=transcript:EmuJ_000324200.1
+pathogen_EmW_scaffold_10	WormBase_imported	exon	882431	882480	.	-	.	ID=exon:EmuJ_000324200.1.14;Parent=transcript:EmuJ_000324200.1
+pathogen_EmW_scaffold_10	WormBase_imported	CDS	886086	886131	.	-	0	ID=cds:EmuJ_000324200.1;Parent=transcript:EmuJ_000324200.1
+pathogen_EmW_scaffold_10	WormBase_imported	CDS	885877	885968	.	-	2	ID=cds:EmuJ_000324200.1;Parent=transcript:EmuJ_000324200.1
+pathogen_EmW_scaffold_10	WormBase_imported	CDS	885547	885652	.	-	0	ID=cds:EmuJ_000324200.1;Parent=transcript:EmuJ_000324200.1
+pathogen_EmW_scaffold_10	WormBase_imported	CDS	885101	885126	.	-	2	ID=cds:EmuJ_000324200.1;Parent=transcript:EmuJ_000324200.1
+pathogen_EmW_scaffold_10	WormBase_imported	CDS	884996	885084	.	-	0	ID=cds:EmuJ_000324200.1;Parent=transcript:EmuJ_000324200.1
+pathogen_EmW_scaffold_10	WormBase_imported	CDS	884820	884928	.	-	1	ID=cds:EmuJ_000324200.1;Parent=transcript:EmuJ_000324200.1
+pathogen_EmW_scaffold_10	WormBase_imported	CDS	884580	884658	.	-	0	ID=cds:EmuJ_000324200.1;Parent=transcript:EmuJ_000324200.1
+pathogen_EmW_scaffold_10	WormBase_imported	CDS	884222	884362	.	-	2	ID=cds:EmuJ_000324200.1;Parent=transcript:EmuJ_000324200.1
+pathogen_EmW_scaffold_10	WormBase_imported	CDS	883999	884028	.	-	2	ID=cds:EmuJ_000324200.1;Parent=transcript:EmuJ_000324200.1
+pathogen_EmW_scaffold_10	WormBase_imported	CDS	883495	883512	.	-	2	ID=cds:EmuJ_000324200.1;Parent=transcript:EmuJ_000324200.1
+pathogen_EmW_scaffold_10	WormBase_imported	CDS	883166	883192	.	-	2	ID=cds:EmuJ_000324200.1;Parent=transcript:EmuJ_000324200.1
+pathogen_EmW_scaffold_10	WormBase_imported	CDS	883050	883067	.	-	2	ID=cds:EmuJ_000324200.1;Parent=transcript:EmuJ_000324200.1
+pathogen_EmW_scaffold_10	WormBase_imported	CDS	882853	882879	.	-	2	ID=cds:EmuJ_000324200.1;Parent=transcript:EmuJ_000324200.1
+pathogen_EmW_scaffold_10	WormBase_imported	CDS	882431	882480	.	-	2	ID=cds:EmuJ_000324200.1;Parent=transcript:EmuJ_000324200.1
+pathogen_EmW_scaffold_10	WormBase_imported	gene	2122000	2125114	.	+	.	ID=gene:EmuJ_000293700;Name=EmuJ_000293700;biotype=protein_coding;description=Diagnostic antigen gp50;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068Y045
+pathogen_EmW_scaffold_10	WormBase_imported	mRNA	2122000	2125114	.	+	.	ID=transcript:EmuJ_000293700.1;Parent=gene:EmuJ_000293700;Name=EmuJ_000293700.1
+pathogen_EmW_scaffold_10	WormBase_imported	exon	2122000	2122045	.	+	.	ID=exon:EmuJ_000293700.1.1;Parent=transcript:EmuJ_000293700.1
+pathogen_EmW_scaffold_10	WormBase_imported	exon	2122177	2122268	.	+	.	ID=exon:EmuJ_000293700.1.2;Parent=transcript:EmuJ_000293700.1
+pathogen_EmW_scaffold_10	WormBase_imported	exon	2122448	2122553	.	+	.	ID=exon:EmuJ_000293700.1.3;Parent=transcript:EmuJ_000293700.1
+pathogen_EmW_scaffold_10	WormBase_imported	exon	2122994	2123125	.	+	.	ID=exon:EmuJ_000293700.1.4;Parent=transcript:EmuJ_000293700.1
+pathogen_EmW_scaffold_10	WormBase_imported	exon	2123200	2123303	.	+	.	ID=exon:EmuJ_000293700.1.5;Parent=transcript:EmuJ_000293700.1
+pathogen_EmW_scaffold_10	WormBase_imported	exon	2123420	2123498	.	+	.	ID=exon:EmuJ_000293700.1.6;Parent=transcript:EmuJ_000293700.1
+pathogen_EmW_scaffold_10	WormBase_imported	exon	2123672	2123812	.	+	.	ID=exon:EmuJ_000293700.1.7;Parent=transcript:EmuJ_000293700.1
+pathogen_EmW_scaffold_10	WormBase_imported	exon	2124001	2124030	.	+	.	ID=exon:EmuJ_000293700.1.8;Parent=transcript:EmuJ_000293700.1
+pathogen_EmW_scaffold_10	WormBase_imported	exon	2124183	2124200	.	+	.	ID=exon:EmuJ_000293700.1.9;Parent=transcript:EmuJ_000293700.1
+pathogen_EmW_scaffold_10	WormBase_imported	exon	2124419	2124433	.	+	.	ID=exon:EmuJ_000293700.1.10;Parent=transcript:EmuJ_000293700.1
+pathogen_EmW_scaffold_10	WormBase_imported	exon	2124687	2124713	.	+	.	ID=exon:EmuJ_000293700.1.11;Parent=transcript:EmuJ_000293700.1
+pathogen_EmW_scaffold_10	WormBase_imported	exon	2125035	2125114	.	+	.	ID=exon:EmuJ_000293700.1.12;Parent=transcript:EmuJ_000293700.1
+pathogen_EmW_scaffold_10	WormBase_imported	CDS	2122000	2122045	.	+	0	ID=cds:EmuJ_000293700.1;Parent=transcript:EmuJ_000293700.1
+pathogen_EmW_scaffold_10	WormBase_imported	CDS	2122177	2122268	.	+	2	ID=cds:EmuJ_000293700.1;Parent=transcript:EmuJ_000293700.1
+pathogen_EmW_scaffold_10	WormBase_imported	CDS	2122448	2122553	.	+	0	ID=cds:EmuJ_000293700.1;Parent=transcript:EmuJ_000293700.1
+pathogen_EmW_scaffold_10	WormBase_imported	CDS	2122994	2123125	.	+	2	ID=cds:EmuJ_000293700.1;Parent=transcript:EmuJ_000293700.1
+pathogen_EmW_scaffold_10	WormBase_imported	CDS	2123200	2123303	.	+	2	ID=cds:EmuJ_000293700.1;Parent=transcript:EmuJ_000293700.1
+pathogen_EmW_scaffold_10	WormBase_imported	CDS	2123420	2123498	.	+	0	ID=cds:EmuJ_000293700.1;Parent=transcript:EmuJ_000293700.1
+pathogen_EmW_scaffold_10	WormBase_imported	CDS	2123672	2123812	.	+	2	ID=cds:EmuJ_000293700.1;Parent=transcript:EmuJ_000293700.1
+pathogen_EmW_scaffold_10	WormBase_imported	CDS	2124001	2124030	.	+	2	ID=cds:EmuJ_000293700.1;Parent=transcript:EmuJ_000293700.1
+pathogen_EmW_scaffold_10	WormBase_imported	CDS	2124183	2124200	.	+	2	ID=cds:EmuJ_000293700.1;Parent=transcript:EmuJ_000293700.1
+pathogen_EmW_scaffold_10	WormBase_imported	CDS	2124419	2124433	.	+	2	ID=cds:EmuJ_000293700.1;Parent=transcript:EmuJ_000293700.1
+pathogen_EmW_scaffold_10	WormBase_imported	CDS	2124687	2124713	.	+	2	ID=cds:EmuJ_000293700.1;Parent=transcript:EmuJ_000293700.1
+pathogen_EmW_scaffold_10	WormBase_imported	CDS	2125035	2125114	.	+	2	ID=cds:EmuJ_000293700.1;Parent=transcript:EmuJ_000293700.1
+pathogen_EMU_contig_0370	WormBase_imported	gene	8514	13077	.	+	.	ID=gene:EmuJ_000681200;Name=EmuJ_000681200;biotype=protein_coding;description=Diagnostic antigen gp50;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068YAR6
+pathogen_EMU_contig_0370	WormBase_imported	mRNA	8514	13077	.	+	.	ID=transcript:EmuJ_000681200.1;Parent=gene:EmuJ_000681200;Name=EmuJ_000681200.1
+pathogen_EMU_contig_0370	WormBase_imported	exon	8514	8559	.	+	.	ID=exon:EmuJ_000681200.1.1;Parent=transcript:EmuJ_000681200.1
+pathogen_EMU_contig_0370	WormBase_imported	exon	9282	9370	.	+	.	ID=exon:EmuJ_000681200.1.2;Parent=transcript:EmuJ_000681200.1
+pathogen_EMU_contig_0370	WormBase_imported	exon	9584	9692	.	+	.	ID=exon:EmuJ_000681200.1.3;Parent=transcript:EmuJ_000681200.1
+pathogen_EMU_contig_0370	WormBase_imported	exon	9943	10065	.	+	.	ID=exon:EmuJ_000681200.1.4;Parent=transcript:EmuJ_000681200.1
+pathogen_EMU_contig_0370	WormBase_imported	exon	10285	10388	.	+	.	ID=exon:EmuJ_000681200.1.5;Parent=transcript:EmuJ_000681200.1
+pathogen_EMU_contig_0370	WormBase_imported	exon	10522	10600	.	+	.	ID=exon:EmuJ_000681200.1.6;Parent=transcript:EmuJ_000681200.1
+pathogen_EMU_contig_0370	WormBase_imported	exon	10684	10824	.	+	.	ID=exon:EmuJ_000681200.1.7;Parent=transcript:EmuJ_000681200.1
+pathogen_EMU_contig_0370	WormBase_imported	exon	10999	11028	.	+	.	ID=exon:EmuJ_000681200.1.8;Parent=transcript:EmuJ_000681200.1
+pathogen_EMU_contig_0370	WormBase_imported	exon	12231	12248	.	+	.	ID=exon:EmuJ_000681200.1.9;Parent=transcript:EmuJ_000681200.1
+pathogen_EMU_contig_0370	WormBase_imported	exon	12379	12396	.	+	.	ID=exon:EmuJ_000681200.1.10;Parent=transcript:EmuJ_000681200.1
+pathogen_EMU_contig_0370	WormBase_imported	exon	12527	12544	.	+	.	ID=exon:EmuJ_000681200.1.11;Parent=transcript:EmuJ_000681200.1
+pathogen_EMU_contig_0370	WormBase_imported	exon	12673	12699	.	+	.	ID=exon:EmuJ_000681200.1.12;Parent=transcript:EmuJ_000681200.1
+pathogen_EMU_contig_0370	WormBase_imported	exon	13025	13077	.	+	.	ID=exon:EmuJ_000681200.1.13;Parent=transcript:EmuJ_000681200.1
+pathogen_EMU_contig_0370	WormBase_imported	CDS	8514	8559	.	+	0	ID=cds:EmuJ_000681200.1;Parent=transcript:EmuJ_000681200.1
+pathogen_EMU_contig_0370	WormBase_imported	CDS	9282	9370	.	+	2	ID=cds:EmuJ_000681200.1;Parent=transcript:EmuJ_000681200.1
+pathogen_EMU_contig_0370	WormBase_imported	CDS	9584	9692	.	+	0	ID=cds:EmuJ_000681200.1;Parent=transcript:EmuJ_000681200.1
+pathogen_EMU_contig_0370	WormBase_imported	CDS	9943	10065	.	+	2	ID=cds:EmuJ_000681200.1;Parent=transcript:EmuJ_000681200.1
+pathogen_EMU_contig_0370	WormBase_imported	CDS	10285	10388	.	+	2	ID=cds:EmuJ_000681200.1;Parent=transcript:EmuJ_000681200.1
+pathogen_EMU_contig_0370	WormBase_imported	CDS	10522	10600	.	+	0	ID=cds:EmuJ_000681200.1;Parent=transcript:EmuJ_000681200.1
+pathogen_EMU_contig_0370	WormBase_imported	CDS	10684	10824	.	+	2	ID=cds:EmuJ_000681200.1;Parent=transcript:EmuJ_000681200.1
+pathogen_EMU_contig_0370	WormBase_imported	CDS	10999	11028	.	+	2	ID=cds:EmuJ_000681200.1;Parent=transcript:EmuJ_000681200.1
+pathogen_EMU_contig_0370	WormBase_imported	CDS	12231	12248	.	+	2	ID=cds:EmuJ_000681200.1;Parent=transcript:EmuJ_000681200.1
+pathogen_EMU_contig_0370	WormBase_imported	CDS	12379	12396	.	+	2	ID=cds:EmuJ_000681200.1;Parent=transcript:EmuJ_000681200.1
+pathogen_EMU_contig_0370	WormBase_imported	CDS	12527	12544	.	+	2	ID=cds:EmuJ_000681200.1;Parent=transcript:EmuJ_000681200.1
+pathogen_EMU_contig_0370	WormBase_imported	CDS	12673	12699	.	+	2	ID=cds:EmuJ_000681200.1;Parent=transcript:EmuJ_000681200.1
+pathogen_EMU_contig_0370	WormBase_imported	CDS	13025	13077	.	+	2	ID=cds:EmuJ_000681200.1;Parent=transcript:EmuJ_000681200.1
+pathogen_EMU_contig_1143	WormBase_imported	gene	17995	21056	.	-	.	ID=gene:EmuJ_000515550;Name=EmuJ_000515550;biotype=protein_coding;description=Diagnostic antigen gp50;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068XZK5
+pathogen_EMU_contig_1143	WormBase_imported	mRNA	17995	21056	.	-	.	ID=transcript:EmuJ_000515550.1;Parent=gene:EmuJ_000515550;Name=EmuJ_000515550.1
+pathogen_EMU_contig_1143	WormBase_imported	exon	21011	21056	.	-	.	ID=exon:EmuJ_000515550.1.1;Parent=transcript:EmuJ_000515550.1
+pathogen_EMU_contig_1143	WormBase_imported	exon	20802	20893	.	-	.	ID=exon:EmuJ_000515550.1.2;Parent=transcript:EmuJ_000515550.1
+pathogen_EMU_contig_1143	WormBase_imported	exon	20475	20580	.	-	.	ID=exon:EmuJ_000515550.1.3;Parent=transcript:EmuJ_000515550.1
+pathogen_EMU_contig_1143	WormBase_imported	exon	19973	20104	.	-	.	ID=exon:EmuJ_000515550.1.4;Parent=transcript:EmuJ_000515550.1
+pathogen_EMU_contig_1143	WormBase_imported	exon	19795	19898	.	-	.	ID=exon:EmuJ_000515550.1.5;Parent=transcript:EmuJ_000515550.1
+pathogen_EMU_contig_1143	WormBase_imported	exon	19537	19615	.	-	.	ID=exon:EmuJ_000515550.1.6;Parent=transcript:EmuJ_000515550.1
+pathogen_EMU_contig_1143	WormBase_imported	exon	19213	19353	.	-	.	ID=exon:EmuJ_000515550.1.7;Parent=transcript:EmuJ_000515550.1
+pathogen_EMU_contig_1143	WormBase_imported	exon	18990	19019	.	-	.	ID=exon:EmuJ_000515550.1.8;Parent=transcript:EmuJ_000515550.1
+pathogen_EMU_contig_1143	WormBase_imported	exon	18786	18803	.	-	.	ID=exon:EmuJ_000515550.1.9;Parent=transcript:EmuJ_000515550.1
+pathogen_EMU_contig_1143	WormBase_imported	exon	18458	18475	.	-	.	ID=exon:EmuJ_000515550.1.10;Parent=transcript:EmuJ_000515550.1
+pathogen_EMU_contig_1143	WormBase_imported	exon	18129	18155	.	-	.	ID=exon:EmuJ_000515550.1.11;Parent=transcript:EmuJ_000515550.1
+pathogen_EMU_contig_1143	WormBase_imported	exon	17995	18047	.	-	.	ID=exon:EmuJ_000515550.1.12;Parent=transcript:EmuJ_000515550.1
+pathogen_EMU_contig_1143	WormBase_imported	CDS	21011	21056	.	-	0	ID=cds:EmuJ_000515550.1;Parent=transcript:EmuJ_000515550.1
+pathogen_EMU_contig_1143	WormBase_imported	CDS	20802	20893	.	-	2	ID=cds:EmuJ_000515550.1;Parent=transcript:EmuJ_000515550.1
+pathogen_EMU_contig_1143	WormBase_imported	CDS	20475	20580	.	-	0	ID=cds:EmuJ_000515550.1;Parent=transcript:EmuJ_000515550.1
+pathogen_EMU_contig_1143	WormBase_imported	CDS	19973	20104	.	-	2	ID=cds:EmuJ_000515550.1;Parent=transcript:EmuJ_000515550.1
+pathogen_EMU_contig_1143	WormBase_imported	CDS	19795	19898	.	-	2	ID=cds:EmuJ_000515550.1;Parent=transcript:EmuJ_000515550.1
+pathogen_EMU_contig_1143	WormBase_imported	CDS	19537	19615	.	-	0	ID=cds:EmuJ_000515550.1;Parent=transcript:EmuJ_000515550.1
+pathogen_EMU_contig_1143	WormBase_imported	CDS	19213	19353	.	-	2	ID=cds:EmuJ_000515550.1;Parent=transcript:EmuJ_000515550.1
+pathogen_EMU_contig_1143	WormBase_imported	CDS	18990	19019	.	-	2	ID=cds:EmuJ_000515550.1;Parent=transcript:EmuJ_000515550.1
+pathogen_EMU_contig_1143	WormBase_imported	CDS	18786	18803	.	-	2	ID=cds:EmuJ_000515550.1;Parent=transcript:EmuJ_000515550.1
+pathogen_EMU_contig_1143	WormBase_imported	CDS	18458	18475	.	-	2	ID=cds:EmuJ_000515550.1;Parent=transcript:EmuJ_000515550.1
+pathogen_EMU_contig_1143	WormBase_imported	CDS	18129	18155	.	-	2	ID=cds:EmuJ_000515550.1;Parent=transcript:EmuJ_000515550.1
+pathogen_EMU_contig_1143	WormBase_imported	CDS	17995	18047	.	-	2	ID=cds:EmuJ_000515550.1;Parent=transcript:EmuJ_000515550.1
+pathogen_EMU_contig_1143	RepeatMasker	repeat_region	1	388	3643	+	.	Name=rnd-5_family-432;repeat_class=Unspecified
+pathogen_EMU_contig_1143	RepeatMasker	repeat_region	2789	5781	27829	-	.	Name=rnd-5_family-432;repeat_class=Unspecified
+pathogen_EMU_contig_1143	dust	low_complexity_region	5385	5391	.	-	.	
+pathogen_EMU_contig_1143	RepeatMasker	repeat_region	5782	6201	1509	-	.	Name=rnd-1_family-101;repeat_class=Unspecified
+pathogen_EMU_contig_1143	RepeatMasker	repeat_region	6044	6448	1560	-	.	Name=rnd-1_family-138;repeat_class=Unspecified
+pathogen_EMU_contig_1143	RepeatMasker	repeat_region	6187	6478	1728	-	.	Name=rnd-1_family-193;repeat_class=Unspecified
+pathogen_EMU_contig_1143	RepeatMasker	repeat_region	6264	6614	2562	-	.	Name=rnd-1_family-203;repeat_class=Unspecified
+pathogen_EMU_contig_1143	RepeatMasker	repeat_region	7663	7855	1018	+	.	Name=rnd-1_family-204;repeat_class=Unspecified
+pathogen_EMU_contig_1143	RepeatMasker	repeat_region	7856	8010	897	+	.	Name=rnd-1_family-204;repeat_class=Unspecified
+pathogen_EMU_contig_1143	RepeatMasker	repeat_region	8281	8713	2016	-	.	Name=rnd-1_family-164;repeat_class=Unspecified
+pathogen_EMU_contig_1143	RepeatMasker	repeat_region	8721	9021	858	-	.	Name=rnd-1_family-164;repeat_class=Unspecified
+pathogen_EMU_contig_1143	trf	tandem_repeat	8878	8915	62	-	.	
+pathogen_EMU_contig_1143	RepeatMasker	repeat_region	9092	9144	255	-	.	Name=rnd-1_family-164;repeat_class=Unspecified
+pathogen_EMU_contig_1143	RepeatMasker	repeat_region	9146	12876	33558	+	.	Name=rnd-5_family-815;repeat_class=Unspecified
+pathogen_EMU_contig_1143	RepeatMasker	repeat_region	14778	14879	367	-	.	Name=rnd-5_family-432;repeat_class=Unspecified
+pathogen_EMU_contig_1143	RepeatMasker	repeat_region	15585	15923	721	-	.	Name=rnd-5_family-432;repeat_class=Unspecified
+pathogen_EMU_contig_1143	RepeatMasker	repeat_region	16256	16346	329	-	.	Name=rnd-1_family-101;repeat_class=Unspecified
+pathogen_EMU_contig_1143	RepeatMasker	repeat_region	16424	17135	5494	-	.	Name=rnd-1_family-138;repeat_class=Unspecified
+pathogen_EMU_contig_1143	RepeatMasker	repeat_region	17311	17553	2184	+	.	Name=rnd-5_family-815;repeat_class=Unspecified
+pathogen_EMU_contig_1143	RepeatMasker	repeat_region	18973	19074	367	-	.	Name=rnd-5_family-432;repeat_class=Unspecified
+pathogen_EMU_contig_1143	RepeatMasker	repeat_region	19780	20118	721	-	.	Name=rnd-5_family-432;repeat_class=Unspecified
+pathogen_EMU_contig_1143	RepeatMasker	repeat_region	20451	20541	329	-	.	Name=rnd-1_family-101;repeat_class=Unspecified
+pathogen_EMU_contig_1143	RepeatMasker	repeat_region	20619	21330	5509	-	.	Name=rnd-1_family-138;repeat_class=Unspecified
+pathogen_EMU_contig_1143	RepeatMasker	repeat_region	21506	21748	2204	+	.	Name=rnd-5_family-815;repeat_class=Unspecified
+pathogen_EMU_contig_1143	dust	low_complexity_region	29565	29571	.	-	.	
+pathogen_EMU_contig_1143	RepeatMasker	repeat_region	29568	29666	303	+	.	Name=rnd-5_family-432;repeat_class=Unspecified
+pathogen_EMU_contig_1143	RepeatMasker	repeat_region	30433	30475	281	+	.	Name=rnd-4_family-254;repeat_class=Unspecified
+pathogen_EMU_contig_0963	WormBase_imported	gene	11233	12852	.	-	.	ID=gene:EmuJ_000049900;Name=EmuJ_000049900;biotype=protein_coding;description=Expressed protein;description_source=UniProtKB/TrEMBL;description_source_acc=A0A087VX26
+pathogen_EMU_contig_0963	WormBase_imported	mRNA	11233	12852	.	-	.	ID=transcript:EmuJ_000049900.1;Parent=gene:EmuJ_000049900;Name=EmuJ_000049900.1
+pathogen_EMU_contig_0963	WormBase_imported	exon	12828	12852	.	-	.	ID=exon:EmuJ_000049900.1.1;Parent=transcript:EmuJ_000049900.1
+pathogen_EMU_contig_0963	WormBase_imported	exon	12499	12525	.	-	.	ID=exon:EmuJ_000049900.1.2;Parent=transcript:EmuJ_000049900.1
+pathogen_EMU_contig_0963	WormBase_imported	exon	12384	12401	.	-	.	ID=exon:EmuJ_000049900.1.3;Parent=transcript:EmuJ_000049900.1
+pathogen_EMU_contig_0963	WormBase_imported	exon	12017	12043	.	-	.	ID=exon:EmuJ_000049900.1.4;Parent=transcript:EmuJ_000049900.1
+pathogen_EMU_contig_0963	WormBase_imported	exon	11918	11935	.	-	.	ID=exon:EmuJ_000049900.1.5;Parent=transcript:EmuJ_000049900.1
+pathogen_EMU_contig_0963	WormBase_imported	exon	11595	11621	.	-	.	ID=exon:EmuJ_000049900.1.6;Parent=transcript:EmuJ_000049900.1
+pathogen_EMU_contig_0963	WormBase_imported	exon	11233	11291	.	-	.	ID=exon:EmuJ_000049900.1.7;Parent=transcript:EmuJ_000049900.1
+pathogen_EMU_contig_0963	WormBase_imported	CDS	12828	12852	.	-	0	ID=cds:EmuJ_000049900.1;Parent=transcript:EmuJ_000049900.1
+pathogen_EMU_contig_0963	WormBase_imported	CDS	12499	12525	.	-	2	ID=cds:EmuJ_000049900.1;Parent=transcript:EmuJ_000049900.1
+pathogen_EMU_contig_0963	WormBase_imported	CDS	12384	12401	.	-	2	ID=cds:EmuJ_000049900.1;Parent=transcript:EmuJ_000049900.1
+pathogen_EMU_contig_0963	WormBase_imported	CDS	12017	12043	.	-	2	ID=cds:EmuJ_000049900.1;Parent=transcript:EmuJ_000049900.1
+pathogen_EMU_contig_0963	WormBase_imported	CDS	11918	11935	.	-	2	ID=cds:EmuJ_000049900.1;Parent=transcript:EmuJ_000049900.1
+pathogen_EMU_contig_0963	WormBase_imported	CDS	11595	11621	.	-	2	ID=cds:EmuJ_000049900.1;Parent=transcript:EmuJ_000049900.1
+pathogen_EMU_contig_0963	WormBase_imported	CDS	11233	11291	.	-	2	ID=cds:EmuJ_000049900.1;Parent=transcript:EmuJ_000049900.1
+pathogen_EMU_contig_0963	RepeatMasker	repeat_region	1	625	5887	+	.	Name=rnd-5_family-815;repeat_class=Unspecified
+pathogen_EMU_contig_0963	dust	low_complexity_region	697	703	.	-	.	
+pathogen_EMU_contig_0963	RepeatMasker	repeat_region	1236	1477	541	-	.	Name=rnd-1_family-22;repeat_class=Unspecified
+pathogen_EMU_contig_0963	RepeatMasker	repeat_region	3058	3181	262	-	.	Name=rnd-1_family-138;repeat_class=Unspecified
+pathogen_EMU_contig_0963	RepeatMasker	repeat_region	5196	6690	13924	+	.	Name=rnd-5_family-432;repeat_class=Unspecified
+pathogen_EMU_contig_0963	dust	low_complexity_region	5880	5886	.	-	.	
+pathogen_EMU_contig_0963	RepeatMasker	repeat_region	6678	9250	23245	+	.	Name=rnd-5_family-432;repeat_class=Unspecified
+pathogen_EMU_contig_0963	dust	low_complexity_region	7927	7957	.	-	.	
+pathogen_EMU_contig_0963	trf	tandem_repeat	7927	7957	62	-	.	
+pathogen_EMU_contig_0963	RepeatMasker	repeat_region	10381	10423	280	+	.	Name=rnd-4_family-254;repeat_class=Unspecified
+pathogen_EMU_contig_0963	RepeatMasker	repeat_region	10688	10801	232	+	.	Name=rnd-4_family-254;repeat_class=Unspecified
+pathogen_EMU_contig_0963	RepeatMasker	repeat_region	10706	10801	273	-	.	Name=rnd-1_family-6;repeat_class=Unspecified
+pathogen_EMU_contig_0911	trf	tandem_repeat	4	13068	25794	-	.	
+pathogen_EMU_contig_0911	dust	low_complexity_region	6	17	.	-	.	
+pathogen_EMU_contig_0911	dust	low_complexity_region	363	374	.	-	.	
+pathogen_EMU_contig_0911	dust	low_complexity_region	720	731	.	-	.	
+pathogen_EMU_contig_0911	dust	low_complexity_region	1077	1088	.	-	.	
+pathogen_EMU_contig_0911	dust	low_complexity_region	1434	1445	.	-	.	
+pathogen_EMU_contig_0911	dust	low_complexity_region	1791	1802	.	-	.	
+pathogen_EMU_contig_0911	dust	low_complexity_region	2148	2159	.	-	.	
+pathogen_EMU_contig_0911	dust	low_complexity_region	2505	2516	.	-	.	
+pathogen_EMU_contig_0911	dust	low_complexity_region	2860	2871	.	-	.	
+pathogen_EMU_contig_0911	dust	low_complexity_region	3217	3228	.	-	.	
+pathogen_EMU_contig_0911	dust	low_complexity_region	3574	3585	.	-	.	
+pathogen_EMU_contig_0911	dust	low_complexity_region	3931	3942	.	-	.	
+pathogen_EMU_contig_0911	dust	low_complexity_region	4288	4299	.	-	.	
+pathogen_EMU_contig_0911	dust	low_complexity_region	4645	4656	.	-	.	
+pathogen_EMU_contig_0911	dust	low_complexity_region	5002	5013	.	-	.	
+pathogen_EMU_contig_0911	dust	low_complexity_region	5359	5370	.	-	.	
+pathogen_EMU_contig_0911	dust	low_complexity_region	5716	5727	.	-	.	
+pathogen_EMU_contig_0911	dust	low_complexity_region	6073	6084	.	-	.	
+pathogen_EMU_contig_0911	dust	low_complexity_region	6430	6441	.	-	.	
+pathogen_EMU_contig_0911	dust	low_complexity_region	6787	6798	.	-	.	
+pathogen_EMU_contig_0911	dust	low_complexity_region	7144	7155	.	-	.	
+pathogen_EMU_contig_0911	dust	low_complexity_region	7501	7512	.	-	.	
+pathogen_EMU_contig_0911	dust	low_complexity_region	7858	7869	.	-	.	
+pathogen_EMU_contig_0911	dust	low_complexity_region	8215	8226	.	-	.	
+pathogen_EMU_contig_0911	dust	low_complexity_region	8572	8583	.	-	.	
+pathogen_EMU_contig_0911	dust	low_complexity_region	8929	8940	.	-	.	
+pathogen_EMU_contig_0911	dust	low_complexity_region	9286	9297	.	-	.	
+pathogen_EMU_contig_0911	dust	low_complexity_region	9643	9654	.	-	.	
+pathogen_EMU_contig_0911	dust	low_complexity_region	10000	10011	.	-	.	
+pathogen_EMU_contig_0911	dust	low_complexity_region	10357	10368	.	-	.	
+pathogen_EMU_contig_0911	dust	low_complexity_region	10714	10725	.	-	.	
+pathogen_EMU_contig_0911	dust	low_complexity_region	11071	11082	.	-	.	
+pathogen_EMU_contig_0911	dust	low_complexity_region	11428	11439	.	-	.	
+pathogen_EMU_contig_0911	dust	low_complexity_region	11785	11796	.	-	.	
+pathogen_EMU_contig_0911	dust	low_complexity_region	12142	12153	.	-	.	
+pathogen_EMU_contig_0911	dust	low_complexity_region	12498	12509	.	-	.	
+pathogen_EMU_contig_0014	WormBase_imported	gene	542	2859	.	-	.	ID=gene:EmuJ_000289600;Name=EmuJ_000289600;biotype=protein_coding;description=Diagnostic antigen gp50;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068XX91
+pathogen_EMU_contig_0014	WormBase_imported	mRNA	542	2859	.	-	.	ID=transcript:EmuJ_000289600.1;Parent=gene:EmuJ_000289600;Name=EmuJ_000289600.1
+pathogen_EMU_contig_0014	WormBase_imported	exon	2848	2859	.	-	.	ID=exon:EmuJ_000289600.1.1;Parent=transcript:EmuJ_000289600.1
+pathogen_EMU_contig_0014	WormBase_imported	exon	2625	2654	.	-	.	ID=exon:EmuJ_000289600.1.2;Parent=transcript:EmuJ_000289600.1
+pathogen_EMU_contig_0014	WormBase_imported	exon	2421	2438	.	-	.	ID=exon:EmuJ_000289600.1.3;Parent=transcript:EmuJ_000289600.1
+pathogen_EMU_contig_0014	WormBase_imported	exon	2093	2110	.	-	.	ID=exon:EmuJ_000289600.1.4;Parent=transcript:EmuJ_000289600.1
+pathogen_EMU_contig_0014	WormBase_imported	exon	1764	1790	.	-	.	ID=exon:EmuJ_000289600.1.5;Parent=transcript:EmuJ_000289600.1
+pathogen_EMU_contig_0014	WormBase_imported	exon	1649	1666	.	-	.	ID=exon:EmuJ_000289600.1.6;Parent=transcript:EmuJ_000289600.1
+pathogen_EMU_contig_0014	WormBase_imported	exon	1282	1308	.	-	.	ID=exon:EmuJ_000289600.1.7;Parent=transcript:EmuJ_000289600.1
+pathogen_EMU_contig_0014	WormBase_imported	exon	1183	1200	.	-	.	ID=exon:EmuJ_000289600.1.8;Parent=transcript:EmuJ_000289600.1
+pathogen_EMU_contig_0014	WormBase_imported	exon	860	886	.	-	.	ID=exon:EmuJ_000289600.1.9;Parent=transcript:EmuJ_000289600.1
+pathogen_EMU_contig_0014	WormBase_imported	exon	542	556	.	-	.	ID=exon:EmuJ_000289600.1.10;Parent=transcript:EmuJ_000289600.1
+pathogen_EMU_contig_0014	WormBase_imported	CDS	2848	2859	.	-	0	ID=cds:EmuJ_000289600.1;Parent=transcript:EmuJ_000289600.1
+pathogen_EMU_contig_0014	WormBase_imported	CDS	2625	2654	.	-	0	ID=cds:EmuJ_000289600.1;Parent=transcript:EmuJ_000289600.1
+pathogen_EMU_contig_0014	WormBase_imported	CDS	2421	2438	.	-	0	ID=cds:EmuJ_000289600.1;Parent=transcript:EmuJ_000289600.1
+pathogen_EMU_contig_0014	WormBase_imported	CDS	2093	2110	.	-	0	ID=cds:EmuJ_000289600.1;Parent=transcript:EmuJ_000289600.1
+pathogen_EMU_contig_0014	WormBase_imported	CDS	1764	1790	.	-	0	ID=cds:EmuJ_000289600.1;Parent=transcript:EmuJ_000289600.1
+pathogen_EMU_contig_0014	WormBase_imported	CDS	1649	1666	.	-	0	ID=cds:EmuJ_000289600.1;Parent=transcript:EmuJ_000289600.1
+pathogen_EMU_contig_0014	WormBase_imported	CDS	1282	1308	.	-	0	ID=cds:EmuJ_000289600.1;Parent=transcript:EmuJ_000289600.1
+pathogen_EMU_contig_0014	WormBase_imported	CDS	1183	1200	.	-	0	ID=cds:EmuJ_000289600.1;Parent=transcript:EmuJ_000289600.1
+pathogen_EMU_contig_0014	WormBase_imported	CDS	860	886	.	-	0	ID=cds:EmuJ_000289600.1;Parent=transcript:EmuJ_000289600.1
+pathogen_EMU_contig_0014	WormBase_imported	CDS	542	556	.	-	0	ID=cds:EmuJ_000289600.1;Parent=transcript:EmuJ_000289600.1
+pathogen_EMU_contig_0014	RepeatMasker	repeat_region	2608	2709	367	-	.	Name=rnd-5_family-432;repeat_class=Unspecified
+pathogen_EMU_contig_0014	RepeatMasker	repeat_region	3359	3409	398	-	.	Name=rnd-5_family-432;repeat_class=Unspecified
+pathogen_EMU_contig_0521	RepeatMasker	repeat_region	8	78	477	-	.	Name=rnd-1_family-25;repeat_class=Unspecified
+pathogen_EMU_contig_0521	RepeatMasker	repeat_region	79	2857	25768	-	.	Name=rnd-5_family-1973;repeat_class=Unspecified
+pathogen_EMU_contig_0521	dust	low_complexity_region	134	157	.	-	.	
+pathogen_EMU_contig_0521	trf	tandem_repeat	134	157	48	-	.	
+pathogen_EMU_contig_0521	dust	low_complexity_region	638	644	.	-	.	
+pathogen_EMU_contig_0521	RepeatMasker	repeat_region	2854	4497	12474	+	.	Name=rnd-5_family-453;repeat_class=Unspecified
+pathogen_EMU_contig_0521	dust	low_complexity_region	4345	4372	.	-	.	
+pathogen_EMU_contig_0521	trf	tandem_repeat	4345	4372	56	-	.	

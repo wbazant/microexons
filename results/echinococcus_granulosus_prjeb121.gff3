@@ -1,0 +1,640 @@
+pathogen_EgG_scaffold_0004	WormBase_imported	gene	6240482	6248120	.	+	.	ID=gene:EgrG_000489200;Name=EgrG_000489200;biotype=protein_coding;description=Pfam-B_9399 and Pfam-B_2764 and Pfam-B_110 and Pfam-B_388 domain containing protein;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068WPH9
+pathogen_EgG_scaffold_0004	WormBase_imported	mRNA	6240482	6248120	.	+	.	ID=transcript:EgrG_000489200;Parent=gene:EgrG_000489200;Name=EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6240482	6240506	.	+	.	ID=exon:EgrG_000489200.1;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6240581	6240679	.	+	.	ID=exon:EgrG_000489200.2;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6240973	6241065	.	+	.	ID=exon:EgrG_000489200.3;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6241331	6241417	.	+	.	ID=exon:EgrG_000489200.4;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6241627	6241695	.	+	.	ID=exon:EgrG_000489200.5;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6241769	6241900	.	+	.	ID=exon:EgrG_000489200.6;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6242040	6242105	.	+	.	ID=exon:EgrG_000489200.7;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6242181	6242213	.	+	.	ID=exon:EgrG_000489200.8;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6242301	6242384	.	+	.	ID=exon:EgrG_000489200.9;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6242591	6242605	.	+	.	ID=exon:EgrG_000489200.10;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6242690	6242737	.	+	.	ID=exon:EgrG_000489200.11;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6242817	6242846	.	+	.	ID=exon:EgrG_000489200.12;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6243246	6243935	.	+	.	ID=exon:EgrG_000489200.13;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6244007	6244033	.	+	.	ID=exon:EgrG_000489200.14;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6244188	6244250	.	+	.	ID=exon:EgrG_000489200.15;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6244397	6244597	.	+	.	ID=exon:EgrG_000489200.16;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6244741	6244791	.	+	.	ID=exon:EgrG_000489200.17;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6244870	6244929	.	+	.	ID=exon:EgrG_000489200.18;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6244999	6245046	.	+	.	ID=exon:EgrG_000489200.19;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6245126	6245185	.	+	.	ID=exon:EgrG_000489200.20;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6245266	6245298	.	+	.	ID=exon:EgrG_000489200.21;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6245382	6245513	.	+	.	ID=exon:EgrG_000489200.22;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6245602	6245631	.	+	.	ID=exon:EgrG_000489200.23;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6245701	6245724	.	+	.	ID=exon:EgrG_000489200.24;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6245811	6245834	.	+	.	ID=exon:EgrG_000489200.25;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6245913	6245951	.	+	.	ID=exon:EgrG_000489200.26;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6246074	6246094	.	+	.	ID=exon:EgrG_000489200.27;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6246195	6246314	.	+	.	ID=exon:EgrG_000489200.28;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6246433	6246462	.	+	.	ID=exon:EgrG_000489200.29;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6246539	6246652	.	+	.	ID=exon:EgrG_000489200.30;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6246720	6246752	.	+	.	ID=exon:EgrG_000489200.31;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6246832	6246864	.	+	.	ID=exon:EgrG_000489200.32;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6246943	6246990	.	+	.	ID=exon:EgrG_000489200.33;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6247071	6247151	.	+	.	ID=exon:EgrG_000489200.34;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6247316	6247384	.	+	.	ID=exon:EgrG_000489200.35;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6247520	6247564	.	+	.	ID=exon:EgrG_000489200.36;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6247637	6247657	.	+	.	ID=exon:EgrG_000489200.37;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6247789	6247845	.	+	.	ID=exon:EgrG_000489200.38;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6247967	6248005	.	+	.	ID=exon:EgrG_000489200.39;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	exon	6248107	6248120	.	+	.	ID=exon:EgrG_000489200.40;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6240482	6240506	.	+	0	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6240581	6240679	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6240973	6241065	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6241331	6241417	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6241627	6241695	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6241769	6241900	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6242040	6242105	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6242181	6242213	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6242301	6242384	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6242591	6242605	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6242690	6242737	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6242817	6242846	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6243246	6243935	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6244007	6244033	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6244188	6244250	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6244397	6244597	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6244741	6244791	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6244870	6244929	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6244999	6245046	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6245126	6245185	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6245266	6245298	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6245382	6245513	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6245602	6245631	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6245701	6245724	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6245811	6245834	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6245913	6245951	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6246074	6246094	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6246195	6246314	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6246433	6246462	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6246539	6246652	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6246720	6246752	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6246832	6246864	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6246943	6246990	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6247071	6247151	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6247316	6247384	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6247520	6247564	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6247637	6247657	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6247789	6247845	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6247967	6248005	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6248107	6248120	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
+pathogen_EgG_scaffold_0005	WormBase_imported	gene	6081362	6105346	.	+	.	ID=gene:EgrG_000255900;Name=EgrG_000255900;biotype=protein_coding;description=Dynein heavy chain;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068WRQ8
+pathogen_EgG_scaffold_0005	WormBase_imported	mRNA	6081362	6105346	.	+	.	ID=transcript:EgrG_000255900;Parent=gene:EgrG_000255900;Name=EgrG_000255900;info=method:InterPro accession:IPR004273 description:Dynein heavy chain region D6 P-loop domain %0Amethod:InterPro accession:IPR013602 description:Dynein heavy chain%2C domain-2 %0Amethod:InterPro accession:IPR024317 description:Dynein heavy chain%2C AAA module D4 %0Amethod:InterPro accession:IPR024743 description:Dynein heavy chain%2C coiled coil stalk %0Amethod:InterPro accession:IPR026983 description:Dynein heavy chain %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR035699 description:Dynein heavy chain%2C hydrolytic ATP-binding dynein motor region %0Amethod:InterPro accession:IPR035706 description:Dynein heavy chain%2C ATP-binding dynein motor region %0Amethod:InterPro accession:IPR041228 description:Dynein heavy chain%2C C-terminal domain %0Amethod:InterPro accession:IPR041466 description:Dynein heavy chain%2C AAA 5 extension domain %0Amethod:InterPro accession:IPR041589 description:Dynein heavy chain 3%2C AAA+ lid domain %0Amethod:InterPro accession:IPR041658 description:Dynein heavy chain AAA lid domain
+pathogen_EgG_scaffold_0005	WormBase_imported	exon	6081362	6081391	.	+	.	ID=exon:EgrG_000255900.1;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	exon	6081596	6081900	.	+	.	ID=exon:EgrG_000255900.2;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	exon	6082167	6082286	.	+	.	ID=exon:EgrG_000255900.3;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	exon	6082970	6083006	.	+	.	ID=exon:EgrG_000255900.4;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	exon	6083119	6083295	.	+	.	ID=exon:EgrG_000255900.5;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	exon	6083373	6083447	.	+	.	ID=exon:EgrG_000255900.6;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	exon	6083826	6084232	.	+	.	ID=exon:EgrG_000255900.7;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	exon	6085849	6086836	.	+	.	ID=exon:EgrG_000255900.8;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	exon	6087355	6087503	.	+	.	ID=exon:EgrG_000255900.9;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	exon	6088086	6088701	.	+	.	ID=exon:EgrG_000255900.10;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	exon	6089155	6089387	.	+	.	ID=exon:EgrG_000255900.11;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	exon	6089632	6089869	.	+	.	ID=exon:EgrG_000255900.12;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	exon	6090072	6090302	.	+	.	ID=exon:EgrG_000255900.13;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	exon	6090376	6090588	.	+	.	ID=exon:EgrG_000255900.14;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	exon	6091171	6091683	.	+	.	ID=exon:EgrG_000255900.15;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	exon	6091766	6091897	.	+	.	ID=exon:EgrG_000255900.16;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	exon	6092232	6092453	.	+	.	ID=exon:EgrG_000255900.17;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	exon	6092702	6092725	.	+	.	ID=exon:EgrG_000255900.18;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	exon	6092807	6092818	.	+	.	ID=exon:EgrG_000255900.19;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	exon	6092907	6092927	.	+	.	ID=exon:EgrG_000255900.20;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	exon	6093372	6093380	.	+	.	ID=exon:EgrG_000255900.21;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	exon	6093449	6093502	.	+	.	ID=exon:EgrG_000255900.22;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	exon	6093863	6094060	.	+	.	ID=exon:EgrG_000255900.23;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	exon	6094595	6094848	.	+	.	ID=exon:EgrG_000255900.24;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	exon	6095152	6095349	.	+	.	ID=exon:EgrG_000255900.25;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	exon	6095629	6095989	.	+	.	ID=exon:EgrG_000255900.26;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	exon	6096518	6096829	.	+	.	ID=exon:EgrG_000255900.27;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	exon	6097312	6097725	.	+	.	ID=exon:EgrG_000255900.28;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	exon	6097901	6098130	.	+	.	ID=exon:EgrG_000255900.29;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	exon	6098357	6098687	.	+	.	ID=exon:EgrG_000255900.30;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	exon	6099035	6099912	.	+	.	ID=exon:EgrG_000255900.31;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	exon	6099991	6100297	.	+	.	ID=exon:EgrG_000255900.32;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	exon	6100538	6102166	.	+	.	ID=exon:EgrG_000255900.33;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	exon	6102429	6102614	.	+	.	ID=exon:EgrG_000255900.34;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	exon	6103107	6103244	.	+	.	ID=exon:EgrG_000255900.35;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	exon	6103491	6103874	.	+	.	ID=exon:EgrG_000255900.36;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	exon	6104328	6104505	.	+	.	ID=exon:EgrG_000255900.37;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	exon	6104794	6104897	.	+	.	ID=exon:EgrG_000255900.38;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	exon	6105140	6105346	.	+	.	ID=exon:EgrG_000255900.39;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6081362	6081391	.	+	0	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6081596	6081900	.	+	0	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6082167	6082286	.	+	1	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6082970	6083006	.	+	1	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6083119	6083295	.	+	0	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6083373	6083447	.	+	0	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6083826	6084232	.	+	0	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6085849	6086836	.	+	1	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6087355	6087503	.	+	0	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6088086	6088701	.	+	1	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6089155	6089387	.	+	0	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6089632	6089869	.	+	1	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6090072	6090302	.	+	0	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6090376	6090588	.	+	0	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6091171	6091683	.	+	0	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6091766	6091897	.	+	0	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6092232	6092453	.	+	0	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6092702	6092725	.	+	0	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6092807	6092818	.	+	0	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6092907	6092927	.	+	0	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6093372	6093380	.	+	0	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6093449	6093502	.	+	0	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6093863	6094060	.	+	0	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6094595	6094848	.	+	0	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6095152	6095349	.	+	1	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6095629	6095989	.	+	1	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6096518	6096829	.	+	0	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6097312	6097725	.	+	0	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6097901	6098130	.	+	0	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6098357	6098687	.	+	1	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6099035	6099912	.	+	0	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6099991	6100297	.	+	1	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6100538	6102166	.	+	0	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6102429	6102614	.	+	0	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6103107	6103244	.	+	0	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6103491	6103874	.	+	0	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6104328	6104505	.	+	0	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6104794	6104897	.	+	2	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6105140	6105346	.	+	0	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
+pathogen_EgG_scaffold_0009	WormBase_imported	gene	2148026	2150513	.	-	.	ID=gene:EgrG_000120500;Name=EgrG_000120500;biotype=protein_coding;description=Expressed protein;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068WT90
+pathogen_EgG_scaffold_0009	WormBase_imported	mRNA	2148026	2150513	.	-	.	ID=transcript:EgrG_000120500;Parent=gene:EgrG_000120500;Name=EgrG_000120500
+pathogen_EgG_scaffold_0009	WormBase_imported	exon	2150486	2150513	.	-	.	ID=exon:EgrG_000120500.1;Parent=transcript:EgrG_000120500
+pathogen_EgG_scaffold_0009	WormBase_imported	exon	2150148	2150204	.	-	.	ID=exon:EgrG_000120500.2;Parent=transcript:EgrG_000120500
+pathogen_EgG_scaffold_0009	WormBase_imported	exon	2149927	2150061	.	-	.	ID=exon:EgrG_000120500.3;Parent=transcript:EgrG_000120500
+pathogen_EgG_scaffold_0009	WormBase_imported	exon	2149682	2149705	.	-	.	ID=exon:EgrG_000120500.4;Parent=transcript:EgrG_000120500
+pathogen_EgG_scaffold_0009	WormBase_imported	exon	2149570	2149590	.	-	.	ID=exon:EgrG_000120500.5;Parent=transcript:EgrG_000120500
+pathogen_EgG_scaffold_0009	WormBase_imported	exon	2149420	2149446	.	-	.	ID=exon:EgrG_000120500.6;Parent=transcript:EgrG_000120500
+pathogen_EgG_scaffold_0009	WormBase_imported	exon	2149045	2149197	.	-	.	ID=exon:EgrG_000120500.7;Parent=transcript:EgrG_000120500
+pathogen_EgG_scaffold_0009	WormBase_imported	exon	2148286	2148417	.	-	.	ID=exon:EgrG_000120500.8;Parent=transcript:EgrG_000120500
+pathogen_EgG_scaffold_0009	WormBase_imported	exon	2148191	2148214	.	-	.	ID=exon:EgrG_000120500.9;Parent=transcript:EgrG_000120500
+pathogen_EgG_scaffold_0009	WormBase_imported	exon	2148026	2148084	.	-	.	ID=exon:EgrG_000120500.10;Parent=transcript:EgrG_000120500
+pathogen_EgG_scaffold_0009	WormBase_imported	CDS	2150486	2150513	.	-	0	ID=cds:EgrG_000120500;Parent=transcript:EgrG_000120500
+pathogen_EgG_scaffold_0009	WormBase_imported	CDS	2150148	2150204	.	-	2	ID=cds:EgrG_000120500;Parent=transcript:EgrG_000120500
+pathogen_EgG_scaffold_0009	WormBase_imported	CDS	2149927	2150061	.	-	2	ID=cds:EgrG_000120500;Parent=transcript:EgrG_000120500
+pathogen_EgG_scaffold_0009	WormBase_imported	CDS	2149682	2149705	.	-	2	ID=cds:EgrG_000120500;Parent=transcript:EgrG_000120500
+pathogen_EgG_scaffold_0009	WormBase_imported	CDS	2149570	2149590	.	-	2	ID=cds:EgrG_000120500;Parent=transcript:EgrG_000120500
+pathogen_EgG_scaffold_0009	WormBase_imported	CDS	2149420	2149446	.	-	2	ID=cds:EgrG_000120500;Parent=transcript:EgrG_000120500
+pathogen_EgG_scaffold_0009	WormBase_imported	CDS	2149045	2149197	.	-	2	ID=cds:EgrG_000120500;Parent=transcript:EgrG_000120500
+pathogen_EgG_scaffold_0009	WormBase_imported	CDS	2148286	2148417	.	-	2	ID=cds:EgrG_000120500;Parent=transcript:EgrG_000120500
+pathogen_EgG_scaffold_0009	WormBase_imported	CDS	2148191	2148214	.	-	2	ID=cds:EgrG_000120500;Parent=transcript:EgrG_000120500
+pathogen_EgG_scaffold_0009	WormBase_imported	CDS	2148026	2148084	.	-	2	ID=cds:EgrG_000120500;Parent=transcript:EgrG_000120500
+pathogen_EgG_scaffold_0012	WormBase_imported	gene	500069	510317	.	-	.	ID=gene:EgrG_001168700;Name=EgrG_001168700;biotype=protein_coding;description=von Willebrand factor A domain containing protein;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068WQX3
+pathogen_EgG_scaffold_0012	WormBase_imported	mRNA	500069	510317	.	-	.	ID=transcript:EgrG_001168700;Parent=gene:EgrG_001168700;Name=EgrG_001168700;info=method:InterPro accession:IPR002035 description:von Willebrand factor%2C type A %0Amethod:InterPro accession:IPR013694 description:VIT domain %0Amethod:InterPro accession:IPR036465 description:von Willebrand factor A-like domain superfamily
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	510072	510317	.	-	.	ID=exon:EgrG_001168700.1;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	509721	509985	.	-	.	ID=exon:EgrG_001168700.2;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	509496	509644	.	-	.	ID=exon:EgrG_001168700.3;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	509208	509427	.	-	.	ID=exon:EgrG_001168700.4;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	508997	509123	.	-	.	ID=exon:EgrG_001168700.5;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	508736	508922	.	-	.	ID=exon:EgrG_001168700.6;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	508521	508654	.	-	.	ID=exon:EgrG_001168700.7;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	507262	507446	.	-	.	ID=exon:EgrG_001168700.8;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	506240	506551	.	-	.	ID=exon:EgrG_001168700.9;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	506099	506119	.	-	.	ID=exon:EgrG_001168700.10;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	506000	506023	.	-	.	ID=exon:EgrG_001168700.11;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	505889	505906	.	-	.	ID=exon:EgrG_001168700.12;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	505799	505816	.	-	.	ID=exon:EgrG_001168700.13;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	504601	504621	.	-	.	ID=exon:EgrG_001168700.14;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	504508	504519	.	-	.	ID=exon:EgrG_001168700.15;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	503645	503662	.	-	.	ID=exon:EgrG_001168700.16;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	503385	503396	.	-	.	ID=exon:EgrG_001168700.17;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	502150	502170	.	-	.	ID=exon:EgrG_001168700.18;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	502060	502071	.	-	.	ID=exon:EgrG_001168700.19;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	500987	501013	.	-	.	ID=exon:EgrG_001168700.20;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	500862	500876	.	-	.	ID=exon:EgrG_001168700.21;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	500728	500787	.	-	.	ID=exon:EgrG_001168700.22;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	500419	500562	.	-	.	ID=exon:EgrG_001168700.23;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	500069	500259	.	-	.	ID=exon:EgrG_001168700.24;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	510072	510317	.	-	0	ID=cds:EgrG_001168700;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	509721	509985	.	-	0	ID=cds:EgrG_001168700;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	509496	509644	.	-	2	ID=cds:EgrG_001168700;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	509208	509427	.	-	0	ID=cds:EgrG_001168700;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	508997	509123	.	-	2	ID=cds:EgrG_001168700;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	508736	508922	.	-	1	ID=cds:EgrG_001168700;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	508521	508654	.	-	0	ID=cds:EgrG_001168700;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	507262	507446	.	-	1	ID=cds:EgrG_001168700;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	506240	506551	.	-	2	ID=cds:EgrG_001168700;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	506099	506119	.	-	2	ID=cds:EgrG_001168700;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	506000	506023	.	-	2	ID=cds:EgrG_001168700;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	505889	505906	.	-	2	ID=cds:EgrG_001168700;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	505799	505816	.	-	2	ID=cds:EgrG_001168700;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	504601	504621	.	-	2	ID=cds:EgrG_001168700;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	504508	504519	.	-	2	ID=cds:EgrG_001168700;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	503645	503662	.	-	2	ID=cds:EgrG_001168700;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	503385	503396	.	-	2	ID=cds:EgrG_001168700;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	502150	502170	.	-	2	ID=cds:EgrG_001168700;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	502060	502071	.	-	2	ID=cds:EgrG_001168700;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	500987	501013	.	-	2	ID=cds:EgrG_001168700;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	500862	500876	.	-	2	ID=cds:EgrG_001168700;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	500728	500787	.	-	2	ID=cds:EgrG_001168700;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	500419	500562	.	-	2	ID=cds:EgrG_001168700;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	500069	500259	.	-	2	ID=cds:EgrG_001168700;Parent=transcript:EgrG_001168700
+pathogen_EgG_scaffold_0012	WormBase_imported	gene	2402517	2409729	.	+	.	ID=gene:EgrG_001187100;Name=EgrG_001187100;biotype=protein_coding;description=Zinc finger protein 91;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068WYH6
+pathogen_EgG_scaffold_0012	WormBase_imported	mRNA	2402517	2409729	.	+	.	ID=transcript:EgrG_001187100;Parent=gene:EgrG_001187100;Name=EgrG_001187100;info=method:InterPro accession:IPR013087 description:Zinc finger C2H2-type %0Amethod:InterPro accession:IPR036236 description:Zinc finger C2H2 superfamily
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	2402517	2402538	.	+	.	ID=exon:EgrG_001187100.1;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	2403676	2404089	.	+	.	ID=exon:EgrG_001187100.2;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	2404172	2404207	.	+	.	ID=exon:EgrG_001187100.3;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	2404528	2404551	.	+	.	ID=exon:EgrG_001187100.4;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	2404640	2404666	.	+	.	ID=exon:EgrG_001187100.5;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	2404742	2404756	.	+	.	ID=exon:EgrG_001187100.6;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	2405029	2405109	.	+	.	ID=exon:EgrG_001187100.7;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	2405257	2405343	.	+	.	ID=exon:EgrG_001187100.8;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	2405415	2405501	.	+	.	ID=exon:EgrG_001187100.9;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	2405575	2405655	.	+	.	ID=exon:EgrG_001187100.10;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	2405737	2405826	.	+	.	ID=exon:EgrG_001187100.11;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	2405958	2406044	.	+	.	ID=exon:EgrG_001187100.12;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	2406119	2406205	.	+	.	ID=exon:EgrG_001187100.13;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	2406293	2406379	.	+	.	ID=exon:EgrG_001187100.14;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	2406459	2406554	.	+	.	ID=exon:EgrG_001187100.15;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	2407028	2407144	.	+	.	ID=exon:EgrG_001187100.16;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	2407383	2407457	.	+	.	ID=exon:EgrG_001187100.17;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	2408105	2408161	.	+	.	ID=exon:EgrG_001187100.18;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	2408247	2408333	.	+	.	ID=exon:EgrG_001187100.19;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	2408596	2408682	.	+	.	ID=exon:EgrG_001187100.20;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	2408764	2408850	.	+	.	ID=exon:EgrG_001187100.21;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	2408962	2409048	.	+	.	ID=exon:EgrG_001187100.22;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	2409124	2409174	.	+	.	ID=exon:EgrG_001187100.23;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	exon	2409353	2409729	.	+	.	ID=exon:EgrG_001187100.24;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	2402517	2402538	.	+	0	ID=cds:EgrG_001187100;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	2403676	2404089	.	+	2	ID=cds:EgrG_001187100;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	2404172	2404207	.	+	2	ID=cds:EgrG_001187100;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	2404528	2404551	.	+	2	ID=cds:EgrG_001187100;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	2404640	2404666	.	+	2	ID=cds:EgrG_001187100;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	2404742	2404756	.	+	2	ID=cds:EgrG_001187100;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	2405029	2405109	.	+	2	ID=cds:EgrG_001187100;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	2405257	2405343	.	+	2	ID=cds:EgrG_001187100;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	2405415	2405501	.	+	2	ID=cds:EgrG_001187100;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	2405575	2405655	.	+	2	ID=cds:EgrG_001187100;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	2405737	2405826	.	+	2	ID=cds:EgrG_001187100;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	2405958	2406044	.	+	2	ID=cds:EgrG_001187100;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	2406119	2406205	.	+	2	ID=cds:EgrG_001187100;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	2406293	2406379	.	+	2	ID=cds:EgrG_001187100;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	2406459	2406554	.	+	2	ID=cds:EgrG_001187100;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	2407028	2407144	.	+	2	ID=cds:EgrG_001187100;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	2407383	2407457	.	+	2	ID=cds:EgrG_001187100;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	2408105	2408161	.	+	2	ID=cds:EgrG_001187100;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	2408247	2408333	.	+	2	ID=cds:EgrG_001187100;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	2408596	2408682	.	+	2	ID=cds:EgrG_001187100;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	2408764	2408850	.	+	2	ID=cds:EgrG_001187100;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	2408962	2409048	.	+	2	ID=cds:EgrG_001187100;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	2409124	2409174	.	+	2	ID=cds:EgrG_001187100;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0012	WormBase_imported	CDS	2409353	2409729	.	+	2	ID=cds:EgrG_001187100;Parent=transcript:EgrG_001187100
+pathogen_EgG_scaffold_0023	WormBase_imported	gene	40921	43473	.	-	.	ID=gene:EgrG_000293700;Name=EgrG_000293700;biotype=protein_coding;description=Diagnostic antigen gp50;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068X2I6
+pathogen_EgG_scaffold_0023	WormBase_imported	mRNA	40921	43473	.	-	.	ID=transcript:EgrG_000293700;Parent=gene:EgrG_000293700;Name=EgrG_000293700
+pathogen_EgG_scaffold_0023	WormBase_imported	exon	43423	43473	.	-	.	ID=exon:EgrG_000293700.1;Parent=transcript:EgrG_000293700
+pathogen_EgG_scaffold_0023	WormBase_imported	exon	42774	42863	.	-	.	ID=exon:EgrG_000293700.2;Parent=transcript:EgrG_000293700
+pathogen_EgG_scaffold_0023	WormBase_imported	exon	42195	42360	.	-	.	ID=exon:EgrG_000293700.3;Parent=transcript:EgrG_000293700
+pathogen_EgG_scaffold_0023	WormBase_imported	exon	41976	42005	.	-	.	ID=exon:EgrG_000293700.4;Parent=transcript:EgrG_000293700
+pathogen_EgG_scaffold_0023	WormBase_imported	exon	41806	41823	.	-	.	ID=exon:EgrG_000293700.5;Parent=transcript:EgrG_000293700
+pathogen_EgG_scaffold_0023	WormBase_imported	exon	41572	41586	.	-	.	ID=exon:EgrG_000293700.6;Parent=transcript:EgrG_000293700
+pathogen_EgG_scaffold_0023	WormBase_imported	exon	41291	41317	.	-	.	ID=exon:EgrG_000293700.7;Parent=transcript:EgrG_000293700
+pathogen_EgG_scaffold_0023	WormBase_imported	exon	40921	40964	.	-	.	ID=exon:EgrG_000293700.8;Parent=transcript:EgrG_000293700
+pathogen_EgG_scaffold_0023	WormBase_imported	CDS	43423	43473	.	-	0	ID=cds:EgrG_000293700;Parent=transcript:EgrG_000293700
+pathogen_EgG_scaffold_0023	WormBase_imported	CDS	42774	42863	.	-	0	ID=cds:EgrG_000293700;Parent=transcript:EgrG_000293700
+pathogen_EgG_scaffold_0023	WormBase_imported	CDS	42195	42360	.	-	0	ID=cds:EgrG_000293700;Parent=transcript:EgrG_000293700
+pathogen_EgG_scaffold_0023	WormBase_imported	CDS	41976	42005	.	-	2	ID=cds:EgrG_000293700;Parent=transcript:EgrG_000293700
+pathogen_EgG_scaffold_0023	WormBase_imported	CDS	41806	41823	.	-	2	ID=cds:EgrG_000293700;Parent=transcript:EgrG_000293700
+pathogen_EgG_scaffold_0023	WormBase_imported	CDS	41572	41586	.	-	2	ID=cds:EgrG_000293700;Parent=transcript:EgrG_000293700
+pathogen_EgG_scaffold_0023	WormBase_imported	CDS	41291	41317	.	-	2	ID=cds:EgrG_000293700;Parent=transcript:EgrG_000293700
+pathogen_EgG_scaffold_0023	WormBase_imported	CDS	40921	40964	.	-	2	ID=cds:EgrG_000293700;Parent=transcript:EgrG_000293700
+pathogen_EgG_scaffold_0025	WormBase_imported	gene	117448	120819	.	-	.	ID=gene:EgrG_000734700;Name=EgrG_000734700;biotype=protein_coding;description=Troponin i;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068X0C0
+pathogen_EgG_scaffold_0025	WormBase_imported	mRNA	117448	120819	.	-	.	ID=transcript:EgrG_000734700;Parent=gene:EgrG_000734700;Name=EgrG_000734700;info=method:InterPro accession:IPR001978 description:Troponin %0Amethod:InterPro accession:IPR038077 description:Troponin domain superfamily
+pathogen_EgG_scaffold_0025	WormBase_imported	exon	120797	120819	.	-	.	ID=exon:EgrG_000734700.1;Parent=transcript:EgrG_000734700
+pathogen_EgG_scaffold_0025	WormBase_imported	exon	120415	120421	.	-	.	ID=exon:EgrG_000734700.2;Parent=transcript:EgrG_000734700
+pathogen_EgG_scaffold_0025	WormBase_imported	exon	120279	120293	.	-	.	ID=exon:EgrG_000734700.3;Parent=transcript:EgrG_000734700
+pathogen_EgG_scaffold_0025	WormBase_imported	exon	120128	120142	.	-	.	ID=exon:EgrG_000734700.4;Parent=transcript:EgrG_000734700
+pathogen_EgG_scaffold_0025	WormBase_imported	exon	119345	119371	.	-	.	ID=exon:EgrG_000734700.5;Parent=transcript:EgrG_000734700
+pathogen_EgG_scaffold_0025	WormBase_imported	exon	119233	119274	.	-	.	ID=exon:EgrG_000734700.6;Parent=transcript:EgrG_000734700
+pathogen_EgG_scaffold_0025	WormBase_imported	exon	118783	118812	.	-	.	ID=exon:EgrG_000734700.7;Parent=transcript:EgrG_000734700
+pathogen_EgG_scaffold_0025	WormBase_imported	exon	118415	118522	.	-	.	ID=exon:EgrG_000734700.8;Parent=transcript:EgrG_000734700
+pathogen_EgG_scaffold_0025	WormBase_imported	exon	118214	118334	.	-	.	ID=exon:EgrG_000734700.9;Parent=transcript:EgrG_000734700
+pathogen_EgG_scaffold_0025	WormBase_imported	exon	117978	118122	.	-	.	ID=exon:EgrG_000734700.10;Parent=transcript:EgrG_000734700
+pathogen_EgG_scaffold_0025	WormBase_imported	exon	117745	117895	.	-	.	ID=exon:EgrG_000734700.11;Parent=transcript:EgrG_000734700
+pathogen_EgG_scaffold_0025	WormBase_imported	exon	117448	117519	.	-	.	ID=exon:EgrG_000734700.12;Parent=transcript:EgrG_000734700
+pathogen_EgG_scaffold_0025	WormBase_imported	CDS	120797	120819	.	-	0	ID=cds:EgrG_000734700;Parent=transcript:EgrG_000734700
+pathogen_EgG_scaffold_0025	WormBase_imported	CDS	120415	120421	.	-	1	ID=cds:EgrG_000734700;Parent=transcript:EgrG_000734700
+pathogen_EgG_scaffold_0025	WormBase_imported	CDS	120279	120293	.	-	0	ID=cds:EgrG_000734700;Parent=transcript:EgrG_000734700
+pathogen_EgG_scaffold_0025	WormBase_imported	CDS	120128	120142	.	-	0	ID=cds:EgrG_000734700;Parent=transcript:EgrG_000734700
+pathogen_EgG_scaffold_0025	WormBase_imported	CDS	119345	119371	.	-	0	ID=cds:EgrG_000734700;Parent=transcript:EgrG_000734700
+pathogen_EgG_scaffold_0025	WormBase_imported	CDS	119233	119274	.	-	0	ID=cds:EgrG_000734700;Parent=transcript:EgrG_000734700
+pathogen_EgG_scaffold_0025	WormBase_imported	CDS	118783	118812	.	-	0	ID=cds:EgrG_000734700;Parent=transcript:EgrG_000734700
+pathogen_EgG_scaffold_0025	WormBase_imported	CDS	118415	118522	.	-	0	ID=cds:EgrG_000734700;Parent=transcript:EgrG_000734700
+pathogen_EgG_scaffold_0025	WormBase_imported	CDS	118214	118334	.	-	0	ID=cds:EgrG_000734700;Parent=transcript:EgrG_000734700
+pathogen_EgG_scaffold_0025	WormBase_imported	CDS	117978	118122	.	-	2	ID=cds:EgrG_000734700;Parent=transcript:EgrG_000734700
+pathogen_EgG_scaffold_0025	WormBase_imported	CDS	117745	117895	.	-	1	ID=cds:EgrG_000734700;Parent=transcript:EgrG_000734700
+pathogen_EgG_scaffold_0025	WormBase_imported	CDS	117448	117519	.	-	0	ID=cds:EgrG_000734700;Parent=transcript:EgrG_000734700
+pathogen_EgG_scaffold_0033	WormBase_imported	gene	141527	145015	.	+	.	ID=gene:EgrG_000566700;Name=EgrG_000566700;biotype=protein_coding;description=Diagnostic antigen gp50;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068WWK3
+pathogen_EgG_scaffold_0033	WormBase_imported	mRNA	141527	145015	.	+	.	ID=transcript:EgrG_000566700;Parent=gene:EgrG_000566700;Name=EgrG_000566700
+pathogen_EgG_scaffold_0033	WormBase_imported	exon	141527	141572	.	+	.	ID=exon:EgrG_000566700.1;Parent=transcript:EgrG_000566700
+pathogen_EgG_scaffold_0033	WormBase_imported	exon	141794	141882	.	+	.	ID=exon:EgrG_000566700.2;Parent=transcript:EgrG_000566700
+pathogen_EgG_scaffold_0033	WormBase_imported	exon	142094	142199	.	+	.	ID=exon:EgrG_000566700.3;Parent=transcript:EgrG_000566700
+pathogen_EgG_scaffold_0033	WormBase_imported	exon	142431	142553	.	+	.	ID=exon:EgrG_000566700.4;Parent=transcript:EgrG_000566700
+pathogen_EgG_scaffold_0033	WormBase_imported	exon	142758	142861	.	+	.	ID=exon:EgrG_000566700.5;Parent=transcript:EgrG_000566700
+pathogen_EgG_scaffold_0033	WormBase_imported	exon	142994	143012	.	+	.	ID=exon:EgrG_000566700.6;Parent=transcript:EgrG_000566700
+pathogen_EgG_scaffold_0033	WormBase_imported	exon	143161	143292	.	+	.	ID=exon:EgrG_000566700.7;Parent=transcript:EgrG_000566700
+pathogen_EgG_scaffold_0033	WormBase_imported	exon	143716	143733	.	+	.	ID=exon:EgrG_000566700.8;Parent=transcript:EgrG_000566700
+pathogen_EgG_scaffold_0033	WormBase_imported	exon	144452	144466	.	+	.	ID=exon:EgrG_000566700.9;Parent=transcript:EgrG_000566700
+pathogen_EgG_scaffold_0033	WormBase_imported	exon	144594	144620	.	+	.	ID=exon:EgrG_000566700.10;Parent=transcript:EgrG_000566700
+pathogen_EgG_scaffold_0033	WormBase_imported	exon	144963	145015	.	+	.	ID=exon:EgrG_000566700.11;Parent=transcript:EgrG_000566700
+pathogen_EgG_scaffold_0033	WormBase_imported	CDS	141527	141572	.	+	0	ID=cds:EgrG_000566700;Parent=transcript:EgrG_000566700
+pathogen_EgG_scaffold_0033	WormBase_imported	CDS	141794	141882	.	+	2	ID=cds:EgrG_000566700;Parent=transcript:EgrG_000566700
+pathogen_EgG_scaffold_0033	WormBase_imported	CDS	142094	142199	.	+	0	ID=cds:EgrG_000566700;Parent=transcript:EgrG_000566700
+pathogen_EgG_scaffold_0033	WormBase_imported	CDS	142431	142553	.	+	2	ID=cds:EgrG_000566700;Parent=transcript:EgrG_000566700
+pathogen_EgG_scaffold_0033	WormBase_imported	CDS	142758	142861	.	+	2	ID=cds:EgrG_000566700;Parent=transcript:EgrG_000566700
+pathogen_EgG_scaffold_0033	WormBase_imported	CDS	142994	143012	.	+	0	ID=cds:EgrG_000566700;Parent=transcript:EgrG_000566700
+pathogen_EgG_scaffold_0033	WormBase_imported	CDS	143161	143292	.	+	2	ID=cds:EgrG_000566700;Parent=transcript:EgrG_000566700
+pathogen_EgG_scaffold_0033	WormBase_imported	CDS	143716	143733	.	+	2	ID=cds:EgrG_000566700;Parent=transcript:EgrG_000566700
+pathogen_EgG_scaffold_0033	WormBase_imported	CDS	144452	144466	.	+	2	ID=cds:EgrG_000566700;Parent=transcript:EgrG_000566700
+pathogen_EgG_scaffold_0033	WormBase_imported	CDS	144594	144620	.	+	2	ID=cds:EgrG_000566700;Parent=transcript:EgrG_000566700
+pathogen_EgG_scaffold_0033	WormBase_imported	CDS	144963	145015	.	+	2	ID=cds:EgrG_000566700;Parent=transcript:EgrG_000566700
+pathogen_EgG_scaffold_0048	WormBase_imported	gene	174049	177517	.	-	.	ID=gene:EgrG_000324200;Name=EgrG_000324200;biotype=protein_coding;description=Diagnostic antigen gp50;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068WYA4
+pathogen_EgG_scaffold_0048	WormBase_imported	mRNA	174049	177517	.	-	.	ID=transcript:EgrG_000324200;Parent=gene:EgrG_000324200;Name=EgrG_000324200
+pathogen_EgG_scaffold_0048	WormBase_imported	exon	177467	177517	.	-	.	ID=exon:EgrG_000324200.1;Parent=transcript:EgrG_000324200
+pathogen_EgG_scaffold_0048	WormBase_imported	exon	177195	177300	.	-	.	ID=exon:EgrG_000324200.2;Parent=transcript:EgrG_000324200
+pathogen_EgG_scaffold_0048	WormBase_imported	exon	176645	176776	.	-	.	ID=exon:EgrG_000324200.3;Parent=transcript:EgrG_000324200
+pathogen_EgG_scaffold_0048	WormBase_imported	exon	176468	176571	.	-	.	ID=exon:EgrG_000324200.4;Parent=transcript:EgrG_000324200
+pathogen_EgG_scaffold_0048	WormBase_imported	exon	176228	176306	.	-	.	ID=exon:EgrG_000324200.5;Parent=transcript:EgrG_000324200
+pathogen_EgG_scaffold_0048	WormBase_imported	exon	175870	176010	.	-	.	ID=exon:EgrG_000324200.6;Parent=transcript:EgrG_000324200
+pathogen_EgG_scaffold_0048	WormBase_imported	exon	175647	175676	.	-	.	ID=exon:EgrG_000324200.7;Parent=transcript:EgrG_000324200
+pathogen_EgG_scaffold_0048	WormBase_imported	exon	175113	175130	.	-	.	ID=exon:EgrG_000324200.8;Parent=transcript:EgrG_000324200
+pathogen_EgG_scaffold_0048	WormBase_imported	exon	174669	174686	.	-	.	ID=exon:EgrG_000324200.9;Parent=transcript:EgrG_000324200
+pathogen_EgG_scaffold_0048	WormBase_imported	exon	174472	174498	.	-	.	ID=exon:EgrG_000324200.10;Parent=transcript:EgrG_000324200
+pathogen_EgG_scaffold_0048	WormBase_imported	exon	174049	174098	.	-	.	ID=exon:EgrG_000324200.11;Parent=transcript:EgrG_000324200
+pathogen_EgG_scaffold_0048	WormBase_imported	CDS	177467	177517	.	-	0	ID=cds:EgrG_000324200;Parent=transcript:EgrG_000324200
+pathogen_EgG_scaffold_0048	WormBase_imported	CDS	177195	177300	.	-	0	ID=cds:EgrG_000324200;Parent=transcript:EgrG_000324200
+pathogen_EgG_scaffold_0048	WormBase_imported	CDS	176645	176776	.	-	2	ID=cds:EgrG_000324200;Parent=transcript:EgrG_000324200
+pathogen_EgG_scaffold_0048	WormBase_imported	CDS	176468	176571	.	-	2	ID=cds:EgrG_000324200;Parent=transcript:EgrG_000324200
+pathogen_EgG_scaffold_0048	WormBase_imported	CDS	176228	176306	.	-	0	ID=cds:EgrG_000324200;Parent=transcript:EgrG_000324200
+pathogen_EgG_scaffold_0048	WormBase_imported	CDS	175870	176010	.	-	2	ID=cds:EgrG_000324200;Parent=transcript:EgrG_000324200
+pathogen_EgG_scaffold_0048	WormBase_imported	CDS	175647	175676	.	-	2	ID=cds:EgrG_000324200;Parent=transcript:EgrG_000324200
+pathogen_EgG_scaffold_0048	WormBase_imported	CDS	175113	175130	.	-	2	ID=cds:EgrG_000324200;Parent=transcript:EgrG_000324200
+pathogen_EgG_scaffold_0048	WormBase_imported	CDS	174669	174686	.	-	2	ID=cds:EgrG_000324200;Parent=transcript:EgrG_000324200
+pathogen_EgG_scaffold_0048	WormBase_imported	CDS	174472	174498	.	-	2	ID=cds:EgrG_000324200;Parent=transcript:EgrG_000324200
+pathogen_EgG_scaffold_0048	WormBase_imported	CDS	174049	174098	.	-	2	ID=cds:EgrG_000324200;Parent=transcript:EgrG_000324200
+pathogen_EgG_scaffold_0048	cmscan_rfam_12.2	nucleotide_match	21171	21311	44.8	-	.	ID=cmscan_rfam_12.2.223;Name=U3;Target=U3 1 218;Gap=M13 D M5 I M28 D M16 I2 M28 D35 I61 D22 I25 D19 M6 
+pathogen_EgG_scaffold_0048	cmscan_rfam_12.2	nucleotide_match	96175	96283	61.1	+	.	ID=cmscan_rfam_12.2.222;Name=K_chan_RES;Target=K_chan_RES 1 114;Gap=M5 D M5 D M9 D3 M90 
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	5	366	1953	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	423	487	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	672	678	.	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	1848	1979	238	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	1904	2111	793	+	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	2469	3753	4924	+	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	4249	4439	1107	+	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	5184	5453	771	+	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	5818	5824	.	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	6294	6743	1412	+	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	7315	7334	.	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	7609	7765	299	+	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	7917	8121	691	+	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	8320	9874	5830	+	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	8498	8504	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	9268	9274	.	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	13264	13505	659	+	.	
+pathogen_EgG_scaffold_0048	tandem	tandem_repeat	16077	16115	50	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	16175	16276	.	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	16277	16480	419	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	16562	16623	.	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	17325	17460	582	+	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	17342	17463	602	+	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	17470	17786	1652	+	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	17786	17918	696	+	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	18154	18200	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	20652	20713	.	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	20795	20998	419	+	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	20999	21098	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	22487	22493	.	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	23685	24011	1284	+	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	24121	24592	1901	+	.	
+pathogen_EgG_scaffold_0048	tandem	tandem_repeat	24739	24792	108	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	30942	30948	.	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	32271	32447	521	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	33256	33263	.	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	33792	34037	884	+	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	34128	34184	242	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	34136	34254	348	+	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	35739	35745	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	36265	36272	.	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	37259	37437	534	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	37603	37610	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	37655	37661	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	38021	38027	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	38283	38289	.	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	38806	38962	606	+	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	38829	39027	1714	+	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	40939	40945	.	-	.	
+pathogen_EgG_scaffold_0048	tandem	tandem_repeat	41492	41529	55	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	41726	41938	507	+	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	42247	42254	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	43036	43042	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	43632	43638	.	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	45826	45932	272	+	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	45838	45932	279	+	.	
+pathogen_EgG_scaffold_0048	tandem	tandem_repeat	45884	45911	49	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	45884	45911	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	46236	46248	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	47044	47050	.	-	.	
+pathogen_EgG_scaffold_0048	tandem	tandem_repeat	47598	47622	50	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	47598	47622	.	-	.	
+pathogen_EgG_scaffold_0048	tandem	tandem_repeat	47599	47623	43	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	47808	47814	.	-	.	
+pathogen_EgG_scaffold_0048	tandem	tandem_repeat	47847	47952	184	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	48130	48145	.	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	49008	49672	1685	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	49250	49258	.	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	49627	49687	271	+	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	49688	50083	1094	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	51339	51347	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	51460	51467	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	51965	51977	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	53781	53787	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	53807	53813	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	54159	54165	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	54744	54750	.	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	55062	55216	460	+	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	56996	57027	.	-	.	
+pathogen_EgG_scaffold_0048	tandem	tandem_repeat	58488	58511	41	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	58488	58511	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	58594	58600	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	62623	62630	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	63659	63665	.	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	64150	64328	490	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	65804	65810	.	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	66819	67019	489	+	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	67976	67982	.	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	67989	68098	330	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	68009	68141	333	+	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	68024	68158	302	+	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	68821	68828	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	70073	70080	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	70472	70478	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	70860	70866	.	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	73083	73141	233	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	73416	73422	.	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	73942	74082	225	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	74311	74317	.	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	75824	76088	280	+	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	76717	76723	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	77067	77073	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	77916	77923	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	78154	78160	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	78926	78933	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	79261	79267	.	-	.	
+pathogen_EgG_scaffold_0048	tandem	tandem_repeat	79586	79626	50	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	80197	80204	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	80526	80532	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	81432	81438	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	82216	82257	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	82663	82669	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	83590	83608	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	85118	85131	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	86332	86338	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	87666	87673	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	89531	89538	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	90575	90581	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	91126	91141	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	92262	92268	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	93228	93234	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	98894	98900	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	99227	99233	.	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	104961	105144	242	+	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	105468	105474	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	105902	105908	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	106607	106614	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	106657	106663	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	107678	107684	.	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	110752	110888	236	+	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	112710	112716	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	113534	113540	.	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	114028	114088	255	+	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	115143	115151	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	118067	118166	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	120792	120798	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	121609	121615	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	122378	122384	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	123794	123800	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	124210	124221	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	124854	124861	.	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	125011	125190	310	+	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	125025	125185	582	+	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	125170	125230	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	125644	125650	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	126397	126403	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	126580	126640	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	128895	128901	.	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	128909	129068	365	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	129282	129291	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	129512	129519	.	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	130885	131134	268	+	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	131071	131145	256	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	131289	131333	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	131367	131402	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	132166	132190	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	133215	133221	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	133410	133416	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	133828	133834	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	133963	133986	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	134740	134746	.	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	135178	135242	290	+	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	135866	136057	626	+	.	
+pathogen_EgG_scaffold_0048	tandem	tandem_repeat	136698	136735	55	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	136863	136870	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	137175	137188	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	139148	139154	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	139311	139317	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	139567	139573	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	141418	141432	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	142141	142153	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	143248	143254	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	144118	144124	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	144793	144799	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	145728	145734	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	145878	145887	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	147121	147186	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	148393	148400	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	148722	148729	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	149399	149413	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	149652	149659	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	149995	150001	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	150509	150516	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	152434	152440	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	154478	154538	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	155347	155360	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	155557	155563	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	155776	155782	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	155827	155833	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	157881	157889	.	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	160058	160239	917	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	160275	160422	396	+	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	160300	160306	.	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	160429	161117	1841	+	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	161839	161847	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	162961	162968	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	163877	163894	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	164280	164286	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	164393	164400	.	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	165068	165443	1088	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	165410	165460	.	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	165538	165696	767	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	165756	165845	410	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	166844	166850	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	167619	167626	.	-	.	
+pathogen_EgG_scaffold_0048	RepeatMasker	repeat_region	167676	171088	17998	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	170067	170083	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	170953	170959	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	171127	171184	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	177645	177744	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	179793	179811	.	-	.	
+pathogen_EgG_scaffold_0048	dust	low_complexity_region	181926	181932	.	-	.	
+pathogen_EgG_scaffold_0114	WormBase_imported	gene	31346	32385	.	-	.	ID=gene:EgrG_002006500;Name=EgrG_002006500;biotype=protein_coding
+pathogen_EgG_scaffold_0114	WormBase_imported	mRNA	31346	32385	.	-	.	ID=transcript:EgrG_002006500;Parent=gene:EgrG_002006500;Name=EgrG_002006500
+pathogen_EgG_scaffold_0114	WormBase_imported	exon	32373	32385	.	-	.	ID=exon:EgrG_002006500.1;Parent=transcript:EgrG_002006500
+pathogen_EgG_scaffold_0114	WormBase_imported	exon	32218	32244	.	-	.	ID=exon:EgrG_002006500.2;Parent=transcript:EgrG_002006500
+pathogen_EgG_scaffold_0114	WormBase_imported	exon	31920	31934	.	-	.	ID=exon:EgrG_002006500.3;Parent=transcript:EgrG_002006500
+pathogen_EgG_scaffold_0114	WormBase_imported	exon	31765	31791	.	-	.	ID=exon:EgrG_002006500.4;Parent=transcript:EgrG_002006500
+pathogen_EgG_scaffold_0114	WormBase_imported	exon	31346	31398	.	-	.	ID=exon:EgrG_002006500.5;Parent=transcript:EgrG_002006500
+pathogen_EgG_scaffold_0114	WormBase_imported	CDS	32373	32385	.	-	0	ID=cds:EgrG_002006500;Parent=transcript:EgrG_002006500
+pathogen_EgG_scaffold_0114	WormBase_imported	CDS	32218	32244	.	-	2	ID=cds:EgrG_002006500;Parent=transcript:EgrG_002006500
+pathogen_EgG_scaffold_0114	WormBase_imported	CDS	31920	31934	.	-	2	ID=cds:EgrG_002006500;Parent=transcript:EgrG_002006500
+pathogen_EgG_scaffold_0114	WormBase_imported	CDS	31765	31791	.	-	2	ID=cds:EgrG_002006500;Parent=transcript:EgrG_002006500
+pathogen_EgG_scaffold_0114	WormBase_imported	CDS	31346	31398	.	-	2	ID=cds:EgrG_002006500;Parent=transcript:EgrG_002006500
+pathogen_EgG_scaffold_0114	RepeatMasker	repeat_region	12	1047	700	+	.	
+pathogen_EgG_scaffold_0114	dust	low_complexity_region	1178	1191	.	-	.	
+pathogen_EgG_scaffold_0114	dust	low_complexity_region	2245	2346	.	-	.	
+pathogen_EgG_scaffold_0114	dust	low_complexity_region	2560	2566	.	-	.	
+pathogen_EgG_scaffold_0114	RepeatMasker	repeat_region	3153	3264	523	-	.	
+pathogen_EgG_scaffold_0114	RepeatMasker	repeat_region	3395	3503	405	-	.	
+pathogen_EgG_scaffold_0114	RepeatMasker	repeat_region	3875	3986	616	-	.	
+pathogen_EgG_scaffold_0114	RepeatMasker	repeat_region	4169	4280	580	-	.	
+pathogen_EgG_scaffold_0114	RepeatMasker	repeat_region	4622	4734	636	-	.	
+pathogen_EgG_scaffold_0114	dust	low_complexity_region	4813	4819	.	-	.	
+pathogen_EgG_scaffold_0114	dust	low_complexity_region	6971	6984	.	-	.	
+pathogen_EgG_scaffold_0114	dust	low_complexity_region	7705	7806	.	-	.	
+pathogen_EgG_scaffold_0114	dust	low_complexity_region	8072	8085	.	-	.	
+pathogen_EgG_scaffold_0114	dust	low_complexity_region	9859	9866	.	-	.	
+pathogen_EgG_scaffold_0114	dust	low_complexity_region	11667	11673	.	-	.	
+pathogen_EgG_scaffold_0114	dust	low_complexity_region	12411	12418	.	-	.	
+pathogen_EgG_scaffold_0114	RepeatMasker	repeat_region	12722	14840	15553	-	.	
+pathogen_EgG_scaffold_0114	RepeatMasker	repeat_region	14843	15393	1551	+	.	
+pathogen_EgG_scaffold_0114	dust	low_complexity_region	16814	16913	.	-	.	
+pathogen_EgG_scaffold_0114	dust	low_complexity_region	17502	17602	.	-	.	
+pathogen_EgG_scaffold_0114	dust	low_complexity_region	18871	18972	.	-	.	
+pathogen_EgG_scaffold_0114	RepeatMasker	repeat_region	19611	19734	386	-	.	
+pathogen_EgG_scaffold_0114	RepeatMasker	repeat_region	21018	21210	281	-	.	
+pathogen_EgG_scaffold_0114	RepeatMasker	repeat_region	21246	21796	1502	-	.	
+pathogen_EgG_scaffold_0114	RepeatMasker	repeat_region	21799	23918	15591	+	.	
+pathogen_EgG_scaffold_0114	dust	low_complexity_region	24222	24229	.	-	.	
+pathogen_EgG_scaffold_0114	dust	low_complexity_region	24967	24973	.	-	.	
+pathogen_EgG_scaffold_0114	dust	low_complexity_region	26774	26781	.	-	.	
+pathogen_EgG_scaffold_0114	dust	low_complexity_region	28529	28583	.	-	.	
+pathogen_EgG_scaffold_0114	dust	low_complexity_region	28836	28936	.	-	.	
+pathogen_EgG_scaffold_0114	dust	low_complexity_region	29652	29665	.	-	.	
+pathogen_EgG_scaffold_0114	RepeatMasker	repeat_region	31903	32014	567	+	.	
+pathogen_EgG_scaffold_0114	RepeatMasker	repeat_region	32356	32467	580	+	.	
+pathogen_EgG_scaffold_0114	RepeatMasker	repeat_region	32650	32761	616	+	.	
+pathogen_EgG_scaffold_0114	RepeatMasker	repeat_region	33133	33240	399	+	.	
+pathogen_EgG_scaffold_0114	RepeatMasker	repeat_region	33372	33483	447	+	.	
+pathogen_EgG_scaffold_0114	dust	low_complexity_region	34472	34485	.	-	.	
+pathogen_EgG_scaffold_0114	RepeatMasker	repeat_region	34616	35666	722	-	.	

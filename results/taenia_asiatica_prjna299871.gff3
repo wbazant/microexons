@@ -1,0 +1,846 @@
+Scaffold00006	WormBase_imported	gene	117768	139455	.	-	.	ID=gene:TASs00006g01574;Name=TASs00006g01574;biotype=protein_coding
+Scaffold00006	WormBase_imported	mRNA	117768	139455	.	-	.	ID=transcript:TASs00006g01574m00001;Parent=gene:TASs00006g01574;Name=TASs00006g01574m00001;info=method:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily
+Scaffold00006	WormBase_imported	exon	139431	139455	.	-	.	ID=exon:TASs00006g01574m00001.1;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	exon	139264	139362	.	-	.	ID=exon:TASs00006g01574m00001.2;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	exon	138856	138948	.	-	.	ID=exon:TASs00006g01574m00001.3;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	exon	138488	138586	.	-	.	ID=exon:TASs00006g01574m00001.4;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	exon	138226	138294	.	-	.	ID=exon:TASs00006g01574m00001.5;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	exon	138019	138150	.	-	.	ID=exon:TASs00006g01574m00001.6;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	exon	135975	136592	.	-	.	ID=exon:TASs00006g01574m00001.7;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	exon	135874	135903	.	-	.	ID=exon:TASs00006g01574m00001.8;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	exon	135295	135495	.	-	.	ID=exon:TASs00006g01574m00001.9;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	exon	135099	135149	.	-	.	ID=exon:TASs00006g01574m00001.10;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	exon	134961	135020	.	-	.	ID=exon:TASs00006g01574m00001.11;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	exon	134846	134893	.	-	.	ID=exon:TASs00006g01574m00001.12;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	exon	134707	134766	.	-	.	ID=exon:TASs00006g01574m00001.13;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	exon	134593	134625	.	-	.	ID=exon:TASs00006g01574m00001.14;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	exon	134381	134512	.	-	.	ID=exon:TASs00006g01574m00001.15;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	exon	134266	134295	.	-	.	ID=exon:TASs00006g01574m00001.16;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	exon	134163	134186	.	-	.	ID=exon:TASs00006g01574m00001.17;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	exon	134057	134080	.	-	.	ID=exon:TASs00006g01574m00001.18;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	exon	133880	133918	.	-	.	ID=exon:TASs00006g01574m00001.19;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	exon	133187	133300	.	-	.	ID=exon:TASs00006g01574m00001.20;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	exon	133080	133112	.	-	.	ID=exon:TASs00006g01574m00001.21;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	exon	132968	133000	.	-	.	ID=exon:TASs00006g01574m00001.22;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	exon	132837	132884	.	-	.	ID=exon:TASs00006g01574m00001.23;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	exon	132716	132756	.	-	.	ID=exon:TASs00006g01574m00001.24;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	exon	132458	132511	.	-	.	ID=exon:TASs00006g01574m00001.25;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	exon	127910	129589	.	-	.	ID=exon:TASs00006g01574m00001.26;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	exon	126597	126889	.	-	.	ID=exon:TASs00006g01574m00001.27;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	exon	126452	126526	.	-	.	ID=exon:TASs00006g01574m00001.28;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	exon	126280	126370	.	-	.	ID=exon:TASs00006g01574m00001.29;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	exon	125634	125783	.	-	.	ID=exon:TASs00006g01574m00001.30;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	exon	125229	125366	.	-	.	ID=exon:TASs00006g01574m00001.31;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	exon	121747	122025	.	-	.	ID=exon:TASs00006g01574m00001.32;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	exon	117895	118137	.	-	.	ID=exon:TASs00006g01574m00001.33;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	exon	117768	117788	.	-	.	ID=exon:TASs00006g01574m00001.34;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	CDS	139431	139455	.	-	0	ID=cds:TASs00006g01574m00001;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	CDS	139264	139362	.	-	2	ID=cds:TASs00006g01574m00001;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	CDS	138856	138948	.	-	2	ID=cds:TASs00006g01574m00001;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	CDS	138488	138586	.	-	2	ID=cds:TASs00006g01574m00001;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	CDS	138226	138294	.	-	2	ID=cds:TASs00006g01574m00001;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	CDS	138019	138150	.	-	2	ID=cds:TASs00006g01574m00001;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	CDS	135975	136592	.	-	2	ID=cds:TASs00006g01574m00001;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	CDS	135874	135903	.	-	2	ID=cds:TASs00006g01574m00001;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	CDS	135295	135495	.	-	2	ID=cds:TASs00006g01574m00001;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	CDS	135099	135149	.	-	2	ID=cds:TASs00006g01574m00001;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	CDS	134961	135020	.	-	2	ID=cds:TASs00006g01574m00001;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	CDS	134846	134893	.	-	2	ID=cds:TASs00006g01574m00001;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	CDS	134707	134766	.	-	2	ID=cds:TASs00006g01574m00001;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	CDS	134593	134625	.	-	2	ID=cds:TASs00006g01574m00001;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	CDS	134381	134512	.	-	2	ID=cds:TASs00006g01574m00001;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	CDS	134266	134295	.	-	2	ID=cds:TASs00006g01574m00001;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	CDS	134163	134186	.	-	2	ID=cds:TASs00006g01574m00001;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	CDS	134057	134080	.	-	2	ID=cds:TASs00006g01574m00001;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	CDS	133880	133918	.	-	2	ID=cds:TASs00006g01574m00001;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	CDS	133187	133300	.	-	2	ID=cds:TASs00006g01574m00001;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	CDS	133080	133112	.	-	2	ID=cds:TASs00006g01574m00001;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	CDS	132968	133000	.	-	2	ID=cds:TASs00006g01574m00001;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	CDS	132837	132884	.	-	2	ID=cds:TASs00006g01574m00001;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	CDS	132716	132756	.	-	2	ID=cds:TASs00006g01574m00001;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	CDS	132458	132511	.	-	0	ID=cds:TASs00006g01574m00001;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	CDS	127910	129589	.	-	0	ID=cds:TASs00006g01574m00001;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	CDS	126597	126889	.	-	0	ID=cds:TASs00006g01574m00001;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	CDS	126452	126526	.	-	1	ID=cds:TASs00006g01574m00001;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	CDS	126280	126370	.	-	1	ID=cds:TASs00006g01574m00001;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	CDS	125634	125783	.	-	0	ID=cds:TASs00006g01574m00001;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	CDS	125229	125366	.	-	0	ID=cds:TASs00006g01574m00001;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	CDS	121747	122025	.	-	0	ID=cds:TASs00006g01574m00001;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	CDS	117895	118137	.	-	0	ID=cds:TASs00006g01574m00001;Parent=transcript:TASs00006g01574m00001
+Scaffold00006	WormBase_imported	CDS	117768	117788	.	-	0	ID=cds:TASs00006g01574m00001;Parent=transcript:TASs00006g01574m00001
+Scaffold00008	WormBase_imported	gene	140747	150837	.	-	.	ID=gene:TASs00008g01966;Name=TASs00008g01966;biotype=protein_coding
+Scaffold00008	WormBase_imported	mRNA	140747	150837	.	-	.	ID=transcript:TASs00008g01966m00001;Parent=gene:TASs00008g01966;Name=TASs00008g01966m00001;info=method:InterPro accession:IPR014752 description:Arrestin%2C C-terminal
+Scaffold00008	WormBase_imported	exon	150813	150837	.	-	.	ID=exon:TASs00008g01966m00001.1;Parent=transcript:TASs00008g01966m00001
+Scaffold00008	WormBase_imported	exon	150402	150419	.	-	.	ID=exon:TASs00008g01966m00001.2;Parent=transcript:TASs00008g01966m00001
+Scaffold00008	WormBase_imported	exon	150202	150240	.	-	.	ID=exon:TASs00008g01966m00001.3;Parent=transcript:TASs00008g01966m00001
+Scaffold00008	WormBase_imported	exon	149758	149778	.	-	.	ID=exon:TASs00008g01966m00001.4;Parent=transcript:TASs00008g01966m00001
+Scaffold00008	WormBase_imported	exon	149621	149632	.	-	.	ID=exon:TASs00008g01966m00001.5;Parent=transcript:TASs00008g01966m00001
+Scaffold00008	WormBase_imported	exon	149512	149541	.	-	.	ID=exon:TASs00008g01966m00001.6;Parent=transcript:TASs00008g01966m00001
+Scaffold00008	WormBase_imported	exon	149282	149332	.	-	.	ID=exon:TASs00008g01966m00001.7;Parent=transcript:TASs00008g01966m00001
+Scaffold00008	WormBase_imported	exon	148760	148834	.	-	.	ID=exon:TASs00008g01966m00001.8;Parent=transcript:TASs00008g01966m00001
+Scaffold00008	WormBase_imported	exon	148365	148381	.	-	.	ID=exon:TASs00008g01966m00001.9;Parent=transcript:TASs00008g01966m00001
+Scaffold00008	WormBase_imported	exon	148081	148092	.	-	.	ID=exon:TASs00008g01966m00001.10;Parent=transcript:TASs00008g01966m00001
+Scaffold00008	WormBase_imported	exon	147891	147929	.	-	.	ID=exon:TASs00008g01966m00001.11;Parent=transcript:TASs00008g01966m00001
+Scaffold00008	WormBase_imported	exon	147538	147555	.	-	.	ID=exon:TASs00008g01966m00001.12;Parent=transcript:TASs00008g01966m00001
+Scaffold00008	WormBase_imported	exon	144743	144752	.	-	.	ID=exon:TASs00008g01966m00001.13;Parent=transcript:TASs00008g01966m00001
+Scaffold00008	WormBase_imported	exon	144191	144453	.	-	.	ID=exon:TASs00008g01966m00001.14;Parent=transcript:TASs00008g01966m00001
+Scaffold00008	WormBase_imported	exon	143294	143592	.	-	.	ID=exon:TASs00008g01966m00001.15;Parent=transcript:TASs00008g01966m00001
+Scaffold00008	WormBase_imported	exon	142624	142813	.	-	.	ID=exon:TASs00008g01966m00001.16;Parent=transcript:TASs00008g01966m00001
+Scaffold00008	WormBase_imported	exon	141813	142238	.	-	.	ID=exon:TASs00008g01966m00001.17;Parent=transcript:TASs00008g01966m00001
+Scaffold00008	WormBase_imported	exon	140747	140860	.	-	.	ID=exon:TASs00008g01966m00001.18;Parent=transcript:TASs00008g01966m00001
+Scaffold00008	WormBase_imported	CDS	150813	150837	.	-	0	ID=cds:TASs00008g01966m00001;Parent=transcript:TASs00008g01966m00001
+Scaffold00008	WormBase_imported	CDS	150402	150419	.	-	2	ID=cds:TASs00008g01966m00001;Parent=transcript:TASs00008g01966m00001
+Scaffold00008	WormBase_imported	CDS	150202	150240	.	-	2	ID=cds:TASs00008g01966m00001;Parent=transcript:TASs00008g01966m00001
+Scaffold00008	WormBase_imported	CDS	149758	149778	.	-	2	ID=cds:TASs00008g01966m00001;Parent=transcript:TASs00008g01966m00001
+Scaffold00008	WormBase_imported	CDS	149621	149632	.	-	2	ID=cds:TASs00008g01966m00001;Parent=transcript:TASs00008g01966m00001
+Scaffold00008	WormBase_imported	CDS	149512	149541	.	-	2	ID=cds:TASs00008g01966m00001;Parent=transcript:TASs00008g01966m00001
+Scaffold00008	WormBase_imported	CDS	149282	149332	.	-	2	ID=cds:TASs00008g01966m00001;Parent=transcript:TASs00008g01966m00001
+Scaffold00008	WormBase_imported	CDS	148760	148834	.	-	2	ID=cds:TASs00008g01966m00001;Parent=transcript:TASs00008g01966m00001
+Scaffold00008	WormBase_imported	CDS	148365	148381	.	-	2	ID=cds:TASs00008g01966m00001;Parent=transcript:TASs00008g01966m00001
+Scaffold00008	WormBase_imported	CDS	148081	148092	.	-	0	ID=cds:TASs00008g01966m00001;Parent=transcript:TASs00008g01966m00001
+Scaffold00008	WormBase_imported	CDS	147891	147929	.	-	0	ID=cds:TASs00008g01966m00001;Parent=transcript:TASs00008g01966m00001
+Scaffold00008	WormBase_imported	CDS	147538	147555	.	-	0	ID=cds:TASs00008g01966m00001;Parent=transcript:TASs00008g01966m00001
+Scaffold00008	WormBase_imported	CDS	144743	144752	.	-	0	ID=cds:TASs00008g01966m00001;Parent=transcript:TASs00008g01966m00001
+Scaffold00008	WormBase_imported	CDS	144191	144453	.	-	2	ID=cds:TASs00008g01966m00001;Parent=transcript:TASs00008g01966m00001
+Scaffold00008	WormBase_imported	CDS	143294	143592	.	-	0	ID=cds:TASs00008g01966m00001;Parent=transcript:TASs00008g01966m00001
+Scaffold00008	WormBase_imported	CDS	142624	142813	.	-	1	ID=cds:TASs00008g01966m00001;Parent=transcript:TASs00008g01966m00001
+Scaffold00008	WormBase_imported	CDS	141813	142238	.	-	0	ID=cds:TASs00008g01966m00001;Parent=transcript:TASs00008g01966m00001
+Scaffold00008	WormBase_imported	CDS	140747	140860	.	-	0	ID=cds:TASs00008g01966m00001;Parent=transcript:TASs00008g01966m00001
+Scaffold00010	WormBase_imported	gene	701464	722546	.	-	.	ID=gene:TASs00010g02400;Name=TASs00010g02400;biotype=protein_coding
+Scaffold00010	WormBase_imported	mRNA	701464	722546	.	-	.	ID=transcript:TASs00010g02400m00001;Parent=gene:TASs00010g02400;Name=TASs00010g02400m00001;info=method:InterPro accession:IPR001073 description:C1q domain %0Amethod:InterPro accession:IPR008983 description:Tumour necrosis factor-like domain superfamily %0Amethod:InterPro accession:IPR013087 description:Zinc finger C2H2-type %0Amethod:InterPro accession:IPR036236 description:Zinc finger C2H2 superfamily
+Scaffold00010	WormBase_imported	exon	722525	722546	.	-	.	ID=exon:TASs00010g02400m00001.1;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	exon	721452	721871	.	-	.	ID=exon:TASs00010g02400m00001.2;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	exon	721336	721371	.	-	.	ID=exon:TASs00010g02400m00001.3;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	exon	721041	721064	.	-	.	ID=exon:TASs00010g02400m00001.4;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	exon	720935	720961	.	-	.	ID=exon:TASs00010g02400m00001.5;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	exon	720846	720860	.	-	.	ID=exon:TASs00010g02400m00001.6;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	exon	719967	720047	.	-	.	ID=exon:TASs00010g02400m00001.7;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	exon	719416	719502	.	-	.	ID=exon:TASs00010g02400m00001.8;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	exon	719241	719327	.	-	.	ID=exon:TASs00010g02400m00001.9;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	exon	719062	719157	.	-	.	ID=exon:TASs00010g02400m00001.10;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	exon	718313	718462	.	-	.	ID=exon:TASs00010g02400m00001.11;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	exon	718018	718098	.	-	.	ID=exon:TASs00010g02400m00001.12;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	exon	717455	717511	.	-	.	ID=exon:TASs00010g02400m00001.13;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	exon	717283	717369	.	-	.	ID=exon:TASs00010g02400m00001.14;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	exon	716965	717051	.	-	.	ID=exon:TASs00010g02400m00001.15;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	exon	716797	716883	.	-	.	ID=exon:TASs00010g02400m00001.16;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	exon	716487	716537	.	-	.	ID=exon:TASs00010g02400m00001.17;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	exon	715967	716308	.	-	.	ID=exon:TASs00010g02400m00001.18;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	exon	714136	714319	.	-	.	ID=exon:TASs00010g02400m00001.19;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	exon	711602	711819	.	-	.	ID=exon:TASs00010g02400m00001.20;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	exon	708449	708616	.	-	.	ID=exon:TASs00010g02400m00001.21;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	exon	703767	703931	.	-	.	ID=exon:TASs00010g02400m00001.22;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	exon	701959	702209	.	-	.	ID=exon:TASs00010g02400m00001.23;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	exon	701464	701679	.	-	.	ID=exon:TASs00010g02400m00001.24;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	CDS	722525	722546	.	-	0	ID=cds:TASs00010g02400m00001;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	CDS	721452	721871	.	-	2	ID=cds:TASs00010g02400m00001;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	CDS	721336	721371	.	-	2	ID=cds:TASs00010g02400m00001;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	CDS	721041	721064	.	-	2	ID=cds:TASs00010g02400m00001;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	CDS	720935	720961	.	-	2	ID=cds:TASs00010g02400m00001;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	CDS	720846	720860	.	-	2	ID=cds:TASs00010g02400m00001;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	CDS	719967	720047	.	-	2	ID=cds:TASs00010g02400m00001;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	CDS	719416	719502	.	-	2	ID=cds:TASs00010g02400m00001;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	CDS	719241	719327	.	-	2	ID=cds:TASs00010g02400m00001;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	CDS	719062	719157	.	-	2	ID=cds:TASs00010g02400m00001;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	CDS	718313	718462	.	-	2	ID=cds:TASs00010g02400m00001;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	CDS	718018	718098	.	-	2	ID=cds:TASs00010g02400m00001;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	CDS	717455	717511	.	-	2	ID=cds:TASs00010g02400m00001;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	CDS	717283	717369	.	-	2	ID=cds:TASs00010g02400m00001;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	CDS	716965	717051	.	-	2	ID=cds:TASs00010g02400m00001;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	CDS	716797	716883	.	-	2	ID=cds:TASs00010g02400m00001;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	CDS	716487	716537	.	-	2	ID=cds:TASs00010g02400m00001;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	CDS	715967	716308	.	-	2	ID=cds:TASs00010g02400m00001;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	CDS	714136	714319	.	-	2	ID=cds:TASs00010g02400m00001;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	CDS	711602	711819	.	-	1	ID=cds:TASs00010g02400m00001;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	CDS	708449	708616	.	-	2	ID=cds:TASs00010g02400m00001;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	CDS	703767	703931	.	-	2	ID=cds:TASs00010g02400m00001;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	CDS	701959	702209	.	-	2	ID=cds:TASs00010g02400m00001;Parent=transcript:TASs00010g02400m00001
+Scaffold00010	WormBase_imported	CDS	701464	701679	.	-	0	ID=cds:TASs00010g02400m00001;Parent=transcript:TASs00010g02400m00001
+Scaffold00015	WormBase_imported	gene	878418	890392	.	+	.	ID=gene:TASs00015g03100;Name=TASs00015g03100;biotype=protein_coding
+Scaffold00015	WormBase_imported	mRNA	878418	890392	.	+	.	ID=transcript:TASs00015g03100m00001;Parent=gene:TASs00015g03100;Name=TASs00015g03100m00001;info=method:InterPro accession:IPR002035 description:von Willebrand factor%2C type A %0Amethod:InterPro accession:IPR013694 description:VIT domain %0Amethod:InterPro accession:IPR036465 description:von Willebrand factor A-like domain superfamily
+Scaffold00015	WormBase_imported	exon	878418	878663	.	+	.	ID=exon:TASs00015g03100m00001.1;Parent=transcript:TASs00015g03100m00001
+Scaffold00015	WormBase_imported	exon	878751	879015	.	+	.	ID=exon:TASs00015g03100m00001.2;Parent=transcript:TASs00015g03100m00001
+Scaffold00015	WormBase_imported	exon	879103	879251	.	+	.	ID=exon:TASs00015g03100m00001.3;Parent=transcript:TASs00015g03100m00001
+Scaffold00015	WormBase_imported	exon	879321	879540	.	+	.	ID=exon:TASs00015g03100m00001.4;Parent=transcript:TASs00015g03100m00001
+Scaffold00015	WormBase_imported	exon	879626	879752	.	+	.	ID=exon:TASs00015g03100m00001.5;Parent=transcript:TASs00015g03100m00001
+Scaffold00015	WormBase_imported	exon	879827	879966	.	+	.	ID=exon:TASs00015g03100m00001.6;Parent=transcript:TASs00015g03100m00001
+Scaffold00015	WormBase_imported	exon	880197	880410	.	+	.	ID=exon:TASs00015g03100m00001.7;Parent=transcript:TASs00015g03100m00001
+Scaffold00015	WormBase_imported	exon	880937	881121	.	+	.	ID=exon:TASs00015g03100m00001.8;Parent=transcript:TASs00015g03100m00001
+Scaffold00015	WormBase_imported	exon	882100	882414	.	+	.	ID=exon:TASs00015g03100m00001.9;Parent=transcript:TASs00015g03100m00001
+Scaffold00015	WormBase_imported	exon	882665	882685	.	+	.	ID=exon:TASs00015g03100m00001.10;Parent=transcript:TASs00015g03100m00001
+Scaffold00015	WormBase_imported	exon	882759	882782	.	+	.	ID=exon:TASs00015g03100m00001.11;Parent=transcript:TASs00015g03100m00001
+Scaffold00015	WormBase_imported	exon	882874	882891	.	+	.	ID=exon:TASs00015g03100m00001.12;Parent=transcript:TASs00015g03100m00001
+Scaffold00015	WormBase_imported	exon	886269	886484	.	+	.	ID=exon:TASs00015g03100m00001.13;Parent=transcript:TASs00015g03100m00001
+Scaffold00015	WormBase_imported	exon	889884	890033	.	+	.	ID=exon:TASs00015g03100m00001.14;Parent=transcript:TASs00015g03100m00001
+Scaffold00015	WormBase_imported	exon	890202	890392	.	+	.	ID=exon:TASs00015g03100m00001.15;Parent=transcript:TASs00015g03100m00001
+Scaffold00015	WormBase_imported	CDS	878418	878663	.	+	0	ID=cds:TASs00015g03100m00001;Parent=transcript:TASs00015g03100m00001
+Scaffold00015	WormBase_imported	CDS	878751	879015	.	+	0	ID=cds:TASs00015g03100m00001;Parent=transcript:TASs00015g03100m00001
+Scaffold00015	WormBase_imported	CDS	879103	879251	.	+	2	ID=cds:TASs00015g03100m00001;Parent=transcript:TASs00015g03100m00001
+Scaffold00015	WormBase_imported	CDS	879321	879540	.	+	0	ID=cds:TASs00015g03100m00001;Parent=transcript:TASs00015g03100m00001
+Scaffold00015	WormBase_imported	CDS	879626	879752	.	+	2	ID=cds:TASs00015g03100m00001;Parent=transcript:TASs00015g03100m00001
+Scaffold00015	WormBase_imported	CDS	879827	879966	.	+	1	ID=cds:TASs00015g03100m00001;Parent=transcript:TASs00015g03100m00001
+Scaffold00015	WormBase_imported	CDS	880197	880410	.	+	2	ID=cds:TASs00015g03100m00001;Parent=transcript:TASs00015g03100m00001
+Scaffold00015	WormBase_imported	CDS	880937	881121	.	+	1	ID=cds:TASs00015g03100m00001;Parent=transcript:TASs00015g03100m00001
+Scaffold00015	WormBase_imported	CDS	882100	882414	.	+	2	ID=cds:TASs00015g03100m00001;Parent=transcript:TASs00015g03100m00001
+Scaffold00015	WormBase_imported	CDS	882665	882685	.	+	2	ID=cds:TASs00015g03100m00001;Parent=transcript:TASs00015g03100m00001
+Scaffold00015	WormBase_imported	CDS	882759	882782	.	+	2	ID=cds:TASs00015g03100m00001;Parent=transcript:TASs00015g03100m00001
+Scaffold00015	WormBase_imported	CDS	882874	882891	.	+	2	ID=cds:TASs00015g03100m00001;Parent=transcript:TASs00015g03100m00001
+Scaffold00015	WormBase_imported	CDS	886269	886484	.	+	2	ID=cds:TASs00015g03100m00001;Parent=transcript:TASs00015g03100m00001
+Scaffold00015	WormBase_imported	CDS	889884	890033	.	+	2	ID=cds:TASs00015g03100m00001;Parent=transcript:TASs00015g03100m00001
+Scaffold00015	WormBase_imported	CDS	890202	890392	.	+	2	ID=cds:TASs00015g03100m00001;Parent=transcript:TASs00015g03100m00001
+Scaffold00053	WormBase_imported	gene	11125	26741	.	+	.	ID=gene:TASs00053g05672;Name=TASs00053g05672;biotype=protein_coding
+Scaffold00053	WormBase_imported	mRNA	11125	26741	.	+	.	ID=transcript:TASs00053g05672m00001;Parent=gene:TASs00053g05672;Name=TASs00053g05672m00001
+Scaffold00053	WormBase_imported	exon	11125	11311	.	+	.	ID=exon:TASs00053g05672m00001.1;Parent=transcript:TASs00053g05672m00001
+Scaffold00053	WormBase_imported	exon	12472	12566	.	+	.	ID=exon:TASs00053g05672m00001.2;Parent=transcript:TASs00053g05672m00001
+Scaffold00053	WormBase_imported	exon	12795	13008	.	+	.	ID=exon:TASs00053g05672m00001.3;Parent=transcript:TASs00053g05672m00001
+Scaffold00053	WormBase_imported	exon	14134	14983	.	+	.	ID=exon:TASs00053g05672m00001.4;Parent=transcript:TASs00053g05672m00001
+Scaffold00053	WormBase_imported	exon	15739	17018	.	+	.	ID=exon:TASs00053g05672m00001.5;Parent=transcript:TASs00053g05672m00001
+Scaffold00053	WormBase_imported	exon	17540	17571	.	+	.	ID=exon:TASs00053g05672m00001.6;Parent=transcript:TASs00053g05672m00001
+Scaffold00053	WormBase_imported	exon	17644	17688	.	+	.	ID=exon:TASs00053g05672m00001.7;Parent=transcript:TASs00053g05672m00001
+Scaffold00053	WormBase_imported	exon	17996	18153	.	+	.	ID=exon:TASs00053g05672m00001.8;Parent=transcript:TASs00053g05672m00001
+Scaffold00053	WormBase_imported	exon	18744	18909	.	+	.	ID=exon:TASs00053g05672m00001.9;Parent=transcript:TASs00053g05672m00001
+Scaffold00053	WormBase_imported	exon	19550	19579	.	+	.	ID=exon:TASs00053g05672m00001.10;Parent=transcript:TASs00053g05672m00001
+Scaffold00053	WormBase_imported	exon	19656	19679	.	+	.	ID=exon:TASs00053g05672m00001.11;Parent=transcript:TASs00053g05672m00001
+Scaffold00053	WormBase_imported	exon	20376	20399	.	+	.	ID=exon:TASs00053g05672m00001.12;Parent=transcript:TASs00053g05672m00001
+Scaffold00053	WormBase_imported	exon	20470	20529	.	+	.	ID=exon:TASs00053g05672m00001.13;Parent=transcript:TASs00053g05672m00001
+Scaffold00053	WormBase_imported	exon	21043	21093	.	+	.	ID=exon:TASs00053g05672m00001.14;Parent=transcript:TASs00053g05672m00001
+Scaffold00053	WormBase_imported	exon	21191	21388	.	+	.	ID=exon:TASs00053g05672m00001.15;Parent=transcript:TASs00053g05672m00001
+Scaffold00053	WormBase_imported	exon	21678	23201	.	+	.	ID=exon:TASs00053g05672m00001.16;Parent=transcript:TASs00053g05672m00001
+Scaffold00053	WormBase_imported	exon	23449	23525	.	+	.	ID=exon:TASs00053g05672m00001.17;Parent=transcript:TASs00053g05672m00001
+Scaffold00053	WormBase_imported	exon	25339	25530	.	+	.	ID=exon:TASs00053g05672m00001.18;Parent=transcript:TASs00053g05672m00001
+Scaffold00053	WormBase_imported	exon	26296	26741	.	+	.	ID=exon:TASs00053g05672m00001.19;Parent=transcript:TASs00053g05672m00001
+Scaffold00053	WormBase_imported	CDS	11125	11311	.	+	0	ID=cds:TASs00053g05672m00001;Parent=transcript:TASs00053g05672m00001
+Scaffold00053	WormBase_imported	CDS	12472	12566	.	+	2	ID=cds:TASs00053g05672m00001;Parent=transcript:TASs00053g05672m00001
+Scaffold00053	WormBase_imported	CDS	12795	13008	.	+	0	ID=cds:TASs00053g05672m00001;Parent=transcript:TASs00053g05672m00001
+Scaffold00053	WormBase_imported	CDS	14134	14983	.	+	2	ID=cds:TASs00053g05672m00001;Parent=transcript:TASs00053g05672m00001
+Scaffold00053	WormBase_imported	CDS	15739	17018	.	+	1	ID=cds:TASs00053g05672m00001;Parent=transcript:TASs00053g05672m00001
+Scaffold00053	WormBase_imported	CDS	17540	17571	.	+	2	ID=cds:TASs00053g05672m00001;Parent=transcript:TASs00053g05672m00001
+Scaffold00053	WormBase_imported	CDS	17644	17688	.	+	0	ID=cds:TASs00053g05672m00001;Parent=transcript:TASs00053g05672m00001
+Scaffold00053	WormBase_imported	CDS	17996	18153	.	+	0	ID=cds:TASs00053g05672m00001;Parent=transcript:TASs00053g05672m00001
+Scaffold00053	WormBase_imported	CDS	18744	18909	.	+	1	ID=cds:TASs00053g05672m00001;Parent=transcript:TASs00053g05672m00001
+Scaffold00053	WormBase_imported	CDS	19550	19579	.	+	0	ID=cds:TASs00053g05672m00001;Parent=transcript:TASs00053g05672m00001
+Scaffold00053	WormBase_imported	CDS	19656	19679	.	+	0	ID=cds:TASs00053g05672m00001;Parent=transcript:TASs00053g05672m00001
+Scaffold00053	WormBase_imported	CDS	20376	20399	.	+	0	ID=cds:TASs00053g05672m00001;Parent=transcript:TASs00053g05672m00001
+Scaffold00053	WormBase_imported	CDS	20470	20529	.	+	0	ID=cds:TASs00053g05672m00001;Parent=transcript:TASs00053g05672m00001
+Scaffold00053	WormBase_imported	CDS	21043	21093	.	+	0	ID=cds:TASs00053g05672m00001;Parent=transcript:TASs00053g05672m00001
+Scaffold00053	WormBase_imported	CDS	21191	21388	.	+	0	ID=cds:TASs00053g05672m00001;Parent=transcript:TASs00053g05672m00001
+Scaffold00053	WormBase_imported	CDS	21678	23201	.	+	0	ID=cds:TASs00053g05672m00001;Parent=transcript:TASs00053g05672m00001
+Scaffold00053	WormBase_imported	CDS	23449	23525	.	+	0	ID=cds:TASs00053g05672m00001;Parent=transcript:TASs00053g05672m00001
+Scaffold00053	WormBase_imported	CDS	25339	25530	.	+	1	ID=cds:TASs00053g05672m00001;Parent=transcript:TASs00053g05672m00001
+Scaffold00053	WormBase_imported	CDS	26296	26569	.	+	1	ID=cds:TASs00053g05672m00001;Parent=transcript:TASs00053g05672m00001
+Scaffold00053	WormBase_imported	three_prime_UTR	26570	26741	.	+	.	Parent=transcript:TASs00053g05672m00001
+Scaffold00084	WormBase_imported	gene	52482	79708	.	+	.	ID=gene:TASs00084g06924;Name=TASs00084g06924;biotype=protein_coding
+Scaffold00084	WormBase_imported	mRNA	52482	79708	.	+	.	ID=transcript:TASs00084g06924m00001;Parent=gene:TASs00084g06924;Name=TASs00084g06924m00001;info=method:InterPro accession:IPR013087 description:Zinc finger C2H2-type %0Amethod:InterPro accession:IPR036236 description:Zinc finger C2H2 superfamily
+Scaffold00084	WormBase_imported	exon	52482	52484	.	+	.	ID=exon:TASs00084g06924m00001.1;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	exon	53981	54010	.	+	.	ID=exon:TASs00084g06924m00001.2;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	exon	55730	55759	.	+	.	ID=exon:TASs00084g06924m00001.3;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	exon	57118	57159	.	+	.	ID=exon:TASs00084g06924m00001.4;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	exon	57826	57864	.	+	.	ID=exon:TASs00084g06924m00001.5;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	exon	58453	58476	.	+	.	ID=exon:TASs00084g06924m00001.6;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	exon	58576	58614	.	+	.	ID=exon:TASs00084g06924m00001.7;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	exon	59117	59149	.	+	.	ID=exon:TASs00084g06924m00001.8;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	exon	59881	59922	.	+	.	ID=exon:TASs00084g06924m00001.9;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	exon	61902	61931	.	+	.	ID=exon:TASs00084g06924m00001.10;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	exon	62005	62076	.	+	.	ID=exon:TASs00084g06924m00001.11;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	exon	62215	62253	.	+	.	ID=exon:TASs00084g06924m00001.12;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	exon	64138	64167	.	+	.	ID=exon:TASs00084g06924m00001.13;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	exon	64241	64315	.	+	.	ID=exon:TASs00084g06924m00001.14;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	exon	65954	65983	.	+	.	ID=exon:TASs00084g06924m00001.15;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	exon	66057	66131	.	+	.	ID=exon:TASs00084g06924m00001.16;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	exon	67699	67728	.	+	.	ID=exon:TASs00084g06924m00001.17;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	exon	67802	67873	.	+	.	ID=exon:TASs00084g06924m00001.18;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	exon	69693	69731	.	+	.	ID=exon:TASs00084g06924m00001.19;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	exon	69912	69962	.	+	.	ID=exon:TASs00084g06924m00001.20;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	exon	70086	70124	.	+	.	ID=exon:TASs00084g06924m00001.21;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	exon	70212	70232	.	+	.	ID=exon:TASs00084g06924m00001.22;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	exon	70311	70373	.	+	.	ID=exon:TASs00084g06924m00001.23;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	exon	70950	70998	.	+	.	ID=exon:TASs00084g06924m00001.24;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	exon	72814	73317	.	+	.	ID=exon:TASs00084g06924m00001.25;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	exon	74651	75222	.	+	.	ID=exon:TASs00084g06924m00001.26;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	exon	77087	77569	.	+	.	ID=exon:TASs00084g06924m00001.27;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	exon	77733	78135	.	+	.	ID=exon:TASs00084g06924m00001.28;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	exon	78505	79052	.	+	.	ID=exon:TASs00084g06924m00001.29;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	exon	79163	79708	.	+	.	ID=exon:TASs00084g06924m00001.30;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	CDS	52482	52484	.	+	0	ID=cds:TASs00084g06924m00001;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	CDS	53981	54010	.	+	0	ID=cds:TASs00084g06924m00001;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	CDS	55730	55759	.	+	0	ID=cds:TASs00084g06924m00001;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	CDS	57118	57159	.	+	0	ID=cds:TASs00084g06924m00001;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	CDS	57826	57864	.	+	0	ID=cds:TASs00084g06924m00001;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	CDS	58453	58476	.	+	0	ID=cds:TASs00084g06924m00001;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	CDS	58576	58614	.	+	0	ID=cds:TASs00084g06924m00001;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	CDS	59117	59149	.	+	0	ID=cds:TASs00084g06924m00001;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	CDS	59881	59922	.	+	0	ID=cds:TASs00084g06924m00001;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	CDS	61902	61931	.	+	0	ID=cds:TASs00084g06924m00001;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	CDS	62005	62076	.	+	0	ID=cds:TASs00084g06924m00001;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	CDS	62215	62253	.	+	0	ID=cds:TASs00084g06924m00001;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	CDS	64138	64167	.	+	0	ID=cds:TASs00084g06924m00001;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	CDS	64241	64315	.	+	0	ID=cds:TASs00084g06924m00001;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	CDS	65954	65983	.	+	0	ID=cds:TASs00084g06924m00001;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	CDS	66057	66131	.	+	0	ID=cds:TASs00084g06924m00001;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	CDS	67699	67728	.	+	0	ID=cds:TASs00084g06924m00001;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	CDS	67802	67873	.	+	0	ID=cds:TASs00084g06924m00001;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	CDS	69693	69731	.	+	0	ID=cds:TASs00084g06924m00001;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	CDS	69912	69962	.	+	0	ID=cds:TASs00084g06924m00001;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	CDS	70086	70124	.	+	0	ID=cds:TASs00084g06924m00001;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	CDS	70212	70232	.	+	0	ID=cds:TASs00084g06924m00001;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	CDS	70311	70373	.	+	0	ID=cds:TASs00084g06924m00001;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	CDS	70950	70998	.	+	0	ID=cds:TASs00084g06924m00001;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	CDS	72814	73317	.	+	2	ID=cds:TASs00084g06924m00001;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	CDS	74651	75222	.	+	2	ID=cds:TASs00084g06924m00001;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	CDS	77087	77569	.	+	0	ID=cds:TASs00084g06924m00001;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	CDS	77733	78135	.	+	0	ID=cds:TASs00084g06924m00001;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	CDS	78505	79052	.	+	2	ID=cds:TASs00084g06924m00001;Parent=transcript:TASs00084g06924m00001
+Scaffold00084	WormBase_imported	CDS	79163	79708	.	+	0	ID=cds:TASs00084g06924m00001;Parent=transcript:TASs00084g06924m00001
+Scaffold00138	WormBase_imported	gene	111200	114494	.	+	.	ID=gene:TASs00138g08254;Name=TASs00138g08254;biotype=protein_coding
+Scaffold00138	WormBase_imported	mRNA	111200	114494	.	+	.	ID=transcript:TASs00138g08254m00001;Parent=gene:TASs00138g08254;Name=TASs00138g08254m00001
+Scaffold00138	WormBase_imported	exon	111200	111248	.	+	.	ID=exon:TASs00138g08254m00001.1;Parent=transcript:TASs00138g08254m00001
+Scaffold00138	WormBase_imported	exon	111380	111471	.	+	.	ID=exon:TASs00138g08254m00001.2;Parent=transcript:TASs00138g08254m00001
+Scaffold00138	WormBase_imported	exon	111623	111728	.	+	.	ID=exon:TASs00138g08254m00001.3;Parent=transcript:TASs00138g08254m00001
+Scaffold00138	WormBase_imported	exon	112131	112262	.	+	.	ID=exon:TASs00138g08254m00001.4;Parent=transcript:TASs00138g08254m00001
+Scaffold00138	WormBase_imported	exon	112337	112440	.	+	.	ID=exon:TASs00138g08254m00001.5;Parent=transcript:TASs00138g08254m00001
+Scaffold00138	WormBase_imported	exon	112569	112647	.	+	.	ID=exon:TASs00138g08254m00001.6;Parent=transcript:TASs00138g08254m00001
+Scaffold00138	WormBase_imported	exon	112730	112870	.	+	.	ID=exon:TASs00138g08254m00001.7;Parent=transcript:TASs00138g08254m00001
+Scaffold00138	WormBase_imported	exon	112980	113009	.	+	.	ID=exon:TASs00138g08254m00001.8;Parent=transcript:TASs00138g08254m00001
+Scaffold00138	WormBase_imported	exon	113096	113113	.	+	.	ID=exon:TASs00138g08254m00001.9;Parent=transcript:TASs00138g08254m00001
+Scaffold00138	WormBase_imported	exon	113539	113553	.	+	.	ID=exon:TASs00138g08254m00001.10;Parent=transcript:TASs00138g08254m00001
+Scaffold00138	WormBase_imported	exon	114238	114264	.	+	.	ID=exon:TASs00138g08254m00001.11;Parent=transcript:TASs00138g08254m00001
+Scaffold00138	WormBase_imported	exon	114454	114494	.	+	.	ID=exon:TASs00138g08254m00001.12;Parent=transcript:TASs00138g08254m00001
+Scaffold00138	WormBase_imported	CDS	111200	111248	.	+	0	ID=cds:TASs00138g08254m00001;Parent=transcript:TASs00138g08254m00001
+Scaffold00138	WormBase_imported	CDS	111380	111471	.	+	2	ID=cds:TASs00138g08254m00001;Parent=transcript:TASs00138g08254m00001
+Scaffold00138	WormBase_imported	CDS	111623	111728	.	+	0	ID=cds:TASs00138g08254m00001;Parent=transcript:TASs00138g08254m00001
+Scaffold00138	WormBase_imported	CDS	112131	112262	.	+	2	ID=cds:TASs00138g08254m00001;Parent=transcript:TASs00138g08254m00001
+Scaffold00138	WormBase_imported	CDS	112337	112440	.	+	2	ID=cds:TASs00138g08254m00001;Parent=transcript:TASs00138g08254m00001
+Scaffold00138	WormBase_imported	CDS	112569	112647	.	+	0	ID=cds:TASs00138g08254m00001;Parent=transcript:TASs00138g08254m00001
+Scaffold00138	WormBase_imported	CDS	112730	112870	.	+	2	ID=cds:TASs00138g08254m00001;Parent=transcript:TASs00138g08254m00001
+Scaffold00138	WormBase_imported	CDS	112980	113009	.	+	2	ID=cds:TASs00138g08254m00001;Parent=transcript:TASs00138g08254m00001
+Scaffold00138	WormBase_imported	CDS	113096	113113	.	+	2	ID=cds:TASs00138g08254m00001;Parent=transcript:TASs00138g08254m00001
+Scaffold00138	WormBase_imported	CDS	113539	113553	.	+	2	ID=cds:TASs00138g08254m00001;Parent=transcript:TASs00138g08254m00001
+Scaffold00138	WormBase_imported	CDS	114238	114264	.	+	2	ID=cds:TASs00138g08254m00001;Parent=transcript:TASs00138g08254m00001
+Scaffold00138	WormBase_imported	CDS	114454	114494	.	+	2	ID=cds:TASs00138g08254m00001;Parent=transcript:TASs00138g08254m00001
+Scaffold00138	WormBase_imported	gene	193537	197272	.	+	.	ID=gene:TASs00138g08257;Name=TASs00138g08257;biotype=protein_coding
+Scaffold00138	WormBase_imported	mRNA	193537	197272	.	+	.	ID=transcript:TASs00138g08257m00001;Parent=gene:TASs00138g08257;Name=TASs00138g08257m00001
+Scaffold00138	WormBase_imported	exon	193537	193563	.	+	.	ID=exon:TASs00138g08257m00001.1;Parent=transcript:TASs00138g08257m00001
+Scaffold00138	WormBase_imported	exon	193748	193853	.	+	.	ID=exon:TASs00138g08257m00001.2;Parent=transcript:TASs00138g08257m00001
+Scaffold00138	WormBase_imported	exon	194234	194365	.	+	.	ID=exon:TASs00138g08257m00001.3;Parent=transcript:TASs00138g08257m00001
+Scaffold00138	WormBase_imported	exon	194630	194733	.	+	.	ID=exon:TASs00138g08257m00001.4;Parent=transcript:TASs00138g08257m00001
+Scaffold00138	WormBase_imported	exon	194922	195000	.	+	.	ID=exon:TASs00138g08257m00001.5;Parent=transcript:TASs00138g08257m00001
+Scaffold00138	WormBase_imported	exon	195257	195397	.	+	.	ID=exon:TASs00138g08257m00001.6;Parent=transcript:TASs00138g08257m00001
+Scaffold00138	WormBase_imported	exon	195612	195641	.	+	.	ID=exon:TASs00138g08257m00001.7;Parent=transcript:TASs00138g08257m00001
+Scaffold00138	WormBase_imported	exon	196476	196493	.	+	.	ID=exon:TASs00138g08257m00001.8;Parent=transcript:TASs00138g08257m00001
+Scaffold00138	WormBase_imported	exon	196889	196915	.	+	.	ID=exon:TASs00138g08257m00001.9;Parent=transcript:TASs00138g08257m00001
+Scaffold00138	WormBase_imported	exon	197232	197272	.	+	.	ID=exon:TASs00138g08257m00001.10;Parent=transcript:TASs00138g08257m00001
+Scaffold00138	WormBase_imported	CDS	193537	193563	.	+	0	ID=cds:TASs00138g08257m00001;Parent=transcript:TASs00138g08257m00001
+Scaffold00138	WormBase_imported	CDS	193748	193853	.	+	0	ID=cds:TASs00138g08257m00001;Parent=transcript:TASs00138g08257m00001
+Scaffold00138	WormBase_imported	CDS	194234	194365	.	+	2	ID=cds:TASs00138g08257m00001;Parent=transcript:TASs00138g08257m00001
+Scaffold00138	WormBase_imported	CDS	194630	194733	.	+	2	ID=cds:TASs00138g08257m00001;Parent=transcript:TASs00138g08257m00001
+Scaffold00138	WormBase_imported	CDS	194922	195000	.	+	0	ID=cds:TASs00138g08257m00001;Parent=transcript:TASs00138g08257m00001
+Scaffold00138	WormBase_imported	CDS	195257	195397	.	+	2	ID=cds:TASs00138g08257m00001;Parent=transcript:TASs00138g08257m00001
+Scaffold00138	WormBase_imported	CDS	195612	195641	.	+	2	ID=cds:TASs00138g08257m00001;Parent=transcript:TASs00138g08257m00001
+Scaffold00138	WormBase_imported	CDS	196476	196493	.	+	2	ID=cds:TASs00138g08257m00001;Parent=transcript:TASs00138g08257m00001
+Scaffold00138	WormBase_imported	CDS	196889	196915	.	+	2	ID=cds:TASs00138g08257m00001;Parent=transcript:TASs00138g08257m00001
+Scaffold00138	WormBase_imported	CDS	197232	197272	.	+	2	ID=cds:TASs00138g08257m00001;Parent=transcript:TASs00138g08257m00001
+Scaffold00315	WormBase_imported	gene	498	24936	.	+	.	ID=gene:TASs00315g09860;Name=TASs00315g09860;biotype=protein_coding
+Scaffold00315	WormBase_imported	mRNA	498	24936	.	+	.	ID=transcript:TASs00315g09860m00001;Parent=gene:TASs00315g09860;Name=TASs00315g09860m00001;info=method:InterPro accession:IPR004273 description:Dynein heavy chain region D6 P-loop domain %0Amethod:InterPro accession:IPR013602 description:Dynein heavy chain%2C domain-2 %0Amethod:InterPro accession:IPR024317 description:Dynein heavy chain%2C AAA module D4 %0Amethod:InterPro accession:IPR024743 description:Dynein heavy chain%2C coiled coil stalk %0Amethod:InterPro accession:IPR026983 description:Dynein heavy chain %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR035699 description:Dynein heavy chain%2C hydrolytic ATP-binding dynein motor region %0Amethod:InterPro accession:IPR035706 description:Dynein heavy chain%2C ATP-binding dynein motor region %0Amethod:InterPro accession:IPR041228 description:Dynein heavy chain%2C C-terminal domain %0Amethod:InterPro accession:IPR041466 description:Dynein heavy chain%2C AAA 5 extension domain %0Amethod:InterPro accession:IPR041589 description:Dynein heavy chain 3%2C AAA+ lid domain %0Amethod:InterPro accession:IPR041658 description:Dynein heavy chain AAA lid domain
+Scaffold00315	WormBase_imported	exon	498	567	.	+	.	ID=exon:TASs00315g09860m00001.1;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	600	780	.	+	.	ID=exon:TASs00315g09860m00001.2;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	2158	2287	.	+	.	ID=exon:TASs00315g09860m00001.3;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	2332	2437	.	+	.	ID=exon:TASs00315g09860m00001.4;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	2477	2581	.	+	.	ID=exon:TASs00315g09860m00001.5;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	2790	3094	.	+	.	ID=exon:TASs00315g09860m00001.6;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	3308	3427	.	+	.	ID=exon:TASs00315g09860m00001.7;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	3863	4046	.	+	.	ID=exon:TASs00315g09860m00001.8;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	4113	4178	.	+	.	ID=exon:TASs00315g09860m00001.9;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	4262	4438	.	+	.	ID=exon:TASs00315g09860m00001.10;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	4516	4677	.	+	.	ID=exon:TASs00315g09860m00001.11;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	4872	5278	.	+	.	ID=exon:TASs00315g09860m00001.12;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	6606	7593	.	+	.	ID=exon:TASs00315g09860m00001.13;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	8133	8281	.	+	.	ID=exon:TASs00315g09860m00001.14;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	8671	9301	.	+	.	ID=exon:TASs00315g09860m00001.15;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	9726	9958	.	+	.	ID=exon:TASs00315g09860m00001.16;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	10088	10325	.	+	.	ID=exon:TASs00315g09860m00001.17;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	10527	10757	.	+	.	ID=exon:TASs00315g09860m00001.18;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	10830	11042	.	+	.	ID=exon:TASs00315g09860m00001.19;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	11202	11513	.	+	.	ID=exon:TASs00315g09860m00001.20;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	11623	12135	.	+	.	ID=exon:TASs00315g09860m00001.21;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	12213	12344	.	+	.	ID=exon:TASs00315g09860m00001.22;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	12604	12825	.	+	.	ID=exon:TASs00315g09860m00001.23;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	12969	12992	.	+	.	ID=exon:TASs00315g09860m00001.24;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	13074	13085	.	+	.	ID=exon:TASs00315g09860m00001.25;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	13233	13253	.	+	.	ID=exon:TASs00315g09860m00001.26;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	13660	13668	.	+	.	ID=exon:TASs00315g09860m00001.27;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	13737	13790	.	+	.	ID=exon:TASs00315g09860m00001.28;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	14182	14340	.	+	.	ID=exon:TASs00315g09860m00001.29;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	14713	14966	.	+	.	ID=exon:TASs00315g09860m00001.30;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	15233	15430	.	+	.	ID=exon:TASs00315g09860m00001.31;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	15710	16070	.	+	.	ID=exon:TASs00315g09860m00001.32;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	16679	16990	.	+	.	ID=exon:TASs00315g09860m00001.33;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	17315	17635	.	+	.	ID=exon:TASs00315g09860m00001.34;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	17904	18133	.	+	.	ID=exon:TASs00315g09860m00001.35;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	18359	18689	.	+	.	ID=exon:TASs00315g09860m00001.36;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	19027	19904	.	+	.	ID=exon:TASs00315g09860m00001.37;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	19984	20290	.	+	.	ID=exon:TASs00315g09860m00001.38;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	20441	22069	.	+	.	ID=exon:TASs00315g09860m00001.39;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	22185	22370	.	+	.	ID=exon:TASs00315g09860m00001.40;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	22836	22973	.	+	.	ID=exon:TASs00315g09860m00001.41;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	23173	23556	.	+	.	ID=exon:TASs00315g09860m00001.42;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	24035	24212	.	+	.	ID=exon:TASs00315g09860m00001.43;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	24456	24559	.	+	.	ID=exon:TASs00315g09860m00001.44;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	exon	24751	24936	.	+	.	ID=exon:TASs00315g09860m00001.45;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	five_prime_UTR	498	564	.	+	.	Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	565	567	.	+	0	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	600	780	.	+	0	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	2158	2287	.	+	2	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	2332	2437	.	+	1	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	2477	2581	.	+	0	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	2790	3094	.	+	0	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	3308	3427	.	+	1	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	3863	4046	.	+	1	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	4113	4178	.	+	0	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	4262	4438	.	+	0	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	4516	4677	.	+	0	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	4872	5278	.	+	0	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	6606	7593	.	+	1	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	8133	8281	.	+	0	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	8671	9301	.	+	1	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	9726	9958	.	+	0	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	10088	10325	.	+	1	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	10527	10757	.	+	0	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	10830	11042	.	+	0	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	11202	11513	.	+	0	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	11623	12135	.	+	0	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	12213	12344	.	+	0	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	12604	12825	.	+	0	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	12969	12992	.	+	0	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	13074	13085	.	+	0	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	13233	13253	.	+	0	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	13660	13668	.	+	0	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	13737	13790	.	+	0	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	14182	14340	.	+	0	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	14713	14966	.	+	0	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	15233	15430	.	+	1	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	15710	16070	.	+	1	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	16679	16990	.	+	0	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	17315	17635	.	+	0	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	17904	18133	.	+	0	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	18359	18689	.	+	1	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	19027	19904	.	+	0	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	19984	20290	.	+	1	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	20441	22069	.	+	0	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	22185	22370	.	+	0	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	22836	22973	.	+	0	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	23173	23556	.	+	0	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	24035	24212	.	+	0	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	24456	24559	.	+	2	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00315	WormBase_imported	CDS	24751	24936	.	+	0	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
+Scaffold00484	WormBase_imported	gene	27306	51744	.	-	.	ID=gene:TASs00484g10626;Name=TASs00484g10626;biotype=protein_coding
+Scaffold00484	WormBase_imported	mRNA	27306	51744	.	-	.	ID=transcript:TASs00484g10626m00001;Parent=gene:TASs00484g10626;Name=TASs00484g10626m00001;info=method:InterPro accession:IPR004273 description:Dynein heavy chain region D6 P-loop domain %0Amethod:InterPro accession:IPR013602 description:Dynein heavy chain%2C domain-2 %0Amethod:InterPro accession:IPR024317 description:Dynein heavy chain%2C AAA module D4 %0Amethod:InterPro accession:IPR024743 description:Dynein heavy chain%2C coiled coil stalk %0Amethod:InterPro accession:IPR026983 description:Dynein heavy chain %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR035699 description:Dynein heavy chain%2C hydrolytic ATP-binding dynein motor region %0Amethod:InterPro accession:IPR035706 description:Dynein heavy chain%2C ATP-binding dynein motor region %0Amethod:InterPro accession:IPR041228 description:Dynein heavy chain%2C C-terminal domain %0Amethod:InterPro accession:IPR041466 description:Dynein heavy chain%2C AAA 5 extension domain %0Amethod:InterPro accession:IPR041589 description:Dynein heavy chain 3%2C AAA+ lid domain %0Amethod:InterPro accession:IPR041658 description:Dynein heavy chain AAA lid domain
+Scaffold00484	WormBase_imported	exon	51675	51744	.	-	.	ID=exon:TASs00484g10626m00001.1;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	51462	51642	.	-	.	ID=exon:TASs00484g10626m00001.2;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	49955	50084	.	-	.	ID=exon:TASs00484g10626m00001.3;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	49805	49910	.	-	.	ID=exon:TASs00484g10626m00001.4;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	49661	49765	.	-	.	ID=exon:TASs00484g10626m00001.5;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	49148	49452	.	-	.	ID=exon:TASs00484g10626m00001.6;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	48815	48934	.	-	.	ID=exon:TASs00484g10626m00001.7;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	48196	48379	.	-	.	ID=exon:TASs00484g10626m00001.8;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	48064	48129	.	-	.	ID=exon:TASs00484g10626m00001.9;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	47804	47980	.	-	.	ID=exon:TASs00484g10626m00001.10;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	47565	47726	.	-	.	ID=exon:TASs00484g10626m00001.11;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	46964	47370	.	-	.	ID=exon:TASs00484g10626m00001.12;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	44649	45636	.	-	.	ID=exon:TASs00484g10626m00001.13;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	43961	44109	.	-	.	ID=exon:TASs00484g10626m00001.14;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	42941	43571	.	-	.	ID=exon:TASs00484g10626m00001.15;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	42284	42516	.	-	.	ID=exon:TASs00484g10626m00001.16;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	41917	42154	.	-	.	ID=exon:TASs00484g10626m00001.17;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	41485	41715	.	-	.	ID=exon:TASs00484g10626m00001.18;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	41200	41412	.	-	.	ID=exon:TASs00484g10626m00001.19;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	40729	41040	.	-	.	ID=exon:TASs00484g10626m00001.20;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	40107	40619	.	-	.	ID=exon:TASs00484g10626m00001.21;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	39898	40029	.	-	.	ID=exon:TASs00484g10626m00001.22;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	39417	39638	.	-	.	ID=exon:TASs00484g10626m00001.23;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	39250	39273	.	-	.	ID=exon:TASs00484g10626m00001.24;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	39157	39168	.	-	.	ID=exon:TASs00484g10626m00001.25;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	38989	39009	.	-	.	ID=exon:TASs00484g10626m00001.26;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	38574	38582	.	-	.	ID=exon:TASs00484g10626m00001.27;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	38452	38505	.	-	.	ID=exon:TASs00484g10626m00001.28;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	37902	38060	.	-	.	ID=exon:TASs00484g10626m00001.29;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	37276	37529	.	-	.	ID=exon:TASs00484g10626m00001.30;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	36812	37009	.	-	.	ID=exon:TASs00484g10626m00001.31;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	36172	36532	.	-	.	ID=exon:TASs00484g10626m00001.32;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	35252	35563	.	-	.	ID=exon:TASs00484g10626m00001.33;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	34607	34927	.	-	.	ID=exon:TASs00484g10626m00001.34;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	34109	34338	.	-	.	ID=exon:TASs00484g10626m00001.35;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	33553	33883	.	-	.	ID=exon:TASs00484g10626m00001.36;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	32338	33215	.	-	.	ID=exon:TASs00484g10626m00001.37;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	31952	32258	.	-	.	ID=exon:TASs00484g10626m00001.38;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	30173	31801	.	-	.	ID=exon:TASs00484g10626m00001.39;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	29872	30057	.	-	.	ID=exon:TASs00484g10626m00001.40;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	29269	29406	.	-	.	ID=exon:TASs00484g10626m00001.41;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	28686	29069	.	-	.	ID=exon:TASs00484g10626m00001.42;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	28030	28207	.	-	.	ID=exon:TASs00484g10626m00001.43;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	27683	27786	.	-	.	ID=exon:TASs00484g10626m00001.44;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	exon	27306	27491	.	-	.	ID=exon:TASs00484g10626m00001.45;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	five_prime_UTR	51678	51744	.	-	.	Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	51675	51677	.	-	0	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	51462	51642	.	-	0	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	49955	50084	.	-	2	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	49805	49910	.	-	1	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	49661	49765	.	-	0	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	49148	49452	.	-	0	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	48815	48934	.	-	1	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	48196	48379	.	-	1	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	48064	48129	.	-	0	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	47804	47980	.	-	0	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	47565	47726	.	-	0	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	46964	47370	.	-	0	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	44649	45636	.	-	1	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	43961	44109	.	-	0	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	42941	43571	.	-	1	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	42284	42516	.	-	0	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	41917	42154	.	-	1	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	41485	41715	.	-	0	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	41200	41412	.	-	0	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	40729	41040	.	-	0	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	40107	40619	.	-	0	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	39898	40029	.	-	0	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	39417	39638	.	-	0	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	39250	39273	.	-	0	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	39157	39168	.	-	0	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	38989	39009	.	-	0	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	38574	38582	.	-	0	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	38452	38505	.	-	0	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	37902	38060	.	-	0	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	37276	37529	.	-	0	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	36812	37009	.	-	1	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	36172	36532	.	-	1	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	35252	35563	.	-	0	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	34607	34927	.	-	0	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	34109	34338	.	-	0	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	33553	33883	.	-	1	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	32338	33215	.	-	0	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	31952	32258	.	-	1	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	30173	31801	.	-	0	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	29872	30057	.	-	0	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	29269	29406	.	-	0	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	28686	29069	.	-	0	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	28030	28207	.	-	0	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	27683	27786	.	-	2	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	WormBase_imported	CDS	27306	27491	.	-	0	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
+Scaffold00484	cmscan_rfam_12.2	nucleotide_match	43027	43212	34.9	-	.	ID=cmscan_rfam_12.2.314;Name=RMST_9;Target=RMST_9 5 190;Gap=M100 D2 M9 D4 M47 I6 M24 
+Scaffold00484	dust	low_complexity_region	214	220	.	-	.	
+Scaffold00484	dust	low_complexity_region	1641	1647	.	-	.	
+Scaffold00484	dust	low_complexity_region	1721	1727	.	-	.	
+Scaffold00484	dust	low_complexity_region	2428	2435	.	-	.	
+Scaffold00484	dust	low_complexity_region	2944	2950	.	-	.	
+Scaffold00484	dust	low_complexity_region	2995	3004	.	-	.	
+Scaffold00484	dust	low_complexity_region	3424	3442	.	-	.	
+Scaffold00484	dust	low_complexity_region	3971	3978	.	-	.	
+Scaffold00484	dust	low_complexity_region	4171	4177	.	-	.	
+Scaffold00484	dust	low_complexity_region	5432	5444	.	-	.	
+Scaffold00484	dust	low_complexity_region	5743	5750	.	-	.	
+Scaffold00484	dust	low_complexity_region	6166	6172	.	-	.	
+Scaffold00484	dust	low_complexity_region	7094	7101	.	-	.	
+Scaffold00484	dust	low_complexity_region	7267	7273	.	-	.	
+Scaffold00484	dust	low_complexity_region	7634	7640	.	-	.	
+Scaffold00484	dust	low_complexity_region	7717	7723	.	-	.	
+Scaffold00484	dust	low_complexity_region	7734	7742	.	-	.	
+Scaffold00484	dust	low_complexity_region	9184	9190	.	-	.	
+Scaffold00484	dust	low_complexity_region	9617	9625	.	-	.	
+Scaffold00484	dust	low_complexity_region	11082	11088	.	-	.	
+Scaffold00484	dust	low_complexity_region	11928	11936	.	-	.	
+Scaffold00484	dust	low_complexity_region	12092	12098	.	-	.	
+Scaffold00484	dust	low_complexity_region	13313	13360	.	-	.	
+Scaffold00484	dust	low_complexity_region	14692	14698	.	-	.	
+Scaffold00484	dust	low_complexity_region	15365	15371	.	-	.	
+Scaffold00484	dust	low_complexity_region	17442	17476	.	-	.	
+Scaffold00484	dust	low_complexity_region	26686	26692	.	-	.	
+Scaffold00484	dust	low_complexity_region	28362	28368	.	-	.	
+Scaffold00484	dust	low_complexity_region	30827	30833	.	-	.	
+Scaffold00484	dust	low_complexity_region	31918	31924	.	-	.	
+Scaffold00484	dust	low_complexity_region	33089	33095	.	-	.	
+Scaffold00484	dust	low_complexity_region	35619	35625	.	-	.	
+Scaffold00484	dust	low_complexity_region	38386	38393	.	-	.	
+Scaffold00484	trf	tandem_repeat	39020	39045	52	-	.	
+Scaffold00484	dust	low_complexity_region	40082	40097	.	-	.	
+Scaffold00484	dust	low_complexity_region	42578	42584	.	-	.	
+Scaffold00484	dust	low_complexity_region	42660	42666	.	-	.	
+Scaffold00484	dust	low_complexity_region	44125	44131	.	-	.	
+Scaffold00484	dust	low_complexity_region	45982	45988	.	-	.	
+Scaffold00484	dust	low_complexity_region	46136	46142	.	-	.	
+Scaffold00484	dust	low_complexity_region	47306	47313	.	-	.	
+Scaffold00484	dust	low_complexity_region	50339	50345	.	-	.	
+Scaffold00484	dust	low_complexity_region	50464	50470	.	-	.	
+Scaffold00484	dust	low_complexity_region	52155	52162	.	-	.	
+Scaffold00490	WormBase_imported	gene	25866	50304	.	-	.	ID=gene:TASs00490g10646;Name=TASs00490g10646;biotype=protein_coding
+Scaffold00490	WormBase_imported	mRNA	25866	50304	.	-	.	ID=transcript:TASs00490g10646m00001;Parent=gene:TASs00490g10646;Name=TASs00490g10646m00001;info=method:InterPro accession:IPR004273 description:Dynein heavy chain region D6 P-loop domain %0Amethod:InterPro accession:IPR013602 description:Dynein heavy chain%2C domain-2 %0Amethod:InterPro accession:IPR024317 description:Dynein heavy chain%2C AAA module D4 %0Amethod:InterPro accession:IPR024743 description:Dynein heavy chain%2C coiled coil stalk %0Amethod:InterPro accession:IPR026983 description:Dynein heavy chain %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR035699 description:Dynein heavy chain%2C hydrolytic ATP-binding dynein motor region %0Amethod:InterPro accession:IPR035706 description:Dynein heavy chain%2C ATP-binding dynein motor region %0Amethod:InterPro accession:IPR041228 description:Dynein heavy chain%2C C-terminal domain %0Amethod:InterPro accession:IPR041466 description:Dynein heavy chain%2C AAA 5 extension domain %0Amethod:InterPro accession:IPR041589 description:Dynein heavy chain 3%2C AAA+ lid domain %0Amethod:InterPro accession:IPR041658 description:Dynein heavy chain AAA lid domain
+Scaffold00490	WormBase_imported	exon	50235	50304	.	-	.	ID=exon:TASs00490g10646m00001.1;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	50022	50202	.	-	.	ID=exon:TASs00490g10646m00001.2;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	48515	48644	.	-	.	ID=exon:TASs00490g10646m00001.3;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	48365	48470	.	-	.	ID=exon:TASs00490g10646m00001.4;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	48221	48325	.	-	.	ID=exon:TASs00490g10646m00001.5;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	47708	48012	.	-	.	ID=exon:TASs00490g10646m00001.6;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	47375	47494	.	-	.	ID=exon:TASs00490g10646m00001.7;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	46756	46939	.	-	.	ID=exon:TASs00490g10646m00001.8;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	46624	46689	.	-	.	ID=exon:TASs00490g10646m00001.9;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	46364	46540	.	-	.	ID=exon:TASs00490g10646m00001.10;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	46125	46286	.	-	.	ID=exon:TASs00490g10646m00001.11;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	45524	45930	.	-	.	ID=exon:TASs00490g10646m00001.12;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	43209	44196	.	-	.	ID=exon:TASs00490g10646m00001.13;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	42521	42669	.	-	.	ID=exon:TASs00490g10646m00001.14;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	41501	42131	.	-	.	ID=exon:TASs00490g10646m00001.15;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	40844	41076	.	-	.	ID=exon:TASs00490g10646m00001.16;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	40477	40714	.	-	.	ID=exon:TASs00490g10646m00001.17;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	40045	40275	.	-	.	ID=exon:TASs00490g10646m00001.18;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	39760	39972	.	-	.	ID=exon:TASs00490g10646m00001.19;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	39289	39600	.	-	.	ID=exon:TASs00490g10646m00001.20;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	38667	39179	.	-	.	ID=exon:TASs00490g10646m00001.21;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	38458	38589	.	-	.	ID=exon:TASs00490g10646m00001.22;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	37977	38198	.	-	.	ID=exon:TASs00490g10646m00001.23;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	37810	37833	.	-	.	ID=exon:TASs00490g10646m00001.24;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	37717	37728	.	-	.	ID=exon:TASs00490g10646m00001.25;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	37549	37569	.	-	.	ID=exon:TASs00490g10646m00001.26;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	37134	37142	.	-	.	ID=exon:TASs00490g10646m00001.27;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	37012	37065	.	-	.	ID=exon:TASs00490g10646m00001.28;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	36462	36620	.	-	.	ID=exon:TASs00490g10646m00001.29;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	35836	36089	.	-	.	ID=exon:TASs00490g10646m00001.30;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	35372	35569	.	-	.	ID=exon:TASs00490g10646m00001.31;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	34732	35092	.	-	.	ID=exon:TASs00490g10646m00001.32;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	33812	34123	.	-	.	ID=exon:TASs00490g10646m00001.33;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	33167	33487	.	-	.	ID=exon:TASs00490g10646m00001.34;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	32669	32898	.	-	.	ID=exon:TASs00490g10646m00001.35;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	32113	32443	.	-	.	ID=exon:TASs00490g10646m00001.36;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	30898	31775	.	-	.	ID=exon:TASs00490g10646m00001.37;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	30512	30818	.	-	.	ID=exon:TASs00490g10646m00001.38;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	28733	30361	.	-	.	ID=exon:TASs00490g10646m00001.39;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	28432	28617	.	-	.	ID=exon:TASs00490g10646m00001.40;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	27829	27966	.	-	.	ID=exon:TASs00490g10646m00001.41;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	27246	27629	.	-	.	ID=exon:TASs00490g10646m00001.42;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	26590	26767	.	-	.	ID=exon:TASs00490g10646m00001.43;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	26243	26346	.	-	.	ID=exon:TASs00490g10646m00001.44;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	exon	25866	26051	.	-	.	ID=exon:TASs00490g10646m00001.45;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	five_prime_UTR	50238	50304	.	-	.	Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	50235	50237	.	-	0	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	50022	50202	.	-	0	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	48515	48644	.	-	2	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	48365	48470	.	-	1	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	48221	48325	.	-	0	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	47708	48012	.	-	0	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	47375	47494	.	-	1	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	46756	46939	.	-	1	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	46624	46689	.	-	0	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	46364	46540	.	-	0	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	46125	46286	.	-	0	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	45524	45930	.	-	0	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	43209	44196	.	-	1	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	42521	42669	.	-	0	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	41501	42131	.	-	1	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	40844	41076	.	-	0	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	40477	40714	.	-	1	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	40045	40275	.	-	0	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	39760	39972	.	-	0	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	39289	39600	.	-	0	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	38667	39179	.	-	0	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	38458	38589	.	-	0	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	37977	38198	.	-	0	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	37810	37833	.	-	0	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	37717	37728	.	-	0	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	37549	37569	.	-	0	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	37134	37142	.	-	0	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	37012	37065	.	-	0	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	36462	36620	.	-	0	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	35836	36089	.	-	0	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	35372	35569	.	-	1	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	34732	35092	.	-	1	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	33812	34123	.	-	0	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	33167	33487	.	-	0	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	32669	32898	.	-	0	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	32113	32443	.	-	1	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	30898	31775	.	-	0	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	30512	30818	.	-	1	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	28733	30361	.	-	0	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	28432	28617	.	-	0	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	27829	27966	.	-	0	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	27246	27629	.	-	0	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	26590	26767	.	-	0	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	26243	26346	.	-	2	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	WormBase_imported	CDS	25866	26051	.	-	0	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
+Scaffold00490	cmscan_rfam_12.2	nucleotide_match	41587	41772	34.9	-	.	ID=cmscan_rfam_12.2.239;Name=RMST_9;Target=RMST_9 5 190;Gap=M100 D2 M9 D4 M47 I6 M24 
+Scaffold00490	dust	low_complexity_region	201	207	.	-	.	
+Scaffold00490	dust	low_complexity_region	281	287	.	-	.	
+Scaffold00490	dust	low_complexity_region	988	995	.	-	.	
+Scaffold00490	dust	low_complexity_region	1504	1510	.	-	.	
+Scaffold00490	dust	low_complexity_region	1555	1564	.	-	.	
+Scaffold00490	dust	low_complexity_region	1984	2002	.	-	.	
+Scaffold00490	dust	low_complexity_region	2531	2538	.	-	.	
+Scaffold00490	dust	low_complexity_region	2731	2737	.	-	.	
+Scaffold00490	dust	low_complexity_region	3992	4004	.	-	.	
+Scaffold00490	dust	low_complexity_region	4303	4310	.	-	.	
+Scaffold00490	dust	low_complexity_region	4726	4732	.	-	.	
+Scaffold00490	dust	low_complexity_region	5654	5661	.	-	.	
+Scaffold00490	dust	low_complexity_region	5827	5833	.	-	.	
+Scaffold00490	dust	low_complexity_region	6194	6200	.	-	.	
+Scaffold00490	dust	low_complexity_region	6277	6283	.	-	.	
+Scaffold00490	dust	low_complexity_region	6294	6302	.	-	.	
+Scaffold00490	dust	low_complexity_region	7744	7750	.	-	.	
+Scaffold00490	dust	low_complexity_region	8177	8185	.	-	.	
+Scaffold00490	dust	low_complexity_region	9642	9648	.	-	.	
+Scaffold00490	dust	low_complexity_region	10488	10496	.	-	.	
+Scaffold00490	dust	low_complexity_region	10652	10658	.	-	.	
+Scaffold00490	dust	low_complexity_region	11873	11920	.	-	.	
+Scaffold00490	dust	low_complexity_region	13252	13258	.	-	.	
+Scaffold00490	dust	low_complexity_region	13925	13931	.	-	.	
+Scaffold00490	dust	low_complexity_region	16002	16036	.	-	.	
+Scaffold00490	dust	low_complexity_region	25246	25252	.	-	.	
+Scaffold00490	dust	low_complexity_region	26922	26928	.	-	.	
+Scaffold00490	dust	low_complexity_region	29387	29393	.	-	.	
+Scaffold00490	dust	low_complexity_region	30478	30484	.	-	.	
+Scaffold00490	dust	low_complexity_region	31649	31655	.	-	.	
+Scaffold00490	dust	low_complexity_region	34179	34185	.	-	.	
+Scaffold00490	dust	low_complexity_region	36946	36953	.	-	.	
+Scaffold00490	trf	tandem_repeat	37580	37605	52	-	.	
+Scaffold00490	dust	low_complexity_region	38642	38657	.	-	.	
+Scaffold00490	dust	low_complexity_region	41138	41144	.	-	.	
+Scaffold00490	dust	low_complexity_region	41220	41226	.	-	.	
+Scaffold00490	dust	low_complexity_region	42685	42691	.	-	.	
+Scaffold00490	dust	low_complexity_region	44542	44548	.	-	.	
+Scaffold00490	dust	low_complexity_region	44696	44702	.	-	.	
+Scaffold00490	dust	low_complexity_region	45866	45873	.	-	.	
+Scaffold00490	dust	low_complexity_region	48899	48905	.	-	.	
+Scaffold00490	dust	low_complexity_region	49024	49030	.	-	.	
+Scaffold00490	dust	low_complexity_region	50715	50722	.	-	.	
+Scaffold00492	WormBase_imported	gene	25794	50232	.	-	.	ID=gene:TASs00492g10654;Name=TASs00492g10654;biotype=protein_coding
+Scaffold00492	WormBase_imported	mRNA	25794	50232	.	-	.	ID=transcript:TASs00492g10654m00001;Parent=gene:TASs00492g10654;Name=TASs00492g10654m00001;info=method:InterPro accession:IPR004273 description:Dynein heavy chain region D6 P-loop domain %0Amethod:InterPro accession:IPR013602 description:Dynein heavy chain%2C domain-2 %0Amethod:InterPro accession:IPR024317 description:Dynein heavy chain%2C AAA module D4 %0Amethod:InterPro accession:IPR024743 description:Dynein heavy chain%2C coiled coil stalk %0Amethod:InterPro accession:IPR026983 description:Dynein heavy chain %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR035699 description:Dynein heavy chain%2C hydrolytic ATP-binding dynein motor region %0Amethod:InterPro accession:IPR035706 description:Dynein heavy chain%2C ATP-binding dynein motor region %0Amethod:InterPro accession:IPR041228 description:Dynein heavy chain%2C C-terminal domain %0Amethod:InterPro accession:IPR041466 description:Dynein heavy chain%2C AAA 5 extension domain %0Amethod:InterPro accession:IPR041589 description:Dynein heavy chain 3%2C AAA+ lid domain %0Amethod:InterPro accession:IPR041658 description:Dynein heavy chain AAA lid domain
+Scaffold00492	WormBase_imported	exon	50163	50232	.	-	.	ID=exon:TASs00492g10654m00001.1;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	49950	50130	.	-	.	ID=exon:TASs00492g10654m00001.2;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	48443	48572	.	-	.	ID=exon:TASs00492g10654m00001.3;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	48293	48398	.	-	.	ID=exon:TASs00492g10654m00001.4;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	48149	48253	.	-	.	ID=exon:TASs00492g10654m00001.5;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	47636	47940	.	-	.	ID=exon:TASs00492g10654m00001.6;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	47303	47422	.	-	.	ID=exon:TASs00492g10654m00001.7;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	46684	46867	.	-	.	ID=exon:TASs00492g10654m00001.8;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	46552	46617	.	-	.	ID=exon:TASs00492g10654m00001.9;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	46292	46468	.	-	.	ID=exon:TASs00492g10654m00001.10;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	46053	46214	.	-	.	ID=exon:TASs00492g10654m00001.11;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	45452	45858	.	-	.	ID=exon:TASs00492g10654m00001.12;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	43137	44124	.	-	.	ID=exon:TASs00492g10654m00001.13;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	42449	42597	.	-	.	ID=exon:TASs00492g10654m00001.14;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	41429	42059	.	-	.	ID=exon:TASs00492g10654m00001.15;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	40772	41004	.	-	.	ID=exon:TASs00492g10654m00001.16;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	40405	40642	.	-	.	ID=exon:TASs00492g10654m00001.17;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	39973	40203	.	-	.	ID=exon:TASs00492g10654m00001.18;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	39688	39900	.	-	.	ID=exon:TASs00492g10654m00001.19;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	39217	39528	.	-	.	ID=exon:TASs00492g10654m00001.20;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	38595	39107	.	-	.	ID=exon:TASs00492g10654m00001.21;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	38386	38517	.	-	.	ID=exon:TASs00492g10654m00001.22;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	37905	38126	.	-	.	ID=exon:TASs00492g10654m00001.23;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	37738	37761	.	-	.	ID=exon:TASs00492g10654m00001.24;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	37645	37656	.	-	.	ID=exon:TASs00492g10654m00001.25;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	37477	37497	.	-	.	ID=exon:TASs00492g10654m00001.26;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	37062	37070	.	-	.	ID=exon:TASs00492g10654m00001.27;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	36940	36993	.	-	.	ID=exon:TASs00492g10654m00001.28;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	36390	36548	.	-	.	ID=exon:TASs00492g10654m00001.29;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	35764	36017	.	-	.	ID=exon:TASs00492g10654m00001.30;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	35300	35497	.	-	.	ID=exon:TASs00492g10654m00001.31;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	34660	35020	.	-	.	ID=exon:TASs00492g10654m00001.32;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	33740	34051	.	-	.	ID=exon:TASs00492g10654m00001.33;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	33095	33415	.	-	.	ID=exon:TASs00492g10654m00001.34;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	32597	32826	.	-	.	ID=exon:TASs00492g10654m00001.35;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	32041	32371	.	-	.	ID=exon:TASs00492g10654m00001.36;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	30826	31703	.	-	.	ID=exon:TASs00492g10654m00001.37;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	30440	30746	.	-	.	ID=exon:TASs00492g10654m00001.38;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	28661	30289	.	-	.	ID=exon:TASs00492g10654m00001.39;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	28360	28545	.	-	.	ID=exon:TASs00492g10654m00001.40;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	27757	27894	.	-	.	ID=exon:TASs00492g10654m00001.41;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	27174	27557	.	-	.	ID=exon:TASs00492g10654m00001.42;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	26518	26695	.	-	.	ID=exon:TASs00492g10654m00001.43;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	26171	26274	.	-	.	ID=exon:TASs00492g10654m00001.44;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	exon	25794	25979	.	-	.	ID=exon:TASs00492g10654m00001.45;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	five_prime_UTR	50166	50232	.	-	.	Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	50163	50165	.	-	0	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	49950	50130	.	-	0	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	48443	48572	.	-	2	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	48293	48398	.	-	1	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	48149	48253	.	-	0	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	47636	47940	.	-	0	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	47303	47422	.	-	1	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	46684	46867	.	-	1	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	46552	46617	.	-	0	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	46292	46468	.	-	0	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	46053	46214	.	-	0	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	45452	45858	.	-	0	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	43137	44124	.	-	1	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	42449	42597	.	-	0	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	41429	42059	.	-	1	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	40772	41004	.	-	0	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	40405	40642	.	-	1	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	39973	40203	.	-	0	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	39688	39900	.	-	0	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	39217	39528	.	-	0	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	38595	39107	.	-	0	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	38386	38517	.	-	0	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	37905	38126	.	-	0	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	37738	37761	.	-	0	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	37645	37656	.	-	0	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	37477	37497	.	-	0	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	37062	37070	.	-	0	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	36940	36993	.	-	0	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	36390	36548	.	-	0	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	35764	36017	.	-	0	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	35300	35497	.	-	1	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	34660	35020	.	-	1	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	33740	34051	.	-	0	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	33095	33415	.	-	0	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	32597	32826	.	-	0	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	32041	32371	.	-	1	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	30826	31703	.	-	0	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	30440	30746	.	-	1	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	28661	30289	.	-	0	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	28360	28545	.	-	0	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	27757	27894	.	-	0	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	27174	27557	.	-	0	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	26518	26695	.	-	0	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	26171	26274	.	-	2	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	WormBase_imported	CDS	25794	25979	.	-	0	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
+Scaffold00492	cmscan_rfam_12.2	nucleotide_match	41515	41700	34.9	-	.	ID=cmscan_rfam_12.2.254;Name=RMST_9;Target=RMST_9 5 190;Gap=M100 D2 M9 D4 M47 I6 M24 
+Scaffold00492	dust	low_complexity_region	129	135	.	-	.	
+Scaffold00492	dust	low_complexity_region	209	215	.	-	.	
+Scaffold00492	dust	low_complexity_region	916	923	.	-	.	
+Scaffold00492	dust	low_complexity_region	1432	1438	.	-	.	
+Scaffold00492	dust	low_complexity_region	1483	1492	.	-	.	
+Scaffold00492	dust	low_complexity_region	1912	1930	.	-	.	
+Scaffold00492	dust	low_complexity_region	2459	2466	.	-	.	
+Scaffold00492	dust	low_complexity_region	2659	2665	.	-	.	
+Scaffold00492	dust	low_complexity_region	3920	3932	.	-	.	
+Scaffold00492	dust	low_complexity_region	4231	4238	.	-	.	
+Scaffold00492	dust	low_complexity_region	4654	4660	.	-	.	
+Scaffold00492	dust	low_complexity_region	5582	5589	.	-	.	
+Scaffold00492	dust	low_complexity_region	5755	5761	.	-	.	
+Scaffold00492	dust	low_complexity_region	6122	6128	.	-	.	
+Scaffold00492	dust	low_complexity_region	6205	6211	.	-	.	
+Scaffold00492	dust	low_complexity_region	6222	6230	.	-	.	
+Scaffold00492	dust	low_complexity_region	7672	7678	.	-	.	
+Scaffold00492	dust	low_complexity_region	8105	8113	.	-	.	
+Scaffold00492	dust	low_complexity_region	9570	9576	.	-	.	
+Scaffold00492	dust	low_complexity_region	10416	10424	.	-	.	
+Scaffold00492	dust	low_complexity_region	10580	10586	.	-	.	
+Scaffold00492	dust	low_complexity_region	11801	11848	.	-	.	
+Scaffold00492	dust	low_complexity_region	13180	13186	.	-	.	
+Scaffold00492	dust	low_complexity_region	13853	13859	.	-	.	
+Scaffold00492	dust	low_complexity_region	15930	15964	.	-	.	
+Scaffold00492	dust	low_complexity_region	25174	25180	.	-	.	
+Scaffold00492	dust	low_complexity_region	26850	26856	.	-	.	
+Scaffold00492	dust	low_complexity_region	29315	29321	.	-	.	
+Scaffold00492	dust	low_complexity_region	30406	30412	.	-	.	
+Scaffold00492	dust	low_complexity_region	31577	31583	.	-	.	
+Scaffold00492	dust	low_complexity_region	34107	34113	.	-	.	
+Scaffold00492	dust	low_complexity_region	36874	36881	.	-	.	
+Scaffold00492	trf	tandem_repeat	37508	37533	52	-	.	
+Scaffold00492	dust	low_complexity_region	38570	38585	.	-	.	
+Scaffold00492	dust	low_complexity_region	41066	41072	.	-	.	
+Scaffold00492	dust	low_complexity_region	41148	41154	.	-	.	
+Scaffold00492	dust	low_complexity_region	42613	42619	.	-	.	
+Scaffold00492	dust	low_complexity_region	44470	44476	.	-	.	
+Scaffold00492	dust	low_complexity_region	44624	44630	.	-	.	
+Scaffold00492	dust	low_complexity_region	45794	45801	.	-	.	
+Scaffold00492	dust	low_complexity_region	48827	48833	.	-	.	
+Scaffold00492	dust	low_complexity_region	48952	48958	.	-	.	
+Scaffold00492	dust	low_complexity_region	50643	50650	.	-	.	

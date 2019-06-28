@@ -1,0 +1,144 @@
+pathogens_Gpal_scaffold_61	WormBase_imported	gene	198684	203741	.	-	.	ID=gene:GPLIN_000297100;Name=GPLIN_000297100;biotype=protein_coding
+pathogens_Gpal_scaffold_61	WormBase_imported	mRNA	198684	203741	.	-	.	ID=transcript:GPLIN_000297100;Parent=gene:GPLIN_000297100;Name=GPLIN_000297100
+pathogens_Gpal_scaffold_61	WormBase_imported	exon	203677	203741	.	-	.	ID=exon:GPLIN_000297100.1;Parent=transcript:GPLIN_000297100
+pathogens_Gpal_scaffold_61	WormBase_imported	exon	203477	203591	.	-	.	ID=exon:GPLIN_000297100.2;Parent=transcript:GPLIN_000297100
+pathogens_Gpal_scaffold_61	WormBase_imported	exon	203015	203215	.	-	.	ID=exon:GPLIN_000297100.3;Parent=transcript:GPLIN_000297100
+pathogens_Gpal_scaffold_61	WormBase_imported	exon	202723	202885	.	-	.	ID=exon:GPLIN_000297100.4;Parent=transcript:GPLIN_000297100
+pathogens_Gpal_scaffold_61	WormBase_imported	exon	202444	202532	.	-	.	ID=exon:GPLIN_000297100.5;Parent=transcript:GPLIN_000297100
+pathogens_Gpal_scaffold_61	WormBase_imported	exon	200086	200264	.	-	.	ID=exon:GPLIN_000297100.6;Parent=transcript:GPLIN_000297100
+pathogens_Gpal_scaffold_61	WormBase_imported	exon	200017	200031	.	-	.	ID=exon:GPLIN_000297100.7;Parent=transcript:GPLIN_000297100
+pathogens_Gpal_scaffold_61	WormBase_imported	exon	199847	199945	.	-	.	ID=exon:GPLIN_000297100.8;Parent=transcript:GPLIN_000297100
+pathogens_Gpal_scaffold_61	WormBase_imported	exon	199618	199638	.	-	.	ID=exon:GPLIN_000297100.9;Parent=transcript:GPLIN_000297100
+pathogens_Gpal_scaffold_61	WormBase_imported	exon	199454	199474	.	-	.	ID=exon:GPLIN_000297100.10;Parent=transcript:GPLIN_000297100
+pathogens_Gpal_scaffold_61	WormBase_imported	exon	199324	199341	.	-	.	ID=exon:GPLIN_000297100.11;Parent=transcript:GPLIN_000297100
+pathogens_Gpal_scaffold_61	WormBase_imported	exon	199205	199228	.	-	.	ID=exon:GPLIN_000297100.12;Parent=transcript:GPLIN_000297100
+pathogens_Gpal_scaffold_61	WormBase_imported	exon	199084	199104	.	-	.	ID=exon:GPLIN_000297100.13;Parent=transcript:GPLIN_000297100
+pathogens_Gpal_scaffold_61	WormBase_imported	exon	198965	198985	.	-	.	ID=exon:GPLIN_000297100.14;Parent=transcript:GPLIN_000297100
+pathogens_Gpal_scaffold_61	WormBase_imported	exon	198873	198893	.	-	.	ID=exon:GPLIN_000297100.15;Parent=transcript:GPLIN_000297100
+pathogens_Gpal_scaffold_61	WormBase_imported	exon	198777	198803	.	-	.	ID=exon:GPLIN_000297100.16;Parent=transcript:GPLIN_000297100
+pathogens_Gpal_scaffold_61	WormBase_imported	exon	198684	198702	.	-	.	ID=exon:GPLIN_000297100.17;Parent=transcript:GPLIN_000297100
+pathogens_Gpal_scaffold_61	WormBase_imported	CDS	203677	203741	.	-	0	ID=cds:GPLIN_000297100;Parent=transcript:GPLIN_000297100
+pathogens_Gpal_scaffold_61	WormBase_imported	CDS	203477	203591	.	-	1	ID=cds:GPLIN_000297100;Parent=transcript:GPLIN_000297100
+pathogens_Gpal_scaffold_61	WormBase_imported	CDS	203015	203215	.	-	0	ID=cds:GPLIN_000297100;Parent=transcript:GPLIN_000297100
+pathogens_Gpal_scaffold_61	WormBase_imported	CDS	202723	202885	.	-	0	ID=cds:GPLIN_000297100;Parent=transcript:GPLIN_000297100
+pathogens_Gpal_scaffold_61	WormBase_imported	CDS	202444	202532	.	-	2	ID=cds:GPLIN_000297100;Parent=transcript:GPLIN_000297100
+pathogens_Gpal_scaffold_61	WormBase_imported	CDS	200086	200264	.	-	0	ID=cds:GPLIN_000297100;Parent=transcript:GPLIN_000297100
+pathogens_Gpal_scaffold_61	WormBase_imported	CDS	200017	200031	.	-	1	ID=cds:GPLIN_000297100;Parent=transcript:GPLIN_000297100
+pathogens_Gpal_scaffold_61	WormBase_imported	CDS	199847	199945	.	-	1	ID=cds:GPLIN_000297100;Parent=transcript:GPLIN_000297100
+pathogens_Gpal_scaffold_61	WormBase_imported	CDS	199618	199638	.	-	1	ID=cds:GPLIN_000297100;Parent=transcript:GPLIN_000297100
+pathogens_Gpal_scaffold_61	WormBase_imported	CDS	199454	199474	.	-	1	ID=cds:GPLIN_000297100;Parent=transcript:GPLIN_000297100
+pathogens_Gpal_scaffold_61	WormBase_imported	CDS	199324	199341	.	-	1	ID=cds:GPLIN_000297100;Parent=transcript:GPLIN_000297100
+pathogens_Gpal_scaffold_61	WormBase_imported	CDS	199205	199228	.	-	1	ID=cds:GPLIN_000297100;Parent=transcript:GPLIN_000297100
+pathogens_Gpal_scaffold_61	WormBase_imported	CDS	199084	199104	.	-	1	ID=cds:GPLIN_000297100;Parent=transcript:GPLIN_000297100
+pathogens_Gpal_scaffold_61	WormBase_imported	CDS	198965	198985	.	-	1	ID=cds:GPLIN_000297100;Parent=transcript:GPLIN_000297100
+pathogens_Gpal_scaffold_61	WormBase_imported	CDS	198873	198893	.	-	1	ID=cds:GPLIN_000297100;Parent=transcript:GPLIN_000297100
+pathogens_Gpal_scaffold_61	WormBase_imported	CDS	198777	198803	.	-	1	ID=cds:GPLIN_000297100;Parent=transcript:GPLIN_000297100
+pathogens_Gpal_scaffold_61	WormBase_imported	CDS	198684	198702	.	-	1	ID=cds:GPLIN_000297100;Parent=transcript:GPLIN_000297100
+pathogens_Gpal_scaffold_1594	WormBase_imported	gene	4268	9929	.	-	.	ID=gene:GPLIN_001419400;Name=GPLIN_001419400;biotype=protein_coding
+pathogens_Gpal_scaffold_1594	WormBase_imported	mRNA	4268	9929	.	-	.	ID=transcript:GPLIN_001419400;Parent=gene:GPLIN_001419400;Name=GPLIN_001419400;info=method:InterPro accession:IPR000175 description:Sodium:neurotransmitter symporter %0Amethod:InterPro accession:IPR037272 description:Sodium:neurotransmitter symporter superfamily
+pathogens_Gpal_scaffold_1594	WormBase_imported	exon	9863	9929	.	-	.	ID=exon:GPLIN_001419400.1;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	exon	9326	9455	.	-	.	ID=exon:GPLIN_001419400.2;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	exon	8675	8698	.	-	.	ID=exon:GPLIN_001419400.3;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	exon	8489	8512	.	-	.	ID=exon:GPLIN_001419400.4;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	exon	8365	8388	.	-	.	ID=exon:GPLIN_001419400.5;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	exon	7635	7729	.	-	.	ID=exon:GPLIN_001419400.6;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	exon	6968	7097	.	-	.	ID=exon:GPLIN_001419400.7;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	exon	6797	6866	.	-	.	ID=exon:GPLIN_001419400.8;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	exon	6573	6639	.	-	.	ID=exon:GPLIN_001419400.9;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	exon	6338	6434	.	-	.	ID=exon:GPLIN_001419400.10;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	exon	6150	6228	.	-	.	ID=exon:GPLIN_001419400.11;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	exon	6010	6062	.	-	.	ID=exon:GPLIN_001419400.12;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	exon	5913	5960	.	-	.	ID=exon:GPLIN_001419400.13;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	exon	5724	5802	.	-	.	ID=exon:GPLIN_001419400.14;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	exon	5473	5637	.	-	.	ID=exon:GPLIN_001419400.15;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	exon	5233	5337	.	-	.	ID=exon:GPLIN_001419400.16;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	exon	5085	5106	.	-	.	ID=exon:GPLIN_001419400.17;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	exon	5045	5050	.	-	.	ID=exon:GPLIN_001419400.18;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	exon	4896	4988	.	-	.	ID=exon:GPLIN_001419400.19;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	exon	4603	4819	.	-	.	ID=exon:GPLIN_001419400.20;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	exon	4386	4527	.	-	.	ID=exon:GPLIN_001419400.21;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	exon	4268	4324	.	-	.	ID=exon:GPLIN_001419400.22;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	CDS	9863	9929	.	-	0	ID=cds:GPLIN_001419400;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	CDS	9326	9455	.	-	2	ID=cds:GPLIN_001419400;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	CDS	8675	8698	.	-	1	ID=cds:GPLIN_001419400;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	CDS	8489	8512	.	-	1	ID=cds:GPLIN_001419400;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	CDS	8365	8388	.	-	1	ID=cds:GPLIN_001419400;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	CDS	7635	7729	.	-	1	ID=cds:GPLIN_001419400;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	CDS	6968	7097	.	-	2	ID=cds:GPLIN_001419400;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	CDS	6797	6866	.	-	1	ID=cds:GPLIN_001419400;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	CDS	6573	6639	.	-	0	ID=cds:GPLIN_001419400;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	CDS	6338	6434	.	-	2	ID=cds:GPLIN_001419400;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	CDS	6150	6228	.	-	1	ID=cds:GPLIN_001419400;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	CDS	6010	6062	.	-	0	ID=cds:GPLIN_001419400;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	CDS	5913	5960	.	-	1	ID=cds:GPLIN_001419400;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	CDS	5724	5802	.	-	1	ID=cds:GPLIN_001419400;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	CDS	5473	5637	.	-	0	ID=cds:GPLIN_001419400;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	CDS	5233	5337	.	-	0	ID=cds:GPLIN_001419400;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	CDS	5085	5106	.	-	0	ID=cds:GPLIN_001419400;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	CDS	5045	5050	.	-	2	ID=cds:GPLIN_001419400;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	CDS	4896	4988	.	-	2	ID=cds:GPLIN_001419400;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	CDS	4603	4819	.	-	2	ID=cds:GPLIN_001419400;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	CDS	4386	4527	.	-	1	ID=cds:GPLIN_001419400;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	WormBase_imported	CDS	4268	4324	.	-	0	ID=cds:GPLIN_001419400;Parent=transcript:GPLIN_001419400
+pathogens_Gpal_scaffold_1594	dust	low_complexity_region	5	24	.	-	.	
+pathogens_Gpal_scaffold_1594	dust	low_complexity_region	74	108	.	-	.	
+pathogens_Gpal_scaffold_1594	dust	low_complexity_region	566	573	.	-	.	
+pathogens_Gpal_scaffold_1594	RepeatMasker	repeat_region	676	806	289	-	.	
+pathogens_Gpal_scaffold_1594	dust	low_complexity_region	741	747	.	-	.	
+pathogens_Gpal_scaffold_1594	dust	low_complexity_region	994	1000	.	-	.	
+pathogens_Gpal_scaffold_1594	dust	low_complexity_region	1063	1070	.	-	.	
+pathogens_Gpal_scaffold_1594	dust	low_complexity_region	1432	1438	.	-	.	
+pathogens_Gpal_scaffold_1594	dust	low_complexity_region	1582	1589	.	-	.	
+pathogens_Gpal_scaffold_1594	dust	low_complexity_region	2051	2058	.	-	.	
+pathogens_Gpal_scaffold_1594	dust	low_complexity_region	2371	2380	.	-	.	
+pathogens_Gpal_scaffold_1594	RepeatMasker	repeat_region	2615	2679	226	+	.	
+pathogens_Gpal_scaffold_1594	RepeatMasker	repeat_region	2982	3012	255	+	.	
+pathogens_Gpal_scaffold_1594	RepeatMasker	repeat_region	3001	3064	303	-	.	
+pathogens_Gpal_scaffold_1594	dust	low_complexity_region	3362	3368	.	-	.	
+pathogens_Gpal_scaffold_1594	dust	low_complexity_region	3467	3479	.	-	.	
+pathogens_Gpal_scaffold_1594	RepeatMasker	repeat_region	3480	3562	250	+	.	
+pathogens_Gpal_scaffold_1594	dust	low_complexity_region	3646	3652	.	-	.	
+pathogens_Gpal_scaffold_1594	RepeatMasker	repeat_region	3796	3884	330	+	.	
+pathogens_Gpal_scaffold_1594	tandem	tandem_repeat	5118	5145	56	-	.	
+pathogens_Gpal_scaffold_1594	dust	low_complexity_region	5217	5225	.	-	.	
+pathogens_Gpal_scaffold_1594	dust	low_complexity_region	5422	5462	.	-	.	
+pathogens_Gpal_scaffold_1594	tandem	tandem_repeat	5594	6443	1633	-	.	
+pathogens_Gpal_scaffold_1594	dust	low_complexity_region	5649	5712	.	-	.	
+pathogens_Gpal_scaffold_1594	dust	low_complexity_region	5839	5903	.	-	.	
+pathogens_Gpal_scaffold_1594	dust	low_complexity_region	6264	6328	.	-	.	
+pathogens_Gpal_scaffold_1594	dust	low_complexity_region	6477	6483	.	-	.	
+pathogens_Gpal_scaffold_1594	dust	low_complexity_region	6888	6894	.	-	.	
+pathogens_Gpal_scaffold_1594	dust	low_complexity_region	6928	6935	.	-	.	
+pathogens_Gpal_scaffold_1594	dust	low_complexity_region	7124	7135	.	-	.	
+pathogens_Gpal_scaffold_1594	RepeatMasker	repeat_region	7195	7294	242	-	.	
+pathogens_Gpal_scaffold_1594	RepeatMasker	repeat_region	7219	7318	752	+	.	
+pathogens_Gpal_scaffold_1594	RepeatMasker	repeat_region	7316	7352	227	+	.	
+pathogens_Gpal_scaffold_1594	dust	low_complexity_region	7346	7358	.	-	.	
+pathogens_Gpal_scaffold_1594	dust	low_complexity_region	7760	7798	.	-	.	
+pathogens_Gpal_scaffold_1594	dust	low_complexity_region	7860	7876	.	-	.	
+pathogens_Gpal_scaffold_1594	RepeatMasker	repeat_region	7883	7945	410	+	.	
+pathogens_Gpal_scaffold_1594	RepeatMasker	repeat_region	7989	8057	255	-	.	
+pathogens_Gpal_scaffold_1594	tandem	tandem_repeat	8019	8092	148	-	.	
+pathogens_Gpal_scaffold_1594	RepeatMasker	repeat_region	8054	8189	396	+	.	
+pathogens_Gpal_scaffold_1594	RepeatMasker	repeat_region	8119	8183	485	-	.	
+pathogens_Gpal_scaffold_1594	RepeatMasker	repeat_region	8182	8221	323	+	.	
+pathogens_Gpal_scaffold_1594	dust	low_complexity_region	8405	8479	.	-	.	
+pathogens_Gpal_scaffold_1594	dust	low_complexity_region	8667	8673	.	-	.	
+pathogens_Gpal_scaffold_1594	dust	low_complexity_region	8704	8734	.	-	.	
+pathogens_Gpal_scaffold_1594	dust	low_complexity_region	8848	8883	.	-	.	
+pathogens_Gpal_scaffold_1594	dust	low_complexity_region	8960	9068	.	-	.	
+pathogens_Gpal_scaffold_1594	dust	low_complexity_region	9158	9164	.	-	.	
+pathogens_Gpal_scaffold_1594	dust	low_complexity_region	9222	9293	.	-	.	
+pathogens_Gpal_scaffold_1594	RepeatMasker	repeat_region	9576	9645	502	+	.	
+pathogens_Gpal_scaffold_1594	RepeatMasker	repeat_region	9655	9731	398	+	.	
+pathogens_Gpal_scaffold_1594	dust	low_complexity_region	10083	10097	.	-	.	
+pathogens_Gpal_scaffold_1594	RepeatMasker	repeat_region	10124	10226	341	-	.	
+pathogens_Gpal_scaffold_1594	RepeatMasker	repeat_region	10136	10263	811	+	.	
+pathogens_Gpal_scaffold_1594	tandem	tandem_repeat	10143	10206	86	-	.	
+pathogens_Gpal_scaffold_1594	dust	low_complexity_region	10152	10217	.	-	.	
+pathogens_Gpal_scaffold_1594	dust	low_complexity_region	10258	10315	.	-	.	
+pathogens_Gpal_scaffold_1594	RepeatMasker	repeat_region	10259	10587	2235	+	.	
+pathogens_Gpal_scaffold_1594	tandem	tandem_repeat	10386	10470	131	-	.	
+pathogens_Gpal_scaffold_1594	dust	low_complexity_region	10389	10462	.	-	.	
+pathogens_Gpal_scaffold_1594	dust	low_complexity_region	10546	10553	.	-	.	
+pathogens_Gpal_scaffold_1594	RepeatMasker	repeat_region	10581	10621	245	+	.	

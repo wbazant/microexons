@@ -1,0 +1,22 @@
+NXFT01001544.1	WormBase_imported	gene	867	2063	.	-	.	ID=gene:NXFT01001544.1.4011_g;Name=NXFT01001544.1.4011_g;biotype=protein_coding
+NXFT01001544.1	WormBase_imported	mRNA	867	2063	.	-	.	ID=transcript:NXFT01001544.1.4011_g;Parent=gene:NXFT01001544.1.4011_g;Name=NXFT01001544.1.4011_g;info=method:InterPro accession:IPR013087 description:Zinc finger C2H2-type %0Amethod:InterPro accession:IPR036236 description:Zinc finger C2H2 superfamily
+NXFT01001544.1	WormBase_imported	exon	2052	2063	.	-	.	ID=exon:NXFT01001544.1.4011_g.1;Parent=transcript:NXFT01001544.1.4011_g
+NXFT01001544.1	WormBase_imported	exon	1924	1935	.	-	.	ID=exon:NXFT01001544.1.4011_g.2;Parent=transcript:NXFT01001544.1.4011_g
+NXFT01001544.1	WormBase_imported	exon	1833	1862	.	-	.	ID=exon:NXFT01001544.1.4011_g.3;Parent=transcript:NXFT01001544.1.4011_g
+NXFT01001544.1	WormBase_imported	exon	1717	1783	.	-	.	ID=exon:NXFT01001544.1.4011_g.4;Parent=transcript:NXFT01001544.1.4011_g
+NXFT01001544.1	WormBase_imported	exon	1623	1675	.	-	.	ID=exon:NXFT01001544.1.4011_g.5;Parent=transcript:NXFT01001544.1.4011_g
+NXFT01001544.1	WormBase_imported	exon	1391	1564	.	-	.	ID=exon:NXFT01001544.1.4011_g.6;Parent=transcript:NXFT01001544.1.4011_g
+NXFT01001544.1	WormBase_imported	exon	1277	1339	.	-	.	ID=exon:NXFT01001544.1.4011_g.7;Parent=transcript:NXFT01001544.1.4011_g
+NXFT01001544.1	WormBase_imported	exon	1090	1106	.	-	.	ID=exon:NXFT01001544.1.4011_g.8;Parent=transcript:NXFT01001544.1.4011_g
+NXFT01001544.1	WormBase_imported	exon	955	1038	.	-	.	ID=exon:NXFT01001544.1.4011_g.9;Parent=transcript:NXFT01001544.1.4011_g
+NXFT01001544.1	WormBase_imported	exon	867	909	.	-	.	ID=exon:NXFT01001544.1.4011_g.10;Parent=transcript:NXFT01001544.1.4011_g
+NXFT01001544.1	WormBase_imported	CDS	2052	2063	.	-	0	ID=cds:NXFT01001544.1.4011_g;Parent=transcript:NXFT01001544.1.4011_g
+NXFT01001544.1	WormBase_imported	CDS	1924	1935	.	-	0	ID=cds:NXFT01001544.1.4011_g;Parent=transcript:NXFT01001544.1.4011_g
+NXFT01001544.1	WormBase_imported	CDS	1833	1862	.	-	0	ID=cds:NXFT01001544.1.4011_g;Parent=transcript:NXFT01001544.1.4011_g
+NXFT01001544.1	WormBase_imported	CDS	1717	1783	.	-	0	ID=cds:NXFT01001544.1.4011_g;Parent=transcript:NXFT01001544.1.4011_g
+NXFT01001544.1	WormBase_imported	CDS	1623	1675	.	-	2	ID=cds:NXFT01001544.1.4011_g;Parent=transcript:NXFT01001544.1.4011_g
+NXFT01001544.1	WormBase_imported	CDS	1391	1564	.	-	0	ID=cds:NXFT01001544.1.4011_g;Parent=transcript:NXFT01001544.1.4011_g
+NXFT01001544.1	WormBase_imported	CDS	1277	1339	.	-	0	ID=cds:NXFT01001544.1.4011_g;Parent=transcript:NXFT01001544.1.4011_g
+NXFT01001544.1	WormBase_imported	CDS	1090	1106	.	-	0	ID=cds:NXFT01001544.1.4011_g;Parent=transcript:NXFT01001544.1.4011_g
+NXFT01001544.1	WormBase_imported	CDS	955	1038	.	-	1	ID=cds:NXFT01001544.1.4011_g;Parent=transcript:NXFT01001544.1.4011_g
+NXFT01001544.1	WormBase_imported	CDS	867	909	.	-	1	ID=cds:NXFT01001544.1.4011_g;Parent=transcript:NXFT01001544.1.4011_g

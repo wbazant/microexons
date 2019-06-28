@@ -1,0 +1,14 @@
+scaffold107s	WormBase_imported	gene	42989	44716	.	-	.	ID=gene:T4E_4756;Name=T4E_4756;biotype=protein_coding
+scaffold107s	WormBase_imported	mRNA	42989	44716	.	-	.	ID=transcript:T4E_4756.1;Parent=gene:T4E_4756;Name=T4E_4756.1
+scaffold107s	WormBase_imported	exon	44699	44716	.	-	.	ID=exon:T4E_4756.1.1;Parent=transcript:T4E_4756.1
+scaffold107s	WormBase_imported	exon	43677	43703	.	-	.	ID=exon:T4E_4756.1.2;Parent=transcript:T4E_4756.1
+scaffold107s	WormBase_imported	exon	43597	43626	.	-	.	ID=exon:T4E_4756.1.3;Parent=transcript:T4E_4756.1
+scaffold107s	WormBase_imported	exon	43482	43527	.	-	.	ID=exon:T4E_4756.1.4;Parent=transcript:T4E_4756.1
+scaffold107s	WormBase_imported	exon	43229	43248	.	-	.	ID=exon:T4E_4756.1.5;Parent=transcript:T4E_4756.1
+scaffold107s	WormBase_imported	exon	42989	43204	.	-	.	ID=exon:T4E_4756.1.6;Parent=transcript:T4E_4756.1
+scaffold107s	WormBase_imported	CDS	44699	44716	.	-	0	ID=cds:T4E_4756.1;Parent=transcript:T4E_4756.1
+scaffold107s	WormBase_imported	CDS	43677	43703	.	-	0	ID=cds:T4E_4756.1;Parent=transcript:T4E_4756.1
+scaffold107s	WormBase_imported	CDS	43597	43626	.	-	0	ID=cds:T4E_4756.1;Parent=transcript:T4E_4756.1
+scaffold107s	WormBase_imported	CDS	43482	43527	.	-	0	ID=cds:T4E_4756.1;Parent=transcript:T4E_4756.1
+scaffold107s	WormBase_imported	CDS	43229	43248	.	-	2	ID=cds:T4E_4756.1;Parent=transcript:T4E_4756.1
+scaffold107s	WormBase_imported	CDS	42989	43204	.	-	0	ID=cds:T4E_4756.1;Parent=transcript:T4E_4756.1

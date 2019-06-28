@@ -1,0 +1,14 @@
+nDi.2.2.scaf00040	WormBase_imported	gene	67957	69448	.	-	.	ID=gene:nDi.2.2.2.g02900;Name=nDi.2.2.2.g02900;biotype=protein_coding
+nDi.2.2.scaf00040	WormBase_imported	mRNA	67957	69448	.	-	.	ID=transcript:nDi.2.2.2.t02900;Parent=gene:nDi.2.2.2.g02900;Name=nDi.2.2.2.t02900
+nDi.2.2.scaf00040	WormBase_imported	exon	69428	69448	.	-	.	ID=exon:nDi.2.2.2.t02900.1;Parent=transcript:nDi.2.2.2.t02900
+nDi.2.2.scaf00040	WormBase_imported	exon	69146	69172	.	-	.	ID=exon:nDi.2.2.2.t02900.2;Parent=transcript:nDi.2.2.2.t02900
+nDi.2.2.scaf00040	WormBase_imported	exon	69031	69039	.	-	.	ID=exon:nDi.2.2.2.t02900.3;Parent=transcript:nDi.2.2.2.t02900
+nDi.2.2.scaf00040	WormBase_imported	exon	68888	68931	.	-	.	ID=exon:nDi.2.2.2.t02900.4;Parent=transcript:nDi.2.2.2.t02900
+nDi.2.2.scaf00040	WormBase_imported	exon	68156	68233	.	-	.	ID=exon:nDi.2.2.2.t02900.5;Parent=transcript:nDi.2.2.2.t02900
+nDi.2.2.scaf00040	WormBase_imported	exon	67957	67981	.	-	.	ID=exon:nDi.2.2.2.t02900.6;Parent=transcript:nDi.2.2.2.t02900
+nDi.2.2.scaf00040	WormBase_imported	CDS	69428	69448	.	-	0	ID=cds:nDi.2.2.2.t02900;Parent=transcript:nDi.2.2.2.t02900
+nDi.2.2.scaf00040	WormBase_imported	CDS	69146	69172	.	-	0	ID=cds:nDi.2.2.2.t02900;Parent=transcript:nDi.2.2.2.t02900
+nDi.2.2.scaf00040	WormBase_imported	CDS	69031	69039	.	-	0	ID=cds:nDi.2.2.2.t02900;Parent=transcript:nDi.2.2.2.t02900
+nDi.2.2.scaf00040	WormBase_imported	CDS	68888	68931	.	-	0	ID=cds:nDi.2.2.2.t02900;Parent=transcript:nDi.2.2.2.t02900
+nDi.2.2.scaf00040	WormBase_imported	CDS	68156	68233	.	-	1	ID=cds:nDi.2.2.2.t02900;Parent=transcript:nDi.2.2.2.t02900
+nDi.2.2.scaf00040	WormBase_imported	CDS	67957	67981	.	-	1	ID=cds:nDi.2.2.2.t02900;Parent=transcript:nDi.2.2.2.t02900

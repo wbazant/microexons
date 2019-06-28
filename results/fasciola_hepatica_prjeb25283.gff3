@@ -1,0 +1,333 @@
+scaffold10x_1459_pilon	WormBase_imported	gene	450653	510188	.	+	.	ID=gene:maker-scaffold10x_1459_pilon-snap-gene-0.22;Name=maker-scaffold10x_1459_pilon-snap-gene-0.22;biotype=protein_coding;previous_stable_id=BN1106_s8862B000002
+scaffold10x_1459_pilon	WormBase_imported	mRNA	450653	510188	.	+	.	ID=transcript:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1;Parent=gene:maker-scaffold10x_1459_pilon-snap-gene-0.22;Name=maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	exon	450653	450657	.	+	.	ID=exon:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1.1;Parent=transcript:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	exon	476659	476790	.	+	.	ID=exon:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1.2;Parent=transcript:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	exon	490816	490862	.	+	.	ID=exon:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1.3;Parent=transcript:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	exon	508491	508499	.	+	.	ID=exon:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1.4;Parent=transcript:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	exon	508641	508661	.	+	.	ID=exon:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1.5;Parent=transcript:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	exon	509137	509148	.	+	.	ID=exon:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1.6;Parent=transcript:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	exon	509262	509273	.	+	.	ID=exon:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1.7;Parent=transcript:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	exon	509592	509603	.	+	.	ID=exon:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1.8;Parent=transcript:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	exon	509706	509717	.	+	.	ID=exon:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1.9;Parent=transcript:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	exon	509824	509835	.	+	.	ID=exon:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1.10;Parent=transcript:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	exon	509992	510003	.	+	.	ID=exon:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1.11;Parent=transcript:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	exon	510178	510188	.	+	.	ID=exon:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1.12;Parent=transcript:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	CDS	450653	450657	.	+	0	ID=cds:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1;Parent=transcript:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	CDS	476659	476790	.	+	1	ID=cds:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1;Parent=transcript:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	CDS	490816	490862	.	+	1	ID=cds:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1;Parent=transcript:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	CDS	508491	508499	.	+	2	ID=cds:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1;Parent=transcript:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	CDS	508641	508661	.	+	2	ID=cds:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1;Parent=transcript:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	CDS	509137	509148	.	+	2	ID=cds:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1;Parent=transcript:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	CDS	509262	509273	.	+	2	ID=cds:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1;Parent=transcript:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	CDS	509592	509603	.	+	2	ID=cds:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1;Parent=transcript:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	CDS	509706	509717	.	+	2	ID=cds:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1;Parent=transcript:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	CDS	509824	509835	.	+	2	ID=cds:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1;Parent=transcript:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	CDS	509992	510003	.	+	2	ID=cds:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1;Parent=transcript:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	CDS	510178	510188	.	+	2	ID=cds:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1;Parent=transcript:maker-scaffold10x_1459_pilon-snap-gene-0.22-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	gene	624929	1014063	.	+	.	ID=gene:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4;Name=snap_masked-scaffold10x_1459_pilon-processed-gene-0.4;biotype=protein_coding
+scaffold10x_1459_pilon	WormBase_imported	mRNA	624929	1014063	.	+	.	ID=transcript:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1;Parent=gene:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4;Name=snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	exon	624929	624969	.	+	.	ID=exon:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1.1;Parent=transcript:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	exon	632035	632062	.	+	.	ID=exon:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1.2;Parent=transcript:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	exon	632626	632661	.	+	.	ID=exon:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1.3;Parent=transcript:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	exon	635062	635094	.	+	.	ID=exon:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1.4;Parent=transcript:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	exon	635488	635520	.	+	.	ID=exon:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1.5;Parent=transcript:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	exon	635804	635830	.	+	.	ID=exon:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1.6;Parent=transcript:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	exon	636001	636018	.	+	.	ID=exon:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1.7;Parent=transcript:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	exon	636322	636330	.	+	.	ID=exon:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1.8;Parent=transcript:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	exon	637657	637775	.	+	.	ID=exon:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1.9;Parent=transcript:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	exon	698302	698373	.	+	.	ID=exon:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1.10;Parent=transcript:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	exon	758333	758426	.	+	.	ID=exon:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1.11;Parent=transcript:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	exon	817227	817360	.	+	.	ID=exon:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1.12;Parent=transcript:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	exon	829024	829361	.	+	.	ID=exon:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1.13;Parent=transcript:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	exon	852217	852349	.	+	.	ID=exon:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1.14;Parent=transcript:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	exon	858472	858791	.	+	.	ID=exon:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1.15;Parent=transcript:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	exon	1014022	1014063	.	+	.	ID=exon:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1.16;Parent=transcript:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	five_prime_UTR	624929	624969	.	+	.	Parent=transcript:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	five_prime_UTR	632035	632062	.	+	.	Parent=transcript:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	five_prime_UTR	632626	632661	.	+	.	Parent=transcript:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	five_prime_UTR	635062	635094	.	+	.	Parent=transcript:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	five_prime_UTR	635488	635520	.	+	.	Parent=transcript:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	five_prime_UTR	635804	635830	.	+	.	Parent=transcript:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	five_prime_UTR	636001	636013	.	+	.	Parent=transcript:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	CDS	636014	636018	.	+	0	ID=cds:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1;Parent=transcript:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	CDS	636322	636330	.	+	1	ID=cds:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1;Parent=transcript:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	CDS	637657	637775	.	+	1	ID=cds:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1;Parent=transcript:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	CDS	698302	698373	.	+	2	ID=cds:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1;Parent=transcript:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	CDS	758333	758426	.	+	2	ID=cds:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1;Parent=transcript:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	CDS	817227	817360	.	+	1	ID=cds:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1;Parent=transcript:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	CDS	829024	829361	.	+	2	ID=cds:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1;Parent=transcript:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	CDS	852217	852349	.	+	0	ID=cds:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1;Parent=transcript:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	CDS	858472	858791	.	+	2	ID=cds:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1;Parent=transcript:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_1459_pilon	WormBase_imported	CDS	1014022	1014063	.	+	0	ID=cds:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1;Parent=transcript:snap_masked-scaffold10x_1459_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_609_pilon	WormBase_imported	gene	590769	695825	.	-	.	ID=gene:snap_masked-scaffold10x_609_pilon-processed-gene-0.17;Name=snap_masked-scaffold10x_609_pilon-processed-gene-0.17;biotype=protein_coding
+scaffold10x_609_pilon	WormBase_imported	mRNA	590769	695825	.	-	.	ID=transcript:snap_masked-scaffold10x_609_pilon-processed-gene-0.17-mRNA-1;Parent=gene:snap_masked-scaffold10x_609_pilon-processed-gene-0.17;Name=snap_masked-scaffold10x_609_pilon-processed-gene-0.17-mRNA-1
+scaffold10x_609_pilon	WormBase_imported	exon	695820	695825	.	-	.	ID=exon:snap_masked-scaffold10x_609_pilon-processed-gene-0.17-mRNA-1.1;Parent=transcript:snap_masked-scaffold10x_609_pilon-processed-gene-0.17-mRNA-1
+scaffold10x_609_pilon	WormBase_imported	exon	683732	683761	.	-	.	ID=exon:snap_masked-scaffold10x_609_pilon-processed-gene-0.17-mRNA-1.2;Parent=transcript:snap_masked-scaffold10x_609_pilon-processed-gene-0.17-mRNA-1
+scaffold10x_609_pilon	WormBase_imported	exon	682292	682321	.	-	.	ID=exon:snap_masked-scaffold10x_609_pilon-processed-gene-0.17-mRNA-1.3;Parent=transcript:snap_masked-scaffold10x_609_pilon-processed-gene-0.17-mRNA-1
+scaffold10x_609_pilon	WormBase_imported	exon	677629	677853	.	-	.	ID=exon:snap_masked-scaffold10x_609_pilon-processed-gene-0.17-mRNA-1.4;Parent=transcript:snap_masked-scaffold10x_609_pilon-processed-gene-0.17-mRNA-1
+scaffold10x_609_pilon	WormBase_imported	exon	627319	627330	.	-	.	ID=exon:snap_masked-scaffold10x_609_pilon-processed-gene-0.17-mRNA-1.5;Parent=transcript:snap_masked-scaffold10x_609_pilon-processed-gene-0.17-mRNA-1
+scaffold10x_609_pilon	WormBase_imported	exon	590769	590858	.	-	.	ID=exon:snap_masked-scaffold10x_609_pilon-processed-gene-0.17-mRNA-1.6;Parent=transcript:snap_masked-scaffold10x_609_pilon-processed-gene-0.17-mRNA-1
+scaffold10x_609_pilon	WormBase_imported	CDS	695820	695825	.	-	0	ID=cds:snap_masked-scaffold10x_609_pilon-processed-gene-0.17-mRNA-1;Parent=transcript:snap_masked-scaffold10x_609_pilon-processed-gene-0.17-mRNA-1
+scaffold10x_609_pilon	WormBase_imported	CDS	683732	683761	.	-	0	ID=cds:snap_masked-scaffold10x_609_pilon-processed-gene-0.17-mRNA-1;Parent=transcript:snap_masked-scaffold10x_609_pilon-processed-gene-0.17-mRNA-1
+scaffold10x_609_pilon	WormBase_imported	CDS	682292	682321	.	-	0	ID=cds:snap_masked-scaffold10x_609_pilon-processed-gene-0.17-mRNA-1;Parent=transcript:snap_masked-scaffold10x_609_pilon-processed-gene-0.17-mRNA-1
+scaffold10x_609_pilon	WormBase_imported	CDS	677629	677853	.	-	0	ID=cds:snap_masked-scaffold10x_609_pilon-processed-gene-0.17-mRNA-1;Parent=transcript:snap_masked-scaffold10x_609_pilon-processed-gene-0.17-mRNA-1
+scaffold10x_609_pilon	WormBase_imported	CDS	627319	627330	.	-	0	ID=cds:snap_masked-scaffold10x_609_pilon-processed-gene-0.17-mRNA-1;Parent=transcript:snap_masked-scaffold10x_609_pilon-processed-gene-0.17-mRNA-1
+scaffold10x_609_pilon	WormBase_imported	CDS	590769	590858	.	-	0	ID=cds:snap_masked-scaffold10x_609_pilon-processed-gene-0.17-mRNA-1;Parent=transcript:snap_masked-scaffold10x_609_pilon-processed-gene-0.17-mRNA-1
+scaffold10x_1420_pilon	WormBase_imported	gene	1060153	1073353	.	-	.	ID=gene:maker-scaffold10x_1420_pilon-augustus-gene-0.79;Name=maker-scaffold10x_1420_pilon-augustus-gene-0.79;biotype=protein_coding
+scaffold10x_1420_pilon	WormBase_imported	mRNA	1060153	1073353	.	-	.	ID=transcript:maker-scaffold10x_1420_pilon-augustus-gene-0.79-mRNA-1;Parent=gene:maker-scaffold10x_1420_pilon-augustus-gene-0.79;Name=maker-scaffold10x_1420_pilon-augustus-gene-0.79-mRNA-1
+scaffold10x_1420_pilon	WormBase_imported	exon	1073296	1073353	.	-	.	ID=exon:maker-scaffold10x_1420_pilon-augustus-gene-0.79-mRNA-1.1;Parent=transcript:maker-scaffold10x_1420_pilon-augustus-gene-0.79-mRNA-1
+scaffold10x_1420_pilon	WormBase_imported	exon	1072612	1072641	.	-	.	ID=exon:maker-scaffold10x_1420_pilon-augustus-gene-0.79-mRNA-1.2;Parent=transcript:maker-scaffold10x_1420_pilon-augustus-gene-0.79-mRNA-1
+scaffold10x_1420_pilon	WormBase_imported	exon	1071726	1071752	.	-	.	ID=exon:maker-scaffold10x_1420_pilon-augustus-gene-0.79-mRNA-1.3;Parent=transcript:maker-scaffold10x_1420_pilon-augustus-gene-0.79-mRNA-1
+scaffold10x_1420_pilon	WormBase_imported	exon	1068732	1068761	.	-	.	ID=exon:maker-scaffold10x_1420_pilon-augustus-gene-0.79-mRNA-1.4;Parent=transcript:maker-scaffold10x_1420_pilon-augustus-gene-0.79-mRNA-1
+scaffold10x_1420_pilon	WormBase_imported	exon	1068274	1068300	.	-	.	ID=exon:maker-scaffold10x_1420_pilon-augustus-gene-0.79-mRNA-1.5;Parent=transcript:maker-scaffold10x_1420_pilon-augustus-gene-0.79-mRNA-1
+scaffold10x_1420_pilon	WormBase_imported	exon	1062340	1062366	.	-	.	ID=exon:maker-scaffold10x_1420_pilon-augustus-gene-0.79-mRNA-1.6;Parent=transcript:maker-scaffold10x_1420_pilon-augustus-gene-0.79-mRNA-1
+scaffold10x_1420_pilon	WormBase_imported	exon	1062181	1062207	.	-	.	ID=exon:maker-scaffold10x_1420_pilon-augustus-gene-0.79-mRNA-1.7;Parent=transcript:maker-scaffold10x_1420_pilon-augustus-gene-0.79-mRNA-1
+scaffold10x_1420_pilon	WormBase_imported	exon	1061593	1061622	.	-	.	ID=exon:maker-scaffold10x_1420_pilon-augustus-gene-0.79-mRNA-1.8;Parent=transcript:maker-scaffold10x_1420_pilon-augustus-gene-0.79-mRNA-1
+scaffold10x_1420_pilon	WormBase_imported	exon	1060153	1060251	.	-	.	ID=exon:maker-scaffold10x_1420_pilon-augustus-gene-0.79-mRNA-1.9;Parent=transcript:maker-scaffold10x_1420_pilon-augustus-gene-0.79-mRNA-1
+scaffold10x_1420_pilon	WormBase_imported	CDS	1073296	1073353	.	-	0	ID=cds:maker-scaffold10x_1420_pilon-augustus-gene-0.79-mRNA-1;Parent=transcript:maker-scaffold10x_1420_pilon-augustus-gene-0.79-mRNA-1
+scaffold10x_1420_pilon	WormBase_imported	CDS	1072612	1072641	.	-	2	ID=cds:maker-scaffold10x_1420_pilon-augustus-gene-0.79-mRNA-1;Parent=transcript:maker-scaffold10x_1420_pilon-augustus-gene-0.79-mRNA-1
+scaffold10x_1420_pilon	WormBase_imported	CDS	1071726	1071752	.	-	2	ID=cds:maker-scaffold10x_1420_pilon-augustus-gene-0.79-mRNA-1;Parent=transcript:maker-scaffold10x_1420_pilon-augustus-gene-0.79-mRNA-1
+scaffold10x_1420_pilon	WormBase_imported	CDS	1068732	1068761	.	-	2	ID=cds:maker-scaffold10x_1420_pilon-augustus-gene-0.79-mRNA-1;Parent=transcript:maker-scaffold10x_1420_pilon-augustus-gene-0.79-mRNA-1
+scaffold10x_1420_pilon	WormBase_imported	CDS	1068274	1068300	.	-	2	ID=cds:maker-scaffold10x_1420_pilon-augustus-gene-0.79-mRNA-1;Parent=transcript:maker-scaffold10x_1420_pilon-augustus-gene-0.79-mRNA-1
+scaffold10x_1420_pilon	WormBase_imported	CDS	1062340	1062366	.	-	2	ID=cds:maker-scaffold10x_1420_pilon-augustus-gene-0.79-mRNA-1;Parent=transcript:maker-scaffold10x_1420_pilon-augustus-gene-0.79-mRNA-1
+scaffold10x_1420_pilon	WormBase_imported	CDS	1062181	1062207	.	-	2	ID=cds:maker-scaffold10x_1420_pilon-augustus-gene-0.79-mRNA-1;Parent=transcript:maker-scaffold10x_1420_pilon-augustus-gene-0.79-mRNA-1
+scaffold10x_1420_pilon	WormBase_imported	CDS	1061606	1061622	.	-	2	ID=cds:maker-scaffold10x_1420_pilon-augustus-gene-0.79-mRNA-1;Parent=transcript:maker-scaffold10x_1420_pilon-augustus-gene-0.79-mRNA-1
+scaffold10x_1420_pilon	WormBase_imported	three_prime_UTR	1061593	1061605	.	-	.	Parent=transcript:maker-scaffold10x_1420_pilon-augustus-gene-0.79-mRNA-1
+scaffold10x_1420_pilon	WormBase_imported	three_prime_UTR	1060153	1060251	.	-	.	Parent=transcript:maker-scaffold10x_1420_pilon-augustus-gene-0.79-mRNA-1
+scaffold10x_250_pilon	WormBase_imported	gene	829872	1140920	.	-	.	ID=gene:snap_masked-scaffold10x_250_pilon-processed-gene-0.11;Name=snap_masked-scaffold10x_250_pilon-processed-gene-0.11;biotype=protein_coding
+scaffold10x_250_pilon	WormBase_imported	mRNA	829872	1140920	.	-	.	ID=transcript:snap_masked-scaffold10x_250_pilon-processed-gene-0.11-mRNA-1;Parent=gene:snap_masked-scaffold10x_250_pilon-processed-gene-0.11;Name=snap_masked-scaffold10x_250_pilon-processed-gene-0.11-mRNA-1
+scaffold10x_250_pilon	WormBase_imported	exon	1140912	1140920	.	-	.	ID=exon:snap_masked-scaffold10x_250_pilon-processed-gene-0.11-mRNA-1.1;Parent=transcript:snap_masked-scaffold10x_250_pilon-processed-gene-0.11-mRNA-1
+scaffold10x_250_pilon	WormBase_imported	exon	1140252	1140458	.	-	.	ID=exon:snap_masked-scaffold10x_250_pilon-processed-gene-0.11-mRNA-1.2;Parent=transcript:snap_masked-scaffold10x_250_pilon-processed-gene-0.11-mRNA-1
+scaffold10x_250_pilon	WormBase_imported	exon	1009518	1009608	.	-	.	ID=exon:snap_masked-scaffold10x_250_pilon-processed-gene-0.11-mRNA-1.3;Parent=transcript:snap_masked-scaffold10x_250_pilon-processed-gene-0.11-mRNA-1
+scaffold10x_250_pilon	WormBase_imported	exon	969232	969252	.	-	.	ID=exon:snap_masked-scaffold10x_250_pilon-processed-gene-0.11-mRNA-1.4;Parent=transcript:snap_masked-scaffold10x_250_pilon-processed-gene-0.11-mRNA-1
+scaffold10x_250_pilon	WormBase_imported	exon	968035	968055	.	-	.	ID=exon:snap_masked-scaffold10x_250_pilon-processed-gene-0.11-mRNA-1.5;Parent=transcript:snap_masked-scaffold10x_250_pilon-processed-gene-0.11-mRNA-1
+scaffold10x_250_pilon	WormBase_imported	exon	967328	967348	.	-	.	ID=exon:snap_masked-scaffold10x_250_pilon-processed-gene-0.11-mRNA-1.6;Parent=transcript:snap_masked-scaffold10x_250_pilon-processed-gene-0.11-mRNA-1
+scaffold10x_250_pilon	WormBase_imported	exon	829872	829903	.	-	.	ID=exon:snap_masked-scaffold10x_250_pilon-processed-gene-0.11-mRNA-1.7;Parent=transcript:snap_masked-scaffold10x_250_pilon-processed-gene-0.11-mRNA-1
+scaffold10x_250_pilon	WormBase_imported	CDS	1140912	1140920	.	-	0	ID=cds:snap_masked-scaffold10x_250_pilon-processed-gene-0.11-mRNA-1;Parent=transcript:snap_masked-scaffold10x_250_pilon-processed-gene-0.11-mRNA-1
+scaffold10x_250_pilon	WormBase_imported	CDS	1140252	1140458	.	-	0	ID=cds:snap_masked-scaffold10x_250_pilon-processed-gene-0.11-mRNA-1;Parent=transcript:snap_masked-scaffold10x_250_pilon-processed-gene-0.11-mRNA-1
+scaffold10x_250_pilon	WormBase_imported	CDS	1009518	1009608	.	-	0	ID=cds:snap_masked-scaffold10x_250_pilon-processed-gene-0.11-mRNA-1;Parent=transcript:snap_masked-scaffold10x_250_pilon-processed-gene-0.11-mRNA-1
+scaffold10x_250_pilon	WormBase_imported	CDS	969232	969252	.	-	2	ID=cds:snap_masked-scaffold10x_250_pilon-processed-gene-0.11-mRNA-1;Parent=transcript:snap_masked-scaffold10x_250_pilon-processed-gene-0.11-mRNA-1
+scaffold10x_250_pilon	WormBase_imported	CDS	968035	968055	.	-	2	ID=cds:snap_masked-scaffold10x_250_pilon-processed-gene-0.11-mRNA-1;Parent=transcript:snap_masked-scaffold10x_250_pilon-processed-gene-0.11-mRNA-1
+scaffold10x_250_pilon	WormBase_imported	CDS	967328	967348	.	-	2	ID=cds:snap_masked-scaffold10x_250_pilon-processed-gene-0.11-mRNA-1;Parent=transcript:snap_masked-scaffold10x_250_pilon-processed-gene-0.11-mRNA-1
+scaffold10x_250_pilon	WormBase_imported	CDS	829872	829903	.	-	2	ID=cds:snap_masked-scaffold10x_250_pilon-processed-gene-0.11-mRNA-1;Parent=transcript:snap_masked-scaffold10x_250_pilon-processed-gene-0.11-mRNA-1
+scaffold10x_196_pilon	WormBase_imported	gene	552426	598466	.	-	.	ID=gene:maker-scaffold10x_196_pilon-snap-gene-0.27;Name=maker-scaffold10x_196_pilon-snap-gene-0.27;biotype=protein_coding;previous_stable_id=BN1106_s3746B000120
+scaffold10x_196_pilon	WormBase_imported	mRNA	552426	598466	.	-	.	ID=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1;Parent=gene:maker-scaffold10x_196_pilon-snap-gene-0.27;Name=maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1;info=method:InterPro accession:IPR003598 description:Immunoglobulin subtype 2 %0Amethod:InterPro accession:IPR003599 description:Immunoglobulin subtype %0Amethod:InterPro accession:IPR007110 description:Immunoglobulin-like domain %0Amethod:InterPro accession:IPR013098 description:Immunoglobulin I-set %0Amethod:InterPro accession:IPR013783 description:Immunoglobulin-like fold %0Amethod:InterPro accession:IPR036179 description:Immunoglobulin-like domain superfamily
+scaffold10x_196_pilon	WormBase_imported	exon	598327	598466	.	-	.	ID=exon:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1.1;Parent=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1
+scaffold10x_196_pilon	WormBase_imported	exon	598278	598286	.	-	.	ID=exon:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1.2;Parent=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1
+scaffold10x_196_pilon	WormBase_imported	exon	598175	598239	.	-	.	ID=exon:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1.3;Parent=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1
+scaffold10x_196_pilon	WormBase_imported	exon	591588	591602	.	-	.	ID=exon:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1.4;Parent=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1
+scaffold10x_196_pilon	WormBase_imported	exon	589033	589047	.	-	.	ID=exon:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1.5;Parent=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1
+scaffold10x_196_pilon	WormBase_imported	exon	587057	587071	.	-	.	ID=exon:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1.6;Parent=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1
+scaffold10x_196_pilon	WormBase_imported	exon	586795	586931	.	-	.	ID=exon:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1.7;Parent=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1
+scaffold10x_196_pilon	WormBase_imported	exon	580151	580244	.	-	.	ID=exon:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1.8;Parent=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1
+scaffold10x_196_pilon	WormBase_imported	exon	577377	577558	.	-	.	ID=exon:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1.9;Parent=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1
+scaffold10x_196_pilon	WormBase_imported	exon	574698	574857	.	-	.	ID=exon:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1.10;Parent=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1
+scaffold10x_196_pilon	WormBase_imported	exon	573213	573328	.	-	.	ID=exon:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1.11;Parent=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1
+scaffold10x_196_pilon	WormBase_imported	exon	572607	572841	.	-	.	ID=exon:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1.12;Parent=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1
+scaffold10x_196_pilon	WormBase_imported	exon	569812	569936	.	-	.	ID=exon:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1.13;Parent=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1
+scaffold10x_196_pilon	WormBase_imported	exon	567194	567431	.	-	.	ID=exon:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1.14;Parent=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1
+scaffold10x_196_pilon	WormBase_imported	exon	564547	564662	.	-	.	ID=exon:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1.15;Parent=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1
+scaffold10x_196_pilon	WormBase_imported	exon	564215	564440	.	-	.	ID=exon:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1.16;Parent=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1
+scaffold10x_196_pilon	WormBase_imported	exon	560837	560863	.	-	.	ID=exon:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1.17;Parent=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1
+scaffold10x_196_pilon	WormBase_imported	exon	560635	560708	.	-	.	ID=exon:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1.18;Parent=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1
+scaffold10x_196_pilon	WormBase_imported	exon	552426	552551	.	-	.	ID=exon:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1.19;Parent=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1
+scaffold10x_196_pilon	WormBase_imported	five_prime_UTR	598327	598466	.	-	.	Parent=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1
+scaffold10x_196_pilon	WormBase_imported	five_prime_UTR	598278	598286	.	-	.	Parent=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1
+scaffold10x_196_pilon	WormBase_imported	five_prime_UTR	598230	598239	.	-	.	Parent=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1
+scaffold10x_196_pilon	WormBase_imported	CDS	598175	598229	.	-	0	ID=cds:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1;Parent=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1
+scaffold10x_196_pilon	WormBase_imported	CDS	591588	591602	.	-	2	ID=cds:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1;Parent=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1
+scaffold10x_196_pilon	WormBase_imported	CDS	589033	589047	.	-	2	ID=cds:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1;Parent=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1
+scaffold10x_196_pilon	WormBase_imported	CDS	587057	587071	.	-	2	ID=cds:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1;Parent=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1
+scaffold10x_196_pilon	WormBase_imported	CDS	586795	586931	.	-	2	ID=cds:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1;Parent=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1
+scaffold10x_196_pilon	WormBase_imported	CDS	580151	580244	.	-	0	ID=cds:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1;Parent=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1
+scaffold10x_196_pilon	WormBase_imported	CDS	577377	577558	.	-	2	ID=cds:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1;Parent=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1
+scaffold10x_196_pilon	WormBase_imported	CDS	574698	574857	.	-	0	ID=cds:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1;Parent=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1
+scaffold10x_196_pilon	WormBase_imported	CDS	573213	573328	.	-	2	ID=cds:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1;Parent=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1
+scaffold10x_196_pilon	WormBase_imported	CDS	572607	572841	.	-	0	ID=cds:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1;Parent=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1
+scaffold10x_196_pilon	WormBase_imported	CDS	569812	569936	.	-	2	ID=cds:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1;Parent=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1
+scaffold10x_196_pilon	WormBase_imported	CDS	567194	567431	.	-	0	ID=cds:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1;Parent=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1
+scaffold10x_196_pilon	WormBase_imported	CDS	564547	564662	.	-	2	ID=cds:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1;Parent=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1
+scaffold10x_196_pilon	WormBase_imported	CDS	564215	564440	.	-	0	ID=cds:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1;Parent=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1
+scaffold10x_196_pilon	WormBase_imported	CDS	560837	560863	.	-	2	ID=cds:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1;Parent=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1
+scaffold10x_196_pilon	WormBase_imported	CDS	560635	560708	.	-	2	ID=cds:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1;Parent=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1
+scaffold10x_196_pilon	WormBase_imported	CDS	552426	552551	.	-	0	ID=cds:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1;Parent=transcript:maker-scaffold10x_196_pilon-snap-gene-0.27-mRNA-1
+scaffold10x_829_pilon	WormBase_imported	gene	239177	826336	.	-	.	ID=gene:snap_masked-scaffold10x_829_pilon-processed-gene-0.4;Name=snap_masked-scaffold10x_829_pilon-processed-gene-0.4;biotype=protein_coding
+scaffold10x_829_pilon	WormBase_imported	mRNA	239177	826336	.	-	.	ID=transcript:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1;Parent=gene:snap_masked-scaffold10x_829_pilon-processed-gene-0.4;Name=snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_829_pilon	WormBase_imported	exon	826264	826336	.	-	.	ID=exon:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1.1;Parent=transcript:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_829_pilon	WormBase_imported	exon	691267	691305	.	-	.	ID=exon:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1.2;Parent=transcript:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_829_pilon	WormBase_imported	exon	690611	690649	.	-	.	ID=exon:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1.3;Parent=transcript:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_829_pilon	WormBase_imported	exon	650334	650411	.	-	.	ID=exon:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1.4;Parent=transcript:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_829_pilon	WormBase_imported	exon	623375	623431	.	-	.	ID=exon:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1.5;Parent=transcript:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_829_pilon	WormBase_imported	exon	592792	592843	.	-	.	ID=exon:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1.6;Parent=transcript:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_829_pilon	WormBase_imported	exon	589076	589137	.	-	.	ID=exon:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1.7;Parent=transcript:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_829_pilon	WormBase_imported	exon	529242	529247	.	-	.	ID=exon:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1.8;Parent=transcript:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_829_pilon	WormBase_imported	exon	512841	512846	.	-	.	ID=exon:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1.9;Parent=transcript:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_829_pilon	WormBase_imported	exon	509320	509325	.	-	.	ID=exon:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1.10;Parent=transcript:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_829_pilon	WormBase_imported	exon	494298	494321	.	-	.	ID=exon:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1.11;Parent=transcript:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_829_pilon	WormBase_imported	exon	375351	375356	.	-	.	ID=exon:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1.12;Parent=transcript:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_829_pilon	WormBase_imported	exon	314031	314077	.	-	.	ID=exon:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1.13;Parent=transcript:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_829_pilon	WormBase_imported	exon	239177	239312	.	-	.	ID=exon:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1.14;Parent=transcript:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_829_pilon	WormBase_imported	five_prime_UTR	826309	826336	.	-	.	Parent=transcript:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_829_pilon	WormBase_imported	CDS	826264	826308	.	-	0	ID=cds:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1;Parent=transcript:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_829_pilon	WormBase_imported	CDS	691267	691305	.	-	0	ID=cds:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1;Parent=transcript:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_829_pilon	WormBase_imported	CDS	690611	690649	.	-	0	ID=cds:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1;Parent=transcript:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_829_pilon	WormBase_imported	CDS	650334	650411	.	-	0	ID=cds:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1;Parent=transcript:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_829_pilon	WormBase_imported	CDS	623375	623431	.	-	0	ID=cds:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1;Parent=transcript:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_829_pilon	WormBase_imported	CDS	592792	592843	.	-	0	ID=cds:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1;Parent=transcript:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_829_pilon	WormBase_imported	CDS	589076	589137	.	-	2	ID=cds:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1;Parent=transcript:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_829_pilon	WormBase_imported	CDS	529242	529247	.	-	0	ID=cds:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1;Parent=transcript:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_829_pilon	WormBase_imported	CDS	512841	512846	.	-	0	ID=cds:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1;Parent=transcript:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_829_pilon	WormBase_imported	CDS	509320	509325	.	-	0	ID=cds:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1;Parent=transcript:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_829_pilon	WormBase_imported	CDS	494298	494321	.	-	0	ID=cds:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1;Parent=transcript:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_829_pilon	WormBase_imported	CDS	375351	375356	.	-	0	ID=cds:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1;Parent=transcript:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_829_pilon	WormBase_imported	CDS	314031	314077	.	-	0	ID=cds:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1;Parent=transcript:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_829_pilon	WormBase_imported	CDS	239177	239312	.	-	1	ID=cds:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1;Parent=transcript:snap_masked-scaffold10x_829_pilon-processed-gene-0.4-mRNA-1
+scaffold10x_2098_pilon	WormBase_imported	gene	237206	250133	.	+	.	ID=gene:maker-scaffold10x_2098_pilon-snap-gene-0.47;Name=maker-scaffold10x_2098_pilon-snap-gene-0.47;biotype=protein_coding;previous_stable_id=BN1106_s4767B000027
+scaffold10x_2098_pilon	WormBase_imported	mRNA	237206	250133	.	+	.	ID=transcript:maker-scaffold10x_2098_pilon-snap-gene-0.47-mRNA-1;Parent=gene:maker-scaffold10x_2098_pilon-snap-gene-0.47;Name=maker-scaffold10x_2098_pilon-snap-gene-0.47-mRNA-1
+scaffold10x_2098_pilon	WormBase_imported	exon	237206	237377	.	+	.	ID=exon:maker-scaffold10x_2098_pilon-snap-gene-0.47-mRNA-1.1;Parent=transcript:maker-scaffold10x_2098_pilon-snap-gene-0.47-mRNA-1
+scaffold10x_2098_pilon	WormBase_imported	exon	238827	238847	.	+	.	ID=exon:maker-scaffold10x_2098_pilon-snap-gene-0.47-mRNA-1.2;Parent=transcript:maker-scaffold10x_2098_pilon-snap-gene-0.47-mRNA-1
+scaffold10x_2098_pilon	WormBase_imported	exon	240154	240174	.	+	.	ID=exon:maker-scaffold10x_2098_pilon-snap-gene-0.47-mRNA-1.3;Parent=transcript:maker-scaffold10x_2098_pilon-snap-gene-0.47-mRNA-1
+scaffold10x_2098_pilon	WormBase_imported	exon	245956	245976	.	+	.	ID=exon:maker-scaffold10x_2098_pilon-snap-gene-0.47-mRNA-1.4;Parent=transcript:maker-scaffold10x_2098_pilon-snap-gene-0.47-mRNA-1
+scaffold10x_2098_pilon	WormBase_imported	exon	246319	246413	.	+	.	ID=exon:maker-scaffold10x_2098_pilon-snap-gene-0.47-mRNA-1.5;Parent=transcript:maker-scaffold10x_2098_pilon-snap-gene-0.47-mRNA-1
+scaffold10x_2098_pilon	WormBase_imported	exon	247811	248042	.	+	.	ID=exon:maker-scaffold10x_2098_pilon-snap-gene-0.47-mRNA-1.6;Parent=transcript:maker-scaffold10x_2098_pilon-snap-gene-0.47-mRNA-1
+scaffold10x_2098_pilon	WormBase_imported	exon	249663	249738	.	+	.	ID=exon:maker-scaffold10x_2098_pilon-snap-gene-0.47-mRNA-1.7;Parent=transcript:maker-scaffold10x_2098_pilon-snap-gene-0.47-mRNA-1
+scaffold10x_2098_pilon	WormBase_imported	exon	249830	250133	.	+	.	ID=exon:maker-scaffold10x_2098_pilon-snap-gene-0.47-mRNA-1.8;Parent=transcript:maker-scaffold10x_2098_pilon-snap-gene-0.47-mRNA-1
+scaffold10x_2098_pilon	WormBase_imported	five_prime_UTR	237206	237377	.	+	.	Parent=transcript:maker-scaffold10x_2098_pilon-snap-gene-0.47-mRNA-1
+scaffold10x_2098_pilon	WormBase_imported	five_prime_UTR	238827	238847	.	+	.	Parent=transcript:maker-scaffold10x_2098_pilon-snap-gene-0.47-mRNA-1
+scaffold10x_2098_pilon	WormBase_imported	five_prime_UTR	240154	240174	.	+	.	Parent=transcript:maker-scaffold10x_2098_pilon-snap-gene-0.47-mRNA-1
+scaffold10x_2098_pilon	WormBase_imported	five_prime_UTR	245956	245976	.	+	.	Parent=transcript:maker-scaffold10x_2098_pilon-snap-gene-0.47-mRNA-1
+scaffold10x_2098_pilon	WormBase_imported	five_prime_UTR	246319	246389	.	+	.	Parent=transcript:maker-scaffold10x_2098_pilon-snap-gene-0.47-mRNA-1
+scaffold10x_2098_pilon	WormBase_imported	CDS	246390	246413	.	+	0	ID=cds:maker-scaffold10x_2098_pilon-snap-gene-0.47-mRNA-1;Parent=transcript:maker-scaffold10x_2098_pilon-snap-gene-0.47-mRNA-1
+scaffold10x_2098_pilon	WormBase_imported	CDS	247811	248042	.	+	0	ID=cds:maker-scaffold10x_2098_pilon-snap-gene-0.47-mRNA-1;Parent=transcript:maker-scaffold10x_2098_pilon-snap-gene-0.47-mRNA-1
+scaffold10x_2098_pilon	WormBase_imported	CDS	249663	249736	.	+	2	ID=cds:maker-scaffold10x_2098_pilon-snap-gene-0.47-mRNA-1;Parent=transcript:maker-scaffold10x_2098_pilon-snap-gene-0.47-mRNA-1
+scaffold10x_2098_pilon	WormBase_imported	three_prime_UTR	249737	249738	.	+	.	Parent=transcript:maker-scaffold10x_2098_pilon-snap-gene-0.47-mRNA-1
+scaffold10x_2098_pilon	WormBase_imported	three_prime_UTR	249830	250133	.	+	.	Parent=transcript:maker-scaffold10x_2098_pilon-snap-gene-0.47-mRNA-1
+scaffold10x_2107_pilon	WormBase_imported	gene	303307	330137	.	+	.	ID=gene:maker-scaffold10x_2107_pilon-snap-gene-0.3;Name=maker-scaffold10x_2107_pilon-snap-gene-0.3;biotype=protein_coding;previous_stable_id=BN1106_s8592B000014
+scaffold10x_2107_pilon	WormBase_imported	mRNA	303307	330137	.	+	.	ID=transcript:maker-scaffold10x_2107_pilon-snap-gene-0.3-mRNA-1;Parent=gene:maker-scaffold10x_2107_pilon-snap-gene-0.3;Name=maker-scaffold10x_2107_pilon-snap-gene-0.3-mRNA-1
+scaffold10x_2107_pilon	WormBase_imported	exon	303307	303313	.	+	.	ID=exon:maker-scaffold10x_2107_pilon-snap-gene-0.3-mRNA-1.1;Parent=transcript:maker-scaffold10x_2107_pilon-snap-gene-0.3-mRNA-1
+scaffold10x_2107_pilon	WormBase_imported	exon	304734	304760	.	+	.	ID=exon:maker-scaffold10x_2107_pilon-snap-gene-0.3-mRNA-1.2;Parent=transcript:maker-scaffold10x_2107_pilon-snap-gene-0.3-mRNA-1
+scaffold10x_2107_pilon	WormBase_imported	exon	309344	309370	.	+	.	ID=exon:maker-scaffold10x_2107_pilon-snap-gene-0.3-mRNA-1.3;Parent=transcript:maker-scaffold10x_2107_pilon-snap-gene-0.3-mRNA-1
+scaffold10x_2107_pilon	WormBase_imported	exon	327923	327949	.	+	.	ID=exon:maker-scaffold10x_2107_pilon-snap-gene-0.3-mRNA-1.4;Parent=transcript:maker-scaffold10x_2107_pilon-snap-gene-0.3-mRNA-1
+scaffold10x_2107_pilon	WormBase_imported	exon	328494	328520	.	+	.	ID=exon:maker-scaffold10x_2107_pilon-snap-gene-0.3-mRNA-1.5;Parent=transcript:maker-scaffold10x_2107_pilon-snap-gene-0.3-mRNA-1
+scaffold10x_2107_pilon	WormBase_imported	exon	329248	329274	.	+	.	ID=exon:maker-scaffold10x_2107_pilon-snap-gene-0.3-mRNA-1.6;Parent=transcript:maker-scaffold10x_2107_pilon-snap-gene-0.3-mRNA-1
+scaffold10x_2107_pilon	WormBase_imported	exon	329715	329722	.	+	.	ID=exon:maker-scaffold10x_2107_pilon-snap-gene-0.3-mRNA-1.7;Parent=transcript:maker-scaffold10x_2107_pilon-snap-gene-0.3-mRNA-1
+scaffold10x_2107_pilon	WormBase_imported	exon	329906	330137	.	+	.	ID=exon:maker-scaffold10x_2107_pilon-snap-gene-0.3-mRNA-1.8;Parent=transcript:maker-scaffold10x_2107_pilon-snap-gene-0.3-mRNA-1
+scaffold10x_2107_pilon	WormBase_imported	CDS	303307	303313	.	+	0	ID=cds:maker-scaffold10x_2107_pilon-snap-gene-0.3-mRNA-1;Parent=transcript:maker-scaffold10x_2107_pilon-snap-gene-0.3-mRNA-1
+scaffold10x_2107_pilon	WormBase_imported	CDS	304734	304760	.	+	2	ID=cds:maker-scaffold10x_2107_pilon-snap-gene-0.3-mRNA-1;Parent=transcript:maker-scaffold10x_2107_pilon-snap-gene-0.3-mRNA-1
+scaffold10x_2107_pilon	WormBase_imported	CDS	309344	309370	.	+	2	ID=cds:maker-scaffold10x_2107_pilon-snap-gene-0.3-mRNA-1;Parent=transcript:maker-scaffold10x_2107_pilon-snap-gene-0.3-mRNA-1
+scaffold10x_2107_pilon	WormBase_imported	CDS	327923	327949	.	+	2	ID=cds:maker-scaffold10x_2107_pilon-snap-gene-0.3-mRNA-1;Parent=transcript:maker-scaffold10x_2107_pilon-snap-gene-0.3-mRNA-1
+scaffold10x_2107_pilon	WormBase_imported	CDS	328494	328520	.	+	2	ID=cds:maker-scaffold10x_2107_pilon-snap-gene-0.3-mRNA-1;Parent=transcript:maker-scaffold10x_2107_pilon-snap-gene-0.3-mRNA-1
+scaffold10x_2107_pilon	WormBase_imported	CDS	329248	329274	.	+	2	ID=cds:maker-scaffold10x_2107_pilon-snap-gene-0.3-mRNA-1;Parent=transcript:maker-scaffold10x_2107_pilon-snap-gene-0.3-mRNA-1
+scaffold10x_2107_pilon	WormBase_imported	CDS	329715	329722	.	+	2	ID=cds:maker-scaffold10x_2107_pilon-snap-gene-0.3-mRNA-1;Parent=transcript:maker-scaffold10x_2107_pilon-snap-gene-0.3-mRNA-1
+scaffold10x_2107_pilon	WormBase_imported	CDS	329906	329944	.	+	0	ID=cds:maker-scaffold10x_2107_pilon-snap-gene-0.3-mRNA-1;Parent=transcript:maker-scaffold10x_2107_pilon-snap-gene-0.3-mRNA-1
+scaffold10x_2107_pilon	WormBase_imported	three_prime_UTR	329945	330137	.	+	.	Parent=transcript:maker-scaffold10x_2107_pilon-snap-gene-0.3-mRNA-1
+scaffold10x_2180_pilon	WormBase_imported	gene	35790	93644	.	+	.	ID=gene:maker-scaffold10x_2180_pilon-snap-gene-0.2;Name=maker-scaffold10x_2180_pilon-snap-gene-0.2;biotype=protein_coding;previous_stable_id=BN1106_s7463B000035
+scaffold10x_2180_pilon	WormBase_imported	mRNA	35790	93644	.	+	.	ID=transcript:maker-scaffold10x_2180_pilon-snap-gene-0.2-mRNA-1;Parent=gene:maker-scaffold10x_2180_pilon-snap-gene-0.2;Name=maker-scaffold10x_2180_pilon-snap-gene-0.2-mRNA-1
+scaffold10x_2180_pilon	WormBase_imported	exon	35790	35912	.	+	.	ID=exon:maker-scaffold10x_2180_pilon-snap-gene-0.2-mRNA-1.1;Parent=transcript:maker-scaffold10x_2180_pilon-snap-gene-0.2-mRNA-1
+scaffold10x_2180_pilon	WormBase_imported	exon	40244	40402	.	+	.	ID=exon:maker-scaffold10x_2180_pilon-snap-gene-0.2-mRNA-1.2;Parent=transcript:maker-scaffold10x_2180_pilon-snap-gene-0.2-mRNA-1
+scaffold10x_2180_pilon	WormBase_imported	exon	90604	90633	.	+	.	ID=exon:maker-scaffold10x_2180_pilon-snap-gene-0.2-mRNA-1.3;Parent=transcript:maker-scaffold10x_2180_pilon-snap-gene-0.2-mRNA-1
+scaffold10x_2180_pilon	WormBase_imported	exon	91716	91745	.	+	.	ID=exon:maker-scaffold10x_2180_pilon-snap-gene-0.2-mRNA-1.4;Parent=transcript:maker-scaffold10x_2180_pilon-snap-gene-0.2-mRNA-1
+scaffold10x_2180_pilon	WormBase_imported	exon	93235	93249	.	+	.	ID=exon:maker-scaffold10x_2180_pilon-snap-gene-0.2-mRNA-1.5;Parent=transcript:maker-scaffold10x_2180_pilon-snap-gene-0.2-mRNA-1
+scaffold10x_2180_pilon	WormBase_imported	exon	93451	93644	.	+	.	ID=exon:maker-scaffold10x_2180_pilon-snap-gene-0.2-mRNA-1.6;Parent=transcript:maker-scaffold10x_2180_pilon-snap-gene-0.2-mRNA-1
+scaffold10x_2180_pilon	WormBase_imported	CDS	35790	35912	.	+	0	ID=cds:maker-scaffold10x_2180_pilon-snap-gene-0.2-mRNA-1;Parent=transcript:maker-scaffold10x_2180_pilon-snap-gene-0.2-mRNA-1
+scaffold10x_2180_pilon	WormBase_imported	CDS	40244	40402	.	+	0	ID=cds:maker-scaffold10x_2180_pilon-snap-gene-0.2-mRNA-1;Parent=transcript:maker-scaffold10x_2180_pilon-snap-gene-0.2-mRNA-1
+scaffold10x_2180_pilon	WormBase_imported	CDS	90604	90633	.	+	0	ID=cds:maker-scaffold10x_2180_pilon-snap-gene-0.2-mRNA-1;Parent=transcript:maker-scaffold10x_2180_pilon-snap-gene-0.2-mRNA-1
+scaffold10x_2180_pilon	WormBase_imported	CDS	91716	91745	.	+	0	ID=cds:maker-scaffold10x_2180_pilon-snap-gene-0.2-mRNA-1;Parent=transcript:maker-scaffold10x_2180_pilon-snap-gene-0.2-mRNA-1
+scaffold10x_2180_pilon	WormBase_imported	CDS	93235	93249	.	+	0	ID=cds:maker-scaffold10x_2180_pilon-snap-gene-0.2-mRNA-1;Parent=transcript:maker-scaffold10x_2180_pilon-snap-gene-0.2-mRNA-1
+scaffold10x_2180_pilon	WormBase_imported	CDS	93451	93588	.	+	0	ID=cds:maker-scaffold10x_2180_pilon-snap-gene-0.2-mRNA-1;Parent=transcript:maker-scaffold10x_2180_pilon-snap-gene-0.2-mRNA-1
+scaffold10x_2180_pilon	WormBase_imported	three_prime_UTR	93589	93644	.	+	.	Parent=transcript:maker-scaffold10x_2180_pilon-snap-gene-0.2-mRNA-1
+scaffold10x_2464_pilon	WormBase_imported	gene	2	12120	.	-	.	ID=gene:maker-scaffold10x_2464_pilon-snap-gene-0.1;Name=maker-scaffold10x_2464_pilon-snap-gene-0.1;biotype=protein_coding
+scaffold10x_2464_pilon	WormBase_imported	mRNA	2	12120	.	-	.	ID=transcript:maker-scaffold10x_2464_pilon-snap-gene-0.1-mRNA-1;Parent=gene:maker-scaffold10x_2464_pilon-snap-gene-0.1;Name=maker-scaffold10x_2464_pilon-snap-gene-0.1-mRNA-1
+scaffold10x_2464_pilon	WormBase_imported	exon	12115	12120	.	-	.	ID=exon:maker-scaffold10x_2464_pilon-snap-gene-0.1-mRNA-1.1;Parent=transcript:maker-scaffold10x_2464_pilon-snap-gene-0.1-mRNA-1
+scaffold10x_2464_pilon	WormBase_imported	exon	9674	9824	.	-	.	ID=exon:maker-scaffold10x_2464_pilon-snap-gene-0.1-mRNA-1.2;Parent=transcript:maker-scaffold10x_2464_pilon-snap-gene-0.1-mRNA-1
+scaffold10x_2464_pilon	WormBase_imported	exon	5262	5293	.	-	.	ID=exon:maker-scaffold10x_2464_pilon-snap-gene-0.1-mRNA-1.3;Parent=transcript:maker-scaffold10x_2464_pilon-snap-gene-0.1-mRNA-1
+scaffold10x_2464_pilon	WormBase_imported	exon	4860	5147	.	-	.	ID=exon:maker-scaffold10x_2464_pilon-snap-gene-0.1-mRNA-1.4;Parent=transcript:maker-scaffold10x_2464_pilon-snap-gene-0.1-mRNA-1
+scaffold10x_2464_pilon	WormBase_imported	exon	4567	4584	.	-	.	ID=exon:maker-scaffold10x_2464_pilon-snap-gene-0.1-mRNA-1.5;Parent=transcript:maker-scaffold10x_2464_pilon-snap-gene-0.1-mRNA-1
+scaffold10x_2464_pilon	WormBase_imported	exon	4186	4203	.	-	.	ID=exon:maker-scaffold10x_2464_pilon-snap-gene-0.1-mRNA-1.6;Parent=transcript:maker-scaffold10x_2464_pilon-snap-gene-0.1-mRNA-1
+scaffold10x_2464_pilon	WormBase_imported	exon	3315	3332	.	-	.	ID=exon:maker-scaffold10x_2464_pilon-snap-gene-0.1-mRNA-1.7;Parent=transcript:maker-scaffold10x_2464_pilon-snap-gene-0.1-mRNA-1
+scaffold10x_2464_pilon	WormBase_imported	exon	926	943	.	-	.	ID=exon:maker-scaffold10x_2464_pilon-snap-gene-0.1-mRNA-1.8;Parent=transcript:maker-scaffold10x_2464_pilon-snap-gene-0.1-mRNA-1
+scaffold10x_2464_pilon	WormBase_imported	exon	2	80	.	-	.	ID=exon:maker-scaffold10x_2464_pilon-snap-gene-0.1-mRNA-1.9;Parent=transcript:maker-scaffold10x_2464_pilon-snap-gene-0.1-mRNA-1
+scaffold10x_2464_pilon	WormBase_imported	CDS	12115	12120	.	-	0	ID=cds:maker-scaffold10x_2464_pilon-snap-gene-0.1-mRNA-1;Parent=transcript:maker-scaffold10x_2464_pilon-snap-gene-0.1-mRNA-1
+scaffold10x_2464_pilon	WormBase_imported	CDS	9674	9824	.	-	0	ID=cds:maker-scaffold10x_2464_pilon-snap-gene-0.1-mRNA-1;Parent=transcript:maker-scaffold10x_2464_pilon-snap-gene-0.1-mRNA-1
+scaffold10x_2464_pilon	WormBase_imported	CDS	5262	5293	.	-	2	ID=cds:maker-scaffold10x_2464_pilon-snap-gene-0.1-mRNA-1;Parent=transcript:maker-scaffold10x_2464_pilon-snap-gene-0.1-mRNA-1
+scaffold10x_2464_pilon	WormBase_imported	CDS	4860	5147	.	-	0	ID=cds:maker-scaffold10x_2464_pilon-snap-gene-0.1-mRNA-1;Parent=transcript:maker-scaffold10x_2464_pilon-snap-gene-0.1-mRNA-1
+scaffold10x_2464_pilon	WormBase_imported	CDS	4567	4584	.	-	0	ID=cds:maker-scaffold10x_2464_pilon-snap-gene-0.1-mRNA-1;Parent=transcript:maker-scaffold10x_2464_pilon-snap-gene-0.1-mRNA-1
+scaffold10x_2464_pilon	WormBase_imported	CDS	4186	4203	.	-	0	ID=cds:maker-scaffold10x_2464_pilon-snap-gene-0.1-mRNA-1;Parent=transcript:maker-scaffold10x_2464_pilon-snap-gene-0.1-mRNA-1
+scaffold10x_2464_pilon	WormBase_imported	CDS	3315	3332	.	-	0	ID=cds:maker-scaffold10x_2464_pilon-snap-gene-0.1-mRNA-1;Parent=transcript:maker-scaffold10x_2464_pilon-snap-gene-0.1-mRNA-1
+scaffold10x_2464_pilon	WormBase_imported	CDS	926	943	.	-	0	ID=cds:maker-scaffold10x_2464_pilon-snap-gene-0.1-mRNA-1;Parent=transcript:maker-scaffold10x_2464_pilon-snap-gene-0.1-mRNA-1
+scaffold10x_2464_pilon	WormBase_imported	CDS	54	80	.	-	0	ID=cds:maker-scaffold10x_2464_pilon-snap-gene-0.1-mRNA-1;Parent=transcript:maker-scaffold10x_2464_pilon-snap-gene-0.1-mRNA-1
+scaffold10x_2464_pilon	WormBase_imported	three_prime_UTR	2	53	.	-	.	Parent=transcript:maker-scaffold10x_2464_pilon-snap-gene-0.1-mRNA-1
+scaffold10x_2464_pilon	dust	low_complexity_region	92	154	.	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	293	354	.	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	396	429	.	-	.	
+scaffold10x_2464_pilon	trf	tandem_repeat	396	429	68	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	748	874	.	-	.	
+scaffold10x_2464_pilon	trf	tandem_repeat	748	783	51	-	.	
+scaffold10x_2464_pilon	trf	tandem_repeat	818	866	63	-	.	
+scaffold10x_2464_pilon	trf	tandem_repeat	818	866	54	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	955	1017	.	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	1061	3287	.	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	3344	3406	.	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	3545	3606	.	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	3648	3679	.	-	.	
+scaffold10x_2464_pilon	trf	tandem_repeat	3648	3679	64	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	4008	4134	.	-	.	
+scaffold10x_2464_pilon	trf	tandem_repeat	4008	4043	51	-	.	
+scaffold10x_2464_pilon	trf	tandem_repeat	4078	4126	54	-	.	
+scaffold10x_2464_pilon	trf	tandem_repeat	4078	4126	63	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	4215	4277	.	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	4416	4477	.	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	4596	4658	.	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	4978	5083	.	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	5370	5376	.	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	5397	5498	.	-	.	
+scaffold10x_2464_pilon	trf	tandem_repeat	5428	5498	135	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	6450	6778	.	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	6983	7115	.	-	.	
+scaffold10x_2464_pilon	trf	tandem_repeat	7059	7107	54	-	.	
+scaffold10x_2464_pilon	trf	tandem_repeat	7059	7096	62	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	7196	7258	.	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	9199	9212	.	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	9512	9800	.	-	.	
+scaffold10x_2464_pilon	trf	tandem_repeat	9519	9558	52	-	.	
+scaffold10x_2464_pilon	trf	tandem_repeat	9549	9643	127	-	.	
+scaffold10x_2464_pilon	trf	tandem_repeat	9566	9670	96	-	.	
+scaffold10x_2464_pilon	trf	tandem_repeat	9677	9738	54	-	.	
+scaffold10x_2464_pilon	trf	tandem_repeat	9695	9800	101	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	12948	13029	.	-	.	
+scaffold10x_2464_pilon	trf	tandem_repeat	12948	12991	81	-	.	
+scaffold10x_2464_pilon	trf	tandem_repeat	12991	13029	78	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	14537	14543	.	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	15230	15237	.	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	15334	15340	.	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	20767	20801	.	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	23251	23293	.	-	.	
+scaffold10x_2464_pilon	trf	tandem_repeat	23251	23293	86	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	25203	25209	.	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	26415	26580	.	-	.	
+scaffold10x_2464_pilon	trf	tandem_repeat	26415	26584	164	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	26635	26665	.	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	27379	27385	.	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	28394	28400	.	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	30556	30562	.	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	32599	33986	.	-	.	
+scaffold10x_2464_pilon	trf	tandem_repeat	33042	34292	858	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	33991	34292	.	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	34632	34638	.	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	36130	36139	.	-	.	
+scaffold10x_2464_pilon	trf	tandem_repeat	37477	37500	41	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	37517	37630	.	-	.	
+scaffold10x_2464_pilon	trf	tandem_repeat	37517	37563	87	-	.	
+scaffold10x_2464_pilon	trf	tandem_repeat	37562	37597	72	-	.	
+scaffold10x_2464_pilon	trf	tandem_repeat	37588	37628	54	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	38063	38072	.	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	38176	38341	.	-	.	
+scaffold10x_2464_pilon	trf	tandem_repeat	38176	38345	166	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	38396	38492	.	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	38830	38859	.	-	.	
+scaffold10x_2464_pilon	trf	tandem_repeat	38831	38868	62	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	39609	39616	.	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	39713	39736	.	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	40231	40238	.	-	.	
+scaffold10x_2464_pilon	dust	low_complexity_region	40536	40613	.	-	.	
+scaffold10x_2464_pilon	trf	tandem_repeat	40536	40613	156	-	.	

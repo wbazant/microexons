@@ -1,0 +1,12 @@
+DICVIVDFT_Contig54	WormBase_imported	gene	167113	168054	.	-	.	ID=gene:DICVIV_03205;Name=DICVIV_03205;biotype=protein_coding
+DICVIVDFT_Contig54	WormBase_imported	mRNA	167113	168054	.	-	.	ID=transcript:DICVIV_03205;Parent=gene:DICVIV_03205;Name=DICVIV_03205
+DICVIVDFT_Contig54	WormBase_imported	exon	168028	168054	.	-	.	ID=exon:DICVIV_03205.1;Parent=transcript:DICVIV_03205
+DICVIVDFT_Contig54	WormBase_imported	exon	167631	167657	.	-	.	ID=exon:DICVIV_03205.2;Parent=transcript:DICVIV_03205
+DICVIVDFT_Contig54	WormBase_imported	exon	167507	167530	.	-	.	ID=exon:DICVIV_03205.3;Parent=transcript:DICVIV_03205
+DICVIVDFT_Contig54	WormBase_imported	exon	167342	167377	.	-	.	ID=exon:DICVIV_03205.4;Parent=transcript:DICVIV_03205
+DICVIVDFT_Contig54	WormBase_imported	exon	167113	167199	.	-	.	ID=exon:DICVIV_03205.5;Parent=transcript:DICVIV_03205
+DICVIVDFT_Contig54	WormBase_imported	CDS	168028	168054	.	-	0	ID=cds:DICVIV_03205;Parent=transcript:DICVIV_03205
+DICVIVDFT_Contig54	WormBase_imported	CDS	167631	167657	.	-	0	ID=cds:DICVIV_03205;Parent=transcript:DICVIV_03205
+DICVIVDFT_Contig54	WormBase_imported	CDS	167507	167530	.	-	0	ID=cds:DICVIV_03205;Parent=transcript:DICVIV_03205
+DICVIVDFT_Contig54	WormBase_imported	CDS	167342	167377	.	-	0	ID=cds:DICVIV_03205;Parent=transcript:DICVIV_03205
+DICVIVDFT_Contig54	WormBase_imported	CDS	167113	167199	.	-	0	ID=cds:DICVIV_03205;Parent=transcript:DICVIV_03205

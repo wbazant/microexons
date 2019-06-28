@@ -1,0 +1,1802 @@
+Scaffold1354	WormBase_imported	gene	118560	121486	.	+	.	ID=gene:Hba_19984;Name=Hba_19984;biotype=protein_coding
+Scaffold1354	WormBase_imported	mRNA	118560	121486	.	+	.	ID=transcript:Hba_19984;Parent=gene:Hba_19984;Name=Hba_19984;info=method:InterPro accession:IPR013602 description:Dynein heavy chain%2C domain-2 %0Amethod:InterPro accession:IPR026983 description:Dynein heavy chain %0Amethod:InterPro accession:IPR035699 description:Dynein heavy chain%2C hydrolytic ATP-binding dynein motor region
+Scaffold1354	WormBase_imported	exon	118560	118571	.	+	.	ID=exon:Hba_19984.1;Parent=transcript:Hba_19984
+Scaffold1354	WormBase_imported	exon	118674	118700	.	+	.	ID=exon:Hba_19984.2;Parent=transcript:Hba_19984
+Scaffold1354	WormBase_imported	exon	119225	119227	.	+	.	ID=exon:Hba_19984.3;Parent=transcript:Hba_19984
+Scaffold1354	WormBase_imported	exon	119278	119444	.	+	.	ID=exon:Hba_19984.4;Parent=transcript:Hba_19984
+Scaffold1354	WormBase_imported	exon	119499	119672	.	+	.	ID=exon:Hba_19984.5;Parent=transcript:Hba_19984
+Scaffold1354	WormBase_imported	exon	120065	120197	.	+	.	ID=exon:Hba_19984.6;Parent=transcript:Hba_19984
+Scaffold1354	WormBase_imported	exon	120264	120388	.	+	.	ID=exon:Hba_19984.7;Parent=transcript:Hba_19984
+Scaffold1354	WormBase_imported	exon	120454	120502	.	+	.	ID=exon:Hba_19984.8;Parent=transcript:Hba_19984
+Scaffold1354	WormBase_imported	exon	120515	120544	.	+	.	ID=exon:Hba_19984.9;Parent=transcript:Hba_19984
+Scaffold1354	WormBase_imported	exon	121012	121014	.	+	.	ID=exon:Hba_19984.10;Parent=transcript:Hba_19984
+Scaffold1354	WormBase_imported	exon	121109	121224	.	+	.	ID=exon:Hba_19984.11;Parent=transcript:Hba_19984
+Scaffold1354	WormBase_imported	exon	121429	121486	.	+	.	ID=exon:Hba_19984.12;Parent=transcript:Hba_19984
+Scaffold1354	WormBase_imported	CDS	118560	118571	.	+	0	ID=cds:Hba_19984;Parent=transcript:Hba_19984
+Scaffold1354	WormBase_imported	CDS	118674	118700	.	+	0	ID=cds:Hba_19984;Parent=transcript:Hba_19984
+Scaffold1354	WormBase_imported	CDS	119225	119227	.	+	0	ID=cds:Hba_19984;Parent=transcript:Hba_19984
+Scaffold1354	WormBase_imported	CDS	119278	119444	.	+	0	ID=cds:Hba_19984;Parent=transcript:Hba_19984
+Scaffold1354	WormBase_imported	CDS	119499	119672	.	+	1	ID=cds:Hba_19984;Parent=transcript:Hba_19984
+Scaffold1354	WormBase_imported	CDS	120065	120197	.	+	1	ID=cds:Hba_19984;Parent=transcript:Hba_19984
+Scaffold1354	WormBase_imported	CDS	120264	120388	.	+	0	ID=cds:Hba_19984;Parent=transcript:Hba_19984
+Scaffold1354	WormBase_imported	CDS	120454	120502	.	+	1	ID=cds:Hba_19984;Parent=transcript:Hba_19984
+Scaffold1354	WormBase_imported	CDS	120515	120544	.	+	0	ID=cds:Hba_19984;Parent=transcript:Hba_19984
+Scaffold1354	WormBase_imported	CDS	121012	121014	.	+	0	ID=cds:Hba_19984;Parent=transcript:Hba_19984
+Scaffold1354	WormBase_imported	CDS	121109	121224	.	+	0	ID=cds:Hba_19984;Parent=transcript:Hba_19984
+Scaffold1354	WormBase_imported	CDS	121429	121486	.	+	1	ID=cds:Hba_19984;Parent=transcript:Hba_19984
+Scaffold1330	WormBase_imported	gene	357148	366679	.	-	.	ID=gene:Hba_16693;Name=Hba_16693;biotype=protein_coding
+Scaffold1330	WormBase_imported	mRNA	357148	366679	.	-	.	ID=transcript:Hba_16693;Parent=gene:Hba_16693;Name=Hba_16693;info=method:InterPro accession:IPR001609 description:Myosin head%2C motor domain %0Amethod:InterPro accession:IPR027401 description:Myosin IQ motif-containing domain superfamily %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR036961 description:Kinesin motor domain superfamily
+Scaffold1330	WormBase_imported	exon	366638	366679	.	-	.	ID=exon:Hba_16693.1;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	exon	366476	366565	.	-	.	ID=exon:Hba_16693.2;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	exon	366278	366397	.	-	.	ID=exon:Hba_16693.3;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	exon	365928	366063	.	-	.	ID=exon:Hba_16693.4;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	exon	365464	365760	.	-	.	ID=exon:Hba_16693.5;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	exon	365301	365401	.	-	.	ID=exon:Hba_16693.6;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	exon	365107	365217	.	-	.	ID=exon:Hba_16693.7;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	exon	363783	363866	.	-	.	ID=exon:Hba_16693.8;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	exon	363393	363527	.	-	.	ID=exon:Hba_16693.9;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	exon	362869	362963	.	-	.	ID=exon:Hba_16693.10;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	exon	362673	362802	.	-	.	ID=exon:Hba_16693.11;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	exon	362213	362539	.	-	.	ID=exon:Hba_16693.12;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	exon	362046	362186	.	-	.	ID=exon:Hba_16693.13;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	exon	361902	361982	.	-	.	ID=exon:Hba_16693.14;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	exon	361665	361812	.	-	.	ID=exon:Hba_16693.15;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	exon	361224	361437	.	-	.	ID=exon:Hba_16693.16;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	exon	360948	360950	.	-	.	ID=exon:Hba_16693.17;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	exon	360736	360753	.	-	.	ID=exon:Hba_16693.18;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	exon	360636	360641	.	-	.	ID=exon:Hba_16693.19;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	exon	359751	359826	.	-	.	ID=exon:Hba_16693.20;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	exon	359218	359351	.	-	.	ID=exon:Hba_16693.21;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	exon	358505	358677	.	-	.	ID=exon:Hba_16693.22;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	exon	357816	358012	.	-	.	ID=exon:Hba_16693.23;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	exon	357566	357636	.	-	.	ID=exon:Hba_16693.24;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	exon	357148	357220	.	-	.	ID=exon:Hba_16693.25;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	CDS	366638	366679	.	-	0	ID=cds:Hba_16693;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	CDS	366476	366565	.	-	0	ID=cds:Hba_16693;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	CDS	366278	366397	.	-	0	ID=cds:Hba_16693;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	CDS	365928	366063	.	-	0	ID=cds:Hba_16693;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	CDS	365464	365760	.	-	2	ID=cds:Hba_16693;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	CDS	365301	365401	.	-	2	ID=cds:Hba_16693;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	CDS	365107	365217	.	-	0	ID=cds:Hba_16693;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	CDS	363783	363866	.	-	0	ID=cds:Hba_16693;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	CDS	363393	363527	.	-	0	ID=cds:Hba_16693;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	CDS	362869	362963	.	-	0	ID=cds:Hba_16693;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	CDS	362673	362802	.	-	1	ID=cds:Hba_16693;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	CDS	362213	362539	.	-	0	ID=cds:Hba_16693;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	CDS	362046	362186	.	-	0	ID=cds:Hba_16693;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	CDS	361902	361982	.	-	0	ID=cds:Hba_16693;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	CDS	361665	361812	.	-	0	ID=cds:Hba_16693;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	CDS	361224	361437	.	-	2	ID=cds:Hba_16693;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	CDS	360948	360950	.	-	1	ID=cds:Hba_16693;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	CDS	360736	360753	.	-	1	ID=cds:Hba_16693;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	CDS	360636	360641	.	-	1	ID=cds:Hba_16693;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	CDS	359751	359826	.	-	1	ID=cds:Hba_16693;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	CDS	359218	359351	.	-	0	ID=cds:Hba_16693;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	CDS	358505	358677	.	-	1	ID=cds:Hba_16693;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	CDS	357816	358012	.	-	2	ID=cds:Hba_16693;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	CDS	357566	357636	.	-	0	ID=cds:Hba_16693;Parent=transcript:Hba_16693
+Scaffold1330	WormBase_imported	CDS	357148	357220	.	-	1	ID=cds:Hba_16693;Parent=transcript:Hba_16693
+Scaffold1317	WormBase_imported	gene	295003	305905	.	+	.	ID=gene:Hba_15750;Name=Hba_15750;biotype=protein_coding
+Scaffold1317	WormBase_imported	mRNA	295003	305905	.	+	.	ID=transcript:Hba_15750;Parent=gene:Hba_15750;Name=Hba_15750;info=method:InterPro accession:IPR013057 description:Amino acid transporter%2C transmembrane domain %0Amethod:InterPro accession:IPR031335 description:Glycosyl hydrolase family 63%2C C-terminal %0Amethod:InterPro accession:IPR031631 description:Glycosyl hydrolase family 63%2C N-terminal %0Amethod:InterPro accession:IPR038518 description:Glycosyl hydrolase family 63%2C N-terminal domain superfamily
+Scaffold1317	WormBase_imported	exon	295003	295089	.	+	.	ID=exon:Hba_15750.1;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	exon	295165	295308	.	+	.	ID=exon:Hba_15750.2;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	exon	295431	295563	.	+	.	ID=exon:Hba_15750.3;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	exon	295615	295850	.	+	.	ID=exon:Hba_15750.4;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	exon	295923	296108	.	+	.	ID=exon:Hba_15750.5;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	exon	296182	296306	.	+	.	ID=exon:Hba_15750.6;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	exon	296394	296502	.	+	.	ID=exon:Hba_15750.7;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	exon	296577	296663	.	+	.	ID=exon:Hba_15750.8;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	exon	297363	297421	.	+	.	ID=exon:Hba_15750.9;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	exon	297719	297721	.	+	.	ID=exon:Hba_15750.10;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	exon	298019	298048	.	+	.	ID=exon:Hba_15750.11;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	exon	299370	299372	.	+	.	ID=exon:Hba_15750.12;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	exon	301847	301884	.	+	.	ID=exon:Hba_15750.13;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	exon	302626	302879	.	+	.	ID=exon:Hba_15750.14;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	exon	303139	303232	.	+	.	ID=exon:Hba_15750.15;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	exon	303674	303783	.	+	.	ID=exon:Hba_15750.16;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	exon	304339	304431	.	+	.	ID=exon:Hba_15750.17;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	exon	305196	305300	.	+	.	ID=exon:Hba_15750.18;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	exon	305354	305502	.	+	.	ID=exon:Hba_15750.19;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	exon	305571	305660	.	+	.	ID=exon:Hba_15750.20;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	exon	305740	305905	.	+	.	ID=exon:Hba_15750.21;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	CDS	295003	295089	.	+	0	ID=cds:Hba_15750;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	CDS	295165	295308	.	+	0	ID=cds:Hba_15750;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	CDS	295431	295563	.	+	0	ID=cds:Hba_15750;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	CDS	295615	295850	.	+	2	ID=cds:Hba_15750;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	CDS	295923	296108	.	+	0	ID=cds:Hba_15750;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	CDS	296182	296306	.	+	0	ID=cds:Hba_15750;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	CDS	296394	296502	.	+	1	ID=cds:Hba_15750;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	CDS	296577	296663	.	+	0	ID=cds:Hba_15750;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	CDS	297363	297421	.	+	0	ID=cds:Hba_15750;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	CDS	297719	297721	.	+	1	ID=cds:Hba_15750;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	CDS	298019	298048	.	+	1	ID=cds:Hba_15750;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	CDS	299370	299372	.	+	1	ID=cds:Hba_15750;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	CDS	301847	301884	.	+	1	ID=cds:Hba_15750;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	CDS	302626	302879	.	+	2	ID=cds:Hba_15750;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	CDS	303139	303232	.	+	0	ID=cds:Hba_15750;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	CDS	303674	303783	.	+	2	ID=cds:Hba_15750;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	CDS	304339	304431	.	+	0	ID=cds:Hba_15750;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	CDS	305196	305300	.	+	0	ID=cds:Hba_15750;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	CDS	305354	305502	.	+	0	ID=cds:Hba_15750;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	CDS	305571	305660	.	+	1	ID=cds:Hba_15750;Parent=transcript:Hba_15750
+Scaffold1317	WormBase_imported	CDS	305740	305905	.	+	1	ID=cds:Hba_15750;Parent=transcript:Hba_15750
+Scaffold1287	WormBase_imported	gene	41672	43645	.	+	.	ID=gene:Hba_14114;Name=Hba_14114;biotype=protein_coding
+Scaffold1287	WormBase_imported	mRNA	41672	43645	.	+	.	ID=transcript:Hba_14114;Parent=gene:Hba_14114;Name=Hba_14114;info=method:InterPro accession:IPR020830 description:Glyceraldehyde 3-phosphate dehydrogenase%2C active site
+Scaffold1287	WormBase_imported	exon	41672	41674	.	+	.	ID=exon:Hba_14114.1;Parent=transcript:Hba_14114
+Scaffold1287	WormBase_imported	exon	41833	41858	.	+	.	ID=exon:Hba_14114.2;Parent=transcript:Hba_14114
+Scaffold1287	WormBase_imported	exon	42560	42572	.	+	.	ID=exon:Hba_14114.3;Parent=transcript:Hba_14114
+Scaffold1287	WormBase_imported	exon	42836	42934	.	+	.	ID=exon:Hba_14114.4;Parent=transcript:Hba_14114
+Scaffold1287	WormBase_imported	exon	43007	43009	.	+	.	ID=exon:Hba_14114.5;Parent=transcript:Hba_14114
+Scaffold1287	WormBase_imported	exon	43026	43037	.	+	.	ID=exon:Hba_14114.6;Parent=transcript:Hba_14114
+Scaffold1287	WormBase_imported	exon	43276	43278	.	+	.	ID=exon:Hba_14114.7;Parent=transcript:Hba_14114
+Scaffold1287	WormBase_imported	exon	43640	43645	.	+	.	ID=exon:Hba_14114.8;Parent=transcript:Hba_14114
+Scaffold1287	WormBase_imported	CDS	41672	41674	.	+	0	ID=cds:Hba_14114;Parent=transcript:Hba_14114
+Scaffold1287	WormBase_imported	CDS	41833	41858	.	+	0	ID=cds:Hba_14114;Parent=transcript:Hba_14114
+Scaffold1287	WormBase_imported	CDS	42560	42572	.	+	1	ID=cds:Hba_14114;Parent=transcript:Hba_14114
+Scaffold1287	WormBase_imported	CDS	42836	42934	.	+	0	ID=cds:Hba_14114;Parent=transcript:Hba_14114
+Scaffold1287	WormBase_imported	CDS	43007	43009	.	+	0	ID=cds:Hba_14114;Parent=transcript:Hba_14114
+Scaffold1287	WormBase_imported	CDS	43026	43037	.	+	0	ID=cds:Hba_14114;Parent=transcript:Hba_14114
+Scaffold1287	WormBase_imported	CDS	43276	43278	.	+	0	ID=cds:Hba_14114;Parent=transcript:Hba_14114
+Scaffold1287	WormBase_imported	CDS	43640	43645	.	+	0	ID=cds:Hba_14114;Parent=transcript:Hba_14114
+Scaffold1244	WormBase_imported	gene	27099	30509	.	+	.	ID=gene:Hba_12351;Name=Hba_12351;biotype=protein_coding
+Scaffold1244	WormBase_imported	mRNA	27099	30509	.	+	.	ID=transcript:Hba_12351;Parent=gene:Hba_12351;Name=Hba_12351
+Scaffold1244	WormBase_imported	exon	27099	27232	.	+	.	ID=exon:Hba_12351.1;Parent=transcript:Hba_12351
+Scaffold1244	WormBase_imported	exon	27949	28069	.	+	.	ID=exon:Hba_12351.2;Parent=transcript:Hba_12351
+Scaffold1244	WormBase_imported	exon	28189	28215	.	+	.	ID=exon:Hba_12351.3;Parent=transcript:Hba_12351
+Scaffold1244	WormBase_imported	exon	29939	29950	.	+	.	ID=exon:Hba_12351.4;Parent=transcript:Hba_12351
+Scaffold1244	WormBase_imported	exon	30257	30271	.	+	.	ID=exon:Hba_12351.5;Parent=transcript:Hba_12351
+Scaffold1244	WormBase_imported	exon	30411	30447	.	+	.	ID=exon:Hba_12351.6;Parent=transcript:Hba_12351
+Scaffold1244	WormBase_imported	exon	30496	30509	.	+	.	ID=exon:Hba_12351.7;Parent=transcript:Hba_12351
+Scaffold1244	WormBase_imported	CDS	27099	27232	.	+	0	ID=cds:Hba_12351;Parent=transcript:Hba_12351
+Scaffold1244	WormBase_imported	CDS	27949	28069	.	+	1	ID=cds:Hba_12351;Parent=transcript:Hba_12351
+Scaffold1244	WormBase_imported	CDS	28189	28215	.	+	0	ID=cds:Hba_12351;Parent=transcript:Hba_12351
+Scaffold1244	WormBase_imported	CDS	29939	29950	.	+	0	ID=cds:Hba_12351;Parent=transcript:Hba_12351
+Scaffold1244	WormBase_imported	CDS	30257	30271	.	+	0	ID=cds:Hba_12351;Parent=transcript:Hba_12351
+Scaffold1244	WormBase_imported	CDS	30411	30447	.	+	0	ID=cds:Hba_12351;Parent=transcript:Hba_12351
+Scaffold1244	WormBase_imported	CDS	30496	30509	.	+	2	ID=cds:Hba_12351;Parent=transcript:Hba_12351
+Scaffold1335	WormBase_imported	gene	283253	290245	.	+	.	ID=gene:Hba_17153;Name=Hba_17153;biotype=protein_coding;description=DNA topoisomerase 2;description_source=UniProtKB/TrEMBL;description_source_acc=A0A1I7XHC8
+Scaffold1335	WormBase_imported	mRNA	283253	290245	.	+	.	ID=transcript:Hba_17153;Parent=gene:Hba_17153;Name=Hba_17153;info=method:InterPro accession:IPR001241 description:DNA topoisomerase%2C type IIA %0Amethod:InterPro accession:IPR013506 description:DNA topoisomerase%2C type IIA%2C subunit B%2C domain 2 %0Amethod:InterPro accession:IPR013757 description:Type IIA DNA topoisomerase subunit A%2C alpha-helical domain superfamily %0Amethod:InterPro accession:IPR013760 description:DNA topoisomerase%2C type IIA-like domain superfamily %0Amethod:InterPro accession:IPR014721 description:Ribosomal protein S5 domain 2-type fold%2C subgroup %0Amethod:InterPro accession:IPR020568 description:Ribosomal protein S5 domain 2-type fold %0Amethod:InterPro accession:IPR036890 description:Histidine kinase/HSP90-like ATPase superfamily
+Scaffold1335	WormBase_imported	exon	283253	283267	.	+	.	ID=exon:Hba_17153.1;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	exon	283360	283362	.	+	.	ID=exon:Hba_17153.2;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	exon	283722	283727	.	+	.	ID=exon:Hba_17153.3;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	exon	284186	284257	.	+	.	ID=exon:Hba_17153.4;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	exon	284392	284532	.	+	.	ID=exon:Hba_17153.5;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	exon	284596	284682	.	+	.	ID=exon:Hba_17153.6;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	exon	284743	284829	.	+	.	ID=exon:Hba_17153.7;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	exon	284885	284989	.	+	.	ID=exon:Hba_17153.8;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	exon	285181	285183	.	+	.	ID=exon:Hba_17153.9;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	exon	285240	285344	.	+	.	ID=exon:Hba_17153.10;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	exon	285653	285769	.	+	.	ID=exon:Hba_17153.11;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	exon	285962	285985	.	+	.	ID=exon:Hba_17153.12;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	exon	286767	286790	.	+	.	ID=exon:Hba_17153.13;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	exon	287123	287127	.	+	.	ID=exon:Hba_17153.14;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	exon	287199	287202	.	+	.	ID=exon:Hba_17153.15;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	exon	287485	287490	.	+	.	ID=exon:Hba_17153.16;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	exon	287727	287732	.	+	.	ID=exon:Hba_17153.17;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	exon	288144	288200	.	+	.	ID=exon:Hba_17153.18;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	exon	288500	288560	.	+	.	ID=exon:Hba_17153.19;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	exon	288850	289022	.	+	.	ID=exon:Hba_17153.20;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	exon	289262	289426	.	+	.	ID=exon:Hba_17153.21;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	exon	289489	289575	.	+	.	ID=exon:Hba_17153.22;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	exon	289662	289724	.	+	.	ID=exon:Hba_17153.23;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	exon	289788	289952	.	+	.	ID=exon:Hba_17153.24;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	exon	290005	290096	.	+	.	ID=exon:Hba_17153.25;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	exon	290158	290245	.	+	.	ID=exon:Hba_17153.26;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	CDS	283253	283267	.	+	0	ID=cds:Hba_17153;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	CDS	283360	283362	.	+	0	ID=cds:Hba_17153;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	CDS	283722	283727	.	+	0	ID=cds:Hba_17153;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	CDS	284186	284257	.	+	0	ID=cds:Hba_17153;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	CDS	284392	284532	.	+	0	ID=cds:Hba_17153;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	CDS	284596	284682	.	+	0	ID=cds:Hba_17153;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	CDS	284743	284829	.	+	0	ID=cds:Hba_17153;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	CDS	284885	284989	.	+	0	ID=cds:Hba_17153;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	CDS	285181	285183	.	+	0	ID=cds:Hba_17153;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	CDS	285240	285344	.	+	0	ID=cds:Hba_17153;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	CDS	285653	285769	.	+	0	ID=cds:Hba_17153;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	CDS	285962	285985	.	+	0	ID=cds:Hba_17153;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	CDS	286767	286790	.	+	0	ID=cds:Hba_17153;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	CDS	287123	287127	.	+	0	ID=cds:Hba_17153;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	CDS	287199	287202	.	+	1	ID=cds:Hba_17153;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	CDS	287485	287490	.	+	0	ID=cds:Hba_17153;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	CDS	287727	287732	.	+	0	ID=cds:Hba_17153;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	CDS	288144	288200	.	+	0	ID=cds:Hba_17153;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	CDS	288500	288560	.	+	0	ID=cds:Hba_17153;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	CDS	288850	289022	.	+	2	ID=cds:Hba_17153;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	CDS	289262	289426	.	+	0	ID=cds:Hba_17153;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	CDS	289489	289575	.	+	0	ID=cds:Hba_17153;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	CDS	289662	289724	.	+	0	ID=cds:Hba_17153;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	CDS	289788	289952	.	+	0	ID=cds:Hba_17153;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	CDS	290005	290096	.	+	0	ID=cds:Hba_17153;Parent=transcript:Hba_17153
+Scaffold1335	WormBase_imported	CDS	290158	290245	.	+	1	ID=cds:Hba_17153;Parent=transcript:Hba_17153
+Scaffold1296	WormBase_imported	gene	118608	122565	.	+	.	ID=gene:Hba_14562;Name=Hba_14562;biotype=protein_coding
+Scaffold1296	WormBase_imported	mRNA	118608	122565	.	+	.	ID=transcript:Hba_14562;Parent=gene:Hba_14562;Name=Hba_14562;info=method:InterPro accession:IPR001164 description:Arf GTPase activating protein %0Amethod:InterPro accession:IPR037278 description:ARFGAP/RecO-like zinc finger %0Amethod:InterPro accession:IPR038508 description:ArfGAP domain superfamily
+Scaffold1296	WormBase_imported	exon	118608	118634	.	+	.	ID=exon:Hba_14562.1;Parent=transcript:Hba_14562
+Scaffold1296	WormBase_imported	exon	118953	118955	.	+	.	ID=exon:Hba_14562.2;Parent=transcript:Hba_14562
+Scaffold1296	WormBase_imported	exon	119697	119726	.	+	.	ID=exon:Hba_14562.3;Parent=transcript:Hba_14562
+Scaffold1296	WormBase_imported	exon	119863	119880	.	+	.	ID=exon:Hba_14562.4;Parent=transcript:Hba_14562
+Scaffold1296	WormBase_imported	exon	119922	120025	.	+	.	ID=exon:Hba_14562.5;Parent=transcript:Hba_14562
+Scaffold1296	WormBase_imported	exon	120461	120574	.	+	.	ID=exon:Hba_14562.6;Parent=transcript:Hba_14562
+Scaffold1296	WormBase_imported	exon	120833	121039	.	+	.	ID=exon:Hba_14562.7;Parent=transcript:Hba_14562
+Scaffold1296	WormBase_imported	exon	122046	122565	.	+	.	ID=exon:Hba_14562.8;Parent=transcript:Hba_14562
+Scaffold1296	WormBase_imported	CDS	118608	118634	.	+	0	ID=cds:Hba_14562;Parent=transcript:Hba_14562
+Scaffold1296	WormBase_imported	CDS	118953	118955	.	+	0	ID=cds:Hba_14562;Parent=transcript:Hba_14562
+Scaffold1296	WormBase_imported	CDS	119697	119726	.	+	0	ID=cds:Hba_14562;Parent=transcript:Hba_14562
+Scaffold1296	WormBase_imported	CDS	119863	119880	.	+	0	ID=cds:Hba_14562;Parent=transcript:Hba_14562
+Scaffold1296	WormBase_imported	CDS	119922	120025	.	+	0	ID=cds:Hba_14562;Parent=transcript:Hba_14562
+Scaffold1296	WormBase_imported	CDS	120461	120574	.	+	1	ID=cds:Hba_14562;Parent=transcript:Hba_14562
+Scaffold1296	WormBase_imported	CDS	120833	121039	.	+	1	ID=cds:Hba_14562;Parent=transcript:Hba_14562
+Scaffold1296	WormBase_imported	CDS	122046	122565	.	+	1	ID=cds:Hba_14562;Parent=transcript:Hba_14562
+Scaffold1296	WormBase_imported	gene	141507	147084	.	+	.	ID=gene:Hba_14566;Name=Hba_14566;biotype=protein_coding
+Scaffold1296	WormBase_imported	mRNA	141507	147084	.	+	.	ID=transcript:Hba_14566;Parent=gene:Hba_14566;Name=Hba_14566;info=method:InterPro accession:IPR000152 description:EGF-type aspartate/asparagine hydroxylation site
+Scaffold1296	WormBase_imported	exon	141507	141545	.	+	.	ID=exon:Hba_14566.1;Parent=transcript:Hba_14566
+Scaffold1296	WormBase_imported	exon	141702	141725	.	+	.	ID=exon:Hba_14566.2;Parent=transcript:Hba_14566
+Scaffold1296	WormBase_imported	exon	142346	142621	.	+	.	ID=exon:Hba_14566.3;Parent=transcript:Hba_14566
+Scaffold1296	WormBase_imported	exon	143107	143235	.	+	.	ID=exon:Hba_14566.4;Parent=transcript:Hba_14566
+Scaffold1296	WormBase_imported	exon	143378	143446	.	+	.	ID=exon:Hba_14566.5;Parent=transcript:Hba_14566
+Scaffold1296	WormBase_imported	exon	143647	143697	.	+	.	ID=exon:Hba_14566.6;Parent=transcript:Hba_14566
+Scaffold1296	WormBase_imported	exon	144823	144874	.	+	.	ID=exon:Hba_14566.7;Parent=transcript:Hba_14566
+Scaffold1296	WormBase_imported	exon	145077	145079	.	+	.	ID=exon:Hba_14566.8;Parent=transcript:Hba_14566
+Scaffold1296	WormBase_imported	exon	145097	145123	.	+	.	ID=exon:Hba_14566.9;Parent=transcript:Hba_14566
+Scaffold1296	WormBase_imported	exon	145313	145315	.	+	.	ID=exon:Hba_14566.10;Parent=transcript:Hba_14566
+Scaffold1296	WormBase_imported	exon	145563	145572	.	+	.	ID=exon:Hba_14566.11;Parent=transcript:Hba_14566
+Scaffold1296	WormBase_imported	exon	145833	145922	.	+	.	ID=exon:Hba_14566.12;Parent=transcript:Hba_14566
+Scaffold1296	WormBase_imported	exon	146034	146117	.	+	.	ID=exon:Hba_14566.13;Parent=transcript:Hba_14566
+Scaffold1296	WormBase_imported	exon	146288	146293	.	+	.	ID=exon:Hba_14566.14;Parent=transcript:Hba_14566
+Scaffold1296	WormBase_imported	exon	146542	146544	.	+	.	ID=exon:Hba_14566.15;Parent=transcript:Hba_14566
+Scaffold1296	WormBase_imported	exon	146860	146921	.	+	.	ID=exon:Hba_14566.16;Parent=transcript:Hba_14566
+Scaffold1296	WormBase_imported	exon	146975	147084	.	+	.	ID=exon:Hba_14566.17;Parent=transcript:Hba_14566
+Scaffold1296	WormBase_imported	CDS	141507	141545	.	+	0	ID=cds:Hba_14566;Parent=transcript:Hba_14566
+Scaffold1296	WormBase_imported	CDS	141702	141725	.	+	0	ID=cds:Hba_14566;Parent=transcript:Hba_14566
+Scaffold1296	WormBase_imported	CDS	142346	142621	.	+	0	ID=cds:Hba_14566;Parent=transcript:Hba_14566
+Scaffold1296	WormBase_imported	CDS	143107	143235	.	+	0	ID=cds:Hba_14566;Parent=transcript:Hba_14566
+Scaffold1296	WormBase_imported	CDS	143378	143446	.	+	0	ID=cds:Hba_14566;Parent=transcript:Hba_14566
+Scaffold1296	WormBase_imported	CDS	143647	143697	.	+	0	ID=cds:Hba_14566;Parent=transcript:Hba_14566
+Scaffold1296	WormBase_imported	CDS	144823	144874	.	+	0	ID=cds:Hba_14566;Parent=transcript:Hba_14566
+Scaffold1296	WormBase_imported	CDS	145077	145079	.	+	2	ID=cds:Hba_14566;Parent=transcript:Hba_14566
+Scaffold1296	WormBase_imported	CDS	145097	145123	.	+	2	ID=cds:Hba_14566;Parent=transcript:Hba_14566
+Scaffold1296	WormBase_imported	CDS	145313	145315	.	+	2	ID=cds:Hba_14566;Parent=transcript:Hba_14566
+Scaffold1296	WormBase_imported	CDS	145563	145572	.	+	2	ID=cds:Hba_14566;Parent=transcript:Hba_14566
+Scaffold1296	WormBase_imported	CDS	145833	145922	.	+	1	ID=cds:Hba_14566;Parent=transcript:Hba_14566
+Scaffold1296	WormBase_imported	CDS	146034	146117	.	+	1	ID=cds:Hba_14566;Parent=transcript:Hba_14566
+Scaffold1296	WormBase_imported	CDS	146288	146293	.	+	1	ID=cds:Hba_14566;Parent=transcript:Hba_14566
+Scaffold1296	WormBase_imported	CDS	146542	146544	.	+	1	ID=cds:Hba_14566;Parent=transcript:Hba_14566
+Scaffold1296	WormBase_imported	CDS	146860	146921	.	+	1	ID=cds:Hba_14566;Parent=transcript:Hba_14566
+Scaffold1296	WormBase_imported	CDS	146975	147084	.	+	2	ID=cds:Hba_14566;Parent=transcript:Hba_14566
+Scaffold1323	WormBase_imported	gene	282886	289808	.	-	.	ID=gene:Hba_16211;Name=Hba_16211;biotype=protein_coding
+Scaffold1323	WormBase_imported	mRNA	282886	289808	.	-	.	ID=transcript:Hba_16211;Parent=gene:Hba_16211;Name=Hba_16211;info=method:InterPro accession:IPR012320 description:Stonin homology %0Amethod:InterPro accession:IPR028565 description:Mu homology domain %0Amethod:InterPro accession:IPR036168 description:AP-2 complex subunit mu%2C C-terminal superfamily
+Scaffold1323	WormBase_imported	exon	289626	289808	.	-	.	ID=exon:Hba_16211.1;Parent=transcript:Hba_16211
+Scaffold1323	WormBase_imported	exon	289463	289563	.	-	.	ID=exon:Hba_16211.2;Parent=transcript:Hba_16211
+Scaffold1323	WormBase_imported	exon	289181	289284	.	-	.	ID=exon:Hba_16211.3;Parent=transcript:Hba_16211
+Scaffold1323	WormBase_imported	exon	288977	289083	.	-	.	ID=exon:Hba_16211.4;Parent=transcript:Hba_16211
+Scaffold1323	WormBase_imported	exon	288046	288046	.	-	.	ID=exon:Hba_16211.5;Parent=transcript:Hba_16211
+Scaffold1323	WormBase_imported	exon	287897	287946	.	-	.	ID=exon:Hba_16211.6;Parent=transcript:Hba_16211
+Scaffold1323	WormBase_imported	exon	287725	287835	.	-	.	ID=exon:Hba_16211.7;Parent=transcript:Hba_16211
+Scaffold1323	WormBase_imported	exon	287529	287650	.	-	.	ID=exon:Hba_16211.8;Parent=transcript:Hba_16211
+Scaffold1323	WormBase_imported	exon	287279	287369	.	-	.	ID=exon:Hba_16211.9;Parent=transcript:Hba_16211
+Scaffold1323	WormBase_imported	exon	287052	287158	.	-	.	ID=exon:Hba_16211.10;Parent=transcript:Hba_16211
+Scaffold1323	WormBase_imported	exon	286841	286958	.	-	.	ID=exon:Hba_16211.11;Parent=transcript:Hba_16211
+Scaffold1323	WormBase_imported	exon	286604	286796	.	-	.	ID=exon:Hba_16211.12;Parent=transcript:Hba_16211
+Scaffold1323	WormBase_imported	exon	286116	286315	.	-	.	ID=exon:Hba_16211.13;Parent=transcript:Hba_16211
+Scaffold1323	WormBase_imported	exon	285946	285957	.	-	.	ID=exon:Hba_16211.14;Parent=transcript:Hba_16211
+Scaffold1323	WormBase_imported	exon	284493	284495	.	-	.	ID=exon:Hba_16211.15;Parent=transcript:Hba_16211
+Scaffold1323	WormBase_imported	exon	284402	284407	.	-	.	ID=exon:Hba_16211.16;Parent=transcript:Hba_16211
+Scaffold1323	WormBase_imported	exon	284258	284296	.	-	.	ID=exon:Hba_16211.17;Parent=transcript:Hba_16211
+Scaffold1323	WormBase_imported	exon	284060	284143	.	-	.	ID=exon:Hba_16211.18;Parent=transcript:Hba_16211
+Scaffold1323	WormBase_imported	exon	283258	283394	.	-	.	ID=exon:Hba_16211.19;Parent=transcript:Hba_16211
+Scaffold1323	WormBase_imported	exon	282886	283186	.	-	.	ID=exon:Hba_16211.20;Parent=transcript:Hba_16211
+Scaffold1323	WormBase_imported	CDS	289626	289808	.	-	0	ID=cds:Hba_16211;Parent=transcript:Hba_16211
+Scaffold1323	WormBase_imported	CDS	289463	289563	.	-	0	ID=cds:Hba_16211;Parent=transcript:Hba_16211
+Scaffold1323	WormBase_imported	CDS	289181	289284	.	-	1	ID=cds:Hba_16211;Parent=transcript:Hba_16211
+Scaffold1323	WormBase_imported	CDS	288977	289083	.	-	2	ID=cds:Hba_16211;Parent=transcript:Hba_16211
+Scaffold1323	WormBase_imported	CDS	288046	288046	.	-	0	ID=cds:Hba_16211;Parent=transcript:Hba_16211
+Scaffold1323	WormBase_imported	CDS	287897	287946	.	-	2	ID=cds:Hba_16211;Parent=transcript:Hba_16211
+Scaffold1323	WormBase_imported	CDS	287725	287835	.	-	0	ID=cds:Hba_16211;Parent=transcript:Hba_16211
+Scaffold1323	WormBase_imported	CDS	287529	287650	.	-	0	ID=cds:Hba_16211;Parent=transcript:Hba_16211
+Scaffold1323	WormBase_imported	CDS	287279	287369	.	-	1	ID=cds:Hba_16211;Parent=transcript:Hba_16211
+Scaffold1323	WormBase_imported	CDS	287052	287158	.	-	0	ID=cds:Hba_16211;Parent=transcript:Hba_16211
+Scaffold1323	WormBase_imported	CDS	286841	286958	.	-	1	ID=cds:Hba_16211;Parent=transcript:Hba_16211
+Scaffold1323	WormBase_imported	CDS	286604	286796	.	-	0	ID=cds:Hba_16211;Parent=transcript:Hba_16211
+Scaffold1323	WormBase_imported	CDS	286116	286315	.	-	2	ID=cds:Hba_16211;Parent=transcript:Hba_16211
+Scaffold1323	WormBase_imported	CDS	285946	285957	.	-	0	ID=cds:Hba_16211;Parent=transcript:Hba_16211
+Scaffold1323	WormBase_imported	CDS	284493	284495	.	-	0	ID=cds:Hba_16211;Parent=transcript:Hba_16211
+Scaffold1323	WormBase_imported	CDS	284402	284407	.	-	0	ID=cds:Hba_16211;Parent=transcript:Hba_16211
+Scaffold1323	WormBase_imported	CDS	284258	284296	.	-	0	ID=cds:Hba_16211;Parent=transcript:Hba_16211
+Scaffold1323	WormBase_imported	CDS	284060	284143	.	-	0	ID=cds:Hba_16211;Parent=transcript:Hba_16211
+Scaffold1323	WormBase_imported	CDS	283258	283394	.	-	0	ID=cds:Hba_16211;Parent=transcript:Hba_16211
+Scaffold1323	WormBase_imported	CDS	282886	283186	.	-	1	ID=cds:Hba_16211;Parent=transcript:Hba_16211
+Scaffold1135	WormBase_imported	gene	1581	8541	.	+	.	ID=gene:Hba_09930;Name=Hba_09930;biotype=protein_coding
+Scaffold1135	WormBase_imported	mRNA	1581	8541	.	+	.	ID=transcript:Hba_09930;Parent=gene:Hba_09930;Name=Hba_09930;info=method:InterPro accession:IPR040676 description:Domain of unknown function DUF5641
+Scaffold1135	WormBase_imported	exon	1581	1706	.	+	.	ID=exon:Hba_09930.1;Parent=transcript:Hba_09930
+Scaffold1135	WormBase_imported	exon	1764	1919	.	+	.	ID=exon:Hba_09930.2;Parent=transcript:Hba_09930
+Scaffold1135	WormBase_imported	exon	2353	2880	.	+	.	ID=exon:Hba_09930.3;Parent=transcript:Hba_09930
+Scaffold1135	WormBase_imported	exon	2995	3048	.	+	.	ID=exon:Hba_09930.4;Parent=transcript:Hba_09930
+Scaffold1135	WormBase_imported	exon	3094	3108	.	+	.	ID=exon:Hba_09930.5;Parent=transcript:Hba_09930
+Scaffold1135	WormBase_imported	exon	3322	3381	.	+	.	ID=exon:Hba_09930.6;Parent=transcript:Hba_09930
+Scaffold1135	WormBase_imported	exon	5575	5613	.	+	.	ID=exon:Hba_09930.7;Parent=transcript:Hba_09930
+Scaffold1135	WormBase_imported	exon	6202	6240	.	+	.	ID=exon:Hba_09930.8;Parent=transcript:Hba_09930
+Scaffold1135	WormBase_imported	exon	7753	7761	.	+	.	ID=exon:Hba_09930.9;Parent=transcript:Hba_09930
+Scaffold1135	WormBase_imported	exon	8014	8025	.	+	.	ID=exon:Hba_09930.10;Parent=transcript:Hba_09930
+Scaffold1135	WormBase_imported	exon	8038	8058	.	+	.	ID=exon:Hba_09930.11;Parent=transcript:Hba_09930
+Scaffold1135	WormBase_imported	exon	8179	8202	.	+	.	ID=exon:Hba_09930.12;Parent=transcript:Hba_09930
+Scaffold1135	WormBase_imported	exon	8263	8541	.	+	.	ID=exon:Hba_09930.13;Parent=transcript:Hba_09930
+Scaffold1135	WormBase_imported	CDS	1581	1706	.	+	0	ID=cds:Hba_09930;Parent=transcript:Hba_09930
+Scaffold1135	WormBase_imported	CDS	1764	1919	.	+	0	ID=cds:Hba_09930;Parent=transcript:Hba_09930
+Scaffold1135	WormBase_imported	CDS	2353	2880	.	+	0	ID=cds:Hba_09930;Parent=transcript:Hba_09930
+Scaffold1135	WormBase_imported	CDS	2995	3048	.	+	0	ID=cds:Hba_09930;Parent=transcript:Hba_09930
+Scaffold1135	WormBase_imported	CDS	3094	3108	.	+	0	ID=cds:Hba_09930;Parent=transcript:Hba_09930
+Scaffold1135	WormBase_imported	CDS	3322	3381	.	+	0	ID=cds:Hba_09930;Parent=transcript:Hba_09930
+Scaffold1135	WormBase_imported	CDS	5575	5613	.	+	0	ID=cds:Hba_09930;Parent=transcript:Hba_09930
+Scaffold1135	WormBase_imported	CDS	6202	6240	.	+	0	ID=cds:Hba_09930;Parent=transcript:Hba_09930
+Scaffold1135	WormBase_imported	CDS	7753	7761	.	+	0	ID=cds:Hba_09930;Parent=transcript:Hba_09930
+Scaffold1135	WormBase_imported	CDS	8014	8025	.	+	0	ID=cds:Hba_09930;Parent=transcript:Hba_09930
+Scaffold1135	WormBase_imported	CDS	8038	8058	.	+	0	ID=cds:Hba_09930;Parent=transcript:Hba_09930
+Scaffold1135	WormBase_imported	CDS	8179	8202	.	+	0	ID=cds:Hba_09930;Parent=transcript:Hba_09930
+Scaffold1135	WormBase_imported	CDS	8263	8541	.	+	0	ID=cds:Hba_09930;Parent=transcript:Hba_09930
+Scaffold1241	WormBase_imported	gene	82362	83670	.	+	.	ID=gene:Hba_12141;Name=Hba_12141;biotype=protein_coding
+Scaffold1241	WormBase_imported	mRNA	82362	83670	.	+	.	ID=transcript:Hba_12141;Parent=gene:Hba_12141;Name=Hba_12141
+Scaffold1241	WormBase_imported	exon	82362	82420	.	+	.	ID=exon:Hba_12141.1;Parent=transcript:Hba_12141
+Scaffold1241	WormBase_imported	exon	82648	82648	.	+	.	ID=exon:Hba_12141.2;Parent=transcript:Hba_12141
+Scaffold1241	WormBase_imported	exon	82802	82816	.	+	.	ID=exon:Hba_12141.3;Parent=transcript:Hba_12141
+Scaffold1241	WormBase_imported	exon	82993	83016	.	+	.	ID=exon:Hba_12141.4;Parent=transcript:Hba_12141
+Scaffold1241	WormBase_imported	exon	83665	83670	.	+	.	ID=exon:Hba_12141.5;Parent=transcript:Hba_12141
+Scaffold1241	WormBase_imported	CDS	82362	82420	.	+	0	ID=cds:Hba_12141;Parent=transcript:Hba_12141
+Scaffold1241	WormBase_imported	CDS	82648	82648	.	+	1	ID=cds:Hba_12141;Parent=transcript:Hba_12141
+Scaffold1241	WormBase_imported	CDS	82802	82816	.	+	0	ID=cds:Hba_12141;Parent=transcript:Hba_12141
+Scaffold1241	WormBase_imported	CDS	82993	83016	.	+	0	ID=cds:Hba_12141;Parent=transcript:Hba_12141
+Scaffold1241	WormBase_imported	CDS	83665	83670	.	+	0	ID=cds:Hba_12141;Parent=transcript:Hba_12141
+Scaffold1205	WormBase_imported	gene	33325	40134	.	+	.	ID=gene:Hba_11355;Name=Hba_11355;biotype=protein_coding
+Scaffold1205	WormBase_imported	mRNA	33325	40134	.	+	.	ID=transcript:Hba_11355;Parent=gene:Hba_11355;Name=Hba_11355
+Scaffold1205	WormBase_imported	exon	33325	33464	.	+	.	ID=exon:Hba_11355.1;Parent=transcript:Hba_11355
+Scaffold1205	WormBase_imported	exon	36024	36089	.	+	.	ID=exon:Hba_11355.2;Parent=transcript:Hba_11355
+Scaffold1205	WormBase_imported	exon	36170	36178	.	+	.	ID=exon:Hba_11355.3;Parent=transcript:Hba_11355
+Scaffold1205	WormBase_imported	exon	36338	36364	.	+	.	ID=exon:Hba_11355.4;Parent=transcript:Hba_11355
+Scaffold1205	WormBase_imported	exon	36709	36729	.	+	.	ID=exon:Hba_11355.5;Parent=transcript:Hba_11355
+Scaffold1205	WormBase_imported	exon	36932	36954	.	+	.	ID=exon:Hba_11355.6;Parent=transcript:Hba_11355
+Scaffold1205	WormBase_imported	exon	37309	37380	.	+	.	ID=exon:Hba_11355.7;Parent=transcript:Hba_11355
+Scaffold1205	WormBase_imported	exon	39745	40031	.	+	.	ID=exon:Hba_11355.8;Parent=transcript:Hba_11355
+Scaffold1205	WormBase_imported	exon	40048	40134	.	+	.	ID=exon:Hba_11355.9;Parent=transcript:Hba_11355
+Scaffold1205	WormBase_imported	CDS	33325	33464	.	+	0	ID=cds:Hba_11355;Parent=transcript:Hba_11355
+Scaffold1205	WormBase_imported	CDS	36024	36089	.	+	1	ID=cds:Hba_11355;Parent=transcript:Hba_11355
+Scaffold1205	WormBase_imported	CDS	36170	36178	.	+	1	ID=cds:Hba_11355;Parent=transcript:Hba_11355
+Scaffold1205	WormBase_imported	CDS	36338	36364	.	+	1	ID=cds:Hba_11355;Parent=transcript:Hba_11355
+Scaffold1205	WormBase_imported	CDS	36709	36729	.	+	1	ID=cds:Hba_11355;Parent=transcript:Hba_11355
+Scaffold1205	WormBase_imported	CDS	36932	36954	.	+	1	ID=cds:Hba_11355;Parent=transcript:Hba_11355
+Scaffold1205	WormBase_imported	CDS	37309	37380	.	+	2	ID=cds:Hba_11355;Parent=transcript:Hba_11355
+Scaffold1205	WormBase_imported	CDS	39745	40031	.	+	2	ID=cds:Hba_11355;Parent=transcript:Hba_11355
+Scaffold1205	WormBase_imported	CDS	40048	40134	.	+	0	ID=cds:Hba_11355;Parent=transcript:Hba_11355
+Scaffold45	WormBase_imported	gene	37981	39767	.	+	.	ID=gene:Hba_00383;Name=Hba_00383;biotype=protein_coding
+Scaffold45	WormBase_imported	mRNA	37981	39767	.	+	.	ID=transcript:Hba_00383;Parent=gene:Hba_00383;Name=Hba_00383;info=method:InterPro accession:IPR002655 description:Acyl-CoA oxidase%2C C-terminal %0Amethod:InterPro accession:IPR036250 description:Acyl-CoA dehydrogenase-like%2C C-terminal
+Scaffold45	WormBase_imported	exon	37981	37986	.	+	.	ID=exon:Hba_00383.1;Parent=transcript:Hba_00383
+Scaffold45	WormBase_imported	exon	38142	38150	.	+	.	ID=exon:Hba_00383.2;Parent=transcript:Hba_00383
+Scaffold45	WormBase_imported	exon	38646	38660	.	+	.	ID=exon:Hba_00383.3;Parent=transcript:Hba_00383
+Scaffold45	WormBase_imported	exon	38715	38834	.	+	.	ID=exon:Hba_00383.4;Parent=transcript:Hba_00383
+Scaffold45	WormBase_imported	exon	38903	39046	.	+	.	ID=exon:Hba_00383.5;Parent=transcript:Hba_00383
+Scaffold45	WormBase_imported	exon	39684	39767	.	+	.	ID=exon:Hba_00383.6;Parent=transcript:Hba_00383
+Scaffold45	WormBase_imported	CDS	37981	37986	.	+	0	ID=cds:Hba_00383;Parent=transcript:Hba_00383
+Scaffold45	WormBase_imported	CDS	38142	38150	.	+	0	ID=cds:Hba_00383;Parent=transcript:Hba_00383
+Scaffold45	WormBase_imported	CDS	38646	38660	.	+	0	ID=cds:Hba_00383;Parent=transcript:Hba_00383
+Scaffold45	WormBase_imported	CDS	38715	38834	.	+	0	ID=cds:Hba_00383;Parent=transcript:Hba_00383
+Scaffold45	WormBase_imported	CDS	38903	39046	.	+	0	ID=cds:Hba_00383;Parent=transcript:Hba_00383
+Scaffold45	WormBase_imported	CDS	39684	39767	.	+	0	ID=cds:Hba_00383;Parent=transcript:Hba_00383
+Scaffold1147	WormBase_imported	gene	61522	78900	.	+	.	ID=gene:Hba_10182;Name=Hba_10182;biotype=protein_coding
+Scaffold1147	WormBase_imported	mRNA	61522	78900	.	+	.	ID=transcript:Hba_10182;Parent=gene:Hba_10182;Name=Hba_10182
+Scaffold1147	WormBase_imported	exon	61522	61632	.	+	.	ID=exon:Hba_10182.1;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	exon	61742	61987	.	+	.	ID=exon:Hba_10182.2;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	exon	62891	63038	.	+	.	ID=exon:Hba_10182.3;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	exon	63186	63297	.	+	.	ID=exon:Hba_10182.4;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	exon	63686	63771	.	+	.	ID=exon:Hba_10182.5;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	exon	63981	64004	.	+	.	ID=exon:Hba_10182.6;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	exon	64598	64835	.	+	.	ID=exon:Hba_10182.7;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	exon	65123	65236	.	+	.	ID=exon:Hba_10182.8;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	exon	65610	65748	.	+	.	ID=exon:Hba_10182.9;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	exon	65954	65974	.	+	.	ID=exon:Hba_10182.10;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	exon	66746	66751	.	+	.	ID=exon:Hba_10182.11;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	exon	69218	69226	.	+	.	ID=exon:Hba_10182.12;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	exon	69495	69596	.	+	.	ID=exon:Hba_10182.13;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	exon	69648	69767	.	+	.	ID=exon:Hba_10182.14;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	exon	70465	70606	.	+	.	ID=exon:Hba_10182.15;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	exon	70630	70718	.	+	.	ID=exon:Hba_10182.16;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	exon	70844	70855	.	+	.	ID=exon:Hba_10182.17;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	exon	71218	71547	.	+	.	ID=exon:Hba_10182.18;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	exon	71796	71968	.	+	.	ID=exon:Hba_10182.19;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	exon	72093	72177	.	+	.	ID=exon:Hba_10182.20;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	exon	72280	72297	.	+	.	ID=exon:Hba_10182.21;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	exon	72728	72735	.	+	.	ID=exon:Hba_10182.22;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	exon	75370	75406	.	+	.	ID=exon:Hba_10182.23;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	exon	76239	76423	.	+	.	ID=exon:Hba_10182.24;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	exon	77665	77709	.	+	.	ID=exon:Hba_10182.25;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	exon	78879	78900	.	+	.	ID=exon:Hba_10182.26;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	CDS	61522	61632	.	+	0	ID=cds:Hba_10182;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	CDS	61742	61987	.	+	0	ID=cds:Hba_10182;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	CDS	62891	63038	.	+	0	ID=cds:Hba_10182;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	CDS	63186	63297	.	+	2	ID=cds:Hba_10182;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	CDS	63686	63771	.	+	1	ID=cds:Hba_10182;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	CDS	63981	64004	.	+	2	ID=cds:Hba_10182;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	CDS	64598	64835	.	+	2	ID=cds:Hba_10182;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	CDS	65123	65236	.	+	1	ID=cds:Hba_10182;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	CDS	65610	65748	.	+	1	ID=cds:Hba_10182;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	CDS	65954	65974	.	+	0	ID=cds:Hba_10182;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	CDS	66746	66751	.	+	0	ID=cds:Hba_10182;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	CDS	69218	69226	.	+	0	ID=cds:Hba_10182;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	CDS	69495	69596	.	+	0	ID=cds:Hba_10182;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	CDS	69648	69767	.	+	0	ID=cds:Hba_10182;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	CDS	70465	70606	.	+	0	ID=cds:Hba_10182;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	CDS	70630	70718	.	+	2	ID=cds:Hba_10182;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	CDS	70844	70855	.	+	0	ID=cds:Hba_10182;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	CDS	71218	71547	.	+	0	ID=cds:Hba_10182;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	CDS	71796	71968	.	+	0	ID=cds:Hba_10182;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	CDS	72093	72177	.	+	1	ID=cds:Hba_10182;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	CDS	72280	72297	.	+	0	ID=cds:Hba_10182;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	CDS	72728	72735	.	+	0	ID=cds:Hba_10182;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	CDS	75370	75406	.	+	1	ID=cds:Hba_10182;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	CDS	76239	76423	.	+	0	ID=cds:Hba_10182;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	CDS	77665	77709	.	+	1	ID=cds:Hba_10182;Parent=transcript:Hba_10182
+Scaffold1147	WormBase_imported	CDS	78879	78900	.	+	1	ID=cds:Hba_10182;Parent=transcript:Hba_10182
+Scaffold1179	WormBase_imported	gene	58320	60269	.	+	.	ID=gene:Hba_10813;Name=Hba_10813;biotype=protein_coding
+Scaffold1179	WormBase_imported	mRNA	58320	60269	.	+	.	ID=transcript:Hba_10813;Parent=gene:Hba_10813;Name=Hba_10813;info=method:InterPro accession:IPR002369 description:Integrin beta subunit%2C VWA domain %0Amethod:InterPro accession:IPR036465 description:von Willebrand factor A-like domain superfamily
+Scaffold1179	WormBase_imported	exon	58320	58408	.	+	.	ID=exon:Hba_10813.1;Parent=transcript:Hba_10813
+Scaffold1179	WormBase_imported	exon	58628	58639	.	+	.	ID=exon:Hba_10813.2;Parent=transcript:Hba_10813
+Scaffold1179	WormBase_imported	exon	59034	59048	.	+	.	ID=exon:Hba_10813.3;Parent=transcript:Hba_10813
+Scaffold1179	WormBase_imported	exon	59564	59566	.	+	.	ID=exon:Hba_10813.4;Parent=transcript:Hba_10813
+Scaffold1179	WormBase_imported	exon	59586	59598	.	+	.	ID=exon:Hba_10813.5;Parent=transcript:Hba_10813
+Scaffold1179	WormBase_imported	exon	60063	60073	.	+	.	ID=exon:Hba_10813.6;Parent=transcript:Hba_10813
+Scaffold1179	WormBase_imported	exon	60146	60269	.	+	.	ID=exon:Hba_10813.7;Parent=transcript:Hba_10813
+Scaffold1179	WormBase_imported	CDS	58320	58408	.	+	0	ID=cds:Hba_10813;Parent=transcript:Hba_10813
+Scaffold1179	WormBase_imported	CDS	58628	58639	.	+	1	ID=cds:Hba_10813;Parent=transcript:Hba_10813
+Scaffold1179	WormBase_imported	CDS	59034	59048	.	+	1	ID=cds:Hba_10813;Parent=transcript:Hba_10813
+Scaffold1179	WormBase_imported	CDS	59564	59566	.	+	1	ID=cds:Hba_10813;Parent=transcript:Hba_10813
+Scaffold1179	WormBase_imported	CDS	59586	59598	.	+	1	ID=cds:Hba_10813;Parent=transcript:Hba_10813
+Scaffold1179	WormBase_imported	CDS	60063	60073	.	+	0	ID=cds:Hba_10813;Parent=transcript:Hba_10813
+Scaffold1179	WormBase_imported	CDS	60146	60269	.	+	1	ID=cds:Hba_10813;Parent=transcript:Hba_10813
+Scaffold250	WormBase_imported	gene	39671	40550	.	+	.	ID=gene:Hba_02440;Name=Hba_02440;biotype=protein_coding
+Scaffold250	WormBase_imported	mRNA	39671	40550	.	+	.	ID=transcript:Hba_02440;Parent=gene:Hba_02440;Name=Hba_02440
+Scaffold250	WormBase_imported	exon	39671	39692	.	+	.	ID=exon:Hba_02440.1;Parent=transcript:Hba_02440
+Scaffold250	WormBase_imported	exon	40080	40141	.	+	.	ID=exon:Hba_02440.2;Parent=transcript:Hba_02440
+Scaffold250	WormBase_imported	exon	40304	40309	.	+	.	ID=exon:Hba_02440.3;Parent=transcript:Hba_02440
+Scaffold250	WormBase_imported	exon	40366	40374	.	+	.	ID=exon:Hba_02440.4;Parent=transcript:Hba_02440
+Scaffold250	WormBase_imported	exon	40430	40435	.	+	.	ID=exon:Hba_02440.5;Parent=transcript:Hba_02440
+Scaffold250	WormBase_imported	exon	40485	40550	.	+	.	ID=exon:Hba_02440.6;Parent=transcript:Hba_02440
+Scaffold250	WormBase_imported	CDS	39671	39692	.	+	0	ID=cds:Hba_02440;Parent=transcript:Hba_02440
+Scaffold250	WormBase_imported	CDS	40080	40141	.	+	2	ID=cds:Hba_02440;Parent=transcript:Hba_02440
+Scaffold250	WormBase_imported	CDS	40304	40309	.	+	0	ID=cds:Hba_02440;Parent=transcript:Hba_02440
+Scaffold250	WormBase_imported	CDS	40366	40374	.	+	0	ID=cds:Hba_02440;Parent=transcript:Hba_02440
+Scaffold250	WormBase_imported	CDS	40430	40435	.	+	0	ID=cds:Hba_02440;Parent=transcript:Hba_02440
+Scaffold250	WormBase_imported	CDS	40485	40550	.	+	0	ID=cds:Hba_02440;Parent=transcript:Hba_02440
+Scaffold1231	WormBase_imported	gene	46711	48452	.	+	.	ID=gene:Hba_11927;Name=Hba_11927;biotype=protein_coding
+Scaffold1231	WormBase_imported	mRNA	46711	48452	.	+	.	ID=transcript:Hba_11927;Parent=gene:Hba_11927;Name=Hba_11927
+Scaffold1231	WormBase_imported	exon	46711	46713	.	+	.	ID=exon:Hba_11927.1;Parent=transcript:Hba_11927
+Scaffold1231	WormBase_imported	exon	47178	47264	.	+	.	ID=exon:Hba_11927.2;Parent=transcript:Hba_11927
+Scaffold1231	WormBase_imported	exon	47607	47612	.	+	.	ID=exon:Hba_11927.3;Parent=transcript:Hba_11927
+Scaffold1231	WormBase_imported	exon	47775	47777	.	+	.	ID=exon:Hba_11927.4;Parent=transcript:Hba_11927
+Scaffold1231	WormBase_imported	exon	48423	48452	.	+	.	ID=exon:Hba_11927.5;Parent=transcript:Hba_11927
+Scaffold1231	WormBase_imported	CDS	46711	46713	.	+	0	ID=cds:Hba_11927;Parent=transcript:Hba_11927
+Scaffold1231	WormBase_imported	CDS	47178	47264	.	+	0	ID=cds:Hba_11927;Parent=transcript:Hba_11927
+Scaffold1231	WormBase_imported	CDS	47607	47612	.	+	0	ID=cds:Hba_11927;Parent=transcript:Hba_11927
+Scaffold1231	WormBase_imported	CDS	47775	47777	.	+	0	ID=cds:Hba_11927;Parent=transcript:Hba_11927
+Scaffold1231	WormBase_imported	CDS	48423	48452	.	+	0	ID=cds:Hba_11927;Parent=transcript:Hba_11927
+Scaffold41	WormBase_imported	gene	1466	2569	.	+	.	ID=gene:Hba_00326;Name=Hba_00326;biotype=protein_coding
+Scaffold41	WormBase_imported	mRNA	1466	2569	.	+	.	ID=transcript:Hba_00326;Parent=gene:Hba_00326;Name=Hba_00326
+Scaffold41	WormBase_imported	exon	1466	1489	.	+	.	ID=exon:Hba_00326.1;Parent=transcript:Hba_00326
+Scaffold41	WormBase_imported	exon	1886	1897	.	+	.	ID=exon:Hba_00326.2;Parent=transcript:Hba_00326
+Scaffold41	WormBase_imported	exon	1952	1954	.	+	.	ID=exon:Hba_00326.3;Parent=transcript:Hba_00326
+Scaffold41	WormBase_imported	exon	2117	2191	.	+	.	ID=exon:Hba_00326.4;Parent=transcript:Hba_00326
+Scaffold41	WormBase_imported	exon	2303	2569	.	+	.	ID=exon:Hba_00326.5;Parent=transcript:Hba_00326
+Scaffold41	WormBase_imported	CDS	1466	1489	.	+	0	ID=cds:Hba_00326;Parent=transcript:Hba_00326
+Scaffold41	WormBase_imported	CDS	1886	1897	.	+	0	ID=cds:Hba_00326;Parent=transcript:Hba_00326
+Scaffold41	WormBase_imported	CDS	1952	1954	.	+	0	ID=cds:Hba_00326;Parent=transcript:Hba_00326
+Scaffold41	WormBase_imported	CDS	2117	2191	.	+	0	ID=cds:Hba_00326;Parent=transcript:Hba_00326
+Scaffold41	WormBase_imported	CDS	2303	2569	.	+	0	ID=cds:Hba_00326;Parent=transcript:Hba_00326
+Scaffold1250	WormBase_imported	gene	29645	32693	.	-	.	ID=gene:Hba_12524;Name=Hba_12524;biotype=protein_coding
+Scaffold1250	WormBase_imported	mRNA	29645	32693	.	-	.	ID=transcript:Hba_12524;Parent=gene:Hba_12524;Name=Hba_12524;info=method:InterPro accession:IPR010613 description:Pescadillo
+Scaffold1250	WormBase_imported	exon	32670	32693	.	-	.	ID=exon:Hba_12524.1;Parent=transcript:Hba_12524
+Scaffold1250	WormBase_imported	exon	32418	32516	.	-	.	ID=exon:Hba_12524.2;Parent=transcript:Hba_12524
+Scaffold1250	WormBase_imported	exon	32217	32351	.	-	.	ID=exon:Hba_12524.3;Parent=transcript:Hba_12524
+Scaffold1250	WormBase_imported	exon	31924	32037	.	-	.	ID=exon:Hba_12524.4;Parent=transcript:Hba_12524
+Scaffold1250	WormBase_imported	exon	31647	31667	.	-	.	ID=exon:Hba_12524.5;Parent=transcript:Hba_12524
+Scaffold1250	WormBase_imported	exon	31424	31525	.	-	.	ID=exon:Hba_12524.6;Parent=transcript:Hba_12524
+Scaffold1250	WormBase_imported	exon	31357	31380	.	-	.	ID=exon:Hba_12524.7;Parent=transcript:Hba_12524
+Scaffold1250	WormBase_imported	exon	31228	31345	.	-	.	ID=exon:Hba_12524.8;Parent=transcript:Hba_12524
+Scaffold1250	WormBase_imported	exon	31050	31141	.	-	.	ID=exon:Hba_12524.9;Parent=transcript:Hba_12524
+Scaffold1250	WormBase_imported	exon	30875	30949	.	-	.	ID=exon:Hba_12524.10;Parent=transcript:Hba_12524
+Scaffold1250	WormBase_imported	exon	29947	30117	.	-	.	ID=exon:Hba_12524.11;Parent=transcript:Hba_12524
+Scaffold1250	WormBase_imported	exon	29863	29880	.	-	.	ID=exon:Hba_12524.12;Parent=transcript:Hba_12524
+Scaffold1250	WormBase_imported	exon	29675	29677	.	-	.	ID=exon:Hba_12524.13;Parent=transcript:Hba_12524
+Scaffold1250	WormBase_imported	exon	29645	29647	.	-	.	ID=exon:Hba_12524.14;Parent=transcript:Hba_12524
+Scaffold1250	WormBase_imported	CDS	32670	32693	.	-	0	ID=cds:Hba_12524;Parent=transcript:Hba_12524
+Scaffold1250	WormBase_imported	CDS	32418	32516	.	-	0	ID=cds:Hba_12524;Parent=transcript:Hba_12524
+Scaffold1250	WormBase_imported	CDS	32217	32351	.	-	0	ID=cds:Hba_12524;Parent=transcript:Hba_12524
+Scaffold1250	WormBase_imported	CDS	31924	32037	.	-	0	ID=cds:Hba_12524;Parent=transcript:Hba_12524
+Scaffold1250	WormBase_imported	CDS	31647	31667	.	-	0	ID=cds:Hba_12524;Parent=transcript:Hba_12524
+Scaffold1250	WormBase_imported	CDS	31424	31525	.	-	0	ID=cds:Hba_12524;Parent=transcript:Hba_12524
+Scaffold1250	WormBase_imported	CDS	31357	31380	.	-	0	ID=cds:Hba_12524;Parent=transcript:Hba_12524
+Scaffold1250	WormBase_imported	CDS	31228	31345	.	-	0	ID=cds:Hba_12524;Parent=transcript:Hba_12524
+Scaffold1250	WormBase_imported	CDS	31050	31141	.	-	2	ID=cds:Hba_12524;Parent=transcript:Hba_12524
+Scaffold1250	WormBase_imported	CDS	30875	30949	.	-	0	ID=cds:Hba_12524;Parent=transcript:Hba_12524
+Scaffold1250	WormBase_imported	CDS	29947	30117	.	-	0	ID=cds:Hba_12524;Parent=transcript:Hba_12524
+Scaffold1250	WormBase_imported	CDS	29863	29880	.	-	0	ID=cds:Hba_12524;Parent=transcript:Hba_12524
+Scaffold1250	WormBase_imported	CDS	29675	29677	.	-	0	ID=cds:Hba_12524;Parent=transcript:Hba_12524
+Scaffold1250	WormBase_imported	CDS	29645	29647	.	-	0	ID=cds:Hba_12524;Parent=transcript:Hba_12524
+Scaffold847	WormBase_imported	gene	47943	51452	.	+	.	ID=gene:Hba_05283;Name=Hba_05283;biotype=protein_coding
+Scaffold847	WormBase_imported	mRNA	47943	51452	.	+	.	ID=transcript:Hba_05283;Parent=gene:Hba_05283;Name=Hba_05283
+Scaffold847	WormBase_imported	exon	47943	48071	.	+	.	ID=exon:Hba_05283.1;Parent=transcript:Hba_05283
+Scaffold847	WormBase_imported	exon	48153	48212	.	+	.	ID=exon:Hba_05283.2;Parent=transcript:Hba_05283
+Scaffold847	WormBase_imported	exon	48266	48382	.	+	.	ID=exon:Hba_05283.3;Parent=transcript:Hba_05283
+Scaffold847	WormBase_imported	exon	48482	48784	.	+	.	ID=exon:Hba_05283.4;Parent=transcript:Hba_05283
+Scaffold847	WormBase_imported	exon	49450	49479	.	+	.	ID=exon:Hba_05283.5;Parent=transcript:Hba_05283
+Scaffold847	WormBase_imported	exon	50391	50417	.	+	.	ID=exon:Hba_05283.6;Parent=transcript:Hba_05283
+Scaffold847	WormBase_imported	exon	51203	51205	.	+	.	ID=exon:Hba_05283.7;Parent=transcript:Hba_05283
+Scaffold847	WormBase_imported	exon	51405	51452	.	+	.	ID=exon:Hba_05283.8;Parent=transcript:Hba_05283
+Scaffold847	WormBase_imported	CDS	47943	48071	.	+	0	ID=cds:Hba_05283;Parent=transcript:Hba_05283
+Scaffold847	WormBase_imported	CDS	48153	48212	.	+	0	ID=cds:Hba_05283;Parent=transcript:Hba_05283
+Scaffold847	WormBase_imported	CDS	48266	48382	.	+	0	ID=cds:Hba_05283;Parent=transcript:Hba_05283
+Scaffold847	WormBase_imported	CDS	48482	48784	.	+	0	ID=cds:Hba_05283;Parent=transcript:Hba_05283
+Scaffold847	WormBase_imported	CDS	49450	49479	.	+	0	ID=cds:Hba_05283;Parent=transcript:Hba_05283
+Scaffold847	WormBase_imported	CDS	50391	50417	.	+	0	ID=cds:Hba_05283;Parent=transcript:Hba_05283
+Scaffold847	WormBase_imported	CDS	51203	51205	.	+	0	ID=cds:Hba_05283;Parent=transcript:Hba_05283
+Scaffold847	WormBase_imported	CDS	51405	51452	.	+	0	ID=cds:Hba_05283;Parent=transcript:Hba_05283
+Scaffold874	WormBase_imported	gene	54295	58900	.	+	.	ID=gene:Hba_05513;Name=Hba_05513;biotype=protein_coding
+Scaffold874	WormBase_imported	mRNA	54295	58900	.	+	.	ID=transcript:Hba_05513;Parent=gene:Hba_05513;Name=Hba_05513
+Scaffold874	WormBase_imported	exon	54295	54326	.	+	.	ID=exon:Hba_05513.1;Parent=transcript:Hba_05513
+Scaffold874	WormBase_imported	exon	54609	54625	.	+	.	ID=exon:Hba_05513.2;Parent=transcript:Hba_05513
+Scaffold874	WormBase_imported	exon	55770	55792	.	+	.	ID=exon:Hba_05513.3;Parent=transcript:Hba_05513
+Scaffold874	WormBase_imported	exon	55878	55892	.	+	.	ID=exon:Hba_05513.4;Parent=transcript:Hba_05513
+Scaffold874	WormBase_imported	exon	56218	56241	.	+	.	ID=exon:Hba_05513.5;Parent=transcript:Hba_05513
+Scaffold874	WormBase_imported	exon	56426	56440	.	+	.	ID=exon:Hba_05513.6;Parent=transcript:Hba_05513
+Scaffold874	WormBase_imported	exon	56501	56520	.	+	.	ID=exon:Hba_05513.7;Parent=transcript:Hba_05513
+Scaffold874	WormBase_imported	exon	56552	56670	.	+	.	ID=exon:Hba_05513.8;Parent=transcript:Hba_05513
+Scaffold874	WormBase_imported	exon	57057	57122	.	+	.	ID=exon:Hba_05513.9;Parent=transcript:Hba_05513
+Scaffold874	WormBase_imported	exon	57205	57375	.	+	.	ID=exon:Hba_05513.10;Parent=transcript:Hba_05513
+Scaffold874	WormBase_imported	exon	58848	58900	.	+	.	ID=exon:Hba_05513.11;Parent=transcript:Hba_05513
+Scaffold874	WormBase_imported	CDS	54295	54326	.	+	0	ID=cds:Hba_05513;Parent=transcript:Hba_05513
+Scaffold874	WormBase_imported	CDS	54609	54625	.	+	1	ID=cds:Hba_05513;Parent=transcript:Hba_05513
+Scaffold874	WormBase_imported	CDS	55770	55792	.	+	2	ID=cds:Hba_05513;Parent=transcript:Hba_05513
+Scaffold874	WormBase_imported	CDS	55878	55892	.	+	0	ID=cds:Hba_05513;Parent=transcript:Hba_05513
+Scaffold874	WormBase_imported	CDS	56218	56241	.	+	0	ID=cds:Hba_05513;Parent=transcript:Hba_05513
+Scaffold874	WormBase_imported	CDS	56426	56440	.	+	0	ID=cds:Hba_05513;Parent=transcript:Hba_05513
+Scaffold874	WormBase_imported	CDS	56501	56520	.	+	0	ID=cds:Hba_05513;Parent=transcript:Hba_05513
+Scaffold874	WormBase_imported	CDS	56552	56670	.	+	1	ID=cds:Hba_05513;Parent=transcript:Hba_05513
+Scaffold874	WormBase_imported	CDS	57057	57122	.	+	2	ID=cds:Hba_05513;Parent=transcript:Hba_05513
+Scaffold874	WormBase_imported	CDS	57205	57375	.	+	2	ID=cds:Hba_05513;Parent=transcript:Hba_05513
+Scaffold874	WormBase_imported	CDS	58848	58900	.	+	2	ID=cds:Hba_05513;Parent=transcript:Hba_05513
+Scaffold874	cmscan_rfam_12.2	nucleotide_match	51240	51311	36.8	+	.	ID=cmscan_rfam_12.2.212;Name=tRNA-Sec;Target=tRNA-Sec 1 91;Gap=M8 D2 M38 I16 M18 D M8 
+Scaffold874	cmscan_rfam_12.2	nucleotide_match	51240	51312	66	+	.	ID=cmscan_rfam_12.2.211;Name=tRNA;Target=tRNA 1 71;Gap=M19 I M26 I M26 
+Scaffold874	RepeatMasker	repeat_region	189	785	848	+	.	Name=rnd-1_family-261;repeat_class=LTR/Pao
+Scaffold874	RepeatMasker	repeat_region	1684	2651	2365	+	.	Name=rnd-1_family-239;repeat_class=LTR/Pao
+Scaffold874	RepeatMasker	repeat_region	3326	3582	2061	-	.	
+Scaffold874	dust	low_complexity_region	3380	3422	.	-	.	
+Scaffold874	RepeatMasker	repeat_region	3434	3733	2325	+	.	
+Scaffold874	RepeatMasker	repeat_region	4960	5101	812	-	.	
+Scaffold874	RepeatMasker	repeat_region	5090	5440	1669	-	.	
+Scaffold874	dust	low_complexity_region	5441	6060	.	-	.	
+Scaffold874	RepeatMasker	repeat_region	6061	6555	2302	+	.	
+Scaffold874	RepeatMasker	repeat_region	6549	6649	308	+	.	
+Scaffold874	dust	low_complexity_region	7083	7089	.	-	.	
+Scaffold874	dust	low_complexity_region	7153	7190	.	-	.	
+Scaffold874	dust	low_complexity_region	7488	7496	.	-	.	
+Scaffold874	tandem	tandem_repeat	9451	9472	44	-	.	
+Scaffold874	dust	low_complexity_region	9451	9472	.	-	.	
+Scaffold874	dust	low_complexity_region	10595	10601	.	-	.	
+Scaffold874	dust	low_complexity_region	11528	11534	.	-	.	
+Scaffold874	dust	low_complexity_region	12065	12085	.	-	.	
+Scaffold874	dust	low_complexity_region	12271	12278	.	-	.	
+Scaffold874	dust	low_complexity_region	14040	14047	.	-	.	
+Scaffold874	dust	low_complexity_region	14239	14245	.	-	.	
+Scaffold874	dust	low_complexity_region	14651	14658	.	-	.	
+Scaffold874	dust	low_complexity_region	15395	15458	.	-	.	
+Scaffold874	tandem	tandem_repeat	15438	15457	40	-	.	
+Scaffold874	dust	low_complexity_region	15872	15879	.	-	.	
+Scaffold874	dust	low_complexity_region	16063	16080	.	-	.	
+Scaffold874	dust	low_complexity_region	17273	17280	.	-	.	
+Scaffold874	dust	low_complexity_region	18249	18255	.	-	.	
+Scaffold874	dust	low_complexity_region	18392	18438	.	-	.	
+Scaffold874	dust	low_complexity_region	18506	18520	.	-	.	
+Scaffold874	dust	low_complexity_region	18546	18552	.	-	.	
+Scaffold874	dust	low_complexity_region	20958	20964	.	-	.	
+Scaffold874	dust	low_complexity_region	22127	22167	.	-	.	
+Scaffold874	dust	low_complexity_region	22691	22699	.	-	.	
+Scaffold874	dust	low_complexity_region	23325	23332	.	-	.	
+Scaffold874	dust	low_complexity_region	24256	24311	.	-	.	
+Scaffold874	dust	low_complexity_region	24499	24506	.	-	.	
+Scaffold874	dust	low_complexity_region	25447	25453	.	-	.	
+Scaffold874	dust	low_complexity_region	25883	25889	.	-	.	
+Scaffold874	dust	low_complexity_region	26753	26818	.	-	.	
+Scaffold874	dust	low_complexity_region	27466	27472	.	-	.	
+Scaffold874	dust	low_complexity_region	27822	27828	.	-	.	
+Scaffold874	tandem	tandem_repeat	28346	28378	52	-	.	
+Scaffold874	dust	low_complexity_region	28438	28456	.	-	.	
+Scaffold874	dust	low_complexity_region	30829	30844	.	-	.	
+Scaffold874	dust	low_complexity_region	31324	31330	.	-	.	
+Scaffold874	dust	low_complexity_region	31419	31425	.	-	.	
+Scaffold874	dust	low_complexity_region	33077	33142	.	-	.	
+Scaffold874	dust	low_complexity_region	33742	33808	.	-	.	
+Scaffold874	dust	low_complexity_region	33909	33915	.	-	.	
+Scaffold874	dust	low_complexity_region	34637	34643	.	-	.	
+Scaffold874	dust	low_complexity_region	34949	35022	.	-	.	
+Scaffold874	dust	low_complexity_region	35428	35434	.	-	.	
+Scaffold874	dust	low_complexity_region	36309	36316	.	-	.	
+Scaffold874	dust	low_complexity_region	36625	36631	.	-	.	
+Scaffold874	dust	low_complexity_region	37203	37282	.	-	.	
+Scaffold874	dust	low_complexity_region	37740	37805	.	-	.	
+Scaffold874	dust	low_complexity_region	41922	41982	.	-	.	
+Scaffold874	dust	low_complexity_region	42369	42375	.	-	.	
+Scaffold874	dust	low_complexity_region	43121	43127	.	-	.	
+Scaffold874	dust	low_complexity_region	44988	44994	.	-	.	
+Scaffold874	dust	low_complexity_region	45159	45218	.	-	.	
+Scaffold874	dust	low_complexity_region	45837	45843	.	-	.	
+Scaffold874	dust	low_complexity_region	46434	46491	.	-	.	
+Scaffold874	dust	low_complexity_region	48932	48939	.	-	.	
+Scaffold874	dust	low_complexity_region	49152	49158	.	-	.	
+Scaffold874	dust	low_complexity_region	49481	49539	.	-	.	
+Scaffold874	dust	low_complexity_region	50541	50623	.	-	.	
+Scaffold874	dust	low_complexity_region	50749	50806	.	-	.	
+Scaffold874	dust	low_complexity_region	51149	51205	.	-	.	
+Scaffold874	dust	low_complexity_region	51503	51510	.	-	.	
+Scaffold874	dust	low_complexity_region	51991	51997	.	-	.	
+Scaffold874	dust	low_complexity_region	52032	52038	.	-	.	
+Scaffold874	dust	low_complexity_region	52202	52256	.	-	.	
+Scaffold874	dust	low_complexity_region	53372	53378	.	-	.	
+Scaffold874	tandem	tandem_repeat	54206	54243	76	-	.	
+Scaffold874	dust	low_complexity_region	54206	54243	.	-	.	
+Scaffold874	dust	low_complexity_region	54636	54642	.	-	.	
+Scaffold874	dust	low_complexity_region	55297	55360	.	-	.	
+Scaffold874	dust	low_complexity_region	55432	55438	.	-	.	
+Scaffold874	RepeatMasker	repeat_region	55541	57125	11048	-	.	Name=rnd-1_family-4;repeat_class=DNA/TcMar-Tc1
+Scaffold874	dust	low_complexity_region	55575	55591	.	-	.	
+Scaffold874	dust	low_complexity_region	55619	55625	.	-	.	
+Scaffold874	dust	low_complexity_region	56880	56887	.	-	.	
+Scaffold874	dust	low_complexity_region	56974	56980	.	-	.	
+Scaffold874	dust	low_complexity_region	57074	57095	.	-	.	
+Scaffold874	dust	low_complexity_region	58832	58839	.	-	.	
+Scaffold874	RepeatMasker	repeat_region	59029	59471	3002	-	.	Name=rnd-1_family-69;repeat_class=DNA/TcMar-Mariner
+Scaffold874	RepeatMasker	repeat_region	59444	59967	2880	-	.	Name=rnd-1_family-69;repeat_class=DNA/TcMar-Mariner
+Scaffold874	RepeatMasker	repeat_region	60015	60238	656	-	.	
+Scaffold874	RepeatMasker	repeat_region	60104	60304	531	+	.	
+Scaffold874	RepeatMasker	repeat_region	60373	60448	322	+	.	Name=rnd-1_family-145;repeat_class=DNA/TcMar-Tc1
+Scaffold874	RepeatMasker	repeat_region	60476	60709	919	-	.	Name=rnd-3_family-4;repeat_class=DNA/TcMar-Tc1
+Scaffold874	dust	low_complexity_region	60515	60523	.	-	.	
+Scaffold874	RepeatMasker	repeat_region	60772	60859	264	+	.	
+Scaffold874	RepeatMasker	repeat_region	60876	61390	3733	-	.	Name=rnd-1_family-4;repeat_class=DNA/TcMar-Tc1
+Scaffold874	dust	low_complexity_region	60909	60925	.	-	.	
+Scaffold874	dust	low_complexity_region	60953	60959	.	-	.	
+Scaffold1181	WormBase_imported	gene	51547	54557	.	+	.	ID=gene:Hba_10865;Name=Hba_10865;biotype=protein_coding
+Scaffold1181	WormBase_imported	mRNA	51547	54557	.	+	.	ID=transcript:Hba_10865;Parent=gene:Hba_10865;Name=Hba_10865
+Scaffold1181	WormBase_imported	exon	51547	51684	.	+	.	ID=exon:Hba_10865.1;Parent=transcript:Hba_10865
+Scaffold1181	WormBase_imported	exon	52055	52078	.	+	.	ID=exon:Hba_10865.2;Parent=transcript:Hba_10865
+Scaffold1181	WormBase_imported	exon	52145	52150	.	+	.	ID=exon:Hba_10865.3;Parent=transcript:Hba_10865
+Scaffold1181	WormBase_imported	exon	53063	53065	.	+	.	ID=exon:Hba_10865.4;Parent=transcript:Hba_10865
+Scaffold1181	WormBase_imported	exon	53186	53188	.	+	.	ID=exon:Hba_10865.5;Parent=transcript:Hba_10865
+Scaffold1181	WormBase_imported	exon	53450	53464	.	+	.	ID=exon:Hba_10865.6;Parent=transcript:Hba_10865
+Scaffold1181	WormBase_imported	exon	53484	53513	.	+	.	ID=exon:Hba_10865.7;Parent=transcript:Hba_10865
+Scaffold1181	WormBase_imported	exon	53532	53606	.	+	.	ID=exon:Hba_10865.8;Parent=transcript:Hba_10865
+Scaffold1181	WormBase_imported	exon	53937	53939	.	+	.	ID=exon:Hba_10865.9;Parent=transcript:Hba_10865
+Scaffold1181	WormBase_imported	exon	54342	54350	.	+	.	ID=exon:Hba_10865.10;Parent=transcript:Hba_10865
+Scaffold1181	WormBase_imported	exon	54372	54557	.	+	.	ID=exon:Hba_10865.11;Parent=transcript:Hba_10865
+Scaffold1181	WormBase_imported	CDS	51547	51684	.	+	0	ID=cds:Hba_10865;Parent=transcript:Hba_10865
+Scaffold1181	WormBase_imported	CDS	52055	52078	.	+	0	ID=cds:Hba_10865;Parent=transcript:Hba_10865
+Scaffold1181	WormBase_imported	CDS	52145	52150	.	+	0	ID=cds:Hba_10865;Parent=transcript:Hba_10865
+Scaffold1181	WormBase_imported	CDS	53063	53065	.	+	0	ID=cds:Hba_10865;Parent=transcript:Hba_10865
+Scaffold1181	WormBase_imported	CDS	53186	53188	.	+	0	ID=cds:Hba_10865;Parent=transcript:Hba_10865
+Scaffold1181	WormBase_imported	CDS	53450	53464	.	+	0	ID=cds:Hba_10865;Parent=transcript:Hba_10865
+Scaffold1181	WormBase_imported	CDS	53484	53513	.	+	0	ID=cds:Hba_10865;Parent=transcript:Hba_10865
+Scaffold1181	WormBase_imported	CDS	53532	53606	.	+	0	ID=cds:Hba_10865;Parent=transcript:Hba_10865
+Scaffold1181	WormBase_imported	CDS	53937	53939	.	+	0	ID=cds:Hba_10865;Parent=transcript:Hba_10865
+Scaffold1181	WormBase_imported	CDS	54342	54350	.	+	0	ID=cds:Hba_10865;Parent=transcript:Hba_10865
+Scaffold1181	WormBase_imported	CDS	54372	54557	.	+	0	ID=cds:Hba_10865;Parent=transcript:Hba_10865
+Scaffold992	WormBase_imported	gene	37030	38298	.	+	.	ID=gene:Hba_06635;Name=Hba_06635;biotype=protein_coding
+Scaffold992	WormBase_imported	mRNA	37030	38298	.	+	.	ID=transcript:Hba_06635;Parent=gene:Hba_06635;Name=Hba_06635
+Scaffold992	WormBase_imported	exon	37030	37047	.	+	.	ID=exon:Hba_06635.1;Parent=transcript:Hba_06635
+Scaffold992	WormBase_imported	exon	37258	37260	.	+	.	ID=exon:Hba_06635.2;Parent=transcript:Hba_06635
+Scaffold992	WormBase_imported	exon	37341	37437	.	+	.	ID=exon:Hba_06635.3;Parent=transcript:Hba_06635
+Scaffold992	WormBase_imported	exon	37501	37634	.	+	.	ID=exon:Hba_06635.4;Parent=transcript:Hba_06635
+Scaffold992	WormBase_imported	exon	37669	37695	.	+	.	ID=exon:Hba_06635.5;Parent=transcript:Hba_06635
+Scaffold992	WormBase_imported	exon	37742	37744	.	+	.	ID=exon:Hba_06635.6;Parent=transcript:Hba_06635
+Scaffold992	WormBase_imported	exon	38278	38298	.	+	.	ID=exon:Hba_06635.7;Parent=transcript:Hba_06635
+Scaffold992	WormBase_imported	CDS	37030	37047	.	+	0	ID=cds:Hba_06635;Parent=transcript:Hba_06635
+Scaffold992	WormBase_imported	CDS	37258	37260	.	+	0	ID=cds:Hba_06635;Parent=transcript:Hba_06635
+Scaffold992	WormBase_imported	CDS	37341	37437	.	+	0	ID=cds:Hba_06635;Parent=transcript:Hba_06635
+Scaffold992	WormBase_imported	CDS	37501	37634	.	+	2	ID=cds:Hba_06635;Parent=transcript:Hba_06635
+Scaffold992	WormBase_imported	CDS	37669	37695	.	+	0	ID=cds:Hba_06635;Parent=transcript:Hba_06635
+Scaffold992	WormBase_imported	CDS	37742	37744	.	+	0	ID=cds:Hba_06635;Parent=transcript:Hba_06635
+Scaffold992	WormBase_imported	CDS	38278	38298	.	+	0	ID=cds:Hba_06635;Parent=transcript:Hba_06635
+Scaffold1238	WormBase_imported	gene	50578	52638	.	+	.	ID=gene:Hba_12093;Name=Hba_12093;biotype=protein_coding
+Scaffold1238	WormBase_imported	mRNA	50578	52638	.	+	.	ID=transcript:Hba_12093;Parent=gene:Hba_12093;Name=Hba_12093
+Scaffold1238	WormBase_imported	exon	50578	50771	.	+	.	ID=exon:Hba_12093.1;Parent=transcript:Hba_12093
+Scaffold1238	WormBase_imported	exon	51578	51669	.	+	.	ID=exon:Hba_12093.2;Parent=transcript:Hba_12093
+Scaffold1238	WormBase_imported	exon	52234	52262	.	+	.	ID=exon:Hba_12093.3;Parent=transcript:Hba_12093
+Scaffold1238	WormBase_imported	exon	52308	52310	.	+	.	ID=exon:Hba_12093.4;Parent=transcript:Hba_12093
+Scaffold1238	WormBase_imported	exon	52569	52574	.	+	.	ID=exon:Hba_12093.5;Parent=transcript:Hba_12093
+Scaffold1238	WormBase_imported	exon	52621	52638	.	+	.	ID=exon:Hba_12093.6;Parent=transcript:Hba_12093
+Scaffold1238	WormBase_imported	CDS	50578	50771	.	+	0	ID=cds:Hba_12093;Parent=transcript:Hba_12093
+Scaffold1238	WormBase_imported	CDS	51578	51669	.	+	1	ID=cds:Hba_12093;Parent=transcript:Hba_12093
+Scaffold1238	WormBase_imported	CDS	52234	52262	.	+	2	ID=cds:Hba_12093;Parent=transcript:Hba_12093
+Scaffold1238	WormBase_imported	CDS	52308	52310	.	+	0	ID=cds:Hba_12093;Parent=transcript:Hba_12093
+Scaffold1238	WormBase_imported	CDS	52569	52574	.	+	0	ID=cds:Hba_12093;Parent=transcript:Hba_12093
+Scaffold1238	WormBase_imported	CDS	52621	52638	.	+	0	ID=cds:Hba_12093;Parent=transcript:Hba_12093
+Scaffold1238	RepeatMasker	repeat_region	1	807	5493	-	.	
+Scaffold1238	RepeatMasker	repeat_region	96	3021	18040	+	.	
+Scaffold1238	dust	low_complexity_region	339	345	.	-	.	
+Scaffold1238	tandem	tandem_repeat	1822	1887	83	-	.	
+Scaffold1238	dust	low_complexity_region	2672	2678	.	-	.	
+Scaffold1238	dust	low_complexity_region	3244	3252	.	-	.	
+Scaffold1238	dust	low_complexity_region	3782	3794	.	-	.	
+Scaffold1238	dust	low_complexity_region	3965	3971	.	-	.	
+Scaffold1238	dust	low_complexity_region	6074	6144	.	-	.	
+Scaffold1238	dust	low_complexity_region	6538	6566	.	-	.	
+Scaffold1238	dust	low_complexity_region	7082	7088	.	-	.	
+Scaffold1238	dust	low_complexity_region	7199	7217	.	-	.	
+Scaffold1238	dust	low_complexity_region	7814	7820	.	-	.	
+Scaffold1238	dust	low_complexity_region	8476	8482	.	-	.	
+Scaffold1238	dust	low_complexity_region	9949	9955	.	-	.	
+Scaffold1238	dust	low_complexity_region	10010	10018	.	-	.	
+Scaffold1238	tandem	tandem_repeat	10623	10652	46	-	.	
+Scaffold1238	dust	low_complexity_region	10623	10642	.	-	.	
+Scaffold1238	dust	low_complexity_region	12153	12159	.	-	.	
+Scaffold1238	dust	low_complexity_region	12753	12760	.	-	.	
+Scaffold1238	dust	low_complexity_region	13953	13959	.	-	.	
+Scaffold1238	dust	low_complexity_region	15277	15285	.	-	.	
+Scaffold1238	dust	low_complexity_region	16046	16058	.	-	.	
+Scaffold1238	dust	low_complexity_region	16167	16173	.	-	.	
+Scaffold1238	dust	low_complexity_region	16235	16285	.	-	.	
+Scaffold1238	dust	low_complexity_region	16798	16827	.	-	.	
+Scaffold1238	dust	low_complexity_region	18627	18651	.	-	.	
+Scaffold1238	dust	low_complexity_region	19847	19856	.	-	.	
+Scaffold1238	dust	low_complexity_region	20347	20354	.	-	.	
+Scaffold1238	dust	low_complexity_region	21114	21120	.	-	.	
+Scaffold1238	dust	low_complexity_region	22102	22110	.	-	.	
+Scaffold1238	dust	low_complexity_region	22321	22327	.	-	.	
+Scaffold1238	dust	low_complexity_region	23390	23398	.	-	.	
+Scaffold1238	dust	low_complexity_region	23900	23906	.	-	.	
+Scaffold1238	dust	low_complexity_region	25477	25484	.	-	.	
+Scaffold1238	tandem	tandem_repeat	25533	25563	55	-	.	
+Scaffold1238	dust	low_complexity_region	25533	25563	.	-	.	
+Scaffold1238	dust	low_complexity_region	25585	25592	.	-	.	
+Scaffold1238	dust	low_complexity_region	25962	25970	.	-	.	
+Scaffold1238	dust	low_complexity_region	26851	26857	.	-	.	
+Scaffold1238	dust	low_complexity_region	28117	28124	.	-	.	
+Scaffold1238	dust	low_complexity_region	29532	29584	.	-	.	
+Scaffold1238	RepeatMasker	repeat_region	30163	31737	11024	-	.	Name=rnd-1_family-18;repeat_class=DNA/TcMar-Tc1
+Scaffold1238	tandem	tandem_repeat	31266	31285	40	-	.	
+Scaffold1238	dust	low_complexity_region	33035	33095	.	-	.	
+Scaffold1238	dust	low_complexity_region	33851	33857	.	-	.	
+Scaffold1238	dust	low_complexity_region	34214	34268	.	-	.	
+Scaffold1238	dust	low_complexity_region	35397	35404	.	-	.	
+Scaffold1238	dust	low_complexity_region	37356	37363	.	-	.	
+Scaffold1238	dust	low_complexity_region	37756	37762	.	-	.	
+Scaffold1238	dust	low_complexity_region	38695	38701	.	-	.	
+Scaffold1238	dust	low_complexity_region	39544	39550	.	-	.	
+Scaffold1238	dust	low_complexity_region	39647	39677	.	-	.	
+Scaffold1238	dust	low_complexity_region	40535	40541	.	-	.	
+Scaffold1238	dust	low_complexity_region	41018	41026	.	-	.	
+Scaffold1238	dust	low_complexity_region	41290	41353	.	-	.	
+Scaffold1238	dust	low_complexity_region	41620	41628	.	-	.	
+Scaffold1238	dust	low_complexity_region	41798	41817	.	-	.	
+Scaffold1238	tandem	tandem_repeat	42841	42862	44	-	.	
+Scaffold1238	dust	low_complexity_region	42841	42862	.	-	.	
+Scaffold1238	dust	low_complexity_region	43216	43288	.	-	.	
+Scaffold1238	dust	low_complexity_region	44841	44847	.	-	.	
+Scaffold1238	dust	low_complexity_region	46038	46082	.	-	.	
+Scaffold1238	dust	low_complexity_region	46336	46363	.	-	.	
+Scaffold1238	RepeatMasker	repeat_region	48303	48595	2599	-	.	
+Scaffold1238	RepeatMasker	repeat_region	50856	51876	654	+	.	Name=rnd-1_family-239;repeat_class=LTR/Pao
+Scaffold1238	RepeatMasker	repeat_region	52251	52540	491	+	.	Name=rnd-1_family-162;repeat_class=LTR/Pao
+Scaffold1032	WormBase_imported	gene	4165	4850	.	-	.	ID=gene:Hba_07529;Name=Hba_07529;biotype=protein_coding
+Scaffold1032	WormBase_imported	mRNA	4165	4850	.	-	.	ID=transcript:Hba_07529;Parent=gene:Hba_07529;Name=Hba_07529;info=method:InterPro accession:IPR038717 description:Tc1-like transposase%2C DDE domain
+Scaffold1032	WormBase_imported	exon	4774	4850	.	-	.	ID=exon:Hba_07529.1;Parent=transcript:Hba_07529
+Scaffold1032	WormBase_imported	exon	4462	4606	.	-	.	ID=exon:Hba_07529.2;Parent=transcript:Hba_07529
+Scaffold1032	WormBase_imported	exon	4411	4434	.	-	.	ID=exon:Hba_07529.3;Parent=transcript:Hba_07529
+Scaffold1032	WormBase_imported	exon	4362	4367	.	-	.	ID=exon:Hba_07529.4;Parent=transcript:Hba_07529
+Scaffold1032	WormBase_imported	exon	4327	4347	.	-	.	ID=exon:Hba_07529.5;Parent=transcript:Hba_07529
+Scaffold1032	WormBase_imported	exon	4165	4296	.	-	.	ID=exon:Hba_07529.6;Parent=transcript:Hba_07529
+Scaffold1032	WormBase_imported	CDS	4774	4850	.	-	0	ID=cds:Hba_07529;Parent=transcript:Hba_07529
+Scaffold1032	WormBase_imported	CDS	4462	4606	.	-	1	ID=cds:Hba_07529;Parent=transcript:Hba_07529
+Scaffold1032	WormBase_imported	CDS	4411	4434	.	-	0	ID=cds:Hba_07529;Parent=transcript:Hba_07529
+Scaffold1032	WormBase_imported	CDS	4362	4367	.	-	0	ID=cds:Hba_07529;Parent=transcript:Hba_07529
+Scaffold1032	WormBase_imported	CDS	4327	4347	.	-	0	ID=cds:Hba_07529;Parent=transcript:Hba_07529
+Scaffold1032	WormBase_imported	CDS	4165	4296	.	-	0	ID=cds:Hba_07529;Parent=transcript:Hba_07529
+Scaffold1164	WormBase_imported	gene	19179	22565	.	+	.	ID=gene:Hba_10512;Name=Hba_10512;biotype=protein_coding
+Scaffold1164	WormBase_imported	mRNA	19179	22565	.	+	.	ID=transcript:Hba_10512;Parent=gene:Hba_10512;Name=Hba_10512
+Scaffold1164	WormBase_imported	exon	19179	19187	.	+	.	ID=exon:Hba_10512.1;Parent=transcript:Hba_10512
+Scaffold1164	WormBase_imported	exon	19993	19995	.	+	.	ID=exon:Hba_10512.2;Parent=transcript:Hba_10512
+Scaffold1164	WormBase_imported	exon	20050	20055	.	+	.	ID=exon:Hba_10512.3;Parent=transcript:Hba_10512
+Scaffold1164	WormBase_imported	exon	20124	20189	.	+	.	ID=exon:Hba_10512.4;Parent=transcript:Hba_10512
+Scaffold1164	WormBase_imported	exon	20324	20434	.	+	.	ID=exon:Hba_10512.5;Parent=transcript:Hba_10512
+Scaffold1164	WormBase_imported	exon	20675	20700	.	+	.	ID=exon:Hba_10512.6;Parent=transcript:Hba_10512
+Scaffold1164	WormBase_imported	exon	20782	20842	.	+	.	ID=exon:Hba_10512.7;Parent=transcript:Hba_10512
+Scaffold1164	WormBase_imported	exon	22112	22144	.	+	.	ID=exon:Hba_10512.8;Parent=transcript:Hba_10512
+Scaffold1164	WormBase_imported	exon	22207	22251	.	+	.	ID=exon:Hba_10512.9;Parent=transcript:Hba_10512
+Scaffold1164	WormBase_imported	exon	22485	22565	.	+	.	ID=exon:Hba_10512.10;Parent=transcript:Hba_10512
+Scaffold1164	WormBase_imported	CDS	19179	19187	.	+	0	ID=cds:Hba_10512;Parent=transcript:Hba_10512
+Scaffold1164	WormBase_imported	CDS	19993	19995	.	+	0	ID=cds:Hba_10512;Parent=transcript:Hba_10512
+Scaffold1164	WormBase_imported	CDS	20050	20055	.	+	0	ID=cds:Hba_10512;Parent=transcript:Hba_10512
+Scaffold1164	WormBase_imported	CDS	20124	20189	.	+	0	ID=cds:Hba_10512;Parent=transcript:Hba_10512
+Scaffold1164	WormBase_imported	CDS	20324	20434	.	+	0	ID=cds:Hba_10512;Parent=transcript:Hba_10512
+Scaffold1164	WormBase_imported	CDS	20675	20700	.	+	0	ID=cds:Hba_10512;Parent=transcript:Hba_10512
+Scaffold1164	WormBase_imported	CDS	20782	20842	.	+	1	ID=cds:Hba_10512;Parent=transcript:Hba_10512
+Scaffold1164	WormBase_imported	CDS	22112	22144	.	+	0	ID=cds:Hba_10512;Parent=transcript:Hba_10512
+Scaffold1164	WormBase_imported	CDS	22207	22251	.	+	0	ID=cds:Hba_10512;Parent=transcript:Hba_10512
+Scaffold1164	WormBase_imported	CDS	22485	22565	.	+	0	ID=cds:Hba_10512;Parent=transcript:Hba_10512
+Scaffold2	WormBase_imported	gene	19140	21104	.	-	.	ID=gene:Hba_00020;Name=Hba_00020;biotype=protein_coding;description=Tubulin alpha chain;description_source=UniProtKB/TrEMBL;description_source_acc=A0A1I7W5Y8
+Scaffold2	WormBase_imported	mRNA	19140	21104	.	-	.	ID=transcript:Hba_00020;Parent=gene:Hba_00020;Name=Hba_00020;info=method:InterPro accession:IPR000217 description:Tubulin %0Amethod:InterPro accession:IPR002452 description:Alpha tubulin %0Amethod:InterPro accession:IPR003008 description:Tubulin/FtsZ%2C GTPase domain %0Amethod:InterPro accession:IPR008280 description:Tubulin/FtsZ%2C C-terminal %0Amethod:InterPro accession:IPR017975 description:Tubulin%2C conserved site %0Amethod:InterPro accession:IPR018316 description:Tubulin/FtsZ%2C 2-layer sandwich domain %0Amethod:InterPro accession:IPR036525 description:Tubulin/FtsZ%2C GTPase domain superfamily %0Amethod:InterPro accession:IPR037103 description:Tubulin/FtsZ%2C C-terminal domain superfamily
+Scaffold2	WormBase_imported	exon	20917	21104	.	-	.	ID=exon:Hba_00020.1;Parent=transcript:Hba_00020
+Scaffold2	WormBase_imported	exon	20509	20671	.	-	.	ID=exon:Hba_00020.2;Parent=transcript:Hba_00020
+Scaffold2	WormBase_imported	exon	20298	20425	.	-	.	ID=exon:Hba_00020.3;Parent=transcript:Hba_00020
+Scaffold2	WormBase_imported	exon	20011	20161	.	-	.	ID=exon:Hba_00020.4;Parent=transcript:Hba_00020
+Scaffold2	WormBase_imported	exon	19828	19935	.	-	.	ID=exon:Hba_00020.5;Parent=transcript:Hba_00020
+Scaffold2	WormBase_imported	exon	19697	19768	.	-	.	ID=exon:Hba_00020.6;Parent=transcript:Hba_00020
+Scaffold2	WormBase_imported	exon	19533	19631	.	-	.	ID=exon:Hba_00020.7;Parent=transcript:Hba_00020
+Scaffold2	WormBase_imported	exon	19348	19449	.	-	.	ID=exon:Hba_00020.8;Parent=transcript:Hba_00020
+Scaffold2	WormBase_imported	exon	19259	19270	.	-	.	ID=exon:Hba_00020.9;Parent=transcript:Hba_00020
+Scaffold2	WormBase_imported	exon	19192	19197	.	-	.	ID=exon:Hba_00020.10;Parent=transcript:Hba_00020
+Scaffold2	WormBase_imported	exon	19140	19160	.	-	.	ID=exon:Hba_00020.11;Parent=transcript:Hba_00020
+Scaffold2	WormBase_imported	CDS	20917	21104	.	-	0	ID=cds:Hba_00020;Parent=transcript:Hba_00020
+Scaffold2	WormBase_imported	CDS	20509	20671	.	-	1	ID=cds:Hba_00020;Parent=transcript:Hba_00020
+Scaffold2	WormBase_imported	CDS	20298	20425	.	-	0	ID=cds:Hba_00020;Parent=transcript:Hba_00020
+Scaffold2	WormBase_imported	CDS	20011	20161	.	-	1	ID=cds:Hba_00020;Parent=transcript:Hba_00020
+Scaffold2	WormBase_imported	CDS	19828	19935	.	-	0	ID=cds:Hba_00020;Parent=transcript:Hba_00020
+Scaffold2	WormBase_imported	CDS	19697	19768	.	-	0	ID=cds:Hba_00020;Parent=transcript:Hba_00020
+Scaffold2	WormBase_imported	CDS	19533	19631	.	-	0	ID=cds:Hba_00020;Parent=transcript:Hba_00020
+Scaffold2	WormBase_imported	CDS	19348	19449	.	-	0	ID=cds:Hba_00020;Parent=transcript:Hba_00020
+Scaffold2	WormBase_imported	CDS	19259	19270	.	-	0	ID=cds:Hba_00020;Parent=transcript:Hba_00020
+Scaffold2	WormBase_imported	CDS	19192	19197	.	-	0	ID=cds:Hba_00020;Parent=transcript:Hba_00020
+Scaffold2	WormBase_imported	CDS	19140	19160	.	-	0	ID=cds:Hba_00020;Parent=transcript:Hba_00020
+Scaffold647	WormBase_imported	gene	23477	24689	.	+	.	ID=gene:Hba_03723;Name=Hba_03723;biotype=protein_coding
+Scaffold647	WormBase_imported	mRNA	23477	24689	.	+	.	ID=transcript:Hba_03723;Parent=gene:Hba_03723;Name=Hba_03723
+Scaffold647	WormBase_imported	exon	23477	23479	.	+	.	ID=exon:Hba_03723.1;Parent=transcript:Hba_03723
+Scaffold647	WormBase_imported	exon	23504	23509	.	+	.	ID=exon:Hba_03723.2;Parent=transcript:Hba_03723
+Scaffold647	WormBase_imported	exon	23861	23875	.	+	.	ID=exon:Hba_03723.3;Parent=transcript:Hba_03723
+Scaffold647	WormBase_imported	exon	24025	24052	.	+	.	ID=exon:Hba_03723.4;Parent=transcript:Hba_03723
+Scaffold647	WormBase_imported	exon	24278	24291	.	+	.	ID=exon:Hba_03723.5;Parent=transcript:Hba_03723
+Scaffold647	WormBase_imported	exon	24609	24639	.	+	.	ID=exon:Hba_03723.6;Parent=transcript:Hba_03723
+Scaffold647	WormBase_imported	exon	24676	24689	.	+	.	ID=exon:Hba_03723.7;Parent=transcript:Hba_03723
+Scaffold647	WormBase_imported	CDS	23477	23479	.	+	0	ID=cds:Hba_03723;Parent=transcript:Hba_03723
+Scaffold647	WormBase_imported	CDS	23504	23509	.	+	0	ID=cds:Hba_03723;Parent=transcript:Hba_03723
+Scaffold647	WormBase_imported	CDS	23861	23875	.	+	0	ID=cds:Hba_03723;Parent=transcript:Hba_03723
+Scaffold647	WormBase_imported	CDS	24025	24052	.	+	0	ID=cds:Hba_03723;Parent=transcript:Hba_03723
+Scaffold647	WormBase_imported	CDS	24278	24291	.	+	2	ID=cds:Hba_03723;Parent=transcript:Hba_03723
+Scaffold647	WormBase_imported	CDS	24609	24639	.	+	0	ID=cds:Hba_03723;Parent=transcript:Hba_03723
+Scaffold647	WormBase_imported	CDS	24676	24689	.	+	2	ID=cds:Hba_03723;Parent=transcript:Hba_03723
+Scaffold1081	WormBase_imported	gene	15467	18576	.	+	.	ID=gene:Hba_08810;Name=Hba_08810;biotype=protein_coding
+Scaffold1081	WormBase_imported	mRNA	15467	18576	.	+	.	ID=transcript:Hba_08810;Parent=gene:Hba_08810;Name=Hba_08810
+Scaffold1081	WormBase_imported	exon	15467	15491	.	+	.	ID=exon:Hba_08810.1;Parent=transcript:Hba_08810
+Scaffold1081	WormBase_imported	exon	15626	15815	.	+	.	ID=exon:Hba_08810.2;Parent=transcript:Hba_08810
+Scaffold1081	WormBase_imported	exon	17197	17308	.	+	.	ID=exon:Hba_08810.3;Parent=transcript:Hba_08810
+Scaffold1081	WormBase_imported	exon	17817	17831	.	+	.	ID=exon:Hba_08810.4;Parent=transcript:Hba_08810
+Scaffold1081	WormBase_imported	exon	18233	18235	.	+	.	ID=exon:Hba_08810.5;Parent=transcript:Hba_08810
+Scaffold1081	WormBase_imported	exon	18559	18576	.	+	.	ID=exon:Hba_08810.6;Parent=transcript:Hba_08810
+Scaffold1081	WormBase_imported	CDS	15467	15491	.	+	0	ID=cds:Hba_08810;Parent=transcript:Hba_08810
+Scaffold1081	WormBase_imported	CDS	15626	15815	.	+	2	ID=cds:Hba_08810;Parent=transcript:Hba_08810
+Scaffold1081	WormBase_imported	CDS	17197	17308	.	+	1	ID=cds:Hba_08810;Parent=transcript:Hba_08810
+Scaffold1081	WormBase_imported	CDS	17817	17831	.	+	0	ID=cds:Hba_08810;Parent=transcript:Hba_08810
+Scaffold1081	WormBase_imported	CDS	18233	18235	.	+	0	ID=cds:Hba_08810;Parent=transcript:Hba_08810
+Scaffold1081	WormBase_imported	CDS	18559	18576	.	+	0	ID=cds:Hba_08810;Parent=transcript:Hba_08810
+Scaffold1144	WormBase_imported	gene	16146	16899	.	-	.	ID=gene:Hba_10140;Name=Hba_10140;biotype=protein_coding
+Scaffold1144	WormBase_imported	mRNA	16146	16899	.	-	.	ID=transcript:Hba_10140;Parent=gene:Hba_10140;Name=Hba_10140
+Scaffold1144	WormBase_imported	exon	16884	16899	.	-	.	ID=exon:Hba_10140.1;Parent=transcript:Hba_10140
+Scaffold1144	WormBase_imported	exon	16810	16812	.	-	.	ID=exon:Hba_10140.2;Parent=transcript:Hba_10140
+Scaffold1144	WormBase_imported	exon	16647	16649	.	-	.	ID=exon:Hba_10140.3;Parent=transcript:Hba_10140
+Scaffold1144	WormBase_imported	exon	16530	16535	.	-	.	ID=exon:Hba_10140.4;Parent=transcript:Hba_10140
+Scaffold1144	WormBase_imported	exon	16459	16510	.	-	.	ID=exon:Hba_10140.5;Parent=transcript:Hba_10140
+Scaffold1144	WormBase_imported	exon	16323	16347	.	-	.	ID=exon:Hba_10140.6;Parent=transcript:Hba_10140
+Scaffold1144	WormBase_imported	exon	16146	16259	.	-	.	ID=exon:Hba_10140.7;Parent=transcript:Hba_10140
+Scaffold1144	WormBase_imported	CDS	16884	16899	.	-	0	ID=cds:Hba_10140;Parent=transcript:Hba_10140
+Scaffold1144	WormBase_imported	CDS	16810	16812	.	-	2	ID=cds:Hba_10140;Parent=transcript:Hba_10140
+Scaffold1144	WormBase_imported	CDS	16647	16649	.	-	2	ID=cds:Hba_10140;Parent=transcript:Hba_10140
+Scaffold1144	WormBase_imported	CDS	16530	16535	.	-	2	ID=cds:Hba_10140;Parent=transcript:Hba_10140
+Scaffold1144	WormBase_imported	CDS	16459	16510	.	-	2	ID=cds:Hba_10140;Parent=transcript:Hba_10140
+Scaffold1144	WormBase_imported	CDS	16323	16347	.	-	1	ID=cds:Hba_10140;Parent=transcript:Hba_10140
+Scaffold1144	WormBase_imported	CDS	16146	16259	.	-	0	ID=cds:Hba_10140;Parent=transcript:Hba_10140
+Scaffold583	WormBase_imported	gene	5666	12030	.	-	.	ID=gene:Hba_03302;Name=Hba_03302;biotype=protein_coding;description=RNA-dependent RNA polymerase;description_source=UniProtKB/TrEMBL;description_source_acc=A0A1I7WEB3
+Scaffold583	WormBase_imported	mRNA	5666	12030	.	-	.	ID=transcript:Hba_03302;Parent=gene:Hba_03302;Name=Hba_03302;info=method:InterPro accession:IPR007855 description:RNA-dependent RNA polymerase%2C eukaryotic-type
+Scaffold583	WormBase_imported	exon	11917	12030	.	-	.	ID=exon:Hba_03302.1;Parent=transcript:Hba_03302
+Scaffold583	WormBase_imported	exon	11744	11836	.	-	.	ID=exon:Hba_03302.2;Parent=transcript:Hba_03302
+Scaffold583	WormBase_imported	exon	11554	11693	.	-	.	ID=exon:Hba_03302.3;Parent=transcript:Hba_03302
+Scaffold583	WormBase_imported	exon	11174	11423	.	-	.	ID=exon:Hba_03302.4;Parent=transcript:Hba_03302
+Scaffold583	WormBase_imported	exon	10992	11094	.	-	.	ID=exon:Hba_03302.5;Parent=transcript:Hba_03302
+Scaffold583	WormBase_imported	exon	10712	10870	.	-	.	ID=exon:Hba_03302.6;Parent=transcript:Hba_03302
+Scaffold583	WormBase_imported	exon	10397	10405	.	-	.	ID=exon:Hba_03302.7;Parent=transcript:Hba_03302
+Scaffold583	WormBase_imported	exon	9139	9165	.	-	.	ID=exon:Hba_03302.8;Parent=transcript:Hba_03302
+Scaffold583	WormBase_imported	exon	7081	7107	.	-	.	ID=exon:Hba_03302.9;Parent=transcript:Hba_03302
+Scaffold583	WormBase_imported	exon	6832	7014	.	-	.	ID=exon:Hba_03302.10;Parent=transcript:Hba_03302
+Scaffold583	WormBase_imported	exon	6648	6728	.	-	.	ID=exon:Hba_03302.11;Parent=transcript:Hba_03302
+Scaffold583	WormBase_imported	exon	6519	6538	.	-	.	ID=exon:Hba_03302.12;Parent=transcript:Hba_03302
+Scaffold583	WormBase_imported	exon	6339	6450	.	-	.	ID=exon:Hba_03302.13;Parent=transcript:Hba_03302
+Scaffold583	WormBase_imported	exon	5914	6065	.	-	.	ID=exon:Hba_03302.14;Parent=transcript:Hba_03302
+Scaffold583	WormBase_imported	exon	5827	5860	.	-	.	ID=exon:Hba_03302.15;Parent=transcript:Hba_03302
+Scaffold583	WormBase_imported	exon	5666	5679	.	-	.	ID=exon:Hba_03302.16;Parent=transcript:Hba_03302
+Scaffold583	WormBase_imported	CDS	11917	12030	.	-	0	ID=cds:Hba_03302;Parent=transcript:Hba_03302
+Scaffold583	WormBase_imported	CDS	11744	11836	.	-	0	ID=cds:Hba_03302;Parent=transcript:Hba_03302
+Scaffold583	WormBase_imported	CDS	11554	11693	.	-	0	ID=cds:Hba_03302;Parent=transcript:Hba_03302
+Scaffold583	WormBase_imported	CDS	11174	11423	.	-	1	ID=cds:Hba_03302;Parent=transcript:Hba_03302
+Scaffold583	WormBase_imported	CDS	10992	11094	.	-	0	ID=cds:Hba_03302;Parent=transcript:Hba_03302
+Scaffold583	WormBase_imported	CDS	10712	10870	.	-	2	ID=cds:Hba_03302;Parent=transcript:Hba_03302
+Scaffold583	WormBase_imported	CDS	10397	10405	.	-	2	ID=cds:Hba_03302;Parent=transcript:Hba_03302
+Scaffold583	WormBase_imported	CDS	9139	9165	.	-	2	ID=cds:Hba_03302;Parent=transcript:Hba_03302
+Scaffold583	WormBase_imported	CDS	7081	7107	.	-	2	ID=cds:Hba_03302;Parent=transcript:Hba_03302
+Scaffold583	WormBase_imported	CDS	6832	7014	.	-	2	ID=cds:Hba_03302;Parent=transcript:Hba_03302
+Scaffold583	WormBase_imported	CDS	6648	6728	.	-	2	ID=cds:Hba_03302;Parent=transcript:Hba_03302
+Scaffold583	WormBase_imported	CDS	6519	6538	.	-	2	ID=cds:Hba_03302;Parent=transcript:Hba_03302
+Scaffold583	WormBase_imported	CDS	6339	6450	.	-	0	ID=cds:Hba_03302;Parent=transcript:Hba_03302
+Scaffold583	WormBase_imported	CDS	5914	6065	.	-	2	ID=cds:Hba_03302;Parent=transcript:Hba_03302
+Scaffold583	WormBase_imported	CDS	5827	5860	.	-	0	ID=cds:Hba_03302;Parent=transcript:Hba_03302
+Scaffold583	WormBase_imported	CDS	5666	5679	.	-	2	ID=cds:Hba_03302;Parent=transcript:Hba_03302
+Scaffold24	WormBase_imported	gene	18338	20191	.	+	.	ID=gene:Hba_00240;Name=Hba_00240;biotype=protein_coding
+Scaffold24	WormBase_imported	mRNA	18338	20191	.	+	.	ID=transcript:Hba_00240;Parent=gene:Hba_00240;Name=Hba_00240
+Scaffold24	WormBase_imported	exon	18338	18347	.	+	.	ID=exon:Hba_00240.1;Parent=transcript:Hba_00240
+Scaffold24	WormBase_imported	exon	18539	18603	.	+	.	ID=exon:Hba_00240.2;Parent=transcript:Hba_00240
+Scaffold24	WormBase_imported	exon	18674	18678	.	+	.	ID=exon:Hba_00240.3;Parent=transcript:Hba_00240
+Scaffold24	WormBase_imported	exon	19609	19622	.	+	.	ID=exon:Hba_00240.4;Parent=transcript:Hba_00240
+Scaffold24	WormBase_imported	exon	20022	20029	.	+	.	ID=exon:Hba_00240.5;Parent=transcript:Hba_00240
+Scaffold24	WormBase_imported	exon	20093	20098	.	+	.	ID=exon:Hba_00240.6;Parent=transcript:Hba_00240
+Scaffold24	WormBase_imported	exon	20126	20155	.	+	.	ID=exon:Hba_00240.7;Parent=transcript:Hba_00240
+Scaffold24	WormBase_imported	exon	20186	20191	.	+	.	ID=exon:Hba_00240.8;Parent=transcript:Hba_00240
+Scaffold24	WormBase_imported	CDS	18338	18347	.	+	0	ID=cds:Hba_00240;Parent=transcript:Hba_00240
+Scaffold24	WormBase_imported	CDS	18539	18603	.	+	2	ID=cds:Hba_00240;Parent=transcript:Hba_00240
+Scaffold24	WormBase_imported	CDS	18674	18678	.	+	0	ID=cds:Hba_00240;Parent=transcript:Hba_00240
+Scaffold24	WormBase_imported	CDS	19609	19622	.	+	1	ID=cds:Hba_00240;Parent=transcript:Hba_00240
+Scaffold24	WormBase_imported	CDS	20022	20029	.	+	2	ID=cds:Hba_00240;Parent=transcript:Hba_00240
+Scaffold24	WormBase_imported	CDS	20093	20098	.	+	0	ID=cds:Hba_00240;Parent=transcript:Hba_00240
+Scaffold24	WormBase_imported	CDS	20126	20155	.	+	0	ID=cds:Hba_00240;Parent=transcript:Hba_00240
+Scaffold24	WormBase_imported	CDS	20186	20191	.	+	0	ID=cds:Hba_00240;Parent=transcript:Hba_00240
+Scaffold266	WormBase_imported	gene	7766	12034	.	+	.	ID=gene:Hba_02618;Name=Hba_02618;biotype=protein_coding
+Scaffold266	WormBase_imported	mRNA	7766	12034	.	+	.	ID=transcript:Hba_02618;Parent=gene:Hba_02618;Name=Hba_02618
+Scaffold266	WormBase_imported	exon	7766	7953	.	+	.	ID=exon:Hba_02618.1;Parent=transcript:Hba_02618
+Scaffold266	WormBase_imported	exon	8033	8033	.	+	.	ID=exon:Hba_02618.2;Parent=transcript:Hba_02618
+Scaffold266	WormBase_imported	exon	8195	8206	.	+	.	ID=exon:Hba_02618.3;Parent=transcript:Hba_02618
+Scaffold266	WormBase_imported	exon	8403	8426	.	+	.	ID=exon:Hba_02618.4;Parent=transcript:Hba_02618
+Scaffold266	WormBase_imported	exon	8643	8645	.	+	.	ID=exon:Hba_02618.5;Parent=transcript:Hba_02618
+Scaffold266	WormBase_imported	exon	8708	8739	.	+	.	ID=exon:Hba_02618.6;Parent=transcript:Hba_02618
+Scaffold266	WormBase_imported	exon	8871	8880	.	+	.	ID=exon:Hba_02618.7;Parent=transcript:Hba_02618
+Scaffold266	WormBase_imported	exon	8941	8962	.	+	.	ID=exon:Hba_02618.8;Parent=transcript:Hba_02618
+Scaffold266	WormBase_imported	exon	9199	9223	.	+	.	ID=exon:Hba_02618.9;Parent=transcript:Hba_02618
+Scaffold266	WormBase_imported	exon	9327	9357	.	+	.	ID=exon:Hba_02618.10;Parent=transcript:Hba_02618
+Scaffold266	WormBase_imported	exon	9752	9790	.	+	.	ID=exon:Hba_02618.11;Parent=transcript:Hba_02618
+Scaffold266	WormBase_imported	exon	10069	10100	.	+	.	ID=exon:Hba_02618.12;Parent=transcript:Hba_02618
+Scaffold266	WormBase_imported	exon	10202	10205	.	+	.	ID=exon:Hba_02618.13;Parent=transcript:Hba_02618
+Scaffold266	WormBase_imported	exon	10346	10431	.	+	.	ID=exon:Hba_02618.14;Parent=transcript:Hba_02618
+Scaffold266	WormBase_imported	exon	10886	10911	.	+	.	ID=exon:Hba_02618.15;Parent=transcript:Hba_02618
+Scaffold266	WormBase_imported	exon	11194	11350	.	+	.	ID=exon:Hba_02618.16;Parent=transcript:Hba_02618
+Scaffold266	WormBase_imported	exon	11929	12034	.	+	.	ID=exon:Hba_02618.17;Parent=transcript:Hba_02618
+Scaffold266	WormBase_imported	CDS	7766	7953	.	+	0	ID=cds:Hba_02618;Parent=transcript:Hba_02618
+Scaffold266	WormBase_imported	CDS	8033	8033	.	+	1	ID=cds:Hba_02618;Parent=transcript:Hba_02618
+Scaffold266	WormBase_imported	CDS	8195	8206	.	+	0	ID=cds:Hba_02618;Parent=transcript:Hba_02618
+Scaffold266	WormBase_imported	CDS	8403	8426	.	+	0	ID=cds:Hba_02618;Parent=transcript:Hba_02618
+Scaffold266	WormBase_imported	CDS	8643	8645	.	+	0	ID=cds:Hba_02618;Parent=transcript:Hba_02618
+Scaffold266	WormBase_imported	CDS	8708	8739	.	+	0	ID=cds:Hba_02618;Parent=transcript:Hba_02618
+Scaffold266	WormBase_imported	CDS	8871	8880	.	+	1	ID=cds:Hba_02618;Parent=transcript:Hba_02618
+Scaffold266	WormBase_imported	CDS	8941	8962	.	+	0	ID=cds:Hba_02618;Parent=transcript:Hba_02618
+Scaffold266	WormBase_imported	CDS	9199	9223	.	+	2	ID=cds:Hba_02618;Parent=transcript:Hba_02618
+Scaffold266	WormBase_imported	CDS	9327	9357	.	+	1	ID=cds:Hba_02618;Parent=transcript:Hba_02618
+Scaffold266	WormBase_imported	CDS	9752	9790	.	+	0	ID=cds:Hba_02618;Parent=transcript:Hba_02618
+Scaffold266	WormBase_imported	CDS	10069	10100	.	+	0	ID=cds:Hba_02618;Parent=transcript:Hba_02618
+Scaffold266	WormBase_imported	CDS	10202	10205	.	+	1	ID=cds:Hba_02618;Parent=transcript:Hba_02618
+Scaffold266	WormBase_imported	CDS	10346	10431	.	+	0	ID=cds:Hba_02618;Parent=transcript:Hba_02618
+Scaffold266	WormBase_imported	CDS	10886	10911	.	+	1	ID=cds:Hba_02618;Parent=transcript:Hba_02618
+Scaffold266	WormBase_imported	CDS	11194	11350	.	+	2	ID=cds:Hba_02618;Parent=transcript:Hba_02618
+Scaffold266	WormBase_imported	CDS	11929	12034	.	+	1	ID=cds:Hba_02618;Parent=transcript:Hba_02618
+Scaffold1216	WormBase_imported	gene	111	3248	.	-	.	ID=gene:Hba_11650;Name=Hba_11650;biotype=protein_coding
+Scaffold1216	WormBase_imported	mRNA	111	3248	.	-	.	ID=transcript:Hba_11650;Parent=gene:Hba_11650;Name=Hba_11650
+Scaffold1216	WormBase_imported	exon	3078	3248	.	-	.	ID=exon:Hba_11650.1;Parent=transcript:Hba_11650
+Scaffold1216	WormBase_imported	exon	2256	2372	.	-	.	ID=exon:Hba_11650.2;Parent=transcript:Hba_11650
+Scaffold1216	WormBase_imported	exon	2060	2174	.	-	.	ID=exon:Hba_11650.3;Parent=transcript:Hba_11650
+Scaffold1216	WormBase_imported	exon	1693	1701	.	-	.	ID=exon:Hba_11650.4;Parent=transcript:Hba_11650
+Scaffold1216	WormBase_imported	exon	1254	1280	.	-	.	ID=exon:Hba_11650.5;Parent=transcript:Hba_11650
+Scaffold1216	WormBase_imported	exon	1125	1133	.	-	.	ID=exon:Hba_11650.6;Parent=transcript:Hba_11650
+Scaffold1216	WormBase_imported	exon	609	622	.	-	.	ID=exon:Hba_11650.7;Parent=transcript:Hba_11650
+Scaffold1216	WormBase_imported	exon	495	530	.	-	.	ID=exon:Hba_11650.8;Parent=transcript:Hba_11650
+Scaffold1216	WormBase_imported	exon	214	318	.	-	.	ID=exon:Hba_11650.9;Parent=transcript:Hba_11650
+Scaffold1216	WormBase_imported	exon	111	148	.	-	.	ID=exon:Hba_11650.10;Parent=transcript:Hba_11650
+Scaffold1216	WormBase_imported	CDS	3078	3248	.	-	0	ID=cds:Hba_11650;Parent=transcript:Hba_11650
+Scaffold1216	WormBase_imported	CDS	2256	2372	.	-	0	ID=cds:Hba_11650;Parent=transcript:Hba_11650
+Scaffold1216	WormBase_imported	CDS	2060	2174	.	-	0	ID=cds:Hba_11650;Parent=transcript:Hba_11650
+Scaffold1216	WormBase_imported	CDS	1693	1701	.	-	2	ID=cds:Hba_11650;Parent=transcript:Hba_11650
+Scaffold1216	WormBase_imported	CDS	1254	1280	.	-	2	ID=cds:Hba_11650;Parent=transcript:Hba_11650
+Scaffold1216	WormBase_imported	CDS	1125	1133	.	-	2	ID=cds:Hba_11650;Parent=transcript:Hba_11650
+Scaffold1216	WormBase_imported	CDS	609	622	.	-	2	ID=cds:Hba_11650;Parent=transcript:Hba_11650
+Scaffold1216	WormBase_imported	CDS	495	530	.	-	0	ID=cds:Hba_11650;Parent=transcript:Hba_11650
+Scaffold1216	WormBase_imported	CDS	214	318	.	-	0	ID=cds:Hba_11650;Parent=transcript:Hba_11650
+Scaffold1216	WormBase_imported	CDS	111	148	.	-	0	ID=cds:Hba_11650;Parent=transcript:Hba_11650
+Scaffold827	WormBase_imported	gene	16417	18865	.	-	.	ID=gene:Hba_05121;Name=Hba_05121;biotype=protein_coding
+Scaffold827	WormBase_imported	mRNA	16417	18865	.	-	.	ID=transcript:Hba_05121;Parent=gene:Hba_05121;Name=Hba_05121;info=method:InterPro accession:IPR003582 description:ShKT domain
+Scaffold827	WormBase_imported	exon	18852	18865	.	-	.	ID=exon:Hba_05121.1;Parent=transcript:Hba_05121
+Scaffold827	WormBase_imported	exon	18634	18808	.	-	.	ID=exon:Hba_05121.2;Parent=transcript:Hba_05121
+Scaffold827	WormBase_imported	exon	18567	18582	.	-	.	ID=exon:Hba_05121.3;Parent=transcript:Hba_05121
+Scaffold827	WormBase_imported	exon	18135	18194	.	-	.	ID=exon:Hba_05121.4;Parent=transcript:Hba_05121
+Scaffold827	WormBase_imported	exon	17765	17850	.	-	.	ID=exon:Hba_05121.5;Parent=transcript:Hba_05121
+Scaffold827	WormBase_imported	exon	17551	17628	.	-	.	ID=exon:Hba_05121.6;Parent=transcript:Hba_05121
+Scaffold827	WormBase_imported	exon	17280	17359	.	-	.	ID=exon:Hba_05121.7;Parent=transcript:Hba_05121
+Scaffold827	WormBase_imported	exon	17137	17152	.	-	.	ID=exon:Hba_05121.8;Parent=transcript:Hba_05121
+Scaffold827	WormBase_imported	exon	16920	17034	.	-	.	ID=exon:Hba_05121.9;Parent=transcript:Hba_05121
+Scaffold827	WormBase_imported	exon	16863	16893	.	-	.	ID=exon:Hba_05121.10;Parent=transcript:Hba_05121
+Scaffold827	WormBase_imported	exon	16797	16825	.	-	.	ID=exon:Hba_05121.11;Parent=transcript:Hba_05121
+Scaffold827	WormBase_imported	exon	16712	16717	.	-	.	ID=exon:Hba_05121.12;Parent=transcript:Hba_05121
+Scaffold827	WormBase_imported	exon	16670	16681	.	-	.	ID=exon:Hba_05121.13;Parent=transcript:Hba_05121
+Scaffold827	WormBase_imported	exon	16609	16629	.	-	.	ID=exon:Hba_05121.14;Parent=transcript:Hba_05121
+Scaffold827	WormBase_imported	exon	16417	16508	.	-	.	ID=exon:Hba_05121.15;Parent=transcript:Hba_05121
+Scaffold827	WormBase_imported	CDS	18852	18865	.	-	0	ID=cds:Hba_05121;Parent=transcript:Hba_05121
+Scaffold827	WormBase_imported	CDS	18634	18808	.	-	1	ID=cds:Hba_05121;Parent=transcript:Hba_05121
+Scaffold827	WormBase_imported	CDS	18567	18582	.	-	0	ID=cds:Hba_05121;Parent=transcript:Hba_05121
+Scaffold827	WormBase_imported	CDS	18135	18194	.	-	2	ID=cds:Hba_05121;Parent=transcript:Hba_05121
+Scaffold827	WormBase_imported	CDS	17765	17850	.	-	2	ID=cds:Hba_05121;Parent=transcript:Hba_05121
+Scaffold827	WormBase_imported	CDS	17551	17628	.	-	0	ID=cds:Hba_05121;Parent=transcript:Hba_05121
+Scaffold827	WormBase_imported	CDS	17280	17359	.	-	0	ID=cds:Hba_05121;Parent=transcript:Hba_05121
+Scaffold827	WormBase_imported	CDS	17137	17152	.	-	1	ID=cds:Hba_05121;Parent=transcript:Hba_05121
+Scaffold827	WormBase_imported	CDS	16920	17034	.	-	0	ID=cds:Hba_05121;Parent=transcript:Hba_05121
+Scaffold827	WormBase_imported	CDS	16863	16893	.	-	2	ID=cds:Hba_05121;Parent=transcript:Hba_05121
+Scaffold827	WormBase_imported	CDS	16797	16825	.	-	1	ID=cds:Hba_05121;Parent=transcript:Hba_05121
+Scaffold827	WormBase_imported	CDS	16712	16717	.	-	2	ID=cds:Hba_05121;Parent=transcript:Hba_05121
+Scaffold827	WormBase_imported	CDS	16670	16681	.	-	2	ID=cds:Hba_05121;Parent=transcript:Hba_05121
+Scaffold827	WormBase_imported	CDS	16609	16629	.	-	2	ID=cds:Hba_05121;Parent=transcript:Hba_05121
+Scaffold827	WormBase_imported	CDS	16417	16508	.	-	2	ID=cds:Hba_05121;Parent=transcript:Hba_05121
+Scaffold1119	WormBase_imported	gene	5391	8532	.	+	.	ID=gene:Hba_09645;Name=Hba_09645;biotype=protein_coding
+Scaffold1119	WormBase_imported	mRNA	5391	8532	.	+	.	ID=transcript:Hba_09645;Parent=gene:Hba_09645;Name=Hba_09645
+Scaffold1119	WormBase_imported	exon	5391	5430	.	+	.	ID=exon:Hba_09645.1;Parent=transcript:Hba_09645
+Scaffold1119	WormBase_imported	exon	5749	5827	.	+	.	ID=exon:Hba_09645.2;Parent=transcript:Hba_09645
+Scaffold1119	WormBase_imported	exon	6087	6235	.	+	.	ID=exon:Hba_09645.3;Parent=transcript:Hba_09645
+Scaffold1119	WormBase_imported	exon	6529	6612	.	+	.	ID=exon:Hba_09645.4;Parent=transcript:Hba_09645
+Scaffold1119	WormBase_imported	exon	6851	6947	.	+	.	ID=exon:Hba_09645.5;Parent=transcript:Hba_09645
+Scaffold1119	WormBase_imported	exon	6980	7101	.	+	.	ID=exon:Hba_09645.6;Parent=transcript:Hba_09645
+Scaffold1119	WormBase_imported	exon	7123	7178	.	+	.	ID=exon:Hba_09645.7;Parent=transcript:Hba_09645
+Scaffold1119	WormBase_imported	exon	7434	7442	.	+	.	ID=exon:Hba_09645.8;Parent=transcript:Hba_09645
+Scaffold1119	WormBase_imported	exon	7913	7979	.	+	.	ID=exon:Hba_09645.9;Parent=transcript:Hba_09645
+Scaffold1119	WormBase_imported	exon	8262	8359	.	+	.	ID=exon:Hba_09645.10;Parent=transcript:Hba_09645
+Scaffold1119	WormBase_imported	exon	8431	8451	.	+	.	ID=exon:Hba_09645.11;Parent=transcript:Hba_09645
+Scaffold1119	WormBase_imported	exon	8489	8512	.	+	.	ID=exon:Hba_09645.12;Parent=transcript:Hba_09645
+Scaffold1119	WormBase_imported	exon	8527	8532	.	+	.	ID=exon:Hba_09645.13;Parent=transcript:Hba_09645
+Scaffold1119	WormBase_imported	CDS	5391	5430	.	+	0	ID=cds:Hba_09645;Parent=transcript:Hba_09645
+Scaffold1119	WormBase_imported	CDS	5749	5827	.	+	2	ID=cds:Hba_09645;Parent=transcript:Hba_09645
+Scaffold1119	WormBase_imported	CDS	6087	6235	.	+	1	ID=cds:Hba_09645;Parent=transcript:Hba_09645
+Scaffold1119	WormBase_imported	CDS	6529	6612	.	+	2	ID=cds:Hba_09645;Parent=transcript:Hba_09645
+Scaffold1119	WormBase_imported	CDS	6851	6947	.	+	2	ID=cds:Hba_09645;Parent=transcript:Hba_09645
+Scaffold1119	WormBase_imported	CDS	6980	7101	.	+	1	ID=cds:Hba_09645;Parent=transcript:Hba_09645
+Scaffold1119	WormBase_imported	CDS	7123	7178	.	+	2	ID=cds:Hba_09645;Parent=transcript:Hba_09645
+Scaffold1119	WormBase_imported	CDS	7434	7442	.	+	0	ID=cds:Hba_09645;Parent=transcript:Hba_09645
+Scaffold1119	WormBase_imported	CDS	7913	7979	.	+	0	ID=cds:Hba_09645;Parent=transcript:Hba_09645
+Scaffold1119	WormBase_imported	CDS	8262	8359	.	+	2	ID=cds:Hba_09645;Parent=transcript:Hba_09645
+Scaffold1119	WormBase_imported	CDS	8431	8451	.	+	0	ID=cds:Hba_09645;Parent=transcript:Hba_09645
+Scaffold1119	WormBase_imported	CDS	8489	8512	.	+	0	ID=cds:Hba_09645;Parent=transcript:Hba_09645
+Scaffold1119	WormBase_imported	CDS	8527	8532	.	+	0	ID=cds:Hba_09645;Parent=transcript:Hba_09645
+Scaffold998	WormBase_imported	gene	15677	17563	.	+	.	ID=gene:Hba_06784;Name=Hba_06784;biotype=protein_coding
+Scaffold998	WormBase_imported	mRNA	15677	17563	.	+	.	ID=transcript:Hba_06784;Parent=gene:Hba_06784;Name=Hba_06784
+Scaffold998	WormBase_imported	exon	15677	16017	.	+	.	ID=exon:Hba_06784.1;Parent=transcript:Hba_06784
+Scaffold998	WormBase_imported	exon	16028	16118	.	+	.	ID=exon:Hba_06784.2;Parent=transcript:Hba_06784
+Scaffold998	WormBase_imported	exon	16592	16594	.	+	.	ID=exon:Hba_06784.3;Parent=transcript:Hba_06784
+Scaffold998	WormBase_imported	exon	16724	16726	.	+	.	ID=exon:Hba_06784.4;Parent=transcript:Hba_06784
+Scaffold998	WormBase_imported	exon	16748	16756	.	+	.	ID=exon:Hba_06784.5;Parent=transcript:Hba_06784
+Scaffold998	WormBase_imported	exon	16943	16966	.	+	.	ID=exon:Hba_06784.6;Parent=transcript:Hba_06784
+Scaffold998	WormBase_imported	exon	16989	17014	.	+	.	ID=exon:Hba_06784.7;Parent=transcript:Hba_06784
+Scaffold998	WormBase_imported	exon	17561	17563	.	+	.	ID=exon:Hba_06784.8;Parent=transcript:Hba_06784
+Scaffold998	WormBase_imported	CDS	15677	16017	.	+	0	ID=cds:Hba_06784;Parent=transcript:Hba_06784
+Scaffold998	WormBase_imported	CDS	16028	16118	.	+	1	ID=cds:Hba_06784;Parent=transcript:Hba_06784
+Scaffold998	WormBase_imported	CDS	16592	16594	.	+	0	ID=cds:Hba_06784;Parent=transcript:Hba_06784
+Scaffold998	WormBase_imported	CDS	16724	16726	.	+	0	ID=cds:Hba_06784;Parent=transcript:Hba_06784
+Scaffold998	WormBase_imported	CDS	16748	16756	.	+	0	ID=cds:Hba_06784;Parent=transcript:Hba_06784
+Scaffold998	WormBase_imported	CDS	16943	16966	.	+	0	ID=cds:Hba_06784;Parent=transcript:Hba_06784
+Scaffold998	WormBase_imported	CDS	16989	17014	.	+	0	ID=cds:Hba_06784;Parent=transcript:Hba_06784
+Scaffold998	WormBase_imported	CDS	17561	17563	.	+	1	ID=cds:Hba_06784;Parent=transcript:Hba_06784
+Scaffold998	dust	low_complexity_region	191	197	.	-	.	
+Scaffold998	RepeatMasker	repeat_region	389	1775	9539	-	.	Name=rnd-1_family-4;repeat_class=DNA/TcMar-Tc1
+Scaffold998	dust	low_complexity_region	1246	1253	.	-	.	
+Scaffold998	RepeatMasker	repeat_region	1753	1786	289	-	.	Name=rnd-4_family-114;repeat_class=DNA/TcMar-Tc1
+Scaffold998	RepeatMasker	repeat_region	1781	1879	436	-	.	
+Scaffold998	RepeatMasker	repeat_region	1848	2077	1014	-	.	
+Scaffold998	dust	low_complexity_region	2298	2304	.	-	.	
+Scaffold998	tandem	tandem_repeat	2464	2487	48	-	.	
+Scaffold998	dust	low_complexity_region	2464	2487	.	-	.	
+Scaffold998	dust	low_complexity_region	2788	2796	.	-	.	
+Scaffold998	dust	low_complexity_region	3151	3220	.	-	.	
+Scaffold998	RepeatMasker	repeat_region	3505	3543	263	+	.	Name=rnd-3_family-20;repeat_class=DNA/TcMar-Tc1
+Scaffold998	RepeatMasker	repeat_region	3521	4728	8501	+	.	Name=rnd-1_family-4;repeat_class=DNA/TcMar-Tc1
+Scaffold998	dust	low_complexity_region	4043	4050	.	-	.	
+Scaffold998	RepeatMasker	repeat_region	4701	4737	286	-	.	Name=rnd-4_family-114;repeat_class=DNA/TcMar-Tc1
+Scaffold998	tandem	tandem_repeat	6811	6837	54	-	.	
+Scaffold998	dust	low_complexity_region	6811	6837	.	-	.	
+Scaffold998	dust	low_complexity_region	7109	7115	.	-	.	
+Scaffold998	dust	low_complexity_region	7611	7623	.	-	.	
+Scaffold998	dust	low_complexity_region	7759	7765	.	-	.	
+Scaffold998	dust	low_complexity_region	8268	8274	.	-	.	
+Scaffold998	dust	low_complexity_region	8979	8985	.	-	.	
+Scaffold998	dust	low_complexity_region	9772	9835	.	-	.	
+Scaffold998	tandem	tandem_repeat	10627	10662	51	-	.	
+Scaffold998	dust	low_complexity_region	10660	10666	.	-	.	
+Scaffold998	dust	low_complexity_region	12650	12693	.	-	.	
+Scaffold998	RepeatMasker	repeat_region	14985	15190	1389	+	.	
+Scaffold998	dust	low_complexity_region	15659	15665	.	-	.	
+Scaffold998	RepeatMasker	repeat_region	16725	17668	2666	+	.	Name=rnd-4_family-95;repeat_class=LTR/Gypsy
+Scaffold686	WormBase_imported	gene	12645	15806	.	+	.	ID=gene:Hba_04052;Name=Hba_04052;biotype=protein_coding
+Scaffold686	WormBase_imported	mRNA	12645	15806	.	+	.	ID=transcript:Hba_04052;Parent=gene:Hba_04052;Name=Hba_04052
+Scaffold686	WormBase_imported	exon	12645	12668	.	+	.	ID=exon:Hba_04052.1;Parent=transcript:Hba_04052
+Scaffold686	WormBase_imported	exon	12712	12714	.	+	.	ID=exon:Hba_04052.2;Parent=transcript:Hba_04052
+Scaffold686	WormBase_imported	exon	12792	12812	.	+	.	ID=exon:Hba_04052.3;Parent=transcript:Hba_04052
+Scaffold686	WormBase_imported	exon	12889	12950	.	+	.	ID=exon:Hba_04052.4;Parent=transcript:Hba_04052
+Scaffold686	WormBase_imported	exon	13039	13042	.	+	.	ID=exon:Hba_04052.5;Parent=transcript:Hba_04052
+Scaffold686	WormBase_imported	exon	13202	13231	.	+	.	ID=exon:Hba_04052.6;Parent=transcript:Hba_04052
+Scaffold686	WormBase_imported	exon	13378	13618	.	+	.	ID=exon:Hba_04052.7;Parent=transcript:Hba_04052
+Scaffold686	WormBase_imported	exon	13736	13835	.	+	.	ID=exon:Hba_04052.8;Parent=transcript:Hba_04052
+Scaffold686	WormBase_imported	exon	13968	14072	.	+	.	ID=exon:Hba_04052.9;Parent=transcript:Hba_04052
+Scaffold686	WormBase_imported	exon	14106	14111	.	+	.	ID=exon:Hba_04052.10;Parent=transcript:Hba_04052
+Scaffold686	WormBase_imported	exon	14256	14360	.	+	.	ID=exon:Hba_04052.11;Parent=transcript:Hba_04052
+Scaffold686	WormBase_imported	exon	14896	15107	.	+	.	ID=exon:Hba_04052.12;Parent=transcript:Hba_04052
+Scaffold686	WormBase_imported	exon	15141	15198	.	+	.	ID=exon:Hba_04052.13;Parent=transcript:Hba_04052
+Scaffold686	WormBase_imported	exon	15411	15424	.	+	.	ID=exon:Hba_04052.14;Parent=transcript:Hba_04052
+Scaffold686	WormBase_imported	exon	15477	15601	.	+	.	ID=exon:Hba_04052.15;Parent=transcript:Hba_04052
+Scaffold686	WormBase_imported	exon	15778	15806	.	+	.	ID=exon:Hba_04052.16;Parent=transcript:Hba_04052
+Scaffold686	WormBase_imported	CDS	12645	12668	.	+	0	ID=cds:Hba_04052;Parent=transcript:Hba_04052
+Scaffold686	WormBase_imported	CDS	12712	12714	.	+	0	ID=cds:Hba_04052;Parent=transcript:Hba_04052
+Scaffold686	WormBase_imported	CDS	12792	12812	.	+	0	ID=cds:Hba_04052;Parent=transcript:Hba_04052
+Scaffold686	WormBase_imported	CDS	12889	12950	.	+	0	ID=cds:Hba_04052;Parent=transcript:Hba_04052
+Scaffold686	WormBase_imported	CDS	13039	13042	.	+	1	ID=cds:Hba_04052;Parent=transcript:Hba_04052
+Scaffold686	WormBase_imported	CDS	13202	13231	.	+	0	ID=cds:Hba_04052;Parent=transcript:Hba_04052
+Scaffold686	WormBase_imported	CDS	13378	13618	.	+	0	ID=cds:Hba_04052;Parent=transcript:Hba_04052
+Scaffold686	WormBase_imported	CDS	13736	13835	.	+	2	ID=cds:Hba_04052;Parent=transcript:Hba_04052
+Scaffold686	WormBase_imported	CDS	13968	14072	.	+	1	ID=cds:Hba_04052;Parent=transcript:Hba_04052
+Scaffold686	WormBase_imported	CDS	14106	14111	.	+	1	ID=cds:Hba_04052;Parent=transcript:Hba_04052
+Scaffold686	WormBase_imported	CDS	14256	14360	.	+	1	ID=cds:Hba_04052;Parent=transcript:Hba_04052
+Scaffold686	WormBase_imported	CDS	14896	15107	.	+	1	ID=cds:Hba_04052;Parent=transcript:Hba_04052
+Scaffold686	WormBase_imported	CDS	15141	15198	.	+	2	ID=cds:Hba_04052;Parent=transcript:Hba_04052
+Scaffold686	WormBase_imported	CDS	15411	15424	.	+	1	ID=cds:Hba_04052;Parent=transcript:Hba_04052
+Scaffold686	WormBase_imported	CDS	15477	15601	.	+	2	ID=cds:Hba_04052;Parent=transcript:Hba_04052
+Scaffold686	WormBase_imported	CDS	15778	15806	.	+	0	ID=cds:Hba_04052;Parent=transcript:Hba_04052
+Scaffold686	dust	low_complexity_region	326	343	.	-	.	
+Scaffold686	dust	low_complexity_region	346	355	.	-	.	
+Scaffold686	RepeatMasker	repeat_region	1939	2207	2112	+	.	
+Scaffold686	RepeatMasker	repeat_region	2213	2410	1562	-	.	
+Scaffold686	dust	low_complexity_region	2641	2677	.	-	.	
+Scaffold686	dust	low_complexity_region	3963	3969	.	-	.	
+Scaffold686	dust	low_complexity_region	4463	4469	.	-	.	
+Scaffold686	dust	low_complexity_region	5081	5089	.	-	.	
+Scaffold686	dust	low_complexity_region	5925	5931	.	-	.	
+Scaffold686	dust	low_complexity_region	7697	7715	.	-	.	
+Scaffold686	dust	low_complexity_region	7829	7876	.	-	.	
+Scaffold686	dust	low_complexity_region	7899	7905	.	-	.	
+Scaffold686	dust	low_complexity_region	8588	8596	.	-	.	
+Scaffold686	dust	low_complexity_region	9691	9700	.	-	.	
+Scaffold686	dust	low_complexity_region	10907	10913	.	-	.	
+Scaffold686	dust	low_complexity_region	11329	11336	.	-	.	
+Scaffold686	dust	low_complexity_region	12388	12452	.	-	.	
+Scaffold686	dust	low_complexity_region	12512	12519	.	-	.	
+Scaffold686	RepeatMasker	repeat_region	13440	13637	1562	+	.	
+Scaffold686	RepeatMasker	repeat_region	13643	13911	2112	-	.	
+Scaffold686	dust	low_complexity_region	15491	15500	.	-	.	
+Scaffold686	dust	low_complexity_region	15503	15520	.	-	.	
+Scaffold987	WormBase_imported	gene	13263	14848	.	+	.	ID=gene:Hba_06257;Name=Hba_06257;biotype=protein_coding
+Scaffold987	WormBase_imported	mRNA	13263	14848	.	+	.	ID=transcript:Hba_06257;Parent=gene:Hba_06257;Name=Hba_06257
+Scaffold987	WormBase_imported	exon	13263	13271	.	+	.	ID=exon:Hba_06257.1;Parent=transcript:Hba_06257
+Scaffold987	WormBase_imported	exon	13309	13311	.	+	.	ID=exon:Hba_06257.2;Parent=transcript:Hba_06257
+Scaffold987	WormBase_imported	exon	13360	13386	.	+	.	ID=exon:Hba_06257.3;Parent=transcript:Hba_06257
+Scaffold987	WormBase_imported	exon	13498	13512	.	+	.	ID=exon:Hba_06257.4;Parent=transcript:Hba_06257
+Scaffold987	WormBase_imported	exon	13746	13847	.	+	.	ID=exon:Hba_06257.5;Parent=transcript:Hba_06257
+Scaffold987	WormBase_imported	exon	13880	13897	.	+	.	ID=exon:Hba_06257.6;Parent=transcript:Hba_06257
+Scaffold987	WormBase_imported	exon	14043	14050	.	+	.	ID=exon:Hba_06257.7;Parent=transcript:Hba_06257
+Scaffold987	WormBase_imported	exon	14111	14164	.	+	.	ID=exon:Hba_06257.8;Parent=transcript:Hba_06257
+Scaffold987	WormBase_imported	exon	14225	14280	.	+	.	ID=exon:Hba_06257.9;Parent=transcript:Hba_06257
+Scaffold987	WormBase_imported	exon	14499	14550	.	+	.	ID=exon:Hba_06257.10;Parent=transcript:Hba_06257
+Scaffold987	WormBase_imported	exon	14679	14709	.	+	.	ID=exon:Hba_06257.11;Parent=transcript:Hba_06257
+Scaffold987	WormBase_imported	exon	14756	14764	.	+	.	ID=exon:Hba_06257.12;Parent=transcript:Hba_06257
+Scaffold987	WormBase_imported	exon	14825	14848	.	+	.	ID=exon:Hba_06257.13;Parent=transcript:Hba_06257
+Scaffold987	WormBase_imported	CDS	13263	13271	.	+	0	ID=cds:Hba_06257;Parent=transcript:Hba_06257
+Scaffold987	WormBase_imported	CDS	13309	13311	.	+	0	ID=cds:Hba_06257;Parent=transcript:Hba_06257
+Scaffold987	WormBase_imported	CDS	13360	13386	.	+	0	ID=cds:Hba_06257;Parent=transcript:Hba_06257
+Scaffold987	WormBase_imported	CDS	13498	13512	.	+	0	ID=cds:Hba_06257;Parent=transcript:Hba_06257
+Scaffold987	WormBase_imported	CDS	13746	13847	.	+	0	ID=cds:Hba_06257;Parent=transcript:Hba_06257
+Scaffold987	WormBase_imported	CDS	13880	13897	.	+	0	ID=cds:Hba_06257;Parent=transcript:Hba_06257
+Scaffold987	WormBase_imported	CDS	14043	14050	.	+	0	ID=cds:Hba_06257;Parent=transcript:Hba_06257
+Scaffold987	WormBase_imported	CDS	14111	14164	.	+	1	ID=cds:Hba_06257;Parent=transcript:Hba_06257
+Scaffold987	WormBase_imported	CDS	14225	14280	.	+	1	ID=cds:Hba_06257;Parent=transcript:Hba_06257
+Scaffold987	WormBase_imported	CDS	14499	14550	.	+	2	ID=cds:Hba_06257;Parent=transcript:Hba_06257
+Scaffold987	WormBase_imported	CDS	14679	14709	.	+	1	ID=cds:Hba_06257;Parent=transcript:Hba_06257
+Scaffold987	WormBase_imported	CDS	14756	14764	.	+	0	ID=cds:Hba_06257;Parent=transcript:Hba_06257
+Scaffold987	WormBase_imported	CDS	14825	14848	.	+	0	ID=cds:Hba_06257;Parent=transcript:Hba_06257
+Scaffold1117	WormBase_imported	gene	9823	12084	.	+	.	ID=gene:Hba_09630;Name=Hba_09630;biotype=protein_coding
+Scaffold1117	WormBase_imported	mRNA	9823	12084	.	+	.	ID=transcript:Hba_09630;Parent=gene:Hba_09630;Name=Hba_09630
+Scaffold1117	WormBase_imported	exon	9823	9907	.	+	.	ID=exon:Hba_09630.1;Parent=transcript:Hba_09630
+Scaffold1117	WormBase_imported	exon	10037	10095	.	+	.	ID=exon:Hba_09630.2;Parent=transcript:Hba_09630
+Scaffold1117	WormBase_imported	exon	10150	10152	.	+	.	ID=exon:Hba_09630.3;Parent=transcript:Hba_09630
+Scaffold1117	WormBase_imported	exon	10197	10223	.	+	.	ID=exon:Hba_09630.4;Parent=transcript:Hba_09630
+Scaffold1117	WormBase_imported	exon	10525	10539	.	+	.	ID=exon:Hba_09630.5;Parent=transcript:Hba_09630
+Scaffold1117	WormBase_imported	exon	10786	10832	.	+	.	ID=exon:Hba_09630.6;Parent=transcript:Hba_09630
+Scaffold1117	WormBase_imported	exon	10943	10978	.	+	.	ID=exon:Hba_09630.7;Parent=transcript:Hba_09630
+Scaffold1117	WormBase_imported	exon	11163	11237	.	+	.	ID=exon:Hba_09630.8;Parent=transcript:Hba_09630
+Scaffold1117	WormBase_imported	exon	11332	11386	.	+	.	ID=exon:Hba_09630.9;Parent=transcript:Hba_09630
+Scaffold1117	WormBase_imported	exon	11541	11600	.	+	.	ID=exon:Hba_09630.10;Parent=transcript:Hba_09630
+Scaffold1117	WormBase_imported	exon	12052	12084	.	+	.	ID=exon:Hba_09630.11;Parent=transcript:Hba_09630
+Scaffold1117	WormBase_imported	CDS	9823	9907	.	+	0	ID=cds:Hba_09630;Parent=transcript:Hba_09630
+Scaffold1117	WormBase_imported	CDS	10037	10095	.	+	2	ID=cds:Hba_09630;Parent=transcript:Hba_09630
+Scaffold1117	WormBase_imported	CDS	10150	10152	.	+	0	ID=cds:Hba_09630;Parent=transcript:Hba_09630
+Scaffold1117	WormBase_imported	CDS	10197	10223	.	+	0	ID=cds:Hba_09630;Parent=transcript:Hba_09630
+Scaffold1117	WormBase_imported	CDS	10525	10539	.	+	0	ID=cds:Hba_09630;Parent=transcript:Hba_09630
+Scaffold1117	WormBase_imported	CDS	10786	10832	.	+	0	ID=cds:Hba_09630;Parent=transcript:Hba_09630
+Scaffold1117	WormBase_imported	CDS	10943	10978	.	+	1	ID=cds:Hba_09630;Parent=transcript:Hba_09630
+Scaffold1117	WormBase_imported	CDS	11163	11237	.	+	1	ID=cds:Hba_09630;Parent=transcript:Hba_09630
+Scaffold1117	WormBase_imported	CDS	11332	11386	.	+	1	ID=cds:Hba_09630;Parent=transcript:Hba_09630
+Scaffold1117	WormBase_imported	CDS	11541	11600	.	+	0	ID=cds:Hba_09630;Parent=transcript:Hba_09630
+Scaffold1117	WormBase_imported	CDS	12052	12084	.	+	0	ID=cds:Hba_09630;Parent=transcript:Hba_09630
+Scaffold1120	WormBase_imported	gene	2326	9257	.	+	.	ID=gene:Hba_09655;Name=Hba_09655;biotype=protein_coding
+Scaffold1120	WormBase_imported	mRNA	2326	9257	.	+	.	ID=transcript:Hba_09655;Parent=gene:Hba_09655;Name=Hba_09655;info=method:InterPro accession:IPR001584 description:Integrase%2C catalytic core %0Amethod:InterPro accession:IPR008042 description:Retrotransposon%2C Pao %0Amethod:InterPro accession:IPR008737 description:Peptidase aspartic%2C putative %0Amethod:InterPro accession:IPR009878 description:Phlebovirus glycoprotein G2 %0Amethod:InterPro accession:IPR012337 description:Ribonuclease H-like superfamily %0Amethod:InterPro accession:IPR036397 description:Ribonuclease H superfamily %0Amethod:InterPro accession:IPR040676 description:Domain of unknown function DUF5641 %0Amethod:InterPro accession:IPR041588 description:Integrase zinc-binding domain
+Scaffold1120	WormBase_imported	exon	2326	2356	.	+	.	ID=exon:Hba_09655.1;Parent=transcript:Hba_09655
+Scaffold1120	WormBase_imported	exon	2393	3664	.	+	.	ID=exon:Hba_09655.2;Parent=transcript:Hba_09655
+Scaffold1120	WormBase_imported	exon	3689	3879	.	+	.	ID=exon:Hba_09655.3;Parent=transcript:Hba_09655
+Scaffold1120	WormBase_imported	exon	3896	3904	.	+	.	ID=exon:Hba_09655.4;Parent=transcript:Hba_09655
+Scaffold1120	WormBase_imported	exon	3941	3955	.	+	.	ID=exon:Hba_09655.5;Parent=transcript:Hba_09655
+Scaffold1120	WormBase_imported	exon	3968	3970	.	+	.	ID=exon:Hba_09655.6;Parent=transcript:Hba_09655
+Scaffold1120	WormBase_imported	exon	4120	4281	.	+	.	ID=exon:Hba_09655.7;Parent=transcript:Hba_09655
+Scaffold1120	WormBase_imported	exon	4300	5176	.	+	.	ID=exon:Hba_09655.8;Parent=transcript:Hba_09655
+Scaffold1120	WormBase_imported	exon	5243	9054	.	+	.	ID=exon:Hba_09655.9;Parent=transcript:Hba_09655
+Scaffold1120	WormBase_imported	exon	9252	9257	.	+	.	ID=exon:Hba_09655.10;Parent=transcript:Hba_09655
+Scaffold1120	WormBase_imported	CDS	2326	2356	.	+	0	ID=cds:Hba_09655;Parent=transcript:Hba_09655
+Scaffold1120	WormBase_imported	CDS	2393	3664	.	+	2	ID=cds:Hba_09655;Parent=transcript:Hba_09655
+Scaffold1120	WormBase_imported	CDS	3689	3879	.	+	2	ID=cds:Hba_09655;Parent=transcript:Hba_09655
+Scaffold1120	WormBase_imported	CDS	3896	3904	.	+	0	ID=cds:Hba_09655;Parent=transcript:Hba_09655
+Scaffold1120	WormBase_imported	CDS	3941	3955	.	+	0	ID=cds:Hba_09655;Parent=transcript:Hba_09655
+Scaffold1120	WormBase_imported	CDS	3968	3970	.	+	0	ID=cds:Hba_09655;Parent=transcript:Hba_09655
+Scaffold1120	WormBase_imported	CDS	4120	4281	.	+	0	ID=cds:Hba_09655;Parent=transcript:Hba_09655
+Scaffold1120	WormBase_imported	CDS	4300	5176	.	+	0	ID=cds:Hba_09655;Parent=transcript:Hba_09655
+Scaffold1120	WormBase_imported	CDS	5243	9054	.	+	2	ID=cds:Hba_09655;Parent=transcript:Hba_09655
+Scaffold1120	WormBase_imported	CDS	9252	9257	.	+	0	ID=cds:Hba_09655;Parent=transcript:Hba_09655
+Scaffold29	WormBase_imported	gene	3911	6058	.	-	.	ID=gene:Hba_00262;Name=Hba_00262;biotype=protein_coding
+Scaffold29	WormBase_imported	mRNA	3911	6058	.	-	.	ID=transcript:Hba_00262;Parent=gene:Hba_00262;Name=Hba_00262;info=method:InterPro accession:IPR036388 description:Winged helix-like DNA-binding domain superfamily
+Scaffold29	WormBase_imported	exon	5966	6058	.	-	.	ID=exon:Hba_00262.1;Parent=transcript:Hba_00262
+Scaffold29	WormBase_imported	exon	5752	5902	.	-	.	ID=exon:Hba_00262.2;Parent=transcript:Hba_00262
+Scaffold29	WormBase_imported	exon	5719	5728	.	-	.	ID=exon:Hba_00262.3;Parent=transcript:Hba_00262
+Scaffold29	WormBase_imported	exon	5585	5641	.	-	.	ID=exon:Hba_00262.4;Parent=transcript:Hba_00262
+Scaffold29	WormBase_imported	exon	5095	5288	.	-	.	ID=exon:Hba_00262.5;Parent=transcript:Hba_00262
+Scaffold29	WormBase_imported	exon	4935	5069	.	-	.	ID=exon:Hba_00262.6;Parent=transcript:Hba_00262
+Scaffold29	WormBase_imported	exon	4543	4563	.	-	.	ID=exon:Hba_00262.7;Parent=transcript:Hba_00262
+Scaffold29	WormBase_imported	exon	4475	4498	.	-	.	ID=exon:Hba_00262.8;Parent=transcript:Hba_00262
+Scaffold29	WormBase_imported	exon	4293	4295	.	-	.	ID=exon:Hba_00262.9;Parent=transcript:Hba_00262
+Scaffold29	WormBase_imported	exon	3911	3999	.	-	.	ID=exon:Hba_00262.10;Parent=transcript:Hba_00262
+Scaffold29	WormBase_imported	CDS	5966	6058	.	-	0	ID=cds:Hba_00262;Parent=transcript:Hba_00262
+Scaffold29	WormBase_imported	CDS	5752	5902	.	-	0	ID=cds:Hba_00262;Parent=transcript:Hba_00262
+Scaffold29	WormBase_imported	CDS	5719	5728	.	-	2	ID=cds:Hba_00262;Parent=transcript:Hba_00262
+Scaffold29	WormBase_imported	CDS	5585	5641	.	-	1	ID=cds:Hba_00262;Parent=transcript:Hba_00262
+Scaffold29	WormBase_imported	CDS	5095	5288	.	-	1	ID=cds:Hba_00262;Parent=transcript:Hba_00262
+Scaffold29	WormBase_imported	CDS	4935	5069	.	-	2	ID=cds:Hba_00262;Parent=transcript:Hba_00262
+Scaffold29	WormBase_imported	CDS	4543	4563	.	-	2	ID=cds:Hba_00262;Parent=transcript:Hba_00262
+Scaffold29	WormBase_imported	CDS	4475	4498	.	-	2	ID=cds:Hba_00262;Parent=transcript:Hba_00262
+Scaffold29	WormBase_imported	CDS	4293	4295	.	-	2	ID=cds:Hba_00262;Parent=transcript:Hba_00262
+Scaffold29	WormBase_imported	CDS	3911	3999	.	-	2	ID=cds:Hba_00262;Parent=transcript:Hba_00262
+Scaffold91	WormBase_imported	gene	8794	10753	.	-	.	ID=gene:Hba_00945;Name=Hba_00945;biotype=protein_coding
+Scaffold91	WormBase_imported	mRNA	8794	10753	.	-	.	ID=transcript:Hba_00945;Parent=gene:Hba_00945;Name=Hba_00945
+Scaffold91	WormBase_imported	exon	10727	10753	.	-	.	ID=exon:Hba_00945.1;Parent=transcript:Hba_00945
+Scaffold91	WormBase_imported	exon	10640	10695	.	-	.	ID=exon:Hba_00945.2;Parent=transcript:Hba_00945
+Scaffold91	WormBase_imported	exon	10494	10520	.	-	.	ID=exon:Hba_00945.3;Parent=transcript:Hba_00945
+Scaffold91	WormBase_imported	exon	10177	10200	.	-	.	ID=exon:Hba_00945.4;Parent=transcript:Hba_00945
+Scaffold91	WormBase_imported	exon	10036	10053	.	-	.	ID=exon:Hba_00945.5;Parent=transcript:Hba_00945
+Scaffold91	WormBase_imported	exon	9933	9997	.	-	.	ID=exon:Hba_00945.6;Parent=transcript:Hba_00945
+Scaffold91	WormBase_imported	exon	9852	9875	.	-	.	ID=exon:Hba_00945.7;Parent=transcript:Hba_00945
+Scaffold91	WormBase_imported	exon	9794	9841	.	-	.	ID=exon:Hba_00945.8;Parent=transcript:Hba_00945
+Scaffold91	WormBase_imported	exon	9703	9770	.	-	.	ID=exon:Hba_00945.9;Parent=transcript:Hba_00945
+Scaffold91	WormBase_imported	exon	9601	9637	.	-	.	ID=exon:Hba_00945.10;Parent=transcript:Hba_00945
+Scaffold91	WormBase_imported	exon	9483	9565	.	-	.	ID=exon:Hba_00945.11;Parent=transcript:Hba_00945
+Scaffold91	WormBase_imported	exon	9089	9152	.	-	.	ID=exon:Hba_00945.12;Parent=transcript:Hba_00945
+Scaffold91	WormBase_imported	exon	8794	8870	.	-	.	ID=exon:Hba_00945.13;Parent=transcript:Hba_00945
+Scaffold91	WormBase_imported	CDS	10727	10753	.	-	0	ID=cds:Hba_00945;Parent=transcript:Hba_00945
+Scaffold91	WormBase_imported	CDS	10640	10695	.	-	0	ID=cds:Hba_00945;Parent=transcript:Hba_00945
+Scaffold91	WormBase_imported	CDS	10494	10520	.	-	1	ID=cds:Hba_00945;Parent=transcript:Hba_00945
+Scaffold91	WormBase_imported	CDS	10177	10200	.	-	1	ID=cds:Hba_00945;Parent=transcript:Hba_00945
+Scaffold91	WormBase_imported	CDS	10036	10053	.	-	1	ID=cds:Hba_00945;Parent=transcript:Hba_00945
+Scaffold91	WormBase_imported	CDS	9933	9997	.	-	1	ID=cds:Hba_00945;Parent=transcript:Hba_00945
+Scaffold91	WormBase_imported	CDS	9852	9875	.	-	2	ID=cds:Hba_00945;Parent=transcript:Hba_00945
+Scaffold91	WormBase_imported	CDS	9794	9841	.	-	2	ID=cds:Hba_00945;Parent=transcript:Hba_00945
+Scaffold91	WormBase_imported	CDS	9703	9770	.	-	2	ID=cds:Hba_00945;Parent=transcript:Hba_00945
+Scaffold91	WormBase_imported	CDS	9601	9637	.	-	0	ID=cds:Hba_00945;Parent=transcript:Hba_00945
+Scaffold91	WormBase_imported	CDS	9483	9565	.	-	2	ID=cds:Hba_00945;Parent=transcript:Hba_00945
+Scaffold91	WormBase_imported	CDS	9089	9152	.	-	0	ID=cds:Hba_00945;Parent=transcript:Hba_00945
+Scaffold91	WormBase_imported	CDS	8794	8870	.	-	2	ID=cds:Hba_00945;Parent=transcript:Hba_00945
+Scaffold764	WormBase_imported	gene	1015	4148	.	-	.	ID=gene:Hba_04653;Name=Hba_04653;biotype=protein_coding
+Scaffold764	WormBase_imported	mRNA	1015	4148	.	-	.	ID=transcript:Hba_04653;Parent=gene:Hba_04653;Name=Hba_04653
+Scaffold764	WormBase_imported	exon	4013	4148	.	-	.	ID=exon:Hba_04653.1;Parent=transcript:Hba_04653
+Scaffold764	WormBase_imported	exon	3851	3865	.	-	.	ID=exon:Hba_04653.2;Parent=transcript:Hba_04653
+Scaffold764	WormBase_imported	exon	3829	3840	.	-	.	ID=exon:Hba_04653.3;Parent=transcript:Hba_04653
+Scaffold764	WormBase_imported	exon	3618	3632	.	-	.	ID=exon:Hba_04653.4;Parent=transcript:Hba_04653
+Scaffold764	WormBase_imported	exon	3505	3520	.	-	.	ID=exon:Hba_04653.5;Parent=transcript:Hba_04653
+Scaffold764	WormBase_imported	exon	3425	3467	.	-	.	ID=exon:Hba_04653.6;Parent=transcript:Hba_04653
+Scaffold764	WormBase_imported	exon	3023	3046	.	-	.	ID=exon:Hba_04653.7;Parent=transcript:Hba_04653
+Scaffold764	WormBase_imported	exon	2935	3009	.	-	.	ID=exon:Hba_04653.8;Parent=transcript:Hba_04653
+Scaffold764	WormBase_imported	exon	2473	2917	.	-	.	ID=exon:Hba_04653.9;Parent=transcript:Hba_04653
+Scaffold764	WormBase_imported	exon	2080	2260	.	-	.	ID=exon:Hba_04653.10;Parent=transcript:Hba_04653
+Scaffold764	WormBase_imported	exon	1904	2059	.	-	.	ID=exon:Hba_04653.11;Parent=transcript:Hba_04653
+Scaffold764	WormBase_imported	exon	1774	1804	.	-	.	ID=exon:Hba_04653.12;Parent=transcript:Hba_04653
+Scaffold764	WormBase_imported	exon	1196	1201	.	-	.	ID=exon:Hba_04653.13;Parent=transcript:Hba_04653
+Scaffold764	WormBase_imported	exon	1015	1131	.	-	.	ID=exon:Hba_04653.14;Parent=transcript:Hba_04653
+Scaffold764	WormBase_imported	CDS	4013	4148	.	-	0	ID=cds:Hba_04653;Parent=transcript:Hba_04653
+Scaffold764	WormBase_imported	CDS	3851	3865	.	-	2	ID=cds:Hba_04653;Parent=transcript:Hba_04653
+Scaffold764	WormBase_imported	CDS	3829	3840	.	-	2	ID=cds:Hba_04653;Parent=transcript:Hba_04653
+Scaffold764	WormBase_imported	CDS	3618	3632	.	-	2	ID=cds:Hba_04653;Parent=transcript:Hba_04653
+Scaffold764	WormBase_imported	CDS	3505	3520	.	-	2	ID=cds:Hba_04653;Parent=transcript:Hba_04653
+Scaffold764	WormBase_imported	CDS	3425	3467	.	-	1	ID=cds:Hba_04653;Parent=transcript:Hba_04653
+Scaffold764	WormBase_imported	CDS	3023	3046	.	-	0	ID=cds:Hba_04653;Parent=transcript:Hba_04653
+Scaffold764	WormBase_imported	CDS	2935	3009	.	-	0	ID=cds:Hba_04653;Parent=transcript:Hba_04653
+Scaffold764	WormBase_imported	CDS	2473	2917	.	-	0	ID=cds:Hba_04653;Parent=transcript:Hba_04653
+Scaffold764	WormBase_imported	CDS	2080	2260	.	-	2	ID=cds:Hba_04653;Parent=transcript:Hba_04653
+Scaffold764	WormBase_imported	CDS	1904	2059	.	-	1	ID=cds:Hba_04653;Parent=transcript:Hba_04653
+Scaffold764	WormBase_imported	CDS	1774	1804	.	-	1	ID=cds:Hba_04653;Parent=transcript:Hba_04653
+Scaffold764	WormBase_imported	CDS	1196	1201	.	-	0	ID=cds:Hba_04653;Parent=transcript:Hba_04653
+Scaffold764	WormBase_imported	CDS	1015	1131	.	-	0	ID=cds:Hba_04653;Parent=transcript:Hba_04653
+Scaffold1105	WormBase_imported	gene	2506	7091	.	+	.	ID=gene:Hba_09357;Name=Hba_09357;biotype=protein_coding
+Scaffold1105	WormBase_imported	mRNA	2506	7091	.	+	.	ID=transcript:Hba_09357;Parent=gene:Hba_09357;Name=Hba_09357
+Scaffold1105	WormBase_imported	exon	2506	2637	.	+	.	ID=exon:Hba_09357.1;Parent=transcript:Hba_09357
+Scaffold1105	WormBase_imported	exon	2673	2673	.	+	.	ID=exon:Hba_09357.2;Parent=transcript:Hba_09357
+Scaffold1105	WormBase_imported	exon	3175	3236	.	+	.	ID=exon:Hba_09357.3;Parent=transcript:Hba_09357
+Scaffold1105	WormBase_imported	exon	3370	3378	.	+	.	ID=exon:Hba_09357.4;Parent=transcript:Hba_09357
+Scaffold1105	WormBase_imported	exon	3477	3485	.	+	.	ID=exon:Hba_09357.5;Parent=transcript:Hba_09357
+Scaffold1105	WormBase_imported	exon	3627	3647	.	+	.	ID=exon:Hba_09357.6;Parent=transcript:Hba_09357
+Scaffold1105	WormBase_imported	exon	4602	4607	.	+	.	ID=exon:Hba_09357.7;Parent=transcript:Hba_09357
+Scaffold1105	WormBase_imported	exon	4748	4775	.	+	.	ID=exon:Hba_09357.8;Parent=transcript:Hba_09357
+Scaffold1105	WormBase_imported	exon	4986	4994	.	+	.	ID=exon:Hba_09357.9;Parent=transcript:Hba_09357
+Scaffold1105	WormBase_imported	exon	5760	5768	.	+	.	ID=exon:Hba_09357.10;Parent=transcript:Hba_09357
+Scaffold1105	WormBase_imported	exon	6291	6293	.	+	.	ID=exon:Hba_09357.11;Parent=transcript:Hba_09357
+Scaffold1105	WormBase_imported	exon	6991	7091	.	+	.	ID=exon:Hba_09357.12;Parent=transcript:Hba_09357
+Scaffold1105	WormBase_imported	CDS	2506	2637	.	+	0	ID=cds:Hba_09357;Parent=transcript:Hba_09357
+Scaffold1105	WormBase_imported	CDS	2673	2673	.	+	0	ID=cds:Hba_09357;Parent=transcript:Hba_09357
+Scaffold1105	WormBase_imported	CDS	3175	3236	.	+	2	ID=cds:Hba_09357;Parent=transcript:Hba_09357
+Scaffold1105	WormBase_imported	CDS	3370	3378	.	+	0	ID=cds:Hba_09357;Parent=transcript:Hba_09357
+Scaffold1105	WormBase_imported	CDS	3477	3485	.	+	0	ID=cds:Hba_09357;Parent=transcript:Hba_09357
+Scaffold1105	WormBase_imported	CDS	3627	3647	.	+	0	ID=cds:Hba_09357;Parent=transcript:Hba_09357
+Scaffold1105	WormBase_imported	CDS	4602	4607	.	+	0	ID=cds:Hba_09357;Parent=transcript:Hba_09357
+Scaffold1105	WormBase_imported	CDS	4748	4775	.	+	0	ID=cds:Hba_09357;Parent=transcript:Hba_09357
+Scaffold1105	WormBase_imported	CDS	4986	4994	.	+	2	ID=cds:Hba_09357;Parent=transcript:Hba_09357
+Scaffold1105	WormBase_imported	CDS	5760	5768	.	+	2	ID=cds:Hba_09357;Parent=transcript:Hba_09357
+Scaffold1105	WormBase_imported	CDS	6291	6293	.	+	2	ID=cds:Hba_09357;Parent=transcript:Hba_09357
+Scaffold1105	WormBase_imported	CDS	6991	7091	.	+	2	ID=cds:Hba_09357;Parent=transcript:Hba_09357
+Scaffold973	WormBase_imported	gene	6642	8514	.	+	.	ID=gene:Hba_06050;Name=Hba_06050;biotype=protein_coding
+Scaffold973	WormBase_imported	mRNA	6642	8514	.	+	.	ID=transcript:Hba_06050;Parent=gene:Hba_06050;Name=Hba_06050
+Scaffold973	WormBase_imported	exon	6642	6657	.	+	.	ID=exon:Hba_06050.1;Parent=transcript:Hba_06050
+Scaffold973	WormBase_imported	exon	6777	6791	.	+	.	ID=exon:Hba_06050.2;Parent=transcript:Hba_06050
+Scaffold973	WormBase_imported	exon	6895	6903	.	+	.	ID=exon:Hba_06050.3;Parent=transcript:Hba_06050
+Scaffold973	WormBase_imported	exon	7026	7037	.	+	.	ID=exon:Hba_06050.4;Parent=transcript:Hba_06050
+Scaffold973	WormBase_imported	exon	7213	7235	.	+	.	ID=exon:Hba_06050.5;Parent=transcript:Hba_06050
+Scaffold973	WormBase_imported	exon	7633	7748	.	+	.	ID=exon:Hba_06050.6;Parent=transcript:Hba_06050
+Scaffold973	WormBase_imported	exon	7989	8002	.	+	.	ID=exon:Hba_06050.7;Parent=transcript:Hba_06050
+Scaffold973	WormBase_imported	exon	8438	8514	.	+	.	ID=exon:Hba_06050.8;Parent=transcript:Hba_06050
+Scaffold973	WormBase_imported	CDS	6642	6657	.	+	0	ID=cds:Hba_06050;Parent=transcript:Hba_06050
+Scaffold973	WormBase_imported	CDS	6777	6791	.	+	2	ID=cds:Hba_06050;Parent=transcript:Hba_06050
+Scaffold973	WormBase_imported	CDS	6895	6903	.	+	2	ID=cds:Hba_06050;Parent=transcript:Hba_06050
+Scaffold973	WormBase_imported	CDS	7026	7037	.	+	2	ID=cds:Hba_06050;Parent=transcript:Hba_06050
+Scaffold973	WormBase_imported	CDS	7213	7235	.	+	2	ID=cds:Hba_06050;Parent=transcript:Hba_06050
+Scaffold973	WormBase_imported	CDS	7633	7748	.	+	0	ID=cds:Hba_06050;Parent=transcript:Hba_06050
+Scaffold973	WormBase_imported	CDS	7989	8002	.	+	1	ID=cds:Hba_06050;Parent=transcript:Hba_06050
+Scaffold973	WormBase_imported	CDS	8438	8514	.	+	2	ID=cds:Hba_06050;Parent=transcript:Hba_06050
+Scaffold875	WormBase_imported	gene	7163	8099	.	+	.	ID=gene:Hba_05518;Name=Hba_05518;biotype=protein_coding
+Scaffold875	WormBase_imported	mRNA	7163	8099	.	+	.	ID=transcript:Hba_05518;Parent=gene:Hba_05518;Name=Hba_05518
+Scaffold875	WormBase_imported	exon	7163	7165	.	+	.	ID=exon:Hba_05518.1;Parent=transcript:Hba_05518
+Scaffold875	WormBase_imported	exon	7444	7453	.	+	.	ID=exon:Hba_05518.2;Parent=transcript:Hba_05518
+Scaffold875	WormBase_imported	exon	7522	7527	.	+	.	ID=exon:Hba_05518.3;Parent=transcript:Hba_05518
+Scaffold875	WormBase_imported	exon	7588	7599	.	+	.	ID=exon:Hba_05518.4;Parent=transcript:Hba_05518
+Scaffold875	WormBase_imported	exon	7697	7714	.	+	.	ID=exon:Hba_05518.5;Parent=transcript:Hba_05518
+Scaffold875	WormBase_imported	exon	7834	8099	.	+	.	ID=exon:Hba_05518.6;Parent=transcript:Hba_05518
+Scaffold875	WormBase_imported	CDS	7163	7165	.	+	0	ID=cds:Hba_05518;Parent=transcript:Hba_05518
+Scaffold875	WormBase_imported	CDS	7444	7453	.	+	0	ID=cds:Hba_05518;Parent=transcript:Hba_05518
+Scaffold875	WormBase_imported	CDS	7522	7527	.	+	2	ID=cds:Hba_05518;Parent=transcript:Hba_05518
+Scaffold875	WormBase_imported	CDS	7588	7599	.	+	2	ID=cds:Hba_05518;Parent=transcript:Hba_05518
+Scaffold875	WormBase_imported	CDS	7697	7714	.	+	2	ID=cds:Hba_05518;Parent=transcript:Hba_05518
+Scaffold875	WormBase_imported	CDS	7834	8099	.	+	2	ID=cds:Hba_05518;Parent=transcript:Hba_05518
+Scaffold875	WormBase_imported	gene	8165	8976	.	+	.	ID=gene:Hba_05519;Name=Hba_05519;biotype=protein_coding
+Scaffold875	WormBase_imported	mRNA	8165	8976	.	+	.	ID=transcript:Hba_05519;Parent=gene:Hba_05519;Name=Hba_05519
+Scaffold875	WormBase_imported	exon	8165	8167	.	+	.	ID=exon:Hba_05519.1;Parent=transcript:Hba_05519
+Scaffold875	WormBase_imported	exon	8256	8273	.	+	.	ID=exon:Hba_05519.2;Parent=transcript:Hba_05519
+Scaffold875	WormBase_imported	exon	8371	8385	.	+	.	ID=exon:Hba_05519.3;Parent=transcript:Hba_05519
+Scaffold875	WormBase_imported	exon	8495	8539	.	+	.	ID=exon:Hba_05519.4;Parent=transcript:Hba_05519
+Scaffold875	WormBase_imported	exon	8564	8645	.	+	.	ID=exon:Hba_05519.5;Parent=transcript:Hba_05519
+Scaffold875	WormBase_imported	exon	8762	8820	.	+	.	ID=exon:Hba_05519.6;Parent=transcript:Hba_05519
+Scaffold875	WormBase_imported	exon	8881	8929	.	+	.	ID=exon:Hba_05519.7;Parent=transcript:Hba_05519
+Scaffold875	WormBase_imported	exon	8956	8976	.	+	.	ID=exon:Hba_05519.8;Parent=transcript:Hba_05519
+Scaffold875	WormBase_imported	CDS	8165	8167	.	+	0	ID=cds:Hba_05519;Parent=transcript:Hba_05519
+Scaffold875	WormBase_imported	CDS	8256	8273	.	+	0	ID=cds:Hba_05519;Parent=transcript:Hba_05519
+Scaffold875	WormBase_imported	CDS	8371	8385	.	+	0	ID=cds:Hba_05519;Parent=transcript:Hba_05519
+Scaffold875	WormBase_imported	CDS	8495	8539	.	+	0	ID=cds:Hba_05519;Parent=transcript:Hba_05519
+Scaffold875	WormBase_imported	CDS	8564	8645	.	+	0	ID=cds:Hba_05519;Parent=transcript:Hba_05519
+Scaffold875	WormBase_imported	CDS	8762	8820	.	+	2	ID=cds:Hba_05519;Parent=transcript:Hba_05519
+Scaffold875	WormBase_imported	CDS	8881	8929	.	+	0	ID=cds:Hba_05519;Parent=transcript:Hba_05519
+Scaffold875	WormBase_imported	CDS	8956	8976	.	+	2	ID=cds:Hba_05519;Parent=transcript:Hba_05519
+Scaffold875	tandem	tandem_repeat	36	150	160	-	.	
+Scaffold875	tandem	tandem_repeat	72	918	1547	-	.	
+Scaffold875	tandem	tandem_repeat	447	536	132	-	.	
+Scaffold875	tandem	tandem_repeat	455	1539	1944	-	.	
+Scaffold875	tandem	tandem_repeat	455	534	139	-	.	
+Scaffold875	tandem	tandem_repeat	839	990	248	-	.	
+Scaffold875	tandem	tandem_repeat	1295	1442	268	-	.	
+Scaffold875	tandem	tandem_repeat	1295	1442	296	-	.	
+Scaffold875	dust	low_complexity_region	1588	1594	.	-	.	
+Scaffold875	tandem	tandem_repeat	2626	2656	44	-	.	
+Scaffold875	dust	low_complexity_region	2626	2656	.	-	.	
+Scaffold875	dust	low_complexity_region	2741	2747	.	-	.	
+Scaffold875	dust	low_complexity_region	4061	4068	.	-	.	
+Scaffold875	dust	low_complexity_region	4769	4847	.	-	.	
+Scaffold875	dust	low_complexity_region	6816	6822	.	-	.	
+Scaffold875	dust	low_complexity_region	7723	7729	.	-	.	
+Scaffold875	dust	low_complexity_region	8527	8534	.	-	.	
+Scaffold875	RepeatMasker	repeat_region	8659	9048	2452	-	.	
+Scaffold724	WormBase_imported	gene	7131	8143	.	+	.	ID=gene:Hba_04363;Name=Hba_04363;biotype=protein_coding
+Scaffold724	WormBase_imported	mRNA	7131	8143	.	+	.	ID=transcript:Hba_04363;Parent=gene:Hba_04363;Name=Hba_04363
+Scaffold724	WormBase_imported	exon	7131	7156	.	+	.	ID=exon:Hba_04363.1;Parent=transcript:Hba_04363
+Scaffold724	WormBase_imported	exon	7368	7418	.	+	.	ID=exon:Hba_04363.2;Parent=transcript:Hba_04363
+Scaffold724	WormBase_imported	exon	7486	7570	.	+	.	ID=exon:Hba_04363.3;Parent=transcript:Hba_04363
+Scaffold724	WormBase_imported	exon	7889	7906	.	+	.	ID=exon:Hba_04363.4;Parent=transcript:Hba_04363
+Scaffold724	WormBase_imported	exon	8102	8107	.	+	.	ID=exon:Hba_04363.5;Parent=transcript:Hba_04363
+Scaffold724	WormBase_imported	exon	8132	8143	.	+	.	ID=exon:Hba_04363.6;Parent=transcript:Hba_04363
+Scaffold724	WormBase_imported	CDS	7131	7156	.	+	0	ID=cds:Hba_04363;Parent=transcript:Hba_04363
+Scaffold724	WormBase_imported	CDS	7368	7418	.	+	1	ID=cds:Hba_04363;Parent=transcript:Hba_04363
+Scaffold724	WormBase_imported	CDS	7486	7570	.	+	1	ID=cds:Hba_04363;Parent=transcript:Hba_04363
+Scaffold724	WormBase_imported	CDS	7889	7906	.	+	0	ID=cds:Hba_04363;Parent=transcript:Hba_04363
+Scaffold724	WormBase_imported	CDS	8102	8107	.	+	0	ID=cds:Hba_04363;Parent=transcript:Hba_04363
+Scaffold724	WormBase_imported	CDS	8132	8143	.	+	0	ID=cds:Hba_04363;Parent=transcript:Hba_04363
+Scaffold724	RepeatMasker	repeat_region	1	446	3214	-	.	Name=rnd-1_family-135;repeat_class=LTR/Pao
+Scaffold724	dust	low_complexity_region	45	136	.	-	.	
+Scaffold724	tandem	tandem_repeat	86	133	54	-	.	
+Scaffold724	tandem	tandem_repeat	86	120	63	-	.	
+Scaffold724	tandem	tandem_repeat	97	126	44	-	.	
+Scaffold724	RepeatMasker	repeat_region	1067	1338	1981	+	.	
+Scaffold724	RepeatMasker	repeat_region	1868	3118	8971	-	.	Name=rnd-1_family-30;repeat_class=DNA/TcMar-Mariner
+Scaffold724	dust	low_complexity_region	1895	1901	.	-	.	
+Scaffold724	dust	low_complexity_region	3119	3691	.	-	.	
+Scaffold724	RepeatMasker	repeat_region	3695	4140	2810	-	.	
+Scaffold724	dust	low_complexity_region	3749	3755	.	-	.	
+Scaffold724	RepeatMasker	repeat_region	4142	4810	5402	-	.	Name=rnd-1_family-122;repeat_class=LTR/Pao
+Scaffold724	RepeatMasker	repeat_region	4813	5468	4586	-	.	
+Scaffold724	dust	low_complexity_region	5028	5065	.	-	.	
+Scaffold724	dust	low_complexity_region	5448	5455	.	-	.	
+Scaffold724	RepeatMasker	repeat_region	5581	5806	826	+	.	
+Scaffold724	dust	low_complexity_region	5590	5596	.	-	.	
+Scaffold724	RepeatMasker	repeat_region	5806	6062	1912	+	.	
+Scaffold724	RepeatMasker	repeat_region	5896	6208	2552	-	.	
+Scaffold724	dust	low_complexity_region	6740	6746	.	-	.	
+Scaffold724	RepeatMasker	repeat_region	6768	6872	364	+	.	
+Scaffold724	RepeatMasker	repeat_region	7789	8007	475	-	.	
+Scaffold134	WormBase_imported	gene	2392	3472	.	+	.	ID=gene:Hba_01316;Name=Hba_01316;biotype=protein_coding
+Scaffold134	WormBase_imported	mRNA	2392	3472	.	+	.	ID=transcript:Hba_01316;Parent=gene:Hba_01316;Name=Hba_01316
+Scaffold134	WormBase_imported	exon	2392	2489	.	+	.	ID=exon:Hba_01316.1;Parent=transcript:Hba_01316
+Scaffold134	WormBase_imported	exon	2548	2573	.	+	.	ID=exon:Hba_01316.2;Parent=transcript:Hba_01316
+Scaffold134	WormBase_imported	exon	2617	2652	.	+	.	ID=exon:Hba_01316.3;Parent=transcript:Hba_01316
+Scaffold134	WormBase_imported	exon	2711	2796	.	+	.	ID=exon:Hba_01316.4;Parent=transcript:Hba_01316
+Scaffold134	WormBase_imported	exon	2865	2963	.	+	.	ID=exon:Hba_01316.5;Parent=transcript:Hba_01316
+Scaffold134	WormBase_imported	exon	2993	3001	.	+	.	ID=exon:Hba_01316.6;Parent=transcript:Hba_01316
+Scaffold134	WormBase_imported	exon	3047	3049	.	+	.	ID=exon:Hba_01316.7;Parent=transcript:Hba_01316
+Scaffold134	WormBase_imported	exon	3102	3125	.	+	.	ID=exon:Hba_01316.8;Parent=transcript:Hba_01316
+Scaffold134	WormBase_imported	exon	3350	3472	.	+	.	ID=exon:Hba_01316.9;Parent=transcript:Hba_01316
+Scaffold134	WormBase_imported	CDS	2392	2489	.	+	0	ID=cds:Hba_01316;Parent=transcript:Hba_01316
+Scaffold134	WormBase_imported	CDS	2548	2573	.	+	1	ID=cds:Hba_01316;Parent=transcript:Hba_01316
+Scaffold134	WormBase_imported	CDS	2617	2652	.	+	2	ID=cds:Hba_01316;Parent=transcript:Hba_01316
+Scaffold134	WormBase_imported	CDS	2711	2796	.	+	2	ID=cds:Hba_01316;Parent=transcript:Hba_01316
+Scaffold134	WormBase_imported	CDS	2865	2963	.	+	0	ID=cds:Hba_01316;Parent=transcript:Hba_01316
+Scaffold134	WormBase_imported	CDS	2993	3001	.	+	0	ID=cds:Hba_01316;Parent=transcript:Hba_01316
+Scaffold134	WormBase_imported	CDS	3047	3049	.	+	0	ID=cds:Hba_01316;Parent=transcript:Hba_01316
+Scaffold134	WormBase_imported	CDS	3102	3125	.	+	0	ID=cds:Hba_01316;Parent=transcript:Hba_01316
+Scaffold134	WormBase_imported	CDS	3350	3472	.	+	0	ID=cds:Hba_01316;Parent=transcript:Hba_01316
+Scaffold761	WormBase_imported	gene	1278	2345	.	+	.	ID=gene:Hba_04623;Name=Hba_04623;biotype=protein_coding
+Scaffold761	WormBase_imported	mRNA	1278	2345	.	+	.	ID=transcript:Hba_04623;Parent=gene:Hba_04623;Name=Hba_04623
+Scaffold761	WormBase_imported	exon	1278	1307	.	+	.	ID=exon:Hba_04623.1;Parent=transcript:Hba_04623
+Scaffold761	WormBase_imported	exon	1321	1342	.	+	.	ID=exon:Hba_04623.2;Parent=transcript:Hba_04623
+Scaffold761	WormBase_imported	exon	1353	1363	.	+	.	ID=exon:Hba_04623.3;Parent=transcript:Hba_04623
+Scaffold761	WormBase_imported	exon	1376	1403	.	+	.	ID=exon:Hba_04623.4;Parent=transcript:Hba_04623
+Scaffold761	WormBase_imported	exon	1432	1443	.	+	.	ID=exon:Hba_04623.5;Parent=transcript:Hba_04623
+Scaffold761	WormBase_imported	exon	1454	1464	.	+	.	ID=exon:Hba_04623.6;Parent=transcript:Hba_04623
+Scaffold761	WormBase_imported	exon	1498	1553	.	+	.	ID=exon:Hba_04623.7;Parent=transcript:Hba_04623
+Scaffold761	WormBase_imported	exon	1567	1586	.	+	.	ID=exon:Hba_04623.8;Parent=transcript:Hba_04623
+Scaffold761	WormBase_imported	exon	1608	1704	.	+	.	ID=exon:Hba_04623.9;Parent=transcript:Hba_04623
+Scaffold761	WormBase_imported	exon	1732	1806	.	+	.	ID=exon:Hba_04623.10;Parent=transcript:Hba_04623
+Scaffold761	WormBase_imported	exon	1817	1837	.	+	.	ID=exon:Hba_04623.11;Parent=transcript:Hba_04623
+Scaffold761	WormBase_imported	exon	1907	1918	.	+	.	ID=exon:Hba_04623.12;Parent=transcript:Hba_04623
+Scaffold761	WormBase_imported	exon	1938	1961	.	+	.	ID=exon:Hba_04623.13;Parent=transcript:Hba_04623
+Scaffold761	WormBase_imported	exon	1992	2034	.	+	.	ID=exon:Hba_04623.14;Parent=transcript:Hba_04623
+Scaffold761	WormBase_imported	exon	2052	2098	.	+	.	ID=exon:Hba_04623.15;Parent=transcript:Hba_04623
+Scaffold761	WormBase_imported	exon	2109	2153	.	+	.	ID=exon:Hba_04623.16;Parent=transcript:Hba_04623
+Scaffold761	WormBase_imported	exon	2179	2221	.	+	.	ID=exon:Hba_04623.17;Parent=transcript:Hba_04623
+Scaffold761	WormBase_imported	exon	2251	2259	.	+	.	ID=exon:Hba_04623.18;Parent=transcript:Hba_04623
+Scaffold761	WormBase_imported	exon	2295	2345	.	+	.	ID=exon:Hba_04623.19;Parent=transcript:Hba_04623
+Scaffold761	WormBase_imported	CDS	1278	1307	.	+	0	ID=cds:Hba_04623;Parent=transcript:Hba_04623
+Scaffold761	WormBase_imported	CDS	1321	1342	.	+	0	ID=cds:Hba_04623;Parent=transcript:Hba_04623
+Scaffold761	WormBase_imported	CDS	1353	1363	.	+	2	ID=cds:Hba_04623;Parent=transcript:Hba_04623
+Scaffold761	WormBase_imported	CDS	1376	1403	.	+	0	ID=cds:Hba_04623;Parent=transcript:Hba_04623
+Scaffold761	WormBase_imported	CDS	1432	1443	.	+	2	ID=cds:Hba_04623;Parent=transcript:Hba_04623
+Scaffold761	WormBase_imported	CDS	1454	1464	.	+	2	ID=cds:Hba_04623;Parent=transcript:Hba_04623
+Scaffold761	WormBase_imported	CDS	1498	1553	.	+	0	ID=cds:Hba_04623;Parent=transcript:Hba_04623
+Scaffold761	WormBase_imported	CDS	1567	1586	.	+	1	ID=cds:Hba_04623;Parent=transcript:Hba_04623
+Scaffold761	WormBase_imported	CDS	1608	1704	.	+	2	ID=cds:Hba_04623;Parent=transcript:Hba_04623
+Scaffold761	WormBase_imported	CDS	1732	1806	.	+	1	ID=cds:Hba_04623;Parent=transcript:Hba_04623
+Scaffold761	WormBase_imported	CDS	1817	1837	.	+	1	ID=cds:Hba_04623;Parent=transcript:Hba_04623
+Scaffold761	WormBase_imported	CDS	1907	1918	.	+	1	ID=cds:Hba_04623;Parent=transcript:Hba_04623
+Scaffold761	WormBase_imported	CDS	1938	1961	.	+	1	ID=cds:Hba_04623;Parent=transcript:Hba_04623
+Scaffold761	WormBase_imported	CDS	1992	2034	.	+	1	ID=cds:Hba_04623;Parent=transcript:Hba_04623
+Scaffold761	WormBase_imported	CDS	2052	2098	.	+	0	ID=cds:Hba_04623;Parent=transcript:Hba_04623
+Scaffold761	WormBase_imported	CDS	2109	2153	.	+	1	ID=cds:Hba_04623;Parent=transcript:Hba_04623
+Scaffold761	WormBase_imported	CDS	2179	2221	.	+	1	ID=cds:Hba_04623;Parent=transcript:Hba_04623
+Scaffold761	WormBase_imported	CDS	2251	2259	.	+	0	ID=cds:Hba_04623;Parent=transcript:Hba_04623
+Scaffold761	WormBase_imported	CDS	2295	2345	.	+	0	ID=cds:Hba_04623;Parent=transcript:Hba_04623
+Scaffold665	WormBase_imported	gene	1550	3823	.	+	.	ID=gene:Hba_03905;Name=Hba_03905;biotype=protein_coding
+Scaffold665	WormBase_imported	mRNA	1550	3823	.	+	.	ID=transcript:Hba_03905;Parent=gene:Hba_03905;Name=Hba_03905;info=method:InterPro accession:IPR041373 description:Reverse transcriptase%2C RNase H-like domain
+Scaffold665	WormBase_imported	exon	1550	1553	.	+	.	ID=exon:Hba_03905.1;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	exon	1620	1637	.	+	.	ID=exon:Hba_03905.2;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	exon	1706	1712	.	+	.	ID=exon:Hba_03905.3;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	exon	1735	1735	.	+	.	ID=exon:Hba_03905.4;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	exon	1795	1824	.	+	.	ID=exon:Hba_03905.5;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	exon	1839	2015	.	+	.	ID=exon:Hba_03905.6;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	exon	2035	2134	.	+	.	ID=exon:Hba_03905.7;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	exon	2280	2284	.	+	.	ID=exon:Hba_03905.8;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	exon	2339	2339	.	+	.	ID=exon:Hba_03905.9;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	exon	2377	2475	.	+	.	ID=exon:Hba_03905.10;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	exon	2489	2500	.	+	.	ID=exon:Hba_03905.11;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	exon	2518	2541	.	+	.	ID=exon:Hba_03905.12;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	exon	2589	2597	.	+	.	ID=exon:Hba_03905.13;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	exon	2626	2717	.	+	.	ID=exon:Hba_03905.14;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	exon	2749	2775	.	+	.	ID=exon:Hba_03905.15;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	exon	2805	2819	.	+	.	ID=exon:Hba_03905.16;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	exon	3202	3203	.	+	.	ID=exon:Hba_03905.17;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	exon	3245	3247	.	+	.	ID=exon:Hba_03905.18;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	exon	3270	3284	.	+	.	ID=exon:Hba_03905.19;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	exon	3298	3304	.	+	.	ID=exon:Hba_03905.20;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	exon	3338	3364	.	+	.	ID=exon:Hba_03905.21;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	exon	3381	3501	.	+	.	ID=exon:Hba_03905.22;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	exon	3514	3551	.	+	.	ID=exon:Hba_03905.23;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	exon	3589	3608	.	+	.	ID=exon:Hba_03905.24;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	exon	3687	3773	.	+	.	ID=exon:Hba_03905.25;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	exon	3793	3823	.	+	.	ID=exon:Hba_03905.26;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	CDS	1550	1553	.	+	0	ID=cds:Hba_03905;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	CDS	1620	1637	.	+	2	ID=cds:Hba_03905;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	CDS	1706	1712	.	+	2	ID=cds:Hba_03905;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	CDS	1735	1735	.	+	1	ID=cds:Hba_03905;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	CDS	1795	1824	.	+	0	ID=cds:Hba_03905;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	CDS	1839	2015	.	+	0	ID=cds:Hba_03905;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	CDS	2035	2134	.	+	0	ID=cds:Hba_03905;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	CDS	2280	2284	.	+	2	ID=cds:Hba_03905;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	CDS	2339	2339	.	+	0	ID=cds:Hba_03905;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	CDS	2377	2475	.	+	2	ID=cds:Hba_03905;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	CDS	2489	2500	.	+	2	ID=cds:Hba_03905;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	CDS	2518	2541	.	+	2	ID=cds:Hba_03905;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	CDS	2589	2597	.	+	2	ID=cds:Hba_03905;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	CDS	2626	2717	.	+	2	ID=cds:Hba_03905;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	CDS	2749	2775	.	+	0	ID=cds:Hba_03905;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	CDS	2805	2819	.	+	0	ID=cds:Hba_03905;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	CDS	3202	3203	.	+	0	ID=cds:Hba_03905;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	CDS	3245	3247	.	+	1	ID=cds:Hba_03905;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	CDS	3270	3284	.	+	1	ID=cds:Hba_03905;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	CDS	3298	3304	.	+	1	ID=cds:Hba_03905;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	CDS	3338	3364	.	+	0	ID=cds:Hba_03905;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	CDS	3381	3501	.	+	0	ID=cds:Hba_03905;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	CDS	3514	3551	.	+	2	ID=cds:Hba_03905;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	CDS	3589	3608	.	+	0	ID=cds:Hba_03905;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	CDS	3687	3773	.	+	1	ID=cds:Hba_03905;Parent=transcript:Hba_03905
+Scaffold665	WormBase_imported	CDS	3793	3823	.	+	1	ID=cds:Hba_03905;Parent=transcript:Hba_03905
+Scaffold865	WormBase_imported	gene	1115	2686	.	+	.	ID=gene:Hba_05437;Name=Hba_05437;biotype=protein_coding
+Scaffold865	WormBase_imported	mRNA	1115	2686	.	+	.	ID=transcript:Hba_05437;Parent=gene:Hba_05437;Name=Hba_05437
+Scaffold865	WormBase_imported	exon	1115	1169	.	+	.	ID=exon:Hba_05437.1;Parent=transcript:Hba_05437
+Scaffold865	WormBase_imported	exon	1186	1214	.	+	.	ID=exon:Hba_05437.2;Parent=transcript:Hba_05437
+Scaffold865	WormBase_imported	exon	1229	1259	.	+	.	ID=exon:Hba_05437.3;Parent=transcript:Hba_05437
+Scaffold865	WormBase_imported	exon	1391	1437	.	+	.	ID=exon:Hba_05437.4;Parent=transcript:Hba_05437
+Scaffold865	WormBase_imported	exon	1482	1510	.	+	.	ID=exon:Hba_05437.5;Parent=transcript:Hba_05437
+Scaffold865	WormBase_imported	exon	1546	1727	.	+	.	ID=exon:Hba_05437.6;Parent=transcript:Hba_05437
+Scaffold865	WormBase_imported	exon	1743	1746	.	+	.	ID=exon:Hba_05437.7;Parent=transcript:Hba_05437
+Scaffold865	WormBase_imported	exon	1819	1903	.	+	.	ID=exon:Hba_05437.8;Parent=transcript:Hba_05437
+Scaffold865	WormBase_imported	exon	2039	2118	.	+	.	ID=exon:Hba_05437.9;Parent=transcript:Hba_05437
+Scaffold865	WormBase_imported	exon	2132	2194	.	+	.	ID=exon:Hba_05437.10;Parent=transcript:Hba_05437
+Scaffold865	WormBase_imported	exon	2246	2246	.	+	.	ID=exon:Hba_05437.11;Parent=transcript:Hba_05437
+Scaffold865	WormBase_imported	exon	2302	2307	.	+	.	ID=exon:Hba_05437.12;Parent=transcript:Hba_05437
+Scaffold865	WormBase_imported	exon	2405	2409	.	+	.	ID=exon:Hba_05437.13;Parent=transcript:Hba_05437
+Scaffold865	WormBase_imported	exon	2423	2424	.	+	.	ID=exon:Hba_05437.14;Parent=transcript:Hba_05437
+Scaffold865	WormBase_imported	exon	2515	2526	.	+	.	ID=exon:Hba_05437.15;Parent=transcript:Hba_05437
+Scaffold865	WormBase_imported	exon	2552	2554	.	+	.	ID=exon:Hba_05437.16;Parent=transcript:Hba_05437
+Scaffold865	WormBase_imported	exon	2569	2586	.	+	.	ID=exon:Hba_05437.17;Parent=transcript:Hba_05437
+Scaffold865	WormBase_imported	exon	2597	2686	.	+	.	ID=exon:Hba_05437.18;Parent=transcript:Hba_05437
+Scaffold865	WormBase_imported	CDS	1115	1169	.	+	0	ID=cds:Hba_05437;Parent=transcript:Hba_05437
+Scaffold865	WormBase_imported	CDS	1186	1214	.	+	2	ID=cds:Hba_05437;Parent=transcript:Hba_05437
+Scaffold865	WormBase_imported	CDS	1229	1259	.	+	0	ID=cds:Hba_05437;Parent=transcript:Hba_05437
+Scaffold865	WormBase_imported	CDS	1391	1437	.	+	2	ID=cds:Hba_05437;Parent=transcript:Hba_05437
+Scaffold865	WormBase_imported	CDS	1482	1510	.	+	0	ID=cds:Hba_05437;Parent=transcript:Hba_05437
+Scaffold865	WormBase_imported	CDS	1546	1727	.	+	1	ID=cds:Hba_05437;Parent=transcript:Hba_05437
+Scaffold865	WormBase_imported	CDS	1743	1746	.	+	2	ID=cds:Hba_05437;Parent=transcript:Hba_05437
+Scaffold865	WormBase_imported	CDS	1819	1903	.	+	1	ID=cds:Hba_05437;Parent=transcript:Hba_05437
+Scaffold865	WormBase_imported	CDS	2039	2118	.	+	0	ID=cds:Hba_05437;Parent=transcript:Hba_05437
+Scaffold865	WormBase_imported	CDS	2132	2194	.	+	1	ID=cds:Hba_05437;Parent=transcript:Hba_05437
+Scaffold865	WormBase_imported	CDS	2246	2246	.	+	1	ID=cds:Hba_05437;Parent=transcript:Hba_05437
+Scaffold865	WormBase_imported	CDS	2302	2307	.	+	0	ID=cds:Hba_05437;Parent=transcript:Hba_05437
+Scaffold865	WormBase_imported	CDS	2405	2409	.	+	0	ID=cds:Hba_05437;Parent=transcript:Hba_05437
+Scaffold865	WormBase_imported	CDS	2423	2424	.	+	1	ID=cds:Hba_05437;Parent=transcript:Hba_05437
+Scaffold865	WormBase_imported	CDS	2515	2526	.	+	2	ID=cds:Hba_05437;Parent=transcript:Hba_05437
+Scaffold865	WormBase_imported	CDS	2552	2554	.	+	2	ID=cds:Hba_05437;Parent=transcript:Hba_05437
+Scaffold865	WormBase_imported	CDS	2569	2586	.	+	2	ID=cds:Hba_05437;Parent=transcript:Hba_05437
+Scaffold865	WormBase_imported	CDS	2597	2686	.	+	2	ID=cds:Hba_05437;Parent=transcript:Hba_05437
+Scaffold865	RepeatMasker	repeat_region	1	349	2046	-	.	
+Scaffold865	RepeatMasker	repeat_region	355	661	1779	+	.	
+Scaffold865	dust	low_complexity_region	712	718	.	-	.	
+Scaffold865	RepeatMasker	repeat_region	1351	1839	3048	+	.	
+Scaffold865	dust	low_complexity_region	1719	1726	.	-	.	
+Scaffold865	dust	low_complexity_region	2056	2079	.	-	.	
+Scaffold910	WormBase_imported	gene	1431	2005	.	+	.	ID=gene:Hba_05648;Name=Hba_05648;biotype=protein_coding
+Scaffold910	WormBase_imported	mRNA	1431	2005	.	+	.	ID=transcript:Hba_05648;Parent=gene:Hba_05648;Name=Hba_05648
+Scaffold910	WormBase_imported	exon	1431	1447	.	+	.	ID=exon:Hba_05648.1;Parent=transcript:Hba_05648
+Scaffold910	WormBase_imported	exon	1482	1498	.	+	.	ID=exon:Hba_05648.2;Parent=transcript:Hba_05648
+Scaffold910	WormBase_imported	exon	1516	1522	.	+	.	ID=exon:Hba_05648.3;Parent=transcript:Hba_05648
+Scaffold910	WormBase_imported	exon	1576	1581	.	+	.	ID=exon:Hba_05648.4;Parent=transcript:Hba_05648
+Scaffold910	WormBase_imported	exon	1605	1607	.	+	.	ID=exon:Hba_05648.5;Parent=transcript:Hba_05648
+Scaffold910	WormBase_imported	exon	1640	1645	.	+	.	ID=exon:Hba_05648.6;Parent=transcript:Hba_05648
+Scaffold910	WormBase_imported	exon	1661	1672	.	+	.	ID=exon:Hba_05648.7;Parent=transcript:Hba_05648
+Scaffold910	WormBase_imported	exon	1698	1834	.	+	.	ID=exon:Hba_05648.8;Parent=transcript:Hba_05648
+Scaffold910	WormBase_imported	exon	1859	1861	.	+	.	ID=exon:Hba_05648.9;Parent=transcript:Hba_05648
+Scaffold910	WormBase_imported	exon	1877	1916	.	+	.	ID=exon:Hba_05648.10;Parent=transcript:Hba_05648
+Scaffold910	WormBase_imported	exon	1952	1957	.	+	.	ID=exon:Hba_05648.11;Parent=transcript:Hba_05648
+Scaffold910	WormBase_imported	exon	1975	2005	.	+	.	ID=exon:Hba_05648.12;Parent=transcript:Hba_05648
+Scaffold910	WormBase_imported	CDS	1431	1447	.	+	0	ID=cds:Hba_05648;Parent=transcript:Hba_05648
+Scaffold910	WormBase_imported	CDS	1482	1498	.	+	1	ID=cds:Hba_05648;Parent=transcript:Hba_05648
+Scaffold910	WormBase_imported	CDS	1516	1522	.	+	2	ID=cds:Hba_05648;Parent=transcript:Hba_05648
+Scaffold910	WormBase_imported	CDS	1576	1581	.	+	1	ID=cds:Hba_05648;Parent=transcript:Hba_05648
+Scaffold910	WormBase_imported	CDS	1605	1607	.	+	1	ID=cds:Hba_05648;Parent=transcript:Hba_05648
+Scaffold910	WormBase_imported	CDS	1640	1645	.	+	1	ID=cds:Hba_05648;Parent=transcript:Hba_05648
+Scaffold910	WormBase_imported	CDS	1661	1672	.	+	1	ID=cds:Hba_05648;Parent=transcript:Hba_05648
+Scaffold910	WormBase_imported	CDS	1698	1834	.	+	1	ID=cds:Hba_05648;Parent=transcript:Hba_05648
+Scaffold910	WormBase_imported	CDS	1859	1861	.	+	2	ID=cds:Hba_05648;Parent=transcript:Hba_05648
+Scaffold910	WormBase_imported	CDS	1877	1916	.	+	2	ID=cds:Hba_05648;Parent=transcript:Hba_05648
+Scaffold910	WormBase_imported	CDS	1952	1957	.	+	1	ID=cds:Hba_05648;Parent=transcript:Hba_05648
+Scaffold910	WormBase_imported	CDS	1975	2005	.	+	1	ID=cds:Hba_05648;Parent=transcript:Hba_05648
+Scaffold910	cmscan_rfam_12.2	nucleotide_match	325	474	107	+	.	ID=cmscan_rfam_12.2.500;Name=5_8S_rRNA;Target=5_8S_rRNA 1 154;Gap=M79 D2 M28 D2 M43 
+Scaffold910	cmscan_rfam_12.2	nucleotide_match	709	2007	995.8	+	.	ID=cmscan_rfam_12.2.499;Name=LSU_rRNA_eukarya;Target=LSU_rRNA_eukarya 1 1276;Gap=M111 I M23 I M22 I M4 D M4 I3 M36 I5 M30 D2 M233 I5 M42 I M62 D13 M45 D M9 I2 M62 I M10 I M19 I15 M21 I4 M244 I2 M108 I M6 D2 M94 D M71 I2125 
+Scaffold910	RepeatMasker	repeat_region	1	2007	18738	+	.	Name=rnd-1_family-165;repeat_class=rRNA
+Scaffold399	WormBase_imported	gene	620	1657	.	+	.	ID=gene:Hba_02874;Name=Hba_02874;biotype=protein_coding
+Scaffold399	WormBase_imported	mRNA	620	1657	.	+	.	ID=transcript:Hba_02874;Parent=gene:Hba_02874;Name=Hba_02874
+Scaffold399	WormBase_imported	exon	620	638	.	+	.	ID=exon:Hba_02874.1;Parent=transcript:Hba_02874
+Scaffold399	WormBase_imported	exon	661	663	.	+	.	ID=exon:Hba_02874.2;Parent=transcript:Hba_02874
+Scaffold399	WormBase_imported	exon	678	750	.	+	.	ID=exon:Hba_02874.3;Parent=transcript:Hba_02874
+Scaffold399	WormBase_imported	exon	773	803	.	+	.	ID=exon:Hba_02874.4;Parent=transcript:Hba_02874
+Scaffold399	WormBase_imported	exon	821	862	.	+	.	ID=exon:Hba_02874.5;Parent=transcript:Hba_02874
+Scaffold399	WormBase_imported	exon	876	882	.	+	.	ID=exon:Hba_02874.6;Parent=transcript:Hba_02874
+Scaffold399	WormBase_imported	exon	893	900	.	+	.	ID=exon:Hba_02874.7;Parent=transcript:Hba_02874
+Scaffold399	WormBase_imported	exon	921	962	.	+	.	ID=exon:Hba_02874.8;Parent=transcript:Hba_02874
+Scaffold399	WormBase_imported	exon	981	1093	.	+	.	ID=exon:Hba_02874.9;Parent=transcript:Hba_02874
+Scaffold399	WormBase_imported	exon	1111	1159	.	+	.	ID=exon:Hba_02874.10;Parent=transcript:Hba_02874
+Scaffold399	WormBase_imported	exon	1200	1201	.	+	.	ID=exon:Hba_02874.11;Parent=transcript:Hba_02874
+Scaffold399	WormBase_imported	exon	1221	1230	.	+	.	ID=exon:Hba_02874.12;Parent=transcript:Hba_02874
+Scaffold399	WormBase_imported	exon	1244	1274	.	+	.	ID=exon:Hba_02874.13;Parent=transcript:Hba_02874
+Scaffold399	WormBase_imported	exon	1301	1317	.	+	.	ID=exon:Hba_02874.14;Parent=transcript:Hba_02874
+Scaffold399	WormBase_imported	exon	1335	1360	.	+	.	ID=exon:Hba_02874.15;Parent=transcript:Hba_02874
+Scaffold399	WormBase_imported	exon	1395	1400	.	+	.	ID=exon:Hba_02874.16;Parent=transcript:Hba_02874
+Scaffold399	WormBase_imported	exon	1424	1426	.	+	.	ID=exon:Hba_02874.17;Parent=transcript:Hba_02874
+Scaffold399	WormBase_imported	exon	1459	1464	.	+	.	ID=exon:Hba_02874.18;Parent=transcript:Hba_02874
+Scaffold399	WormBase_imported	exon	1480	1657	.	+	.	ID=exon:Hba_02874.19;Parent=transcript:Hba_02874
+Scaffold399	WormBase_imported	CDS	620	638	.	+	0	ID=cds:Hba_02874;Parent=transcript:Hba_02874
+Scaffold399	WormBase_imported	CDS	661	663	.	+	2	ID=cds:Hba_02874;Parent=transcript:Hba_02874
+Scaffold399	WormBase_imported	CDS	678	750	.	+	2	ID=cds:Hba_02874;Parent=transcript:Hba_02874
+Scaffold399	WormBase_imported	CDS	773	803	.	+	1	ID=cds:Hba_02874;Parent=transcript:Hba_02874
+Scaffold399	WormBase_imported	CDS	821	862	.	+	0	ID=cds:Hba_02874;Parent=transcript:Hba_02874
+Scaffold399	WormBase_imported	CDS	876	882	.	+	0	ID=cds:Hba_02874;Parent=transcript:Hba_02874
+Scaffold399	WormBase_imported	CDS	893	900	.	+	2	ID=cds:Hba_02874;Parent=transcript:Hba_02874
+Scaffold399	WormBase_imported	CDS	921	962	.	+	0	ID=cds:Hba_02874;Parent=transcript:Hba_02874
+Scaffold399	WormBase_imported	CDS	981	1093	.	+	0	ID=cds:Hba_02874;Parent=transcript:Hba_02874
+Scaffold399	WormBase_imported	CDS	1111	1159	.	+	1	ID=cds:Hba_02874;Parent=transcript:Hba_02874
+Scaffold399	WormBase_imported	CDS	1200	1201	.	+	0	ID=cds:Hba_02874;Parent=transcript:Hba_02874
+Scaffold399	WormBase_imported	CDS	1221	1230	.	+	1	ID=cds:Hba_02874;Parent=transcript:Hba_02874
+Scaffold399	WormBase_imported	CDS	1244	1274	.	+	0	ID=cds:Hba_02874;Parent=transcript:Hba_02874
+Scaffold399	WormBase_imported	CDS	1301	1317	.	+	2	ID=cds:Hba_02874;Parent=transcript:Hba_02874
+Scaffold399	WormBase_imported	CDS	1335	1360	.	+	0	ID=cds:Hba_02874;Parent=transcript:Hba_02874
+Scaffold399	WormBase_imported	CDS	1395	1400	.	+	1	ID=cds:Hba_02874;Parent=transcript:Hba_02874
+Scaffold399	WormBase_imported	CDS	1424	1426	.	+	1	ID=cds:Hba_02874;Parent=transcript:Hba_02874
+Scaffold399	WormBase_imported	CDS	1459	1464	.	+	1	ID=cds:Hba_02874;Parent=transcript:Hba_02874
+Scaffold399	WormBase_imported	CDS	1480	1657	.	+	1	ID=cds:Hba_02874;Parent=transcript:Hba_02874
+Scaffold399	cmscan_rfam_12.2	nucleotide_match	144	293	107	+	.	ID=cmscan_rfam_12.2.509;Name=5_8S_rRNA;Target=5_8S_rRNA 1 154;Gap=M79 D2 M28 D2 M43 
+Scaffold399	cmscan_rfam_12.2	nucleotide_match	528	1679	806	+	.	ID=cmscan_rfam_12.2.508;Name=LSU_rRNA_eukarya;Target=LSU_rRNA_eukarya 1 1129;Gap=M111 I M23 I M22 I M6 D M2 I3 M7 D I M28 I5 M30 D M3 D M230 I5 M42 I M62 D13 M45 D M9 I2 M50 I M12 I M10 I M19 I14 M21 I4 M222 D M21 I2 M108 I M6 D2 M19 I2272 
+Scaffold399	RepeatMasker	repeat_region	1	1679	15585	+	.	Name=rnd-1_family-165;repeat_class=rRNA
+Scaffold776	WormBase_imported	gene	539	1121	.	+	.	ID=gene:Hba_04722;Name=Hba_04722;biotype=protein_coding
+Scaffold776	WormBase_imported	mRNA	539	1121	.	+	.	ID=transcript:Hba_04722;Parent=gene:Hba_04722;Name=Hba_04722
+Scaffold776	WormBase_imported	exon	539	612	.	+	.	ID=exon:Hba_04722.1;Parent=transcript:Hba_04722
+Scaffold776	WormBase_imported	exon	623	642	.	+	.	ID=exon:Hba_04722.2;Parent=transcript:Hba_04722
+Scaffold776	WormBase_imported	exon	690	744	.	+	.	ID=exon:Hba_04722.3;Parent=transcript:Hba_04722
+Scaffold776	WormBase_imported	exon	761	790	.	+	.	ID=exon:Hba_04722.4;Parent=transcript:Hba_04722
+Scaffold776	WormBase_imported	exon	824	835	.	+	.	ID=exon:Hba_04722.5;Parent=transcript:Hba_04722
+Scaffold776	WormBase_imported	exon	880	882	.	+	.	ID=exon:Hba_04722.6;Parent=transcript:Hba_04722
+Scaffold776	WormBase_imported	exon	914	973	.	+	.	ID=exon:Hba_04722.7;Parent=transcript:Hba_04722
+Scaffold776	WormBase_imported	exon	1007	1055	.	+	.	ID=exon:Hba_04722.8;Parent=transcript:Hba_04722
+Scaffold776	WormBase_imported	exon	1083	1121	.	+	.	ID=exon:Hba_04722.9;Parent=transcript:Hba_04722
+Scaffold776	WormBase_imported	CDS	539	612	.	+	0	ID=cds:Hba_04722;Parent=transcript:Hba_04722
+Scaffold776	WormBase_imported	CDS	623	642	.	+	1	ID=cds:Hba_04722;Parent=transcript:Hba_04722
+Scaffold776	WormBase_imported	CDS	690	744	.	+	2	ID=cds:Hba_04722;Parent=transcript:Hba_04722
+Scaffold776	WormBase_imported	CDS	761	790	.	+	1	ID=cds:Hba_04722;Parent=transcript:Hba_04722
+Scaffold776	WormBase_imported	CDS	824	835	.	+	1	ID=cds:Hba_04722;Parent=transcript:Hba_04722
+Scaffold776	WormBase_imported	CDS	880	882	.	+	1	ID=cds:Hba_04722;Parent=transcript:Hba_04722
+Scaffold776	WormBase_imported	CDS	914	973	.	+	1	ID=cds:Hba_04722;Parent=transcript:Hba_04722
+Scaffold776	WormBase_imported	CDS	1007	1055	.	+	1	ID=cds:Hba_04722;Parent=transcript:Hba_04722
+Scaffold776	WormBase_imported	CDS	1083	1121	.	+	0	ID=cds:Hba_04722;Parent=transcript:Hba_04722
+Scaffold1365	WormBase_imported	gene	3	1221	.	+	.	ID=gene:Hba_21681;Name=Hba_21681;biotype=protein_coding
+Scaffold1365	WormBase_imported	mRNA	3	1221	.	+	.	ID=transcript:Hba_21681;Parent=gene:Hba_21681;Name=Hba_21681
+Scaffold1365	WormBase_imported	exon	3	93	.	+	.	ID=exon:Hba_21681.1;Parent=transcript:Hba_21681
+Scaffold1365	WormBase_imported	exon	112	125	.	+	.	ID=exon:Hba_21681.2;Parent=transcript:Hba_21681
+Scaffold1365	WormBase_imported	exon	150	247	.	+	.	ID=exon:Hba_21681.3;Parent=transcript:Hba_21681
+Scaffold1365	WormBase_imported	exon	268	372	.	+	.	ID=exon:Hba_21681.4;Parent=transcript:Hba_21681
+Scaffold1365	WormBase_imported	exon	386	401	.	+	.	ID=exon:Hba_21681.5;Parent=transcript:Hba_21681
+Scaffold1365	WormBase_imported	exon	412	443	.	+	.	ID=exon:Hba_21681.6;Parent=transcript:Hba_21681
+Scaffold1365	WormBase_imported	exon	454	460	.	+	.	ID=exon:Hba_21681.7;Parent=transcript:Hba_21681
+Scaffold1365	WormBase_imported	exon	520	541	.	+	.	ID=exon:Hba_21681.8;Parent=transcript:Hba_21681
+Scaffold1365	WormBase_imported	exon	564	592	.	+	.	ID=exon:Hba_21681.9;Parent=transcript:Hba_21681
+Scaffold1365	WormBase_imported	exon	612	627	.	+	.	ID=exon:Hba_21681.10;Parent=transcript:Hba_21681
+Scaffold1365	WormBase_imported	exon	640	648	.	+	.	ID=exon:Hba_21681.11;Parent=transcript:Hba_21681
+Scaffold1365	WormBase_imported	exon	661	662	.	+	.	ID=exon:Hba_21681.12;Parent=transcript:Hba_21681
+Scaffold1365	WormBase_imported	exon	674	686	.	+	.	ID=exon:Hba_21681.13;Parent=transcript:Hba_21681
+Scaffold1365	WormBase_imported	exon	713	719	.	+	.	ID=exon:Hba_21681.14;Parent=transcript:Hba_21681
+Scaffold1365	WormBase_imported	exon	754	759	.	+	.	ID=exon:Hba_21681.15;Parent=transcript:Hba_21681
+Scaffold1365	WormBase_imported	exon	787	795	.	+	.	ID=exon:Hba_21681.16;Parent=transcript:Hba_21681
+Scaffold1365	WormBase_imported	exon	811	813	.	+	.	ID=exon:Hba_21681.17;Parent=transcript:Hba_21681
+Scaffold1365	WormBase_imported	exon	904	906	.	+	.	ID=exon:Hba_21681.18;Parent=transcript:Hba_21681
+Scaffold1365	WormBase_imported	exon	955	956	.	+	.	ID=exon:Hba_21681.19;Parent=transcript:Hba_21681
+Scaffold1365	WormBase_imported	exon	1197	1221	.	+	.	ID=exon:Hba_21681.20;Parent=transcript:Hba_21681
+Scaffold1365	WormBase_imported	CDS	3	93	.	+	0	ID=cds:Hba_21681;Parent=transcript:Hba_21681
+Scaffold1365	WormBase_imported	CDS	112	125	.	+	2	ID=cds:Hba_21681;Parent=transcript:Hba_21681
+Scaffold1365	WormBase_imported	CDS	150	247	.	+	0	ID=cds:Hba_21681;Parent=transcript:Hba_21681
+Scaffold1365	WormBase_imported	CDS	268	372	.	+	1	ID=cds:Hba_21681;Parent=transcript:Hba_21681
+Scaffold1365	WormBase_imported	CDS	386	401	.	+	1	ID=cds:Hba_21681;Parent=transcript:Hba_21681
+Scaffold1365	WormBase_imported	CDS	412	443	.	+	0	ID=cds:Hba_21681;Parent=transcript:Hba_21681
+Scaffold1365	WormBase_imported	CDS	454	460	.	+	1	ID=cds:Hba_21681;Parent=transcript:Hba_21681
+Scaffold1365	WormBase_imported	CDS	520	541	.	+	0	ID=cds:Hba_21681;Parent=transcript:Hba_21681
+Scaffold1365	WormBase_imported	CDS	564	592	.	+	2	ID=cds:Hba_21681;Parent=transcript:Hba_21681
+Scaffold1365	WormBase_imported	CDS	612	627	.	+	0	ID=cds:Hba_21681;Parent=transcript:Hba_21681
+Scaffold1365	WormBase_imported	CDS	640	648	.	+	2	ID=cds:Hba_21681;Parent=transcript:Hba_21681
+Scaffold1365	WormBase_imported	CDS	661	662	.	+	2	ID=cds:Hba_21681;Parent=transcript:Hba_21681
+Scaffold1365	WormBase_imported	CDS	674	686	.	+	0	ID=cds:Hba_21681;Parent=transcript:Hba_21681
+Scaffold1365	WormBase_imported	CDS	713	719	.	+	2	ID=cds:Hba_21681;Parent=transcript:Hba_21681
+Scaffold1365	WormBase_imported	CDS	754	759	.	+	1	ID=cds:Hba_21681;Parent=transcript:Hba_21681
+Scaffold1365	WormBase_imported	CDS	787	795	.	+	1	ID=cds:Hba_21681;Parent=transcript:Hba_21681
+Scaffold1365	WormBase_imported	CDS	811	813	.	+	1	ID=cds:Hba_21681;Parent=transcript:Hba_21681
+Scaffold1365	WormBase_imported	CDS	904	906	.	+	1	ID=cds:Hba_21681;Parent=transcript:Hba_21681
+Scaffold1365	WormBase_imported	CDS	955	956	.	+	1	ID=cds:Hba_21681;Parent=transcript:Hba_21681
+Scaffold1365	WormBase_imported	CDS	1197	1221	.	+	2	ID=cds:Hba_21681;Parent=transcript:Hba_21681
+Scaffold1365	RepeatMasker	repeat_region	1	288	2269	-	.	
+Scaffold1365	RepeatMasker	repeat_region	192	350	443	+	.	Name=rnd-1_family-194;repeat_class=LTR/Pao
+Scaffold1365	dust	low_complexity_region	1186	1193	.	-	.	
+Scaffold770	RepeatMasker	repeat_region	1114	1227	791	+	.	Name=rnd-4_family-95;repeat_class=LTR/Gypsy
+Scaffold437	WormBase_imported	gene	898	1114	.	+	.	ID=gene:Hba_02915;Name=Hba_02915;biotype=protein_coding
+Scaffold437	WormBase_imported	mRNA	898	1114	.	+	.	ID=transcript:Hba_02915;Parent=gene:Hba_02915;Name=Hba_02915
+Scaffold437	WormBase_imported	exon	898	955	.	+	.	ID=exon:Hba_02915.1;Parent=transcript:Hba_02915
+Scaffold437	WormBase_imported	exon	966	973	.	+	.	ID=exon:Hba_02915.2;Parent=transcript:Hba_02915
+Scaffold437	WormBase_imported	exon	990	992	.	+	.	ID=exon:Hba_02915.3;Parent=transcript:Hba_02915
+Scaffold437	WormBase_imported	exon	1025	1033	.	+	.	ID=exon:Hba_02915.4;Parent=transcript:Hba_02915
+Scaffold437	WormBase_imported	exon	1076	1081	.	+	.	ID=exon:Hba_02915.5;Parent=transcript:Hba_02915
+Scaffold437	WormBase_imported	exon	1097	1114	.	+	.	ID=exon:Hba_02915.6;Parent=transcript:Hba_02915
+Scaffold437	WormBase_imported	CDS	898	955	.	+	0	ID=cds:Hba_02915;Parent=transcript:Hba_02915
+Scaffold437	WormBase_imported	CDS	966	973	.	+	2	ID=cds:Hba_02915;Parent=transcript:Hba_02915
+Scaffold437	WormBase_imported	CDS	990	992	.	+	0	ID=cds:Hba_02915;Parent=transcript:Hba_02915
+Scaffold437	WormBase_imported	CDS	1025	1033	.	+	0	ID=cds:Hba_02915;Parent=transcript:Hba_02915
+Scaffold437	WormBase_imported	CDS	1076	1081	.	+	0	ID=cds:Hba_02915;Parent=transcript:Hba_02915
+Scaffold437	WormBase_imported	CDS	1097	1114	.	+	0	ID=cds:Hba_02915;Parent=transcript:Hba_02915
+Scaffold437	cmscan_rfam_12.2	nucleotide_match	147	1143	683.8	+	.	ID=cmscan_rfam_12.2.573;Name=LSU_rRNA_eukarya;Target=LSU_rRNA_eukarya 1 976;Gap=M111 I M23 I M22 I M4 D M4 I4 M7 D M28 I5 M30 D M D2 M231 I5 M42 I M62 D13 M45 D M9 I2 M62 I M10 I M19 I14 M21 I4 M226 I2425 
+Scaffold437	RepeatMasker	repeat_region	1	1143	10651	+	.	Name=rnd-1_family-165;repeat_class=rRNA
+Scaffold541	WormBase_imported	gene	484	994	.	+	.	ID=gene:Hba_03032;Name=Hba_03032;biotype=protein_coding
+Scaffold541	WormBase_imported	mRNA	484	994	.	+	.	ID=transcript:Hba_03032;Parent=gene:Hba_03032;Name=Hba_03032
+Scaffold541	WormBase_imported	exon	484	551	.	+	.	ID=exon:Hba_03032.1;Parent=transcript:Hba_03032
+Scaffold541	WormBase_imported	exon	660	662	.	+	.	ID=exon:Hba_03032.2;Parent=transcript:Hba_03032
+Scaffold541	WormBase_imported	exon	691	693	.	+	.	ID=exon:Hba_03032.3;Parent=transcript:Hba_03032
+Scaffold541	WormBase_imported	exon	727	729	.	+	.	ID=exon:Hba_03032.4;Parent=transcript:Hba_03032
+Scaffold541	WormBase_imported	exon	781	781	.	+	.	ID=exon:Hba_03032.5;Parent=transcript:Hba_03032
+Scaffold541	WormBase_imported	exon	838	842	.	+	.	ID=exon:Hba_03032.6;Parent=transcript:Hba_03032
+Scaffold541	WormBase_imported	exon	854	855	.	+	.	ID=exon:Hba_03032.7;Parent=transcript:Hba_03032
+Scaffold541	WormBase_imported	exon	869	870	.	+	.	ID=exon:Hba_03032.8;Parent=transcript:Hba_03032
+Scaffold541	WormBase_imported	exon	882	887	.	+	.	ID=exon:Hba_03032.9;Parent=transcript:Hba_03032
+Scaffold541	WormBase_imported	exon	937	945	.	+	.	ID=exon:Hba_03032.10;Parent=transcript:Hba_03032
+Scaffold541	WormBase_imported	exon	980	994	.	+	.	ID=exon:Hba_03032.11;Parent=transcript:Hba_03032
+Scaffold541	WormBase_imported	CDS	484	551	.	+	0	ID=cds:Hba_03032;Parent=transcript:Hba_03032
+Scaffold541	WormBase_imported	CDS	660	662	.	+	1	ID=cds:Hba_03032;Parent=transcript:Hba_03032
+Scaffold541	WormBase_imported	CDS	691	693	.	+	1	ID=cds:Hba_03032;Parent=transcript:Hba_03032
+Scaffold541	WormBase_imported	CDS	727	729	.	+	1	ID=cds:Hba_03032;Parent=transcript:Hba_03032
+Scaffold541	WormBase_imported	CDS	781	781	.	+	1	ID=cds:Hba_03032;Parent=transcript:Hba_03032
+Scaffold541	WormBase_imported	CDS	838	842	.	+	0	ID=cds:Hba_03032;Parent=transcript:Hba_03032
+Scaffold541	WormBase_imported	CDS	854	855	.	+	1	ID=cds:Hba_03032;Parent=transcript:Hba_03032
+Scaffold541	WormBase_imported	CDS	869	870	.	+	2	ID=cds:Hba_03032;Parent=transcript:Hba_03032
+Scaffold541	WormBase_imported	CDS	882	887	.	+	0	ID=cds:Hba_03032;Parent=transcript:Hba_03032
+Scaffold541	WormBase_imported	CDS	937	945	.	+	0	ID=cds:Hba_03032;Parent=transcript:Hba_03032
+Scaffold541	WormBase_imported	CDS	980	994	.	+	0	ID=cds:Hba_03032;Parent=transcript:Hba_03032
+Scaffold627	WormBase_imported	gene	384	813	.	+	.	ID=gene:Hba_03603;Name=Hba_03603;biotype=protein_coding
+Scaffold627	WormBase_imported	mRNA	384	813	.	+	.	ID=transcript:Hba_03603;Parent=gene:Hba_03603;Name=Hba_03603
+Scaffold627	WormBase_imported	exon	384	388	.	+	.	ID=exon:Hba_03603.1;Parent=transcript:Hba_03603
+Scaffold627	WormBase_imported	exon	414	453	.	+	.	ID=exon:Hba_03603.2;Parent=transcript:Hba_03603
+Scaffold627	WormBase_imported	exon	464	507	.	+	.	ID=exon:Hba_03603.3;Parent=transcript:Hba_03603
+Scaffold627	WormBase_imported	exon	527	532	.	+	.	ID=exon:Hba_03603.4;Parent=transcript:Hba_03603
+Scaffold627	WormBase_imported	exon	560	565	.	+	.	ID=exon:Hba_03603.5;Parent=transcript:Hba_03603
+Scaffold627	WormBase_imported	exon	583	588	.	+	.	ID=exon:Hba_03603.6;Parent=transcript:Hba_03603
+Scaffold627	WormBase_imported	exon	612	615	.	+	.	ID=exon:Hba_03603.7;Parent=transcript:Hba_03603
+Scaffold627	WormBase_imported	exon	640	641	.	+	.	ID=exon:Hba_03603.8;Parent=transcript:Hba_03603
+Scaffold627	WormBase_imported	exon	682	683	.	+	.	ID=exon:Hba_03603.9;Parent=transcript:Hba_03603
+Scaffold627	WormBase_imported	exon	698	813	.	+	.	ID=exon:Hba_03603.10;Parent=transcript:Hba_03603
+Scaffold627	WormBase_imported	CDS	384	388	.	+	0	ID=cds:Hba_03603;Parent=transcript:Hba_03603
+Scaffold627	WormBase_imported	CDS	414	453	.	+	1	ID=cds:Hba_03603;Parent=transcript:Hba_03603
+Scaffold627	WormBase_imported	CDS	464	507	.	+	0	ID=cds:Hba_03603;Parent=transcript:Hba_03603
+Scaffold627	WormBase_imported	CDS	527	532	.	+	1	ID=cds:Hba_03603;Parent=transcript:Hba_03603
+Scaffold627	WormBase_imported	CDS	560	565	.	+	1	ID=cds:Hba_03603;Parent=transcript:Hba_03603
+Scaffold627	WormBase_imported	CDS	583	588	.	+	1	ID=cds:Hba_03603;Parent=transcript:Hba_03603
+Scaffold627	WormBase_imported	CDS	612	615	.	+	1	ID=cds:Hba_03603;Parent=transcript:Hba_03603
+Scaffold627	WormBase_imported	CDS	640	641	.	+	0	ID=cds:Hba_03603;Parent=transcript:Hba_03603
+Scaffold627	WormBase_imported	CDS	682	683	.	+	1	ID=cds:Hba_03603;Parent=transcript:Hba_03603
+Scaffold627	WormBase_imported	CDS	698	813	.	+	2	ID=cds:Hba_03603;Parent=transcript:Hba_03603

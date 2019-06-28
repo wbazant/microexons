@@ -1,0 +1,483 @@
+HNAJ_scaffold0001011	WormBase_imported	gene	408	17501	.	-	.	ID=gene:HNAJ_0001038301;Name=HNAJ_0001038301;biotype=protein_coding
+HNAJ_scaffold0001011	WormBase_imported	mRNA	408	17501	.	-	.	ID=transcript:HNAJ_0001038301-mRNA-1;Parent=gene:HNAJ_0001038301;Name=HNAJ_0001038301-mRNA-1;info=method:InterPro accession:IPR013602 description:Dynein heavy chain%2C domain-2 %0Amethod:InterPro accession:IPR024317 description:Dynein heavy chain%2C AAA module D4 %0Amethod:InterPro accession:IPR026983 description:Dynein heavy chain %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR035699 description:Dynein heavy chain%2C hydrolytic ATP-binding dynein motor region %0Amethod:InterPro accession:IPR041466 description:Dynein heavy chain%2C AAA 5 extension domain %0Amethod:InterPro accession:IPR041589 description:Dynein heavy chain 3%2C AAA+ lid domain
+HNAJ_scaffold0001011	WormBase_imported	exon	17494	17501	.	-	.	ID=exon:HNAJ_0001038301-mRNA-1.1;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	exon	17356	17455	.	-	.	ID=exon:HNAJ_0001038301-mRNA-1.2;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	exon	17207	17311	.	-	.	ID=exon:HNAJ_0001038301-mRNA-1.3;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	exon	16820	17124	.	-	.	ID=exon:HNAJ_0001038301-mRNA-1.4;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	exon	16626	16745	.	-	.	ID=exon:HNAJ_0001038301-mRNA-1.5;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	exon	16374	16557	.	-	.	ID=exon:HNAJ_0001038301-mRNA-1.6;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	exon	15400	15465	.	-	.	ID=exon:HNAJ_0001038301-mRNA-1.7;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	exon	15149	15325	.	-	.	ID=exon:HNAJ_0001038301-mRNA-1.8;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	exon	14917	15078	.	-	.	ID=exon:HNAJ_0001038301-mRNA-1.9;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	exon	14504	14871	.	-	.	ID=exon:HNAJ_0001038301-mRNA-1.10;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	exon	11670	12657	.	-	.	ID=exon:HNAJ_0001038301-mRNA-1.11;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	exon	10759	10907	.	-	.	ID=exon:HNAJ_0001038301-mRNA-1.12;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	exon	9948	10689	.	-	.	ID=exon:HNAJ_0001038301-mRNA-1.13;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	exon	8482	8714	.	-	.	ID=exon:HNAJ_0001038301-mRNA-1.14;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	exon	8202	8439	.	-	.	ID=exon:HNAJ_0001038301-mRNA-1.15;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	exon	7891	8121	.	-	.	ID=exon:HNAJ_0001038301-mRNA-1.16;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	exon	6986	7198	.	-	.	ID=exon:HNAJ_0001038301-mRNA-1.17;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	exon	6542	6889	.	-	.	ID=exon:HNAJ_0001038301-mRNA-1.18;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	exon	5991	6503	.	-	.	ID=exon:HNAJ_0001038301-mRNA-1.19;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	exon	5813	5944	.	-	.	ID=exon:HNAJ_0001038301-mRNA-1.20;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	exon	5110	5331	.	-	.	ID=exon:HNAJ_0001038301-mRNA-1.21;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	exon	5008	5031	.	-	.	ID=exon:HNAJ_0001038301-mRNA-1.22;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	exon	4912	4923	.	-	.	ID=exon:HNAJ_0001038301-mRNA-1.23;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	exon	4795	4815	.	-	.	ID=exon:HNAJ_0001038301-mRNA-1.24;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	exon	4529	4537	.	-	.	ID=exon:HNAJ_0001038301-mRNA-1.25;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	exon	4393	4452	.	-	.	ID=exon:HNAJ_0001038301-mRNA-1.26;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	exon	4024	4221	.	-	.	ID=exon:HNAJ_0001038301-mRNA-1.27;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	exon	3688	3941	.	-	.	ID=exon:HNAJ_0001038301-mRNA-1.28;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	exon	2761	2958	.	-	.	ID=exon:HNAJ_0001038301-mRNA-1.29;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	exon	2329	2689	.	-	.	ID=exon:HNAJ_0001038301-mRNA-1.30;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	exon	1564	2289	.	-	.	ID=exon:HNAJ_0001038301-mRNA-1.31;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	exon	1259	1488	.	-	.	ID=exon:HNAJ_0001038301-mRNA-1.32;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	exon	408	801	.	-	.	ID=exon:HNAJ_0001038301-mRNA-1.33;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	CDS	17494	17501	.	-	0	ID=cds:HNAJ_0001038301-mRNA-1;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	CDS	17356	17455	.	-	1	ID=cds:HNAJ_0001038301-mRNA-1;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	CDS	17207	17311	.	-	0	ID=cds:HNAJ_0001038301-mRNA-1;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	CDS	16820	17124	.	-	0	ID=cds:HNAJ_0001038301-mRNA-1;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	CDS	16626	16745	.	-	1	ID=cds:HNAJ_0001038301-mRNA-1;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	CDS	16374	16557	.	-	1	ID=cds:HNAJ_0001038301-mRNA-1;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	CDS	15400	15465	.	-	0	ID=cds:HNAJ_0001038301-mRNA-1;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	CDS	15149	15325	.	-	0	ID=cds:HNAJ_0001038301-mRNA-1;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	CDS	14917	15078	.	-	0	ID=cds:HNAJ_0001038301-mRNA-1;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	CDS	14504	14871	.	-	0	ID=cds:HNAJ_0001038301-mRNA-1;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	CDS	11670	12657	.	-	1	ID=cds:HNAJ_0001038301-mRNA-1;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	CDS	10759	10907	.	-	0	ID=cds:HNAJ_0001038301-mRNA-1;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	CDS	9948	10689	.	-	1	ID=cds:HNAJ_0001038301-mRNA-1;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	CDS	8482	8714	.	-	0	ID=cds:HNAJ_0001038301-mRNA-1;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	CDS	8202	8439	.	-	1	ID=cds:HNAJ_0001038301-mRNA-1;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	CDS	7891	8121	.	-	0	ID=cds:HNAJ_0001038301-mRNA-1;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	CDS	6986	7198	.	-	0	ID=cds:HNAJ_0001038301-mRNA-1;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	CDS	6542	6889	.	-	0	ID=cds:HNAJ_0001038301-mRNA-1;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	CDS	5991	6503	.	-	0	ID=cds:HNAJ_0001038301-mRNA-1;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	CDS	5813	5944	.	-	0	ID=cds:HNAJ_0001038301-mRNA-1;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	CDS	5110	5331	.	-	0	ID=cds:HNAJ_0001038301-mRNA-1;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	CDS	5008	5031	.	-	0	ID=cds:HNAJ_0001038301-mRNA-1;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	CDS	4912	4923	.	-	0	ID=cds:HNAJ_0001038301-mRNA-1;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	CDS	4795	4815	.	-	0	ID=cds:HNAJ_0001038301-mRNA-1;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	CDS	4529	4537	.	-	0	ID=cds:HNAJ_0001038301-mRNA-1;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	CDS	4393	4452	.	-	0	ID=cds:HNAJ_0001038301-mRNA-1;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	CDS	4024	4221	.	-	0	ID=cds:HNAJ_0001038301-mRNA-1;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	CDS	3688	3941	.	-	0	ID=cds:HNAJ_0001038301-mRNA-1;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	CDS	2761	2958	.	-	1	ID=cds:HNAJ_0001038301-mRNA-1;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	CDS	2329	2689	.	-	1	ID=cds:HNAJ_0001038301-mRNA-1;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	CDS	1564	2289	.	-	0	ID=cds:HNAJ_0001038301-mRNA-1;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	CDS	1259	1488	.	-	0	ID=cds:HNAJ_0001038301-mRNA-1;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	WormBase_imported	CDS	408	801	.	-	1	ID=cds:HNAJ_0001038301-mRNA-1;Parent=transcript:HNAJ_0001038301-mRNA-1
+HNAJ_scaffold0001011	cmscan_rfam_12.2	nucleotide_match	10145	10329	29.4	-	.	ID=cmscan_rfam_12.2.249;Name=RMST_9;Target=RMST_9 6 190;Gap=M185 
+HNAJ_scaffold0001011	RepeatMasker	repeat_region	113	195	489	-	.	
+HNAJ_scaffold0001011	RepeatMasker	repeat_region	134	452	2328	-	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	353	359	.	-	.	
+HNAJ_scaffold0001011	RepeatMasker	repeat_region	1012	1094	243	+	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	3156	3162	.	-	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	3293	3332	.	-	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	4953	4959	.	-	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	5463	5469	.	-	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	6526	6532	.	-	.	
+HNAJ_scaffold0001011	RepeatMasker	repeat_region	7510	7712	378	+	.	
+HNAJ_scaffold0001011	RepeatMasker	repeat_region	11224	11535	1679	+	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	11436	11442	.	-	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	12539	12545	.	-	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	12562	14425	.	-	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	14861	14867	.	-	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	15369	15375	.	-	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	15529	15535	.	-	.	
+HNAJ_scaffold0001011	RepeatMasker	repeat_region	15616	15832	880	+	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	15631	15643	.	-	.	
+HNAJ_scaffold0001011	RepeatMasker	repeat_region	15632	15810	1067	+	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	16100	16108	.	-	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	17314	17320	.	-	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	18928	19006	.	-	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	19922	19933	.	-	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	20377	20440	.	-	.	
+HNAJ_scaffold0001011	RepeatMasker	repeat_region	20635	20778	1004	-	.	
+HNAJ_scaffold0001011	RepeatMasker	repeat_region	20654	21407	2357	+	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	20846	20852	.	-	.	
+HNAJ_scaffold0001011	RepeatMasker	repeat_region	21209	21433	1263	-	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	21298	21308	.	-	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	21483	21489	.	-	.	
+HNAJ_scaffold0001011	RepeatMasker	repeat_region	21716	21769	260	-	.	
+HNAJ_scaffold0001011	RepeatMasker	repeat_region	21723	21944	1539	-	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	21920	21928	.	-	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	21936	21942	.	-	.	
+HNAJ_scaffold0001011	tandem	tandem_repeat	22306	22344	71	-	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	22306	22344	.	-	.	
+HNAJ_scaffold0001011	RepeatMasker	repeat_region	22481	22584	792	-	.	
+HNAJ_scaffold0001011	RepeatMasker	repeat_region	22494	22821	2230	+	.	
+HNAJ_scaffold0001011	RepeatMasker	repeat_region	22734	22835	428	+	.	
+HNAJ_scaffold0001011	RepeatMasker	repeat_region	22740	22874	345	+	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	22845	22852	.	-	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	22876	22882	.	-	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	22903	22923	.	-	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	23154	23160	.	-	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	23198	23207	.	-	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	23379	23385	.	-	.	
+HNAJ_scaffold0001011	RepeatMasker	repeat_region	23557	23862	1705	-	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	23675	23684	.	-	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	23826	23832	.	-	.	
+HNAJ_scaffold0001011	RepeatMasker	repeat_region	24254	24374	245	-	.	
+HNAJ_scaffold0001011	tandem	tandem_repeat	24283	24314	50	-	.	
+HNAJ_scaffold0001011	RepeatMasker	repeat_region	24415	24525	391	+	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	24698	24704	.	-	.	
+HNAJ_scaffold0001011	RepeatMasker	repeat_region	24739	25104	550	+	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	24859	24869	.	-	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	24960	24975	.	-	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	25123	25129	.	-	.	
+HNAJ_scaffold0001011	RepeatMasker	repeat_region	25265	25642	714	+	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	25294	25301	.	-	.	
+HNAJ_scaffold0001011	RepeatMasker	repeat_region	25692	25902	1114	-	.	
+HNAJ_scaffold0001011	RepeatMasker	repeat_region	25696	25975	970	+	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	25701	25707	.	-	.	
+HNAJ_scaffold0001011	RepeatMasker	repeat_region	25906	25989	462	-	.	
+HNAJ_scaffold0001011	RepeatMasker	repeat_region	25985	26269	1785	-	.	
+HNAJ_scaffold0001011	RepeatMasker	repeat_region	26187	26290	398	+	.	
+HNAJ_scaffold0001011	RepeatMasker	repeat_region	26257	26378	347	-	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	26501	26513	.	-	.	
+HNAJ_scaffold0001011	RepeatMasker	repeat_region	26512	26638	225	-	.	
+HNAJ_scaffold0001011	RepeatMasker	repeat_region	26759	26844	673	+	.	
+HNAJ_scaffold0001011	tandem	tandem_repeat	27077	27107	62	-	.	
+HNAJ_scaffold0001011	dust	low_complexity_region	27077	27107	.	-	.	
+HNAJ_scaffold0001011	RepeatMasker	repeat_region	27295	27724	3595	+	.	
+HNAJ_scaffold0001493	WormBase_imported	gene	11643	17587	.	-	.	ID=gene:HNAJ_0001132701;Name=HNAJ_0001132701;biotype=protein_coding
+HNAJ_scaffold0001493	WormBase_imported	mRNA	11643	17587	.	-	.	ID=transcript:HNAJ_0001132701-mRNA-1;Parent=gene:HNAJ_0001132701;Name=HNAJ_0001132701-mRNA-1;info=method:InterPro accession:IPR022043 description:Chromatin assembly factor 1 subunit A
+HNAJ_scaffold0001493	WormBase_imported	exon	17573	17587	.	-	.	ID=exon:HNAJ_0001132701-mRNA-1.1;Parent=transcript:HNAJ_0001132701-mRNA-1
+HNAJ_scaffold0001493	WormBase_imported	exon	17515	17541	.	-	.	ID=exon:HNAJ_0001132701-mRNA-1.2;Parent=transcript:HNAJ_0001132701-mRNA-1
+HNAJ_scaffold0001493	WormBase_imported	exon	17410	17436	.	-	.	ID=exon:HNAJ_0001132701-mRNA-1.3;Parent=transcript:HNAJ_0001132701-mRNA-1
+HNAJ_scaffold0001493	WormBase_imported	exon	17289	17336	.	-	.	ID=exon:HNAJ_0001132701-mRNA-1.4;Parent=transcript:HNAJ_0001132701-mRNA-1
+HNAJ_scaffold0001493	WormBase_imported	exon	16256	16917	.	-	.	ID=exon:HNAJ_0001132701-mRNA-1.5;Parent=transcript:HNAJ_0001132701-mRNA-1
+HNAJ_scaffold0001493	WormBase_imported	exon	15937	16213	.	-	.	ID=exon:HNAJ_0001132701-mRNA-1.6;Parent=transcript:HNAJ_0001132701-mRNA-1
+HNAJ_scaffold0001493	WormBase_imported	exon	14649	15195	.	-	.	ID=exon:HNAJ_0001132701-mRNA-1.7;Parent=transcript:HNAJ_0001132701-mRNA-1
+HNAJ_scaffold0001493	WormBase_imported	exon	13045	13303	.	-	.	ID=exon:HNAJ_0001132701-mRNA-1.8;Parent=transcript:HNAJ_0001132701-mRNA-1
+HNAJ_scaffold0001493	WormBase_imported	exon	11643	11982	.	-	.	ID=exon:HNAJ_0001132701-mRNA-1.9;Parent=transcript:HNAJ_0001132701-mRNA-1
+HNAJ_scaffold0001493	WormBase_imported	CDS	17573	17587	.	-	0	ID=cds:HNAJ_0001132701-mRNA-1;Parent=transcript:HNAJ_0001132701-mRNA-1
+HNAJ_scaffold0001493	WormBase_imported	CDS	17515	17541	.	-	0	ID=cds:HNAJ_0001132701-mRNA-1;Parent=transcript:HNAJ_0001132701-mRNA-1
+HNAJ_scaffold0001493	WormBase_imported	CDS	17410	17436	.	-	0	ID=cds:HNAJ_0001132701-mRNA-1;Parent=transcript:HNAJ_0001132701-mRNA-1
+HNAJ_scaffold0001493	WormBase_imported	CDS	17289	17336	.	-	0	ID=cds:HNAJ_0001132701-mRNA-1;Parent=transcript:HNAJ_0001132701-mRNA-1
+HNAJ_scaffold0001493	WormBase_imported	CDS	16256	16917	.	-	0	ID=cds:HNAJ_0001132701-mRNA-1;Parent=transcript:HNAJ_0001132701-mRNA-1
+HNAJ_scaffold0001493	WormBase_imported	CDS	15937	16213	.	-	1	ID=cds:HNAJ_0001132701-mRNA-1;Parent=transcript:HNAJ_0001132701-mRNA-1
+HNAJ_scaffold0001493	WormBase_imported	CDS	14649	15195	.	-	0	ID=cds:HNAJ_0001132701-mRNA-1;Parent=transcript:HNAJ_0001132701-mRNA-1
+HNAJ_scaffold0001493	WormBase_imported	CDS	13045	13303	.	-	2	ID=cds:HNAJ_0001132701-mRNA-1;Parent=transcript:HNAJ_0001132701-mRNA-1
+HNAJ_scaffold0001493	WormBase_imported	CDS	11643	11982	.	-	1	ID=cds:HNAJ_0001132701-mRNA-1;Parent=transcript:HNAJ_0001132701-mRNA-1
+HNAJ_scaffold0001493	RepeatMasker	repeat_region	1	158	919	+	.	
+HNAJ_scaffold0001493	RepeatMasker	repeat_region	160	477	2273	-	.	
+HNAJ_scaffold0001493	RepeatMasker	repeat_region	330	564	1080	-	.	
+HNAJ_scaffold0001493	dust	low_complexity_region	464	486	.	-	.	
+HNAJ_scaffold0001493	tandem	tandem_repeat	466	485	40	-	.	
+HNAJ_scaffold0001493	RepeatMasker	repeat_region	492	577	664	+	.	
+HNAJ_scaffold0001493	RepeatMasker	repeat_region	512	609	523	+	.	
+HNAJ_scaffold0001493	RepeatMasker	repeat_region	1231	1351	371	-	.	
+HNAJ_scaffold0001493	dust	low_complexity_region	1597	1605	.	-	.	
+HNAJ_scaffold0001493	RepeatMasker	repeat_region	1748	2067	2416	+	.	
+HNAJ_scaffold0001493	dust	low_complexity_region	1850	1860	.	-	.	
+HNAJ_scaffold0001493	RepeatMasker	repeat_region	1988	2076	708	+	.	
+HNAJ_scaffold0001493	dust	low_complexity_region	2093	2099	.	-	.	
+HNAJ_scaffold0001493	dust	low_complexity_region	2922	9712	.	-	.	
+HNAJ_scaffold0001493	RepeatMasker	repeat_region	9713	10033	2361	-	.	
+HNAJ_scaffold0001493	RepeatMasker	repeat_region	10616	10917	527	-	.	
+HNAJ_scaffold0001493	dust	low_complexity_region	10753	10763	.	-	.	
+HNAJ_scaffold0001493	RepeatMasker	repeat_region	10900	11011	381	+	.	
+HNAJ_scaffold0001493	RepeatMasker	repeat_region	11058	11162	333	-	.	
+HNAJ_scaffold0001493	dust	low_complexity_region	11419	11425	.	-	.	
+HNAJ_scaffold0001493	dust	low_complexity_region	11595	11614	.	-	.	
+HNAJ_scaffold0001493	dust	low_complexity_region	12061	12077	.	-	.	
+HNAJ_scaffold0001493	tandem	tandem_repeat	13370	13393	48	-	.	
+HNAJ_scaffold0001493	dust	low_complexity_region	13370	13393	.	-	.	
+HNAJ_scaffold0001493	RepeatMasker	repeat_region	13658	13761	225	-	.	
+HNAJ_scaffold0001493	dust	low_complexity_region	15648	15654	.	-	.	
+HNAJ_scaffold0001493	dust	low_complexity_region	16642	16815	.	-	.	
+HNAJ_scaffold0001493	tandem	tandem_repeat	16664	16837	194	-	.	
+HNAJ_scaffold0001493	tandem	tandem_repeat	16771	16818	61	-	.	
+HNAJ_scaffold0001493	dust	low_complexity_region	17345	17351	.	-	.	
+HNAJ_scaffold0001493	dust	low_complexity_region	17720	17726	.	-	.	
+HNAJ_scaffold0001493	dust	low_complexity_region	17903	17909	.	-	.	
+HNAJ_scaffold0001493	dust	low_complexity_region	18281	18287	.	-	.	
+HNAJ_scaffold0001493	dust	low_complexity_region	19010	19023	.	-	.	
+HNAJ_scaffold0001493	RepeatMasker	repeat_region	19148	19314	245	-	.	
+HNAJ_scaffold0001493	RepeatMasker	repeat_region	20499	20563	228	+	.	
+HNAJ_scaffold0001493	RepeatMasker	repeat_region	20506	20573	314	+	.	
+HNAJ_scaffold0001493	RepeatMasker	repeat_region	20574	20757	996	+	.	
+HNAJ_scaffold0001493	RepeatMasker	repeat_region	20986	21088	447	+	.	
+HNAJ_scaffold0001494	RepeatMasker	repeat_region	400	713	2343	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	592	603	.	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	612	618	.	-	.	
+HNAJ_scaffold0001494	RepeatMasker	repeat_region	631	725	737	+	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	933	967	.	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	1048	1069	.	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	1444	1450	.	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	1598	1614	.	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	2712	2724	.	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	2836	2845	.	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	3049	3055	.	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	3817	3824	.	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	4629	4635	.	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	4853	4861	.	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	5012	5018	.	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	5076	5084	.	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	5164	5183	.	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	5415	5421	.	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	5715	5721	.	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	5740	5757	.	-	.	
+HNAJ_scaffold0001494	RepeatMasker	repeat_region	6202	6291	434	-	.	
+HNAJ_scaffold0001494	RepeatMasker	repeat_region	6220	6483	1752	+	.	
+HNAJ_scaffold0001494	RepeatMasker	repeat_region	6284	6522	1083	+	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	6552	6568	.	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	7851	7861	.	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	9237	9243	.	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	9309	9315	.	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	9532	9538	.	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	9742	9748	.	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	10071	10078	.	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	10833	10839	.	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	12210	12256	.	-	.	
+HNAJ_scaffold0001494	RepeatMasker	repeat_region	12373	12433	233	+	.	
+HNAJ_scaffold0001494	RepeatMasker	repeat_region	12720	12825	373	-	.	
+HNAJ_scaffold0001494	RepeatMasker	repeat_region	12742	13032	1821	-	.	
+HNAJ_scaffold0001494	RepeatMasker	repeat_region	13521	13593	392	-	.	
+HNAJ_scaffold0001494	RepeatMasker	repeat_region	13530	13645	787	+	.	
+HNAJ_scaffold0001494	RepeatMasker	repeat_region	13543	13861	2271	+	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	13651	13661	.	-	.	
+HNAJ_scaffold0001494	RepeatMasker	repeat_region	13735	13900	1116	+	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	14418	14426	.	-	.	
+HNAJ_scaffold0001494	RepeatMasker	repeat_region	14597	14870	1301	+	.	
+HNAJ_scaffold0001494	RepeatMasker	repeat_region	14834	14878	273	+	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	15317	15323	.	-	.	
+HNAJ_scaffold0001494	RepeatMasker	repeat_region	15334	15417	421	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	15498	15504	.	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	15937	15945	.	-	.	
+HNAJ_scaffold0001494	RepeatMasker	repeat_region	16138	16210	506	-	.	
+HNAJ_scaffold0001494	RepeatMasker	repeat_region	16150	16470	2433	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	16663	16669	.	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	16776	16782	.	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	16966	16973	.	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	16987	16994	.	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	17038	17047	.	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	17074	17082	.	-	.	
+HNAJ_scaffold0001494	RepeatMasker	repeat_region	17707	17816	306	+	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	17816	18276	.	-	.	
+HNAJ_scaffold0001494	tandem	tandem_repeat	18252	18280	44	-	.	
+HNAJ_scaffold0001494	RepeatMasker	repeat_region	18351	18477	732	-	.	
+HNAJ_scaffold0001494	RepeatMasker	repeat_region	18374	18477	789	+	.	
+HNAJ_scaffold0001494	RepeatMasker	repeat_region	18475	18593	866	+	.	
+HNAJ_scaffold0001494	RepeatMasker	repeat_region	18556	18616	302	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	19003	19009	.	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	19760	19769	.	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	19896	19903	.	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	20098	20107	.	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	20352	20358	.	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	20773	20779	.	-	.	
+HNAJ_scaffold0001494	RepeatMasker	repeat_region	21017	21291	1395	+	.	
+HNAJ_scaffold0001494	RepeatMasker	repeat_region	21220	21300	353	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	21369	21375	.	-	.	
+HNAJ_scaffold0001494	tandem	tandem_repeat	21694	21740	94	-	.	
+HNAJ_scaffold0001494	dust	low_complexity_region	21694	21740	.	-	.	
+HNAJ_contig0000965	WormBase_imported	gene	8045	9973	.	+	.	ID=gene:HNAJ_0000210401;Name=HNAJ_0000210401;biotype=protein_coding
+HNAJ_contig0000965	WormBase_imported	mRNA	8045	9973	.	+	.	ID=transcript:HNAJ_0000210401-mRNA-1;Parent=gene:HNAJ_0000210401;Name=HNAJ_0000210401-mRNA-1;info=method:InterPro accession:IPR002223 description:Pancreatic trypsin inhibitor Kunitz domain %0Amethod:InterPro accession:IPR036880 description:Pancreatic trypsin inhibitor Kunitz domain superfamily
+HNAJ_contig0000965	WormBase_imported	exon	8045	8054	.	+	.	ID=exon:HNAJ_0000210401-mRNA-1.1;Parent=transcript:HNAJ_0000210401-mRNA-1
+HNAJ_contig0000965	WormBase_imported	exon	8655	8678	.	+	.	ID=exon:HNAJ_0000210401-mRNA-1.2;Parent=transcript:HNAJ_0000210401-mRNA-1
+HNAJ_contig0000965	WormBase_imported	exon	8748	8777	.	+	.	ID=exon:HNAJ_0000210401-mRNA-1.3;Parent=transcript:HNAJ_0000210401-mRNA-1
+HNAJ_contig0000965	WormBase_imported	exon	9514	9537	.	+	.	ID=exon:HNAJ_0000210401-mRNA-1.4;Parent=transcript:HNAJ_0000210401-mRNA-1
+HNAJ_contig0000965	WormBase_imported	exon	9771	9973	.	+	.	ID=exon:HNAJ_0000210401-mRNA-1.5;Parent=transcript:HNAJ_0000210401-mRNA-1
+HNAJ_contig0000965	WormBase_imported	CDS	8045	8054	.	+	0	ID=cds:HNAJ_0000210401-mRNA-1;Parent=transcript:HNAJ_0000210401-mRNA-1
+HNAJ_contig0000965	WormBase_imported	CDS	8655	8678	.	+	2	ID=cds:HNAJ_0000210401-mRNA-1;Parent=transcript:HNAJ_0000210401-mRNA-1
+HNAJ_contig0000965	WormBase_imported	CDS	8748	8777	.	+	2	ID=cds:HNAJ_0000210401-mRNA-1;Parent=transcript:HNAJ_0000210401-mRNA-1
+HNAJ_contig0000965	WormBase_imported	CDS	9514	9537	.	+	2	ID=cds:HNAJ_0000210401-mRNA-1;Parent=transcript:HNAJ_0000210401-mRNA-1
+HNAJ_contig0000965	WormBase_imported	CDS	9771	9973	.	+	2	ID=cds:HNAJ_0000210401-mRNA-1;Parent=transcript:HNAJ_0000210401-mRNA-1
+HNAJ_scaffold0002462	WormBase_imported	gene	7349	10250	.	-	.	ID=gene:HNAJ_0001261701;Name=HNAJ_0001261701;biotype=protein_coding
+HNAJ_scaffold0002462	WormBase_imported	mRNA	7349	10250	.	-	.	ID=transcript:HNAJ_0001261701-mRNA-1;Parent=gene:HNAJ_0001261701;Name=HNAJ_0001261701-mRNA-1
+HNAJ_scaffold0002462	WormBase_imported	exon	10214	10250	.	-	.	ID=exon:HNAJ_0001261701-mRNA-1.1;Parent=transcript:HNAJ_0001261701-mRNA-1
+HNAJ_scaffold0002462	WormBase_imported	exon	9672	9692	.	-	.	ID=exon:HNAJ_0001261701-mRNA-1.2;Parent=transcript:HNAJ_0001261701-mRNA-1
+HNAJ_scaffold0002462	WormBase_imported	exon	8856	8885	.	-	.	ID=exon:HNAJ_0001261701-mRNA-1.3;Parent=transcript:HNAJ_0001261701-mRNA-1
+HNAJ_scaffold0002462	WormBase_imported	exon	8715	8735	.	-	.	ID=exon:HNAJ_0001261701-mRNA-1.4;Parent=transcript:HNAJ_0001261701-mRNA-1
+HNAJ_scaffold0002462	WormBase_imported	exon	8365	8391	.	-	.	ID=exon:HNAJ_0001261701-mRNA-1.5;Parent=transcript:HNAJ_0001261701-mRNA-1
+HNAJ_scaffold0002462	WormBase_imported	exon	8270	8296	.	-	.	ID=exon:HNAJ_0001261701-mRNA-1.6;Parent=transcript:HNAJ_0001261701-mRNA-1
+HNAJ_scaffold0002462	WormBase_imported	exon	8151	8195	.	-	.	ID=exon:HNAJ_0001261701-mRNA-1.7;Parent=transcript:HNAJ_0001261701-mRNA-1
+HNAJ_scaffold0002462	WormBase_imported	exon	8033	8086	.	-	.	ID=exon:HNAJ_0001261701-mRNA-1.8;Parent=transcript:HNAJ_0001261701-mRNA-1
+HNAJ_scaffold0002462	WormBase_imported	exon	7916	7963	.	-	.	ID=exon:HNAJ_0001261701-mRNA-1.9;Parent=transcript:HNAJ_0001261701-mRNA-1
+HNAJ_scaffold0002462	WormBase_imported	exon	7793	7834	.	-	.	ID=exon:HNAJ_0001261701-mRNA-1.10;Parent=transcript:HNAJ_0001261701-mRNA-1
+HNAJ_scaffold0002462	WormBase_imported	exon	7665	7718	.	-	.	ID=exon:HNAJ_0001261701-mRNA-1.11;Parent=transcript:HNAJ_0001261701-mRNA-1
+HNAJ_scaffold0002462	WormBase_imported	exon	7500	7553	.	-	.	ID=exon:HNAJ_0001261701-mRNA-1.12;Parent=transcript:HNAJ_0001261701-mRNA-1
+HNAJ_scaffold0002462	WormBase_imported	exon	7349	7410	.	-	.	ID=exon:HNAJ_0001261701-mRNA-1.13;Parent=transcript:HNAJ_0001261701-mRNA-1
+HNAJ_scaffold0002462	WormBase_imported	CDS	10214	10250	.	-	0	ID=cds:HNAJ_0001261701-mRNA-1;Parent=transcript:HNAJ_0001261701-mRNA-1
+HNAJ_scaffold0002462	WormBase_imported	CDS	9672	9692	.	-	2	ID=cds:HNAJ_0001261701-mRNA-1;Parent=transcript:HNAJ_0001261701-mRNA-1
+HNAJ_scaffold0002462	WormBase_imported	CDS	8856	8885	.	-	2	ID=cds:HNAJ_0001261701-mRNA-1;Parent=transcript:HNAJ_0001261701-mRNA-1
+HNAJ_scaffold0002462	WormBase_imported	CDS	8715	8735	.	-	2	ID=cds:HNAJ_0001261701-mRNA-1;Parent=transcript:HNAJ_0001261701-mRNA-1
+HNAJ_scaffold0002462	WormBase_imported	CDS	8365	8391	.	-	2	ID=cds:HNAJ_0001261701-mRNA-1;Parent=transcript:HNAJ_0001261701-mRNA-1
+HNAJ_scaffold0002462	WormBase_imported	CDS	8270	8296	.	-	2	ID=cds:HNAJ_0001261701-mRNA-1;Parent=transcript:HNAJ_0001261701-mRNA-1
+HNAJ_scaffold0002462	WormBase_imported	CDS	8151	8195	.	-	2	ID=cds:HNAJ_0001261701-mRNA-1;Parent=transcript:HNAJ_0001261701-mRNA-1
+HNAJ_scaffold0002462	WormBase_imported	CDS	8033	8086	.	-	2	ID=cds:HNAJ_0001261701-mRNA-1;Parent=transcript:HNAJ_0001261701-mRNA-1
+HNAJ_scaffold0002462	WormBase_imported	CDS	7916	7963	.	-	2	ID=cds:HNAJ_0001261701-mRNA-1;Parent=transcript:HNAJ_0001261701-mRNA-1
+HNAJ_scaffold0002462	WormBase_imported	CDS	7793	7834	.	-	2	ID=cds:HNAJ_0001261701-mRNA-1;Parent=transcript:HNAJ_0001261701-mRNA-1
+HNAJ_scaffold0002462	WormBase_imported	CDS	7665	7718	.	-	2	ID=cds:HNAJ_0001261701-mRNA-1;Parent=transcript:HNAJ_0001261701-mRNA-1
+HNAJ_scaffold0002462	WormBase_imported	CDS	7500	7553	.	-	2	ID=cds:HNAJ_0001261701-mRNA-1;Parent=transcript:HNAJ_0001261701-mRNA-1
+HNAJ_scaffold0002462	WormBase_imported	CDS	7349	7410	.	-	2	ID=cds:HNAJ_0001261701-mRNA-1;Parent=transcript:HNAJ_0001261701-mRNA-1
+HNAJ_scaffold0002462	RepeatMasker	repeat_region	1	313	2252	+	.	
+HNAJ_scaffold0002462	dust	low_complexity_region	98	106	.	-	.	
+HNAJ_scaffold0002462	RepeatMasker	repeat_region	281	321	280	+	.	
+HNAJ_scaffold0002462	dust	low_complexity_region	930	936	.	-	.	
+HNAJ_scaffold0002462	RepeatMasker	repeat_region	1262	1334	468	-	.	
+HNAJ_scaffold0002462	RepeatMasker	repeat_region	1276	1645	2055	+	.	
+HNAJ_scaffold0002462	tandem	tandem_repeat	1396	1474	158	-	.	
+HNAJ_scaffold0002462	dust	low_complexity_region	1979	1985	.	-	.	
+HNAJ_scaffold0002462	dust	low_complexity_region	3634	7316	.	-	.	
+HNAJ_scaffold0002462	dust	low_complexity_region	8923	8930	.	-	.	
+HNAJ_scaffold0002462	dust	low_complexity_region	9039	9046	.	-	.	
+HNAJ_scaffold0002462	dust	low_complexity_region	9141	9147	.	-	.	
+HNAJ_scaffold0002462	dust	low_complexity_region	10168	10174	.	-	.	
+HNAJ_scaffold0002462	dust	low_complexity_region	10526	10532	.	-	.	
+HNAJ_scaffold0002462	dust	low_complexity_region	10626	10632	.	-	.	
+HNAJ_scaffold0002462	dust	low_complexity_region	10875	10881	.	-	.	
+HNAJ_scaffold0002462	dust	low_complexity_region	11063	11069	.	-	.	
+HNAJ_scaffold0002462	dust	low_complexity_region	12350	12360	.	-	.	
+HNAJ_scaffold0002462	RepeatMasker	repeat_region	12653	12964	2266	+	.	
+HNAJ_scaffold0002462	tandem	tandem_repeat	12741	13442	1374	-	.	
+HNAJ_scaffold0002462	RepeatMasker	repeat_region	12806	12988	1271	+	.	
+HNAJ_scaffold0002462	RepeatMasker	repeat_region	12835	13290	687	+	.	
+HNAJ_scaffold0002462	RepeatMasker	repeat_region	13092	13310	1554	-	.	
+HNAJ_scaffold0002462	RepeatMasker	repeat_region	13152	13334	1271	+	.	
+HNAJ_scaffold0002462	RepeatMasker	repeat_region	14046	14132	319	-	.	
+HNAJ_scaffold0002462	RepeatMasker	repeat_region	14068	14130	356	-	.	
+HNAJ_scaffold0002462	RepeatMasker	repeat_region	14084	14138	470	+	.	
+HNAJ_contig0002710	WormBase_imported	gene	1029	7884	.	-	.	ID=gene:HNAJ_0000412901;Name=HNAJ_0000412901;biotype=protein_coding
+HNAJ_contig0002710	WormBase_imported	mRNA	1029	7884	.	-	.	ID=transcript:HNAJ_0000412901-mRNA-1;Parent=gene:HNAJ_0000412901;Name=HNAJ_0000412901-mRNA-1
+HNAJ_contig0002710	WormBase_imported	exon	7837	7884	.	-	.	ID=exon:HNAJ_0000412901-mRNA-1.1;Parent=transcript:HNAJ_0000412901-mRNA-1
+HNAJ_contig0002710	WormBase_imported	exon	7394	7763	.	-	.	ID=exon:HNAJ_0000412901-mRNA-1.2;Parent=transcript:HNAJ_0000412901-mRNA-1
+HNAJ_contig0002710	WormBase_imported	exon	4134	4478	.	-	.	ID=exon:HNAJ_0000412901-mRNA-1.3;Parent=transcript:HNAJ_0000412901-mRNA-1
+HNAJ_contig0002710	WormBase_imported	exon	3319	3348	.	-	.	ID=exon:HNAJ_0000412901-mRNA-1.4;Parent=transcript:HNAJ_0000412901-mRNA-1
+HNAJ_contig0002710	WormBase_imported	exon	3169	3192	.	-	.	ID=exon:HNAJ_0000412901-mRNA-1.5;Parent=transcript:HNAJ_0000412901-mRNA-1
+HNAJ_contig0002710	WormBase_imported	exon	2983	3012	.	-	.	ID=exon:HNAJ_0000412901-mRNA-1.6;Parent=transcript:HNAJ_0000412901-mRNA-1
+HNAJ_contig0002710	WormBase_imported	exon	2874	2909	.	-	.	ID=exon:HNAJ_0000412901-mRNA-1.7;Parent=transcript:HNAJ_0000412901-mRNA-1
+HNAJ_contig0002710	WormBase_imported	exon	2673	2761	.	-	.	ID=exon:HNAJ_0000412901-mRNA-1.8;Parent=transcript:HNAJ_0000412901-mRNA-1
+HNAJ_contig0002710	WormBase_imported	exon	2166	2230	.	-	.	ID=exon:HNAJ_0000412901-mRNA-1.9;Parent=transcript:HNAJ_0000412901-mRNA-1
+HNAJ_contig0002710	WormBase_imported	exon	1029	1569	.	-	.	ID=exon:HNAJ_0000412901-mRNA-1.10;Parent=transcript:HNAJ_0000412901-mRNA-1
+HNAJ_contig0002710	WormBase_imported	CDS	7837	7884	.	-	0	ID=cds:HNAJ_0000412901-mRNA-1;Parent=transcript:HNAJ_0000412901-mRNA-1
+HNAJ_contig0002710	WormBase_imported	CDS	7394	7763	.	-	0	ID=cds:HNAJ_0000412901-mRNA-1;Parent=transcript:HNAJ_0000412901-mRNA-1
+HNAJ_contig0002710	WormBase_imported	CDS	4134	4478	.	-	2	ID=cds:HNAJ_0000412901-mRNA-1;Parent=transcript:HNAJ_0000412901-mRNA-1
+HNAJ_contig0002710	WormBase_imported	CDS	3319	3348	.	-	2	ID=cds:HNAJ_0000412901-mRNA-1;Parent=transcript:HNAJ_0000412901-mRNA-1
+HNAJ_contig0002710	WormBase_imported	CDS	3169	3192	.	-	2	ID=cds:HNAJ_0000412901-mRNA-1;Parent=transcript:HNAJ_0000412901-mRNA-1
+HNAJ_contig0002710	WormBase_imported	CDS	2983	3012	.	-	2	ID=cds:HNAJ_0000412901-mRNA-1;Parent=transcript:HNAJ_0000412901-mRNA-1
+HNAJ_contig0002710	WormBase_imported	CDS	2874	2909	.	-	2	ID=cds:HNAJ_0000412901-mRNA-1;Parent=transcript:HNAJ_0000412901-mRNA-1
+HNAJ_contig0002710	WormBase_imported	CDS	2673	2761	.	-	2	ID=cds:HNAJ_0000412901-mRNA-1;Parent=transcript:HNAJ_0000412901-mRNA-1
+HNAJ_contig0002710	WormBase_imported	CDS	2166	2230	.	-	0	ID=cds:HNAJ_0000412901-mRNA-1;Parent=transcript:HNAJ_0000412901-mRNA-1
+HNAJ_contig0002710	WormBase_imported	CDS	1029	1569	.	-	1	ID=cds:HNAJ_0000412901-mRNA-1;Parent=transcript:HNAJ_0000412901-mRNA-1
+HNAJ_contig0002710	RepeatMasker	repeat_region	1	64	470	-	.	
+HNAJ_contig0002710	dust	low_complexity_region	917	923	.	-	.	
+HNAJ_contig0002710	dust	low_complexity_region	939	945	.	-	.	
+HNAJ_contig0002710	dust	low_complexity_region	1012	1018	.	-	.	
+HNAJ_contig0002710	dust	low_complexity_region	1179	1205	.	-	.	
+HNAJ_contig0002710	dust	low_complexity_region	1346	1352	.	-	.	
+HNAJ_contig0002710	dust	low_complexity_region	1733	1801	.	-	.	
+HNAJ_contig0002710	dust	low_complexity_region	2660	2666	.	-	.	
+HNAJ_contig0002710	dust	low_complexity_region	2781	2787	.	-	.	
+HNAJ_contig0002710	dust	low_complexity_region	3046	3052	.	-	.	
+HNAJ_contig0002710	dust	low_complexity_region	3099	3105	.	-	.	
+HNAJ_contig0002710	dust	low_complexity_region	3114	3120	.	-	.	
+HNAJ_contig0002710	dust	low_complexity_region	3723	3739	.	-	.	
+HNAJ_contig0002710	dust	low_complexity_region	5513	5519	.	-	.	
+HNAJ_contig0002710	dust	low_complexity_region	5678	5684	.	-	.	
+HNAJ_contig0002710	RepeatMasker	repeat_region	6356	6431	419	-	.	
+HNAJ_contig0002710	RepeatMasker	repeat_region	6371	6690	1721	+	.	
+HNAJ_contig0002710	dust	low_complexity_region	7035	7041	.	-	.	
+HNAJ_contig0002710	dust	low_complexity_region	8500	8514	.	-	.	
+HNAJ_contig0002711	RepeatMasker	repeat_region	1	350	2137	+	.	
+HNAJ_contig0002711	dust	low_complexity_region	492	500	.	-	.	
+HNAJ_contig0002711	RepeatMasker	repeat_region	525	561	245	+	.	
+HNAJ_contig0002711	RepeatMasker	repeat_region	594	631	226	+	.	
+HNAJ_contig0002711	tandem	tandem_repeat	661	718	79	-	.	
+HNAJ_contig0002711	tandem	tandem_repeat	661	723	59	-	.	
+HNAJ_contig0002711	dust	low_complexity_region	661	725	.	-	.	
+HNAJ_contig0002711	tandem	tandem_repeat	663	718	82	-	.	
+HNAJ_contig0002711	RepeatMasker	repeat_region	732	819	576	+	.	
+HNAJ_contig0002711	dust	low_complexity_region	922	928	.	-	.	
+HNAJ_contig0002711	RepeatMasker	repeat_region	963	1037	603	-	.	
+HNAJ_contig0002711	RepeatMasker	repeat_region	975	1123	1046	+	.	
+HNAJ_contig0002711	tandem	tandem_repeat	998	1159	278	-	.	
+HNAJ_contig0002711	tandem	tandem_repeat	998	1159	278	-	.	
+HNAJ_contig0002711	RepeatMasker	repeat_region	1027	1243	1275	+	.	
+HNAJ_contig0002711	RepeatMasker	repeat_region	1120	1615	1588	+	.	
+HNAJ_contig0002711	dust	low_complexity_region	1193	1201	.	-	.	
+HNAJ_contig0002711	tandem	tandem_repeat	1199	1271	146	-	.	
+HNAJ_contig0002711	RepeatMasker	repeat_region	1285	2384	2124	-	.	
+HNAJ_contig0002711	tandem	tandem_repeat	1287	1372	114	-	.	
+HNAJ_contig0002711	RepeatMasker	repeat_region	1413	1978	3873	+	.	
+HNAJ_contig0002711	tandem	tandem_repeat	1703	1943	363	-	.	
+HNAJ_contig0002711	tandem	tandem_repeat	1872	1993	193	-	.	
+HNAJ_contig0002711	RepeatMasker	repeat_region	1979	3358	9996	+	.	
+HNAJ_contig0002711	tandem	tandem_repeat	2365	2605	363	-	.	
+HNAJ_contig0002711	tandem	tandem_repeat	2534	2655	193	-	.	
+HNAJ_contig0002711	tandem	tandem_repeat	2905	2984	139	-	.	
+HNAJ_contig0002711	dust	low_complexity_region	3947	3953	.	-	.	
+HNAJ_contig0002711	dust	low_complexity_region	4515	4522	.	-	.	
+HNAJ_contig0002711	RepeatMasker	repeat_region	4827	4947	268	+	.	
+HNAJ_contig0002711	dust	low_complexity_region	5080	5089	.	-	.	
+HNAJ_contig0002711	dust	low_complexity_region	5723	5729	.	-	.	
+HNAJ_contig0002711	RepeatMasker	repeat_region	6199	6252	371	-	.	
+HNAJ_contig0002711	RepeatMasker	repeat_region	6215	6507	1567	+	.	
+HNAJ_contig0002711	RepeatMasker	repeat_region	6254	6514	1716	+	.	
+HNAJ_contig0002711	dust	low_complexity_region	6661	6673	.	-	.	
+HNAJ_contig0002711	dust	low_complexity_region	6775	6781	.	-	.	
+HNAJ_contig0002711	dust	low_complexity_region	8128	8151	.	-	.	
+HNAJ_contig0002711	RepeatMasker	repeat_region	8351	8512	1026	-	.	
+HNAJ_contig0002711	dust	low_complexity_region	8435	8441	.	-	.	
+HNAJ_contig0002712	RepeatMasker	repeat_region	1	160	865	-	.	
+HNAJ_contig0002712	RepeatMasker	repeat_region	23	339	2324	-	.	
+HNAJ_contig0002712	RepeatMasker	repeat_region	258	362	344	+	.	
+HNAJ_contig0002712	dust	low_complexity_region	877	883	.	-	.	
+HNAJ_contig0002712	RepeatMasker	repeat_region	1333	1434	321	-	.	
+HNAJ_contig0002712	RepeatMasker	repeat_region	1351	1672	2264	-	.	
+HNAJ_contig0002712	dust	low_complexity_region	1717	1733	.	-	.	
+HNAJ_contig0002712	RepeatMasker	repeat_region	2451	2603	1072	+	.	
+HNAJ_contig0002712	RepeatMasker	repeat_region	2467	2820	1619	+	.	
+HNAJ_contig0002712	tandem	tandem_repeat	2557	2649	186	-	.	
+HNAJ_contig0002712	dust	low_complexity_region	3513	3520	.	-	.	
+HNAJ_contig0002712	dust	low_complexity_region	3627	3633	.	-	.	
+HNAJ_contig0002712	RepeatMasker	repeat_region	4399	4476	301	-	.	
+HNAJ_contig0002712	RepeatMasker	repeat_region	4409	4724	2004	-	.	
+HNAJ_contig0002712	RepeatMasker	repeat_region	4411	4776	1808	+	.	
+HNAJ_contig0002712	dust	low_complexity_region	4553	4559	.	-	.	
+HNAJ_contig0002712	tandem	tandem_repeat	4686	4764	158	-	.	
+HNAJ_contig0002712	RepeatMasker	repeat_region	4724	4784	420	-	.	
+HNAJ_contig0002712	RepeatMasker	repeat_region	5652	5737	554	-	.	
+HNAJ_contig0002712	RepeatMasker	repeat_region	5662	6170	1648	-	.	
+HNAJ_contig0002712	tandem	tandem_repeat	5695	5817	197	-	.	
+HNAJ_contig0002712	tandem	tandem_repeat	5697	5814	190	-	.	
+HNAJ_contig0002712	tandem	tandem_repeat	5821	5939	140	-	.	
+HNAJ_contig0002712	dust	low_complexity_region	6072	6078	.	-	.	
+HNAJ_contig0002712	dust	low_complexity_region	7925	7940	.	-	.	
+HNAJ_contig0002712	RepeatMasker	repeat_region	8445	8512	529	-	.	
+HNAJ_contig0002713	cmscan_rfam_12.2	nucleotide_match	5678	5796	92.2	-	.	ID=cmscan_rfam_12.2.737;Name=5S_rRNA;Target=5S_rRNA 1 119;Gap=M119 
+HNAJ_contig0002713	RepeatMasker	repeat_region	1	310	2487	+	.	
+HNAJ_contig0002713	dust	low_complexity_region	1245	1251	.	-	.	
+HNAJ_contig0002713	dust	low_complexity_region	1309	1315	.	-	.	
+HNAJ_contig0002713	dust	low_complexity_region	1586	1592	.	-	.	
+HNAJ_contig0002713	dust	low_complexity_region	1778	1784	.	-	.	
+HNAJ_contig0002713	dust	low_complexity_region	1795	1801	.	-	.	
+HNAJ_contig0002713	dust	low_complexity_region	2022	2028	.	-	.	
+HNAJ_contig0002713	dust	low_complexity_region	2142	2149	.	-	.	
+HNAJ_contig0002713	dust	low_complexity_region	2448	2455	.	-	.	
+HNAJ_contig0002713	RepeatMasker	repeat_region	2551	2619	239	+	.	
+HNAJ_contig0002713	dust	low_complexity_region	3240	3246	.	-	.	
+HNAJ_contig0002713	dust	low_complexity_region	3404	3420	.	-	.	
+HNAJ_contig0002713	dust	low_complexity_region	3547	3554	.	-	.	
+HNAJ_contig0002713	dust	low_complexity_region	3716	3741	.	-	.	
+HNAJ_contig0002713	RepeatMasker	repeat_region	3863	3969	248	+	.	
+HNAJ_contig0002713	dust	low_complexity_region	3871	3878	.	-	.	
+HNAJ_contig0002713	RepeatMasker	repeat_region	4148	4339	1144	+	.	
+HNAJ_contig0002713	tandem	tandem_repeat	4273	4380	216	-	.	
+HNAJ_contig0002713	RepeatMasker	repeat_region	4326	4514	1169	+	.	
+HNAJ_contig0002713	RepeatMasker	repeat_region	4429	4546	639	+	.	
+HNAJ_contig0002713	dust	low_complexity_region	4746	4753	.	-	.	
+HNAJ_contig0002713	dust	low_complexity_region	4966	4972	.	-	.	
+HNAJ_contig0002713	dust	low_complexity_region	5136	5142	.	-	.	
+HNAJ_contig0002713	RepeatMasker	repeat_region	5326	5438	266	-	.	
+HNAJ_contig0002713	RepeatMasker	repeat_region	5348	5459	586	+	.	
+HNAJ_contig0002713	RepeatMasker	repeat_region	5363	5674	2141	-	.	
+HNAJ_contig0002713	RepeatMasker	repeat_region	5522	5703	1207	+	.	
+HNAJ_contig0002713	dust	low_complexity_region	6044	6050	.	-	.	
+HNAJ_contig0002713	RepeatMasker	repeat_region	6575	6628	360	-	.	
+HNAJ_contig0002713	RepeatMasker	repeat_region	6581	6916	2474	+	.	
+HNAJ_contig0002713	dust	low_complexity_region	6695	6704	.	-	.	
+HNAJ_contig0002713	RepeatMasker	repeat_region	6874	6922	359	+	.	
+HNAJ_contig0002713	RepeatMasker	repeat_region	7118	7437	2140	-	.	
+HNAJ_contig0002713	dust	low_complexity_region	7985	8026	.	-	.	

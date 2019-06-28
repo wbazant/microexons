@@ -1,0 +1,535 @@
+v31.004887	WormBase_imported	gene	14341	18375	.	-	.	ID=gene:mk4.004887.07;Name=mk4.004887.07;biotype=protein_coding
+v31.004887	WormBase_imported	mRNA	14341	18375	.	-	.	ID=transcript:mk4.004887.07;Parent=gene:mk4.004887.07;Name=mk4.004887.07
+v31.004887	WormBase_imported	exon	18291	18375	.	-	.	ID=exon:mk4.004887.07.1;Parent=transcript:mk4.004887.07
+v31.004887	WormBase_imported	exon	17352	17390	.	-	.	ID=exon:mk4.004887.07.2;Parent=transcript:mk4.004887.07
+v31.004887	WormBase_imported	exon	17271	17300	.	-	.	ID=exon:mk4.004887.07.3;Parent=transcript:mk4.004887.07
+v31.004887	WormBase_imported	exon	17194	17223	.	-	.	ID=exon:mk4.004887.07.4;Parent=transcript:mk4.004887.07
+v31.004887	WormBase_imported	exon	15103	15123	.	-	.	ID=exon:mk4.004887.07.5;Parent=transcript:mk4.004887.07
+v31.004887	WormBase_imported	exon	15010	15054	.	-	.	ID=exon:mk4.004887.07.6;Parent=transcript:mk4.004887.07
+v31.004887	WormBase_imported	exon	14935	14964	.	-	.	ID=exon:mk4.004887.07.7;Parent=transcript:mk4.004887.07
+v31.004887	WormBase_imported	exon	14455	14478	.	-	.	ID=exon:mk4.004887.07.8;Parent=transcript:mk4.004887.07
+v31.004887	WormBase_imported	exon	14341	14407	.	-	.	ID=exon:mk4.004887.07.9;Parent=transcript:mk4.004887.07
+v31.004887	WormBase_imported	CDS	18291	18375	.	-	0	ID=cds:mk4.004887.07;Parent=transcript:mk4.004887.07
+v31.004887	WormBase_imported	CDS	17352	17390	.	-	2	ID=cds:mk4.004887.07;Parent=transcript:mk4.004887.07
+v31.004887	WormBase_imported	CDS	17271	17300	.	-	2	ID=cds:mk4.004887.07;Parent=transcript:mk4.004887.07
+v31.004887	WormBase_imported	CDS	17194	17223	.	-	2	ID=cds:mk4.004887.07;Parent=transcript:mk4.004887.07
+v31.004887	WormBase_imported	CDS	15103	15123	.	-	2	ID=cds:mk4.004887.07;Parent=transcript:mk4.004887.07
+v31.004887	WormBase_imported	CDS	15010	15054	.	-	2	ID=cds:mk4.004887.07;Parent=transcript:mk4.004887.07
+v31.004887	WormBase_imported	CDS	14935	14964	.	-	2	ID=cds:mk4.004887.07;Parent=transcript:mk4.004887.07
+v31.004887	WormBase_imported	CDS	14455	14478	.	-	2	ID=cds:mk4.004887.07;Parent=transcript:mk4.004887.07
+v31.004887	WormBase_imported	CDS	14341	14407	.	-	2	ID=cds:mk4.004887.07;Parent=transcript:mk4.004887.07
+v31.022164	WormBase_imported	gene	244	13561	.	+	.	ID=gene:mk4.022164.00;Name=mk4.022164.00;biotype=protein_coding
+v31.022164	WormBase_imported	mRNA	244	13561	.	+	.	ID=transcript:mk4.022164.00;Parent=gene:mk4.022164.00;Name=mk4.022164.00;info=method:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily
+v31.022164	WormBase_imported	exon	244	354	.	+	.	ID=exon:mk4.022164.00.1;Parent=transcript:mk4.022164.00
+v31.022164	WormBase_imported	exon	402	698	.	+	.	ID=exon:mk4.022164.00.2;Parent=transcript:mk4.022164.00
+v31.022164	WormBase_imported	exon	2995	3014	.	+	.	ID=exon:mk4.022164.00.3;Parent=transcript:mk4.022164.00
+v31.022164	WormBase_imported	exon	3067	3088	.	+	.	ID=exon:mk4.022164.00.4;Parent=transcript:mk4.022164.00
+v31.022164	WormBase_imported	exon	3144	3191	.	+	.	ID=exon:mk4.022164.00.5;Parent=transcript:mk4.022164.00
+v31.022164	WormBase_imported	exon	3234	3308	.	+	.	ID=exon:mk4.022164.00.6;Parent=transcript:mk4.022164.00
+v31.022164	WormBase_imported	exon	5696	5716	.	+	.	ID=exon:mk4.022164.00.7;Parent=transcript:mk4.022164.00
+v31.022164	WormBase_imported	exon	6901	6921	.	+	.	ID=exon:mk4.022164.00.8;Parent=transcript:mk4.022164.00
+v31.022164	WormBase_imported	exon	13414	13440	.	+	.	ID=exon:mk4.022164.00.9;Parent=transcript:mk4.022164.00
+v31.022164	WormBase_imported	exon	13486	13561	.	+	.	ID=exon:mk4.022164.00.10;Parent=transcript:mk4.022164.00
+v31.022164	WormBase_imported	CDS	244	354	.	+	0	ID=cds:mk4.022164.00;Parent=transcript:mk4.022164.00
+v31.022164	WormBase_imported	CDS	402	698	.	+	0	ID=cds:mk4.022164.00;Parent=transcript:mk4.022164.00
+v31.022164	WormBase_imported	CDS	2995	3014	.	+	0	ID=cds:mk4.022164.00;Parent=transcript:mk4.022164.00
+v31.022164	WormBase_imported	CDS	3067	3088	.	+	1	ID=cds:mk4.022164.00;Parent=transcript:mk4.022164.00
+v31.022164	WormBase_imported	CDS	3144	3191	.	+	0	ID=cds:mk4.022164.00;Parent=transcript:mk4.022164.00
+v31.022164	WormBase_imported	CDS	3234	3308	.	+	0	ID=cds:mk4.022164.00;Parent=transcript:mk4.022164.00
+v31.022164	WormBase_imported	CDS	5696	5716	.	+	0	ID=cds:mk4.022164.00;Parent=transcript:mk4.022164.00
+v31.022164	WormBase_imported	CDS	6901	6921	.	+	0	ID=cds:mk4.022164.00;Parent=transcript:mk4.022164.00
+v31.022164	WormBase_imported	CDS	13414	13440	.	+	0	ID=cds:mk4.022164.00;Parent=transcript:mk4.022164.00
+v31.022164	WormBase_imported	CDS	13486	13561	.	+	0	ID=cds:mk4.022164.00;Parent=transcript:mk4.022164.00
+v31.022164	tandem	tandem_repeat	1	178	261	-	.	
+v31.022164	dust	low_complexity_region	1	178	.	-	.	
+v31.022164	dust	low_complexity_region	356	420	.	-	.	
+v31.022164	dust	low_complexity_region	762	856	.	-	.	
+v31.022164	RepeatMasker	repeat_region	828	1186	832	+	.	Name=rnd-6_family-1153;repeat_class=LINE/Penelope
+v31.022164	dust	low_complexity_region	950	1311	.	-	.	
+v31.022164	tandem	tandem_repeat	1055	1099	60	-	.	
+v31.022164	tandem	tandem_repeat	1192	1311	240	-	.	
+v31.022164	dust	low_complexity_region	1358	1444	.	-	.	
+v31.022164	tandem	tandem_repeat	1363	1406	51	-	.	
+v31.022164	dust	low_complexity_region	1584	1594	.	-	.	
+v31.022164	RepeatMasker	repeat_region	1594	1863	2187	-	.	Name=rnd-1_family-1307;repeat_class=DNA/PiggyBac
+v31.022164	RepeatMasker	repeat_region	1868	2674	6707	-	.	Name=rnd-6_family-2520;repeat_class=DNA/PiggyBac
+v31.022164	dust	low_complexity_region	1981	1990	.	-	.	
+v31.022164	dust	low_complexity_region	2647	2857	.	-	.	
+v31.022164	RepeatMasker	repeat_region	2712	2847	379	+	.	Name=rnd-1_family-258;repeat_class=Simple_repeat
+v31.022164	tandem	tandem_repeat	2726	2857	257	-	.	
+v31.022164	dust	low_complexity_region	2910	2989	.	-	.	
+v31.022164	dust	low_complexity_region	3394	3438	.	-	.	
+v31.022164	dust	low_complexity_region	3452	3524	.	-	.	
+v31.022164	dust	low_complexity_region	3915	3921	.	-	.	
+v31.022164	dust	low_complexity_region	4319	4325	.	-	.	
+v31.022164	dust	low_complexity_region	4975	5098	.	-	.	
+v31.022164	tandem	tandem_repeat	4991	5029	55	-	.	
+v31.022164	dust	low_complexity_region	5442	5449	.	-	.	
+v31.022164	dust	low_complexity_region	5517	5591	.	-	.	
+v31.022164	dust	low_complexity_region	5723	5829	.	-	.	
+v31.022164	dust	low_complexity_region	5983	6039	.	-	.	
+v31.022164	dust	low_complexity_region	6069	6194	.	-	.	
+v31.022164	RepeatMasker	repeat_region	6267	6388	487	+	.	
+v31.022164	dust	low_complexity_region	6348	6359	.	-	.	
+v31.022164	tandem	tandem_repeat	6490	6511	44	-	.	
+v31.022164	RepeatMasker	repeat_region	6500	6567	269	-	.	Name=rnd-1_family-609;repeat_class=DNA/Maverick
+v31.022164	dust	low_complexity_region	6743	6767	.	-	.	
+v31.022164	dust	low_complexity_region	6883	6890	.	-	.	
+v31.022164	dust	low_complexity_region	6927	6995	.	-	.	
+v31.022164	dust	low_complexity_region	7013	7020	.	-	.	
+v31.022164	dust	low_complexity_region	7057	7596	.	-	.	
+v31.022164	RepeatMasker	repeat_region	7597	7811	670	-	.	
+v31.022164	tandem	tandem_repeat	8161	8192	50	-	.	
+v31.022164	RepeatMasker	repeat_region	8191	8296	839	-	.	Name=rnd-1_family-280;repeat_class=LINE/Penelope
+v31.022164	RepeatMasker	repeat_region	8301	8411	596	-	.	
+v31.022164	dust	low_complexity_region	8357	8616	.	-	.	
+v31.022164	tandem	tandem_repeat	8396	8507	90	-	.	
+v31.022164	RepeatMasker	repeat_region	8568	8844	1175	-	.	
+v31.022164	dust	low_complexity_region	8749	8765	.	-	.	
+v31.022164	dust	low_complexity_region	8845	8854	.	-	.	
+v31.022164	RepeatMasker	repeat_region	8855	9248	1232	+	.	
+v31.022164	RepeatMasker	repeat_region	8868	9146	1328	-	.	
+v31.022164	dust	low_complexity_region	8884	8899	.	-	.	
+v31.022164	tandem	tandem_repeat	8947	9137	333	-	.	
+v31.022164	tandem	tandem_repeat	9092	9204	147	-	.	
+v31.022164	dust	low_complexity_region	9203	9371	.	-	.	
+v31.022164	tandem	tandem_repeat	9241	9352	159	-	.	
+v31.022164	tandem	tandem_repeat	9281	9354	90	-	.	
+v31.022164	tandem	tandem_repeat	9292	9471	202	-	.	
+v31.022164	dust	low_complexity_region	9375	9472	.	-	.	
+v31.022164	tandem	tandem_repeat	9389	9472	61	-	.	
+v31.022164	tandem	tandem_repeat	9421	9447	47	-	.	
+v31.022164	RepeatMasker	repeat_region	9421	9706	1336	-	.	
+v31.022164	dust	low_complexity_region	9605	9617	.	-	.	
+v31.022164	RepeatMasker	repeat_region	9609	10292	4928	+	.	
+v31.022164	dust	low_complexity_region	10304	10365	.	-	.	
+v31.022164	RepeatMasker	repeat_region	10496	10781	1932	-	.	
+v31.022164	dust	low_complexity_region	10769	10776	.	-	.	
+v31.022164	RepeatMasker	repeat_region	10785	10952	1191	-	.	
+v31.022164	dust	low_complexity_region	10946	10952	.	-	.	
+v31.022164	RepeatMasker	repeat_region	11130	11381	1539	+	.	
+v31.022164	dust	low_complexity_region	11131	11141	.	-	.	
+v31.022164	dust	low_complexity_region	11288	11296	.	-	.	
+v31.022164	tandem	tandem_repeat	11352	11382	55	-	.	
+v31.022164	RepeatMasker	repeat_region	11423	11771	2325	-	.	
+v31.022164	RepeatMasker	repeat_region	11674	11954	1309	+	.	
+v31.022164	dust	low_complexity_region	11906	12371	.	-	.	
+v31.022164	RepeatMasker	repeat_region	12057	12605	1244	+	.	
+v31.022164	tandem	tandem_repeat	12375	12507	231	-	.	
+v31.022164	RepeatMasker	repeat_region	12637	13150	1833	+	.	Name=rnd-3_family-264;repeat_class=LINE/Penelope
+v31.022164	tandem	tandem_repeat	12841	12887	57	-	.	
+v31.022164	dust	low_complexity_region	12860	13005	.	-	.	
+v31.022164	dust	low_complexity_region	13029	13035	.	-	.	
+v31.022164	dust	low_complexity_region	13137	13199	.	-	.	
+v31.022164	dust	low_complexity_region	13514	13703	.	-	.	
+v31.022164	tandem	tandem_repeat	13556	13627	84	-	.	
+v31.022164	tandem	tandem_repeat	13586	13631	50	-	.	
+v31.022164	dust	low_complexity_region	13718	13778	.	-	.	
+v31.022164	RepeatMasker	repeat_region	13783	13816	236	+	.	Name=rnd-3_family-264;repeat_class=LINE/Penelope
+v31.022164	RepeatMasker	repeat_region	13817	13832	227	+	.	
+v31.022164	RepeatMasker	repeat_region	13970	14104	450	-	.	
+v31.022164	RepeatMasker	repeat_region	14206	14367	554	-	.	
+v31.022164	dust	low_complexity_region	14313	14375	.	-	.	
+v31.017809	dust	low_complexity_region	153	159	.	-	.	
+v31.017809	dust	low_complexity_region	384	390	.	-	.	
+v31.017809	dust	low_complexity_region	910	917	.	-	.	
+v31.017809	dust	low_complexity_region	1007	1064	.	-	.	
+v31.017809	RepeatMasker	repeat_region	1087	1210	398	+	.	
+v31.017809	dust	low_complexity_region	1146	1193	.	-	.	
+v31.017809	RepeatMasker	repeat_region	1334	1769	1189	+	.	
+v31.017809	dust	low_complexity_region	1339	1449	.	-	.	
+v31.017809	RepeatMasker	repeat_region	1755	1878	487	-	.	
+v31.017809	RepeatMasker	repeat_region	1882	2116	733	+	.	
+v31.017809	RepeatMasker	repeat_region	2107	2195	228	-	.	
+v31.017809	RepeatMasker	repeat_region	2140	2197	326	+	.	
+v31.017809	tandem	tandem_repeat	2501	2663	326	-	.	
+v31.017809	dust	low_complexity_region	2501	2671	.	-	.	
+v31.017809	RepeatMasker	repeat_region	2553	2677	415	+	.	Name=rnd-1_family-258;repeat_class=Simple_repeat
+v31.017809	RepeatMasker	repeat_region	2742	3097	835	-	.	
+v31.017809	RepeatMasker	repeat_region	2781	3102	913	+	.	
+v31.017809	dust	low_complexity_region	2784	2838	.	-	.	
+v31.017809	dust	low_complexity_region	2911	2919	.	-	.	
+v31.017809	dust	low_complexity_region	3102	3164	.	-	.	
+v31.017809	RepeatMasker	repeat_region	3384	3522	284	-	.	
+v31.017809	dust	low_complexity_region	3735	4347	.	-	.	
+v31.017809	RepeatMasker	repeat_region	4383	4537	397	+	.	
+v31.017809	dust	low_complexity_region	4455	4463	.	-	.	
+v31.017809	dust	low_complexity_region	4636	4757	.	-	.	
+v31.017809	tandem	tandem_repeat	4656	4757	197	-	.	
+v31.017809	tandem	tandem_repeat	4923	5078	298	-	.	
+v31.017809	dust	low_complexity_region	4923	5089	.	-	.	
+v31.017809	dust	low_complexity_region	5262	5272	.	-	.	
+v31.017809	dust	low_complexity_region	5487	5546	.	-	.	
+v31.017809	dust	low_complexity_region	5556	5778	.	-	.	
+v31.017809	tandem	tandem_repeat	5604	5635	43	-	.	
+v31.017809	dust	low_complexity_region	5833	5866	.	-	.	
+v31.017809	dust	low_complexity_region	5900	5906	.	-	.	
+v31.017809	RepeatMasker	repeat_region	6110	6357	790	-	.	
+v31.017809	dust	low_complexity_region	6142	6219	.	-	.	
+v31.017809	dust	low_complexity_region	6357	6363	.	-	.	
+v31.017809	RepeatMasker	repeat_region	6359	6776	3255	-	.	
+v31.017809	dust	low_complexity_region	6754	6760	.	-	.	
+v31.017809	RepeatMasker	repeat_region	6776	6876	525	-	.	Name=rnd-1_family-354;repeat_class=DNA/Maverick
+v31.017809	dust	low_complexity_region	6905	6951	.	-	.	
+v31.017809	tandem	tandem_repeat	6914	6949	51	-	.	
+v31.017809	RepeatMasker	repeat_region	6941	7088	937	-	.	
+v31.017809	dust	low_complexity_region	7060	7067	.	-	.	
+v31.017809	RepeatMasker	repeat_region	7104	7234	687	-	.	Name=rnd-6_family-5578;repeat_class=DNA/Maverick
+v31.017809	dust	low_complexity_region	7123	7129	.	-	.	
+v31.017809	RepeatMasker	repeat_region	7235	7343	812	+	.	
+v31.017809	dust	low_complexity_region	7261	7330	.	-	.	
+v31.017809	tandem	tandem_repeat	7278	7314	60	-	.	
+v31.017809	dust	low_complexity_region	7335	7502	.	-	.	
+v31.017809	RepeatMasker	repeat_region	7441	7536	623	-	.	Name=rnd-1_family-572;repeat_class=LTR/Gypsy
+v31.017809	RepeatMasker	repeat_region	7622	8053	2004	-	.	Name=rnd-1_family-333;repeat_class=DNA/Maverick
+v31.017809	dust	low_complexity_region	8143	8149	.	-	.	
+v31.017809	RepeatMasker	repeat_region	8374	8640	492	+	.	
+v31.017809	RepeatMasker	repeat_region	8708	9056	688	-	.	
+v31.017809	dust	low_complexity_region	8873	8879	.	-	.	
+v31.017809	RepeatMasker	repeat_region	9229	9499	1170	+	.	Name=rnd-1_family-289;repeat_class=DNA/Maverick
+v31.017809	dust	low_complexity_region	9484	9490	.	-	.	
+v31.017809	dust	low_complexity_region	9507	9513	.	-	.	
+v31.017809	dust	low_complexity_region	9608	9615	.	-	.	
+v31.017809	dust	low_complexity_region	10223	10235	.	-	.	
+v31.017809	dust	low_complexity_region	10412	10418	.	-	.	
+v31.017809	dust	low_complexity_region	10444	10531	.	-	.	
+v31.017809	RepeatMasker	repeat_region	10503	10608	591	+	.	
+v31.017809	RepeatMasker	repeat_region	10609	10664	339	-	.	
+v31.017809	dust	low_complexity_region	10757	10763	.	-	.	
+v31.017809	dust	low_complexity_region	10902	10910	.	-	.	
+v31.017809	RepeatMasker	repeat_region	11089	11219	267	+	.	Name=rnd-6_family-1153;repeat_class=LINE/Penelope
+v31.017809	dust	low_complexity_region	11096	11102	.	-	.	
+v31.017809	RepeatMasker	repeat_region	11244	11868	1090	+	.	Name=rnd-3_family-239;repeat_class=LINE/Penelope
+v31.017809	dust	low_complexity_region	11454	11461	.	-	.	
+v31.017809	RepeatMasker	repeat_region	11898	12138	1546	+	.	Name=rnd-4_family-260;repeat_class=LINE/Penelope
+v31.017809	dust	low_complexity_region	12170	12176	.	-	.	
+v31.017809	dust	low_complexity_region	12226	12458	.	-	.	
+v31.017809	RepeatMasker	repeat_region	12467	13760	7252	-	.	
+v31.017809	dust	low_complexity_region	13767	13773	.	-	.	
+v31.017809	RepeatMasker	repeat_region	13783	14033	780	+	.	Name=rnd-1_family-258;repeat_class=Simple_repeat
+v31.017809	dust	low_complexity_region	13906	13967	.	-	.	
+v31.017809	tandem	tandem_repeat	13935	13967	43	-	.	
+v31.025025	WormBase_imported	gene	2882	8595	.	-	.	ID=gene:mk4.025025.00;Name=mk4.025025.00;biotype=protein_coding
+v31.025025	WormBase_imported	mRNA	2882	8595	.	-	.	ID=transcript:mk4.025025.00;Parent=gene:mk4.025025.00;Name=mk4.025025.00
+v31.025025	WormBase_imported	exon	8423	8595	.	-	.	ID=exon:mk4.025025.00.1;Parent=transcript:mk4.025025.00
+v31.025025	WormBase_imported	exon	3843	3881	.	-	.	ID=exon:mk4.025025.00.2;Parent=transcript:mk4.025025.00
+v31.025025	WormBase_imported	exon	3767	3796	.	-	.	ID=exon:mk4.025025.00.3;Parent=transcript:mk4.025025.00
+v31.025025	WormBase_imported	exon	3679	3708	.	-	.	ID=exon:mk4.025025.00.4;Parent=transcript:mk4.025025.00
+v31.025025	WormBase_imported	exon	3020	3049	.	-	.	ID=exon:mk4.025025.00.5;Parent=transcript:mk4.025025.00
+v31.025025	WormBase_imported	exon	2882	2969	.	-	.	ID=exon:mk4.025025.00.6;Parent=transcript:mk4.025025.00
+v31.025025	WormBase_imported	five_prime_UTR	8568	8595	.	-	.	Parent=transcript:mk4.025025.00
+v31.025025	WormBase_imported	CDS	8423	8567	.	-	0	ID=cds:mk4.025025.00;Parent=transcript:mk4.025025.00
+v31.025025	WormBase_imported	CDS	3843	3881	.	-	0	ID=cds:mk4.025025.00;Parent=transcript:mk4.025025.00
+v31.025025	WormBase_imported	CDS	3767	3796	.	-	0	ID=cds:mk4.025025.00;Parent=transcript:mk4.025025.00
+v31.025025	WormBase_imported	CDS	3679	3708	.	-	0	ID=cds:mk4.025025.00;Parent=transcript:mk4.025025.00
+v31.025025	WormBase_imported	CDS	3020	3049	.	-	0	ID=cds:mk4.025025.00;Parent=transcript:mk4.025025.00
+v31.025025	WormBase_imported	CDS	2882	2969	.	-	0	ID=cds:mk4.025025.00;Parent=transcript:mk4.025025.00
+v31.025025	dust	low_complexity_region	5	63	.	-	.	
+v31.025025	dust	low_complexity_region	164	170	.	-	.	
+v31.025025	RepeatMasker	repeat_region	219	361	923	-	.	
+v31.025025	dust	low_complexity_region	324	332	.	-	.	
+v31.025025	RepeatMasker	repeat_region	368	573	997	+	.	
+v31.025025	dust	low_complexity_region	447	526	.	-	.	
+v31.025025	dust	low_complexity_region	576	676	.	-	.	
+v31.025025	dust	low_complexity_region	778	848	.	-	.	
+v31.025025	dust	low_complexity_region	903	922	.	-	.	
+v31.025025	dust	low_complexity_region	1004	1062	.	-	.	
+v31.025025	dust	low_complexity_region	1089	1189	.	-	.	
+v31.025025	tandem	tandem_repeat	1091	1140	63	-	.	
+v31.025025	dust	low_complexity_region	1194	1268	.	-	.	
+v31.025025	tandem	tandem_repeat	1222	1267	50	-	.	
+v31.025025	RepeatMasker	repeat_region	1413	1522	400	-	.	
+v31.025025	RepeatMasker	repeat_region	1576	1732	385	-	.	
+v31.025025	RepeatMasker	repeat_region	2358	2409	324	-	.	
+v31.025025	RepeatMasker	repeat_region	2463	2553	489	+	.	
+v31.025025	RepeatMasker	repeat_region	2469	2599	354	-	.	
+v31.025025	RepeatMasker	repeat_region	2557	2606	227	+	.	
+v31.025025	dust	low_complexity_region	3054	3162	.	-	.	
+v31.025025	RepeatMasker	repeat_region	3100	3163	314	-	.	
+v31.025025	RepeatMasker	repeat_region	3162	3232	261	+	.	Name=rnd-6_family-4878;repeat_class=DNA/TcMar-Tc2
+v31.025025	dust	low_complexity_region	3210	3217	.	-	.	
+v31.025025	RepeatMasker	repeat_region	3227	3378	367	+	.	Name=rnd-6_family-4878;repeat_class=DNA/TcMar-Tc2
+v31.025025	RepeatMasker	repeat_region	3411	3500	275	-	.	
+v31.025025	dust	low_complexity_region	3481	3689	.	-	.	
+v31.025025	dust	low_complexity_region	3710	3765	.	-	.	
+v31.025025	dust	low_complexity_region	3816	3828	.	-	.	
+v31.025025	RepeatMasker	repeat_region	4432	4465	265	-	.	
+v31.025025	dust	low_complexity_region	4815	5287	.	-	.	
+v31.025025	RepeatMasker	repeat_region	5288	5544	847	-	.	Name=rnd-1_family-346;repeat_class=LTR/Gypsy
+v31.025025	RepeatMasker	repeat_region	5545	6806	5411	+	.	Name=rnd-1_family-346;repeat_class=LTR/Gypsy
+v31.025025	dust	low_complexity_region	5726	5733	.	-	.	
+v31.025025	dust	low_complexity_region	6832	7139	.	-	.	
+v31.025025	RepeatMasker	repeat_region	7138	7671	2019	+	.	Name=rnd-1_family-346;repeat_class=LTR/Gypsy
+v31.025025	dust	low_complexity_region	7265	7329	.	-	.	
+v31.025025	dust	low_complexity_region	7444	7495	.	-	.	
+v31.025025	RepeatMasker	repeat_region	7518	7722	1262	-	.	
+v31.025025	tandem	tandem_repeat	7529	7581	64	-	.	
+v31.025025	dust	low_complexity_region	7529	7621	.	-	.	
+v31.025025	tandem	tandem_repeat	7571	7605	54	-	.	
+v31.025025	dust	low_complexity_region	7905	7911	.	-	.	
+v31.025025	dust	low_complexity_region	8056	8154	.	-	.	
+v31.025025	dust	low_complexity_region	8164	8250	.	-	.	
+v31.025025	dust	low_complexity_region	8297	8388	.	-	.	
+v31.025025	dust	low_complexity_region	8528	8580	.	-	.	
+v31.025025	dust	low_complexity_region	8784	8790	.	-	.	
+v31.025025	dust	low_complexity_region	8812	8886	.	-	.	
+v31.025025	RepeatMasker	repeat_region	9083	9454	1591	+	.	
+v31.025025	RepeatMasker	repeat_region	9096	9328	1817	-	.	
+v31.025025	dust	low_complexity_region	9115	9124	.	-	.	
+v31.025025	tandem	tandem_repeat	9172	9438	499	-	.	
+v31.025025	tandem	tandem_repeat	9172	9541	496	-	.	
+v31.025025	tandem	tandem_repeat	9330	9590	348	-	.	
+v31.025025	tandem	tandem_repeat	9393	9604	354	-	.	
+v31.025025	RepeatMasker	repeat_region	9445	9541	809	-	.	
+v31.025025	RepeatMasker	repeat_region	9458	9590	554	+	.	
+v31.025025	RepeatMasker	repeat_region	9559	9650	247	+	.	
+v31.025025	dust	low_complexity_region	9565	9627	.	-	.	
+v31.025025	tandem	tandem_repeat	9577	9620	81	-	.	
+v31.025208	RepeatMasker	repeat_region	2	459	2256	-	.	
+v31.025208	dust	low_complexity_region	190	250	.	-	.	
+v31.025208	tandem	tandem_repeat	279	444	239	-	.	
+v31.025208	RepeatMasker	repeat_region	470	532	479	-	.	
+v31.025208	tandem	tandem_repeat	531	570	52	-	.	
+v31.025208	dust	low_complexity_region	531	628	.	-	.	
+v31.025208	RepeatMasker	repeat_region	531	617	329	+	.	Name=rnd-1_family-378;repeat_class=DNA/Maverick
+v31.025208	tandem	tandem_repeat	532	560	51	-	.	
+v31.025208	RepeatMasker	repeat_region	599	2098	10446	+	.	Name=rnd-1_family-378;repeat_class=DNA/Maverick
+v31.025208	dust	low_complexity_region	661	669	.	-	.	
+v31.025208	dust	low_complexity_region	988	1074	.	-	.	
+v31.025208	dust	low_complexity_region	1537	1620	.	-	.	
+v31.025208	tandem	tandem_repeat	1571	1612	52	-	.	
+v31.025208	tandem	tandem_repeat	1573	1620	52	-	.	
+v31.025208	RepeatMasker	repeat_region	2104	6744	17522	+	.	Name=rnd-1_family-332;repeat_class=DNA/Maverick
+v31.025208	dust	low_complexity_region	2274	2405	.	-	.	
+v31.025208	dust	low_complexity_region	3262	3322	.	-	.	
+v31.025208	tandem	tandem_repeat	3263	3289	40	-	.	
+v31.025208	dust	low_complexity_region	4154	4214	.	-	.	
+v31.025208	dust	low_complexity_region	5330	5411	.	-	.	
+v31.025208	dust	low_complexity_region	6623	6629	.	-	.	
+v31.025208	dust	low_complexity_region	6744	8038	.	-	.	
+v31.025208	RepeatMasker	repeat_region	8038	8656	4852	-	.	
+v31.025208	dust	low_complexity_region	8124	8195	.	-	.	
+v31.025208	dust	low_complexity_region	8534	8596	.	-	.	
+v31.025208	dust	low_complexity_region	8616	8622	.	-	.	
+v31.025208	dust	low_complexity_region	8665	8786	.	-	.	
+v31.025208	tandem	tandem_repeat	8678	8727	51	-	.	
+v31.025208	tandem	tandem_repeat	8682	8728	73	-	.	
+v31.025208	tandem	tandem_repeat	8691	8746	68	-	.	
+v31.025208	RepeatMasker	repeat_region	8987	9152	1034	-	.	
+v31.025208	tandem	tandem_repeat	8991	9041	88	-	.	
+v31.025208	dust	low_complexity_region	8995	9079	.	-	.	
+v31.025208	RepeatMasker	repeat_region	9143	9649	4053	-	.	Name=rnd-1_family-378;repeat_class=DNA/Maverick
+v31.025208	dust	low_complexity_region	9602	9608	.	-	.	
+v31.026157	RepeatMasker	repeat_region	22	200	466	+	.	Name=rnd-4_family-834;repeat_class=LINE/Penelope
+v31.026157	dust	low_complexity_region	91	114	.	-	.	
+v31.026157	RepeatMasker	repeat_region	192	264	235	-	.	
+v31.026157	dust	low_complexity_region	217	440	.	-	.	
+v31.026157	tandem	tandem_repeat	219	402	340	-	.	
+v31.026157	RepeatMasker	repeat_region	614	700	345	-	.	
+v31.026157	dust	low_complexity_region	648	654	.	-	.	
+v31.026157	dust	low_complexity_region	657	720	.	-	.	
+v31.026157	dust	low_complexity_region	1044	1051	.	-	.	
+v31.026157	dust	low_complexity_region	1100	1141	.	-	.	
+v31.026157	dust	low_complexity_region	1148	1211	.	-	.	
+v31.026157	dust	low_complexity_region	1755	1845	.	-	.	
+v31.026157	dust	low_complexity_region	2074	2111	.	-	.	
+v31.026157	dust	low_complexity_region	2235	2474	.	-	.	
+v31.026157	tandem	tandem_repeat	2381	2426	55	-	.	
+v31.026157	dust	low_complexity_region	2579	2586	.	-	.	
+v31.026157	dust	low_complexity_region	2622	2676	.	-	.	
+v31.026157	dust	low_complexity_region	2702	2708	.	-	.	
+v31.026157	dust	low_complexity_region	3442	3451	.	-	.	
+v31.026157	tandem	tandem_repeat	3454	3495	54	-	.	
+v31.026157	dust	low_complexity_region	3454	3623	.	-	.	
+v31.026157	tandem	tandem_repeat	3494	3623	216	-	.	
+v31.026157	RepeatMasker	repeat_region	3494	3554	556	-	.	Name=rnd-1_family-608;repeat_class=LINE/R2
+v31.026157	RepeatMasker	repeat_region	3555	3650	439	-	.	Name=rnd-1_family-289;repeat_class=DNA/Maverick
+v31.026157	dust	low_complexity_region	3845	3936	.	-	.	
+v31.026157	dust	low_complexity_region	4006	4014	.	-	.	
+v31.026157	dust	low_complexity_region	4423	4490	.	-	.	
+v31.026157	RepeatMasker	repeat_region	4801	4850	243	+	.	
+v31.026157	tandem	tandem_repeat	4900	4970	61	-	.	
+v31.026157	dust	low_complexity_region	4900	5015	.	-	.	
+v31.026157	dust	low_complexity_region	5111	5185	.	-	.	
+v31.026157	tandem	tandem_repeat	5127	5181	75	-	.	
+v31.026157	dust	low_complexity_region	5242	5264	.	-	.	
+v31.026157	dust	low_complexity_region	5508	5572	.	-	.	
+v31.026157	dust	low_complexity_region	5657	5721	.	-	.	
+v31.026157	RepeatMasker	repeat_region	5837	5881	293	+	.	Name=rnd-5_family-3985;repeat_class=DNA/TcMar-Mariner
+v31.026157	RepeatMasker	repeat_region	5958	6184	681	-	.	Name=rnd-5_family-3985;repeat_class=DNA/TcMar-Mariner
+v31.026157	RepeatMasker	repeat_region	6182	6344	949	-	.	Name=rnd-5_family-3985;repeat_class=DNA/TcMar-Mariner
+v31.026157	dust	low_complexity_region	6514	6520	.	-	.	
+v31.026157	dust	low_complexity_region	6718	6724	.	-	.	
+v31.026157	tandem	tandem_repeat	6729	6776	57	-	.	
+v31.026157	RepeatMasker	repeat_region	6776	7067	860	+	.	Name=rnd-3_family-227;repeat_class=Simple_repeat
+v31.026157	dust	low_complexity_region	6827	6840	.	-	.	
+v31.026157	dust	low_complexity_region	6917	7133	.	-	.	
+v31.026157	tandem	tandem_repeat	7048	7098	58	-	.	
+v31.026157	RepeatMasker	repeat_region	7141	7260	432	+	.	Name=rnd-1_family-258;repeat_class=Simple_repeat
+v31.026157	tandem	tandem_repeat	7156	7284	244	-	.	
+v31.026157	dust	low_complexity_region	7156	7382	.	-	.	
+v31.026157	tandem	tandem_repeat	7324	7366	63	-	.	
+v31.026157	tandem	tandem_repeat	7324	7367	67	-	.	
+v31.026157	dust	low_complexity_region	7574	7626	.	-	.	
+v31.026157	RepeatMasker	repeat_region	7645	8119	2118	+	.	
+v31.026157	RepeatMasker	repeat_region	8115	8252	952	-	.	
+v31.026157	RepeatMasker	repeat_region	8263	8649	2644	+	.	
+v31.026157	RepeatMasker	repeat_region	8644	9442	1469	-	.	
+v31.026157	dust	low_complexity_region	8699	8775	.	-	.	
+v31.026157	dust	low_complexity_region	9508	9658	.	-	.	
+v31.026157	tandem	tandem_repeat	9536	9579	60	-	.	
+v31.032249	dust	low_complexity_region	104	110	.	-	.	
+v31.032249	RepeatMasker	repeat_region	155	524	2659	-	.	Name=rnd-1_family-441;repeat_class=DNA/TcMar-ISRm11
+v31.032249	dust	low_complexity_region	213	296	.	-	.	
+v31.032249	RepeatMasker	repeat_region	586	638	262	+	.	Name=rnd-6_family-1153;repeat_class=LINE/Penelope
+v31.032249	dust	low_complexity_region	611	668	.	-	.	
+v31.032249	dust	low_complexity_region	718	806	.	-	.	
+v31.032249	tandem	tandem_repeat	840	886	57	-	.	
+v31.032249	dust	low_complexity_region	845	956	.	-	.	
+v31.032249	tandem	tandem_repeat	847	886	59	-	.	
+v31.032249	dust	low_complexity_region	1221	1294	.	-	.	
+v31.032249	dust	low_complexity_region	1550	1693	.	-	.	
+v31.032249	tandem	tandem_repeat	1626	1685	85	-	.	
+v31.032249	RepeatMasker	repeat_region	1686	1784	658	-	.	Name=rnd-1_family-280;repeat_class=LINE/Penelope
+v31.032249	dust	low_complexity_region	1785	1967	.	-	.	
+v31.032249	RepeatMasker	repeat_region	1788	1986	473	+	.	Name=rnd-4_family-834;repeat_class=LINE/Penelope
+v31.032249	tandem	tandem_repeat	1863	1902	52	-	.	
+v31.032249	RepeatMasker	repeat_region	1969	2091	479	+	.	Name=rnd-1_family-608;repeat_class=LINE/R2
+v31.032249	dust	low_complexity_region	1980	2087	.	-	.	
+v31.032249	tandem	tandem_repeat	1982	2087	205	-	.	
+v31.032249	RepeatMasker	repeat_region	2097	2497	1378	+	.	Name=rnd-1_family-491;repeat_class=LINE/Penelope
+v31.032249	dust	low_complexity_region	2328	2389	.	-	.	
+v31.032249	dust	low_complexity_region	2629	2747	.	-	.	
+v31.032249	dust	low_complexity_region	2772	2866	.	-	.	
+v31.032249	RepeatMasker	repeat_region	3013	3151	240	+	.	Name=rnd-1_family-1352;repeat_class=DNA/hAT-hATx
+v31.032249	dust	low_complexity_region	3158	3164	.	-	.	
+v31.032249	dust	low_complexity_region	3334	3341	.	-	.	
+v31.032249	dust	low_complexity_region	3453	3549	.	-	.	
+v31.032249	tandem	tandem_repeat	3491	3541	74	-	.	
+v31.032249	tandem	tandem_repeat	3494	3536	65	-	.	
+v31.032249	tandem	tandem_repeat	3494	3534	75	-	.	
+v31.032249	dust	low_complexity_region	3616	3765	.	-	.	
+v31.032249	tandem	tandem_repeat	3880	3906	54	-	.	
+v31.032249	dust	low_complexity_region	3880	3906	.	-	.	
+v31.032249	dust	low_complexity_region	4003	4097	.	-	.	
+v31.032249	dust	low_complexity_region	4157	4165	.	-	.	
+v31.032249	dust	low_complexity_region	4201	4254	.	-	.	
+v31.032249	dust	low_complexity_region	4327	4333	.	-	.	
+v31.032249	dust	low_complexity_region	4395	4457	.	-	.	
+v31.032249	tandem	tandem_repeat	4502	4537	65	-	.	
+v31.032249	tandem	tandem_repeat	4502	4537	58	-	.	
+v31.032249	dust	low_complexity_region	4508	4531	.	-	.	
+v31.032249	dust	low_complexity_region	4607	4614	.	-	.	
+v31.032249	dust	low_complexity_region	4807	6165	.	-	.	
+v31.032249	dust	low_complexity_region	6297	6305	.	-	.	
+v31.032249	dust	low_complexity_region	6308	6315	.	-	.	
+v31.032249	dust	low_complexity_region	6373	6452	.	-	.	
+v31.032249	RepeatMasker	repeat_region	6497	6623	637	-	.	
+v31.032249	dust	low_complexity_region	6546	6635	.	-	.	
+v31.032249	tandem	tandem_repeat	6573	6622	63	-	.	
+v31.032249	dust	low_complexity_region	6682	6766	.	-	.	
+v31.032249	dust	low_complexity_region	6889	6963	.	-	.	
+v31.032249	tandem	tandem_repeat	6927	6956	53	-	.	
+v31.032249	dust	low_complexity_region	7138	7208	.	-	.	
+v31.032249	dust	low_complexity_region	7244	7251	.	-	.	
+v31.032249	dust	low_complexity_region	7315	7322	.	-	.	
+v31.032249	dust	low_complexity_region	7333	7497	.	-	.	
+v31.032249	tandem	tandem_repeat	7406	7464	95	-	.	
+v31.032249	tandem	tandem_repeat	7462	7497	51	-	.	
+v31.032249	RepeatMasker	repeat_region	7923	8075	300	+	.	Name=rnd-1_family-573;repeat_class=DNA/Maverick
+v31.032249	tandem	tandem_repeat	7964	8150	374	-	.	
+v31.032249	dust	low_complexity_region	7964	8541	.	-	.	
+v31.032249	dust	low_complexity_region	8670	8744	.	-	.	
+v31.032249	dust	low_complexity_region	8834	8840	.	-	.	
+v31.032249	dust	low_complexity_region	8860	8917	.	-	.	
+v31.032249	dust	low_complexity_region	9003	9009	.	-	.	
+v31.032249	dust	low_complexity_region	9031	9115	.	-	.	
+v31.032249	dust	low_complexity_region	9246	9340	.	-	.	
+v31.032249	tandem	tandem_repeat	9403	9448	58	-	.	
+v31.032249	dust	low_complexity_region	9404	9441	.	-	.	
+v31.032249	RepeatMasker	repeat_region	9517	9567	251	+	.	
+v31.032249	RepeatMasker	repeat_region	9534	9571	239	-	.	
+v31.030318	RepeatMasker	repeat_region	1	66	513	-	.	
+v31.030318	RepeatMasker	repeat_region	70	348	2203	+	.	
+v31.030318	RepeatMasker	repeat_region	344	401	328	-	.	
+v31.030318	RepeatMasker	repeat_region	400	513	869	-	.	
+v31.030318	RepeatMasker	repeat_region	513	610	442	+	.	
+v31.030318	dust	low_complexity_region	559	874	.	-	.	
+v31.030318	RepeatMasker	repeat_region	567	699	301	+	.	Name=rnd-1_family-608;repeat_class=LINE/R2
+v31.030318	RepeatMasker	repeat_region	680	927	277	-	.	
+v31.030318	RepeatMasker	repeat_region	744	1115	998	+	.	
+v31.030318	tandem	tandem_repeat	1070	1101	57	-	.	
+v31.030318	tandem	tandem_repeat	1070	1101	41	-	.	
+v31.030318	dust	low_complexity_region	1073	1101	.	-	.	
+v31.030318	dust	low_complexity_region	1154	1231	.	-	.	
+v31.030318	dust	low_complexity_region	1359	1418	.	-	.	
+v31.030318	dust	low_complexity_region	1557	1563	.	-	.	
+v31.030318	dust	low_complexity_region	1894	1952	.	-	.	
+v31.030318	RepeatMasker	repeat_region	1895	1971	323	+	.	
+v31.030318	RepeatMasker	repeat_region	1976	2042	406	+	.	
+v31.030318	dust	low_complexity_region	1999	2005	.	-	.	
+v31.030318	RepeatMasker	repeat_region	2097	2372	704	+	.	Name=rnd-1_family-491;repeat_class=LINE/Penelope
+v31.030318	dust	low_complexity_region	2371	2508	.	-	.	
+v31.030318	dust	low_complexity_region	2731	2737	.	-	.	
+v31.030318	dust	low_complexity_region	2927	2990	.	-	.	
+v31.030318	dust	low_complexity_region	3860	3866	.	-	.	
+v31.030318	dust	low_complexity_region	3983	4211	.	-	.	
+v31.030318	tandem	tandem_repeat	3986	4211	445	-	.	
+v31.030318	dust	low_complexity_region	4229	5673	.	-	.	
+v31.030318	dust	low_complexity_region	6122	6276	.	-	.	
+v31.030318	RepeatMasker	repeat_region	6141	6469	605	+	.	
+v31.030318	dust	low_complexity_region	6462	6468	.	-	.	
+v31.030318	dust	low_complexity_region	6962	6968	.	-	.	
+v31.030318	dust	low_complexity_region	7154	7364	.	-	.	
+v31.030318	tandem	tandem_repeat	7276	7320	55	-	.	
+v31.030318	RepeatMasker	repeat_region	7324	7484	341	-	.	Name=rnd-2_family-14;repeat_class=LINE/Penelope
+v31.030318	tandem	tandem_repeat	7331	7364	54	-	.	
+v31.030318	RepeatMasker	repeat_region	7482	7644	422	-	.	Name=rnd-4_family-260;repeat_class=LINE/Penelope
+v31.030318	dust	low_complexity_region	7683	7763	.	-	.	
+v31.030318	tandem	tandem_repeat	7732	7763	64	-	.	
+v31.030318	dust	low_complexity_region	7830	7862	.	-	.	
+v31.030318	dust	low_complexity_region	7937	7943	.	-	.	
+v31.030318	tandem	tandem_repeat	7959	7996	76	-	.	
+v31.030318	dust	low_complexity_region	7959	7996	.	-	.	
+v31.030318	RepeatMasker	repeat_region	7996	8115	484	-	.	
+v31.030318	RepeatMasker	repeat_region	8012	8105	550	+	.	
+v31.030318	dust	low_complexity_region	8045	8132	.	-	.	
+v31.030318	dust	low_complexity_region	8300	8364	.	-	.	
+v31.030318	dust	low_complexity_region	8615	8679	.	-	.	
+v31.030318	dust	low_complexity_region	8693	8734	.	-	.	
+v31.030318	dust	low_complexity_region	9070	9077	.	-	.	
+v31.030318	dust	low_complexity_region	9310	9431	.	-	.	
+v31.030318	dust	low_complexity_region	9508	9519	.	-	.	
+v31.019735	RepeatMasker	repeat_region	4	772	6236	+	.	Name=rnd-5_family-1708;repeat_class=DNA/Maverick
+v31.019735	tandem	tandem_repeat	553	619	57	-	.	
+v31.019735	dust	low_complexity_region	664	723	.	-	.	
+v31.019735	tandem	tandem_repeat	669	719	67	-	.	
+v31.019735	dust	low_complexity_region	726	735	.	-	.	
+v31.019735	RepeatMasker	repeat_region	774	942	748	+	.	Name=rnd-1_family-348;repeat_class=DNA/Maverick
+v31.019735	RepeatMasker	repeat_region	954	2165	1550	-	.	Name=rnd-1_family-289;repeat_class=DNA/Maverick
+v31.019735	RepeatMasker	repeat_region	2198	2283	504	+	.	
+v31.019735	RepeatMasker	repeat_region	2218	3263	7332	-	.	
+v31.019735	dust	low_complexity_region	2302	2379	.	-	.	
+v31.019735	dust	low_complexity_region	2419	2586	.	-	.	
+v31.019735	dust	low_complexity_region	2599	2607	.	-	.	
+v31.019735	RepeatMasker	repeat_region	2876	3316	2519	+	.	
+v31.019735	dust	low_complexity_region	2925	2931	.	-	.	
+v31.019735	RepeatMasker	repeat_region	4709	5132	2332	-	.	Name=rnd-1_family-347;repeat_class=LINE/R2
+v31.019735	RepeatMasker	repeat_region	5128	5573	2761	-	.	
+v31.019735	dust	low_complexity_region	5178	5184	.	-	.	
+v31.019735	dust	low_complexity_region	5211	5217	.	-	.	
+v31.019735	RepeatMasker	repeat_region	5571	5993	3101	-	.	Name=rnd-6_family-15;repeat_class=DNA/hAT-hATm
+v31.019735	dust	low_complexity_region	5682	5688	.	-	.	
+v31.019735	dust	low_complexity_region	5702	5708	.	-	.	
+v31.019735	RepeatMasker	repeat_region	5994	6057	316	+	.	Name=rnd-6_family-15;repeat_class=DNA/hAT-hATm
+v31.019735	dust	low_complexity_region	6022	6028	.	-	.	
+v31.019735	RepeatMasker	repeat_region	6051	6201	517	+	.	Name=rnd-1_family-421;repeat_class=DNA/Maverick
+v31.019735	RepeatMasker	repeat_region	6221	7387	5618	-	.	
+v31.019735	dust	low_complexity_region	6303	6371	.	-	.	
+v31.019735	dust	low_complexity_region	6450	6601	.	-	.	
+v31.019735	dust	low_complexity_region	7443	7505	.	-	.	
+v31.019735	RepeatMasker	repeat_region	8170	8387	266	+	.	
+v31.019735	RepeatMasker	repeat_region	8199	8505	1065	-	.	
+v31.019735	RepeatMasker	repeat_region	8496	8883	365	+	.	
+v31.019735	dust	low_complexity_region	9238	9245	.	-	.	
+v31.019735	dust	low_complexity_region	9315	9321	.	-	.	

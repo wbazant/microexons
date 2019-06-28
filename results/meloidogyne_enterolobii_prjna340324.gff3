@@ -1,0 +1,93 @@
+scaffold6187_cov228	WormBase_imported	gene	7599	8732	.	+	.	ID=gene:scaffold6187_cov228.g9164;Name=scaffold6187_cov228.g9164;biotype=protein_coding
+scaffold6187_cov228	WormBase_imported	mRNA	7599	8732	.	+	.	ID=transcript:scaffold6187_cov228.g9164;Parent=gene:scaffold6187_cov228.g9164;Name=scaffold6187_cov228.g9164
+scaffold6187_cov228	WormBase_imported	exon	7599	7799	.	+	.	ID=exon:scaffold6187_cov228.g9164.1;Parent=transcript:scaffold6187_cov228.g9164
+scaffold6187_cov228	WormBase_imported	exon	8446	8523	.	+	.	ID=exon:scaffold6187_cov228.g9164.2;Parent=transcript:scaffold6187_cov228.g9164
+scaffold6187_cov228	WormBase_imported	exon	8567	8596	.	+	.	ID=exon:scaffold6187_cov228.g9164.3;Parent=transcript:scaffold6187_cov228.g9164
+scaffold6187_cov228	WormBase_imported	exon	8646	8669	.	+	.	ID=exon:scaffold6187_cov228.g9164.4;Parent=transcript:scaffold6187_cov228.g9164
+scaffold6187_cov228	WormBase_imported	exon	8709	8732	.	+	.	ID=exon:scaffold6187_cov228.g9164.5;Parent=transcript:scaffold6187_cov228.g9164
+scaffold6187_cov228	WormBase_imported	CDS	7599	7799	.	+	0	ID=cds:scaffold6187_cov228.g9164;Parent=transcript:scaffold6187_cov228.g9164
+scaffold6187_cov228	WormBase_imported	CDS	8446	8523	.	+	0	ID=cds:scaffold6187_cov228.g9164;Parent=transcript:scaffold6187_cov228.g9164
+scaffold6187_cov228	WormBase_imported	CDS	8567	8596	.	+	0	ID=cds:scaffold6187_cov228.g9164;Parent=transcript:scaffold6187_cov228.g9164
+scaffold6187_cov228	WormBase_imported	CDS	8646	8669	.	+	0	ID=cds:scaffold6187_cov228.g9164;Parent=transcript:scaffold6187_cov228.g9164
+scaffold6187_cov228	WormBase_imported	CDS	8709	8732	.	+	0	ID=cds:scaffold6187_cov228.g9164;Parent=transcript:scaffold6187_cov228.g9164
+scaffold157_cov172	WormBase_imported	gene	7819	9875	.	+	.	ID=gene:scaffold157_cov172.g285;Name=scaffold157_cov172.g285;biotype=protein_coding
+scaffold157_cov172	WormBase_imported	mRNA	7819	9875	.	+	.	ID=transcript:scaffold157_cov172.g285;Parent=gene:scaffold157_cov172.g285;Name=scaffold157_cov172.g285
+scaffold157_cov172	WormBase_imported	exon	7819	8035	.	+	.	ID=exon:scaffold157_cov172.g285.1;Parent=transcript:scaffold157_cov172.g285
+scaffold157_cov172	WormBase_imported	exon	8085	8249	.	+	.	ID=exon:scaffold157_cov172.g285.2;Parent=transcript:scaffold157_cov172.g285
+scaffold157_cov172	WormBase_imported	exon	8508	8581	.	+	.	ID=exon:scaffold157_cov172.g285.3;Parent=transcript:scaffold157_cov172.g285
+scaffold157_cov172	WormBase_imported	exon	8627	8653	.	+	.	ID=exon:scaffold157_cov172.g285.4;Parent=transcript:scaffold157_cov172.g285
+scaffold157_cov172	WormBase_imported	exon	8698	8709	.	+	.	ID=exon:scaffold157_cov172.g285.5;Parent=transcript:scaffold157_cov172.g285
+scaffold157_cov172	WormBase_imported	exon	9701	9727	.	+	.	ID=exon:scaffold157_cov172.g285.6;Parent=transcript:scaffold157_cov172.g285
+scaffold157_cov172	WormBase_imported	exon	9781	9804	.	+	.	ID=exon:scaffold157_cov172.g285.7;Parent=transcript:scaffold157_cov172.g285
+scaffold157_cov172	WormBase_imported	exon	9849	9875	.	+	.	ID=exon:scaffold157_cov172.g285.8;Parent=transcript:scaffold157_cov172.g285
+scaffold157_cov172	WormBase_imported	CDS	7819	8035	.	+	0	ID=cds:scaffold157_cov172.g285;Parent=transcript:scaffold157_cov172.g285
+scaffold157_cov172	WormBase_imported	CDS	8085	8249	.	+	2	ID=cds:scaffold157_cov172.g285;Parent=transcript:scaffold157_cov172.g285
+scaffold157_cov172	WormBase_imported	CDS	8508	8581	.	+	2	ID=cds:scaffold157_cov172.g285;Parent=transcript:scaffold157_cov172.g285
+scaffold157_cov172	WormBase_imported	CDS	8627	8653	.	+	0	ID=cds:scaffold157_cov172.g285;Parent=transcript:scaffold157_cov172.g285
+scaffold157_cov172	WormBase_imported	CDS	8698	8709	.	+	0	ID=cds:scaffold157_cov172.g285;Parent=transcript:scaffold157_cov172.g285
+scaffold157_cov172	WormBase_imported	CDS	9701	9727	.	+	0	ID=cds:scaffold157_cov172.g285;Parent=transcript:scaffold157_cov172.g285
+scaffold157_cov172	WormBase_imported	CDS	9781	9804	.	+	0	ID=cds:scaffold157_cov172.g285;Parent=transcript:scaffold157_cov172.g285
+scaffold157_cov172	WormBase_imported	CDS	9849	9875	.	+	0	ID=cds:scaffold157_cov172.g285;Parent=transcript:scaffold157_cov172.g285
+scaffold1237_cov146	WormBase_imported	gene	195	962	.	-	.	ID=gene:scaffold1237_cov146.g2077;Name=scaffold1237_cov146.g2077;biotype=protein_coding
+scaffold1237_cov146	WormBase_imported	mRNA	195	962	.	-	.	ID=transcript:scaffold1237_cov146.g2077;Parent=gene:scaffold1237_cov146.g2077;Name=scaffold1237_cov146.g2077
+scaffold1237_cov146	WormBase_imported	exon	937	962	.	-	.	ID=exon:scaffold1237_cov146.g2077.1;Parent=transcript:scaffold1237_cov146.g2077
+scaffold1237_cov146	WormBase_imported	exon	833	896	.	-	.	ID=exon:scaffold1237_cov146.g2077.2;Parent=transcript:scaffold1237_cov146.g2077
+scaffold1237_cov146	WormBase_imported	exon	770	790	.	-	.	ID=exon:scaffold1237_cov146.g2077.3;Parent=transcript:scaffold1237_cov146.g2077
+scaffold1237_cov146	WormBase_imported	exon	712	723	.	-	.	ID=exon:scaffold1237_cov146.g2077.4;Parent=transcript:scaffold1237_cov146.g2077
+scaffold1237_cov146	WormBase_imported	exon	636	665	.	-	.	ID=exon:scaffold1237_cov146.g2077.5;Parent=transcript:scaffold1237_cov146.g2077
+scaffold1237_cov146	WormBase_imported	exon	582	590	.	-	.	ID=exon:scaffold1237_cov146.g2077.6;Parent=transcript:scaffold1237_cov146.g2077
+scaffold1237_cov146	WormBase_imported	exon	518	538	.	-	.	ID=exon:scaffold1237_cov146.g2077.7;Parent=transcript:scaffold1237_cov146.g2077
+scaffold1237_cov146	WormBase_imported	exon	458	472	.	-	.	ID=exon:scaffold1237_cov146.g2077.8;Parent=transcript:scaffold1237_cov146.g2077
+scaffold1237_cov146	WormBase_imported	exon	400	411	.	-	.	ID=exon:scaffold1237_cov146.g2077.9;Parent=transcript:scaffold1237_cov146.g2077
+scaffold1237_cov146	WormBase_imported	exon	323	355	.	-	.	ID=exon:scaffold1237_cov146.g2077.10;Parent=transcript:scaffold1237_cov146.g2077
+scaffold1237_cov146	WormBase_imported	exon	256	276	.	-	.	ID=exon:scaffold1237_cov146.g2077.11;Parent=transcript:scaffold1237_cov146.g2077
+scaffold1237_cov146	WormBase_imported	exon	195	209	.	-	.	ID=exon:scaffold1237_cov146.g2077.12;Parent=transcript:scaffold1237_cov146.g2077
+scaffold1237_cov146	WormBase_imported	CDS	937	962	.	-	0	ID=cds:scaffold1237_cov146.g2077;Parent=transcript:scaffold1237_cov146.g2077
+scaffold1237_cov146	WormBase_imported	CDS	833	896	.	-	1	ID=cds:scaffold1237_cov146.g2077;Parent=transcript:scaffold1237_cov146.g2077
+scaffold1237_cov146	WormBase_imported	CDS	770	790	.	-	0	ID=cds:scaffold1237_cov146.g2077;Parent=transcript:scaffold1237_cov146.g2077
+scaffold1237_cov146	WormBase_imported	CDS	712	723	.	-	0	ID=cds:scaffold1237_cov146.g2077;Parent=transcript:scaffold1237_cov146.g2077
+scaffold1237_cov146	WormBase_imported	CDS	636	665	.	-	0	ID=cds:scaffold1237_cov146.g2077;Parent=transcript:scaffold1237_cov146.g2077
+scaffold1237_cov146	WormBase_imported	CDS	582	590	.	-	0	ID=cds:scaffold1237_cov146.g2077;Parent=transcript:scaffold1237_cov146.g2077
+scaffold1237_cov146	WormBase_imported	CDS	518	538	.	-	0	ID=cds:scaffold1237_cov146.g2077;Parent=transcript:scaffold1237_cov146.g2077
+scaffold1237_cov146	WormBase_imported	CDS	458	472	.	-	0	ID=cds:scaffold1237_cov146.g2077;Parent=transcript:scaffold1237_cov146.g2077
+scaffold1237_cov146	WormBase_imported	CDS	400	411	.	-	0	ID=cds:scaffold1237_cov146.g2077;Parent=transcript:scaffold1237_cov146.g2077
+scaffold1237_cov146	WormBase_imported	CDS	323	355	.	-	0	ID=cds:scaffold1237_cov146.g2077;Parent=transcript:scaffold1237_cov146.g2077
+scaffold1237_cov146	WormBase_imported	CDS	256	276	.	-	0	ID=cds:scaffold1237_cov146.g2077;Parent=transcript:scaffold1237_cov146.g2077
+scaffold1237_cov146	WormBase_imported	CDS	195	209	.	-	0	ID=cds:scaffold1237_cov146.g2077;Parent=transcript:scaffold1237_cov146.g2077
+scaffold1237_cov146	dust	low_complexity_region	361	367	.	-	.	
+scaffold1237_cov146	trf	tandem_repeat	1089	1157	101	-	.	
+scaffold1237_cov146	dust	low_complexity_region	1094	1190	.	-	.	
+scaffold1237_cov146	dust	low_complexity_region	1247	1381	.	-	.	
+scaffold1237_cov146	dust	low_complexity_region	1599	1729	.	-	.	
+scaffold1237_cov146	dust	low_complexity_region	1754	1832	.	-	.	
+scaffold1237_cov146	trf	tandem_repeat	1764	1808	62	-	.	
+scaffold1237_cov146	dust	low_complexity_region	1857	1909	.	-	.	
+scaffold11601_cov371	dust	low_complexity_region	16	147	.	-	.	
+scaffold11601_cov371	trf	tandem_repeat	20	55	51	-	.	
+scaffold11601_cov371	trf	tandem_repeat	31	62	57	-	.	
+scaffold11601_cov371	dust	low_complexity_region	687	906	.	-	.	
+scaffold11601_cov371	dust	low_complexity_region	926	932	.	-	.	
+scaffold11601_cov371	dust	low_complexity_region	1210	1216	.	-	.	
+scaffold15572_cov180	dust	low_complexity_region	1	45	.	-	.	
+scaffold15572_cov180	dust	low_complexity_region	252	258	.	-	.	
+scaffold15572_cov180	dust	low_complexity_region	466	759	.	-	.	
+scaffold15572_cov180	trf	tandem_repeat	539	580	70	-	.	
+scaffold15572_cov180	dust	low_complexity_region	1403	1461	.	-	.	
+scaffold15572_cov180	trf	tandem_repeat	1416	1450	70	-	.	
+scaffold15572_cov180	dust	low_complexity_region	1769	1782	.	-	.	
+scaffold15572_cov180	dust	low_complexity_region	1867	1875	.	-	.	
+scaffold18203_cov333	dust	low_complexity_region	219	225	.	-	.	
+scaffold18203_cov333	dust	low_complexity_region	579	588	.	-	.	
+scaffold18203_cov333	dust	low_complexity_region	1277	1465	.	-	.	
+scaffold19936_cov328	dust	low_complexity_region	17	138	.	-	.	
+scaffold19936_cov328	trf	tandem_repeat	37	62	52	-	.	
+scaffold19936_cov328	trf	tandem_repeat	42	138	121	-	.	
+scaffold19936_cov328	trf	tandem_repeat	190	325	125	-	.	
+scaffold19936_cov328	dust	low_complexity_region	625	631	.	-	.	
+scaffold19936_cov328	dust	low_complexity_region	805	895	.	-	.	
+scaffold19936_cov328	dust	low_complexity_region	988	1051	.	-	.	
+scaffold19936_cov328	dust	low_complexity_region	1196	1290	.	-	.	
+scaffold19936_cov328	trf	tandem_repeat	1233	1290	86	-	.	
+scaffold19936_cov328	trf	tandem_repeat	1233	1290	79	-	.	
+scaffold19936_cov328	trf	tandem_repeat	1235	1272	55	-	.	
+scaffold19936_cov328	dust	low_complexity_region	1427	1508	.	-	.	

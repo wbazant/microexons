@@ -1,0 +1,400 @@
+pathogen_TSM_contig_00053	WormBase_imported	gene	62062	65629	.	-	.	ID=gene:TsM_000469800;Name=TsM_000469800;biotype=protein_coding
+pathogen_TSM_contig_00053	WormBase_imported	mRNA	62062	65629	.	-	.	ID=transcript:TsM_000469800;Parent=gene:TsM_000469800;Name=TsM_000469800
+pathogen_TSM_contig_00053	WormBase_imported	exon	65552	65629	.	-	.	ID=exon:TsM_000469800.1;Parent=transcript:TsM_000469800
+pathogen_TSM_contig_00053	WormBase_imported	exon	65389	65503	.	-	.	ID=exon:TsM_000469800.2;Parent=transcript:TsM_000469800
+pathogen_TSM_contig_00053	WormBase_imported	exon	65052	65108	.	-	.	ID=exon:TsM_000469800.3;Parent=transcript:TsM_000469800
+pathogen_TSM_contig_00053	WormBase_imported	exon	64810	64928	.	-	.	ID=exon:TsM_000469800.4;Parent=transcript:TsM_000469800
+pathogen_TSM_contig_00053	WormBase_imported	exon	64537	64557	.	-	.	ID=exon:TsM_000469800.5;Parent=transcript:TsM_000469800
+pathogen_TSM_contig_00053	WormBase_imported	exon	64258	64284	.	-	.	ID=exon:TsM_000469800.6;Parent=transcript:TsM_000469800
+pathogen_TSM_contig_00053	WormBase_imported	exon	64010	64144	.	-	.	ID=exon:TsM_000469800.7;Parent=transcript:TsM_000469800
+pathogen_TSM_contig_00053	WormBase_imported	exon	63911	63934	.	-	.	ID=exon:TsM_000469800.8;Parent=transcript:TsM_000469800
+pathogen_TSM_contig_00053	WormBase_imported	exon	63242	63265	.	-	.	ID=exon:TsM_000469800.9;Parent=transcript:TsM_000469800
+pathogen_TSM_contig_00053	WormBase_imported	exon	63094	63114	.	-	.	ID=exon:TsM_000469800.10;Parent=transcript:TsM_000469800
+pathogen_TSM_contig_00053	WormBase_imported	exon	62062	62100	.	-	.	ID=exon:TsM_000469800.11;Parent=transcript:TsM_000469800
+pathogen_TSM_contig_00053	WormBase_imported	CDS	65552	65629	.	-	0	ID=cds:TsM_000469800;Parent=transcript:TsM_000469800
+pathogen_TSM_contig_00053	WormBase_imported	CDS	65389	65503	.	-	0	ID=cds:TsM_000469800;Parent=transcript:TsM_000469800
+pathogen_TSM_contig_00053	WormBase_imported	CDS	65052	65108	.	-	2	ID=cds:TsM_000469800;Parent=transcript:TsM_000469800
+pathogen_TSM_contig_00053	WormBase_imported	CDS	64810	64928	.	-	2	ID=cds:TsM_000469800;Parent=transcript:TsM_000469800
+pathogen_TSM_contig_00053	WormBase_imported	CDS	64537	64557	.	-	0	ID=cds:TsM_000469800;Parent=transcript:TsM_000469800
+pathogen_TSM_contig_00053	WormBase_imported	CDS	64258	64284	.	-	0	ID=cds:TsM_000469800;Parent=transcript:TsM_000469800
+pathogen_TSM_contig_00053	WormBase_imported	CDS	64010	64144	.	-	0	ID=cds:TsM_000469800;Parent=transcript:TsM_000469800
+pathogen_TSM_contig_00053	WormBase_imported	CDS	63911	63934	.	-	0	ID=cds:TsM_000469800;Parent=transcript:TsM_000469800
+pathogen_TSM_contig_00053	WormBase_imported	CDS	63242	63265	.	-	0	ID=cds:TsM_000469800;Parent=transcript:TsM_000469800
+pathogen_TSM_contig_00053	WormBase_imported	CDS	63094	63114	.	-	0	ID=cds:TsM_000469800;Parent=transcript:TsM_000469800
+pathogen_TSM_contig_00053	WormBase_imported	CDS	62062	62100	.	-	0	ID=cds:TsM_000469800;Parent=transcript:TsM_000469800
+pathogen_TSM_contig_00331	WormBase_imported	gene	7953	30493	.	+	.	ID=gene:TsM_000518500;Name=TsM_000518500;biotype=protein_coding
+pathogen_TSM_contig_00331	WormBase_imported	mRNA	7953	30493	.	+	.	ID=transcript:TsM_000518500;Parent=gene:TsM_000518500;Name=TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	7953	7979	.	+	.	ID=exon:TsM_000518500.1;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	8745	8762	.	+	.	ID=exon:TsM_000518500.2;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	9322	9360	.	+	.	ID=exon:TsM_000518500.3;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	9678	9737	.	+	.	ID=exon:TsM_000518500.4;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	9823	9858	.	+	.	ID=exon:TsM_000518500.5;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	9945	9983	.	+	.	ID=exon:TsM_000518500.6;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	10192	10260	.	+	.	ID=exon:TsM_000518500.7;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	10366	10398	.	+	.	ID=exon:TsM_000518500.8;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	10586	10618	.	+	.	ID=exon:TsM_000518500.9;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	10781	10819	.	+	.	ID=exon:TsM_000518500.10;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	11279	11308	.	+	.	ID=exon:TsM_000518500.11;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	11458	11487	.	+	.	ID=exon:TsM_000518500.12;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	11587	11628	.	+	.	ID=exon:TsM_000518500.13;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	12717	12734	.	+	.	ID=exon:TsM_000518500.14;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	12841	12867	.	+	.	ID=exon:TsM_000518500.15;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	14090	14119	.	+	.	ID=exon:TsM_000518500.16;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	14229	14258	.	+	.	ID=exon:TsM_000518500.17;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	14536	14574	.	+	.	ID=exon:TsM_000518500.18;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	14883	14921	.	+	.	ID=exon:TsM_000518500.19;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	15181	15201	.	+	.	ID=exon:TsM_000518500.20;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	15430	15468	.	+	.	ID=exon:TsM_000518500.21;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	15845	15874	.	+	.	ID=exon:TsM_000518500.22;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	15978	16016	.	+	.	ID=exon:TsM_000518500.23;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	16116	16154	.	+	.	ID=exon:TsM_000518500.24;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	16345	16383	.	+	.	ID=exon:TsM_000518500.25;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	16460	16483	.	+	.	ID=exon:TsM_000518500.26;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	17249	17290	.	+	.	ID=exon:TsM_000518500.27;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	17979	18017	.	+	.	ID=exon:TsM_000518500.28;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	18605	18628	.	+	.	ID=exon:TsM_000518500.29;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	18731	18769	.	+	.	ID=exon:TsM_000518500.30;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	19027	19056	.	+	.	ID=exon:TsM_000518500.31;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	19139	19168	.	+	.	ID=exon:TsM_000518500.32;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	19285	19326	.	+	.	ID=exon:TsM_000518500.33;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	19480	19527	.	+	.	ID=exon:TsM_000518500.34;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	20006	20047	.	+	.	ID=exon:TsM_000518500.35;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	20177	20194	.	+	.	ID=exon:TsM_000518500.36;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	20455	20481	.	+	.	ID=exon:TsM_000518500.37;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	20736	20774	.	+	.	ID=exon:TsM_000518500.38;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	22028	22057	.	+	.	ID=exon:TsM_000518500.39;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	22131	22202	.	+	.	ID=exon:TsM_000518500.40;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	22330	22368	.	+	.	ID=exon:TsM_000518500.41;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	22570	22608	.	+	.	ID=exon:TsM_000518500.42;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	23010	23048	.	+	.	ID=exon:TsM_000518500.43;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	23689	23718	.	+	.	ID=exon:TsM_000518500.44;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	23793	23849	.	+	.	ID=exon:TsM_000518500.45;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	24426	24464	.	+	.	ID=exon:TsM_000518500.46;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	24911	24949	.	+	.	ID=exon:TsM_000518500.47;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	25581	25610	.	+	.	ID=exon:TsM_000518500.48;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	25684	25758	.	+	.	ID=exon:TsM_000518500.49;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	26151	26189	.	+	.	ID=exon:TsM_000518500.50;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	26563	26601	.	+	.	ID=exon:TsM_000518500.51;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	27268	27297	.	+	.	ID=exon:TsM_000518500.52;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	27371	27442	.	+	.	ID=exon:TsM_000518500.53;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	27557	27595	.	+	.	ID=exon:TsM_000518500.54;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	27887	27925	.	+	.	ID=exon:TsM_000518500.55;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	29285	29323	.	+	.	ID=exon:TsM_000518500.56;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	29493	29543	.	+	.	ID=exon:TsM_000518500.57;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	29667	29705	.	+	.	ID=exon:TsM_000518500.58;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	29890	29952	.	+	.	ID=exon:TsM_000518500.59;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	30125	30151	.	+	.	ID=exon:TsM_000518500.60;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	exon	30422	30493	.	+	.	ID=exon:TsM_000518500.61;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	7953	7979	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	8745	8762	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	9322	9360	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	9678	9737	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	9823	9858	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	9945	9983	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	10192	10260	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	10366	10398	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	10586	10618	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	10781	10819	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	11279	11308	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	11458	11487	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	11587	11628	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	12717	12734	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	12841	12867	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	14090	14119	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	14229	14258	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	14536	14574	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	14883	14921	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	15181	15201	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	15430	15468	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	15845	15874	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	15978	16016	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	16116	16154	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	16345	16383	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	16460	16483	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	17249	17290	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	17979	18017	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	18605	18628	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	18731	18769	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	19027	19056	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	19139	19168	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	19285	19326	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	19480	19527	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	20006	20047	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	20177	20194	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	20455	20481	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	20736	20774	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	22028	22057	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	22131	22202	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	22330	22368	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	22570	22608	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	23010	23048	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	23689	23718	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	23793	23849	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	24426	24464	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	24911	24949	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	25581	25610	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	25684	25758	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	26151	26189	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	26563	26601	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	27268	27297	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	27371	27442	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	27557	27595	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	27887	27925	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	29285	29323	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	29493	29543	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	29667	29705	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	29890	29952	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	30125	30151	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00331	WormBase_imported	CDS	30422	30493	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
+pathogen_TSM_contig_00515	WormBase_imported	gene	15116	21816	.	+	.	ID=gene:TsM_001057500;Name=TsM_001057500;biotype=protein_coding
+pathogen_TSM_contig_00515	WormBase_imported	mRNA	15116	21816	.	+	.	ID=transcript:TsM_001057500;Parent=gene:TsM_001057500;Name=TsM_001057500;info=method:InterPro accession:IPR000719 description:Protein kinase domain %0Amethod:InterPro accession:IPR008271 description:Serine/threonine-protein kinase%2C active site %0Amethod:InterPro accession:IPR011009 description:Protein kinase-like domain superfamily
+pathogen_TSM_contig_00515	WormBase_imported	exon	15116	15147	.	+	.	ID=exon:TsM_001057500.1;Parent=transcript:TsM_001057500
+pathogen_TSM_contig_00515	WormBase_imported	exon	15649	15733	.	+	.	ID=exon:TsM_001057500.2;Parent=transcript:TsM_001057500
+pathogen_TSM_contig_00515	WormBase_imported	exon	15852	16098	.	+	.	ID=exon:TsM_001057500.3;Parent=transcript:TsM_001057500
+pathogen_TSM_contig_00515	WormBase_imported	exon	16148	16411	.	+	.	ID=exon:TsM_001057500.4;Parent=transcript:TsM_001057500
+pathogen_TSM_contig_00515	WormBase_imported	exon	17432	17594	.	+	.	ID=exon:TsM_001057500.5;Parent=transcript:TsM_001057500
+pathogen_TSM_contig_00515	WormBase_imported	exon	17673	17835	.	+	.	ID=exon:TsM_001057500.6;Parent=transcript:TsM_001057500
+pathogen_TSM_contig_00515	WormBase_imported	exon	18691	18741	.	+	.	ID=exon:TsM_001057500.7;Parent=transcript:TsM_001057500
+pathogen_TSM_contig_00515	WormBase_imported	exon	18845	18874	.	+	.	ID=exon:TsM_001057500.8;Parent=transcript:TsM_001057500
+pathogen_TSM_contig_00515	WormBase_imported	exon	19016	19066	.	+	.	ID=exon:TsM_001057500.9;Parent=transcript:TsM_001057500
+pathogen_TSM_contig_00515	WormBase_imported	exon	19847	19867	.	+	.	ID=exon:TsM_001057500.10;Parent=transcript:TsM_001057500
+pathogen_TSM_contig_00515	WormBase_imported	exon	20251	20271	.	+	.	ID=exon:TsM_001057500.11;Parent=transcript:TsM_001057500
+pathogen_TSM_contig_00515	WormBase_imported	exon	20444	20464	.	+	.	ID=exon:TsM_001057500.12;Parent=transcript:TsM_001057500
+pathogen_TSM_contig_00515	WormBase_imported	exon	21772	21816	.	+	.	ID=exon:TsM_001057500.13;Parent=transcript:TsM_001057500
+pathogen_TSM_contig_00515	WormBase_imported	CDS	15116	15147	.	+	0	ID=cds:TsM_001057500;Parent=transcript:TsM_001057500
+pathogen_TSM_contig_00515	WormBase_imported	CDS	15649	15733	.	+	1	ID=cds:TsM_001057500;Parent=transcript:TsM_001057500
+pathogen_TSM_contig_00515	WormBase_imported	CDS	15852	16098	.	+	0	ID=cds:TsM_001057500;Parent=transcript:TsM_001057500
+pathogen_TSM_contig_00515	WormBase_imported	CDS	16148	16411	.	+	2	ID=cds:TsM_001057500;Parent=transcript:TsM_001057500
+pathogen_TSM_contig_00515	WormBase_imported	CDS	17432	17594	.	+	2	ID=cds:TsM_001057500;Parent=transcript:TsM_001057500
+pathogen_TSM_contig_00515	WormBase_imported	CDS	17673	17835	.	+	1	ID=cds:TsM_001057500;Parent=transcript:TsM_001057500
+pathogen_TSM_contig_00515	WormBase_imported	CDS	18691	18741	.	+	0	ID=cds:TsM_001057500;Parent=transcript:TsM_001057500
+pathogen_TSM_contig_00515	WormBase_imported	CDS	18845	18874	.	+	0	ID=cds:TsM_001057500;Parent=transcript:TsM_001057500
+pathogen_TSM_contig_00515	WormBase_imported	CDS	19016	19066	.	+	0	ID=cds:TsM_001057500;Parent=transcript:TsM_001057500
+pathogen_TSM_contig_00515	WormBase_imported	CDS	19847	19867	.	+	0	ID=cds:TsM_001057500;Parent=transcript:TsM_001057500
+pathogen_TSM_contig_00515	WormBase_imported	CDS	20251	20271	.	+	0	ID=cds:TsM_001057500;Parent=transcript:TsM_001057500
+pathogen_TSM_contig_00515	WormBase_imported	CDS	20444	20464	.	+	0	ID=cds:TsM_001057500;Parent=transcript:TsM_001057500
+pathogen_TSM_contig_00515	WormBase_imported	CDS	21772	21816	.	+	0	ID=cds:TsM_001057500;Parent=transcript:TsM_001057500
+pathogen_TSM_contig_00931	WormBase_imported	gene	14055	20188	.	+	.	ID=gene:TsM_000044000;Name=TsM_000044000;biotype=protein_coding
+pathogen_TSM_contig_00931	WormBase_imported	mRNA	14055	20188	.	+	.	ID=transcript:TsM_000044000;Parent=gene:TsM_000044000;Name=TsM_000044000;info=method:InterPro accession:IPR000719 description:Protein kinase domain %0Amethod:InterPro accession:IPR008271 description:Serine/threonine-protein kinase%2C active site %0Amethod:InterPro accession:IPR011009 description:Protein kinase-like domain superfamily
+pathogen_TSM_contig_00931	WormBase_imported	exon	14055	14086	.	+	.	ID=exon:TsM_000044000.1;Parent=transcript:TsM_000044000
+pathogen_TSM_contig_00931	WormBase_imported	exon	14592	14676	.	+	.	ID=exon:TsM_000044000.2;Parent=transcript:TsM_000044000
+pathogen_TSM_contig_00931	WormBase_imported	exon	14795	15041	.	+	.	ID=exon:TsM_000044000.3;Parent=transcript:TsM_000044000
+pathogen_TSM_contig_00931	WormBase_imported	exon	15091	15354	.	+	.	ID=exon:TsM_000044000.4;Parent=transcript:TsM_000044000
+pathogen_TSM_contig_00931	WormBase_imported	exon	16340	16502	.	+	.	ID=exon:TsM_000044000.5;Parent=transcript:TsM_000044000
+pathogen_TSM_contig_00931	WormBase_imported	exon	16581	16743	.	+	.	ID=exon:TsM_000044000.6;Parent=transcript:TsM_000044000
+pathogen_TSM_contig_00931	WormBase_imported	exon	17623	17673	.	+	.	ID=exon:TsM_000044000.7;Parent=transcript:TsM_000044000
+pathogen_TSM_contig_00931	WormBase_imported	exon	17982	18032	.	+	.	ID=exon:TsM_000044000.8;Parent=transcript:TsM_000044000
+pathogen_TSM_contig_00931	WormBase_imported	exon	18142	18171	.	+	.	ID=exon:TsM_000044000.9;Parent=transcript:TsM_000044000
+pathogen_TSM_contig_00931	WormBase_imported	exon	18814	18834	.	+	.	ID=exon:TsM_000044000.10;Parent=transcript:TsM_000044000
+pathogen_TSM_contig_00931	WormBase_imported	exon	19197	19217	.	+	.	ID=exon:TsM_000044000.11;Parent=transcript:TsM_000044000
+pathogen_TSM_contig_00931	WormBase_imported	exon	19391	19411	.	+	.	ID=exon:TsM_000044000.12;Parent=transcript:TsM_000044000
+pathogen_TSM_contig_00931	WormBase_imported	exon	20144	20188	.	+	.	ID=exon:TsM_000044000.13;Parent=transcript:TsM_000044000
+pathogen_TSM_contig_00931	WormBase_imported	CDS	14055	14086	.	+	0	ID=cds:TsM_000044000;Parent=transcript:TsM_000044000
+pathogen_TSM_contig_00931	WormBase_imported	CDS	14592	14676	.	+	1	ID=cds:TsM_000044000;Parent=transcript:TsM_000044000
+pathogen_TSM_contig_00931	WormBase_imported	CDS	14795	15041	.	+	0	ID=cds:TsM_000044000;Parent=transcript:TsM_000044000
+pathogen_TSM_contig_00931	WormBase_imported	CDS	15091	15354	.	+	2	ID=cds:TsM_000044000;Parent=transcript:TsM_000044000
+pathogen_TSM_contig_00931	WormBase_imported	CDS	16340	16502	.	+	2	ID=cds:TsM_000044000;Parent=transcript:TsM_000044000
+pathogen_TSM_contig_00931	WormBase_imported	CDS	16581	16743	.	+	1	ID=cds:TsM_000044000;Parent=transcript:TsM_000044000
+pathogen_TSM_contig_00931	WormBase_imported	CDS	17623	17673	.	+	0	ID=cds:TsM_000044000;Parent=transcript:TsM_000044000
+pathogen_TSM_contig_00931	WormBase_imported	CDS	17982	18032	.	+	0	ID=cds:TsM_000044000;Parent=transcript:TsM_000044000
+pathogen_TSM_contig_00931	WormBase_imported	CDS	18142	18171	.	+	0	ID=cds:TsM_000044000;Parent=transcript:TsM_000044000
+pathogen_TSM_contig_00931	WormBase_imported	CDS	18814	18834	.	+	0	ID=cds:TsM_000044000;Parent=transcript:TsM_000044000
+pathogen_TSM_contig_00931	WormBase_imported	CDS	19197	19217	.	+	0	ID=cds:TsM_000044000;Parent=transcript:TsM_000044000
+pathogen_TSM_contig_00931	WormBase_imported	CDS	19391	19411	.	+	0	ID=cds:TsM_000044000;Parent=transcript:TsM_000044000
+pathogen_TSM_contig_00931	WormBase_imported	CDS	20144	20188	.	+	0	ID=cds:TsM_000044000;Parent=transcript:TsM_000044000
+pathogen_TSM_contig_01009	WormBase_imported	gene	22939	28622	.	-	.	ID=gene:TsM_000500600;Name=TsM_000500600;biotype=protein_coding
+pathogen_TSM_contig_01009	WormBase_imported	mRNA	22939	28622	.	-	.	ID=transcript:TsM_000500600;Parent=gene:TsM_000500600;Name=TsM_000500600
+pathogen_TSM_contig_01009	WormBase_imported	exon	27350	28622	.	-	.	ID=exon:TsM_000500600.1;Parent=transcript:TsM_000500600
+pathogen_TSM_contig_01009	WormBase_imported	exon	26797	26828	.	-	.	ID=exon:TsM_000500600.2;Parent=transcript:TsM_000500600
+pathogen_TSM_contig_01009	WormBase_imported	exon	26679	26723	.	-	.	ID=exon:TsM_000500600.3;Parent=transcript:TsM_000500600
+pathogen_TSM_contig_01009	WormBase_imported	exon	26214	26371	.	-	.	ID=exon:TsM_000500600.4;Parent=transcript:TsM_000500600
+pathogen_TSM_contig_01009	WormBase_imported	exon	25457	25622	.	-	.	ID=exon:TsM_000500600.5;Parent=transcript:TsM_000500600
+pathogen_TSM_contig_01009	WormBase_imported	exon	25040	25081	.	-	.	ID=exon:TsM_000500600.6;Parent=transcript:TsM_000500600
+pathogen_TSM_contig_01009	WormBase_imported	exon	24762	24791	.	-	.	ID=exon:TsM_000500600.7;Parent=transcript:TsM_000500600
+pathogen_TSM_contig_01009	WormBase_imported	exon	24662	24685	.	-	.	ID=exon:TsM_000500600.8;Parent=transcript:TsM_000500600
+pathogen_TSM_contig_01009	WormBase_imported	exon	23954	23977	.	-	.	ID=exon:TsM_000500600.9;Parent=transcript:TsM_000500600
+pathogen_TSM_contig_01009	WormBase_imported	exon	23824	23883	.	-	.	ID=exon:TsM_000500600.10;Parent=transcript:TsM_000500600
+pathogen_TSM_contig_01009	WormBase_imported	exon	23261	23311	.	-	.	ID=exon:TsM_000500600.11;Parent=transcript:TsM_000500600
+pathogen_TSM_contig_01009	WormBase_imported	exon	22939	23163	.	-	.	ID=exon:TsM_000500600.12;Parent=transcript:TsM_000500600
+pathogen_TSM_contig_01009	WormBase_imported	CDS	27350	28622	.	-	0	ID=cds:TsM_000500600;Parent=transcript:TsM_000500600
+pathogen_TSM_contig_01009	WormBase_imported	CDS	26797	26828	.	-	2	ID=cds:TsM_000500600;Parent=transcript:TsM_000500600
+pathogen_TSM_contig_01009	WormBase_imported	CDS	26679	26723	.	-	0	ID=cds:TsM_000500600;Parent=transcript:TsM_000500600
+pathogen_TSM_contig_01009	WormBase_imported	CDS	26214	26371	.	-	0	ID=cds:TsM_000500600;Parent=transcript:TsM_000500600
+pathogen_TSM_contig_01009	WormBase_imported	CDS	25457	25622	.	-	1	ID=cds:TsM_000500600;Parent=transcript:TsM_000500600
+pathogen_TSM_contig_01009	WormBase_imported	CDS	25040	25081	.	-	0	ID=cds:TsM_000500600;Parent=transcript:TsM_000500600
+pathogen_TSM_contig_01009	WormBase_imported	CDS	24762	24791	.	-	0	ID=cds:TsM_000500600;Parent=transcript:TsM_000500600
+pathogen_TSM_contig_01009	WormBase_imported	CDS	24662	24685	.	-	0	ID=cds:TsM_000500600;Parent=transcript:TsM_000500600
+pathogen_TSM_contig_01009	WormBase_imported	CDS	23954	23977	.	-	0	ID=cds:TsM_000500600;Parent=transcript:TsM_000500600
+pathogen_TSM_contig_01009	WormBase_imported	CDS	23824	23883	.	-	0	ID=cds:TsM_000500600;Parent=transcript:TsM_000500600
+pathogen_TSM_contig_01009	WormBase_imported	CDS	23261	23311	.	-	0	ID=cds:TsM_000500600;Parent=transcript:TsM_000500600
+pathogen_TSM_contig_01009	WormBase_imported	CDS	22939	23163	.	-	0	ID=cds:TsM_000500600;Parent=transcript:TsM_000500600
+pathogen_TSM_contig_01009	dust	low_complexity_region	2469	2476	.	-	.	
+pathogen_TSM_contig_01009	RepeatMasker	repeat_region	3797	3880	444	+	.	
+pathogen_TSM_contig_01009	RepeatMasker	repeat_region	3913	4066	688	+	.	
+pathogen_TSM_contig_01009	dust	low_complexity_region	4360	4366	.	-	.	
+pathogen_TSM_contig_01009	RepeatMasker	repeat_region	4513	4615	737	+	.	
+pathogen_TSM_contig_01009	dust	low_complexity_region	4940	4946	.	-	.	
+pathogen_TSM_contig_01009	dust	low_complexity_region	6489	6495	.	-	.	
+pathogen_TSM_contig_01009	dust	low_complexity_region	6794	6800	.	-	.	
+pathogen_TSM_contig_01009	tandem	tandem_repeat	7451	7476	45	-	.	
+pathogen_TSM_contig_01009	dust	low_complexity_region	8455	8462	.	-	.	
+pathogen_TSM_contig_01009	dust	low_complexity_region	8563	8570	.	-	.	
+pathogen_TSM_contig_01009	dust	low_complexity_region	10353	10359	.	-	.	
+pathogen_TSM_contig_01009	dust	low_complexity_region	11833	11854	.	-	.	
+pathogen_TSM_contig_01009	tandem	tandem_repeat	14291	14315	50	-	.	
+pathogen_TSM_contig_01009	dust	low_complexity_region	14371	14378	.	-	.	
+pathogen_TSM_contig_01009	dust	low_complexity_region	15327	15333	.	-	.	
+pathogen_TSM_contig_01009	dust	low_complexity_region	16610	16641	.	-	.	
+pathogen_TSM_contig_01009	tandem	tandem_repeat	16610	16641	43	-	.	
+pathogen_TSM_contig_01009	dust	low_complexity_region	23138	23144	.	-	.	
+pathogen_TSM_contig_01009	dust	low_complexity_region	24417	24423	.	-	.	
+pathogen_TSM_contig_01009	dust	low_complexity_region	26081	26087	.	-	.	
+pathogen_TSM_contig_01356	WormBase_imported	gene	615	8041	.	-	.	ID=gene:TsM_000618900;Name=TsM_000618900;biotype=protein_coding
+pathogen_TSM_contig_01356	WormBase_imported	mRNA	615	8041	.	-	.	ID=transcript:TsM_000618900;Parent=gene:TsM_000618900;Name=TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	exon	8017	8041	.	-	.	ID=exon:TsM_000618900.1;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	exon	7846	7944	.	-	.	ID=exon:TsM_000618900.2;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	exon	7440	7532	.	-	.	ID=exon:TsM_000618900.3;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	exon	7072	7170	.	-	.	ID=exon:TsM_000618900.4;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	exon	6809	6877	.	-	.	ID=exon:TsM_000618900.5;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	exon	6602	6733	.	-	.	ID=exon:TsM_000618900.6;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	exon	6386	6451	.	-	.	ID=exon:TsM_000618900.7;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	exon	6106	6189	.	-	.	ID=exon:TsM_000618900.8;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	exon	5820	5834	.	-	.	ID=exon:TsM_000618900.9;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	exon	5128	5172	.	-	.	ID=exon:TsM_000618900.10;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	exon	4577	4914	.	-	.	ID=exon:TsM_000618900.11;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	exon	4433	4462	.	-	.	ID=exon:TsM_000618900.12;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	exon	4214	4325	.	-	.	ID=exon:TsM_000618900.13;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	exon	3854	4054	.	-	.	ID=exon:TsM_000618900.14;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	exon	3656	3706	.	-	.	ID=exon:TsM_000618900.15;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	exon	3519	3578	.	-	.	ID=exon:TsM_000618900.16;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	exon	3404	3451	.	-	.	ID=exon:TsM_000618900.17;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	exon	3265	3324	.	-	.	ID=exon:TsM_000618900.18;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	exon	3153	3185	.	-	.	ID=exon:TsM_000618900.19;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	exon	2941	3072	.	-	.	ID=exon:TsM_000618900.20;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	exon	2826	2855	.	-	.	ID=exon:TsM_000618900.21;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	exon	2733	2756	.	-	.	ID=exon:TsM_000618900.22;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	exon	2627	2650	.	-	.	ID=exon:TsM_000618900.23;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	exon	2480	2518	.	-	.	ID=exon:TsM_000618900.24;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	exon	2128	2232	.	-	.	ID=exon:TsM_000618900.25;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	exon	1789	1902	.	-	.	ID=exon:TsM_000618900.26;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	exon	1682	1707	.	-	.	ID=exon:TsM_000618900.27;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	exon	1570	1602	.	-	.	ID=exon:TsM_000618900.28;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	exon	1439	1486	.	-	.	ID=exon:TsM_000618900.29;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	exon	1278	1358	.	-	.	ID=exon:TsM_000618900.30;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	exon	1060	1113	.	-	.	ID=exon:TsM_000618900.31;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	exon	780	800	.	-	.	ID=exon:TsM_000618900.32;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	exon	615	662	.	-	.	ID=exon:TsM_000618900.33;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	CDS	8017	8041	.	-	0	ID=cds:TsM_000618900;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	CDS	7846	7944	.	-	2	ID=cds:TsM_000618900;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	CDS	7440	7532	.	-	2	ID=cds:TsM_000618900;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	CDS	7072	7170	.	-	2	ID=cds:TsM_000618900;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	CDS	6809	6877	.	-	2	ID=cds:TsM_000618900;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	CDS	6602	6733	.	-	2	ID=cds:TsM_000618900;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	CDS	6386	6451	.	-	2	ID=cds:TsM_000618900;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	CDS	6106	6189	.	-	2	ID=cds:TsM_000618900;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	CDS	5820	5834	.	-	2	ID=cds:TsM_000618900;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	CDS	5128	5172	.	-	2	ID=cds:TsM_000618900;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	CDS	4577	4914	.	-	2	ID=cds:TsM_000618900;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	CDS	4433	4462	.	-	0	ID=cds:TsM_000618900;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	CDS	4214	4325	.	-	0	ID=cds:TsM_000618900;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	CDS	3854	4054	.	-	2	ID=cds:TsM_000618900;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	CDS	3656	3706	.	-	2	ID=cds:TsM_000618900;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	CDS	3519	3578	.	-	2	ID=cds:TsM_000618900;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	CDS	3404	3451	.	-	2	ID=cds:TsM_000618900;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	CDS	3265	3324	.	-	2	ID=cds:TsM_000618900;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	CDS	3153	3185	.	-	2	ID=cds:TsM_000618900;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	CDS	2941	3072	.	-	2	ID=cds:TsM_000618900;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	CDS	2826	2855	.	-	2	ID=cds:TsM_000618900;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	CDS	2733	2756	.	-	2	ID=cds:TsM_000618900;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	CDS	2627	2650	.	-	2	ID=cds:TsM_000618900;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	CDS	2480	2518	.	-	2	ID=cds:TsM_000618900;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	CDS	2128	2232	.	-	2	ID=cds:TsM_000618900;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	CDS	1789	1902	.	-	2	ID=cds:TsM_000618900;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	CDS	1682	1707	.	-	2	ID=cds:TsM_000618900;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	CDS	1570	1602	.	-	0	ID=cds:TsM_000618900;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	CDS	1439	1486	.	-	0	ID=cds:TsM_000618900;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	CDS	1278	1358	.	-	0	ID=cds:TsM_000618900;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	CDS	1060	1113	.	-	0	ID=cds:TsM_000618900;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	CDS	780	800	.	-	0	ID=cds:TsM_000618900;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_01356	WormBase_imported	CDS	615	662	.	-	0	ID=cds:TsM_000618900;Parent=transcript:TsM_000618900
+pathogen_TSM_contig_02274	WormBase_imported	gene	1347	4662	.	+	.	ID=gene:TsM_000380000;Name=TsM_000380000;biotype=protein_coding;description=Diagnostic protein TSES38; TSES38 diagnostic antigen;description_source=UniProtKB/TrEMBL;description_source_acc=Q6EMR7;locus=tses38
+pathogen_TSM_contig_02274	WormBase_imported	mRNA	1347	4662	.	+	.	ID=transcript:TsM_000380000;Parent=gene:TsM_000380000;Name=TsM_000380000
+pathogen_TSM_contig_02274	WormBase_imported	exon	1347	1392	.	+	.	ID=exon:TsM_000380000.1;Parent=transcript:TsM_000380000
+pathogen_TSM_contig_02274	WormBase_imported	exon	1512	1603	.	+	.	ID=exon:TsM_000380000.2;Parent=transcript:TsM_000380000
+pathogen_TSM_contig_02274	WormBase_imported	exon	1823	1928	.	+	.	ID=exon:TsM_000380000.3;Parent=transcript:TsM_000380000
+pathogen_TSM_contig_02274	WormBase_imported	exon	2301	2432	.	+	.	ID=exon:TsM_000380000.4;Parent=transcript:TsM_000380000
+pathogen_TSM_contig_02274	WormBase_imported	exon	2507	2610	.	+	.	ID=exon:TsM_000380000.5;Parent=transcript:TsM_000380000
+pathogen_TSM_contig_02274	WormBase_imported	exon	2786	2864	.	+	.	ID=exon:TsM_000380000.6;Parent=transcript:TsM_000380000
+pathogen_TSM_contig_02274	WormBase_imported	exon	3078	3218	.	+	.	ID=exon:TsM_000380000.7;Parent=transcript:TsM_000380000
+pathogen_TSM_contig_02274	WormBase_imported	exon	3410	3439	.	+	.	ID=exon:TsM_000380000.8;Parent=transcript:TsM_000380000
+pathogen_TSM_contig_02274	WormBase_imported	exon	3642	3659	.	+	.	ID=exon:TsM_000380000.9;Parent=transcript:TsM_000380000
+pathogen_TSM_contig_02274	WormBase_imported	exon	4000	4017	.	+	.	ID=exon:TsM_000380000.10;Parent=transcript:TsM_000380000
+pathogen_TSM_contig_02274	WormBase_imported	exon	4280	4306	.	+	.	ID=exon:TsM_000380000.11;Parent=transcript:TsM_000380000
+pathogen_TSM_contig_02274	WormBase_imported	exon	4619	4662	.	+	.	ID=exon:TsM_000380000.12;Parent=transcript:TsM_000380000
+pathogen_TSM_contig_02274	WormBase_imported	CDS	1347	1392	.	+	0	ID=cds:TsM_000380000;Parent=transcript:TsM_000380000
+pathogen_TSM_contig_02274	WormBase_imported	CDS	1512	1603	.	+	2	ID=cds:TsM_000380000;Parent=transcript:TsM_000380000
+pathogen_TSM_contig_02274	WormBase_imported	CDS	1823	1928	.	+	0	ID=cds:TsM_000380000;Parent=transcript:TsM_000380000
+pathogen_TSM_contig_02274	WormBase_imported	CDS	2301	2432	.	+	2	ID=cds:TsM_000380000;Parent=transcript:TsM_000380000
+pathogen_TSM_contig_02274	WormBase_imported	CDS	2507	2610	.	+	2	ID=cds:TsM_000380000;Parent=transcript:TsM_000380000
+pathogen_TSM_contig_02274	WormBase_imported	CDS	2786	2864	.	+	0	ID=cds:TsM_000380000;Parent=transcript:TsM_000380000
+pathogen_TSM_contig_02274	WormBase_imported	CDS	3078	3218	.	+	2	ID=cds:TsM_000380000;Parent=transcript:TsM_000380000
+pathogen_TSM_contig_02274	WormBase_imported	CDS	3410	3439	.	+	2	ID=cds:TsM_000380000;Parent=transcript:TsM_000380000
+pathogen_TSM_contig_02274	WormBase_imported	CDS	3642	3659	.	+	2	ID=cds:TsM_000380000;Parent=transcript:TsM_000380000
+pathogen_TSM_contig_02274	WormBase_imported	CDS	4000	4017	.	+	2	ID=cds:TsM_000380000;Parent=transcript:TsM_000380000
+pathogen_TSM_contig_02274	WormBase_imported	CDS	4280	4306	.	+	2	ID=cds:TsM_000380000;Parent=transcript:TsM_000380000
+pathogen_TSM_contig_02274	WormBase_imported	CDS	4619	4662	.	+	2	ID=cds:TsM_000380000;Parent=transcript:TsM_000380000
+pathogen_TSM_contig_02274	RepeatMasker	repeat_region	1232	1562	621	+	.	
+pathogen_TSM_contig_02274	dust	low_complexity_region	1993	1999	.	-	.	
+pathogen_TSM_contig_02274	RepeatMasker	repeat_region	2523	2641	256	+	.	
+pathogen_TSM_contig_03423	WormBase_imported	gene	82	3648	.	+	.	ID=gene:TsM_000987100;Name=TsM_000987100;biotype=protein_coding
+pathogen_TSM_contig_03423	WormBase_imported	mRNA	82	3648	.	+	.	ID=transcript:TsM_000987100;Parent=gene:TsM_000987100;Name=TsM_000987100
+pathogen_TSM_contig_03423	WormBase_imported	exon	82	96	.	+	.	ID=exon:TsM_000987100.1;Parent=transcript:TsM_000987100
+pathogen_TSM_contig_03423	WormBase_imported	exon	436	459	.	+	.	ID=exon:TsM_000987100.2;Parent=transcript:TsM_000987100
+pathogen_TSM_contig_03423	WormBase_imported	exon	681	707	.	+	.	ID=exon:TsM_000987100.3;Parent=transcript:TsM_000987100
+pathogen_TSM_contig_03423	WormBase_imported	exon	1969	2089	.	+	.	ID=exon:TsM_000987100.4;Parent=transcript:TsM_000987100
+pathogen_TSM_contig_03423	WormBase_imported	exon	2449	3377	.	+	.	ID=exon:TsM_000987100.5;Parent=transcript:TsM_000987100
+pathogen_TSM_contig_03423	WormBase_imported	exon	3433	3648	.	+	.	ID=exon:TsM_000987100.6;Parent=transcript:TsM_000987100
+pathogen_TSM_contig_03423	WormBase_imported	CDS	82	96	.	+	0	ID=cds:TsM_000987100;Parent=transcript:TsM_000987100
+pathogen_TSM_contig_03423	WormBase_imported	CDS	436	459	.	+	0	ID=cds:TsM_000987100;Parent=transcript:TsM_000987100
+pathogen_TSM_contig_03423	WormBase_imported	CDS	681	707	.	+	0	ID=cds:TsM_000987100;Parent=transcript:TsM_000987100
+pathogen_TSM_contig_03423	WormBase_imported	CDS	1969	2089	.	+	0	ID=cds:TsM_000987100;Parent=transcript:TsM_000987100
+pathogen_TSM_contig_03423	WormBase_imported	CDS	2449	3377	.	+	2	ID=cds:TsM_000987100;Parent=transcript:TsM_000987100
+pathogen_TSM_contig_03423	WormBase_imported	CDS	3433	3648	.	+	0	ID=cds:TsM_000987100;Parent=transcript:TsM_000987100
+pathogen_TSM_contig_03423	dust	low_complexity_region	414	420	.	-	.	
+pathogen_TSM_contig_03423	dust	low_complexity_region	509	515	.	-	.	
+pathogen_TSM_contig_03423	dust	low_complexity_region	749	755	.	-	.	
+pathogen_TSM_scaffold_03424	RepeatMasker	repeat_region	2	986	6339	+	.	
+pathogen_TSM_scaffold_03424	dust	low_complexity_region	338	459	.	-	.	
+pathogen_TSM_scaffold_03424	tandem	tandem_repeat	915	1058	288	-	.	
+pathogen_TSM_scaffold_03424	RepeatMasker	repeat_region	987	1473	3515	+	.	
+pathogen_TSM_scaffold_03424	RepeatMasker	repeat_region	2018	3286	7465	-	.	
+pathogen_TSM_contig_03425	RepeatMasker	repeat_region	344	1386	1352	+	.	
+pathogen_TSM_contig_03426	RepeatMasker	repeat_region	36	207	919	-	.	
+pathogen_TSM_contig_03426	RepeatMasker	repeat_region	555	865	1057	+	.	
+pathogen_TSM_contig_03427	dust	low_complexity_region	1892	1898	.	-	.	
+pathogen_TSM_scaffold_03428	dust	low_complexity_region	1613	1619	.	-	.	
+pathogen_TSM_scaffold_03428	dust	low_complexity_region	1947	2085	.	-	.	
+pathogen_TSM_scaffold_03428	RepeatMasker	repeat_region	2086	3716	13164	+	.	
+pathogen_TSM_contig_03429	RepeatMasker	repeat_region	964	1652	1145	-	.	
+pathogen_TSM_contig_03429	dust	low_complexity_region	3238	3244	.	-	.	
+pathogen_TSM_contig_03429	RepeatMasker	repeat_region	3597	3707	319	-	.	
+pathogen_TSM_contig_03429	dust	low_complexity_region	3599	3605	.	-	.	
+pathogen_TSM_contig_03430	RepeatMasker	repeat_region	309	3669	24489	-	.	
+pathogen_TSM_contig_03430	dust	low_complexity_region	2095	2102	.	-	.	
+pathogen_TSM_contig_03431	RepeatMasker	repeat_region	236	350	257	-	.	
+pathogen_TSM_contig_03431	RepeatMasker	repeat_region	353	447	513	+	.	
+pathogen_TSM_contig_03431	RepeatMasker	repeat_region	493	645	825	+	.	
+pathogen_TSM_contig_03431	RepeatMasker	repeat_region	645	965	1995	-	.	
+pathogen_TSM_contig_03431	RepeatMasker	repeat_region	746	1057	1911	-	.	
+pathogen_TSM_contig_03431	RepeatMasker	repeat_region	1060	1331	1726	+	.	
+pathogen_TSM_contig_03431	RepeatMasker	repeat_region	1311	1894	3611	-	.	
+pathogen_TSM_contig_03431	RepeatMasker	repeat_region	1896	2052	1013	+	.	
+pathogen_TSM_contig_03431	RepeatMasker	repeat_region	2054	2466	1745	-	.	
+pathogen_TSM_contig_03431	RepeatMasker	repeat_region	2420	2691	1413	-	.	
+pathogen_TSM_contig_03431	RepeatMasker	repeat_region	2696	3201	1978	+	.	
+pathogen_TSM_contig_03432	RepeatMasker	repeat_region	2293	2403	536	-	.	
+pathogen_TSM_contig_03432	dust	low_complexity_region	2638	2644	.	-	.	
+pathogen_TSM_contig_03432	RepeatMasker	repeat_region	3252	3371	253	+	.	
+pathogen_TSM_contig_03432	RepeatMasker	repeat_region	3368	3410	293	-	.	
+pathogen_TSM_contig_03432	RepeatMasker	repeat_region	3378	3526	759	-	.	
+pathogen_TSM_contig_03432	RepeatMasker	repeat_region	3575	3702	778	-	.	

@@ -1,0 +1,461 @@
+Scaffold00001	WormBase_imported	gene	1621170	1643524	.	-	.	ID=gene:TSAs00001g00170;Name=TSAs00001g00170;biotype=protein_coding
+Scaffold00001	WormBase_imported	mRNA	1621170	1643524	.	-	.	ID=transcript:TSAs00001g00170m00001;Parent=gene:TSAs00001g00170;Name=TSAs00001g00170m00001;info=method:InterPro accession:IPR004273 description:Dynein heavy chain region D6 P-loop domain %0Amethod:InterPro accession:IPR013602 description:Dynein heavy chain%2C domain-2 %0Amethod:InterPro accession:IPR024317 description:Dynein heavy chain%2C AAA module D4 %0Amethod:InterPro accession:IPR024743 description:Dynein heavy chain%2C coiled coil stalk %0Amethod:InterPro accession:IPR026983 description:Dynein heavy chain %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR035699 description:Dynein heavy chain%2C hydrolytic ATP-binding dynein motor region %0Amethod:InterPro accession:IPR035706 description:Dynein heavy chain%2C ATP-binding dynein motor region %0Amethod:InterPro accession:IPR041228 description:Dynein heavy chain%2C C-terminal domain %0Amethod:InterPro accession:IPR041466 description:Dynein heavy chain%2C AAA 5 extension domain %0Amethod:InterPro accession:IPR041589 description:Dynein heavy chain 3%2C AAA+ lid domain %0Amethod:InterPro accession:IPR041658 description:Dynein heavy chain AAA lid domain
+Scaffold00001	WormBase_imported	exon	1643495	1643524	.	-	.	ID=exon:TSAs00001g00170m00001.1;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	exon	1642982	1643286	.	-	.	ID=exon:TSAs00001g00170m00001.2;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	exon	1642649	1642768	.	-	.	ID=exon:TSAs00001g00170m00001.3;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	exon	1641926	1641962	.	-	.	ID=exon:TSAs00001g00170m00001.4;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	exon	1641637	1641813	.	-	.	ID=exon:TSAs00001g00170m00001.5;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	exon	1641485	1641559	.	-	.	ID=exon:TSAs00001g00170m00001.6;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	exon	1640797	1641203	.	-	.	ID=exon:TSAs00001g00170m00001.7;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	exon	1638482	1639469	.	-	.	ID=exon:TSAs00001g00170m00001.8;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	exon	1637794	1637942	.	-	.	ID=exon:TSAs00001g00170m00001.9;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	exon	1636774	1637404	.	-	.	ID=exon:TSAs00001g00170m00001.10;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	exon	1636118	1636350	.	-	.	ID=exon:TSAs00001g00170m00001.11;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	exon	1635751	1635988	.	-	.	ID=exon:TSAs00001g00170m00001.12;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	exon	1635319	1635549	.	-	.	ID=exon:TSAs00001g00170m00001.13;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	exon	1635034	1635246	.	-	.	ID=exon:TSAs00001g00170m00001.14;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	exon	1633938	1634450	.	-	.	ID=exon:TSAs00001g00170m00001.15;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	exon	1633728	1633859	.	-	.	ID=exon:TSAs00001g00170m00001.16;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	exon	1633360	1633581	.	-	.	ID=exon:TSAs00001g00170m00001.17;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	exon	1633193	1633216	.	-	.	ID=exon:TSAs00001g00170m00001.18;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	exon	1633100	1633111	.	-	.	ID=exon:TSAs00001g00170m00001.19;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	exon	1632932	1632952	.	-	.	ID=exon:TSAs00001g00170m00001.20;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	exon	1632517	1632525	.	-	.	ID=exon:TSAs00001g00170m00001.21;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	exon	1632395	1632448	.	-	.	ID=exon:TSAs00001g00170m00001.22;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	exon	1631805	1632002	.	-	.	ID=exon:TSAs00001g00170m00001.23;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	exon	1631218	1631471	.	-	.	ID=exon:TSAs00001g00170m00001.24;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	exon	1630754	1630951	.	-	.	ID=exon:TSAs00001g00170m00001.25;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	exon	1630114	1630474	.	-	.	ID=exon:TSAs00001g00170m00001.26;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	exon	1629194	1629505	.	-	.	ID=exon:TSAs00001g00170m00001.27;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	exon	1628456	1628869	.	-	.	ID=exon:TSAs00001g00170m00001.28;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	exon	1628051	1628280	.	-	.	ID=exon:TSAs00001g00170m00001.29;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	exon	1627495	1627825	.	-	.	ID=exon:TSAs00001g00170m00001.30;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	exon	1626280	1627157	.	-	.	ID=exon:TSAs00001g00170m00001.31;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	exon	1625894	1626200	.	-	.	ID=exon:TSAs00001g00170m00001.32;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	exon	1624115	1625743	.	-	.	ID=exon:TSAs00001g00170m00001.33;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	exon	1623764	1623949	.	-	.	ID=exon:TSAs00001g00170m00001.34;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	exon	1623133	1623270	.	-	.	ID=exon:TSAs00001g00170m00001.35;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	exon	1622549	1622932	.	-	.	ID=exon:TSAs00001g00170m00001.36;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	exon	1621894	1622071	.	-	.	ID=exon:TSAs00001g00170m00001.37;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	exon	1621547	1621650	.	-	.	ID=exon:TSAs00001g00170m00001.38;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	exon	1621170	1621376	.	-	.	ID=exon:TSAs00001g00170m00001.39;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	CDS	1643495	1643524	.	-	0	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	CDS	1642982	1643286	.	-	0	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	CDS	1642649	1642768	.	-	1	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	CDS	1641926	1641962	.	-	1	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	CDS	1641637	1641813	.	-	0	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	CDS	1641485	1641559	.	-	0	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	CDS	1640797	1641203	.	-	0	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	CDS	1638482	1639469	.	-	1	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	CDS	1637794	1637942	.	-	0	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	CDS	1636774	1637404	.	-	1	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	CDS	1636118	1636350	.	-	0	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	CDS	1635751	1635988	.	-	1	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	CDS	1635319	1635549	.	-	0	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	CDS	1635034	1635246	.	-	0	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	CDS	1633938	1634450	.	-	0	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	CDS	1633728	1633859	.	-	0	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	CDS	1633360	1633581	.	-	0	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	CDS	1633193	1633216	.	-	0	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	CDS	1633100	1633111	.	-	0	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	CDS	1632932	1632952	.	-	0	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	CDS	1632517	1632525	.	-	0	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	CDS	1632395	1632448	.	-	0	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	CDS	1631805	1632002	.	-	0	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	CDS	1631218	1631471	.	-	0	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	CDS	1630754	1630951	.	-	1	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	CDS	1630114	1630474	.	-	1	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	CDS	1629194	1629505	.	-	0	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	CDS	1628456	1628869	.	-	0	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	CDS	1628051	1628280	.	-	0	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	CDS	1627495	1627825	.	-	1	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	CDS	1626280	1627157	.	-	0	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	CDS	1625894	1626200	.	-	1	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	CDS	1624115	1625743	.	-	0	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	CDS	1623764	1623949	.	-	0	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	CDS	1623133	1623270	.	-	0	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	CDS	1622549	1622932	.	-	0	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	CDS	1621894	1622071	.	-	0	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	CDS	1621547	1621650	.	-	2	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	CDS	1621170	1621376	.	-	0	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
+Scaffold00001	WormBase_imported	gene	6301588	6317054	.	-	.	ID=gene:TSAs00001g00601;Name=TSAs00001g00601;biotype=protein_coding
+Scaffold00001	WormBase_imported	mRNA	6301588	6317054	.	-	.	ID=transcript:TSAs00001g00601m00001;Parent=gene:TSAs00001g00601;Name=TSAs00001g00601m00001
+Scaffold00001	WormBase_imported	exon	6316868	6317054	.	-	.	ID=exon:TSAs00001g00601m00001.1;Parent=transcript:TSAs00001g00601m00001
+Scaffold00001	WormBase_imported	exon	6315623	6315717	.	-	.	ID=exon:TSAs00001g00601m00001.2;Parent=transcript:TSAs00001g00601m00001
+Scaffold00001	WormBase_imported	exon	6315181	6315394	.	-	.	ID=exon:TSAs00001g00601m00001.3;Parent=transcript:TSAs00001g00601m00001
+Scaffold00001	WormBase_imported	exon	6313206	6314055	.	-	.	ID=exon:TSAs00001g00601m00001.4;Parent=transcript:TSAs00001g00601m00001
+Scaffold00001	WormBase_imported	exon	6311172	6312451	.	-	.	ID=exon:TSAs00001g00601m00001.5;Parent=transcript:TSAs00001g00601m00001
+Scaffold00001	WormBase_imported	exon	6310619	6310650	.	-	.	ID=exon:TSAs00001g00601m00001.6;Parent=transcript:TSAs00001g00601m00001
+Scaffold00001	WormBase_imported	exon	6310502	6310546	.	-	.	ID=exon:TSAs00001g00601m00001.7;Parent=transcript:TSAs00001g00601m00001
+Scaffold00001	WormBase_imported	exon	6310037	6310194	.	-	.	ID=exon:TSAs00001g00601m00001.8;Parent=transcript:TSAs00001g00601m00001
+Scaffold00001	WormBase_imported	exon	6309328	6309493	.	-	.	ID=exon:TSAs00001g00601m00001.9;Parent=transcript:TSAs00001g00601m00001
+Scaffold00001	WormBase_imported	exon	6308658	6308687	.	-	.	ID=exon:TSAs00001g00601m00001.10;Parent=transcript:TSAs00001g00601m00001
+Scaffold00001	WormBase_imported	exon	6308558	6308581	.	-	.	ID=exon:TSAs00001g00601m00001.11;Parent=transcript:TSAs00001g00601m00001
+Scaffold00001	WormBase_imported	exon	6307838	6307861	.	-	.	ID=exon:TSAs00001g00601m00001.12;Parent=transcript:TSAs00001g00601m00001
+Scaffold00001	WormBase_imported	exon	6307708	6307767	.	-	.	ID=exon:TSAs00001g00601m00001.13;Parent=transcript:TSAs00001g00601m00001
+Scaffold00001	WormBase_imported	exon	6306849	6307046	.	-	.	ID=exon:TSAs00001g00601m00001.14;Parent=transcript:TSAs00001g00601m00001
+Scaffold00001	WormBase_imported	exon	6305036	6306559	.	-	.	ID=exon:TSAs00001g00601m00001.15;Parent=transcript:TSAs00001g00601m00001
+Scaffold00001	WormBase_imported	exon	6302620	6302822	.	-	.	ID=exon:TSAs00001g00601m00001.16;Parent=transcript:TSAs00001g00601m00001
+Scaffold00001	WormBase_imported	exon	6301588	6301861	.	-	.	ID=exon:TSAs00001g00601m00001.17;Parent=transcript:TSAs00001g00601m00001
+Scaffold00001	WormBase_imported	CDS	6316868	6317054	.	-	0	ID=cds:TSAs00001g00601m00001;Parent=transcript:TSAs00001g00601m00001
+Scaffold00001	WormBase_imported	CDS	6315623	6315717	.	-	2	ID=cds:TSAs00001g00601m00001;Parent=transcript:TSAs00001g00601m00001
+Scaffold00001	WormBase_imported	CDS	6315181	6315394	.	-	0	ID=cds:TSAs00001g00601m00001;Parent=transcript:TSAs00001g00601m00001
+Scaffold00001	WormBase_imported	CDS	6313206	6314055	.	-	2	ID=cds:TSAs00001g00601m00001;Parent=transcript:TSAs00001g00601m00001
+Scaffold00001	WormBase_imported	CDS	6311172	6312451	.	-	1	ID=cds:TSAs00001g00601m00001;Parent=transcript:TSAs00001g00601m00001
+Scaffold00001	WormBase_imported	CDS	6310619	6310650	.	-	2	ID=cds:TSAs00001g00601m00001;Parent=transcript:TSAs00001g00601m00001
+Scaffold00001	WormBase_imported	CDS	6310502	6310546	.	-	0	ID=cds:TSAs00001g00601m00001;Parent=transcript:TSAs00001g00601m00001
+Scaffold00001	WormBase_imported	CDS	6310037	6310194	.	-	0	ID=cds:TSAs00001g00601m00001;Parent=transcript:TSAs00001g00601m00001
+Scaffold00001	WormBase_imported	CDS	6309328	6309493	.	-	1	ID=cds:TSAs00001g00601m00001;Parent=transcript:TSAs00001g00601m00001
+Scaffold00001	WormBase_imported	CDS	6308658	6308687	.	-	0	ID=cds:TSAs00001g00601m00001;Parent=transcript:TSAs00001g00601m00001
+Scaffold00001	WormBase_imported	CDS	6308558	6308581	.	-	0	ID=cds:TSAs00001g00601m00001;Parent=transcript:TSAs00001g00601m00001
+Scaffold00001	WormBase_imported	CDS	6307838	6307861	.	-	0	ID=cds:TSAs00001g00601m00001;Parent=transcript:TSAs00001g00601m00001
+Scaffold00001	WormBase_imported	CDS	6307708	6307767	.	-	0	ID=cds:TSAs00001g00601m00001;Parent=transcript:TSAs00001g00601m00001
+Scaffold00001	WormBase_imported	CDS	6306849	6307046	.	-	0	ID=cds:TSAs00001g00601m00001;Parent=transcript:TSAs00001g00601m00001
+Scaffold00001	WormBase_imported	CDS	6305036	6306559	.	-	0	ID=cds:TSAs00001g00601m00001;Parent=transcript:TSAs00001g00601m00001
+Scaffold00001	WormBase_imported	CDS	6302620	6302822	.	-	0	ID=cds:TSAs00001g00601m00001;Parent=transcript:TSAs00001g00601m00001
+Scaffold00001	WormBase_imported	CDS	6301588	6301861	.	-	1	ID=cds:TSAs00001g00601m00001;Parent=transcript:TSAs00001g00601m00001
+Scaffold00002	WormBase_imported	gene	2965942	2974708	.	+	.	ID=gene:TSAs00002g00944;Name=TSAs00002g00944;biotype=protein_coding
+Scaffold00002	WormBase_imported	mRNA	2965942	2974708	.	+	.	ID=transcript:TSAs00002g00944m00001;Parent=gene:TSAs00002g00944;Name=TSAs00002g00944m00001;info=method:InterPro accession:IPR014752 description:Arrestin%2C C-terminal
+Scaffold00002	WormBase_imported	exon	2965942	2965966	.	+	.	ID=exon:TSAs00002g00944m00001.1;Parent=transcript:TSAs00002g00944m00001
+Scaffold00002	WormBase_imported	exon	2966360	2966377	.	+	.	ID=exon:TSAs00002g00944m00001.2;Parent=transcript:TSAs00002g00944m00001
+Scaffold00002	WormBase_imported	exon	2966539	2966577	.	+	.	ID=exon:TSAs00002g00944m00001.3;Parent=transcript:TSAs00002g00944m00001
+Scaffold00002	WormBase_imported	exon	2967003	2967023	.	+	.	ID=exon:TSAs00002g00944m00001.4;Parent=transcript:TSAs00002g00944m00001
+Scaffold00002	WormBase_imported	exon	2967149	2967160	.	+	.	ID=exon:TSAs00002g00944m00001.5;Parent=transcript:TSAs00002g00944m00001
+Scaffold00002	WormBase_imported	exon	2967240	2967269	.	+	.	ID=exon:TSAs00002g00944m00001.6;Parent=transcript:TSAs00002g00944m00001
+Scaffold00002	WormBase_imported	exon	2967449	2967499	.	+	.	ID=exon:TSAs00002g00944m00001.7;Parent=transcript:TSAs00002g00944m00001
+Scaffold00002	WormBase_imported	exon	2967947	2968021	.	+	.	ID=exon:TSAs00002g00944m00001.8;Parent=transcript:TSAs00002g00944m00001
+Scaffold00002	WormBase_imported	exon	2968398	2968414	.	+	.	ID=exon:TSAs00002g00944m00001.9;Parent=transcript:TSAs00002g00944m00001
+Scaffold00002	WormBase_imported	exon	2968687	2968698	.	+	.	ID=exon:TSAs00002g00944m00001.10;Parent=transcript:TSAs00002g00944m00001
+Scaffold00002	WormBase_imported	exon	2968850	2968888	.	+	.	ID=exon:TSAs00002g00944m00001.11;Parent=transcript:TSAs00002g00944m00001
+Scaffold00002	WormBase_imported	exon	2969224	2969241	.	+	.	ID=exon:TSAs00002g00944m00001.12;Parent=transcript:TSAs00002g00944m00001
+Scaffold00002	WormBase_imported	exon	2970704	2970713	.	+	.	ID=exon:TSAs00002g00944m00001.13;Parent=transcript:TSAs00002g00944m00001
+Scaffold00002	WormBase_imported	exon	2971003	2971265	.	+	.	ID=exon:TSAs00002g00944m00001.14;Parent=transcript:TSAs00002g00944m00001
+Scaffold00002	WormBase_imported	exon	2971863	2972161	.	+	.	ID=exon:TSAs00002g00944m00001.15;Parent=transcript:TSAs00002g00944m00001
+Scaffold00002	WormBase_imported	exon	2972643	2972832	.	+	.	ID=exon:TSAs00002g00944m00001.16;Parent=transcript:TSAs00002g00944m00001
+Scaffold00002	WormBase_imported	exon	2973221	2973646	.	+	.	ID=exon:TSAs00002g00944m00001.17;Parent=transcript:TSAs00002g00944m00001
+Scaffold00002	WormBase_imported	exon	2974595	2974708	.	+	.	ID=exon:TSAs00002g00944m00001.18;Parent=transcript:TSAs00002g00944m00001
+Scaffold00002	WormBase_imported	CDS	2965942	2965966	.	+	0	ID=cds:TSAs00002g00944m00001;Parent=transcript:TSAs00002g00944m00001
+Scaffold00002	WormBase_imported	CDS	2966360	2966377	.	+	2	ID=cds:TSAs00002g00944m00001;Parent=transcript:TSAs00002g00944m00001
+Scaffold00002	WormBase_imported	CDS	2966539	2966577	.	+	2	ID=cds:TSAs00002g00944m00001;Parent=transcript:TSAs00002g00944m00001
+Scaffold00002	WormBase_imported	CDS	2967003	2967023	.	+	2	ID=cds:TSAs00002g00944m00001;Parent=transcript:TSAs00002g00944m00001
+Scaffold00002	WormBase_imported	CDS	2967149	2967160	.	+	2	ID=cds:TSAs00002g00944m00001;Parent=transcript:TSAs00002g00944m00001
+Scaffold00002	WormBase_imported	CDS	2967240	2967269	.	+	2	ID=cds:TSAs00002g00944m00001;Parent=transcript:TSAs00002g00944m00001
+Scaffold00002	WormBase_imported	CDS	2967449	2967499	.	+	2	ID=cds:TSAs00002g00944m00001;Parent=transcript:TSAs00002g00944m00001
+Scaffold00002	WormBase_imported	CDS	2967947	2968021	.	+	2	ID=cds:TSAs00002g00944m00001;Parent=transcript:TSAs00002g00944m00001
+Scaffold00002	WormBase_imported	CDS	2968398	2968414	.	+	2	ID=cds:TSAs00002g00944m00001;Parent=transcript:TSAs00002g00944m00001
+Scaffold00002	WormBase_imported	CDS	2968687	2968698	.	+	0	ID=cds:TSAs00002g00944m00001;Parent=transcript:TSAs00002g00944m00001
+Scaffold00002	WormBase_imported	CDS	2968850	2968888	.	+	0	ID=cds:TSAs00002g00944m00001;Parent=transcript:TSAs00002g00944m00001
+Scaffold00002	WormBase_imported	CDS	2969224	2969241	.	+	0	ID=cds:TSAs00002g00944m00001;Parent=transcript:TSAs00002g00944m00001
+Scaffold00002	WormBase_imported	CDS	2970704	2970713	.	+	0	ID=cds:TSAs00002g00944m00001;Parent=transcript:TSAs00002g00944m00001
+Scaffold00002	WormBase_imported	CDS	2971003	2971265	.	+	2	ID=cds:TSAs00002g00944m00001;Parent=transcript:TSAs00002g00944m00001
+Scaffold00002	WormBase_imported	CDS	2971863	2972161	.	+	0	ID=cds:TSAs00002g00944m00001;Parent=transcript:TSAs00002g00944m00001
+Scaffold00002	WormBase_imported	CDS	2972643	2972832	.	+	1	ID=cds:TSAs00002g00944m00001;Parent=transcript:TSAs00002g00944m00001
+Scaffold00002	WormBase_imported	CDS	2973221	2973646	.	+	0	ID=cds:TSAs00002g00944m00001;Parent=transcript:TSAs00002g00944m00001
+Scaffold00002	WormBase_imported	CDS	2974595	2974708	.	+	0	ID=cds:TSAs00002g00944m00001;Parent=transcript:TSAs00002g00944m00001
+Scaffold00026	WormBase_imported	gene	816631	837844	.	+	.	ID=gene:TSAs00026g04378;Name=TSAs00026g04378;biotype=protein_coding
+Scaffold00026	WormBase_imported	mRNA	816631	837844	.	+	.	ID=transcript:TSAs00026g04378m00001;Parent=gene:TSAs00026g04378;Name=TSAs00026g04378m00001;info=method:InterPro accession:IPR001073 description:C1q domain %0Amethod:InterPro accession:IPR008983 description:Tumour necrosis factor-like domain superfamily %0Amethod:InterPro accession:IPR013087 description:Zinc finger C2H2-type %0Amethod:InterPro accession:IPR036236 description:Zinc finger C2H2 superfamily
+Scaffold00026	WormBase_imported	exon	816631	816652	.	+	.	ID=exon:TSAs00026g04378m00001.1;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	exon	817306	817725	.	+	.	ID=exon:TSAs00026g04378m00001.2;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	exon	817806	817841	.	+	.	ID=exon:TSAs00026g04378m00001.3;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	exon	818113	818136	.	+	.	ID=exon:TSAs00026g04378m00001.4;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	exon	818216	818242	.	+	.	ID=exon:TSAs00026g04378m00001.5;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	exon	818317	818331	.	+	.	ID=exon:TSAs00026g04378m00001.6;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	exon	819130	819210	.	+	.	ID=exon:TSAs00026g04378m00001.7;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	exon	819675	819761	.	+	.	ID=exon:TSAs00026g04378m00001.8;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	exon	819850	819936	.	+	.	ID=exon:TSAs00026g04378m00001.9;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	exon	820020	820115	.	+	.	ID=exon:TSAs00026g04378m00001.10;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	exon	820715	820864	.	+	.	ID=exon:TSAs00026g04378m00001.11;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	exon	821079	821159	.	+	.	ID=exon:TSAs00026g04378m00001.12;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	exon	821666	821722	.	+	.	ID=exon:TSAs00026g04378m00001.13;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	exon	821808	821894	.	+	.	ID=exon:TSAs00026g04378m00001.14;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	exon	822126	822212	.	+	.	ID=exon:TSAs00026g04378m00001.15;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	exon	822294	822380	.	+	.	ID=exon:TSAs00026g04378m00001.16;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	exon	822637	822687	.	+	.	ID=exon:TSAs00026g04378m00001.17;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	exon	822866	823207	.	+	.	ID=exon:TSAs00026g04378m00001.18;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	exon	824855	825038	.	+	.	ID=exon:TSAs00026g04378m00001.19;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	exon	827355	827615	.	+	.	ID=exon:TSAs00026g04378m00001.20;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	exon	833708	833787	.	+	.	ID=exon:TSAs00026g04378m00001.21;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	exon	835296	835541	.	+	.	ID=exon:TSAs00026g04378m00001.22;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	exon	837099	837349	.	+	.	ID=exon:TSAs00026g04378m00001.23;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	exon	837629	837844	.	+	.	ID=exon:TSAs00026g04378m00001.24;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	CDS	816631	816652	.	+	0	ID=cds:TSAs00026g04378m00001;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	CDS	817306	817725	.	+	2	ID=cds:TSAs00026g04378m00001;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	CDS	817806	817841	.	+	2	ID=cds:TSAs00026g04378m00001;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	CDS	818113	818136	.	+	2	ID=cds:TSAs00026g04378m00001;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	CDS	818216	818242	.	+	2	ID=cds:TSAs00026g04378m00001;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	CDS	818317	818331	.	+	2	ID=cds:TSAs00026g04378m00001;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	CDS	819130	819210	.	+	2	ID=cds:TSAs00026g04378m00001;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	CDS	819675	819761	.	+	2	ID=cds:TSAs00026g04378m00001;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	CDS	819850	819936	.	+	2	ID=cds:TSAs00026g04378m00001;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	CDS	820020	820115	.	+	2	ID=cds:TSAs00026g04378m00001;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	CDS	820715	820864	.	+	2	ID=cds:TSAs00026g04378m00001;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	CDS	821079	821159	.	+	2	ID=cds:TSAs00026g04378m00001;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	CDS	821666	821722	.	+	2	ID=cds:TSAs00026g04378m00001;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	CDS	821808	821894	.	+	2	ID=cds:TSAs00026g04378m00001;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	CDS	822126	822212	.	+	2	ID=cds:TSAs00026g04378m00001;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	CDS	822294	822380	.	+	2	ID=cds:TSAs00026g04378m00001;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	CDS	822637	822687	.	+	2	ID=cds:TSAs00026g04378m00001;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	CDS	822866	823207	.	+	2	ID=cds:TSAs00026g04378m00001;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	CDS	824855	825038	.	+	2	ID=cds:TSAs00026g04378m00001;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	CDS	827355	827615	.	+	1	ID=cds:TSAs00026g04378m00001;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	CDS	833708	833787	.	+	1	ID=cds:TSAs00026g04378m00001;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	CDS	835296	835541	.	+	2	ID=cds:TSAs00026g04378m00001;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	CDS	837099	837349	.	+	2	ID=cds:TSAs00026g04378m00001;Parent=transcript:TSAs00026g04378m00001
+Scaffold00026	WormBase_imported	CDS	837629	837844	.	+	0	ID=cds:TSAs00026g04378m00001;Parent=transcript:TSAs00026g04378m00001
+Scaffold00061	WormBase_imported	gene	59375	63043	.	+	.	ID=gene:TSAs00061g07071;Name=TSAs00061g07071;biotype=protein_coding
+Scaffold00061	WormBase_imported	mRNA	59375	63043	.	+	.	ID=transcript:TSAs00061g07071m00001;Parent=gene:TSAs00061g07071;Name=TSAs00061g07071m00001
+Scaffold00061	WormBase_imported	exon	59375	59420	.	+	.	ID=exon:TSAs00061g07071m00001.1;Parent=transcript:TSAs00061g07071m00001
+Scaffold00061	WormBase_imported	exon	59486	59577	.	+	.	ID=exon:TSAs00061g07071m00001.2;Parent=transcript:TSAs00061g07071m00001
+Scaffold00061	WormBase_imported	exon	59796	59901	.	+	.	ID=exon:TSAs00061g07071m00001.3;Parent=transcript:TSAs00061g07071m00001
+Scaffold00061	WormBase_imported	exon	60242	60373	.	+	.	ID=exon:TSAs00061g07071m00001.4;Parent=transcript:TSAs00061g07071m00001
+Scaffold00061	WormBase_imported	exon	60448	60551	.	+	.	ID=exon:TSAs00061g07071m00001.5;Parent=transcript:TSAs00061g07071m00001
+Scaffold00061	WormBase_imported	exon	60727	60805	.	+	.	ID=exon:TSAs00061g07071m00001.6;Parent=transcript:TSAs00061g07071m00001
+Scaffold00061	WormBase_imported	exon	61016	61156	.	+	.	ID=exon:TSAs00061g07071m00001.7;Parent=transcript:TSAs00061g07071m00001
+Scaffold00061	WormBase_imported	exon	61349	61378	.	+	.	ID=exon:TSAs00061g07071m00001.8;Parent=transcript:TSAs00061g07071m00001
+Scaffold00061	WormBase_imported	exon	61583	61600	.	+	.	ID=exon:TSAs00061g07071m00001.9;Parent=transcript:TSAs00061g07071m00001
+Scaffold00061	WormBase_imported	exon	61938	61955	.	+	.	ID=exon:TSAs00061g07071m00001.10;Parent=transcript:TSAs00061g07071m00001
+Scaffold00061	WormBase_imported	exon	62218	62244	.	+	.	ID=exon:TSAs00061g07071m00001.11;Parent=transcript:TSAs00061g07071m00001
+Scaffold00061	WormBase_imported	exon	63000	63043	.	+	.	ID=exon:TSAs00061g07071m00001.12;Parent=transcript:TSAs00061g07071m00001
+Scaffold00061	WormBase_imported	CDS	59375	59420	.	+	0	ID=cds:TSAs00061g07071m00001;Parent=transcript:TSAs00061g07071m00001
+Scaffold00061	WormBase_imported	CDS	59486	59577	.	+	2	ID=cds:TSAs00061g07071m00001;Parent=transcript:TSAs00061g07071m00001
+Scaffold00061	WormBase_imported	CDS	59796	59901	.	+	0	ID=cds:TSAs00061g07071m00001;Parent=transcript:TSAs00061g07071m00001
+Scaffold00061	WormBase_imported	CDS	60242	60373	.	+	2	ID=cds:TSAs00061g07071m00001;Parent=transcript:TSAs00061g07071m00001
+Scaffold00061	WormBase_imported	CDS	60448	60551	.	+	2	ID=cds:TSAs00061g07071m00001;Parent=transcript:TSAs00061g07071m00001
+Scaffold00061	WormBase_imported	CDS	60727	60805	.	+	0	ID=cds:TSAs00061g07071m00001;Parent=transcript:TSAs00061g07071m00001
+Scaffold00061	WormBase_imported	CDS	61016	61156	.	+	2	ID=cds:TSAs00061g07071m00001;Parent=transcript:TSAs00061g07071m00001
+Scaffold00061	WormBase_imported	CDS	61349	61378	.	+	2	ID=cds:TSAs00061g07071m00001;Parent=transcript:TSAs00061g07071m00001
+Scaffold00061	WormBase_imported	CDS	61583	61600	.	+	2	ID=cds:TSAs00061g07071m00001;Parent=transcript:TSAs00061g07071m00001
+Scaffold00061	WormBase_imported	CDS	61938	61955	.	+	2	ID=cds:TSAs00061g07071m00001;Parent=transcript:TSAs00061g07071m00001
+Scaffold00061	WormBase_imported	CDS	62218	62244	.	+	2	ID=cds:TSAs00061g07071m00001;Parent=transcript:TSAs00061g07071m00001
+Scaffold00061	WormBase_imported	CDS	63000	63043	.	+	2	ID=cds:TSAs00061g07071m00001;Parent=transcript:TSAs00061g07071m00001
+Scaffold00101	WormBase_imported	gene	36654	43718	.	+	.	ID=gene:TSAs00101g08571;Name=TSAs00101g08571;biotype=protein_coding
+Scaffold00101	WormBase_imported	mRNA	36654	43718	.	+	.	ID=transcript:TSAs00101g08571m00001;Parent=gene:TSAs00101g08571;Name=TSAs00101g08571m00001;info=method:InterPro accession:IPR000719 description:Protein kinase domain %0Amethod:InterPro accession:IPR008271 description:Serine/threonine-protein kinase%2C active site %0Amethod:InterPro accession:IPR011009 description:Protein kinase-like domain superfamily
+Scaffold00101	WormBase_imported	exon	36654	36819	.	+	.	ID=exon:TSAs00101g08571m00001.1;Parent=transcript:TSAs00101g08571m00001
+Scaffold00101	WormBase_imported	exon	36869	37122	.	+	.	ID=exon:TSAs00101g08571m00001.2;Parent=transcript:TSAs00101g08571m00001
+Scaffold00101	WormBase_imported	exon	39503	39553	.	+	.	ID=exon:TSAs00101g08571m00001.3;Parent=transcript:TSAs00101g08571m00001
+Scaffold00101	WormBase_imported	exon	39853	39903	.	+	.	ID=exon:TSAs00101g08571m00001.4;Parent=transcript:TSAs00101g08571m00001
+Scaffold00101	WormBase_imported	exon	40014	40043	.	+	.	ID=exon:TSAs00101g08571m00001.5;Parent=transcript:TSAs00101g08571m00001
+Scaffold00101	WormBase_imported	exon	41918	41938	.	+	.	ID=exon:TSAs00101g08571m00001.6;Parent=transcript:TSAs00101g08571m00001
+Scaffold00101	WormBase_imported	exon	42111	42131	.	+	.	ID=exon:TSAs00101g08571m00001.7;Parent=transcript:TSAs00101g08571m00001
+Scaffold00101	WormBase_imported	exon	43644	43718	.	+	.	ID=exon:TSAs00101g08571m00001.8;Parent=transcript:TSAs00101g08571m00001
+Scaffold00101	WormBase_imported	CDS	36654	36819	.	+	0	ID=cds:TSAs00101g08571m00001;Parent=transcript:TSAs00101g08571m00001
+Scaffold00101	WormBase_imported	CDS	36869	37122	.	+	2	ID=cds:TSAs00101g08571m00001;Parent=transcript:TSAs00101g08571m00001
+Scaffold00101	WormBase_imported	CDS	39503	39553	.	+	0	ID=cds:TSAs00101g08571m00001;Parent=transcript:TSAs00101g08571m00001
+Scaffold00101	WormBase_imported	CDS	39853	39903	.	+	0	ID=cds:TSAs00101g08571m00001;Parent=transcript:TSAs00101g08571m00001
+Scaffold00101	WormBase_imported	CDS	40014	40043	.	+	0	ID=cds:TSAs00101g08571m00001;Parent=transcript:TSAs00101g08571m00001
+Scaffold00101	WormBase_imported	CDS	41918	41938	.	+	0	ID=cds:TSAs00101g08571m00001;Parent=transcript:TSAs00101g08571m00001
+Scaffold00101	WormBase_imported	CDS	42111	42131	.	+	0	ID=cds:TSAs00101g08571m00001;Parent=transcript:TSAs00101g08571m00001
+Scaffold00101	WormBase_imported	CDS	43644	43718	.	+	0	ID=cds:TSAs00101g08571m00001;Parent=transcript:TSAs00101g08571m00001
+Scaffold00129	WormBase_imported	gene	26141	29462	.	-	.	ID=gene:TSAs00129g09113;Name=TSAs00129g09113;biotype=protein_coding
+Scaffold00129	WormBase_imported	mRNA	26141	29462	.	-	.	ID=transcript:TSAs00129g09113m00001;Parent=gene:TSAs00129g09113;Name=TSAs00129g09113m00001
+Scaffold00129	WormBase_imported	exon	29417	29462	.	-	.	ID=exon:TSAs00129g09113m00001.1;Parent=transcript:TSAs00129g09113m00001
+Scaffold00129	WormBase_imported	exon	29230	29321	.	-	.	ID=exon:TSAs00129g09113m00001.2;Parent=transcript:TSAs00129g09113m00001
+Scaffold00129	WormBase_imported	exon	28907	29012	.	-	.	ID=exon:TSAs00129g09113m00001.3;Parent=transcript:TSAs00129g09113m00001
+Scaffold00129	WormBase_imported	exon	28466	28597	.	-	.	ID=exon:TSAs00129g09113m00001.4;Parent=transcript:TSAs00129g09113m00001
+Scaffold00129	WormBase_imported	exon	28268	28392	.	-	.	ID=exon:TSAs00129g09113m00001.5;Parent=transcript:TSAs00129g09113m00001
+Scaffold00129	WormBase_imported	exon	28003	28081	.	-	.	ID=exon:TSAs00129g09113m00001.6;Parent=transcript:TSAs00129g09113m00001
+Scaffold00129	WormBase_imported	exon	27645	27785	.	-	.	ID=exon:TSAs00129g09113m00001.7;Parent=transcript:TSAs00129g09113m00001
+Scaffold00129	WormBase_imported	exon	27422	27451	.	-	.	ID=exon:TSAs00129g09113m00001.8;Parent=transcript:TSAs00129g09113m00001
+Scaffold00129	WormBase_imported	exon	27200	27217	.	-	.	ID=exon:TSAs00129g09113m00001.9;Parent=transcript:TSAs00129g09113m00001
+Scaffold00129	WormBase_imported	exon	26844	26867	.	-	.	ID=exon:TSAs00129g09113m00001.10;Parent=transcript:TSAs00129g09113m00001
+Scaffold00129	WormBase_imported	exon	26497	26523	.	-	.	ID=exon:TSAs00129g09113m00001.11;Parent=transcript:TSAs00129g09113m00001
+Scaffold00129	WormBase_imported	exon	26141	26184	.	-	.	ID=exon:TSAs00129g09113m00001.12;Parent=transcript:TSAs00129g09113m00001
+Scaffold00129	WormBase_imported	CDS	29417	29462	.	-	0	ID=cds:TSAs00129g09113m00001;Parent=transcript:TSAs00129g09113m00001
+Scaffold00129	WormBase_imported	CDS	29230	29321	.	-	2	ID=cds:TSAs00129g09113m00001;Parent=transcript:TSAs00129g09113m00001
+Scaffold00129	WormBase_imported	CDS	28907	29012	.	-	0	ID=cds:TSAs00129g09113m00001;Parent=transcript:TSAs00129g09113m00001
+Scaffold00129	WormBase_imported	CDS	28466	28597	.	-	2	ID=cds:TSAs00129g09113m00001;Parent=transcript:TSAs00129g09113m00001
+Scaffold00129	WormBase_imported	CDS	28268	28392	.	-	2	ID=cds:TSAs00129g09113m00001;Parent=transcript:TSAs00129g09113m00001
+Scaffold00129	WormBase_imported	CDS	28003	28081	.	-	0	ID=cds:TSAs00129g09113m00001;Parent=transcript:TSAs00129g09113m00001
+Scaffold00129	WormBase_imported	CDS	27645	27785	.	-	2	ID=cds:TSAs00129g09113m00001;Parent=transcript:TSAs00129g09113m00001
+Scaffold00129	WormBase_imported	CDS	27422	27451	.	-	2	ID=cds:TSAs00129g09113m00001;Parent=transcript:TSAs00129g09113m00001
+Scaffold00129	WormBase_imported	CDS	27200	27217	.	-	2	ID=cds:TSAs00129g09113m00001;Parent=transcript:TSAs00129g09113m00001
+Scaffold00129	WormBase_imported	CDS	26844	26867	.	-	2	ID=cds:TSAs00129g09113m00001;Parent=transcript:TSAs00129g09113m00001
+Scaffold00129	WormBase_imported	CDS	26497	26523	.	-	2	ID=cds:TSAs00129g09113m00001;Parent=transcript:TSAs00129g09113m00001
+Scaffold00129	WormBase_imported	CDS	26141	26184	.	-	2	ID=cds:TSAs00129g09113m00001;Parent=transcript:TSAs00129g09113m00001
+Scaffold00211	WormBase_imported	gene	90264	93741	.	-	.	ID=gene:TSAs00211g09970;Name=TSAs00211g09970;biotype=protein_coding
+Scaffold00211	WormBase_imported	mRNA	90264	93741	.	-	.	ID=transcript:TSAs00211g09970m00001;Parent=gene:TSAs00211g09970;Name=TSAs00211g09970m00001
+Scaffold00211	WormBase_imported	exon	93715	93741	.	-	.	ID=exon:TSAs00211g09970m00001.1;Parent=transcript:TSAs00211g09970m00001
+Scaffold00211	WormBase_imported	exon	93365	93470	.	-	.	ID=exon:TSAs00211g09970m00001.2;Parent=transcript:TSAs00211g09970m00001
+Scaffold00211	WormBase_imported	exon	92853	92984	.	-	.	ID=exon:TSAs00211g09970m00001.3;Parent=transcript:TSAs00211g09970m00001
+Scaffold00211	WormBase_imported	exon	92485	92588	.	-	.	ID=exon:TSAs00211g09970m00001.4;Parent=transcript:TSAs00211g09970m00001
+Scaffold00211	WormBase_imported	exon	92218	92296	.	-	.	ID=exon:TSAs00211g09970m00001.5;Parent=transcript:TSAs00211g09970m00001
+Scaffold00211	WormBase_imported	exon	91821	91961	.	-	.	ID=exon:TSAs00211g09970m00001.6;Parent=transcript:TSAs00211g09970m00001
+Scaffold00211	WormBase_imported	exon	91577	91606	.	-	.	ID=exon:TSAs00211g09970m00001.7;Parent=transcript:TSAs00211g09970m00001
+Scaffold00211	WormBase_imported	exon	90760	90777	.	-	.	ID=exon:TSAs00211g09970m00001.8;Parent=transcript:TSAs00211g09970m00001
+Scaffold00211	WormBase_imported	exon	90629	90655	.	-	.	ID=exon:TSAs00211g09970m00001.9;Parent=transcript:TSAs00211g09970m00001
+Scaffold00211	WormBase_imported	exon	90264	90304	.	-	.	ID=exon:TSAs00211g09970m00001.10;Parent=transcript:TSAs00211g09970m00001
+Scaffold00211	WormBase_imported	CDS	93715	93741	.	-	0	ID=cds:TSAs00211g09970m00001;Parent=transcript:TSAs00211g09970m00001
+Scaffold00211	WormBase_imported	CDS	93365	93470	.	-	0	ID=cds:TSAs00211g09970m00001;Parent=transcript:TSAs00211g09970m00001
+Scaffold00211	WormBase_imported	CDS	92853	92984	.	-	2	ID=cds:TSAs00211g09970m00001;Parent=transcript:TSAs00211g09970m00001
+Scaffold00211	WormBase_imported	CDS	92485	92588	.	-	2	ID=cds:TSAs00211g09970m00001;Parent=transcript:TSAs00211g09970m00001
+Scaffold00211	WormBase_imported	CDS	92218	92296	.	-	0	ID=cds:TSAs00211g09970m00001;Parent=transcript:TSAs00211g09970m00001
+Scaffold00211	WormBase_imported	CDS	91821	91961	.	-	2	ID=cds:TSAs00211g09970m00001;Parent=transcript:TSAs00211g09970m00001
+Scaffold00211	WormBase_imported	CDS	91577	91606	.	-	2	ID=cds:TSAs00211g09970m00001;Parent=transcript:TSAs00211g09970m00001
+Scaffold00211	WormBase_imported	CDS	90760	90777	.	-	2	ID=cds:TSAs00211g09970m00001;Parent=transcript:TSAs00211g09970m00001
+Scaffold00211	WormBase_imported	CDS	90629	90655	.	-	2	ID=cds:TSAs00211g09970m00001;Parent=transcript:TSAs00211g09970m00001
+Scaffold00211	WormBase_imported	CDS	90264	90304	.	-	2	ID=cds:TSAs00211g09970m00001;Parent=transcript:TSAs00211g09970m00001
+Scaffold00211	trf	tandem_repeat	440	615	231	-	.	
+Scaffold00211	dust	low_complexity_region	874	987	.	-	.	
+Scaffold00211	dust	low_complexity_region	1238	1302	.	-	.	
+Scaffold00211	dust	low_complexity_region	1340	1346	.	-	.	
+Scaffold00211	dust	low_complexity_region	1492	1780	.	-	.	
+Scaffold00211	trf	tandem_repeat	1541	1763	411	-	.	
+Scaffold00211	dust	low_complexity_region	1949	2100	.	-	.	
+Scaffold00211	trf	tandem_repeat	1949	2100	241	-	.	
+Scaffold00211	trf	tandem_repeat	2114	2141	42	-	.	
+Scaffold00211	trf	tandem_repeat	2315	2335	42	-	.	
+Scaffold00211	dust	low_complexity_region	3773	3779	.	-	.	
+Scaffold00211	dust	low_complexity_region	6161	6180	.	-	.	
+Scaffold00211	trf	tandem_repeat	6161	6180	40	-	.	
+Scaffold00211	dust	low_complexity_region	7351	7415	.	-	.	
+Scaffold00211	dust	low_complexity_region	7865	7891	.	-	.	
+Scaffold00211	dust	low_complexity_region	8140	8146	.	-	.	
+Scaffold00211	dust	low_complexity_region	8752	8758	.	-	.	
+Scaffold00211	dust	low_complexity_region	8871	8903	.	-	.	
+Scaffold00211	trf	tandem_repeat	8871	8903	66	-	.	
+Scaffold00211	dust	low_complexity_region	9030	9051	.	-	.	
+Scaffold00211	trf	tandem_repeat	9030	9051	44	-	.	
+Scaffold00211	dust	low_complexity_region	9214	9231	.	-	.	
+Scaffold00211	dust	low_complexity_region	9784	9806	.	-	.	
+Scaffold00211	dust	low_complexity_region	9842	9848	.	-	.	
+Scaffold00211	trf	tandem_repeat	10368	10492	215	-	.	
+Scaffold00211	dust	low_complexity_region	11139	11147	.	-	.	
+Scaffold00211	dust	low_complexity_region	12490	12497	.	-	.	
+Scaffold00211	dust	low_complexity_region	12904	12910	.	-	.	
+Scaffold00211	trf	tandem_repeat	13279	13679	793	-	.	
+Scaffold00211	dust	low_complexity_region	13316	13376	.	-	.	
+Scaffold00211	dust	low_complexity_region	13439	13450	.	-	.	
+Scaffold00211	dust	low_complexity_region	13517	13577	.	-	.	
+Scaffold00211	dust	low_complexity_region	13628	13702	.	-	.	
+Scaffold00211	dust	low_complexity_region	13738	13764	.	-	.	
+Scaffold00211	trf	tandem_repeat	13738	13764	47	-	.	
+Scaffold00211	dust	low_complexity_region	14021	14080	.	-	.	
+Scaffold00211	dust	low_complexity_region	14208	14244	.	-	.	
+Scaffold00211	trf	tandem_repeat	14425	14673	393	-	.	
+Scaffold00211	dust	low_complexity_region	15771	15777	.	-	.	
+Scaffold00211	dust	low_complexity_region	15989	16013	.	-	.	
+Scaffold00211	dust	low_complexity_region	16896	16910	.	-	.	
+Scaffold00211	dust	low_complexity_region	20619	20632	.	-	.	
+Scaffold00211	dust	low_complexity_region	21888	21899	.	-	.	
+Scaffold00211	dust	low_complexity_region	22422	22435	.	-	.	
+Scaffold00211	dust	low_complexity_region	22781	22787	.	-	.	
+Scaffold00211	dust	low_complexity_region	23368	23375	.	-	.	
+Scaffold00211	dust	low_complexity_region	25367	25373	.	-	.	
+Scaffold00211	trf	tandem_repeat	25584	25782	174	-	.	
+Scaffold00211	dust	low_complexity_region	27704	27713	.	-	.	
+Scaffold00211	dust	low_complexity_region	27734	27751	.	-	.	
+Scaffold00211	dust	low_complexity_region	27832	27840	.	-	.	
+Scaffold00211	dust	low_complexity_region	29804	29811	.	-	.	
+Scaffold00211	dust	low_complexity_region	29859	29873	.	-	.	
+Scaffold00211	dust	low_complexity_region	29981	30041	.	-	.	
+Scaffold00211	trf	tandem_repeat	31309	31690	755	-	.	
+Scaffold00211	dust	low_complexity_region	32874	32891	.	-	.	
+Scaffold00211	dust	low_complexity_region	34122	34130	.	-	.	
+Scaffold00211	dust	low_complexity_region	34425	34453	.	-	.	
+Scaffold00211	dust	low_complexity_region	37914	37920	.	-	.	
+Scaffold00211	dust	low_complexity_region	38955	38962	.	-	.	
+Scaffold00211	dust	low_complexity_region	42349	42355	.	-	.	
+Scaffold00211	dust	low_complexity_region	43258	43265	.	-	.	
+Scaffold00211	dust	low_complexity_region	44009	44015	.	-	.	
+Scaffold00211	dust	low_complexity_region	44018	44025	.	-	.	
+Scaffold00211	dust	low_complexity_region	44855	44863	.	-	.	
+Scaffold00211	dust	low_complexity_region	45431	45448	.	-	.	
+Scaffold00211	dust	low_complexity_region	46441	46447	.	-	.	
+Scaffold00211	dust	low_complexity_region	50006	50012	.	-	.	
+Scaffold00211	dust	low_complexity_region	50244	50250	.	-	.	
+Scaffold00211	dust	low_complexity_region	51558	51624	.	-	.	
+Scaffold00211	dust	low_complexity_region	52133	52139	.	-	.	
+Scaffold00211	dust	low_complexity_region	56843	56849	.	-	.	
+Scaffold00211	dust	low_complexity_region	57684	57705	.	-	.	
+Scaffold00211	trf	tandem_repeat	57684	57705	44	-	.	
+Scaffold00211	dust	low_complexity_region	59488	59513	.	-	.	
+Scaffold00211	trf	tandem_repeat	59488	59513	52	-	.	
+Scaffold00211	dust	low_complexity_region	60580	60586	.	-	.	
+Scaffold00211	dust	low_complexity_region	60630	60638	.	-	.	
+Scaffold00211	dust	low_complexity_region	60734	60742	.	-	.	
+Scaffold00211	dust	low_complexity_region	61940	61948	.	-	.	
+Scaffold00211	dust	low_complexity_region	61994	62001	.	-	.	
+Scaffold00211	dust	low_complexity_region	62562	62569	.	-	.	
+Scaffold00211	dust	low_complexity_region	64516	64529	.	-	.	
+Scaffold00211	dust	low_complexity_region	64660	64676	.	-	.	
+Scaffold00211	dust	low_complexity_region	64680	64797	.	-	.	
+Scaffold00211	dust	low_complexity_region	64990	65057	.	-	.	
+Scaffold00211	trf	tandem_repeat	64999	65056	65	-	.	
+Scaffold00211	dust	low_complexity_region	65767	65774	.	-	.	
+Scaffold00211	dust	low_complexity_region	65803	65809	.	-	.	
+Scaffold00211	dust	low_complexity_region	66724	66730	.	-	.	
+Scaffold00211	dust	low_complexity_region	67017	67023	.	-	.	
+Scaffold00211	dust	low_complexity_region	68578	68584	.	-	.	
+Scaffold00211	dust	low_complexity_region	71543	71549	.	-	.	
+Scaffold00211	trf	tandem_repeat	74185	74221	53	-	.	
+Scaffold00211	dust	low_complexity_region	74518	74524	.	-	.	
+Scaffold00211	dust	low_complexity_region	75674	75680	.	-	.	
+Scaffold00211	dust	low_complexity_region	81607	81613	.	-	.	
+Scaffold00211	dust	low_complexity_region	84787	84793	.	-	.	
+Scaffold00211	dust	low_complexity_region	90917	90923	.	-	.	
+Scaffold00211	trf	tandem_repeat	93983	94021	50	-	.	
+Scaffold00211	trf	tandem_repeat	97471	97559	155	-	.	
+Scaffold00211	trf	tandem_repeat	98877	99620	1453	-	.	
+Scaffold00211	trf	tandem_repeat	100406	100494	148	-	.	
+Scaffold00211	dust	low_complexity_region	112206	112224	.	-	.	
+Scaffold00211	dust	low_complexity_region	114056	114063	.	-	.	
+Scaffold00211	trf	tandem_repeat	115831	116602	1528	-	.	
+Scaffold00211	dust	low_complexity_region	116712	118250	.	-	.	
+Scaffold00211	trf	tandem_repeat	120838	120969	264	-	.	
+Scaffold00499	WormBase_imported	gene	36632	39415	.	+	.	ID=gene:TSAs00499g11451;Name=TSAs00499g11451;biotype=protein_coding
+Scaffold00499	WormBase_imported	mRNA	36632	39415	.	+	.	ID=transcript:TSAs00499g11451m00001;Parent=gene:TSAs00499g11451;Name=TSAs00499g11451m00001
+Scaffold00499	WormBase_imported	exon	36632	36680	.	+	.	ID=exon:TSAs00499g11451m00001.1;Parent=transcript:TSAs00499g11451m00001
+Scaffold00499	WormBase_imported	exon	36810	36901	.	+	.	ID=exon:TSAs00499g11451m00001.2;Parent=transcript:TSAs00499g11451m00001
+Scaffold00499	WormBase_imported	exon	37054	37159	.	+	.	ID=exon:TSAs00499g11451m00001.3;Parent=transcript:TSAs00499g11451m00001
+Scaffold00499	WormBase_imported	exon	37537	37668	.	+	.	ID=exon:TSAs00499g11451m00001.4;Parent=transcript:TSAs00499g11451m00001
+Scaffold00499	WormBase_imported	exon	37743	37846	.	+	.	ID=exon:TSAs00499g11451m00001.5;Parent=transcript:TSAs00499g11451m00001
+Scaffold00499	WormBase_imported	exon	37975	38053	.	+	.	ID=exon:TSAs00499g11451m00001.6;Parent=transcript:TSAs00499g11451m00001
+Scaffold00499	WormBase_imported	exon	38238	38378	.	+	.	ID=exon:TSAs00499g11451m00001.7;Parent=transcript:TSAs00499g11451m00001
+Scaffold00499	WormBase_imported	exon	38488	38517	.	+	.	ID=exon:TSAs00499g11451m00001.8;Parent=transcript:TSAs00499g11451m00001
+Scaffold00499	WormBase_imported	exon	38604	38621	.	+	.	ID=exon:TSAs00499g11451m00001.9;Parent=transcript:TSAs00499g11451m00001
+Scaffold00499	WormBase_imported	exon	39047	39061	.	+	.	ID=exon:TSAs00499g11451m00001.10;Parent=transcript:TSAs00499g11451m00001
+Scaffold00499	WormBase_imported	exon	39172	39198	.	+	.	ID=exon:TSAs00499g11451m00001.11;Parent=transcript:TSAs00499g11451m00001
+Scaffold00499	WormBase_imported	exon	39345	39415	.	+	.	ID=exon:TSAs00499g11451m00001.12;Parent=transcript:TSAs00499g11451m00001
+Scaffold00499	WormBase_imported	CDS	36632	36680	.	+	0	ID=cds:TSAs00499g11451m00001;Parent=transcript:TSAs00499g11451m00001
+Scaffold00499	WormBase_imported	CDS	36810	36901	.	+	2	ID=cds:TSAs00499g11451m00001;Parent=transcript:TSAs00499g11451m00001
+Scaffold00499	WormBase_imported	CDS	37054	37159	.	+	0	ID=cds:TSAs00499g11451m00001;Parent=transcript:TSAs00499g11451m00001
+Scaffold00499	WormBase_imported	CDS	37537	37668	.	+	2	ID=cds:TSAs00499g11451m00001;Parent=transcript:TSAs00499g11451m00001
+Scaffold00499	WormBase_imported	CDS	37743	37846	.	+	2	ID=cds:TSAs00499g11451m00001;Parent=transcript:TSAs00499g11451m00001
+Scaffold00499	WormBase_imported	CDS	37975	38053	.	+	0	ID=cds:TSAs00499g11451m00001;Parent=transcript:TSAs00499g11451m00001
+Scaffold00499	WormBase_imported	CDS	38238	38378	.	+	2	ID=cds:TSAs00499g11451m00001;Parent=transcript:TSAs00499g11451m00001
+Scaffold00499	WormBase_imported	CDS	38488	38517	.	+	2	ID=cds:TSAs00499g11451m00001;Parent=transcript:TSAs00499g11451m00001
+Scaffold00499	WormBase_imported	CDS	38604	38621	.	+	2	ID=cds:TSAs00499g11451m00001;Parent=transcript:TSAs00499g11451m00001
+Scaffold00499	WormBase_imported	CDS	39047	39061	.	+	2	ID=cds:TSAs00499g11451m00001;Parent=transcript:TSAs00499g11451m00001
+Scaffold00499	WormBase_imported	CDS	39172	39198	.	+	2	ID=cds:TSAs00499g11451m00001;Parent=transcript:TSAs00499g11451m00001
+Scaffold00499	WormBase_imported	CDS	39345	39415	.	+	2	ID=cds:TSAs00499g11451m00001;Parent=transcript:TSAs00499g11451m00001
+Scaffold00499	repeatmasker	repeat_region	1333	1375	184	+	.	Name=OldhAT1;repeat_class=DNA/hAT-Ac
+Scaffold00499	dust	low_complexity_region	5687	5693	.	-	.	
+Scaffold00499	trf	tandem_repeat	9619	9681	126	-	.	
+Scaffold00499	trf	tandem_repeat	9869	9922	108	-	.	
+Scaffold00499	trf	tandem_repeat	10064	10182	229	-	.	
+Scaffold00499	dust	low_complexity_region	13667	13673	.	-	.	
+Scaffold00499	trf	tandem_repeat	14283	14415	236	-	.	
+Scaffold00499	trf	tandem_repeat	14514	14583	124	-	.	
+Scaffold00499	trf	tandem_repeat	15361	15483	223	-	.	
+Scaffold00499	dust	low_complexity_region	16436	16442	.	-	.	
+Scaffold00499	dust	low_complexity_region	16551	16557	.	-	.	
+Scaffold00499	trf	tandem_repeat	20461	20716	468	-	.	
+Scaffold00499	trf	tandem_repeat	20873	20935	119	-	.	
+Scaffold00499	dust	low_complexity_region	24773	24828	.	-	.	
+Scaffold00499	dust	low_complexity_region	25198	25221	.	-	.	
+Scaffold00499	trf	tandem_repeat	25198	25221	48	-	.	
+Scaffold00499	repeatmasker	repeat_region	25706	25793	191	+	.	Name=L3;repeat_class=LINE/CR1
+Scaffold00499	dust	low_complexity_region	28298	28323	.	-	.	
+Scaffold00499	trf	tandem_repeat	28298	28323	52	-	.	
+Scaffold00499	dust	low_complexity_region	28445	28452	.	-	.	
+Scaffold00499	trf	tandem_repeat	29081	29141	122	-	.	
+Scaffold00499	trf	tandem_repeat	29845	29908	128	-	.	
+Scaffold00499	trf	tandem_repeat	30230	30359	244	-	.	
+Scaffold00499	trf	tandem_repeat	31714	31776	126	-	.	
+Scaffold00499	dust	low_complexity_region	34727	34820	.	-	.	
+Scaffold00499	dust	low_complexity_region	39497	39503	.	-	.	
+Scaffold00499	dust	low_complexity_region	42694	42700	.	-	.	
+Scaffold00499	dust	low_complexity_region	43553	44757	.	-	.	
+Scaffold00499	dust	low_complexity_region	44884	44892	.	-	.	
+Scaffold00499	dust	low_complexity_region	46625	46631	.	-	.	
+Scaffold00499	dust	low_complexity_region	46784	52062	.	-	.	

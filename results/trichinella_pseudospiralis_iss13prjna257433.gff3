@@ -1,0 +1,944 @@
+scaffold1s	WormBase_imported	gene	1049678	1051307	.	+	.	ID=gene:T4A_4407;Name=T4A_4407;biotype=protein_coding
+scaffold1s	WormBase_imported	mRNA	1049678	1051307	.	+	.	ID=transcript:T4A_4407.1;Parent=gene:T4A_4407;Name=T4A_4407.1
+scaffold1s	WormBase_imported	exon	1049678	1049707	.	+	.	ID=exon:T4A_4407.1.1;Parent=transcript:T4A_4407.1
+scaffold1s	WormBase_imported	exon	1049918	1049923	.	+	.	ID=exon:T4A_4407.1.2;Parent=transcript:T4A_4407.1
+scaffold1s	WormBase_imported	exon	1050495	1050512	.	+	.	ID=exon:T4A_4407.1.3;Parent=transcript:T4A_4407.1
+scaffold1s	WormBase_imported	exon	1050857	1050962	.	+	.	ID=exon:T4A_4407.1.4;Parent=transcript:T4A_4407.1
+scaffold1s	WormBase_imported	exon	1051276	1051307	.	+	.	ID=exon:T4A_4407.1.5;Parent=transcript:T4A_4407.1
+scaffold1s	WormBase_imported	CDS	1049678	1049707	.	+	0	ID=cds:T4A_4407.1;Parent=transcript:T4A_4407.1
+scaffold1s	WormBase_imported	CDS	1049918	1049923	.	+	0	ID=cds:T4A_4407.1;Parent=transcript:T4A_4407.1
+scaffold1s	WormBase_imported	CDS	1050495	1050512	.	+	0	ID=cds:T4A_4407.1;Parent=transcript:T4A_4407.1
+scaffold1s	WormBase_imported	CDS	1050857	1050962	.	+	0	ID=cds:T4A_4407.1;Parent=transcript:T4A_4407.1
+scaffold1s	WormBase_imported	CDS	1051276	1051307	.	+	2	ID=cds:T4A_4407.1;Parent=transcript:T4A_4407.1
+scaffold1s	WormBase_imported	gene	1905368	1906978	.	+	.	ID=gene:T4A_4599;Name=T4A_4599;biotype=protein_coding
+scaffold1s	WormBase_imported	mRNA	1905368	1906978	.	+	.	ID=transcript:T4A_4599.1;Parent=gene:T4A_4599;Name=T4A_4599.1
+scaffold1s	WormBase_imported	exon	1905368	1905378	.	+	.	ID=exon:T4A_4599.1.1;Parent=transcript:T4A_4599.1
+scaffold1s	WormBase_imported	exon	1905485	1905499	.	+	.	ID=exon:T4A_4599.1.2;Parent=transcript:T4A_4599.1
+scaffold1s	WormBase_imported	exon	1905720	1905743	.	+	.	ID=exon:T4A_4599.1.3;Parent=transcript:T4A_4599.1
+scaffold1s	WormBase_imported	exon	1905833	1905850	.	+	.	ID=exon:T4A_4599.1.4;Parent=transcript:T4A_4599.1
+scaffold1s	WormBase_imported	exon	1906580	1906604	.	+	.	ID=exon:T4A_4599.1.5;Parent=transcript:T4A_4599.1
+scaffold1s	WormBase_imported	exon	1906713	1906811	.	+	.	ID=exon:T4A_4599.1.6;Parent=transcript:T4A_4599.1
+scaffold1s	WormBase_imported	exon	1906973	1906978	.	+	.	ID=exon:T4A_4599.1.7;Parent=transcript:T4A_4599.1
+scaffold1s	WormBase_imported	CDS	1905368	1905378	.	+	0	ID=cds:T4A_4599.1;Parent=transcript:T4A_4599.1
+scaffold1s	WormBase_imported	CDS	1905485	1905499	.	+	1	ID=cds:T4A_4599.1;Parent=transcript:T4A_4599.1
+scaffold1s	WormBase_imported	CDS	1905720	1905743	.	+	1	ID=cds:T4A_4599.1;Parent=transcript:T4A_4599.1
+scaffold1s	WormBase_imported	CDS	1905833	1905850	.	+	1	ID=cds:T4A_4599.1;Parent=transcript:T4A_4599.1
+scaffold1s	WormBase_imported	CDS	1906580	1906604	.	+	1	ID=cds:T4A_4599.1;Parent=transcript:T4A_4599.1
+scaffold1s	WormBase_imported	CDS	1906713	1906811	.	+	0	ID=cds:T4A_4599.1;Parent=transcript:T4A_4599.1
+scaffold1s	WormBase_imported	CDS	1906973	1906978	.	+	0	ID=cds:T4A_4599.1;Parent=transcript:T4A_4599.1
+scaffold13s	WormBase_imported	gene	279553	280466	.	-	.	ID=gene:T4A_5759;Name=T4A_5759;biotype=protein_coding
+scaffold13s	WormBase_imported	mRNA	279553	280466	.	-	.	ID=transcript:T4A_5759.1;Parent=gene:T4A_5759;Name=T4A_5759.1
+scaffold13s	WormBase_imported	exon	280452	280466	.	-	.	ID=exon:T4A_5759.1.1;Parent=transcript:T4A_5759.1
+scaffold13s	WormBase_imported	exon	280275	280289	.	-	.	ID=exon:T4A_5759.1.2;Parent=transcript:T4A_5759.1
+scaffold13s	WormBase_imported	exon	280185	280199	.	-	.	ID=exon:T4A_5759.1.3;Parent=transcript:T4A_5759.1
+scaffold13s	WormBase_imported	exon	280095	280109	.	-	.	ID=exon:T4A_5759.1.4;Parent=transcript:T4A_5759.1
+scaffold13s	WormBase_imported	exon	280005	280019	.	-	.	ID=exon:T4A_5759.1.5;Parent=transcript:T4A_5759.1
+scaffold13s	WormBase_imported	exon	279915	279929	.	-	.	ID=exon:T4A_5759.1.6;Parent=transcript:T4A_5759.1
+scaffold13s	WormBase_imported	exon	279825	279839	.	-	.	ID=exon:T4A_5759.1.7;Parent=transcript:T4A_5759.1
+scaffold13s	WormBase_imported	exon	279688	279774	.	-	.	ID=exon:T4A_5759.1.8;Parent=transcript:T4A_5759.1
+scaffold13s	WormBase_imported	exon	279625	279676	.	-	.	ID=exon:T4A_5759.1.9;Parent=transcript:T4A_5759.1
+scaffold13s	WormBase_imported	exon	279553	279587	.	-	.	ID=exon:T4A_5759.1.10;Parent=transcript:T4A_5759.1
+scaffold13s	WormBase_imported	CDS	280452	280466	.	-	0	ID=cds:T4A_5759.1;Parent=transcript:T4A_5759.1
+scaffold13s	WormBase_imported	CDS	280275	280289	.	-	0	ID=cds:T4A_5759.1;Parent=transcript:T4A_5759.1
+scaffold13s	WormBase_imported	CDS	280185	280199	.	-	0	ID=cds:T4A_5759.1;Parent=transcript:T4A_5759.1
+scaffold13s	WormBase_imported	CDS	280095	280109	.	-	0	ID=cds:T4A_5759.1;Parent=transcript:T4A_5759.1
+scaffold13s	WormBase_imported	CDS	280005	280019	.	-	0	ID=cds:T4A_5759.1;Parent=transcript:T4A_5759.1
+scaffold13s	WormBase_imported	CDS	279915	279929	.	-	0	ID=cds:T4A_5759.1;Parent=transcript:T4A_5759.1
+scaffold13s	WormBase_imported	CDS	279825	279839	.	-	0	ID=cds:T4A_5759.1;Parent=transcript:T4A_5759.1
+scaffold13s	WormBase_imported	CDS	279688	279774	.	-	0	ID=cds:T4A_5759.1;Parent=transcript:T4A_5759.1
+scaffold13s	WormBase_imported	CDS	279625	279676	.	-	0	ID=cds:T4A_5759.1;Parent=transcript:T4A_5759.1
+scaffold13s	WormBase_imported	CDS	279553	279587	.	-	2	ID=cds:T4A_5759.1;Parent=transcript:T4A_5759.1
+scaffold57s	WormBase_imported	gene	152	932	.	-	.	ID=gene:T4A_5054;Name=T4A_5054;biotype=protein_coding
+scaffold57s	WormBase_imported	mRNA	152	932	.	-	.	ID=transcript:T4A_5054.1;Parent=gene:T4A_5054;Name=T4A_5054.1
+scaffold57s	WormBase_imported	exon	915	932	.	-	.	ID=exon:T4A_5054.1.1;Parent=transcript:T4A_5054.1
+scaffold57s	WormBase_imported	exon	850	879	.	-	.	ID=exon:T4A_5054.1.2;Parent=transcript:T4A_5054.1
+scaffold57s	WormBase_imported	exon	645	671	.	-	.	ID=exon:T4A_5054.1.3;Parent=transcript:T4A_5054.1
+scaffold57s	WormBase_imported	exon	492	530	.	-	.	ID=exon:T4A_5054.1.4;Parent=transcript:T4A_5054.1
+scaffold57s	WormBase_imported	exon	385	438	.	-	.	ID=exon:T4A_5054.1.5;Parent=transcript:T4A_5054.1
+scaffold57s	WormBase_imported	exon	152	172	.	-	.	ID=exon:T4A_5054.1.6;Parent=transcript:T4A_5054.1
+scaffold57s	WormBase_imported	CDS	915	932	.	-	0	ID=cds:T4A_5054.1;Parent=transcript:T4A_5054.1
+scaffold57s	WormBase_imported	CDS	850	879	.	-	0	ID=cds:T4A_5054.1;Parent=transcript:T4A_5054.1
+scaffold57s	WormBase_imported	CDS	645	671	.	-	0	ID=cds:T4A_5054.1;Parent=transcript:T4A_5054.1
+scaffold57s	WormBase_imported	CDS	492	530	.	-	0	ID=cds:T4A_5054.1;Parent=transcript:T4A_5054.1
+scaffold57s	WormBase_imported	CDS	385	438	.	-	0	ID=cds:T4A_5054.1;Parent=transcript:T4A_5054.1
+scaffold57s	WormBase_imported	CDS	152	172	.	-	0	ID=cds:T4A_5054.1;Parent=transcript:T4A_5054.1
+scaffold113s	WormBase_imported	gene	134234	135014	.	+	.	ID=gene:T4A_13791;Name=T4A_13791;biotype=protein_coding
+scaffold113s	WormBase_imported	mRNA	134234	135014	.	+	.	ID=transcript:T4A_13791.1;Parent=gene:T4A_13791;Name=T4A_13791.1
+scaffold113s	WormBase_imported	exon	134234	134251	.	+	.	ID=exon:T4A_13791.1.1;Parent=transcript:T4A_13791.1
+scaffold113s	WormBase_imported	exon	134287	134316	.	+	.	ID=exon:T4A_13791.1.2;Parent=transcript:T4A_13791.1
+scaffold113s	WormBase_imported	exon	134495	134521	.	+	.	ID=exon:T4A_13791.1.3;Parent=transcript:T4A_13791.1
+scaffold113s	WormBase_imported	exon	134636	134674	.	+	.	ID=exon:T4A_13791.1.4;Parent=transcript:T4A_13791.1
+scaffold113s	WormBase_imported	exon	134728	134781	.	+	.	ID=exon:T4A_13791.1.5;Parent=transcript:T4A_13791.1
+scaffold113s	WormBase_imported	exon	134994	135014	.	+	.	ID=exon:T4A_13791.1.6;Parent=transcript:T4A_13791.1
+scaffold113s	WormBase_imported	CDS	134234	134251	.	+	0	ID=cds:T4A_13791.1;Parent=transcript:T4A_13791.1
+scaffold113s	WormBase_imported	CDS	134287	134316	.	+	0	ID=cds:T4A_13791.1;Parent=transcript:T4A_13791.1
+scaffold113s	WormBase_imported	CDS	134495	134521	.	+	0	ID=cds:T4A_13791.1;Parent=transcript:T4A_13791.1
+scaffold113s	WormBase_imported	CDS	134636	134674	.	+	0	ID=cds:T4A_13791.1;Parent=transcript:T4A_13791.1
+scaffold113s	WormBase_imported	CDS	134728	134781	.	+	0	ID=cds:T4A_13791.1;Parent=transcript:T4A_13791.1
+scaffold113s	WormBase_imported	CDS	134994	135014	.	+	0	ID=cds:T4A_13791.1;Parent=transcript:T4A_13791.1
+scaffold113s	cmscan_rfam_12.2	nucleotide_match	91193	91271	37.8	+	.	ID=cmscan_rfam_12.2.146;Name=SNORD53_SNORD92;Target=SNORD53_SNORD92 1 78;Gap=M4 D2 M11 I3 M24 I2 M18 D2 M17 
+scaffold113s	dust	low_complexity_region	905	974	.	-	.	
+scaffold113s	dust	low_complexity_region	2554	2563	.	-	.	
+scaffold113s	dust	low_complexity_region	2643	2649	.	-	.	
+scaffold113s	dust	low_complexity_region	2977	3048	.	-	.	
+scaffold113s	dust	low_complexity_region	3067	3169	.	-	.	
+scaffold113s	dust	low_complexity_region	3198	3205	.	-	.	
+scaffold113s	dust	low_complexity_region	3227	3300	.	-	.	
+scaffold113s	dust	low_complexity_region	3872	3878	.	-	.	
+scaffold113s	dust	low_complexity_region	4105	4123	.	-	.	
+scaffold113s	dust	low_complexity_region	4619	4628	.	-	.	
+scaffold113s	dust	low_complexity_region	5099	5105	.	-	.	
+scaffold113s	dust	low_complexity_region	5272	5279	.	-	.	
+scaffold113s	dust	low_complexity_region	5398	5420	.	-	.	
+scaffold113s	dust	low_complexity_region	5533	5541	.	-	.	
+scaffold113s	dust	low_complexity_region	7353	7438	.	-	.	
+scaffold113s	dust	low_complexity_region	7473	7480	.	-	.	
+scaffold113s	dust	low_complexity_region	8361	8368	.	-	.	
+scaffold113s	dust	low_complexity_region	8476	8484	.	-	.	
+scaffold113s	dust	low_complexity_region	9419	9425	.	-	.	
+scaffold113s	dust	low_complexity_region	9468	9480	.	-	.	
+scaffold113s	dust	low_complexity_region	9656	9664	.	-	.	
+scaffold113s	dust	low_complexity_region	9993	10064	.	-	.	
+scaffold113s	dust	low_complexity_region	10088	10094	.	-	.	
+scaffold113s	dust	low_complexity_region	10111	10139	.	-	.	
+scaffold113s	dust	low_complexity_region	10383	10399	.	-	.	
+scaffold113s	dust	low_complexity_region	10571	10635	.	-	.	
+scaffold113s	dust	low_complexity_region	10859	10867	.	-	.	
+scaffold113s	dust	low_complexity_region	10904	11002	.	-	.	
+scaffold113s	dust	low_complexity_region	11271	11346	.	-	.	
+scaffold113s	dust	low_complexity_region	11774	11842	.	-	.	
+scaffold113s	dust	low_complexity_region	12137	12145	.	-	.	
+scaffold113s	dust	low_complexity_region	12368	12431	.	-	.	
+scaffold113s	dust	low_complexity_region	12563	12569	.	-	.	
+scaffold113s	dust	low_complexity_region	12797	12803	.	-	.	
+scaffold113s	dust	low_complexity_region	13401	13409	.	-	.	
+scaffold113s	dust	low_complexity_region	14542	14607	.	-	.	
+scaffold113s	dust	low_complexity_region	15649	15665	.	-	.	
+scaffold113s	dust	low_complexity_region	15678	15684	.	-	.	
+scaffold113s	dust	low_complexity_region	15821	15828	.	-	.	
+scaffold113s	dust	low_complexity_region	16801	16808	.	-	.	
+scaffold113s	dust	low_complexity_region	17363	17369	.	-	.	
+scaffold113s	dust	low_complexity_region	17560	17574	.	-	.	
+scaffold113s	dust	low_complexity_region	17733	17739	.	-	.	
+scaffold113s	dust	low_complexity_region	18006	18028	.	-	.	
+scaffold113s	dust	low_complexity_region	18044	18050	.	-	.	
+scaffold113s	dust	low_complexity_region	18195	18235	.	-	.	
+scaffold113s	dust	low_complexity_region	21280	21362	.	-	.	
+scaffold113s	dust	low_complexity_region	21405	21461	.	-	.	
+scaffold113s	dust	low_complexity_region	22030	22090	.	-	.	
+scaffold113s	dust	low_complexity_region	22239	22247	.	-	.	
+scaffold113s	dust	low_complexity_region	22610	22617	.	-	.	
+scaffold113s	dust	low_complexity_region	22866	22878	.	-	.	
+scaffold113s	dust	low_complexity_region	22901	22908	.	-	.	
+scaffold113s	trf	tandem_repeat	23177	23205	58	-	.	
+scaffold113s	dust	low_complexity_region	23206	23212	.	-	.	
+scaffold113s	dust	low_complexity_region	23747	23755	.	-	.	
+scaffold113s	dust	low_complexity_region	23860	23880	.	-	.	
+scaffold113s	dust	low_complexity_region	23945	23952	.	-	.	
+scaffold113s	dust	low_complexity_region	24004	24018	.	-	.	
+scaffold113s	dust	low_complexity_region	24103	24109	.	-	.	
+scaffold113s	dust	low_complexity_region	24722	24768	.	-	.	
+scaffold113s	dust	low_complexity_region	24920	24948	.	-	.	
+scaffold113s	dust	low_complexity_region	25033	25039	.	-	.	
+scaffold113s	dust	low_complexity_region	25153	25228	.	-	.	
+scaffold113s	dust	low_complexity_region	25252	25264	.	-	.	
+scaffold113s	dust	low_complexity_region	25870	25876	.	-	.	
+scaffold113s	dust	low_complexity_region	25887	25953	.	-	.	
+scaffold113s	dust	low_complexity_region	25988	26075	.	-	.	
+scaffold113s	dust	low_complexity_region	26329	26340	.	-	.	
+scaffold113s	dust	low_complexity_region	27182	27198	.	-	.	
+scaffold113s	dust	low_complexity_region	28296	28302	.	-	.	
+scaffold113s	dust	low_complexity_region	29275	29282	.	-	.	
+scaffold113s	dust	low_complexity_region	29629	29635	.	-	.	
+scaffold113s	dust	low_complexity_region	31497	31551	.	-	.	
+scaffold113s	dust	low_complexity_region	31736	31763	.	-	.	
+scaffold113s	trf	tandem_repeat	31985	32028	60	-	.	
+scaffold113s	dust	low_complexity_region	31985	32030	.	-	.	
+scaffold113s	dust	low_complexity_region	32065	32073	.	-	.	
+scaffold113s	dust	low_complexity_region	33059	33066	.	-	.	
+scaffold113s	trf	tandem_repeat	33357	33380	48	-	.	
+scaffold113s	dust	low_complexity_region	33357	33380	.	-	.	
+scaffold113s	dust	low_complexity_region	33434	33499	.	-	.	
+scaffold113s	dust	low_complexity_region	33895	33902	.	-	.	
+scaffold113s	dust	low_complexity_region	34044	34050	.	-	.	
+scaffold113s	dust	low_complexity_region	35289	35399	.	-	.	
+scaffold113s	trf	tandem_repeat	35325	35363	50	-	.	
+scaffold113s	dust	low_complexity_region	35512	35579	.	-	.	
+scaffold113s	dust	low_complexity_region	35737	35743	.	-	.	
+scaffold113s	dust	low_complexity_region	35799	35805	.	-	.	
+scaffold113s	dust	low_complexity_region	35832	35838	.	-	.	
+scaffold113s	dust	low_complexity_region	35928	35934	.	-	.	
+scaffold113s	dust	low_complexity_region	36280	36287	.	-	.	
+scaffold113s	dust	low_complexity_region	36687	36752	.	-	.	
+scaffold113s	dust	low_complexity_region	37013	37019	.	-	.	
+scaffold113s	trf	tandem_repeat	37167	37247	107	-	.	
+scaffold113s	dust	low_complexity_region	37708	37759	.	-	.	
+scaffold113s	dust	low_complexity_region	38203	38209	.	-	.	
+scaffold113s	dust	low_complexity_region	38798	38806	.	-	.	
+scaffold113s	dust	low_complexity_region	38891	38897	.	-	.	
+scaffold113s	dust	low_complexity_region	39093	39105	.	-	.	
+scaffold113s	dust	low_complexity_region	39330	39439	.	-	.	
+scaffold113s	dust	low_complexity_region	39907	39913	.	-	.	
+scaffold113s	dust	low_complexity_region	40052	40117	.	-	.	
+scaffold113s	dust	low_complexity_region	40653	40659	.	-	.	
+scaffold113s	trf	tandem_repeat	40784	40808	50	-	.	
+scaffold113s	dust	low_complexity_region	40784	40808	.	-	.	
+scaffold113s	dust	low_complexity_region	40850	40885	.	-	.	
+scaffold113s	dust	low_complexity_region	41082	41090	.	-	.	
+scaffold113s	dust	low_complexity_region	41735	41741	.	-	.	
+scaffold113s	dust	low_complexity_region	41827	41833	.	-	.	
+scaffold113s	dust	low_complexity_region	41987	41993	.	-	.	
+scaffold113s	dust	low_complexity_region	42083	42097	.	-	.	
+scaffold113s	dust	low_complexity_region	42901	42932	.	-	.	
+scaffold113s	dust	low_complexity_region	43549	43555	.	-	.	
+scaffold113s	dust	low_complexity_region	44474	44483	.	-	.	
+scaffold113s	dust	low_complexity_region	45411	45421	.	-	.	
+scaffold113s	dust	low_complexity_region	45863	45892	.	-	.	
+scaffold113s	dust	low_complexity_region	45945	45951	.	-	.	
+scaffold113s	dust	low_complexity_region	46091	46099	.	-	.	
+scaffold113s	dust	low_complexity_region	46481	46534	.	-	.	
+scaffold113s	dust	low_complexity_region	46616	46706	.	-	.	
+scaffold113s	trf	tandem_repeat	46658	46701	65	-	.	
+scaffold113s	dust	low_complexity_region	46917	46926	.	-	.	
+scaffold113s	dust	low_complexity_region	47906	47912	.	-	.	
+scaffold113s	dust	low_complexity_region	48034	48066	.	-	.	
+scaffold113s	dust	low_complexity_region	48135	48142	.	-	.	
+scaffold113s	dust	low_complexity_region	48167	48173	.	-	.	
+scaffold113s	dust	low_complexity_region	48243	48250	.	-	.	
+scaffold113s	dust	low_complexity_region	48395	48409	.	-	.	
+scaffold113s	dust	low_complexity_region	48435	48500	.	-	.	
+scaffold113s	dust	low_complexity_region	49714	49773	.	-	.	
+scaffold113s	dust	low_complexity_region	51269	51403	.	-	.	
+scaffold113s	dust	low_complexity_region	51699	51750	.	-	.	
+scaffold113s	dust	low_complexity_region	51777	51783	.	-	.	
+scaffold113s	dust	low_complexity_region	52144	52198	.	-	.	
+scaffold113s	dust	low_complexity_region	52402	52417	.	-	.	
+scaffold113s	dust	low_complexity_region	52632	52641	.	-	.	
+scaffold113s	trf	tandem_repeat	52652	52679	56	-	.	
+scaffold113s	dust	low_complexity_region	52684	52690	.	-	.	
+scaffold113s	dust	low_complexity_region	53345	53411	.	-	.	
+scaffold113s	dust	low_complexity_region	53605	53611	.	-	.	
+scaffold113s	trf	tandem_repeat	54092	54112	42	-	.	
+scaffold113s	dust	low_complexity_region	54092	54112	.	-	.	
+scaffold113s	dust	low_complexity_region	54179	54185	.	-	.	
+scaffold113s	dust	low_complexity_region	54204	54215	.	-	.	
+scaffold113s	dust	low_complexity_region	54268	54393	.	-	.	
+scaffold113s	dust	low_complexity_region	54458	54509	.	-	.	
+scaffold113s	dust	low_complexity_region	54688	54737	.	-	.	
+scaffold113s	dust	low_complexity_region	54926	55013	.	-	.	
+scaffold113s	trf	tandem_repeat	54936	54967	43	-	.	
+scaffold113s	dust	low_complexity_region	55510	55516	.	-	.	
+scaffold113s	dust	low_complexity_region	55604	55611	.	-	.	
+scaffold113s	dust	low_complexity_region	56546	56611	.	-	.	
+scaffold113s	dust	low_complexity_region	56648	56655	.	-	.	
+scaffold113s	dust	low_complexity_region	56741	56747	.	-	.	
+scaffold113s	dust	low_complexity_region	56818	56826	.	-	.	
+scaffold113s	dust	low_complexity_region	57038	57155	.	-	.	
+scaffold113s	trf	tandem_repeat	57044	57102	72	-	.	
+scaffold113s	dust	low_complexity_region	57514	57520	.	-	.	
+scaffold113s	dust	low_complexity_region	57729	57735	.	-	.	
+scaffold113s	dust	low_complexity_region	57760	57769	.	-	.	
+scaffold113s	dust	low_complexity_region	57783	57789	.	-	.	
+scaffold113s	dust	low_complexity_region	57880	57930	.	-	.	
+scaffold113s	dust	low_complexity_region	57944	58004	.	-	.	
+scaffold113s	dust	low_complexity_region	58761	58831	.	-	.	
+scaffold113s	dust	low_complexity_region	59572	59639	.	-	.	
+scaffold113s	dust	low_complexity_region	60414	60453	.	-	.	
+scaffold113s	dust	low_complexity_region	60501	60507	.	-	.	
+scaffold113s	dust	low_complexity_region	60555	60604	.	-	.	
+scaffold113s	dust	low_complexity_region	60911	60918	.	-	.	
+scaffold113s	dust	low_complexity_region	61208	61266	.	-	.	
+scaffold113s	dust	low_complexity_region	62377	62440	.	-	.	
+scaffold113s	dust	low_complexity_region	62471	62552	.	-	.	
+scaffold113s	dust	low_complexity_region	62576	62663	.	-	.	
+scaffold113s	dust	low_complexity_region	63220	63344	.	-	.	
+scaffold113s	dust	low_complexity_region	63522	63529	.	-	.	
+scaffold113s	dust	low_complexity_region	63994	64002	.	-	.	
+scaffold113s	trf	tandem_repeat	63998	64029	50	-	.	
+scaffold113s	dust	low_complexity_region	64350	64364	.	-	.	
+scaffold113s	dust	low_complexity_region	64880	64888	.	-	.	
+scaffold113s	trf	tandem_repeat	65021	65042	44	-	.	
+scaffold113s	dust	low_complexity_region	65021	65042	.	-	.	
+scaffold113s	dust	low_complexity_region	65784	65795	.	-	.	
+scaffold113s	dust	low_complexity_region	66171	66201	.	-	.	
+scaffold113s	trf	tandem_repeat	66174	66201	56	-	.	
+scaffold113s	dust	low_complexity_region	66832	66851	.	-	.	
+scaffold113s	dust	low_complexity_region	66892	66951	.	-	.	
+scaffold113s	dust	low_complexity_region	67097	67104	.	-	.	
+scaffold113s	dust	low_complexity_region	67322	67328	.	-	.	
+scaffold113s	dust	low_complexity_region	67429	67435	.	-	.	
+scaffold113s	dust	low_complexity_region	67619	67646	.	-	.	
+scaffold113s	trf	tandem_repeat	67621	67646	52	-	.	
+scaffold113s	trf	tandem_repeat	67702	67732	48	-	.	
+scaffold113s	dust	low_complexity_region	67702	67724	.	-	.	
+scaffold113s	dust	low_complexity_region	67859	67865	.	-	.	
+scaffold113s	dust	low_complexity_region	68272	68290	.	-	.	
+scaffold113s	dust	low_complexity_region	68471	68477	.	-	.	
+scaffold113s	dust	low_complexity_region	68570	68576	.	-	.	
+scaffold113s	dust	low_complexity_region	68846	69007	.	-	.	
+scaffold113s	trf	tandem_repeat	68849	68911	63	-	.	
+scaffold113s	trf	tandem_repeat	68914	68974	94	-	.	
+scaffold113s	dust	low_complexity_region	69021	69028	.	-	.	
+scaffold113s	trf	tandem_repeat	69255	69282	56	-	.	
+scaffold113s	dust	low_complexity_region	69255	69282	.	-	.	
+scaffold113s	dust	low_complexity_region	69296	69312	.	-	.	
+scaffold113s	dust	low_complexity_region	69324	69362	.	-	.	
+scaffold113s	dust	low_complexity_region	69481	69488	.	-	.	
+scaffold113s	dust	low_complexity_region	69595	69601	.	-	.	
+scaffold113s	dust	low_complexity_region	70054	70060	.	-	.	
+scaffold113s	dust	low_complexity_region	70247	70258	.	-	.	
+scaffold113s	dust	low_complexity_region	70571	70640	.	-	.	
+scaffold113s	trf	tandem_repeat	70618	70640	46	-	.	
+scaffold113s	dust	low_complexity_region	70676	70683	.	-	.	
+scaffold113s	dust	low_complexity_region	70835	70841	.	-	.	
+scaffold113s	dust	low_complexity_region	71064	71072	.	-	.	
+scaffold113s	dust	low_complexity_region	71413	71420	.	-	.	
+scaffold113s	dust	low_complexity_region	71463	71469	.	-	.	
+scaffold113s	dust	low_complexity_region	71944	71951	.	-	.	
+scaffold113s	dust	low_complexity_region	72028	72108	.	-	.	
+scaffold113s	dust	low_complexity_region	72218	72243	.	-	.	
+scaffold113s	trf	tandem_repeat	72608	72628	42	-	.	
+scaffold113s	dust	low_complexity_region	72608	72631	.	-	.	
+scaffold113s	dust	low_complexity_region	72705	72713	.	-	.	
+scaffold113s	dust	low_complexity_region	73163	73170	.	-	.	
+scaffold113s	dust	low_complexity_region	73199	73205	.	-	.	
+scaffold113s	dust	low_complexity_region	73465	73471	.	-	.	
+scaffold113s	dust	low_complexity_region	73656	73669	.	-	.	
+scaffold113s	trf	tandem_repeat	73925	73944	40	-	.	
+scaffold113s	dust	low_complexity_region	73925	73944	.	-	.	
+scaffold113s	dust	low_complexity_region	74078	74140	.	-	.	
+scaffold113s	trf	tandem_repeat	74114	74138	43	-	.	
+scaffold113s	dust	low_complexity_region	74377	74384	.	-	.	
+scaffold113s	dust	low_complexity_region	74628	74635	.	-	.	
+scaffold113s	dust	low_complexity_region	74917	74923	.	-	.	
+scaffold113s	dust	low_complexity_region	74949	74958	.	-	.	
+scaffold113s	dust	low_complexity_region	74978	74986	.	-	.	
+scaffold113s	dust	low_complexity_region	75178	75220	.	-	.	
+scaffold113s	dust	low_complexity_region	75374	75406	.	-	.	
+scaffold113s	dust	low_complexity_region	75557	75563	.	-	.	
+scaffold113s	trf	tandem_repeat	75983	76002	40	-	.	
+scaffold113s	dust	low_complexity_region	75983	76002	.	-	.	
+scaffold113s	dust	low_complexity_region	76438	76452	.	-	.	
+scaffold113s	dust	low_complexity_region	76623	76629	.	-	.	
+scaffold113s	dust	low_complexity_region	76820	76826	.	-	.	
+scaffold113s	dust	low_complexity_region	76884	76890	.	-	.	
+scaffold113s	dust	low_complexity_region	76919	76927	.	-	.	
+scaffold113s	dust	low_complexity_region	76992	76999	.	-	.	
+scaffold113s	dust	low_complexity_region	77239	77246	.	-	.	
+scaffold113s	dust	low_complexity_region	77293	77301	.	-	.	
+scaffold113s	trf	tandem_repeat	77462	77484	46	-	.	
+scaffold113s	dust	low_complexity_region	77462	77501	.	-	.	
+scaffold113s	dust	low_complexity_region	77668	77686	.	-	.	
+scaffold113s	dust	low_complexity_region	77689	77716	.	-	.	
+scaffold113s	dust	low_complexity_region	77760	77774	.	-	.	
+scaffold113s	trf	tandem_repeat	78270	78293	41	-	.	
+scaffold113s	dust	low_complexity_region	78270	78312	.	-	.	
+scaffold113s	dust	low_complexity_region	78334	78381	.	-	.	
+scaffold113s	dust	low_complexity_region	78420	78454	.	-	.	
+scaffold113s	dust	low_complexity_region	78520	78567	.	-	.	
+scaffold113s	dust	low_complexity_region	78766	78774	.	-	.	
+scaffold113s	dust	low_complexity_region	79910	79929	.	-	.	
+scaffold113s	dust	low_complexity_region	80075	80103	.	-	.	
+scaffold113s	dust	low_complexity_region	80117	80198	.	-	.	
+scaffold113s	trf	tandem_repeat	80165	80189	43	-	.	
+scaffold113s	dust	low_complexity_region	80227	80335	.	-	.	
+scaffold113s	trf	tandem_repeat	80290	80335	78	-	.	
+scaffold113s	trf	tandem_repeat	80559	80626	94	-	.	
+scaffold113s	dust	low_complexity_region	80559	80726	.	-	.	
+scaffold113s	dust	low_complexity_region	80916	80981	.	-	.	
+scaffold113s	trf	tandem_repeat	81014	81050	60	-	.	
+scaffold113s	dust	low_complexity_region	81014	81050	.	-	.	
+scaffold113s	trf	tandem_repeat	81172	81200	51	-	.	
+scaffold113s	dust	low_complexity_region	81172	81196	.	-	.	
+scaffold113s	dust	low_complexity_region	81255	81270	.	-	.	
+scaffold113s	dust	low_complexity_region	81668	81677	.	-	.	
+scaffold113s	dust	low_complexity_region	81794	81839	.	-	.	
+scaffold113s	dust	low_complexity_region	81989	82058	.	-	.	
+scaffold113s	dust	low_complexity_region	82344	82431	.	-	.	
+scaffold113s	trf	tandem_repeat	82362	82388	54	-	.	
+scaffold113s	trf	tandem_repeat	82384	82417	47	-	.	
+scaffold113s	trf	tandem_repeat	82384	82430	64	-	.	
+scaffold113s	trf	tandem_repeat	82387	82420	40	-	.	
+scaffold113s	dust	low_complexity_region	82613	82621	.	-	.	
+scaffold113s	trf	tandem_repeat	82954	82980	54	-	.	
+scaffold113s	dust	low_complexity_region	82954	82980	.	-	.	
+scaffold113s	dust	low_complexity_region	83075	83093	.	-	.	
+scaffold113s	dust	low_complexity_region	83170	83176	.	-	.	
+scaffold113s	dust	low_complexity_region	83227	83243	.	-	.	
+scaffold113s	trf	tandem_repeat	83496	83523	49	-	.	
+scaffold113s	dust	low_complexity_region	83501	83523	.	-	.	
+scaffold113s	dust	low_complexity_region	83675	83721	.	-	.	
+scaffold113s	trf	tandem_repeat	83684	83721	69	-	.	
+scaffold113s	dust	low_complexity_region	83731	83789	.	-	.	
+scaffold113s	dust	low_complexity_region	83871	83878	.	-	.	
+scaffold113s	trf	tandem_repeat	83936	83956	42	-	.	
+scaffold113s	dust	low_complexity_region	83936	83963	.	-	.	
+scaffold113s	trf	tandem_repeat	84095	84119	50	-	.	
+scaffold113s	dust	low_complexity_region	84095	84129	.	-	.	
+scaffold113s	trf	tandem_repeat	84125	84157	52	-	.	
+scaffold113s	dust	low_complexity_region	84141	84203	.	-	.	
+scaffold113s	trf	tandem_repeat	84701	84760	120	-	.	
+scaffold113s	dust	low_complexity_region	84701	84760	.	-	.	
+scaffold113s	dust	low_complexity_region	85211	85250	.	-	.	
+scaffold113s	dust	low_complexity_region	85472	85526	.	-	.	
+scaffold113s	trf	tandem_repeat	85483	85515	45	-	.	
+scaffold113s	dust	low_complexity_region	85561	85653	.	-	.	
+scaffold113s	dust	low_complexity_region	85963	85973	.	-	.	
+scaffold113s	dust	low_complexity_region	86068	86158	.	-	.	
+scaffold113s	trf	tandem_repeat	86111	86131	42	-	.	
+scaffold113s	dust	low_complexity_region	86252	86446	.	-	.	
+scaffold113s	dust	low_complexity_region	86552	86560	.	-	.	
+scaffold113s	dust	low_complexity_region	86689	86700	.	-	.	
+scaffold113s	trf	tandem_repeat	87149	87181	59	-	.	
+scaffold113s	dust	low_complexity_region	87149	87197	.	-	.	
+scaffold113s	dust	low_complexity_region	88546	88555	.	-	.	
+scaffold113s	dust	low_complexity_region	89341	89357	.	-	.	
+scaffold113s	dust	low_complexity_region	89434	89494	.	-	.	
+scaffold113s	trf	tandem_repeat	89802	89828	40	-	.	
+scaffold113s	dust	low_complexity_region	89802	89828	.	-	.	
+scaffold113s	dust	low_complexity_region	89957	89965	.	-	.	
+scaffold113s	dust	low_complexity_region	89968	89974	.	-	.	
+scaffold113s	dust	low_complexity_region	90120	90128	.	-	.	
+scaffold113s	dust	low_complexity_region	90285	90291	.	-	.	
+scaffold113s	dust	low_complexity_region	90453	90574	.	-	.	
+scaffold113s	trf	tandem_repeat	90454	90492	69	-	.	
+scaffold113s	trf	tandem_repeat	90769	90801	45	-	.	
+scaffold113s	dust	low_complexity_region	90769	90801	.	-	.	
+scaffold113s	dust	low_complexity_region	90999	91060	.	-	.	
+scaffold113s	dust	low_complexity_region	91143	91208	.	-	.	
+scaffold113s	trf	tandem_repeat	91154	91191	48	-	.	
+scaffold113s	dust	low_complexity_region	91292	91300	.	-	.	
+scaffold113s	dust	low_complexity_region	91478	91552	.	-	.	
+scaffold113s	dust	low_complexity_region	91706	91715	.	-	.	
+scaffold113s	dust	low_complexity_region	92119	92125	.	-	.	
+scaffold113s	dust	low_complexity_region	92237	92261	.	-	.	
+scaffold113s	dust	low_complexity_region	92387	92461	.	-	.	
+scaffold113s	trf	tandem_repeat	92399	92458	64	-	.	
+scaffold113s	trf	tandem_repeat	92407	92458	62	-	.	
+scaffold113s	trf	tandem_repeat	92407	92458	41	-	.	
+scaffold113s	dust	low_complexity_region	92612	92670	.	-	.	
+scaffold113s	dust	low_complexity_region	92789	92797	.	-	.	
+scaffold113s	dust	low_complexity_region	92870	92882	.	-	.	
+scaffold113s	dust	low_complexity_region	92901	92908	.	-	.	
+scaffold113s	dust	low_complexity_region	92988	93030	.	-	.	
+scaffold113s	dust	low_complexity_region	93097	93193	.	-	.	
+scaffold113s	dust	low_complexity_region	93249	93255	.	-	.	
+scaffold113s	dust	low_complexity_region	93413	93423	.	-	.	
+scaffold113s	dust	low_complexity_region	93484	93535	.	-	.	
+scaffold113s	dust	low_complexity_region	93553	93583	.	-	.	
+scaffold113s	trf	tandem_repeat	93877	93918	56	-	.	
+scaffold113s	dust	low_complexity_region	93877	93949	.	-	.	
+scaffold113s	trf	tandem_repeat	93918	93945	49	-	.	
+scaffold113s	trf	tandem_repeat	93918	93945	42	-	.	
+scaffold113s	dust	low_complexity_region	94056	94072	.	-	.	
+scaffold113s	dust	low_complexity_region	94220	94276	.	-	.	
+scaffold113s	trf	tandem_repeat	94238	94276	50	-	.	
+scaffold113s	dust	low_complexity_region	94307	94368	.	-	.	
+scaffold113s	trf	tandem_repeat	94410	94433	48	-	.	
+scaffold113s	dust	low_complexity_region	94410	94433	.	-	.	
+scaffold113s	trf	tandem_repeat	94450	94475	45	-	.	
+scaffold113s	dust	low_complexity_region	94450	94567	.	-	.	
+scaffold113s	trf	tandem_repeat	94508	94567	64	-	.	
+scaffold113s	trf	tandem_repeat	94508	94567	57	-	.	
+scaffold113s	dust	low_complexity_region	94577	94584	.	-	.	
+scaffold113s	trf	tandem_repeat	94904	94932	58	-	.	
+scaffold113s	dust	low_complexity_region	94904	94932	.	-	.	
+scaffold113s	dust	low_complexity_region	95002	95052	.	-	.	
+scaffold113s	dust	low_complexity_region	95240	95435	.	-	.	
+scaffold113s	trf	tandem_repeat	95329	95353	50	-	.	
+scaffold113s	dust	low_complexity_region	95845	95854	.	-	.	
+scaffold113s	dust	low_complexity_region	95999	96015	.	-	.	
+scaffold113s	trf	tandem_repeat	96056	96089	54	-	.	
+scaffold113s	dust	low_complexity_region	96064	96141	.	-	.	
+scaffold113s	dust	low_complexity_region	96244	96302	.	-	.	
+scaffold113s	trf	tandem_repeat	96381	96414	68	-	.	
+scaffold113s	dust	low_complexity_region	96381	96414	.	-	.	
+scaffold113s	dust	low_complexity_region	96828	96836	.	-	.	
+scaffold113s	dust	low_complexity_region	96864	96876	.	-	.	
+scaffold113s	trf	tandem_repeat	97131	97154	41	-	.	
+scaffold113s	dust	low_complexity_region	97135	97151	.	-	.	
+scaffold113s	dust	low_complexity_region	97210	97227	.	-	.	
+scaffold113s	dust	low_complexity_region	97266	97290	.	-	.	
+scaffold113s	dust	low_complexity_region	97769	97781	.	-	.	
+scaffold113s	dust	low_complexity_region	97994	98010	.	-	.	
+scaffold113s	dust	low_complexity_region	98425	98497	.	-	.	
+scaffold113s	dust	low_complexity_region	98540	98546	.	-	.	
+scaffold113s	dust	low_complexity_region	98587	98594	.	-	.	
+scaffold113s	trf	tandem_repeat	98607	98630	41	-	.	
+scaffold113s	dust	low_complexity_region	98607	98687	.	-	.	
+scaffold113s	dust	low_complexity_region	98775	98796	.	-	.	
+scaffold113s	dust	low_complexity_region	98938	98972	.	-	.	
+scaffold113s	trf	tandem_repeat	98940	98968	44	-	.	
+scaffold113s	dust	low_complexity_region	99000	99063	.	-	.	
+scaffold113s	trf	tandem_repeat	99003	99035	52	-	.	
+scaffold113s	dust	low_complexity_region	99065	99108	.	-	.	
+scaffold113s	trf	tandem_repeat	99110	99135	52	-	.	
+scaffold113s	dust	low_complexity_region	99194	99266	.	-	.	
+scaffold113s	dust	low_complexity_region	99480	99490	.	-	.	
+scaffold113s	dust	low_complexity_region	99536	99554	.	-	.	
+scaffold113s	trf	tandem_repeat	99763	99786	41	-	.	
+scaffold113s	dust	low_complexity_region	99763	99786	.	-	.	
+scaffold113s	trf	tandem_repeat	99901	99926	45	-	.	
+scaffold113s	dust	low_complexity_region	99901	99926	.	-	.	
+scaffold113s	dust	low_complexity_region	99992	100105	.	-	.	
+scaffold113s	trf	tandem_repeat	100007	100074	101	-	.	
+scaffold113s	dust	low_complexity_region	100130	100357	.	-	.	
+scaffold113s	trf	tandem_repeat	100336	100361	45	-	.	
+scaffold113s	dust	low_complexity_region	100546	100598	.	-	.	
+scaffold113s	trf	tandem_repeat	100547	100597	74	-	.	
+scaffold113s	dust	low_complexity_region	100854	100861	.	-	.	
+scaffold113s	dust	low_complexity_region	100968	100987	.	-	.	
+scaffold113s	dust	low_complexity_region	101121	101129	.	-	.	
+scaffold113s	dust	low_complexity_region	101254	101265	.	-	.	
+scaffold113s	dust	low_complexity_region	101318	101324	.	-	.	
+scaffold113s	dust	low_complexity_region	101370	101376	.	-	.	
+scaffold113s	dust	low_complexity_region	101469	101475	.	-	.	
+scaffold113s	dust	low_complexity_region	101526	101601	.	-	.	
+scaffold113s	trf	tandem_repeat	101527	101549	46	-	.	
+scaffold113s	trf	tandem_repeat	101548	101581	52	-	.	
+scaffold113s	dust	low_complexity_region	102157	102165	.	-	.	
+scaffold113s	dust	low_complexity_region	102172	102184	.	-	.	
+scaffold113s	trf	tandem_repeat	102429	102456	42	-	.	
+scaffold113s	dust	low_complexity_region	102429	102456	.	-	.	
+scaffold113s	dust	low_complexity_region	102467	102475	.	-	.	
+scaffold113s	dust	low_complexity_region	102824	102877	.	-	.	
+scaffold113s	dust	low_complexity_region	102986	103048	.	-	.	
+scaffold113s	dust	low_complexity_region	103322	103386	.	-	.	
+scaffold113s	dust	low_complexity_region	103605	103623	.	-	.	
+scaffold113s	dust	low_complexity_region	103633	103639	.	-	.	
+scaffold113s	dust	low_complexity_region	103644	103651	.	-	.	
+scaffold113s	dust	low_complexity_region	103720	103754	.	-	.	
+scaffold113s	trf	tandem_repeat	103775	103808	68	-	.	
+scaffold113s	dust	low_complexity_region	103775	103808	.	-	.	
+scaffold113s	trf	tandem_repeat	104249	104289	68	-	.	
+scaffold113s	dust	low_complexity_region	104249	104289	.	-	.	
+scaffold113s	trf	tandem_repeat	104911	104930	40	-	.	
+scaffold113s	dust	low_complexity_region	104911	104951	.	-	.	
+scaffold113s	dust	low_complexity_region	105193	105274	.	-	.	
+scaffold113s	trf	tandem_repeat	105391	105410	40	-	.	
+scaffold113s	dust	low_complexity_region	105391	105417	.	-	.	
+scaffold113s	dust	low_complexity_region	105460	105525	.	-	.	
+scaffold113s	dust	low_complexity_region	105657	105665	.	-	.	
+scaffold113s	repeatmasker	repeat_region	105660	105726	183	-	.	Name=L3;repeat_class=LINE/CR1
+scaffold113s	dust	low_complexity_region	105776	105783	.	-	.	
+scaffold113s	dust	low_complexity_region	105802	105865	.	-	.	
+scaffold113s	dust	low_complexity_region	106004	106059	.	-	.	
+scaffold113s	trf	tandem_repeat	106106	106132	47	-	.	
+scaffold113s	trf	tandem_repeat	106106	106136	41	-	.	
+scaffold113s	dust	low_complexity_region	106106	106137	.	-	.	
+scaffold113s	dust	low_complexity_region	106398	106404	.	-	.	
+scaffold113s	dust	low_complexity_region	106556	106579	.	-	.	
+scaffold113s	dust	low_complexity_region	106587	106645	.	-	.	
+scaffold113s	dust	low_complexity_region	107136	107145	.	-	.	
+scaffold113s	dust	low_complexity_region	107447	107542	.	-	.	
+scaffold113s	trf	tandem_repeat	107463	107542	90	-	.	
+scaffold113s	trf	tandem_repeat	107482	107542	87	-	.	
+scaffold113s	dust	low_complexity_region	107600	107625	.	-	.	
+scaffold113s	dust	low_complexity_region	107830	107837	.	-	.	
+scaffold113s	trf	tandem_repeat	108310	108354	48	-	.	
+scaffold113s	trf	tandem_repeat	108310	108350	54	-	.	
+scaffold113s	dust	low_complexity_region	108310	108354	.	-	.	
+scaffold113s	dust	low_complexity_region	108738	108745	.	-	.	
+scaffold113s	dust	low_complexity_region	108991	109031	.	-	.	
+scaffold113s	trf	tandem_repeat	108999	109031	52	-	.	
+scaffold113s	dust	low_complexity_region	109335	109342	.	-	.	
+scaffold113s	dust	low_complexity_region	109521	109565	.	-	.	
+scaffold113s	trf	tandem_repeat	109522	109562	61	-	.	
+scaffold113s	trf	tandem_repeat	109708	109753	92	-	.	
+scaffold113s	dust	low_complexity_region	109708	109753	.	-	.	
+scaffold113s	dust	low_complexity_region	109927	109991	.	-	.	
+scaffold113s	trf	tandem_repeat	110167	110204	69	-	.	
+scaffold113s	dust	low_complexity_region	110167	110204	.	-	.	
+scaffold113s	trf	tandem_repeat	110678	110714	74	-	.	
+scaffold113s	dust	low_complexity_region	110678	110714	.	-	.	
+scaffold113s	dust	low_complexity_region	110716	110722	.	-	.	
+scaffold113s	dust	low_complexity_region	110883	110891	.	-	.	
+scaffold113s	dust	low_complexity_region	111037	111061	.	-	.	
+scaffold113s	trf	tandem_repeat	111606	111664	74	-	.	
+scaffold113s	dust	low_complexity_region	111606	111681	.	-	.	
+scaffold113s	dust	low_complexity_region	111702	111708	.	-	.	
+scaffold113s	dust	low_complexity_region	111819	111852	.	-	.	
+scaffold113s	trf	tandem_repeat	111924	111966	72	-	.	
+scaffold113s	dust	low_complexity_region	111924	111966	.	-	.	
+scaffold113s	dust	low_complexity_region	112556	112609	.	-	.	
+scaffold113s	trf	tandem_repeat	112565	112584	40	-	.	
+scaffold113s	dust	low_complexity_region	113145	113172	.	-	.	
+scaffold113s	trf	tandem_repeat	113146	113182	51	-	.	
+scaffold113s	dust	low_complexity_region	113302	113367	.	-	.	
+scaffold113s	dust	low_complexity_region	113660	113668	.	-	.	
+scaffold113s	trf	tandem_repeat	113884	113921	55	-	.	
+scaffold113s	dust	low_complexity_region	113884	113921	.	-	.	
+scaffold113s	dust	low_complexity_region	113995	114065	.	-	.	
+scaffold113s	trf	tandem_repeat	114038	114065	56	-	.	
+scaffold113s	dust	low_complexity_region	114125	114137	.	-	.	
+scaffold113s	dust	low_complexity_region	114292	114390	.	-	.	
+scaffold113s	dust	low_complexity_region	114412	114530	.	-	.	
+scaffold113s	trf	tandem_repeat	114507	114526	40	-	.	
+scaffold113s	dust	low_complexity_region	114578	114584	.	-	.	
+scaffold113s	dust	low_complexity_region	114972	114980	.	-	.	
+scaffold113s	trf	tandem_repeat	115027	115072	78	-	.	
+scaffold113s	dust	low_complexity_region	115027	115104	.	-	.	
+scaffold113s	trf	tandem_repeat	115030	115102	41	-	.	
+scaffold113s	trf	tandem_repeat	115064	115104	68	-	.	
+scaffold113s	dust	low_complexity_region	115282	115288	.	-	.	
+scaffold113s	dust	low_complexity_region	115596	115606	.	-	.	
+scaffold113s	dust	low_complexity_region	115745	115824	.	-	.	
+scaffold113s	trf	tandem_repeat	116072	116091	40	-	.	
+scaffold113s	dust	low_complexity_region	116261	116315	.	-	.	
+scaffold113s	trf	tandem_repeat	116262	116315	62	-	.	
+scaffold113s	trf	tandem_repeat	116262	116315	59	-	.	
+scaffold113s	trf	tandem_repeat	116271	116310	52	-	.	
+scaffold113s	dust	low_complexity_region	116461	116470	.	-	.	
+scaffold113s	dust	low_complexity_region	116897	116909	.	-	.	
+scaffold113s	trf	tandem_repeat	117181	117230	68	-	.	
+scaffold113s	dust	low_complexity_region	117181	117230	.	-	.	
+scaffold113s	dust	low_complexity_region	117425	117439	.	-	.	
+scaffold113s	dust	low_complexity_region	117478	117485	.	-	.	
+scaffold113s	dust	low_complexity_region	117741	117750	.	-	.	
+scaffold113s	dust	low_complexity_region	117771	117781	.	-	.	
+scaffold113s	trf	tandem_repeat	117987	118041	103	-	.	
+scaffold113s	dust	low_complexity_region	117992	118041	.	-	.	
+scaffold113s	dust	low_complexity_region	118380	118397	.	-	.	
+scaffold113s	dust	low_complexity_region	118558	118566	.	-	.	
+scaffold113s	trf	tandem_repeat	119149	119193	48	-	.	
+scaffold113s	trf	tandem_repeat	119149	119187	43	-	.	
+scaffold113s	trf	tandem_repeat	119149	119193	48	-	.	
+scaffold113s	dust	low_complexity_region	119149	119230	.	-	.	
+scaffold113s	trf	tandem_repeat	119392	119417	52	-	.	
+scaffold113s	dust	low_complexity_region	119392	119417	.	-	.	
+scaffold113s	dust	low_complexity_region	119544	119556	.	-	.	
+scaffold113s	dust	low_complexity_region	119608	119633	.	-	.	
+scaffold113s	trf	tandem_repeat	119693	119716	48	-	.	
+scaffold113s	dust	low_complexity_region	119693	119716	.	-	.	
+scaffold113s	dust	low_complexity_region	119849	119855	.	-	.	
+scaffold113s	dust	low_complexity_region	120050	120079	.	-	.	
+scaffold113s	dust	low_complexity_region	120333	120340	.	-	.	
+scaffold113s	dust	low_complexity_region	120497	120505	.	-	.	
+scaffold113s	dust	low_complexity_region	120732	120756	.	-	.	
+scaffold113s	dust	low_complexity_region	121199	121238	.	-	.	
+scaffold113s	trf	tandem_repeat	121211	121234	48	-	.	
+scaffold113s	dust	low_complexity_region	122590	122605	.	-	.	
+scaffold113s	trf	tandem_repeat	122622	122645	48	-	.	
+scaffold113s	dust	low_complexity_region	122622	122645	.	-	.	
+scaffold113s	dust	low_complexity_region	122654	122661	.	-	.	
+scaffold113s	trf	tandem_repeat	122881	122973	95	-	.	
+scaffold113s	dust	low_complexity_region	122881	122973	.	-	.	
+scaffold113s	dust	low_complexity_region	122998	123004	.	-	.	
+scaffold113s	dust	low_complexity_region	123239	123245	.	-	.	
+scaffold113s	trf	tandem_repeat	123262	123298	60	-	.	
+scaffold113s	trf	tandem_repeat	123263	123297	49	-	.	
+scaffold113s	dust	low_complexity_region	123263	123297	.	-	.	
+scaffold113s	dust	low_complexity_region	123457	123464	.	-	.	
+scaffold113s	dust	low_complexity_region	123667	123674	.	-	.	
+scaffold113s	dust	low_complexity_region	124086	124094	.	-	.	
+scaffold113s	dust	low_complexity_region	124304	124313	.	-	.	
+scaffold113s	dust	low_complexity_region	124597	124603	.	-	.	
+scaffold113s	dust	low_complexity_region	124609	124672	.	-	.	
+scaffold113s	dust	low_complexity_region	124953	124961	.	-	.	
+scaffold113s	dust	low_complexity_region	125397	125405	.	-	.	
+scaffold113s	trf	tandem_repeat	125697	125729	66	-	.	
+scaffold113s	dust	low_complexity_region	125697	125735	.	-	.	
+scaffold113s	dust	low_complexity_region	125937	125944	.	-	.	
+scaffold113s	dust	low_complexity_region	126024	126081	.	-	.	
+scaffold113s	dust	low_complexity_region	126767	126773	.	-	.	
+scaffold113s	dust	low_complexity_region	127653	127659	.	-	.	
+scaffold113s	dust	low_complexity_region	128617	128628	.	-	.	
+scaffold113s	dust	low_complexity_region	128761	128768	.	-	.	
+scaffold113s	dust	low_complexity_region	129161	129167	.	-	.	
+scaffold113s	dust	low_complexity_region	129525	129533	.	-	.	
+scaffold113s	dust	low_complexity_region	130819	130825	.	-	.	
+scaffold113s	dust	low_complexity_region	130929	130993	.	-	.	
+scaffold113s	dust	low_complexity_region	132147	132197	.	-	.	
+scaffold113s	dust	low_complexity_region	132253	132260	.	-	.	
+scaffold113s	dust	low_complexity_region	133072	133078	.	-	.	
+scaffold113s	dust	low_complexity_region	134448	134454	.	-	.	
+scaffold113s	dust	low_complexity_region	135083	135110	.	-	.	
+scaffold121s	WormBase_imported	gene	116776	120295	.	+	.	ID=gene:T4A_10157;Name=T4A_10157;biotype=protein_coding
+scaffold121s	WormBase_imported	mRNA	116776	120295	.	+	.	ID=transcript:T4A_10157.1;Parent=gene:T4A_10157;Name=T4A_10157.1
+scaffold121s	WormBase_imported	exon	116776	116793	.	+	.	ID=exon:T4A_10157.1.1;Parent=transcript:T4A_10157.1
+scaffold121s	WormBase_imported	exon	116829	116858	.	+	.	ID=exon:T4A_10157.1.2;Parent=transcript:T4A_10157.1
+scaffold121s	WormBase_imported	exon	117037	117063	.	+	.	ID=exon:T4A_10157.1.3;Parent=transcript:T4A_10157.1
+scaffold121s	WormBase_imported	exon	117178	117216	.	+	.	ID=exon:T4A_10157.1.4;Parent=transcript:T4A_10157.1
+scaffold121s	WormBase_imported	exon	117270	117323	.	+	.	ID=exon:T4A_10157.1.5;Parent=transcript:T4A_10157.1
+scaffold121s	WormBase_imported	exon	117536	117574	.	+	.	ID=exon:T4A_10157.1.6;Parent=transcript:T4A_10157.1
+scaffold121s	WormBase_imported	exon	118063	118113	.	+	.	ID=exon:T4A_10157.1.7;Parent=transcript:T4A_10157.1
+scaffold121s	WormBase_imported	exon	118671	118742	.	+	.	ID=exon:T4A_10157.1.8;Parent=transcript:T4A_10157.1
+scaffold121s	WormBase_imported	exon	119018	119066	.	+	.	ID=exon:T4A_10157.1.9;Parent=transcript:T4A_10157.1
+scaffold121s	WormBase_imported	exon	119080	119128	.	+	.	ID=exon:T4A_10157.1.10;Parent=transcript:T4A_10157.1
+scaffold121s	WormBase_imported	exon	119193	119261	.	+	.	ID=exon:T4A_10157.1.11;Parent=transcript:T4A_10157.1
+scaffold121s	WormBase_imported	exon	119367	119421	.	+	.	ID=exon:T4A_10157.1.12;Parent=transcript:T4A_10157.1
+scaffold121s	WormBase_imported	exon	119459	119510	.	+	.	ID=exon:T4A_10157.1.13;Parent=transcript:T4A_10157.1
+scaffold121s	WormBase_imported	exon	119802	119904	.	+	.	ID=exon:T4A_10157.1.14;Parent=transcript:T4A_10157.1
+scaffold121s	WormBase_imported	exon	119998	120295	.	+	.	ID=exon:T4A_10157.1.15;Parent=transcript:T4A_10157.1
+scaffold121s	WormBase_imported	CDS	116776	116793	.	+	0	ID=cds:T4A_10157.1;Parent=transcript:T4A_10157.1
+scaffold121s	WormBase_imported	CDS	116829	116858	.	+	0	ID=cds:T4A_10157.1;Parent=transcript:T4A_10157.1
+scaffold121s	WormBase_imported	CDS	117037	117063	.	+	0	ID=cds:T4A_10157.1;Parent=transcript:T4A_10157.1
+scaffold121s	WormBase_imported	CDS	117178	117216	.	+	0	ID=cds:T4A_10157.1;Parent=transcript:T4A_10157.1
+scaffold121s	WormBase_imported	CDS	117270	117323	.	+	0	ID=cds:T4A_10157.1;Parent=transcript:T4A_10157.1
+scaffold121s	WormBase_imported	CDS	117536	117574	.	+	0	ID=cds:T4A_10157.1;Parent=transcript:T4A_10157.1
+scaffold121s	WormBase_imported	CDS	118063	118113	.	+	0	ID=cds:T4A_10157.1;Parent=transcript:T4A_10157.1
+scaffold121s	WormBase_imported	CDS	118671	118742	.	+	0	ID=cds:T4A_10157.1;Parent=transcript:T4A_10157.1
+scaffold121s	WormBase_imported	CDS	119018	119066	.	+	0	ID=cds:T4A_10157.1;Parent=transcript:T4A_10157.1
+scaffold121s	WormBase_imported	CDS	119080	119128	.	+	2	ID=cds:T4A_10157.1;Parent=transcript:T4A_10157.1
+scaffold121s	WormBase_imported	CDS	119193	119261	.	+	1	ID=cds:T4A_10157.1;Parent=transcript:T4A_10157.1
+scaffold121s	WormBase_imported	CDS	119367	119421	.	+	1	ID=cds:T4A_10157.1;Parent=transcript:T4A_10157.1
+scaffold121s	WormBase_imported	CDS	119459	119510	.	+	0	ID=cds:T4A_10157.1;Parent=transcript:T4A_10157.1
+scaffold121s	WormBase_imported	CDS	119802	119904	.	+	2	ID=cds:T4A_10157.1;Parent=transcript:T4A_10157.1
+scaffold121s	WormBase_imported	CDS	119998	120295	.	+	1	ID=cds:T4A_10157.1;Parent=transcript:T4A_10157.1
+scaffold129s	WormBase_imported	gene	23315	29734	.	-	.	ID=gene:T4A_7119;Name=T4A_7119;biotype=protein_coding;description=Sulfhydryl oxidase;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0V1E1K7;locus=AK5
+scaffold129s	WormBase_imported	mRNA	23315	29734	.	-	.	ID=transcript:T4A_7119.1;Parent=gene:T4A_7119;Name=T4A_7119.1;info=method:InterPro accession:IPR017905 description:ERV/ALR sulfhydryl oxidase domain %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR036774 description:ERV/ALR sulfhydryl oxidase domain superfamily
+scaffold129s	WormBase_imported	mRNA	23315	29734	.	-	.	ID=transcript:T4A_7119.2;Parent=gene:T4A_7119;Name=T4A_7119.2;info=method:InterPro accession:IPR000850 description:Adenylate kinase/UMP-CMP kinase %0Amethod:InterPro accession:IPR017905 description:ERV/ALR sulfhydryl oxidase domain %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR036774 description:ERV/ALR sulfhydryl oxidase domain superfamily
+scaffold129s	WormBase_imported	mRNA	23315	25862	.	-	.	ID=transcript:T4A_7119.3;Parent=gene:T4A_7119;Name=T4A_7119.3;info=method:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase
+scaffold129s	WormBase_imported	mRNA	24986	29734	.	-	.	ID=transcript:T4A_7119.4;Parent=gene:T4A_7119;Name=T4A_7119.4;info=method:InterPro accession:IPR017905 description:ERV/ALR sulfhydryl oxidase domain %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR036774 description:ERV/ALR sulfhydryl oxidase domain superfamily
+scaffold129s	WormBase_imported	exon	29714	29734	.	-	.	ID=exon:T4A_7119.1.1;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	exon	28967	29576	.	-	.	ID=exon:T4A_7119.1.2;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	exon	28106	28191	.	-	.	ID=exon:T4A_7119.1.3;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	exon	27870	28050	.	-	.	ID=exon:T4A_7119.1.4;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	exon	27173	27433	.	-	.	ID=exon:T4A_7119.1.5;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	exon	26932	27078	.	-	.	ID=exon:T4A_7119.1.6;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	exon	26730	26866	.	-	.	ID=exon:T4A_7119.1.7;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	exon	26382	26552	.	-	.	ID=exon:T4A_7119.1.8;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	exon	26238	26313	.	-	.	ID=exon:T4A_7119.1.9;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	exon	25978	26181	.	-	.	ID=exon:T4A_7119.1.10;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	exon	25758	25913	.	-	.	ID=exon:T4A_7119.1.11;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	exon	25529	25596	.	-	.	ID=exon:T4A_7119.1.12;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	exon	25261	25452	.	-	.	ID=exon:T4A_7119.1.13;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	exon	25125	25203	.	-	.	ID=exon:T4A_7119.1.14;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	exon	24670	24744	.	-	.	ID=exon:T4A_7119.1.15;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	exon	24594	24651	.	-	.	ID=exon:T4A_7119.1.16;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	exon	24527	24551	.	-	.	ID=exon:T4A_7119.1.17;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	exon	24342	24378	.	-	.	ID=exon:T4A_7119.1.18;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	exon	24207	24319	.	-	.	ID=exon:T4A_7119.1.19;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	exon	23728	23781	.	-	.	ID=exon:T4A_7119.1.20;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	exon	23337	23363	.	-	.	ID=exon:T4A_7119.1.21;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	exon	23315	23320	.	-	.	ID=exon:T4A_7119.1.22;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	exon	29714	29734	.	-	.	ID=exon:T4A_7119.2.1;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	exon	28967	29576	.	-	.	ID=exon:T4A_7119.2.2;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	exon	28106	28191	.	-	.	ID=exon:T4A_7119.2.3;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	exon	27870	28050	.	-	.	ID=exon:T4A_7119.2.4;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	exon	27173	27433	.	-	.	ID=exon:T4A_7119.2.5;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	exon	26932	27078	.	-	.	ID=exon:T4A_7119.2.6;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	exon	26730	26866	.	-	.	ID=exon:T4A_7119.2.7;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	exon	26382	26552	.	-	.	ID=exon:T4A_7119.2.8;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	exon	26238	26313	.	-	.	ID=exon:T4A_7119.2.9;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	exon	25978	26181	.	-	.	ID=exon:T4A_7119.2.10;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	exon	25741	25913	.	-	.	ID=exon:T4A_7119.2.11;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	exon	25529	25648	.	-	.	ID=exon:T4A_7119.2.12;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	exon	25261	25452	.	-	.	ID=exon:T4A_7119.2.13;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	exon	25125	25203	.	-	.	ID=exon:T4A_7119.2.14;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	exon	24670	24744	.	-	.	ID=exon:T4A_7119.2.15;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	exon	24594	24651	.	-	.	ID=exon:T4A_7119.2.16;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	exon	24527	24551	.	-	.	ID=exon:T4A_7119.2.17;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	exon	24342	24378	.	-	.	ID=exon:T4A_7119.2.18;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	exon	24207	24319	.	-	.	ID=exon:T4A_7119.2.19;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	exon	23728	23781	.	-	.	ID=exon:T4A_7119.2.20;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	exon	23337	23363	.	-	.	ID=exon:T4A_7119.2.21;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	exon	23315	23320	.	-	.	ID=exon:T4A_7119.2.22;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	exon	25852	25862	.	-	.	ID=exon:T4A_7119.3.1;Parent=transcript:T4A_7119.3
+scaffold129s	WormBase_imported	exon	25741	25840	.	-	.	ID=exon:T4A_7119.3.2;Parent=transcript:T4A_7119.3
+scaffold129s	WormBase_imported	exon	25529	25648	.	-	.	ID=exon:T4A_7119.3.3;Parent=transcript:T4A_7119.3
+scaffold129s	WormBase_imported	exon	25261	25452	.	-	.	ID=exon:T4A_7119.3.4;Parent=transcript:T4A_7119.3
+scaffold129s	WormBase_imported	exon	25125	25203	.	-	.	ID=exon:T4A_7119.3.5;Parent=transcript:T4A_7119.3
+scaffold129s	WormBase_imported	exon	24670	24744	.	-	.	ID=exon:T4A_7119.3.6;Parent=transcript:T4A_7119.3
+scaffold129s	WormBase_imported	exon	24594	24651	.	-	.	ID=exon:T4A_7119.3.7;Parent=transcript:T4A_7119.3
+scaffold129s	WormBase_imported	exon	24527	24551	.	-	.	ID=exon:T4A_7119.3.8;Parent=transcript:T4A_7119.3
+scaffold129s	WormBase_imported	exon	24342	24378	.	-	.	ID=exon:T4A_7119.3.9;Parent=transcript:T4A_7119.3
+scaffold129s	WormBase_imported	exon	24207	24319	.	-	.	ID=exon:T4A_7119.3.10;Parent=transcript:T4A_7119.3
+scaffold129s	WormBase_imported	exon	23728	23781	.	-	.	ID=exon:T4A_7119.3.11;Parent=transcript:T4A_7119.3
+scaffold129s	WormBase_imported	exon	23337	23363	.	-	.	ID=exon:T4A_7119.3.12;Parent=transcript:T4A_7119.3
+scaffold129s	WormBase_imported	exon	23315	23320	.	-	.	ID=exon:T4A_7119.3.13;Parent=transcript:T4A_7119.3
+scaffold129s	WormBase_imported	exon	29714	29734	.	-	.	ID=exon:T4A_7119.4.1;Parent=transcript:T4A_7119.4
+scaffold129s	WormBase_imported	exon	28967	29576	.	-	.	ID=exon:T4A_7119.4.2;Parent=transcript:T4A_7119.4
+scaffold129s	WormBase_imported	exon	28106	28191	.	-	.	ID=exon:T4A_7119.4.3;Parent=transcript:T4A_7119.4
+scaffold129s	WormBase_imported	exon	27870	28050	.	-	.	ID=exon:T4A_7119.4.4;Parent=transcript:T4A_7119.4
+scaffold129s	WormBase_imported	exon	27173	27433	.	-	.	ID=exon:T4A_7119.4.5;Parent=transcript:T4A_7119.4
+scaffold129s	WormBase_imported	exon	26932	27078	.	-	.	ID=exon:T4A_7119.4.6;Parent=transcript:T4A_7119.4
+scaffold129s	WormBase_imported	exon	26730	26866	.	-	.	ID=exon:T4A_7119.4.7;Parent=transcript:T4A_7119.4
+scaffold129s	WormBase_imported	exon	26382	26552	.	-	.	ID=exon:T4A_7119.4.8;Parent=transcript:T4A_7119.4
+scaffold129s	WormBase_imported	exon	26238	26313	.	-	.	ID=exon:T4A_7119.4.9;Parent=transcript:T4A_7119.4
+scaffold129s	WormBase_imported	exon	25994	26181	.	-	.	ID=exon:T4A_7119.4.10;Parent=transcript:T4A_7119.4
+scaffold129s	WormBase_imported	exon	25741	25913	.	-	.	ID=exon:T4A_7119.4.11;Parent=transcript:T4A_7119.4
+scaffold129s	WormBase_imported	exon	25529	25622	.	-	.	ID=exon:T4A_7119.4.12;Parent=transcript:T4A_7119.4
+scaffold129s	WormBase_imported	exon	25261	25452	.	-	.	ID=exon:T4A_7119.4.13;Parent=transcript:T4A_7119.4
+scaffold129s	WormBase_imported	exon	25125	25203	.	-	.	ID=exon:T4A_7119.4.14;Parent=transcript:T4A_7119.4
+scaffold129s	WormBase_imported	exon	24986	25050	.	-	.	ID=exon:T4A_7119.4.15;Parent=transcript:T4A_7119.4
+scaffold129s	WormBase_imported	CDS	29714	29734	.	-	0	ID=cds:T4A_7119.1;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	CDS	28967	29576	.	-	0	ID=cds:T4A_7119.1;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	CDS	28106	28191	.	-	2	ID=cds:T4A_7119.1;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	CDS	27870	28050	.	-	0	ID=cds:T4A_7119.1;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	CDS	27173	27433	.	-	2	ID=cds:T4A_7119.1;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	CDS	26932	27078	.	-	2	ID=cds:T4A_7119.1;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	CDS	26730	26866	.	-	2	ID=cds:T4A_7119.1;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	CDS	26382	26552	.	-	0	ID=cds:T4A_7119.1;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	CDS	26238	26313	.	-	0	ID=cds:T4A_7119.1;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	CDS	25978	26181	.	-	2	ID=cds:T4A_7119.1;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	CDS	25758	25913	.	-	2	ID=cds:T4A_7119.1;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	CDS	25529	25596	.	-	2	ID=cds:T4A_7119.1;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	CDS	25261	25452	.	-	0	ID=cds:T4A_7119.1;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	CDS	25125	25203	.	-	0	ID=cds:T4A_7119.1;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	CDS	24670	24744	.	-	2	ID=cds:T4A_7119.1;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	CDS	24594	24651	.	-	2	ID=cds:T4A_7119.1;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	CDS	24527	24551	.	-	1	ID=cds:T4A_7119.1;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	CDS	24342	24378	.	-	0	ID=cds:T4A_7119.1;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	CDS	24207	24319	.	-	2	ID=cds:T4A_7119.1;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	CDS	23728	23781	.	-	0	ID=cds:T4A_7119.1;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	CDS	23337	23363	.	-	0	ID=cds:T4A_7119.1;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	CDS	23315	23320	.	-	0	ID=cds:T4A_7119.1;Parent=transcript:T4A_7119.1
+scaffold129s	WormBase_imported	CDS	29714	29734	.	-	0	ID=cds:T4A_7119.2;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	CDS	28967	29576	.	-	0	ID=cds:T4A_7119.2;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	CDS	28106	28191	.	-	2	ID=cds:T4A_7119.2;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	CDS	27870	28050	.	-	0	ID=cds:T4A_7119.2;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	CDS	27173	27433	.	-	2	ID=cds:T4A_7119.2;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	CDS	26932	27078	.	-	2	ID=cds:T4A_7119.2;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	CDS	26730	26866	.	-	2	ID=cds:T4A_7119.2;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	CDS	26382	26552	.	-	0	ID=cds:T4A_7119.2;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	CDS	26238	26313	.	-	0	ID=cds:T4A_7119.2;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	CDS	25978	26181	.	-	2	ID=cds:T4A_7119.2;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	CDS	25741	25913	.	-	2	ID=cds:T4A_7119.2;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	CDS	25529	25648	.	-	0	ID=cds:T4A_7119.2;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	CDS	25261	25452	.	-	0	ID=cds:T4A_7119.2;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	CDS	25125	25203	.	-	0	ID=cds:T4A_7119.2;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	CDS	24670	24744	.	-	2	ID=cds:T4A_7119.2;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	CDS	24594	24651	.	-	2	ID=cds:T4A_7119.2;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	CDS	24527	24551	.	-	1	ID=cds:T4A_7119.2;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	CDS	24342	24378	.	-	0	ID=cds:T4A_7119.2;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	CDS	24207	24319	.	-	2	ID=cds:T4A_7119.2;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	CDS	23728	23781	.	-	0	ID=cds:T4A_7119.2;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	CDS	23337	23363	.	-	0	ID=cds:T4A_7119.2;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	CDS	23315	23320	.	-	0	ID=cds:T4A_7119.2;Parent=transcript:T4A_7119.2
+scaffold129s	WormBase_imported	CDS	25852	25862	.	-	0	ID=cds:T4A_7119.3;Parent=transcript:T4A_7119.3
+scaffold129s	WormBase_imported	CDS	25741	25840	.	-	1	ID=cds:T4A_7119.3;Parent=transcript:T4A_7119.3
+scaffold129s	WormBase_imported	CDS	25529	25648	.	-	0	ID=cds:T4A_7119.3;Parent=transcript:T4A_7119.3
+scaffold129s	WormBase_imported	CDS	25261	25452	.	-	0	ID=cds:T4A_7119.3;Parent=transcript:T4A_7119.3
+scaffold129s	WormBase_imported	CDS	25125	25203	.	-	0	ID=cds:T4A_7119.3;Parent=transcript:T4A_7119.3
+scaffold129s	WormBase_imported	CDS	24670	24744	.	-	2	ID=cds:T4A_7119.3;Parent=transcript:T4A_7119.3
+scaffold129s	WormBase_imported	CDS	24594	24651	.	-	2	ID=cds:T4A_7119.3;Parent=transcript:T4A_7119.3
+scaffold129s	WormBase_imported	CDS	24527	24551	.	-	1	ID=cds:T4A_7119.3;Parent=transcript:T4A_7119.3
+scaffold129s	WormBase_imported	CDS	24342	24378	.	-	0	ID=cds:T4A_7119.3;Parent=transcript:T4A_7119.3
+scaffold129s	WormBase_imported	CDS	24207	24319	.	-	2	ID=cds:T4A_7119.3;Parent=transcript:T4A_7119.3
+scaffold129s	WormBase_imported	CDS	23728	23781	.	-	0	ID=cds:T4A_7119.3;Parent=transcript:T4A_7119.3
+scaffold129s	WormBase_imported	CDS	23337	23363	.	-	0	ID=cds:T4A_7119.3;Parent=transcript:T4A_7119.3
+scaffold129s	WormBase_imported	CDS	23315	23320	.	-	0	ID=cds:T4A_7119.3;Parent=transcript:T4A_7119.3
+scaffold129s	WormBase_imported	CDS	29714	29734	.	-	0	ID=cds:T4A_7119.4;Parent=transcript:T4A_7119.4
+scaffold129s	WormBase_imported	CDS	28967	29576	.	-	0	ID=cds:T4A_7119.4;Parent=transcript:T4A_7119.4
+scaffold129s	WormBase_imported	CDS	28106	28191	.	-	2	ID=cds:T4A_7119.4;Parent=transcript:T4A_7119.4
+scaffold129s	WormBase_imported	CDS	27870	28050	.	-	0	ID=cds:T4A_7119.4;Parent=transcript:T4A_7119.4
+scaffold129s	WormBase_imported	CDS	27173	27433	.	-	2	ID=cds:T4A_7119.4;Parent=transcript:T4A_7119.4
+scaffold129s	WormBase_imported	CDS	26932	27078	.	-	2	ID=cds:T4A_7119.4;Parent=transcript:T4A_7119.4
+scaffold129s	WormBase_imported	CDS	26730	26866	.	-	2	ID=cds:T4A_7119.4;Parent=transcript:T4A_7119.4
+scaffold129s	WormBase_imported	CDS	26382	26552	.	-	0	ID=cds:T4A_7119.4;Parent=transcript:T4A_7119.4
+scaffold129s	WormBase_imported	CDS	26238	26313	.	-	0	ID=cds:T4A_7119.4;Parent=transcript:T4A_7119.4
+scaffold129s	WormBase_imported	CDS	25994	26181	.	-	2	ID=cds:T4A_7119.4;Parent=transcript:T4A_7119.4
+scaffold129s	WormBase_imported	CDS	25896	25913	.	-	0	ID=cds:T4A_7119.4;Parent=transcript:T4A_7119.4
+scaffold129s	WormBase_imported	three_prime_UTR	25741	25895	.	-	.	Parent=transcript:T4A_7119.4
+scaffold129s	WormBase_imported	three_prime_UTR	25529	25622	.	-	.	Parent=transcript:T4A_7119.4
+scaffold129s	WormBase_imported	three_prime_UTR	25261	25452	.	-	.	Parent=transcript:T4A_7119.4
+scaffold129s	WormBase_imported	three_prime_UTR	25125	25203	.	-	.	Parent=transcript:T4A_7119.4
+scaffold129s	WormBase_imported	three_prime_UTR	24986	25050	.	-	.	Parent=transcript:T4A_7119.4
+scaffold161s	WormBase_imported	gene	69053	84573	.	+	.	ID=gene:T4A_7623;Name=T4A_7623;biotype=protein_coding;description=Rap guanine nucleotide exchange factor 1;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0V1DYW5;locus=C3G
+scaffold161s	WormBase_imported	mRNA	69053	84573	.	+	.	ID=transcript:T4A_7623.1;Parent=gene:T4A_7623;Name=T4A_7623.1;info=method:InterPro accession:IPR000651 description:Ras-like guanine nucleotide exchange factor%2C N-terminal %0Amethod:InterPro accession:IPR001895 description:Ras guanine-nucleotide exchange factors catalytic domain %0Amethod:InterPro accession:IPR023578 description:Ras guanine nucleotide exchange factor domain superfamily %0Amethod:InterPro accession:IPR036964 description:Ras guanine-nucleotide exchange factor catalytic domain superfamily
+scaffold161s	WormBase_imported	mRNA	69053	84573	.	+	.	ID=transcript:T4A_7623.2;Parent=gene:T4A_7623;Name=T4A_7623.2;info=method:InterPro accession:IPR000651 description:Ras-like guanine nucleotide exchange factor%2C N-terminal %0Amethod:InterPro accession:IPR001895 description:Ras guanine-nucleotide exchange factors catalytic domain %0Amethod:InterPro accession:IPR023578 description:Ras guanine nucleotide exchange factor domain superfamily %0Amethod:InterPro accession:IPR036964 description:Ras guanine-nucleotide exchange factor catalytic domain superfamily
+scaffold161s	WormBase_imported	exon	69053	69059	.	+	.	ID=exon:T4A_7623.1.1;Parent=transcript:T4A_7623.1
+scaffold161s	WormBase_imported	exon	76548	76867	.	+	.	ID=exon:T4A_7623.1.2;Parent=transcript:T4A_7623.1
+scaffold161s	WormBase_imported	exon	78448	78590	.	+	.	ID=exon:T4A_7623.1.3;Parent=transcript:T4A_7623.1
+scaffold161s	WormBase_imported	exon	78654	78813	.	+	.	ID=exon:T4A_7623.1.4;Parent=transcript:T4A_7623.1
+scaffold161s	WormBase_imported	exon	79874	80283	.	+	.	ID=exon:T4A_7623.1.5;Parent=transcript:T4A_7623.1
+scaffold161s	WormBase_imported	exon	80550	80989	.	+	.	ID=exon:T4A_7623.1.6;Parent=transcript:T4A_7623.1
+scaffold161s	WormBase_imported	exon	81159	81620	.	+	.	ID=exon:T4A_7623.1.7;Parent=transcript:T4A_7623.1
+scaffold161s	WormBase_imported	exon	81734	82037	.	+	.	ID=exon:T4A_7623.1.8;Parent=transcript:T4A_7623.1
+scaffold161s	WormBase_imported	exon	82175	82335	.	+	.	ID=exon:T4A_7623.1.9;Parent=transcript:T4A_7623.1
+scaffold161s	WormBase_imported	exon	82517	82694	.	+	.	ID=exon:T4A_7623.1.10;Parent=transcript:T4A_7623.1
+scaffold161s	WormBase_imported	exon	82792	83014	.	+	.	ID=exon:T4A_7623.1.11;Parent=transcript:T4A_7623.1
+scaffold161s	WormBase_imported	exon	83255	83628	.	+	.	ID=exon:T4A_7623.1.12;Parent=transcript:T4A_7623.1
+scaffold161s	WormBase_imported	exon	83689	83799	.	+	.	ID=exon:T4A_7623.1.13;Parent=transcript:T4A_7623.1
+scaffold161s	WormBase_imported	exon	83916	84039	.	+	.	ID=exon:T4A_7623.1.14;Parent=transcript:T4A_7623.1
+scaffold161s	WormBase_imported	exon	84385	84402	.	+	.	ID=exon:T4A_7623.1.15;Parent=transcript:T4A_7623.1
+scaffold161s	WormBase_imported	exon	84465	84470	.	+	.	ID=exon:T4A_7623.1.16;Parent=transcript:T4A_7623.1
+scaffold161s	WormBase_imported	exon	84556	84573	.	+	.	ID=exon:T4A_7623.1.17;Parent=transcript:T4A_7623.1
+scaffold161s	WormBase_imported	exon	69053	69059	.	+	.	ID=exon:T4A_7623.2.1;Parent=transcript:T4A_7623.2
+scaffold161s	WormBase_imported	exon	76548	76867	.	+	.	ID=exon:T4A_7623.2.2;Parent=transcript:T4A_7623.2
+scaffold161s	WormBase_imported	exon	78448	78590	.	+	.	ID=exon:T4A_7623.2.3;Parent=transcript:T4A_7623.2
+scaffold161s	WormBase_imported	exon	78654	78813	.	+	.	ID=exon:T4A_7623.2.4;Parent=transcript:T4A_7623.2
+scaffold161s	WormBase_imported	exon	79874	80283	.	+	.	ID=exon:T4A_7623.2.5;Parent=transcript:T4A_7623.2
+scaffold161s	WormBase_imported	exon	80550	80989	.	+	.	ID=exon:T4A_7623.2.6;Parent=transcript:T4A_7623.2
+scaffold161s	WormBase_imported	exon	81192	81620	.	+	.	ID=exon:T4A_7623.2.7;Parent=transcript:T4A_7623.2
+scaffold161s	WormBase_imported	exon	81734	82037	.	+	.	ID=exon:T4A_7623.2.8;Parent=transcript:T4A_7623.2
+scaffold161s	WormBase_imported	exon	82175	82335	.	+	.	ID=exon:T4A_7623.2.9;Parent=transcript:T4A_7623.2
+scaffold161s	WormBase_imported	exon	82517	82671	.	+	.	ID=exon:T4A_7623.2.10;Parent=transcript:T4A_7623.2
+scaffold161s	WormBase_imported	exon	83255	83628	.	+	.	ID=exon:T4A_7623.2.11;Parent=transcript:T4A_7623.2
+scaffold161s	WormBase_imported	exon	83689	83799	.	+	.	ID=exon:T4A_7623.2.12;Parent=transcript:T4A_7623.2
+scaffold161s	WormBase_imported	exon	83916	84039	.	+	.	ID=exon:T4A_7623.2.13;Parent=transcript:T4A_7623.2
+scaffold161s	WormBase_imported	exon	84385	84402	.	+	.	ID=exon:T4A_7623.2.14;Parent=transcript:T4A_7623.2
+scaffold161s	WormBase_imported	exon	84465	84470	.	+	.	ID=exon:T4A_7623.2.15;Parent=transcript:T4A_7623.2
+scaffold161s	WormBase_imported	exon	84556	84573	.	+	.	ID=exon:T4A_7623.2.16;Parent=transcript:T4A_7623.2
+scaffold161s	WormBase_imported	CDS	69053	69059	.	+	0	ID=cds:T4A_7623.1;Parent=transcript:T4A_7623.1
+scaffold161s	WormBase_imported	CDS	76548	76867	.	+	2	ID=cds:T4A_7623.1;Parent=transcript:T4A_7623.1
+scaffold161s	WormBase_imported	CDS	78448	78590	.	+	0	ID=cds:T4A_7623.1;Parent=transcript:T4A_7623.1
+scaffold161s	WormBase_imported	CDS	78654	78813	.	+	1	ID=cds:T4A_7623.1;Parent=transcript:T4A_7623.1
+scaffold161s	WormBase_imported	CDS	79874	80283	.	+	0	ID=cds:T4A_7623.1;Parent=transcript:T4A_7623.1
+scaffold161s	WormBase_imported	CDS	80550	80989	.	+	1	ID=cds:T4A_7623.1;Parent=transcript:T4A_7623.1
+scaffold161s	WormBase_imported	CDS	81159	81620	.	+	2	ID=cds:T4A_7623.1;Parent=transcript:T4A_7623.1
+scaffold161s	WormBase_imported	CDS	81734	82037	.	+	2	ID=cds:T4A_7623.1;Parent=transcript:T4A_7623.1
+scaffold161s	WormBase_imported	CDS	82175	82335	.	+	1	ID=cds:T4A_7623.1;Parent=transcript:T4A_7623.1
+scaffold161s	WormBase_imported	CDS	82517	82694	.	+	2	ID=cds:T4A_7623.1;Parent=transcript:T4A_7623.1
+scaffold161s	WormBase_imported	CDS	82792	83014	.	+	1	ID=cds:T4A_7623.1;Parent=transcript:T4A_7623.1
+scaffold161s	WormBase_imported	CDS	83255	83628	.	+	0	ID=cds:T4A_7623.1;Parent=transcript:T4A_7623.1
+scaffold161s	WormBase_imported	CDS	83689	83799	.	+	1	ID=cds:T4A_7623.1;Parent=transcript:T4A_7623.1
+scaffold161s	WormBase_imported	CDS	83916	84039	.	+	1	ID=cds:T4A_7623.1;Parent=transcript:T4A_7623.1
+scaffold161s	WormBase_imported	CDS	84385	84402	.	+	0	ID=cds:T4A_7623.1;Parent=transcript:T4A_7623.1
+scaffold161s	WormBase_imported	CDS	84465	84470	.	+	0	ID=cds:T4A_7623.1;Parent=transcript:T4A_7623.1
+scaffold161s	WormBase_imported	CDS	84556	84573	.	+	0	ID=cds:T4A_7623.1;Parent=transcript:T4A_7623.1
+scaffold161s	WormBase_imported	CDS	69053	69059	.	+	0	ID=cds:T4A_7623.2;Parent=transcript:T4A_7623.2
+scaffold161s	WormBase_imported	CDS	76548	76867	.	+	2	ID=cds:T4A_7623.2;Parent=transcript:T4A_7623.2
+scaffold161s	WormBase_imported	CDS	78448	78590	.	+	0	ID=cds:T4A_7623.2;Parent=transcript:T4A_7623.2
+scaffold161s	WormBase_imported	CDS	78654	78813	.	+	1	ID=cds:T4A_7623.2;Parent=transcript:T4A_7623.2
+scaffold161s	WormBase_imported	CDS	79874	80283	.	+	0	ID=cds:T4A_7623.2;Parent=transcript:T4A_7623.2
+scaffold161s	WormBase_imported	CDS	80550	80989	.	+	1	ID=cds:T4A_7623.2;Parent=transcript:T4A_7623.2
+scaffold161s	WormBase_imported	CDS	81192	81620	.	+	2	ID=cds:T4A_7623.2;Parent=transcript:T4A_7623.2
+scaffold161s	WormBase_imported	CDS	81734	82037	.	+	2	ID=cds:T4A_7623.2;Parent=transcript:T4A_7623.2
+scaffold161s	WormBase_imported	CDS	82175	82335	.	+	1	ID=cds:T4A_7623.2;Parent=transcript:T4A_7623.2
+scaffold161s	WormBase_imported	CDS	82517	82671	.	+	2	ID=cds:T4A_7623.2;Parent=transcript:T4A_7623.2
+scaffold161s	WormBase_imported	CDS	83255	83628	.	+	0	ID=cds:T4A_7623.2;Parent=transcript:T4A_7623.2
+scaffold161s	WormBase_imported	CDS	83689	83799	.	+	1	ID=cds:T4A_7623.2;Parent=transcript:T4A_7623.2
+scaffold161s	WormBase_imported	CDS	83916	84039	.	+	1	ID=cds:T4A_7623.2;Parent=transcript:T4A_7623.2
+scaffold161s	WormBase_imported	CDS	84385	84402	.	+	0	ID=cds:T4A_7623.2;Parent=transcript:T4A_7623.2
+scaffold161s	WormBase_imported	CDS	84465	84470	.	+	0	ID=cds:T4A_7623.2;Parent=transcript:T4A_7623.2
+scaffold161s	WormBase_imported	CDS	84556	84573	.	+	0	ID=cds:T4A_7623.2;Parent=transcript:T4A_7623.2
+scaffold182s	WormBase_imported	gene	69095	70137	.	-	.	ID=gene:T4A_5634;Name=T4A_5634;biotype=protein_coding
+scaffold182s	WormBase_imported	mRNA	69095	70137	.	-	.	ID=transcript:T4A_5634.1;Parent=gene:T4A_5634;Name=T4A_5634.1
+scaffold182s	WormBase_imported	exon	70114	70137	.	-	.	ID=exon:T4A_5634.1.1;Parent=transcript:T4A_5634.1
+scaffold182s	WormBase_imported	exon	70021	70026	.	-	.	ID=exon:T4A_5634.1.2;Parent=transcript:T4A_5634.1
+scaffold182s	WormBase_imported	exon	69899	69913	.	-	.	ID=exon:T4A_5634.1.3;Parent=transcript:T4A_5634.1
+scaffold182s	WormBase_imported	exon	69668	69677	.	-	.	ID=exon:T4A_5634.1.4;Parent=transcript:T4A_5634.1
+scaffold182s	WormBase_imported	exon	69599	69622	.	-	.	ID=exon:T4A_5634.1.5;Parent=transcript:T4A_5634.1
+scaffold182s	WormBase_imported	exon	69453	69494	.	-	.	ID=exon:T4A_5634.1.6;Parent=transcript:T4A_5634.1
+scaffold182s	WormBase_imported	exon	69362	69377	.	-	.	ID=exon:T4A_5634.1.7;Parent=transcript:T4A_5634.1
+scaffold182s	WormBase_imported	exon	69138	69171	.	-	.	ID=exon:T4A_5634.1.8;Parent=transcript:T4A_5634.1
+scaffold182s	WormBase_imported	exon	69095	69106	.	-	.	ID=exon:T4A_5634.1.9;Parent=transcript:T4A_5634.1
+scaffold182s	WormBase_imported	CDS	70114	70137	.	-	0	ID=cds:T4A_5634.1;Parent=transcript:T4A_5634.1
+scaffold182s	WormBase_imported	CDS	70021	70026	.	-	0	ID=cds:T4A_5634.1;Parent=transcript:T4A_5634.1
+scaffold182s	WormBase_imported	CDS	69899	69913	.	-	0	ID=cds:T4A_5634.1;Parent=transcript:T4A_5634.1
+scaffold182s	WormBase_imported	CDS	69668	69677	.	-	0	ID=cds:T4A_5634.1;Parent=transcript:T4A_5634.1
+scaffold182s	WormBase_imported	CDS	69599	69622	.	-	2	ID=cds:T4A_5634.1;Parent=transcript:T4A_5634.1
+scaffold182s	WormBase_imported	CDS	69453	69494	.	-	2	ID=cds:T4A_5634.1;Parent=transcript:T4A_5634.1
+scaffold182s	WormBase_imported	CDS	69362	69377	.	-	2	ID=cds:T4A_5634.1;Parent=transcript:T4A_5634.1
+scaffold182s	WormBase_imported	CDS	69138	69171	.	-	1	ID=cds:T4A_5634.1;Parent=transcript:T4A_5634.1
+scaffold182s	WormBase_imported	CDS	69095	69106	.	-	0	ID=cds:T4A_5634.1;Parent=transcript:T4A_5634.1
+scaffold191s	WormBase_imported	gene	49947	53056	.	+	.	ID=gene:T4A_5860;Name=T4A_5860;biotype=protein_coding
+scaffold191s	WormBase_imported	mRNA	49947	53056	.	+	.	ID=transcript:T4A_5860.1;Parent=gene:T4A_5860;Name=T4A_5860.1
+scaffold191s	WormBase_imported	exon	49947	49952	.	+	.	ID=exon:T4A_5860.1.1;Parent=transcript:T4A_5860.1
+scaffold191s	WormBase_imported	exon	50203	50211	.	+	.	ID=exon:T4A_5860.1.2;Parent=transcript:T4A_5860.1
+scaffold191s	WormBase_imported	exon	50599	50607	.	+	.	ID=exon:T4A_5860.1.3;Parent=transcript:T4A_5860.1
+scaffold191s	WormBase_imported	exon	50912	50918	.	+	.	ID=exon:T4A_5860.1.4;Parent=transcript:T4A_5860.1
+scaffold191s	WormBase_imported	exon	51677	51717	.	+	.	ID=exon:T4A_5860.1.5;Parent=transcript:T4A_5860.1
+scaffold191s	WormBase_imported	exon	52083	52148	.	+	.	ID=exon:T4A_5860.1.6;Parent=transcript:T4A_5860.1
+scaffold191s	WormBase_imported	exon	52779	52867	.	+	.	ID=exon:T4A_5860.1.7;Parent=transcript:T4A_5860.1
+scaffold191s	WormBase_imported	exon	53029	53056	.	+	.	ID=exon:T4A_5860.1.8;Parent=transcript:T4A_5860.1
+scaffold191s	WormBase_imported	CDS	49947	49952	.	+	0	ID=cds:T4A_5860.1;Parent=transcript:T4A_5860.1
+scaffold191s	WormBase_imported	CDS	50203	50211	.	+	0	ID=cds:T4A_5860.1;Parent=transcript:T4A_5860.1
+scaffold191s	WormBase_imported	CDS	50599	50607	.	+	0	ID=cds:T4A_5860.1;Parent=transcript:T4A_5860.1
+scaffold191s	WormBase_imported	CDS	50912	50918	.	+	0	ID=cds:T4A_5860.1;Parent=transcript:T4A_5860.1
+scaffold191s	WormBase_imported	CDS	51677	51717	.	+	2	ID=cds:T4A_5860.1;Parent=transcript:T4A_5860.1
+scaffold191s	WormBase_imported	CDS	52083	52148	.	+	0	ID=cds:T4A_5860.1;Parent=transcript:T4A_5860.1
+scaffold191s	WormBase_imported	CDS	52779	52867	.	+	0	ID=cds:T4A_5860.1;Parent=transcript:T4A_5860.1
+scaffold191s	WormBase_imported	CDS	53029	53056	.	+	1	ID=cds:T4A_5860.1;Parent=transcript:T4A_5860.1

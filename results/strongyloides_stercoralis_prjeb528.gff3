@@ -1,0 +1,674 @@
+SSTP_scaffold0000002	WormBase_imported	gene	1052171	1056250	.	-	.	ID=gene:SSTP_0000749000;Name=SSTP_0000749000;biotype=protein_coding
+SSTP_scaffold0000002	WormBase_imported	mRNA	1052171	1056250	.	-	.	ID=transcript:SSTP_0000749000.2;Parent=gene:SSTP_0000749000;Name=SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	exon	1056128	1056250	.	-	.	ID=exon:SSTP_0000749000.2.1;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	exon	1056020	1056077	.	-	.	ID=exon:SSTP_0000749000.2.2;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	exon	1055765	1055818	.	-	.	ID=exon:SSTP_0000749000.2.3;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	exon	1055666	1055683	.	-	.	ID=exon:SSTP_0000749000.2.4;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	exon	1055583	1055612	.	-	.	ID=exon:SSTP_0000749000.2.5;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	exon	1055441	1055467	.	-	.	ID=exon:SSTP_0000749000.2.6;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	exon	1055347	1055391	.	-	.	ID=exon:SSTP_0000749000.2.7;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	exon	1055281	1055301	.	-	.	ID=exon:SSTP_0000749000.2.8;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	exon	1054694	1055134	.	-	.	ID=exon:SSTP_0000749000.2.9;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	exon	1054596	1054640	.	-	.	ID=exon:SSTP_0000749000.2.10;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	exon	1054503	1054553	.	-	.	ID=exon:SSTP_0000749000.2.11;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	exon	1054457	1054462	.	-	.	ID=exon:SSTP_0000749000.2.12;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	exon	1054365	1054412	.	-	.	ID=exon:SSTP_0000749000.2.13;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	exon	1054283	1054315	.	-	.	ID=exon:SSTP_0000749000.2.14;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	exon	1054188	1054229	.	-	.	ID=exon:SSTP_0000749000.2.15;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	exon	1054091	1054126	.	-	.	ID=exon:SSTP_0000749000.2.16;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	exon	1054020	1054052	.	-	.	ID=exon:SSTP_0000749000.2.17;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	exon	1053926	1053967	.	-	.	ID=exon:SSTP_0000749000.2.18;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	exon	1053841	1053888	.	-	.	ID=exon:SSTP_0000749000.2.19;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	exon	1053745	1053786	.	-	.	ID=exon:SSTP_0000749000.2.20;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	exon	1053674	1053706	.	-	.	ID=exon:SSTP_0000749000.2.21;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	exon	1053580	1053621	.	-	.	ID=exon:SSTP_0000749000.2.22;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	exon	1053498	1053542	.	-	.	ID=exon:SSTP_0000749000.2.23;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	exon	1053400	1053441	.	-	.	ID=exon:SSTP_0000749000.2.24;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	exon	1053329	1053361	.	-	.	ID=exon:SSTP_0000749000.2.25;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	exon	1053235	1053276	.	-	.	ID=exon:SSTP_0000749000.2.26;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	exon	1053153	1053197	.	-	.	ID=exon:SSTP_0000749000.2.27;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	exon	1053056	1053097	.	-	.	ID=exon:SSTP_0000749000.2.28;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	exon	1052981	1053013	.	-	.	ID=exon:SSTP_0000749000.2.29;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	exon	1052886	1052927	.	-	.	ID=exon:SSTP_0000749000.2.30;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	exon	1052808	1052849	.	-	.	ID=exon:SSTP_0000749000.2.31;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	exon	1052709	1052750	.	-	.	ID=exon:SSTP_0000749000.2.32;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	exon	1052590	1052667	.	-	.	ID=exon:SSTP_0000749000.2.33;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	exon	1052503	1052550	.	-	.	ID=exon:SSTP_0000749000.2.34;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	exon	1052411	1052452	.	-	.	ID=exon:SSTP_0000749000.2.35;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	exon	1052171	1052241	.	-	.	ID=exon:SSTP_0000749000.2.36;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	CDS	1056128	1056250	.	-	0	ID=cds:SSTP_0000749000.2;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	CDS	1056020	1056077	.	-	0	ID=cds:SSTP_0000749000.2;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	CDS	1055765	1055818	.	-	2	ID=cds:SSTP_0000749000.2;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	CDS	1055666	1055683	.	-	2	ID=cds:SSTP_0000749000.2;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	CDS	1055583	1055612	.	-	2	ID=cds:SSTP_0000749000.2;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	CDS	1055441	1055467	.	-	2	ID=cds:SSTP_0000749000.2;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	CDS	1055347	1055391	.	-	2	ID=cds:SSTP_0000749000.2;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	CDS	1055281	1055301	.	-	2	ID=cds:SSTP_0000749000.2;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	CDS	1054694	1055134	.	-	2	ID=cds:SSTP_0000749000.2;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	CDS	1054596	1054640	.	-	2	ID=cds:SSTP_0000749000.2;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	CDS	1054503	1054553	.	-	2	ID=cds:SSTP_0000749000.2;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	CDS	1054457	1054462	.	-	2	ID=cds:SSTP_0000749000.2;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	CDS	1054365	1054412	.	-	2	ID=cds:SSTP_0000749000.2;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	CDS	1054283	1054315	.	-	2	ID=cds:SSTP_0000749000.2;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	CDS	1054188	1054229	.	-	2	ID=cds:SSTP_0000749000.2;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	CDS	1054091	1054126	.	-	2	ID=cds:SSTP_0000749000.2;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	CDS	1054020	1054052	.	-	2	ID=cds:SSTP_0000749000.2;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	CDS	1053926	1053967	.	-	2	ID=cds:SSTP_0000749000.2;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	CDS	1053841	1053888	.	-	2	ID=cds:SSTP_0000749000.2;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	CDS	1053745	1053786	.	-	2	ID=cds:SSTP_0000749000.2;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	CDS	1053674	1053706	.	-	2	ID=cds:SSTP_0000749000.2;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	CDS	1053580	1053621	.	-	2	ID=cds:SSTP_0000749000.2;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	CDS	1053498	1053542	.	-	2	ID=cds:SSTP_0000749000.2;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	CDS	1053400	1053441	.	-	2	ID=cds:SSTP_0000749000.2;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	CDS	1053329	1053361	.	-	2	ID=cds:SSTP_0000749000.2;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	CDS	1053235	1053276	.	-	2	ID=cds:SSTP_0000749000.2;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	CDS	1053153	1053197	.	-	2	ID=cds:SSTP_0000749000.2;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	CDS	1053056	1053097	.	-	2	ID=cds:SSTP_0000749000.2;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	CDS	1052981	1053013	.	-	2	ID=cds:SSTP_0000749000.2;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	CDS	1052886	1052927	.	-	2	ID=cds:SSTP_0000749000.2;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	CDS	1052808	1052849	.	-	2	ID=cds:SSTP_0000749000.2;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	CDS	1052709	1052750	.	-	2	ID=cds:SSTP_0000749000.2;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	CDS	1052590	1052667	.	-	2	ID=cds:SSTP_0000749000.2;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	CDS	1052503	1052550	.	-	2	ID=cds:SSTP_0000749000.2;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	CDS	1052411	1052452	.	-	2	ID=cds:SSTP_0000749000.2;Parent=transcript:SSTP_0000749000.2
+SSTP_scaffold0000002	WormBase_imported	CDS	1052171	1052241	.	-	2	ID=cds:SSTP_0000749000.2;Parent=transcript:SSTP_0000749000.2
+SSTP_contig0000075	WormBase_imported	gene	64655	69909	.	+	.	ID=gene:SSTP_0000538800;Name=SSTP_0000538800;biotype=protein_coding
+SSTP_contig0000075	WormBase_imported	mRNA	64655	69909	.	+	.	ID=transcript:SSTP_0000538800.2;Parent=gene:SSTP_0000538800;Name=SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	64655	64774	.	+	.	ID=exon:SSTP_0000538800.2.1;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	64827	64941	.	+	.	ID=exon:SSTP_0000538800.2.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	64981	65058	.	+	.	ID=exon:SSTP_0000538800.2.3;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	65186	65263	.	+	.	ID=exon:SSTP_0000538800.2.4;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	65305	65433	.	+	.	ID=exon:SSTP_0000538800.2.5;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	65594	65617	.	+	.	ID=exon:SSTP_0000538800.2.6;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	65660	65704	.	+	.	ID=exon:SSTP_0000538800.2.7;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	65743	65772	.	+	.	ID=exon:SSTP_0000538800.2.8;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	65819	65917	.	+	.	ID=exon:SSTP_0000538800.2.9;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	66090	66116	.	+	.	ID=exon:SSTP_0000538800.2.10;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	66161	66184	.	+	.	ID=exon:SSTP_0000538800.2.11;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	66229	66255	.	+	.	ID=exon:SSTP_0000538800.2.12;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	66316	66345	.	+	.	ID=exon:SSTP_0000538800.2.13;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	66392	66490	.	+	.	ID=exon:SSTP_0000538800.2.14;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	66660	66686	.	+	.	ID=exon:SSTP_0000538800.2.15;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	66740	66754	.	+	.	ID=exon:SSTP_0000538800.2.16;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	66798	66824	.	+	.	ID=exon:SSTP_0000538800.2.17;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	66884	66913	.	+	.	ID=exon:SSTP_0000538800.2.18;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	66953	67069	.	+	.	ID=exon:SSTP_0000538800.2.19;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	67242	67268	.	+	.	ID=exon:SSTP_0000538800.2.20;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	67312	67335	.	+	.	ID=exon:SSTP_0000538800.2.21;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	67380	67406	.	+	.	ID=exon:SSTP_0000538800.2.22;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	67466	67495	.	+	.	ID=exon:SSTP_0000538800.2.23;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	67538	67633	.	+	.	ID=exon:SSTP_0000538800.2.24;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	67868	67891	.	+	.	ID=exon:SSTP_0000538800.2.25;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	67949	67972	.	+	.	ID=exon:SSTP_0000538800.2.26;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	68022	68063	.	+	.	ID=exon:SSTP_0000538800.2.27;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	68108	68188	.	+	.	ID=exon:SSTP_0000538800.2.28;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	68227	68289	.	+	.	ID=exon:SSTP_0000538800.2.29;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	68344	68388	.	+	.	ID=exon:SSTP_0000538800.2.30;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	68436	68549	.	+	.	ID=exon:SSTP_0000538800.2.31;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	68643	68699	.	+	.	ID=exon:SSTP_0000538800.2.32;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	68779	68796	.	+	.	ID=exon:SSTP_0000538800.2.33;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	68837	68875	.	+	.	ID=exon:SSTP_0000538800.2.34;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	68922	68957	.	+	.	ID=exon:SSTP_0000538800.2.35;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	69004	69075	.	+	.	ID=exon:SSTP_0000538800.2.36;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	69115	69219	.	+	.	ID=exon:SSTP_0000538800.2.37;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	69260	69310	.	+	.	ID=exon:SSTP_0000538800.2.38;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	69365	69415	.	+	.	ID=exon:SSTP_0000538800.2.39;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	69454	69492	.	+	.	ID=exon:SSTP_0000538800.2.40;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	69528	69614	.	+	.	ID=exon:SSTP_0000538800.2.41;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	69667	69714	.	+	.	ID=exon:SSTP_0000538800.2.42;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	exon	69752	69909	.	+	.	ID=exon:SSTP_0000538800.2.43;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	64655	64774	.	+	0	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	64827	64941	.	+	0	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	64981	65058	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	65186	65263	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	65305	65433	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	65594	65617	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	65660	65704	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	65743	65772	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	65819	65917	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	66090	66116	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	66161	66184	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	66229	66255	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	66316	66345	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	66392	66490	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	66660	66686	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	66740	66754	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	66798	66824	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	66884	66913	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	66953	67069	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	67242	67268	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	67312	67335	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	67380	67406	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	67466	67495	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	67538	67633	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	67868	67891	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	67949	67972	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	68022	68063	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	68108	68188	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	68227	68289	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	68344	68388	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	68436	68549	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	68643	68699	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	68779	68796	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	68837	68875	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	68922	68957	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	69004	69075	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	69115	69219	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	69260	69310	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	69365	69415	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	69454	69492	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	69528	69614	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	69667	69714	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	WormBase_imported	CDS	69752	69909	.	+	2	ID=cds:SSTP_0000538800.2;Parent=transcript:SSTP_0000538800.2
+SSTP_contig0000075	dust	low_complexity_region	1	58	.	-	.	
+SSTP_contig0000075	RepeatMasker	repeat_region	51	190	322	+	.	
+SSTP_contig0000075	dust	low_complexity_region	170	230	.	-	.	
+SSTP_contig0000075	RepeatMasker	repeat_region	207	442	1018	+	.	
+SSTP_contig0000075	RepeatMasker	repeat_region	244	843	2705	-	.	
+SSTP_contig0000075	dust	low_complexity_region	309	372	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	618	626	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	676	683	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	869	980	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	1029	1096	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	1098	1107	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	1155	1209	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	1242	1249	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	1402	1465	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	1576	1667	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	1645	1669	41	-	.	
+SSTP_contig0000075	dust	low_complexity_region	1740	1747	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	1834	1885	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	1985	1991	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	2000	2092	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	2125	2134	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	2362	2368	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	2613	2632	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	3091	3155	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	3364	3370	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	3573	3651	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	3653	3722	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	4554	4561	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	4569	4689	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	4804	4866	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	4894	4991	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	5174	5180	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	5431	5504	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	5534	5600	74	-	.	
+SSTP_contig0000075	dust	low_complexity_region	5563	5570	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	5613	5630	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	5644	5653	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	5862	5927	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	6199	6205	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	6363	6380	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	6467	6474	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	6892	6908	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	7170	7223	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	7333	7340	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	7407	7413	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	7511	7518	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	7859	7984	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	8465	8528	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	8531	8550	40	-	.	
+SSTP_contig0000075	dust	low_complexity_region	8549	8556	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	8793	8800	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	9009	9072	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	9080	9145	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	9160	9167	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	9218	9224	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	9287	9410	.	-	.	
+SSTP_contig0000075	RepeatMasker	repeat_region	9371	10104	2153	-	.	
+SSTP_contig0000075	dust	low_complexity_region	9484	9535	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	9660	9667	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	9730	9871	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	9753	9845	88	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	9756	9815	69	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	9756	9848	90	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	9793	9869	83	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	9793	9871	70	-	.	
+SSTP_contig0000075	RepeatMasker	repeat_region	10103	10307	760	-	.	
+SSTP_contig0000075	dust	low_complexity_region	10237	10344	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	10380	10445	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	10515	10523	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	10540	10546	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	10641	10648	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	10678	10728	60	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	10680	10716	53	-	.	
+SSTP_contig0000075	dust	low_complexity_region	10680	10747	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	10831	10963	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	10975	11086	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	11010	11053	51	-	.	
+SSTP_contig0000075	dust	low_complexity_region	11153	11223	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	11238	11347	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	11381	11388	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	11697	11704	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	11766	11772	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	12497	12504	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	12523	12740	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	12743	12750	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	12840	12955	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	13208	13289	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	13956	14018	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	14700	14706	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	14865	14912	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	15034	15095	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	15121	15128	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	15616	15623	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	15664	15670	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	15726	15732	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	15817	15823	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	15895	15995	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	16059	16065	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	16475	16513	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	16916	16989	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	17043	17115	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	17219	17283	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	17294	17513	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	18600	18747	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	18601	18639	57	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	18677	18728	60	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	18677	18754	89	-	.	
+SSTP_contig0000075	dust	low_complexity_region	18764	18770	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	19026	19074	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	19044	19074	41	-	.	
+SSTP_contig0000075	dust	low_complexity_region	19177	19184	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	19293	19356	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	19399	19407	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	19481	19487	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	19519	19584	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	19693	19700	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	20246	20401	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	20408	20465	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	20498	20505	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	20551	20557	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	20651	20713	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	20764	20771	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	20934	20941	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	20975	20981	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	21148	21328	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	21170	21307	109	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	21203	21327	110	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	21203	21327	132	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	21212	21328	103	-	.	
+SSTP_contig0000075	dust	low_complexity_region	21340	21348	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	21351	21360	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	21377	21703	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	21586	21635	54	-	.	
+SSTP_contig0000075	dust	low_complexity_region	21737	21744	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	21793	21931	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	21974	22062	.	-	.	
+SSTP_contig0000075	RepeatMasker	repeat_region	22382	23108	867	+	.	
+SSTP_contig0000075	dust	low_complexity_region	22451	22457	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	22881	22888	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	22919	22926	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	23123	23129	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	23141	23258	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	23296	23302	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	23388	23394	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	23457	23605	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	23857	24000	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	24350	24408	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	24489	24495	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	24535	24590	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	24788	24796	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	24937	24944	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	25415	25478	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	25544	25587	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	25602	25608	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	25680	25687	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	25763	25770	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	25814	25892	107	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	25814	25890	91	-	.	
+SSTP_contig0000075	dust	low_complexity_region	25889	26047	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	26082	26205	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	26232	26291	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	26233	26284	55	-	.	
+SSTP_contig0000075	dust	low_complexity_region	26439	26445	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	26463	26474	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	26484	26532	77	-	.	
+SSTP_contig0000075	dust	low_complexity_region	26487	26532	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	26573	26639	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	26676	26751	.	-	.	
+SSTP_contig0000075	RepeatMasker	repeat_region	26699	26921	275	-	.	Name=rnd-4_family-28;repeat_class=rRNA
+SSTP_contig0000075	dust	low_complexity_region	26784	26790	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	26831	26837	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	26958	27015	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	27101	27108	.	-	.	
+SSTP_contig0000075	RepeatMasker	repeat_region	27173	27283	272	+	.	
+SSTP_contig0000075	dust	low_complexity_region	27284	27334	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	27394	27403	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	27470	27609	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	27722	27729	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	28054	28062	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	28102	28185	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	28476	28488	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	28572	28630	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	29048	29115	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	29178	29185	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	29216	29265	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	29267	29274	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	29337	29343	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	29389	29467	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	29412	29461	54	-	.	
+SSTP_contig0000075	dust	low_complexity_region	29979	30058	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	30514	30520	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	30776	30783	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	30914	30920	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	31039	31124	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	31235	31366	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	31401	31440	52	-	.	
+SSTP_contig0000075	dust	low_complexity_region	31414	31516	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	31526	31532	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	31616	31623	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	31635	31690	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	31781	31787	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	32040	32076	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	32125	32131	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	32157	32400	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	32405	32411	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	32484	32503	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	32585	32870	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	32784	32835	51	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	32784	32828	53	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	32784	32835	69	-	.	
+SSTP_contig0000075	dust	low_complexity_region	32970	33111	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	33155	33161	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	33293	33301	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	33326	33407	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	33497	33506	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	33548	33554	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	33618	33624	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	33645	33731	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	33753	33759	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	33957	34056	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	34080	34134	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	34279	34286	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	34362	34517	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	34685	34692	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	34776	34782	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	34810	34871	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	34922	35004	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	35037	35120	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	35212	35218	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	35303	35342	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	35353	35422	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	35446	35482	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	35447	35474	40	-	.	
+SSTP_contig0000075	dust	low_complexity_region	35828	35942	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	36052	36164	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	36316	36383	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	36479	36485	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	36755	36761	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	36769	36820	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	36837	36900	68	-	.	
+SSTP_contig0000075	dust	low_complexity_region	36861	36933	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	36972	36978	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	37035	37097	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	37275	37298	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	37325	37402	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	37351	37401	56	-	.	
+SSTP_contig0000075	dust	low_complexity_region	37588	37741	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	37670	37708	69	-	.	
+SSTP_contig0000075	dust	low_complexity_region	37790	37913	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	37921	37968	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	38018	38024	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	38183	38238	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	38251	38257	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	38407	38486	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	38649	38657	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	38675	38681	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	38708	38714	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	38906	38915	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	39270	39332	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	39382	39568	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	39591	39626	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	39824	39831	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	39938	39944	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	40237	40243	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	40633	40639	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	40675	40681	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	40717	40723	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	40779	40841	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	40871	40889	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	40942	40948	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	40982	41138	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	41438	41496	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	41902	41908	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	41993	42073	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	42145	42151	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	42168	42278	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	42388	42394	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	42410	42522	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	42531	42537	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	42596	42779	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	42832	42840	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	42847	42952	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	42978	43050	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	43057	43127	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	43151	43185	.	-	.	
+SSTP_contig0000075	RepeatMasker	repeat_region	43500	43886	530	+	.	
+SSTP_contig0000075	dust	low_complexity_region	43697	43713	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	44266	44318	64	-	.	
+SSTP_contig0000075	dust	low_complexity_region	44268	44480	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	44512	44698	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	44718	44725	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	44786	44792	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	44829	44836	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	44904	44947	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	45026	45033	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	45081	45120	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	45131	45220	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	45161	45207	64	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	45320	45395	117	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	45335	45421	97	-	.	
+SSTP_contig0000075	dust	low_complexity_region	45335	45428	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	45346	45395	79	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	45346	45441	92	-	.	
+SSTP_contig0000075	dust	low_complexity_region	45467	45536	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	45474	45493	40	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	45482	45542	101	-	.	
+SSTP_contig0000075	dust	low_complexity_region	45613	45753	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	45649	45751	64	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	45686	45751	67	-	.	
+SSTP_contig0000075	dust	low_complexity_region	45775	45783	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	45788	45804	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	45913	45919	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	45970	46039	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	46094	46108	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	46184	46252	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	46424	46449	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	46464	46471	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	46536	46842	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	46795	46840	55	-	.	
+SSTP_contig0000075	dust	low_complexity_region	46878	46967	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	46995	47052	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	47117	47152	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	47203	47331	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	47341	47431	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	47673	47759	118	-	.	
+SSTP_contig0000075	dust	low_complexity_region	47717	47780	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	47741	47771	55	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	47792	47815	48	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	47890	47970	79	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	47897	47979	87	-	.	
+SSTP_contig0000075	dust	low_complexity_region	47902	47994	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	47905	47978	88	-	.	
+SSTP_contig0000075	dust	low_complexity_region	48014	48052	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	48124	48353	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	48441	48502	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	48539	48545	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	48604	48613	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	48649	48668	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	48783	48870	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	48901	49007	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	49019	49133	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	49156	49195	59	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	49168	49207	52	-	.	
+SSTP_contig0000075	dust	low_complexity_region	49192	49198	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	49202	49317	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	49356	49553	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	49482	49905	460	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	49492	49538	57	-	.	
+SSTP_contig0000075	dust	low_complexity_region	49614	49697	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	49761	49829	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	49916	50002	90	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	49944	50061	124	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	50175	50235	80	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	50185	50242	88	-	.	
+SSTP_contig0000075	dust	low_complexity_region	50198	50265	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	50329	50464	105	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	50329	50455	151	-	.	
+SSTP_contig0000075	dust	low_complexity_region	50329	50513	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	50340	50470	82	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	50344	50464	131	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	50354	50470	128	-	.	
+SSTP_contig0000075	dust	low_complexity_region	50613	50619	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	50729	50763	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	50875	51226	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	50951	51004	80	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	51038	51086	59	-	.	
+SSTP_contig0000075	dust	low_complexity_region	51288	51391	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	51309	51341	52	-	.	
+SSTP_contig0000075	dust	low_complexity_region	51396	51527	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	51609	51615	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	51983	52142	187	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	51987	52142	151	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	51995	52142	198	-	.	
+SSTP_contig0000075	dust	low_complexity_region	52034	52121	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	52218	52278	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	52319	52457	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	52571	52668	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	52701	52763	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	52781	53142	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	53192	53198	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	53222	53328	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	53266	53311	71	-	.	
+SSTP_contig0000075	dust	low_complexity_region	53401	53471	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	53875	53881	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	53940	53954	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	54164	54171	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	54531	54550	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	54566	54631	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	54676	54684	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	54735	54963	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	55040	55121	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	55248	55326	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	55458	55464	.	-	.	
+SSTP_contig0000075	RepeatMasker	repeat_region	55633	56635	605	+	.	
+SSTP_contig0000075	dust	low_complexity_region	55737	55745	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	55760	55766	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	55848	55855	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	56332	56340	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	56687	56693	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	56696	56901	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	56922	57130	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	57165	57361	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	57178	57235	68	-	.	
+SSTP_contig0000075	dust	low_complexity_region	57500	57519	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	57667	57701	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	57735	57741	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	57889	57895	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	58088	58094	.	-	.	
+SSTP_contig0000075	RepeatMasker	repeat_region	58151	58742	642	+	.	
+SSTP_contig0000075	dust	low_complexity_region	58168	58176	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	58810	58816	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	59088	59289	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	59297	59325	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	59387	59396	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	59437	59443	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	59537	59601	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	59607	59957	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	60047	60110	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	60115	60133	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	60208	60284	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	60319	60326	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	60336	60569	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	60427	60475	59	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	60440	60531	89	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	60482	60534	51	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	60483	60534	67	-	.	
+SSTP_contig0000075	dust	low_complexity_region	60584	60766	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	60621	60673	53	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	60651	60732	97	-	.	
+SSTP_contig0000075	dust	low_complexity_region	60803	60898	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	60955	60963	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	61055	61069	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	61089	61095	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	61281	61325	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	61804	61810	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	61907	61913	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	62044	62050	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	62618	62625	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	62873	62879	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	64050	64115	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	64117	64136	40	-	.	
+SSTP_contig0000075	dust	low_complexity_region	64117	64247	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	64260	64468	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	64282	64332	60	-	.	
+SSTP_contig0000075	dust	low_complexity_region	64491	64497	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	64538	64544	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	64625	64701	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	64817	64824	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	64890	64905	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	64946	64990	62	-	.	
+SSTP_contig0000075	dust	low_complexity_region	64946	64979	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	65093	65184	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	65311	65388	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	65337	65382	57	-	.	
+SSTP_contig0000075	dust	low_complexity_region	65533	65541	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	65571	65577	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	65633	65664	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	65714	65720	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	65800	65815	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	65826	65900	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	66015	66087	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	66200	66207	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	66271	66329	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	66373	66379	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	66399	66452	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	66721	66728	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	66941	66949	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	66960	67035	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	67088	67094	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	67106	67119	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	67170	67240	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	67303	67309	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	67352	67358	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	67428	67464	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	67484	67617	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	67656	67692	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	67722	67861	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	67883	67947	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	68105	68176	74	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	68105	68147	44	-	.	
+SSTP_contig0000075	dust	low_complexity_region	68110	68188	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	68116	68159	53	-	.	
+SSTP_contig0000075	dust	low_complexity_region	68390	68564	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	68477	68548	72	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	68478	68548	50	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	68478	68539	66	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	68480	68545	86	-	.	
+SSTP_contig0000075	dust	low_complexity_region	68598	68608	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	68643	68649	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	68747	68753	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	68809	68834	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	68980	69069	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	69121	69128	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	69128	69172	55	-	.	
+SSTP_contig0000075	dust	low_complexity_region	69425	69438	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	69457	69463	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	69530	69613	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	69928	70032	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	69947	69991	53	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	70031	70069	53	-	.	
+SSTP_contig0000075	dust	low_complexity_region	70036	70069	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	70095	70107	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	70109	70268	.	-	.	
+SSTP_contig0000075	RepeatMasker	repeat_region	70265	70496	730	-	.	Name=gypsy.119;repeat_class=LTR
+SSTP_contig0000075	tandem	tandem_repeat	70361	70380	40	-	.	
+SSTP_contig0000075	dust	low_complexity_region	70404	70441	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	70629	70640	.	-	.	
+SSTP_contig0000075	dust	low_complexity_region	70707	70799	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	70939	70964	45	-	.	
+SSTP_contig0000075	dust	low_complexity_region	70941	71060	.	-	.	
+SSTP_contig0000075	tandem	tandem_repeat	70991	71025	49	-	.	
+SSTP_contig0000075	dust	low_complexity_region	71290	71297	.	-	.	
