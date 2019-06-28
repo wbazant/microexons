@@ -1,5 +1,6 @@
 Scaffold_4	WormBase_imported	gene	1429873	1431074	.	+	.	ID=gene:jg14455;Name=jg14455;biotype=protein_coding
 Scaffold_4	WormBase_imported	mRNA	1429873	1431074	.	+	.	ID=transcript:jg14455;Parent=gene:jg14455;Name=jg14455;info=method:InterPro accession:IPR013087 description:Zinc finger C2H2-type %0Amethod:InterPro accession:IPR036236 description:Zinc finger C2H2 superfamily
+#microexons transcript:jg14455:  43 285 127 18-12-3 40
 Scaffold_4	WormBase_imported	exon	1429873	1429915	.	+	.	ID=exon:jg14455.1;Parent=transcript:jg14455
 Scaffold_4	WormBase_imported	exon	1429973	1430257	.	+	.	ID=exon:jg14455.2;Parent=transcript:jg14455
 Scaffold_4	WormBase_imported	exon	1430633	1430759	.	+	.	ID=exon:jg14455.3;Parent=transcript:jg14455
@@ -16,6 +17,7 @@ Scaffold_4	WormBase_imported	CDS	1430985	1430987	.	+	1	ID=cds:jg14455;Parent=tra
 Scaffold_4	WormBase_imported	CDS	1431035	1431074	.	+	1	ID=cds:jg14455;Parent=transcript:jg14455
 Scaffold_874	WormBase_imported	gene	555473	567342	.	+	.	ID=gene:jg4293;Name=jg4293;biotype=protein_coding
 Scaffold_874	WormBase_imported	mRNA	555473	567342	.	+	.	ID=transcript:jg4293;Parent=gene:jg4293;Name=jg4293;info=method:InterPro accession:IPR000716 description:Thyroglobulin type-1 %0Amethod:InterPro accession:IPR002919 description:Trypsin Inhibitor-like%2C cysteine rich domain %0Amethod:InterPro accession:IPR036084 description:Serine protease inhibitor-like superfamily %0Amethod:InterPro accession:IPR036857 description:Thyroglobulin type-1 superfamily
+#microexons transcript:jg4293:  97 37 12-6-21 89 51 87 411 409 453 89 156 80 75 227 159 289
 Scaffold_874	WormBase_imported	exon	555473	555569	.	+	.	ID=exon:jg4293.1;Parent=transcript:jg4293
 Scaffold_874	WormBase_imported	exon	555621	555657	.	+	.	ID=exon:jg4293.2;Parent=transcript:jg4293
 Scaffold_874	WormBase_imported	exon	555802	555813	.	+	.	ID=exon:jg4293.3;Parent=transcript:jg4293
@@ -54,6 +56,7 @@ Scaffold_874	WormBase_imported	CDS	566237	566395	.	+	1	ID=cds:jg4293;Parent=tran
 Scaffold_874	WormBase_imported	CDS	567054	567342	.	+	1	ID=cds:jg4293;Parent=transcript:jg4293
 Scaffold_501	WormBase_imported	gene	200283	204052	.	-	.	ID=gene:jg17626;Name=jg17626;biotype=protein_coding
 Scaffold_501	WormBase_imported	mRNA	200283	204052	.	-	.	ID=transcript:jg17626;Parent=gene:jg17626;Name=jg17626;info=method:InterPro accession:IPR004821 description:Cytidyltransferase-like domain %0Amethod:InterPro accession:IPR014729 description:Rossmann-like alpha/beta/alpha sandwich fold
+#microexons transcript:jg17626:  131 79 13 30 120 23 42 24-6-27 33 201 15 31 107 144
 Scaffold_501	WormBase_imported	exon	203922	204052	.	-	.	ID=exon:jg17626.1;Parent=transcript:jg17626
 Scaffold_501	WormBase_imported	exon	203794	203872	.	-	.	ID=exon:jg17626.2;Parent=transcript:jg17626
 Scaffold_501	WormBase_imported	exon	203731	203743	.	-	.	ID=exon:jg17626.3;Parent=transcript:jg17626
@@ -88,6 +91,7 @@ Scaffold_501	WormBase_imported	CDS	200484	200590	.	-	2	ID=cds:jg17626;Parent=tra
 Scaffold_501	WormBase_imported	CDS	200283	200426	.	-	0	ID=cds:jg17626;Parent=transcript:jg17626
 Scaffold_876	WormBase_imported	gene	195977	208425	.	-	.	ID=gene:jg18984;Name=jg18984;biotype=protein_coding
 Scaffold_876	WormBase_imported	mRNA	195977	208425	.	-	.	ID=transcript:jg18984;Parent=gene:jg18984;Name=jg18984;info=method:InterPro accession:IPR000341 description:Phosphatidylinositol 3-kinase Ras-binding (PI3K RBD) domain %0Amethod:InterPro accession:IPR001263 description:Phosphoinositide 3-kinase%2C accessory (PIK) domain %0Amethod:InterPro accession:IPR002420 description:Phosphatidylinositol 3-kinase%2C C2 domain %0Amethod:InterPro accession:IPR003113 description:Phosphatidylinositol 3-kinase adaptor-binding (PI3K ABD) domain %0Amethod:InterPro accession:IPR015433 description:Phosphatidylinositol kinase %0Amethod:InterPro accession:IPR016024 description:Armadillo-type fold %0Amethod:InterPro accession:IPR029071 description:Ubiquitin-like domain superfamily %0Amethod:InterPro accession:IPR035892 description:C2 domain superfamily
+#microexons transcript:jg18984:  96 34 47 32 56 30-21-24 113 28 263 87 102 32 6 139 128 22 204 54 111 111 48 81 98 64
 Scaffold_876	WormBase_imported	exon	208330	208425	.	-	.	ID=exon:jg18984.1;Parent=transcript:jg18984
 Scaffold_876	WormBase_imported	exon	206682	206715	.	-	.	ID=exon:jg18984.2;Parent=transcript:jg18984
 Scaffold_876	WormBase_imported	exon	206579	206625	.	-	.	ID=exon:jg18984.3;Parent=transcript:jg18984
@@ -142,6 +146,7 @@ Scaffold_876	WormBase_imported	CDS	196087	196184	.	-	0	ID=cds:jg18984;Parent=tra
 Scaffold_876	WormBase_imported	CDS	195977	196040	.	-	1	ID=cds:jg18984;Parent=transcript:jg18984
 Scaffold_876	WormBase_imported	gene	418244	421684	.	+	.	ID=gene:jg19010;Name=jg19010;biotype=protein_coding
 Scaffold_876	WormBase_imported	mRNA	418244	421684	.	+	.	ID=transcript:jg19010;Parent=gene:jg19010;Name=jg19010;info=method:InterPro accession:IPR015590 description:Aldehyde dehydrogenase domain %0Amethod:InterPro accession:IPR016160 description:Aldehyde dehydrogenase%2C cysteine active site %0Amethod:InterPro accession:IPR016161 description:Aldehyde/histidinol dehydrogenase %0Amethod:InterPro accession:IPR016162 description:Aldehyde dehydrogenase%2C N-terminal %0Amethod:InterPro accession:IPR016163 description:Aldehyde dehydrogenase%2C C-terminal %0Amethod:InterPro accession:IPR029510 description:Aldehyde dehydrogenase%2C glutamic acid active site
+#microexons transcript:jg19010:  9-27-12 78 63 88 83 85 48 174 56 60 31 161 140 27 58 42
 Scaffold_876	WormBase_imported	exon	418244	418252	.	+	.	ID=exon:jg19010.1;Parent=transcript:jg19010
 Scaffold_876	WormBase_imported	exon	418300	418326	.	+	.	ID=exon:jg19010.2;Parent=transcript:jg19010
 Scaffold_876	WormBase_imported	exon	418385	418396	.	+	.	ID=exon:jg19010.3;Parent=transcript:jg19010
@@ -180,6 +185,7 @@ Scaffold_876	WormBase_imported	CDS	421536	421593	.	+	1	ID=cds:jg19010;Parent=tra
 Scaffold_876	WormBase_imported	CDS	421643	421684	.	+	0	ID=cds:jg19010;Parent=transcript:jg19010
 Scaffold_870	WormBase_imported	gene	661780	664119	.	+	.	ID=gene:jg10289;Name=jg10289;biotype=protein_coding
 Scaffold_870	WormBase_imported	mRNA	661780	664119	.	+	.	ID=transcript:jg10289;Parent=gene:jg10289;Name=jg10289;info=method:InterPro accession:IPR013507 description:DNA mismatch repair protein%2C  S5 domain 2-like %0Amethod:InterPro accession:IPR014721 description:Ribosomal protein S5 domain 2-type fold%2C subgroup %0Amethod:InterPro accession:IPR020568 description:Ribosomal protein S5 domain 2-type fold %0Amethod:InterPro accession:IPR032189 description:DNA mismatch repair protein Mlh1%2C C-terminal %0Amethod:InterPro accession:IPR036890 description:Histidine kinase/HSP90-like ATPase superfamily %0Amethod:InterPro accession:IPR038973 description:DNA mismatch repair protein MutL/Mlh/Pms
+#microexons transcript:jg10289:  4 12 28 144 129 55 9 129 21-6-27 257 133 213 249 114
 Scaffold_870	WormBase_imported	exon	661780	661783	.	+	.	ID=exon:jg10289.1;Parent=transcript:jg10289
 Scaffold_870	WormBase_imported	exon	661837	661848	.	+	.	ID=exon:jg10289.2;Parent=transcript:jg10289
 Scaffold_870	WormBase_imported	exon	661901	661928	.	+	.	ID=exon:jg10289.3;Parent=transcript:jg10289
@@ -214,6 +220,7 @@ Scaffold_870	WormBase_imported	CDS	663708	663956	.	+	0	ID=cds:jg10289;Parent=tra
 Scaffold_870	WormBase_imported	CDS	664006	664119	.	+	0	ID=cds:jg10289;Parent=transcript:jg10289
 Scaffold_899	WormBase_imported	gene	570092	570993	.	-	.	ID=gene:jg7382;Name=jg7382;biotype=protein_coding
 Scaffold_899	WormBase_imported	mRNA	570092	570993	.	-	.	ID=transcript:jg7382;Parent=gene:jg7382;Name=jg7382
+#microexons transcript:jg7382:  3-27 138 39 39 15-24-30
 Scaffold_899	WormBase_imported	exon	570991	570993	.	-	.	ID=exon:jg7382.1;Parent=transcript:jg7382
 Scaffold_899	WormBase_imported	exon	570911	570937	.	-	.	ID=exon:jg7382.2;Parent=transcript:jg7382
 Scaffold_899	WormBase_imported	exon	570723	570860	.	-	.	ID=exon:jg7382.3;Parent=transcript:jg7382
@@ -232,6 +239,7 @@ Scaffold_899	WormBase_imported	CDS	570339	570362	.	-	0	ID=cds:jg7382;Parent=tran
 Scaffold_899	WormBase_imported	CDS	570092	570121	.	-	0	ID=cds:jg7382;Parent=transcript:jg7382
 Scaffold_515	WormBase_imported	gene	503807	504657	.	-	.	ID=gene:jg7846;Name=jg7846;biotype=protein_coding
 Scaffold_515	WormBase_imported	mRNA	503807	504657	.	-	.	ID=transcript:jg7846;Parent=gene:jg7846;Name=jg7846;info=method:InterPro accession:IPR024166 description:Ribosomal RNA assembly KRR1 %0Amethod:InterPro accession:IPR036612 description:K Homology domain%2C type 1 superfamily %0Amethod:InterPro accession:IPR041174 description:Krr1%2C KH1 domain
+#microexons transcript:jg7846:  112 8 85 125 15-3-30
 Scaffold_515	WormBase_imported	exon	504546	504657	.	-	.	ID=exon:jg7846.1;Parent=transcript:jg7846
 Scaffold_515	WormBase_imported	exon	504485	504492	.	-	.	ID=exon:jg7846.2;Parent=transcript:jg7846
 Scaffold_515	WormBase_imported	exon	504359	504443	.	-	.	ID=exon:jg7846.3;Parent=transcript:jg7846
@@ -248,6 +256,7 @@ Scaffold_515	WormBase_imported	CDS	503889	503891	.	-	0	ID=cds:jg7846;Parent=tran
 Scaffold_515	WormBase_imported	CDS	503807	503836	.	-	0	ID=cds:jg7846;Parent=transcript:jg7846
 Scaffold_515	WormBase_imported	gene	517402	519176	.	-	.	ID=gene:jg7852;Name=jg7852;biotype=protein_coding
 Scaffold_515	WormBase_imported	mRNA	517402	519176	.	-	.	ID=transcript:jg7852;Parent=gene:jg7852;Name=jg7852;info=method:InterPro accession:IPR004160 description:Translation elongation factor EFTu/EF1A%2C C-terminal %0Amethod:InterPro accession:IPR009001 description:Translation elongation factor EF1A/initiation factor IF2gamma%2C C-terminal %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase
+#microexons transcript:jg7852:  39 71 18 147 59 35 12-30-6 46 53 84 93 120
 Scaffold_515	WormBase_imported	exon	519138	519176	.	-	.	ID=exon:jg7852.1;Parent=transcript:jg7852
 Scaffold_515	WormBase_imported	exon	519014	519084	.	-	.	ID=exon:jg7852.2;Parent=transcript:jg7852
 Scaffold_515	WormBase_imported	exon	518932	518949	.	-	.	ID=exon:jg7852.3;Parent=transcript:jg7852
@@ -278,6 +287,7 @@ Scaffold_515	WormBase_imported	CDS	517611	517703	.	-	0	ID=cds:jg7852;Parent=tran
 Scaffold_515	WormBase_imported	CDS	517402	517521	.	-	0	ID=cds:jg7852;Parent=transcript:jg7852
 Scaffold_927	WormBase_imported	gene	309062	314140	.	-	.	ID=gene:jg19205;Name=jg19205;biotype=protein_coding
 Scaffold_927	WormBase_imported	mRNA	309062	314140	.	-	.	ID=transcript:jg19205;Parent=gene:jg19205;Name=jg19205;info=method:InterPro accession:IPR007356 description:tRNA (guanine-N1-)-methyltransferase%2C eukaryotic %0Amethod:InterPro accession:IPR038459 description:tRNA methyltransferase TRM10-type domain superfamily
+#microexons transcript:jg19205:  16 140 43 16 34 15-18-18 82 42 14 99 36 59 19 111 14 84 56 55 52 37 113
 Scaffold_927	WormBase_imported	exon	314125	314140	.	-	.	ID=exon:jg19205.1;Parent=transcript:jg19205
 Scaffold_927	WormBase_imported	exon	313933	314072	.	-	.	ID=exon:jg19205.2;Parent=transcript:jg19205
 Scaffold_927	WormBase_imported	exon	313842	313884	.	-	.	ID=exon:jg19205.3;Parent=transcript:jg19205
@@ -326,6 +336,7 @@ Scaffold_927	WormBase_imported	CDS	309224	309260	.	-	0	ID=cds:jg19205;Parent=tra
 Scaffold_927	WormBase_imported	CDS	309062	309174	.	-	2	ID=cds:jg19205;Parent=transcript:jg19205
 Scaffold_923	WormBase_imported	gene	366599	367130	.	-	.	ID=gene:jg18238;Name=jg18238;biotype=protein_coding
 Scaffold_923	WormBase_imported	mRNA	366599	367130	.	-	.	ID=transcript:jg18238;Parent=gene:jg18238;Name=jg18238;info=method:InterPro accession:IPR008576 description:Alpha-N-methyltransferase NTM1 %0Amethod:InterPro accession:IPR029063 description:S-adenosyl-L-methionine-dependent methyltransferase
+#microexons transcript:jg18238:  9-9-24 243 33
 Scaffold_923	WormBase_imported	exon	367122	367130	.	-	.	ID=exon:jg18238.1;Parent=transcript:jg18238
 Scaffold_923	WormBase_imported	exon	367065	367073	.	-	.	ID=exon:jg18238.2;Parent=transcript:jg18238
 Scaffold_923	WormBase_imported	exon	366997	367020	.	-	.	ID=exon:jg18238.3;Parent=transcript:jg18238
@@ -338,6 +349,7 @@ Scaffold_923	WormBase_imported	CDS	366682	366924	.	-	0	ID=cds:jg18238;Parent=tra
 Scaffold_923	WormBase_imported	CDS	366599	366631	.	-	0	ID=cds:jg18238;Parent=transcript:jg18238
 Scaffold_915	WormBase_imported	gene	231155	239030	.	-	.	ID=gene:jg5754;Name=jg5754;biotype=protein_coding
 Scaffold_915	WormBase_imported	mRNA	231155	239030	.	-	.	ID=transcript:jg5754;Parent=gene:jg5754;Name=jg5754;info=method:InterPro accession:IPR000536 description:Nuclear hormone receptor%2C ligand-binding domain %0Amethod:InterPro accession:IPR035500 description:Nuclear hormone receptor-like domain superfamily
+#microexons transcript:jg5754:  144 123 21 22 38 18-18-30 94 82 74 87 107 68 28
 Scaffold_915	WormBase_imported	exon	238887	239030	.	-	.	ID=exon:jg5754.1;Parent=transcript:jg5754
 Scaffold_915	WormBase_imported	exon	238157	238279	.	-	.	ID=exon:jg5754.2;Parent=transcript:jg5754
 Scaffold_915	WormBase_imported	exon	238088	238108	.	-	.	ID=exon:jg5754.3;Parent=transcript:jg5754
@@ -370,6 +382,7 @@ Scaffold_915	WormBase_imported	CDS	231358	231425	.	-	0	ID=cds:jg5754;Parent=tran
 Scaffold_915	WormBase_imported	CDS	231155	231182	.	-	1	ID=cds:jg5754;Parent=transcript:jg5754
 Scaffold_954	WormBase_imported	gene	311393	325673	.	+	.	ID=gene:jg22156;Name=jg22156;biotype=protein_coding
 Scaffold_954	WormBase_imported	mRNA	311393	325673	.	+	.	ID=transcript:jg22156;Parent=gene:jg22156;Name=jg22156;info=method:InterPro accession:IPR002759 description:Ribonuclease P/MRP protein subunit %0Amethod:InterPro accession:IPR004364 description:Aminoacyl-tRNA synthetase%2C class II (D/K/N) %0Amethod:InterPro accession:IPR006195 description:Aminoacyl-tRNA synthetase%2C class II %0Amethod:InterPro accession:IPR012340 description:Nucleic acid-binding%2C OB-fold %0Amethod:InterPro accession:IPR038085 description:Rnp2-like domain superfamily
+#microexons transcript:jg22156:  96 58 69 37 70 123 37 43 25 23 229 216 70 70 55 27-21-21 53 13 62 14 23 64 57 169 140 146
 Scaffold_954	WormBase_imported	exon	311393	311488	.	+	.	ID=exon:jg22156.1;Parent=transcript:jg22156
 Scaffold_954	WormBase_imported	exon	311535	311592	.	+	.	ID=exon:jg22156.2;Parent=transcript:jg22156
 Scaffold_954	WormBase_imported	exon	312018	312086	.	+	.	ID=exon:jg22156.3;Parent=transcript:jg22156
@@ -428,6 +441,7 @@ Scaffold_954	WormBase_imported	CDS	325337	325476	.	+	1	ID=cds:jg22156;Parent=tra
 Scaffold_954	WormBase_imported	CDS	325528	325673	.	+	2	ID=cds:jg22156;Parent=transcript:jg22156
 Scaffold_1157	WormBase_imported	gene	126073	131647	.	+	.	ID=gene:jg3013;Name=jg3013;biotype=protein_coding
 Scaffold_1157	WormBase_imported	mRNA	126073	131647	.	+	.	ID=transcript:jg3013;Parent=gene:jg3013;Name=jg3013;info=method:InterPro accession:IPR002602 description:Domain of unknown function DB
+#microexons transcript:jg3013:  37 64 58 124 37 89 31 24-15-27 39 104 104
 Scaffold_1157	WormBase_imported	exon	126073	126109	.	+	.	ID=exon:jg3013.1;Parent=transcript:jg3013
 Scaffold_1157	WormBase_imported	exon	127077	127140	.	+	.	ID=exon:jg3013.2;Parent=transcript:jg3013
 Scaffold_1157	WormBase_imported	exon	128706	128763	.	+	.	ID=exon:jg3013.3;Parent=transcript:jg3013
@@ -456,6 +470,7 @@ Scaffold_1157	WormBase_imported	CDS	131032	131135	.	+	1	ID=cds:jg3013;Parent=tra
 Scaffold_1157	WormBase_imported	CDS	131544	131647	.	+	2	ID=cds:jg3013;Parent=transcript:jg3013
 Scaffold_2018	WormBase_imported	gene	4302	7662	.	+	.	ID=gene:jg19608;Name=jg19608;biotype=protein_coding
 Scaffold_2018	WormBase_imported	mRNA	4302	7662	.	+	.	ID=transcript:jg19608;Parent=gene:jg19608;Name=jg19608;info=method:InterPro accession:IPR000719 description:Protein kinase domain %0Amethod:InterPro accession:IPR011009 description:Protein kinase-like domain superfamily
+#microexons transcript:jg19608:  9-18-15 29 104 15 156 31 48 37 19 53 7 74 38 48 206 117 51 100 217
 Scaffold_2018	WormBase_imported	exon	4302	4310	.	+	.	ID=exon:jg19608.1;Parent=transcript:jg19608
 Scaffold_2018	WormBase_imported	exon	4559	4576	.	+	.	ID=exon:jg19608.2;Parent=transcript:jg19608
 Scaffold_2018	WormBase_imported	exon	4682	4696	.	+	.	ID=exon:jg19608.3;Parent=transcript:jg19608
@@ -500,6 +515,7 @@ Scaffold_2018	WormBase_imported	CDS	7300	7399	.	+	2	ID=cds:jg19608;Parent=transc
 Scaffold_2018	WormBase_imported	CDS	7446	7662	.	+	1	ID=cds:jg19608;Parent=transcript:jg19608
 Scaffold_1094	WormBase_imported	gene	187972	189237	.	+	.	ID=gene:jg9720;Name=jg9720;biotype=protein_coding
 Scaffold_1094	WormBase_imported	mRNA	187972	189237	.	+	.	ID=transcript:jg9720;Parent=gene:jg9720;Name=jg9720
+#microexons transcript:jg9720:  21-12-30 159 67 21-9 131
 Scaffold_1094	WormBase_imported	exon	187972	187992	.	+	.	ID=exon:jg9720.1;Parent=transcript:jg9720
 Scaffold_1094	WormBase_imported	exon	188044	188055	.	+	.	ID=exon:jg9720.2;Parent=transcript:jg9720
 Scaffold_1094	WormBase_imported	exon	188109	188138	.	+	.	ID=exon:jg9720.3;Parent=transcript:jg9720
@@ -518,7 +534,9 @@ Scaffold_1094	WormBase_imported	CDS	189053	189061	.	+	2	ID=cds:jg9720;Parent=tra
 Scaffold_1094	WormBase_imported	CDS	189107	189237	.	+	2	ID=cds:jg9720;Parent=transcript:jg9720
 Scaffold_1081	WormBase_imported	gene	72484	80214	.	-	.	ID=gene:jg22423;Name=jg22423;biotype=protein_coding
 Scaffold_1081	WormBase_imported	mRNA	72484	79137	.	-	.	ID=transcript:jg22423.1;Parent=gene:jg22423;Name=jg22423.1;info=method:InterPro accession:IPR001736 description:Phospholipase D/Transphosphatidylase %0Amethod:InterPro accession:IPR025202 description:Phospholipase D-like domain
+#microexons transcript:jg22423.1:  18-27 22 121 25 30 106 112 31 43 27 78 56 67 44 117 72 39 15
 Scaffold_1081	WormBase_imported	mRNA	72484	80214	.	-	.	ID=transcript:jg22423.2;Parent=gene:jg22423;Name=jg22423.2;info=method:InterPro accession:IPR001736 description:Phospholipase D/Transphosphatidylase %0Amethod:InterPro accession:IPR025202 description:Phospholipase D-like domain
+#microexons transcript:jg22423.2:  21-27 22 121 25 30 106 112 31 43 27 78 56 67 44 117 72 39 15
 Scaffold_1081	WormBase_imported	exon	79120	79137	.	-	.	ID=exon:jg22423.1.1;Parent=transcript:jg22423.1
 Scaffold_1081	WormBase_imported	exon	77710	77736	.	-	.	ID=exon:jg22423.1.2;Parent=transcript:jg22423.1
 Scaffold_1081	WormBase_imported	exon	77483	77504	.	-	.	ID=exon:jg22423.1.3;Parent=transcript:jg22423.1
@@ -597,7 +615,9 @@ Scaffold_1081	WormBase_imported	CDS	72552	72590	.	-	0	ID=cds:jg22423.2;Parent=tr
 Scaffold_1081	WormBase_imported	CDS	72484	72498	.	-	0	ID=cds:jg22423.2;Parent=transcript:jg22423.2
 Scaffold_1979	WormBase_imported	gene	175623	180245	.	+	.	ID=gene:jg22071;Name=jg22071;biotype=protein_coding
 Scaffold_1979	WormBase_imported	mRNA	175623	180245	.	+	.	ID=transcript:jg22071.1;Parent=gene:jg22071;Name=jg22071.1;info=method:InterPro accession:IPR003594 description:Histidine kinase/HSP90-like ATPase %0Amethod:InterPro accession:IPR013507 description:DNA mismatch repair protein%2C  S5 domain 2-like %0Amethod:InterPro accession:IPR014721 description:Ribosomal protein S5 domain 2-type fold%2C subgroup %0Amethod:InterPro accession:IPR014762 description:DNA mismatch repair%2C conserved site %0Amethod:InterPro accession:IPR014790 description:MutL%2C C-terminal%2C dimerisation %0Amethod:InterPro accession:IPR020568 description:Ribosomal protein S5 domain 2-type fold %0Amethod:InterPro accession:IPR036890 description:Histidine kinase/HSP90-like ATPase superfamily %0Amethod:InterPro accession:IPR037198 description:MutL%2C C-terminal domain superfamily %0Amethod:InterPro accession:IPR038973 description:DNA mismatch repair protein MutL/Mlh/Pms %0Amethod:InterPro accession:IPR042120 description:MutL%2C C-terminal domain%2C dimerisation subdomain %0Amethod:InterPro accession:IPR042121 description:MutL%2C C-terminal domain%2C regulatory subdomain
+#microexons transcript:jg22071.1:  28 244 29 33 87 103 103 12-6-27 71 49 134 107 78 69 210 345 57 148 63 105 36 65 69 86 24 11 29 56
 Scaffold_1979	WormBase_imported	mRNA	175623	180245	.	+	.	ID=transcript:jg22071.2;Parent=gene:jg22071;Name=jg22071.2;info=method:InterPro accession:IPR003594 description:Histidine kinase/HSP90-like ATPase %0Amethod:InterPro accession:IPR013507 description:DNA mismatch repair protein%2C  S5 domain 2-like %0Amethod:InterPro accession:IPR014721 description:Ribosomal protein S5 domain 2-type fold%2C subgroup %0Amethod:InterPro accession:IPR014762 description:DNA mismatch repair%2C conserved site %0Amethod:InterPro accession:IPR014790 description:MutL%2C C-terminal%2C dimerisation %0Amethod:InterPro accession:IPR020568 description:Ribosomal protein S5 domain 2-type fold %0Amethod:InterPro accession:IPR036890 description:Histidine kinase/HSP90-like ATPase superfamily %0Amethod:InterPro accession:IPR037198 description:MutL%2C C-terminal domain superfamily %0Amethod:InterPro accession:IPR038973 description:DNA mismatch repair protein MutL/Mlh/Pms %0Amethod:InterPro accession:IPR042120 description:MutL%2C C-terminal domain%2C dimerisation subdomain %0Amethod:InterPro accession:IPR042121 description:MutL%2C C-terminal domain%2C regulatory subdomain
+#microexons transcript:jg22071.2:  28 244 29 33 87 103 103 12-6-27 71 49 134 107 78 69 210 386 13 57 148 63 105 36 65 69 86 24 11 29 56
 Scaffold_1979	WormBase_imported	exon	175623	175650	.	+	.	ID=exon:jg22071.1.1;Parent=transcript:jg22071.1
 Scaffold_1979	WormBase_imported	exon	175706	175949	.	+	.	ID=exon:jg22071.1.2;Parent=transcript:jg22071.1
 Scaffold_1979	WormBase_imported	exon	175999	176027	.	+	.	ID=exon:jg22071.1.3;Parent=transcript:jg22071.1
@@ -722,6 +742,7 @@ Scaffold_1979	WormBase_imported	CDS	180112	180140	.	+	1	ID=cds:jg22071.2;Parent=
 Scaffold_1979	WormBase_imported	CDS	180190	180245	.	+	2	ID=cds:jg22071.2;Parent=transcript:jg22071.2
 Scaffold_1051	WormBase_imported	gene	63006	63916	.	+	.	ID=gene:jg21148;Name=jg21148;biotype=protein_coding
 Scaffold_1051	WormBase_imported	mRNA	63006	63916	.	+	.	ID=transcript:jg21148;Parent=gene:jg21148;Name=jg21148;info=method:InterPro accession:IPR000218 description:Ribosomal protein L14P %0Amethod:InterPro accession:IPR019972 description:Ribosomal protein L14P%2C  conserved site %0Amethod:InterPro accession:IPR036853 description:Ribosomal protein L14 superfamily
+#microexons transcript:jg21148:  73 66 12-9-24 197
 Scaffold_1051	WormBase_imported	exon	63006	63078	.	+	.	ID=exon:jg21148.1;Parent=transcript:jg21148
 Scaffold_1051	WormBase_imported	exon	63386	63451	.	+	.	ID=exon:jg21148.2;Parent=transcript:jg21148
 Scaffold_1051	WormBase_imported	exon	63512	63523	.	+	.	ID=exon:jg21148.3;Parent=transcript:jg21148
@@ -736,6 +757,7 @@ Scaffold_1051	WormBase_imported	CDS	63636	63659	.	+	2	ID=cds:jg21148;Parent=tran
 Scaffold_1051	WormBase_imported	CDS	63720	63916	.	+	2	ID=cds:jg21148;Parent=transcript:jg21148
 Scaffold_831	WormBase_imported	gene	165087	184285	.	-	.	ID=gene:jg22348;Name=jg22348;biotype=protein_coding
 Scaffold_831	WormBase_imported	mRNA	165087	184285	.	-	.	ID=transcript:jg22348;Parent=gene:jg22348;Name=jg22348;info=method:InterPro accession:IPR029021 description:Protein-tyrosine phosphatase-like
+#microexons transcript:jg22348:  249 206 213 72 191 192 105 54 93 3 153 40 112 45 6-30-12
 Scaffold_831	WormBase_imported	exon	184037	184285	.	-	.	ID=exon:jg22348.1;Parent=transcript:jg22348
 Scaffold_831	WormBase_imported	exon	183774	183979	.	-	.	ID=exon:jg22348.2;Parent=transcript:jg22348
 Scaffold_831	WormBase_imported	exon	177785	177997	.	-	.	ID=exon:jg22348.3;Parent=transcript:jg22348
@@ -2246,7 +2268,9 @@ Scaffold_831	repeatmasker	repeat_region	201044	201340	878	-	.	Name=rnd-1_family-
 Scaffold_831	repeatmasker	repeat_region	201342	201839	1861	-	.	
 Scaffold_1413	WormBase_imported	gene	166698	176934	.	-	.	ID=gene:jg7098;Name=jg7098;biotype=protein_coding
 Scaffold_1413	WormBase_imported	mRNA	166698	176934	.	-	.	ID=transcript:jg7098.1;Parent=gene:jg7098;Name=jg7098.1;info=method:InterPro accession:IPR002394 description:Nicotinic acetylcholine receptor %0Amethod:InterPro accession:IPR006029 description:Neurotransmitter-gated ion-channel transmembrane domain %0Amethod:InterPro accession:IPR006201 description:Neurotransmitter-gated ion-channel %0Amethod:InterPro accession:IPR006202 description:Neurotransmitter-gated ion-channel ligand-binding domain %0Amethod:InterPro accession:IPR018000 description:Neurotransmitter-gated ion-channel%2C conserved site %0Amethod:InterPro accession:IPR036719 description:Neurotransmitter-gated ion-channel transmembrane domain superfamily %0Amethod:InterPro accession:IPR036734 description:Neurotransmitter-gated ion-channel ligand-binding domain superfamily
+#microexons transcript:jg7098.1:  27-15-30 93 17 109 64 111 50 64 41 83 43 237 114 270
 Scaffold_1413	WormBase_imported	mRNA	166698	176934	.	-	.	ID=transcript:jg7098.2;Parent=gene:jg7098;Name=jg7098.2;info=method:InterPro accession:IPR002394 description:Nicotinic acetylcholine receptor %0Amethod:InterPro accession:IPR006029 description:Neurotransmitter-gated ion-channel transmembrane domain %0Amethod:InterPro accession:IPR006201 description:Neurotransmitter-gated ion-channel %0Amethod:InterPro accession:IPR006202 description:Neurotransmitter-gated ion-channel ligand-binding domain %0Amethod:InterPro accession:IPR018000 description:Neurotransmitter-gated ion-channel%2C conserved site %0Amethod:InterPro accession:IPR036719 description:Neurotransmitter-gated ion-channel transmembrane domain superfamily %0Amethod:InterPro accession:IPR036734 description:Neurotransmitter-gated ion-channel ligand-binding domain superfamily
+#microexons transcript:jg7098.2:  27-15-30 93 17 109 64 111 50 64 41 83 43 237 120 270
 Scaffold_1413	WormBase_imported	exon	176908	176934	.	-	.	ID=exon:jg7098.1.1;Parent=transcript:jg7098.1
 Scaffold_1413	WormBase_imported	exon	171929	171943	.	-	.	ID=exon:jg7098.1.2;Parent=transcript:jg7098.1
 Scaffold_1413	WormBase_imported	exon	171825	171854	.	-	.	ID=exon:jg7098.1.3;Parent=transcript:jg7098.1
@@ -2313,6 +2337,7 @@ Scaffold_1413	WormBase_imported	CDS	167551	167670	.	-	0	ID=cds:jg7098.2;Parent=t
 Scaffold_1413	WormBase_imported	CDS	166698	166967	.	-	0	ID=cds:jg7098.2;Parent=transcript:jg7098.2
 Scaffold_2059	WormBase_imported	gene	53311	54456	.	+	.	ID=gene:jg15687;Name=jg15687;biotype=protein_coding
 Scaffold_2059	WormBase_imported	mRNA	53311	54456	.	+	.	ID=transcript:jg15687;Parent=gene:jg15687;Name=jg15687;info=method:InterPro accession:IPR004911 description:Gamma interferon inducible lysosomal thiol reductase GILT
+#microexons transcript:jg15687:  156 136 30-15-24 172 53 143
 Scaffold_2059	WormBase_imported	exon	53311	53466	.	+	.	ID=exon:jg15687.1;Parent=transcript:jg15687
 Scaffold_2059	WormBase_imported	exon	53532	53667	.	+	.	ID=exon:jg15687.2;Parent=transcript:jg15687
 Scaffold_2059	WormBase_imported	exon	53733	53762	.	+	.	ID=exon:jg15687.3;Parent=transcript:jg15687
@@ -2331,6 +2356,7 @@ Scaffold_2059	WormBase_imported	CDS	54215	54267	.	+	1	ID=cds:jg15687;Parent=tran
 Scaffold_2059	WormBase_imported	CDS	54314	54456	.	+	2	ID=cds:jg15687;Parent=transcript:jg15687
 Scaffold_1591	WormBase_imported	gene	17958	20400	.	+	.	ID=gene:jg23995;Name=jg23995;biotype=protein_coding
 Scaffold_1591	WormBase_imported	mRNA	17958	20400	.	+	.	ID=transcript:jg23995;Parent=gene:jg23995;Name=jg23995;info=method:InterPro accession:IPR000834 description:Peptidase M14%2C carboxypeptidase A
+#microexons transcript:jg23995:  12-15-27 88 35 275 52 59 79 15
 Scaffold_1591	WormBase_imported	exon	17958	17969	.	+	.	ID=exon:jg23995.1;Parent=transcript:jg23995
 Scaffold_1591	WormBase_imported	exon	18020	18034	.	+	.	ID=exon:jg23995.2;Parent=transcript:jg23995
 Scaffold_1591	WormBase_imported	exon	18081	18107	.	+	.	ID=exon:jg23995.3;Parent=transcript:jg23995
@@ -2353,6 +2379,7 @@ Scaffold_1591	WormBase_imported	CDS	19823	19901	.	+	1	ID=cds:jg23995;Parent=tran
 Scaffold_1591	WormBase_imported	CDS	20386	20400	.	+	0	ID=cds:jg23995;Parent=transcript:jg23995
 Scaffold_1437	WormBase_imported	gene	13950	16054	.	+	.	ID=gene:jg1221;Name=jg1221;biotype=protein_coding
 Scaffold_1437	WormBase_imported	mRNA	13950	16054	.	+	.	ID=transcript:jg1221;Parent=gene:jg1221;Name=jg1221;info=method:InterPro accession:IPR003702 description:Acetyl-CoA hydrolase/transferase %0Amethod:InterPro accession:IPR026888 description:Acetyl-CoA hydrolase/transferase C-terminal domain %0Amethod:InterPro accession:IPR037171 description:NagB/RpiA transferase-like %0Amethod:InterPro accession:IPR038460 description:Acetyl-CoA hydrolase/transferase%2C C-terminal domain superfamily
+#microexons transcript:jg1221:  166 53 55 59 52 123 189 225 18 74 3 8 34 6-27-12 177
 Scaffold_1437	WormBase_imported	exon	13950	14115	.	+	.	ID=exon:jg1221.1;Parent=transcript:jg1221
 Scaffold_1437	WormBase_imported	exon	14166	14218	.	+	.	ID=exon:jg1221.2;Parent=transcript:jg1221
 Scaffold_1437	WormBase_imported	exon	14264	14318	.	+	.	ID=exon:jg1221.3;Parent=transcript:jg1221
@@ -2389,8 +2416,11 @@ Scaffold_1437	WormBase_imported	CDS	15800	15811	.	+	0	ID=cds:jg1221;Parent=trans
 Scaffold_1437	WormBase_imported	CDS	15878	16054	.	+	0	ID=cds:jg1221;Parent=transcript:jg1221
 Scaffold_2097	WormBase_imported	gene	49497	50783	.	+	.	ID=gene:jg8270;Name=jg8270;biotype=protein_coding
 Scaffold_2097	WormBase_imported	mRNA	49497	50783	.	+	.	ID=transcript:jg8270.1;Parent=gene:jg8270;Name=jg8270.1
+#microexons transcript:jg8270.1:  4 61 13 70 33 196 246 136
 Scaffold_2097	WormBase_imported	mRNA	49504	50783	.	+	.	ID=transcript:jg8270.2;Parent=gene:jg8270;Name=jg8270.2
+#microexons transcript:jg8270.2:  18-6-24 70 33 196 246 136
 Scaffold_2097	WormBase_imported	mRNA	49520	50783	.	+	.	ID=transcript:jg8270.3;Parent=gene:jg8270;Name=jg8270.3
+#microexons transcript:jg8270.3:  23 111 13 70 33 196 246 136
 Scaffold_2097	WormBase_imported	exon	49497	49500	.	+	.	ID=exon:jg8270.1.1;Parent=transcript:jg8270.1
 Scaffold_2097	WormBase_imported	exon	49681	49741	.	+	.	ID=exon:jg8270.1.2;Parent=transcript:jg8270.1
 Scaffold_2097	WormBase_imported	exon	49780	49792	.	+	.	ID=exon:jg8270.1.3;Parent=transcript:jg8270.1
@@ -2441,8 +2471,11 @@ Scaffold_2097	WormBase_imported	CDS	50360	50605	.	+	1	ID=cds:jg8270.3;Parent=tra
 Scaffold_2097	WormBase_imported	CDS	50648	50783	.	+	1	ID=cds:jg8270.3;Parent=transcript:jg8270.3
 Scaffold_209	WormBase_imported	gene	53712	57294	.	-	.	ID=gene:jg17584;Name=jg17584;biotype=protein_coding
 Scaffold_209	WormBase_imported	mRNA	53712	57046	.	-	.	ID=transcript:jg17584.1;Parent=gene:jg17584;Name=jg17584.1;info=method:InterPro accession:IPR006133 description:DNA-directed DNA polymerase%2C family B%2C exonuclease domain %0Amethod:InterPro accession:IPR012337 description:Ribonuclease H-like superfamily
+#microexons transcript:jg17584.1:  132 102 135 105 8 10 58 92 71 56 78 96 88 6 56 14 21 160 38 111 24-24-27
 Scaffold_209	WormBase_imported	mRNA	53712	57046	.	-	.	ID=transcript:jg17584.2;Parent=gene:jg17584;Name=jg17584.2;info=method:InterPro accession:IPR006133 description:DNA-directed DNA polymerase%2C family B%2C exonuclease domain %0Amethod:InterPro accession:IPR012337 description:Ribonuclease H-like superfamily
+#microexons transcript:jg17584.2:  132 102 135 105 8 10 96 71 56 78 96 88 6 56 14 21 160 38 111 24-24-27
 Scaffold_209	WormBase_imported	mRNA	53712	57294	.	-	.	ID=transcript:jg17584.3;Parent=gene:jg17584;Name=jg17584.3;info=method:InterPro accession:IPR006133 description:DNA-directed DNA polymerase%2C family B%2C exonuclease domain %0Amethod:InterPro accession:IPR012337 description:Ribonuclease H-like superfamily
+#microexons transcript:jg17584.3:  81 102 135 105 8 10 58 92 71 56 78 96 88 6 56 14 21 160 38 111 24-24-27
 Scaffold_209	WormBase_imported	exon	56915	57046	.	-	.	ID=exon:jg17584.1.1;Parent=transcript:jg17584.1
 Scaffold_209	WormBase_imported	exon	56728	56829	.	-	.	ID=exon:jg17584.1.2;Parent=transcript:jg17584.1
 Scaffold_209	WormBase_imported	exon	56542	56676	.	-	.	ID=exon:jg17584.1.3;Parent=transcript:jg17584.1
@@ -2581,6 +2614,7 @@ Scaffold_209	WormBase_imported	CDS	53792	53815	.	-	0	ID=cds:jg17584.3;Parent=tra
 Scaffold_209	WormBase_imported	CDS	53712	53738	.	-	0	ID=cds:jg17584.3;Parent=transcript:jg17584.3
 Scaffold_1477	WormBase_imported	gene	19466	22263	.	+	.	ID=gene:jg13088;Name=jg13088;biotype=protein_coding
 Scaffold_1477	WormBase_imported	mRNA	19466	22263	.	+	.	ID=transcript:jg13088;Parent=gene:jg13088;Name=jg13088;info=method:InterPro accession:IPR003891 description:Initiation factor eIF-4 gamma%2C MA3 %0Amethod:InterPro accession:IPR016021 description:MIF4G-like domain superfamily %0Amethod:InterPro accession:IPR016024 description:Armadillo-type fold %0Amethod:InterPro accession:IPR039778 description:Programmed cell death protein 4
+#microexons transcript:jg13088:  13 93 53 69 107 129 29 52 37 66 123 39 27-18-24
 Scaffold_1477	WormBase_imported	exon	19466	19478	.	+	.	ID=exon:jg13088.1;Parent=transcript:jg13088
 Scaffold_1477	WormBase_imported	exon	19528	19620	.	+	.	ID=exon:jg13088.2;Parent=transcript:jg13088
 Scaffold_1477	WormBase_imported	exon	19743	19795	.	+	.	ID=exon:jg13088.3;Parent=transcript:jg13088

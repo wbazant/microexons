@@ -1,5 +1,6 @@
 FXSY01001755.1	WormBase_imported	gene	11728	12753	.	+	.	ID=gene:Minc3s01755g26081;Name=Minc3s01755g26081;biotype=protein_coding;previous_stable_id=Minc07087
 FXSY01001755.1	WormBase_imported	mRNA	11728	12753	.	+	.	ID=transcript:Minc3s01755g26081;Parent=gene:Minc3s01755g26081;Name=Minc3s01755g26081
+#microexons transcript:Minc3s01755g26081:  83 33 27-15-27 17 105 113
 FXSY01001755.1	WormBase_imported	exon	11728	11810	.	+	.	ID=exon:Minc3s01755g26081.1;Parent=transcript:Minc3s01755g26081
 FXSY01001755.1	WormBase_imported	exon	11854	11886	.	+	.	ID=exon:Minc3s01755g26081.2;Parent=transcript:Minc3s01755g26081
 FXSY01001755.1	WormBase_imported	exon	11929	11955	.	+	.	ID=exon:Minc3s01755g26081.3;Parent=transcript:Minc3s01755g26081
@@ -18,6 +19,7 @@ FXSY01001755.1	WormBase_imported	CDS	12494	12598	.	+	2	ID=cds:Minc3s01755g26081;
 FXSY01001755.1	WormBase_imported	CDS	12641	12753	.	+	2	ID=cds:Minc3s01755g26081;Parent=transcript:Minc3s01755g26081
 FXSY01004623.1	WormBase_imported	gene	694	4181	.	-	.	ID=gene:Minc3s04623g36686;Name=Minc3s04623g36686;biotype=protein_coding
 FXSY01004623.1	WormBase_imported	mRNA	694	4181	.	-	.	ID=transcript:Minc3s04623g36686;Parent=gene:Minc3s04623g36686;Name=Minc3s04623g36686;info=method:InterPro accession:IPR006028 description:Gamma-aminobutyric acid A receptor/Glycine receptor alpha %0Amethod:InterPro accession:IPR006029 description:Neurotransmitter-gated ion-channel transmembrane domain %0Amethod:InterPro accession:IPR006201 description:Neurotransmitter-gated ion-channel %0Amethod:InterPro accession:IPR006202 description:Neurotransmitter-gated ion-channel ligand-binding domain %0Amethod:InterPro accession:IPR007110 description:Immunoglobulin-like domain %0Amethod:InterPro accession:IPR018000 description:Neurotransmitter-gated ion-channel%2C conserved site %0Amethod:InterPro accession:IPR036719 description:Neurotransmitter-gated ion-channel transmembrane domain superfamily %0Amethod:InterPro accession:IPR036734 description:Neurotransmitter-gated ion-channel ligand-binding domain superfamily
+#microexons transcript:Minc3s04623g36686:  186 31 42 32 46 97 43 29 81 83 66 75 75 26 39 60 38 40 27-21-21 87 264 31 129
 FXSY01004623.1	WormBase_imported	exon	3996	4181	.	-	.	ID=exon:Minc3s04623g36686.1;Parent=transcript:Minc3s04623g36686
 FXSY01004623.1	WormBase_imported	exon	3897	3927	.	-	.	ID=exon:Minc3s04623g36686.2;Parent=transcript:Minc3s04623g36686
 FXSY01004623.1	WormBase_imported	exon	3614	3655	.	-	.	ID=exon:Minc3s04623g36686.3;Parent=transcript:Minc3s04623g36686
@@ -72,6 +74,7 @@ FXSY01004623.1	WormBase_imported	CDS	794	822	.	-	2	ID=cds:Minc3s04623g36686;Pare
 FXSY01004623.1	WormBase_imported	three_prime_UTR	694	793	.	-	.	Parent=transcript:Minc3s04623g36686
 FXSY01007582.1	WormBase_imported	gene	1410	2451	.	+	.	ID=gene:Minc3s07582g41286;Name=Minc3s07582g41286;biotype=protein_coding
 FXSY01007582.1	WormBase_imported	mRNA	1410	2451	.	+	.	ID=transcript:Minc3s07582g41286;Parent=gene:Minc3s07582g41286;Name=Minc3s07582g41286
+#microexons transcript:Minc3s07582g41286:  86 33 27-15-27 17 105 118
 FXSY01007582.1	WormBase_imported	exon	1410	1495	.	+	.	ID=exon:Minc3s07582g41286.1;Parent=transcript:Minc3s07582g41286
 FXSY01007582.1	WormBase_imported	exon	1544	1576	.	+	.	ID=exon:Minc3s07582g41286.2;Parent=transcript:Minc3s07582g41286
 FXSY01007582.1	WormBase_imported	exon	1622	1648	.	+	.	ID=exon:Minc3s07582g41286.3;Parent=transcript:Minc3s07582g41286

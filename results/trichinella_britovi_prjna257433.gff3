@@ -1,5 +1,6 @@
 scaffold1s	WormBase_imported	gene	632380	634721	.	-	.	ID=gene:T03_7303;Name=T03_7303;biotype=protein_coding
 scaffold1s	WormBase_imported	mRNA	632380	634721	.	-	.	ID=transcript:T03_7303.1;Parent=gene:T03_7303;Name=T03_7303.1
+#microexons transcript:T03_7303.1:  40 35 44 46 9-18-27
 scaffold1s	WormBase_imported	exon	634682	634721	.	-	.	ID=exon:T03_7303.1.1;Parent=transcript:T03_7303.1
 scaffold1s	WormBase_imported	exon	633840	633874	.	-	.	ID=exon:T03_7303.1.2;Parent=transcript:T03_7303.1
 scaffold1s	WormBase_imported	exon	633638	633681	.	-	.	ID=exon:T03_7303.1.3;Parent=transcript:T03_7303.1
@@ -16,6 +17,7 @@ scaffold1s	WormBase_imported	CDS	633318	633335	.	-	0	ID=cds:T03_7303.1;Parent=tr
 scaffold1s	WormBase_imported	CDS	632380	632406	.	-	0	ID=cds:T03_7303.1;Parent=transcript:T03_7303.1
 scaffold8s	WormBase_imported	gene	241943	246909	.	-	.	ID=gene:T03_9881;Name=T03_9881;biotype=protein_coding
 scaffold8s	WormBase_imported	mRNA	241943	246909	.	-	.	ID=transcript:T03_9881.1;Parent=gene:T03_9881;Name=T03_9881.1
+#microexons transcript:T03_9881.1:  21-27-9 80 41 72 43 40 57 35 19
 scaffold8s	WormBase_imported	exon	246889	246909	.	-	.	ID=exon:T03_9881.1.1;Parent=transcript:T03_9881.1
 scaffold8s	WormBase_imported	exon	245909	245935	.	-	.	ID=exon:T03_9881.1.2;Parent=transcript:T03_9881.1
 scaffold8s	WormBase_imported	exon	245721	245729	.	-	.	ID=exon:T03_9881.1.3;Parent=transcript:T03_9881.1
@@ -40,6 +42,7 @@ scaffold8s	WormBase_imported	CDS	242004	242038	.	-	0	ID=cds:T03_9881.1;Parent=tr
 scaffold8s	WormBase_imported	CDS	241943	241961	.	-	1	ID=cds:T03_9881.1;Parent=transcript:T03_9881.1
 scaffold50s	WormBase_imported	gene	78112	79771	.	+	.	ID=gene:T03_7510;Name=T03_7510;biotype=protein_coding
 scaffold50s	WormBase_imported	mRNA	78112	79771	.	+	.	ID=transcript:T03_7510.1;Parent=gene:T03_7510;Name=T03_7510.1
+#microexons transcript:T03_7510.1:  24-30 72 81 15-30-24
 scaffold50s	WormBase_imported	exon	78112	78135	.	+	.	ID=exon:T03_7510.1.1;Parent=transcript:T03_7510.1
 scaffold50s	WormBase_imported	exon	78499	78528	.	+	.	ID=exon:T03_7510.1.2;Parent=transcript:T03_7510.1
 scaffold50s	WormBase_imported	exon	78545	78616	.	+	.	ID=exon:T03_7510.1.3;Parent=transcript:T03_7510.1
@@ -56,9 +59,13 @@ scaffold50s	WormBase_imported	CDS	79469	79498	.	+	0	ID=cds:T03_7510.1;Parent=tra
 scaffold50s	WormBase_imported	CDS	79748	79771	.	+	0	ID=cds:T03_7510.1;Parent=transcript:T03_7510.1
 scaffold54s	WormBase_imported	gene	199033	205202	.	+	.	ID=gene:T03_7160;Name=T03_7160;biotype=protein_coding;description=Polynucleotide 5'-hydroxyl-kinase NOL9;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0V1D238;locus=Nol9
 scaffold54s	WormBase_imported	mRNA	199033	205202	.	+	.	ID=transcript:T03_7160.1;Parent=gene:T03_7160;Name=T03_7160.1;info=method:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR032319 description:Polyribonucleotide 5'-hydroxyl-kinase Clp1%2C P-loop domain
+#microexons transcript:T03_7160.1:  15-18-18 55 44 80 69 684 132 137 175 311 134 166
 scaffold54s	WormBase_imported	mRNA	199033	205202	.	+	.	ID=transcript:T03_7160.2;Parent=gene:T03_7160;Name=T03_7160.2;info=method:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR032319 description:Polyribonucleotide 5'-hydroxyl-kinase Clp1%2C P-loop domain
+#microexons transcript:T03_7160.2:  15-18-18 50 811 157 80 69 684 132 137 175 311 134 166
 scaffold54s	WormBase_imported	mRNA	202204	205202	.	+	.	ID=transcript:T03_7160.3;Parent=gene:T03_7160;Name=T03_7160.3;info=method:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR032319 description:Polyribonucleotide 5'-hydroxyl-kinase Clp1%2C P-loop domain
+#microexons transcript:T03_7160.3:  51 80 69 684 132 137 175 311 134 166
 scaffold54s	WormBase_imported	mRNA	202204	205202	.	+	.	ID=transcript:T03_7160.4;Parent=gene:T03_7160;Name=T03_7160.4;info=method:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR032319 description:Polyribonucleotide 5'-hydroxyl-kinase Clp1%2C P-loop domain
+#microexons transcript:T03_7160.4:  51 80 69 684 132 125 175 289 102 166
 scaffold54s	WormBase_imported	exon	199033	199047	.	+	.	ID=exon:T03_7160.1.1;Parent=transcript:T03_7160.1
 scaffold54s	WormBase_imported	exon	199175	199192	.	+	.	ID=exon:T03_7160.1.2;Parent=transcript:T03_7160.1
 scaffold54s	WormBase_imported	exon	199390	199407	.	+	.	ID=exon:T03_7160.1.3;Parent=transcript:T03_7160.1
@@ -163,6 +170,7 @@ scaffold54s	WormBase_imported	CDS	205037	205153	.	+	0	ID=cds:T03_7160.4;Parent=t
 scaffold54s	WormBase_imported	three_prime_UTR	205154	205202	.	+	.	Parent=transcript:T03_7160.4
 scaffold61s	WormBase_imported	gene	60832	61526	.	-	.	ID=gene:T03_10761;Name=T03_10761;biotype=protein_coding
 scaffold61s	WormBase_imported	mRNA	60832	61526	.	-	.	ID=transcript:T03_10761.1;Parent=gene:T03_10761;Name=T03_10761.1
+#microexons transcript:T03_10761.1:  21-6-6-6 162
 scaffold61s	WormBase_imported	exon	61506	61526	.	-	.	ID=exon:T03_10761.1.1;Parent=transcript:T03_10761.1
 scaffold61s	WormBase_imported	exon	61317	61322	.	-	.	ID=exon:T03_10761.1.2;Parent=transcript:T03_10761.1
 scaffold61s	WormBase_imported	exon	61230	61235	.	-	.	ID=exon:T03_10761.1.3;Parent=transcript:T03_10761.1

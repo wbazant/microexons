@@ -1,5 +1,6 @@
 scaffold3	WormBase_imported	gene	561274	589665	.	-	.	ID=gene:M51300638;Name=M51300638;biotype=protein_coding
 scaffold3	WormBase_imported	mRNA	561274	589665	.	-	.	ID=transcript:M51300638;Parent=gene:M51300638;Name=M51300638
+#microexons transcript:M51300638:  93 30 36 30-30-21 168 36 39 30 96 51 186 36 30-30-21-21 168 30-30 72 30-21-24 96 168
 scaffold3	WormBase_imported	exon	589573	589665	.	-	.	ID=exon:M51300638.1;Parent=transcript:M51300638
 scaffold3	WormBase_imported	exon	585455	585484	.	-	.	ID=exon:M51300638.2;Parent=transcript:M51300638
 scaffold3	WormBase_imported	exon	585066	585101	.	-	.	ID=exon:M51300638.3;Parent=transcript:M51300638

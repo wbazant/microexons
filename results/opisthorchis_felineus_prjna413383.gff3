@@ -1,6 +1,8 @@
 scaff_1744	WormBase_imported	gene	731681	770319	.	+	.	ID=gene:CRM22_004690;Name=CRM22_004690;biotype=protein_coding
 scaff_1744	WormBase_imported	mRNA	731681	770319	.	+	.	ID=transcript:CRM22_004690.1;Parent=gene:CRM22_004690;Name=CRM22_004690.1
+#microexons transcript:CRM22_004690.1:  19 18-18-24 42 36 39 54 24 36 36 24-30 42 36 33 30 35 44 16
 scaff_1744	WormBase_imported	mRNA	731681	770319	.	+	.	ID=transcript:CRM22_004690.2;Parent=gene:CRM22_004690;Name=CRM22_004690.2
+#microexons transcript:CRM22_004690.2:  19 18-18-24 42 36 39 54 24 36 36 24-30 42 36 33 30 35 44 16
 scaff_1744	WormBase_imported	exon	731681	731699	.	+	.	ID=exon:CRM22_004690.1.1;Parent=transcript:CRM22_004690.1
 scaff_1744	WormBase_imported	exon	732336	732353	.	+	.	ID=exon:CRM22_004690.1.2;Parent=transcript:CRM22_004690.1
 scaff_1744	WormBase_imported	exon	734901	734918	.	+	.	ID=exon:CRM22_004690.1.3;Parent=transcript:CRM22_004690.1
@@ -85,6 +87,7 @@ scaff_1744	WormBase_imported	CDS	769907	769950	.	+	0	ID=cds:CRM22_004690.2;Paren
 scaff_1744	WormBase_imported	CDS	770304	770319	.	+	1	ID=cds:CRM22_004690.2;Parent=transcript:CRM22_004690.2
 scaff_578	WormBase_imported	gene	817631	852148	.	+	.	ID=gene:CRM22_010352;Name=CRM22_010352;biotype=protein_coding
 scaff_578	WormBase_imported	mRNA	817631	852148	.	+	.	ID=transcript:CRM22_010352;Parent=gene:CRM22_010352;Name=CRM22_010352
+#microexons transcript:CRM22_010352:  3-24-15 92 238 24 89
 scaff_578	WormBase_imported	exon	817631	817633	.	+	.	ID=exon:CRM22_010352.1;Parent=transcript:CRM22_010352
 scaff_578	WormBase_imported	exon	840893	840916	.	+	.	ID=exon:CRM22_010352.2;Parent=transcript:CRM22_010352
 scaff_578	WormBase_imported	exon	842404	842418	.	+	.	ID=exon:CRM22_010352.3;Parent=transcript:CRM22_010352
@@ -102,6 +105,7 @@ scaff_578	WormBase_imported	CDS	852060	852091	.	+	2	ID=cds:CRM22_010352;Parent=t
 scaff_578	WormBase_imported	three_prime_UTR	852092	852148	.	+	.	Parent=transcript:CRM22_010352
 scaff_340	WormBase_imported	gene	349483	398985	.	-	.	ID=gene:CRM22_007814;Name=CRM22_007814;biotype=protein_coding
 scaff_340	WormBase_imported	mRNA	349483	398985	.	-	.	ID=transcript:CRM22_007814;Parent=gene:CRM22_007814;Name=CRM22_007814
+#microexons transcript:CRM22_007814:  119 86 36 18-15-24 36 78 101
 scaff_340	WormBase_imported	exon	398867	398985	.	-	.	ID=exon:CRM22_007814.1;Parent=transcript:CRM22_007814
 scaff_340	WormBase_imported	exon	398738	398823	.	-	.	ID=exon:CRM22_007814.2;Parent=transcript:CRM22_007814
 scaff_340	WormBase_imported	exon	363446	363481	.	-	.	ID=exon:CRM22_007814.3;Parent=transcript:CRM22_007814
@@ -123,7 +127,9 @@ scaff_340	WormBase_imported	CDS	351029	351106	.	-	2	ID=cds:CRM22_007814;Parent=t
 scaff_340	WormBase_imported	CDS	349483	349583	.	-	2	ID=cds:CRM22_007814;Parent=transcript:CRM22_007814
 scaff_340	WormBase_imported	gene	480178	559672	.	-	.	ID=gene:CRM22_007816;Name=CRM22_007816;biotype=protein_coding
 scaff_340	WormBase_imported	mRNA	480178	522951	.	-	.	ID=transcript:CRM22_007816.1;Parent=gene:CRM22_007816;Name=CRM22_007816.1
+#microexons transcript:CRM22_007816.1:  27-24-27-24-24-27-27-27-27-21 95
 scaff_340	WormBase_imported	mRNA	480178	559672	.	-	.	ID=transcript:CRM22_007816.2;Parent=gene:CRM22_007816;Name=CRM22_007816.2
+#microexons transcript:CRM22_007816.2:  62 12 33 27-12-24-24 33 9-27-24-27-24-24-9-27-27-27-21 95
 scaff_340	WormBase_imported	exon	522925	522951	.	-	.	ID=exon:CRM22_007816.1.1;Parent=transcript:CRM22_007816.1
 scaff_340	WormBase_imported	exon	521565	521588	.	-	.	ID=exon:CRM22_007816.1.2;Parent=transcript:CRM22_007816.1
 scaff_340	WormBase_imported	exon	518323	518349	.	-	.	ID=exon:CRM22_007816.1.3;Parent=transcript:CRM22_007816.1
@@ -190,7 +196,9 @@ scaff_340	WormBase_imported	CDS	485457	485477	.	-	2	ID=cds:CRM22_007816.2;Parent
 scaff_340	WormBase_imported	CDS	480178	480272	.	-	2	ID=cds:CRM22_007816.2;Parent=transcript:CRM22_007816.2
 scaff_189	WormBase_imported	gene	1168947	1188580	.	-	.	ID=gene:CRM22_006091;Name=CRM22_006091;biotype=protein_coding
 scaff_189	WormBase_imported	mRNA	1168947	1188483	.	-	.	ID=transcript:CRM22_006091.1;Parent=gene:CRM22_006091;Name=CRM22_006091.1
+#microexons transcript:CRM22_006091.1:  272 21-9-21 162 471
 scaff_189	WormBase_imported	mRNA	1168947	1188580	.	-	.	ID=transcript:CRM22_006091.2;Parent=gene:CRM22_006091;Name=CRM22_006091.2
+#microexons transcript:CRM22_006091.2:  369 162 471
 scaff_189	WormBase_imported	exon	1188212	1188483	.	-	.	ID=exon:CRM22_006091.1.1;Parent=transcript:CRM22_006091.1
 scaff_189	WormBase_imported	exon	1177556	1177576	.	-	.	ID=exon:CRM22_006091.1.2;Parent=transcript:CRM22_006091.1
 scaff_189	WormBase_imported	exon	1172375	1172383	.	-	.	ID=exon:CRM22_006091.1.3;Parent=transcript:CRM22_006091.1
@@ -215,8 +223,11 @@ scaff_189	WormBase_imported	CDS	1169275	1169417	.	-	2	ID=cds:CRM22_006091.2;Pare
 scaff_189	WormBase_imported	three_prime_UTR	1168947	1169274	.	-	.	Parent=transcript:CRM22_006091.2
 scaff_189	WormBase_imported	gene	1374304	1395267	.	+	.	ID=gene:CRM22_006097;Name=CRM22_006097;biotype=protein_coding
 scaff_189	WormBase_imported	mRNA	1374304	1395267	.	+	.	ID=transcript:CRM22_006097.1;Parent=gene:CRM22_006097;Name=CRM22_006097.1
+#microexons transcript:CRM22_006097.1:  113 27-24-30-27 1188
 scaff_189	WormBase_imported	mRNA	1374304	1395267	.	+	.	ID=transcript:CRM22_006097.2;Parent=gene:CRM22_006097;Name=CRM22_006097.2
+#microexons transcript:CRM22_006097.2:  113 30-24-30-27 1188
 scaff_189	WormBase_imported	mRNA	1374304	1395267	.	+	.	ID=transcript:CRM22_006097.3;Parent=gene:CRM22_006097;Name=CRM22_006097.3
+#microexons transcript:CRM22_006097.3:  113 30-24-30-27-24-30-27 1188
 scaff_189	WormBase_imported	exon	1374304	1374416	.	+	.	ID=exon:CRM22_006097.1.1;Parent=transcript:CRM22_006097.1
 scaff_189	WormBase_imported	exon	1382508	1382534	.	+	.	ID=exon:CRM22_006097.1.2;Parent=transcript:CRM22_006097.1
 scaff_189	WormBase_imported	exon	1386199	1386222	.	+	.	ID=exon:CRM22_006097.1.3;Parent=transcript:CRM22_006097.1
@@ -267,12 +278,19 @@ scaff_189	WormBase_imported	CDS	1394080	1395051	.	+	0	ID=cds:CRM22_006097.3;Pare
 scaff_189	WormBase_imported	three_prime_UTR	1395052	1395267	.	+	.	Parent=transcript:CRM22_006097.3
 scaff_612	WormBase_imported	gene	1000029	1022376	.	+	.	ID=gene:CRM22_010697;Name=CRM22_010697;biotype=protein_coding
 scaff_612	WormBase_imported	mRNA	1000029	1022376	.	+	.	ID=transcript:CRM22_010697.1;Parent=gene:CRM22_010697;Name=CRM22_010697.1
+#microexons transcript:CRM22_010697.1:  71 24-15-18-24-12-24-21-21-21-21-21-18-21-24-24-21 17 100
 scaff_612	WormBase_imported	mRNA	1000029	1022376	.	+	.	ID=transcript:CRM22_010697.2;Parent=gene:CRM22_010697;Name=CRM22_010697.2
+#microexons transcript:CRM22_010697.2:  71 15-6-24-15-18-24-12-24-21-21-21-21-21-18-21-24-24-21 17 100
 scaff_612	WormBase_imported	mRNA	1000029	1022376	.	+	.	ID=transcript:CRM22_010697.3;Parent=gene:CRM22_010697;Name=CRM22_010697.3
+#microexons transcript:CRM22_010697.3:  71 24-15-18-24-12-24-21-21-21-24-21-21-18-21-24 17 100
 scaff_612	WormBase_imported	mRNA	1000029	1022376	.	+	.	ID=transcript:CRM22_010697.4;Parent=gene:CRM22_010697;Name=CRM22_010697.4
+#microexons transcript:CRM22_010697.4:  71 24-15-18-24-12-24-21-21-21-21-21-18-21-24-24 17 100
 scaff_612	WormBase_imported	mRNA	1001773	1022376	.	+	.	ID=transcript:CRM22_010697.5;Parent=gene:CRM22_010697;Name=CRM22_010697.5
+#microexons transcript:CRM22_010697.5:  11 24-15-18-24-12-24-21-21-21-24-21-21-18-21-24 17 100
 scaff_612	WormBase_imported	mRNA	1008598	1022376	.	+	.	ID=transcript:CRM22_010697.6;Parent=gene:CRM22_010697;Name=CRM22_010697.6
+#microexons transcript:CRM22_010697.6:  283 12-24-21-21-21-24-21-21-18-21-24-24-21 17 100
 scaff_612	WormBase_imported	mRNA	1008598	1022376	.	+	.	ID=transcript:CRM22_010697.7;Parent=gene:CRM22_010697;Name=CRM22_010697.7
+#microexons transcript:CRM22_010697.7:  283 12-24-21-21-21-24-21-21-18-21-24-24 17 100
 scaff_612	WormBase_imported	exon	1000029	1000099	.	+	.	ID=exon:CRM22_010697.1.1;Parent=transcript:CRM22_010697.1
 scaff_612	WormBase_imported	exon	1003336	1003359	.	+	.	ID=exon:CRM22_010697.1.2;Parent=transcript:CRM22_010697.1
 scaff_612	WormBase_imported	exon	1005127	1005141	.	+	.	ID=exon:CRM22_010697.1.3;Parent=transcript:CRM22_010697.1
@@ -539,8 +557,11 @@ scaff_612	WormBase_imported	CDS	1022277	1022288	.	+	0	ID=cds:CRM22_010697.7;Pare
 scaff_612	WormBase_imported	three_prime_UTR	1022289	1022376	.	+	.	Parent=transcript:CRM22_010697.7
 scaff_612	WormBase_imported	gene	1172666	1183666	.	+	.	ID=gene:CRM22_010698;Name=CRM22_010698;biotype=protein_coding
 scaff_612	WormBase_imported	mRNA	1172666	1183666	.	+	.	ID=transcript:CRM22_010698.1;Parent=gene:CRM22_010698;Name=CRM22_010698.1
+#microexons transcript:CRM22_010698.1:  58 15-24-24-18-24-12-24-21-21-21-24-21-21
 scaff_612	WormBase_imported	mRNA	1172666	1183666	.	+	.	ID=transcript:CRM22_010698.2;Parent=gene:CRM22_010698;Name=CRM22_010698.2
+#microexons transcript:CRM22_010698.2:  58 15-18-24-24-18-24-12-24-21-21-21-24-21
 scaff_612	WormBase_imported	mRNA	1172666	1183666	.	+	.	ID=transcript:CRM22_010698.3;Parent=gene:CRM22_010698;Name=CRM22_010698.3
+#microexons transcript:CRM22_010698.3:  58 15-18-24-24-18-24-12-24-21-21-21-24-21-21
 scaff_612	WormBase_imported	exon	1172666	1172723	.	+	.	ID=exon:CRM22_010698.1.1;Parent=transcript:CRM22_010698.1
 scaff_612	WormBase_imported	exon	1174361	1174375	.	+	.	ID=exon:CRM22_010698.1.2;Parent=transcript:CRM22_010698.1
 scaff_612	WormBase_imported	exon	1175700	1175723	.	+	.	ID=exon:CRM22_010698.1.3;Parent=transcript:CRM22_010698.1
@@ -629,6 +650,7 @@ scaff_612	WormBase_imported	CDS	1183314	1183334	.	+	2	ID=cds:CRM22_010698.3;Pare
 scaff_612	WormBase_imported	CDS	1183646	1183666	.	+	2	ID=cds:CRM22_010698.3;Parent=transcript:CRM22_010698.3
 scaff_1807	WormBase_imported	gene	813500	927062	.	-	.	ID=gene:CRM22_005717;Name=CRM22_005717;biotype=protein_coding
 scaff_1807	WormBase_imported	mRNA	813500	927062	.	-	.	ID=transcript:CRM22_005717;Parent=gene:CRM22_005717;Name=CRM22_005717
+#microexons transcript:CRM22_005717:  63 42 39 48 95 223 57 30-30-27-24 98 241 60 57 48 104 238 60 30-27-27 36 39 63 98 223 72 30-21-30-27-24 104 235 57 57 89 166 54 212 229 57 136 18 412
 scaff_1807	WormBase_imported	exon	927000	927062	.	-	.	ID=exon:CRM22_005717.1;Parent=transcript:CRM22_005717
 scaff_1807	WormBase_imported	exon	922205	922246	.	-	.	ID=exon:CRM22_005717.2;Parent=transcript:CRM22_005717
 scaff_1807	WormBase_imported	exon	919323	919361	.	-	.	ID=exon:CRM22_005717.3;Parent=transcript:CRM22_005717
@@ -725,6 +747,7 @@ scaff_1807	WormBase_imported	three_prime_UTR	819223	819240	.	-	.	Parent=transcri
 scaff_1807	WormBase_imported	three_prime_UTR	813500	813911	.	-	.	Parent=transcript:CRM22_005717
 scaff_41	WormBase_imported	gene	1000421	1053680	.	+	.	ID=gene:CRM22_008576;Name=CRM22_008576;biotype=protein_coding
 scaff_41	WormBase_imported	mRNA	1000421	1053680	.	+	.	ID=transcript:CRM22_008576;Parent=gene:CRM22_008576;Name=CRM22_008576
+#microexons transcript:CRM22_008576:  112 15-27-18-12-18-15-24-24 95 208 27-30 57 65 217 48 104 202 57 290
 scaff_41	WormBase_imported	exon	1000421	1000532	.	+	.	ID=exon:CRM22_008576.1;Parent=transcript:CRM22_008576
 scaff_41	WormBase_imported	exon	1002622	1002636	.	+	.	ID=exon:CRM22_008576.2;Parent=transcript:CRM22_008576
 scaff_41	WormBase_imported	exon	1005470	1005496	.	+	.	ID=exon:CRM22_008576.3;Parent=transcript:CRM22_008576
@@ -771,6 +794,7 @@ scaff_41	WormBase_imported	CDS	1053391	1053419	.	+	2	ID=cds:CRM22_008576;Parent=
 scaff_41	WormBase_imported	three_prime_UTR	1053420	1053680	.	+	.	Parent=transcript:CRM22_008576
 scaff_337	WormBase_imported	gene	141843	151342	.	-	.	ID=gene:CRM22_007741;Name=CRM22_007741;biotype=protein_coding
 scaff_337	WormBase_imported	mRNA	141843	151342	.	-	.	ID=transcript:CRM22_007741;Parent=gene:CRM22_007741;Name=CRM22_007741
+#microexons transcript:CRM22_007741:  9-9-27 45 69 66
 scaff_337	WormBase_imported	exon	151334	151342	.	-	.	ID=exon:CRM22_007741.1;Parent=transcript:CRM22_007741
 scaff_337	WormBase_imported	exon	150484	150492	.	-	.	ID=exon:CRM22_007741.2;Parent=transcript:CRM22_007741
 scaff_337	WormBase_imported	exon	148531	148557	.	-	.	ID=exon:CRM22_007741.3;Parent=transcript:CRM22_007741
@@ -785,6 +809,7 @@ scaff_337	WormBase_imported	CDS	143602	143670	.	-	2	ID=cds:CRM22_007741;Parent=t
 scaff_337	WormBase_imported	CDS	141843	141908	.	-	2	ID=cds:CRM22_007741;Parent=transcript:CRM22_007741
 scaff_1765	WormBase_imported	gene	851615	960698	.	-	.	ID=gene:CRM22_005027;Name=CRM22_005027;biotype=protein_coding
 scaff_1765	WormBase_imported	mRNA	851615	960698	.	-	.	ID=transcript:CRM22_005027;Parent=gene:CRM22_005027;Name=CRM22_005027
+#microexons transcript:CRM22_005027:  158 15 39 36 15-18-18-21-24-24-21-18-21 33 21-21-30-30-21-15 25 14 16 14 76 14 25 17 19 17 25 17 10 17 25 20 9 25 14 25 14 22 23 25 23 6 25 20 25 14 17 35 69
 scaff_1765	WormBase_imported	exon	960541	960698	.	-	.	ID=exon:CRM22_005027.1;Parent=transcript:CRM22_005027
 scaff_1765	WormBase_imported	exon	960441	960455	.	-	.	ID=exon:CRM22_005027.2;Parent=transcript:CRM22_005027
 scaff_1765	WormBase_imported	exon	952655	952693	.	-	.	ID=exon:CRM22_005027.3;Parent=transcript:CRM22_005027
@@ -895,6 +920,7 @@ scaff_1765	WormBase_imported	three_prime_UTR	855925	855959	.	-	.	Parent=transcri
 scaff_1765	WormBase_imported	three_prime_UTR	851615	851683	.	-	.	Parent=transcript:CRM22_005027
 scaff_262	WormBase_imported	gene	970317	1007526	.	+	.	ID=gene:CRM22_006916;Name=CRM22_006916;biotype=protein_coding
 scaff_262	WormBase_imported	mRNA	970317	1007526	.	+	.	ID=transcript:CRM22_006916;Parent=gene:CRM22_006916;Name=CRM22_006916
+#microexons transcript:CRM22_006916:  33 21 85 21-21-21-21-21-21-21 28 130
 scaff_262	WormBase_imported	exon	970317	970349	.	+	.	ID=exon:CRM22_006916.1;Parent=transcript:CRM22_006916
 scaff_262	WormBase_imported	exon	975035	975055	.	+	.	ID=exon:CRM22_006916.2;Parent=transcript:CRM22_006916
 scaff_262	WormBase_imported	exon	976966	977050	.	+	.	ID=exon:CRM22_006916.3;Parent=transcript:CRM22_006916
@@ -921,12 +947,19 @@ scaff_262	WormBase_imported	CDS	993478	993505	.	+	2	ID=cds:CRM22_006916;Parent=t
 scaff_262	WormBase_imported	CDS	1007397	1007526	.	+	1	ID=cds:CRM22_006916;Parent=transcript:CRM22_006916
 scaff_278	WormBase_imported	gene	942527	971354	.	+	.	ID=gene:CRM22_007093;Name=CRM22_007093;biotype=protein_coding
 scaff_278	WormBase_imported	mRNA	942527	971354	.	+	.	ID=transcript:CRM22_007093.1;Parent=gene:CRM22_007093;Name=CRM22_007093.1;info=method:InterPro accession:IPR001978 description:Troponin %0Amethod:InterPro accession:IPR038077 description:Troponin domain superfamily
+#microexons transcript:CRM22_007093.1:  144 7 27-27-30 105 121 101 44 160 726
 scaff_278	WormBase_imported	mRNA	942527	971354	.	+	.	ID=transcript:CRM22_007093.2;Parent=gene:CRM22_007093;Name=CRM22_007093.2;info=method:InterPro accession:IPR001978 description:Troponin %0Amethod:InterPro accession:IPR038077 description:Troponin domain superfamily
+#microexons transcript:CRM22_007093.2:  144 7 27 42 30 105 121 101 44 160 726
 scaff_278	WormBase_imported	mRNA	942529	969311	.	+	.	ID=transcript:CRM22_007093.3;Parent=gene:CRM22_007093;Name=CRM22_007093.3;info=method:InterPro accession:IPR001978 description:Troponin %0Amethod:InterPro accession:IPR038077 description:Troponin domain superfamily
+#microexons transcript:CRM22_007093.3:  142 7 18-27 42 30 105 121 101 44 115
 scaff_278	WormBase_imported	mRNA	942529	971354	.	+	.	ID=transcript:CRM22_007093.4;Parent=gene:CRM22_007093;Name=CRM22_007093.4;info=method:InterPro accession:IPR001978 description:Troponin %0Amethod:InterPro accession:IPR038077 description:Troponin domain superfamily
+#microexons transcript:CRM22_007093.4:  142 7 18 51 27 33 42 30 105 121 101 44 160 726
 scaff_278	WormBase_imported	mRNA	942529	971354	.	+	.	ID=transcript:CRM22_007093.5;Parent=gene:CRM22_007093;Name=CRM22_007093.5;info=method:InterPro accession:IPR001978 description:Troponin %0Amethod:InterPro accession:IPR038077 description:Troponin domain superfamily
+#microexons transcript:CRM22_007093.5:  142 7 18-27 42 30 105 121 101 44 160 726
 scaff_278	WormBase_imported	mRNA	942529	971354	.	+	.	ID=transcript:CRM22_007093.6;Parent=gene:CRM22_007093;Name=CRM22_007093.6;info=method:InterPro accession:IPR001978 description:Troponin %0Amethod:InterPro accession:IPR038077 description:Troponin domain superfamily
+#microexons transcript:CRM22_007093.6:  142 7 18-27 33 42 30 105 121 101 44 160 726
 scaff_278	WormBase_imported	mRNA	942529	971354	.	+	.	ID=transcript:CRM22_007093.7;Parent=gene:CRM22_007093;Name=CRM22_007093.7;info=method:InterPro accession:IPR001978 description:Troponin %0Amethod:InterPro accession:IPR038077 description:Troponin domain superfamily
+#microexons transcript:CRM22_007093.7:  142 7 18-27-27-30 105 121 101 44 160 726
 scaff_278	WormBase_imported	exon	942527	942670	.	+	.	ID=exon:CRM22_007093.1.1;Parent=transcript:CRM22_007093.1
 scaff_278	WormBase_imported	exon	947502	947508	.	+	.	ID=exon:CRM22_007093.1.2;Parent=transcript:CRM22_007093.1
 scaff_278	WormBase_imported	exon	950819	950845	.	+	.	ID=exon:CRM22_007093.1.3;Parent=transcript:CRM22_007093.1
@@ -1111,6 +1144,7 @@ scaff_278	WormBase_imported	CDS	970629	970688	.	+	0	ID=cds:CRM22_007093.7;Parent
 scaff_278	WormBase_imported	three_prime_UTR	970689	971354	.	+	.	Parent=transcript:CRM22_007093.7
 scaff_184	WormBase_imported	gene	554602	570440	.	-	.	ID=gene:CRM22_006044;Name=CRM22_006044;biotype=protein_coding
 scaff_184	WormBase_imported	mRNA	554602	570440	.	-	.	ID=transcript:CRM22_006044;Parent=gene:CRM22_006044;Name=CRM22_006044
+#microexons transcript:CRM22_006044:  24-21-27-27-30-27-30 68
 scaff_184	WormBase_imported	exon	570417	570440	.	-	.	ID=exon:CRM22_006044.1;Parent=transcript:CRM22_006044
 scaff_184	WormBase_imported	exon	567775	567795	.	-	.	ID=exon:CRM22_006044.2;Parent=transcript:CRM22_006044
 scaff_184	WormBase_imported	exon	563770	563796	.	-	.	ID=exon:CRM22_006044.3;Parent=transcript:CRM22_006044
@@ -1130,6 +1164,7 @@ scaff_184	WormBase_imported	CDS	556080	556109	.	-	2	ID=cds:CRM22_006044;Parent=t
 scaff_184	WormBase_imported	CDS	554602	554669	.	-	2	ID=cds:CRM22_006044;Parent=transcript:CRM22_006044
 scaff_184	WormBase_imported	gene	575886	581743	.	-	.	ID=gene:CRM22_006045;Name=CRM22_006045;biotype=protein_coding
 scaff_184	WormBase_imported	mRNA	575886	581743	.	-	.	ID=transcript:CRM22_006045;Parent=gene:CRM22_006045;Name=CRM22_006045
+#microexons transcript:CRM22_006045:  46 45 24-24-27 47
 scaff_184	WormBase_imported	exon	581698	581743	.	-	.	ID=exon:CRM22_006045.1;Parent=transcript:CRM22_006045
 scaff_184	WormBase_imported	exon	580979	581023	.	-	.	ID=exon:CRM22_006045.2;Parent=transcript:CRM22_006045
 scaff_184	WormBase_imported	exon	580685	580708	.	-	.	ID=exon:CRM22_006045.3;Parent=transcript:CRM22_006045
@@ -1144,7 +1179,9 @@ scaff_184	WormBase_imported	CDS	577985	578011	.	-	2	ID=cds:CRM22_006045;Parent=t
 scaff_184	WormBase_imported	CDS	575886	575932	.	-	2	ID=cds:CRM22_006045;Parent=transcript:CRM22_006045
 scaff_193	WormBase_imported	gene	79222	136915	.	-	.	ID=gene:CRM22_006195;Name=CRM22_006195;biotype=protein_coding
 scaff_193	WormBase_imported	mRNA	79222	136915	.	-	.	ID=transcript:CRM22_006195.1;Parent=gene:CRM22_006195;Name=CRM22_006195.1
+#microexons transcript:CRM22_006195.1:  100 18-24-24-24 89 208 27-24-24 57 24 44 214 48 113 238 54 18 228
 scaff_193	WormBase_imported	mRNA	93688	136915	.	-	.	ID=transcript:CRM22_006195.2;Parent=gene:CRM22_006195;Name=CRM22_006195.2
+#microexons transcript:CRM22_006195.2:  100 18-24-24-24 89 208 27-24-24 57 24 44 214 48 113 238 54 18 358
 scaff_193	WormBase_imported	exon	136816	136915	.	-	.	ID=exon:CRM22_006195.1.1;Parent=transcript:CRM22_006195.1
 scaff_193	WormBase_imported	exon	134253	134270	.	-	.	ID=exon:CRM22_006195.1.2;Parent=transcript:CRM22_006195.1
 scaff_193	WormBase_imported	exon	133531	133554	.	-	.	ID=exon:CRM22_006195.1.3;Parent=transcript:CRM22_006195.1
@@ -1231,6 +1268,7 @@ scaff_193	WormBase_imported	CDS	93963	94045	.	-	2	ID=cds:CRM22_006195.2;Parent=t
 scaff_193	WormBase_imported	three_prime_UTR	93688	93962	.	-	.	Parent=transcript:CRM22_006195.2
 scaff_540	WormBase_imported	gene	344159	379138	.	-	.	ID=gene:CRM22_009997;Name=CRM22_009997;biotype=protein_coding
 scaff_540	WormBase_imported	mRNA	344159	379138	.	-	.	ID=transcript:CRM22_009997;Parent=gene:CRM22_009997;Name=CRM22_009997
+#microexons transcript:CRM22_009997:  72 73 33 24-24-24 93 48 74 208 63 48 74 208 63 104
 scaff_540	WormBase_imported	exon	379067	379138	.	-	.	ID=exon:CRM22_009997.1;Parent=transcript:CRM22_009997
 scaff_540	WormBase_imported	exon	373837	373909	.	-	.	ID=exon:CRM22_009997.2;Parent=transcript:CRM22_009997
 scaff_540	WormBase_imported	exon	373107	373139	.	-	.	ID=exon:CRM22_009997.3;Parent=transcript:CRM22_009997
@@ -1265,8 +1303,11 @@ scaff_540	WormBase_imported	CDS	345354	345416	.	-	2	ID=cds:CRM22_009997;Parent=t
 scaff_540	WormBase_imported	CDS	344159	344262	.	-	2	ID=cds:CRM22_009997;Parent=transcript:CRM22_009997
 scaff_64	WormBase_imported	gene	163342	190872	.	-	.	ID=gene:CRM22_010724;Name=CRM22_010724;biotype=protein_coding
 scaff_64	WormBase_imported	mRNA	163342	184043	.	-	.	ID=transcript:CRM22_010724.1;Parent=gene:CRM22_010724;Name=CRM22_010724.1
+#microexons transcript:CRM22_010724.1:  67 30 36 54 15-21-30-21-21-30 47 185
 scaff_64	WormBase_imported	mRNA	163342	190872	.	-	.	ID=transcript:CRM22_010724.2;Parent=gene:CRM22_010724;Name=CRM22_010724.2
+#microexons transcript:CRM22_010724.2:  87 15-21-30-21-21-30 36 54 15-21-30-21-21-30 185
 scaff_64	WormBase_imported	mRNA	165068	184043	.	-	.	ID=transcript:CRM22_010724.3;Parent=gene:CRM22_010724;Name=CRM22_010724.3
+#microexons transcript:CRM22_010724.3:  67 30 36 54 15-21-30-21-21-30 137
 scaff_64	WormBase_imported	exon	183977	184043	.	-	.	ID=exon:CRM22_010724.1.1;Parent=transcript:CRM22_010724.1
 scaff_64	WormBase_imported	exon	179961	179990	.	-	.	ID=exon:CRM22_010724.1.2;Parent=transcript:CRM22_010724.1
 scaff_64	WormBase_imported	exon	178359	178394	.	-	.	ID=exon:CRM22_010724.1.3;Parent=transcript:CRM22_010724.1
@@ -1351,6 +1392,7 @@ scaff_64	WormBase_imported	three_prime_UTR	165395	165398	.	-	.	Parent=transcript
 scaff_64	WormBase_imported	three_prime_UTR	165068	165204	.	-	.	Parent=transcript:CRM22_010724.3
 scaff_1766	WormBase_imported	gene	29840	67104	.	-	.	ID=gene:CRM22_005031;Name=CRM22_005031;biotype=protein_coding
 scaff_1766	WormBase_imported	mRNA	29840	67104	.	-	.	ID=transcript:CRM22_005031;Parent=gene:CRM22_005031;Name=CRM22_005031
+#microexons transcript:CRM22_005031:  113 24-12-24-21-18-21-24-21-21-21-21-21-21-24-21 43 8 25
 scaff_1766	WormBase_imported	exon	66992	67104	.	-	.	ID=exon:CRM22_005031.1;Parent=transcript:CRM22_005031
 scaff_1766	WormBase_imported	exon	65217	65240	.	-	.	ID=exon:CRM22_005031.2;Parent=transcript:CRM22_005031
 scaff_1766	WormBase_imported	exon	62272	62283	.	-	.	ID=exon:CRM22_005031.3;Parent=transcript:CRM22_005031
@@ -1392,6 +1434,7 @@ scaff_1766	WormBase_imported	CDS	31352	31359	.	-	1	ID=cds:CRM22_005031;Parent=tr
 scaff_1766	WormBase_imported	CDS	29840	29864	.	-	2	ID=cds:CRM22_005031;Parent=transcript:CRM22_005031
 scaff_1766	WormBase_imported	gene	226270	235430	.	+	.	ID=gene:CRM22_005032;Name=CRM22_005032;biotype=protein_coding
 scaff_1766	WormBase_imported	mRNA	226270	235430	.	+	.	ID=transcript:CRM22_005032;Parent=gene:CRM22_005032;Name=CRM22_005032
+#microexons transcript:CRM22_005032:  452 24-21-21-21-21-21-21-24 22
 scaff_1766	WormBase_imported	exon	226270	226721	.	+	.	ID=exon:CRM22_005032.1;Parent=transcript:CRM22_005032
 scaff_1766	WormBase_imported	exon	227782	227805	.	+	.	ID=exon:CRM22_005032.2;Parent=transcript:CRM22_005032
 scaff_1766	WormBase_imported	exon	227926	227946	.	+	.	ID=exon:CRM22_005032.3;Parent=transcript:CRM22_005032
@@ -1415,6 +1458,7 @@ scaff_1766	WormBase_imported	CDS	234500	234523	.	+	2	ID=cds:CRM22_005032;Parent=
 scaff_1766	WormBase_imported	CDS	235409	235430	.	+	2	ID=cds:CRM22_005032;Parent=transcript:CRM22_005032
 scaff_533	WormBase_imported	gene	547292	576874	.	-	.	ID=gene:CRM22_009926;Name=CRM22_009926;biotype=protein_coding
 scaff_533	WormBase_imported	mRNA	547292	576874	.	-	.	ID=transcript:CRM22_009926;Parent=gene:CRM22_009926;Name=CRM22_009926
+#microexons transcript:CRM22_009926:  98 27-18-9-15-12-12 36 3-24-12-24-21-15-21-24-21-24-21-21-21-21-21-15-24-24-24-21-21 92
 scaff_533	WormBase_imported	exon	576777	576874	.	-	.	ID=exon:CRM22_009926.1;Parent=transcript:CRM22_009926
 scaff_533	WormBase_imported	exon	574173	574199	.	-	.	ID=exon:CRM22_009926.2;Parent=transcript:CRM22_009926
 scaff_533	WormBase_imported	exon	572076	572093	.	-	.	ID=exon:CRM22_009926.3;Parent=transcript:CRM22_009926
@@ -1479,9 +1523,13 @@ scaff_533	WormBase_imported	CDS	547361	547383	.	-	2	ID=cds:CRM22_009926;Parent=t
 scaff_533	WormBase_imported	three_prime_UTR	547292	547360	.	-	.	Parent=transcript:CRM22_009926
 scaff_23	WormBase_imported	gene	468671	473182	.	-	.	ID=gene:CRM22_006552;Name=CRM22_006552;biotype=protein_coding
 scaff_23	WormBase_imported	mRNA	468671	473182	.	-	.	ID=transcript:CRM22_006552.1;Parent=gene:CRM22_006552;Name=CRM22_006552.1
+#microexons transcript:CRM22_006552.1:  208 33 33 36 30-30-30 96
 scaff_23	WormBase_imported	mRNA	468671	473182	.	-	.	ID=transcript:CRM22_006552.2;Parent=gene:CRM22_006552;Name=CRM22_006552.2
+#microexons transcript:CRM22_006552.2:  208 363 33 36 30 36 30-30 96
 scaff_23	WormBase_imported	mRNA	468671	473182	.	-	.	ID=transcript:CRM22_006552.3;Parent=gene:CRM22_006552;Name=CRM22_006552.3
+#microexons transcript:CRM22_006552.3:  79 48 33 33 36 30-30-30 96
 scaff_23	WormBase_imported	mRNA	468671	473182	.	-	.	ID=transcript:CRM22_006552.4;Parent=gene:CRM22_006552;Name=CRM22_006552.4
+#microexons transcript:CRM22_006552.4:  79 48 33 33 36 30 36 30-30 96
 scaff_23	WormBase_imported	exon	472975	473182	.	-	.	ID=exon:CRM22_006552.1.1;Parent=transcript:CRM22_006552.1
 scaff_23	WormBase_imported	exon	472564	472596	.	-	.	ID=exon:CRM22_006552.1.2;Parent=transcript:CRM22_006552.1
 scaff_23	WormBase_imported	exon	471982	472014	.	-	.	ID=exon:CRM22_006552.1.3;Parent=transcript:CRM22_006552.1
@@ -1564,6 +1612,7 @@ scaff_23	WormBase_imported	CDS	468759	468766	.	-	2	ID=cds:CRM22_006552.4;Parent=
 scaff_23	WormBase_imported	three_prime_UTR	468671	468758	.	-	.	Parent=transcript:CRM22_006552.4
 scaff_23	WormBase_imported	gene	504706	539756	.	-	.	ID=gene:CRM22_006553;Name=CRM22_006553;biotype=protein_coding
 scaff_23	WormBase_imported	mRNA	504706	539756	.	-	.	ID=transcript:CRM22_006553;Parent=gene:CRM22_006553;Name=CRM22_006553
+#microexons transcript:CRM22_006553:  22 21-18-24-21-21-21-12-24-18-18-21-12-21-21-21 23
 scaff_23	WormBase_imported	exon	539735	539756	.	-	.	ID=exon:CRM22_006553.1;Parent=transcript:CRM22_006553
 scaff_23	WormBase_imported	exon	533033	533053	.	-	.	ID=exon:CRM22_006553.2;Parent=transcript:CRM22_006553
 scaff_23	WormBase_imported	exon	530809	530826	.	-	.	ID=exon:CRM22_006553.3;Parent=transcript:CRM22_006553
@@ -1601,6 +1650,7 @@ scaff_23	WormBase_imported	CDS	504882	504902	.	-	2	ID=cds:CRM22_006553;Parent=tr
 scaff_23	WormBase_imported	CDS	504706	504728	.	-	2	ID=cds:CRM22_006553;Parent=transcript:CRM22_006553
 scaff_23	WormBase_imported	gene	540460	569637	.	-	.	ID=gene:CRM22_006554;Name=CRM22_006554;biotype=protein_coding
 scaff_23	WormBase_imported	mRNA	540460	569637	.	-	.	ID=transcript:CRM22_006554;Parent=gene:CRM22_006554;Name=CRM22_006554
+#microexons transcript:CRM22_006554:  18-12-24-18-18-21-24 33 12-24 31
 scaff_23	WormBase_imported	exon	569620	569637	.	-	.	ID=exon:CRM22_006554.1;Parent=transcript:CRM22_006554
 scaff_23	WormBase_imported	exon	567270	567281	.	-	.	ID=exon:CRM22_006554.2;Parent=transcript:CRM22_006554
 scaff_23	WormBase_imported	exon	564817	564840	.	-	.	ID=exon:CRM22_006554.3;Parent=transcript:CRM22_006554
@@ -1965,7 +2015,9 @@ scaff_23	dust	low_complexity_region	584856	584885	.	-	.
 scaff_23	dust	low_complexity_region	584984	584990	.	-	.	
 scaff_1711	WormBase_imported	gene	12074	78285	.	+	.	ID=gene:CRM22_004331;Name=CRM22_004331;biotype=protein_coding
 scaff_1711	WormBase_imported	mRNA	12074	78285	.	+	.	ID=transcript:CRM22_004331.1;Parent=gene:CRM22_004331;Name=CRM22_004331.1;info=method:InterPro accession:IPR001283 description:Cysteine-rich  secretory protein-related %0Amethod:InterPro accession:IPR014044 description:CAP domain %0Amethod:InterPro accession:IPR035940 description:CAP superfamily
+#microexons transcript:CRM22_004331.1:  229 33 33 21-30-21-30-15-15-21 39 48 48 57 21-21 110 119 52 120 338
 scaff_1711	WormBase_imported	mRNA	12214	78285	.	+	.	ID=transcript:CRM22_004331.2;Parent=gene:CRM22_004331;Name=CRM22_004331.2;info=method:InterPro accession:IPR001283 description:Cysteine-rich  secretory protein-related %0Amethod:InterPro accession:IPR014044 description:CAP domain %0Amethod:InterPro accession:IPR035940 description:CAP superfamily
+#microexons transcript:CRM22_004331.2:  89 33 33 33 21-30-21-30-15-15-21 39 48 48 57 21-21 110 119 52 120 338
 scaff_1711	WormBase_imported	exon	12074	12302	.	+	.	ID=exon:CRM22_004331.1.1;Parent=transcript:CRM22_004331.1
 scaff_1711	WormBase_imported	exon	15419	15451	.	+	.	ID=exon:CRM22_004331.1.2;Parent=transcript:CRM22_004331.1
 scaff_1711	WormBase_imported	exon	20598	20630	.	+	.	ID=exon:CRM22_004331.1.3;Parent=transcript:CRM22_004331.1
@@ -2058,6 +2110,7 @@ scaff_1711	WormBase_imported	CDS	77948	77986	.	+	0	ID=cds:CRM22_004331.2;Parent=
 scaff_1711	WormBase_imported	three_prime_UTR	77987	78285	.	+	.	Parent=transcript:CRM22_004331.2
 scaff_407	WormBase_imported	gene	309288	364133	.	+	.	ID=gene:CRM22_008535;Name=CRM22_008535;biotype=protein_coding
 scaff_407	WormBase_imported	mRNA	309288	364133	.	+	.	ID=transcript:CRM22_008535;Parent=gene:CRM22_008535;Name=CRM22_008535
+#microexons transcript:CRM22_008535:  87 45 42 114 93 93 117 114 114 114 111 18-18-12-12-30-27-21-24-18 113 119
 scaff_407	WormBase_imported	exon	309288	309374	.	+	.	ID=exon:CRM22_008535.1;Parent=transcript:CRM22_008535
 scaff_407	WormBase_imported	exon	310629	310673	.	+	.	ID=exon:CRM22_008535.2;Parent=transcript:CRM22_008535
 scaff_407	WormBase_imported	exon	319800	319841	.	+	.	ID=exon:CRM22_008535.3;Parent=transcript:CRM22_008535
@@ -2106,7 +2159,9 @@ scaff_407	WormBase_imported	CDS	364015	364113	.	+	0	ID=cds:CRM22_008535;Parent=t
 scaff_407	WormBase_imported	three_prime_UTR	364114	364133	.	+	.	Parent=transcript:CRM22_008535
 scaff_390	WormBase_imported	gene	192500	241366	.	-	.	ID=gene:CRM22_008309;Name=CRM22_008309;biotype=protein_coding
 scaff_390	WormBase_imported	mRNA	192500	241366	.	-	.	ID=transcript:CRM22_008309.1;Parent=gene:CRM22_008309;Name=CRM22_008309.1
+#microexons transcript:CRM22_008309.1:  212 98 217 27-30 57 71 217 48 113 238 57 374
 scaff_390	WormBase_imported	mRNA	192500	241366	.	-	.	ID=transcript:CRM22_008309.2;Parent=gene:CRM22_008309;Name=CRM22_008309.2
+#microexons transcript:CRM22_008309.2:  212 15-24-24 98 217 27-30 57 71 217 48 113 238 57 374
 scaff_390	WormBase_imported	exon	241155	241366	.	-	.	ID=exon:CRM22_008309.1.1;Parent=transcript:CRM22_008309.1
 scaff_390	WormBase_imported	exon	228817	228914	.	-	.	ID=exon:CRM22_008309.1.2;Parent=transcript:CRM22_008309.1
 scaff_390	WormBase_imported	exon	225381	225597	.	-	.	ID=exon:CRM22_008309.1.3;Parent=transcript:CRM22_008309.1
@@ -2171,7 +2226,9 @@ scaff_390	WormBase_imported	CDS	192857	192873	.	-	2	ID=cds:CRM22_008309.2;Parent
 scaff_390	WormBase_imported	three_prime_UTR	192500	192856	.	-	.	Parent=transcript:CRM22_008309.2
 scaff_1670	WormBase_imported	gene	133820	169599	.	-	.	ID=gene:CRM22_003902;Name=CRM22_003902;biotype=protein_coding
 scaff_1670	WormBase_imported	mRNA	133820	169599	.	-	.	ID=transcript:CRM22_003902.1;Parent=gene:CRM22_003902;Name=CRM22_003902.1
+#microexons transcript:CRM22_003902.1:  141 92 78 98 107 149 97 52 33 15-15-15-12-9 259
 scaff_1670	WormBase_imported	mRNA	133820	169599	.	-	.	ID=transcript:CRM22_003902.2;Parent=gene:CRM22_003902;Name=CRM22_003902.2
+#microexons transcript:CRM22_003902.2:  141 92 78 98 107 149 97 66 52 33 15-15-15-12-9 259
 scaff_1670	WormBase_imported	exon	169459	169599	.	-	.	ID=exon:CRM22_003902.1.1;Parent=transcript:CRM22_003902.1
 scaff_1670	WormBase_imported	exon	169335	169426	.	-	.	ID=exon:CRM22_003902.1.2;Parent=transcript:CRM22_003902.1
 scaff_1670	WormBase_imported	exon	169217	169294	.	-	.	ID=exon:CRM22_003902.1.3;Parent=transcript:CRM22_003902.1
@@ -2240,6 +2297,7 @@ scaff_1670	WormBase_imported	CDS	133990	134078	.	-	2	ID=cds:CRM22_003902.2;Paren
 scaff_1670	WormBase_imported	three_prime_UTR	133820	133989	.	-	.	Parent=transcript:CRM22_003902.2
 scaff_358	WormBase_imported	gene	227714	268648	.	+	.	ID=gene:CRM22_007973;Name=CRM22_007973;biotype=protein_coding
 scaff_358	WormBase_imported	mRNA	227714	268648	.	+	.	ID=transcript:CRM22_007973;Parent=gene:CRM22_007973;Name=CRM22_007973
+#microexons transcript:CRM22_007973:  77 15-12-12-12-12-12-12-9 128 208 27 336
 scaff_358	WormBase_imported	exon	227714	227790	.	+	.	ID=exon:CRM22_007973.1;Parent=transcript:CRM22_007973
 scaff_358	WormBase_imported	exon	232059	232073	.	+	.	ID=exon:CRM22_007973.2;Parent=transcript:CRM22_007973
 scaff_358	WormBase_imported	exon	248223	248234	.	+	.	ID=exon:CRM22_007973.3;Parent=transcript:CRM22_007973
@@ -2270,6 +2328,7 @@ scaff_358	WormBase_imported	CDS	268313	268371	.	+	2	ID=cds:CRM22_007973;Parent=t
 scaff_358	WormBase_imported	three_prime_UTR	268372	268648	.	+	.	Parent=transcript:CRM22_007973
 scaff_514	WormBase_imported	gene	214419	235433	.	-	.	ID=gene:CRM22_009621;Name=CRM22_009621;biotype=protein_coding
 scaff_514	WormBase_imported	mRNA	214419	235433	.	-	.	ID=transcript:CRM22_009621;Parent=gene:CRM22_009621;Name=CRM22_009621
+#microexons transcript:CRM22_009621:  123 24-24-24-24 64 24-27 26 26 31
 scaff_514	WormBase_imported	exon	235311	235433	.	-	.	ID=exon:CRM22_009621.1;Parent=transcript:CRM22_009621
 scaff_514	WormBase_imported	exon	233287	233310	.	-	.	ID=exon:CRM22_009621.2;Parent=transcript:CRM22_009621
 scaff_514	WormBase_imported	exon	232460	232483	.	-	.	ID=exon:CRM22_009621.3;Parent=transcript:CRM22_009621
@@ -2294,6 +2353,7 @@ scaff_514	WormBase_imported	CDS	216574	216599	.	-	0	ID=cds:CRM22_009621;Parent=t
 scaff_514	WormBase_imported	CDS	214419	214449	.	-	1	ID=cds:CRM22_009621;Parent=transcript:CRM22_009621
 scaff_514	WormBase_imported	gene	246308	273925	.	-	.	ID=gene:CRM22_009622;Name=CRM22_009622;biotype=protein_coding
 scaff_514	WormBase_imported	mRNA	246308	273925	.	-	.	ID=transcript:CRM22_009622;Parent=gene:CRM22_009622;Name=CRM22_009622
+#microexons transcript:CRM22_009622:  43 21 36 27-24-9-12-27 33 33 239
 scaff_514	WormBase_imported	exon	273883	273925	.	-	.	ID=exon:CRM22_009622.1;Parent=transcript:CRM22_009622
 scaff_514	WormBase_imported	exon	272061	272081	.	-	.	ID=exon:CRM22_009622.2;Parent=transcript:CRM22_009622
 scaff_514	WormBase_imported	exon	271218	271253	.	-	.	ID=exon:CRM22_009622.3;Parent=transcript:CRM22_009622
@@ -2318,7 +2378,9 @@ scaff_514	WormBase_imported	CDS	252707	252739	.	-	2	ID=cds:CRM22_009622;Parent=t
 scaff_514	WormBase_imported	CDS	246308	246546	.	-	2	ID=cds:CRM22_009622;Parent=transcript:CRM22_009622
 scaff_514	WormBase_imported	gene	294375	347870	.	+	.	ID=gene:CRM22_009623;Name=CRM22_009623;biotype=protein_coding
 scaff_514	WormBase_imported	mRNA	294375	347870	.	+	.	ID=transcript:CRM22_009623.1;Parent=gene:CRM22_009623;Name=CRM22_009623.1
+#microexons transcript:CRM22_009623.1:  120 18 36 9 36 36 18 36 36 18-21-21-21-21-21-21-21-24-21-21-18-24
 scaff_514	WormBase_imported	mRNA	294375	347870	.	+	.	ID=transcript:CRM22_009623.2;Parent=gene:CRM22_009623;Name=CRM22_009623.2
+#microexons transcript:CRM22_009623.2:  120 18 36 9 36 36 18 36 36 18-21-21-21-21-21-21-21-21-24-21-21-18-24
 scaff_514	WormBase_imported	exon	294375	294494	.	+	.	ID=exon:CRM22_009623.1.1;Parent=transcript:CRM22_009623.1
 scaff_514	WormBase_imported	exon	295717	295734	.	+	.	ID=exon:CRM22_009623.1.2;Parent=transcript:CRM22_009623.1
 scaff_514	WormBase_imported	exon	297032	297067	.	+	.	ID=exon:CRM22_009623.1.3;Parent=transcript:CRM22_009623.1
@@ -2413,6 +2475,7 @@ scaff_514	WormBase_imported	CDS	345808	345825	.	+	2	ID=cds:CRM22_009623.2;Parent
 scaff_514	WormBase_imported	CDS	347847	347870	.	+	2	ID=cds:CRM22_009623.2;Parent=transcript:CRM22_009623.2
 scaff_514	WormBase_imported	gene	350811	373234	.	+	.	ID=gene:CRM22_009624;Name=CRM22_009624;biotype=protein_coding
 scaff_514	WormBase_imported	mRNA	350811	373234	.	+	.	ID=transcript:CRM22_009624;Parent=gene:CRM22_009624;Name=CRM22_009624
+#microexons transcript:CRM22_009624:  15-12-12-12-12-12-12-12-18-12-18-12-12-9-30 25 245
 scaff_514	WormBase_imported	exon	350811	350825	.	+	.	ID=exon:CRM22_009624.1;Parent=transcript:CRM22_009624
 scaff_514	WormBase_imported	exon	352791	352802	.	+	.	ID=exon:CRM22_009624.2;Parent=transcript:CRM22_009624
 scaff_514	WormBase_imported	exon	355317	355328	.	+	.	ID=exon:CRM22_009624.3;Parent=transcript:CRM22_009624
@@ -2696,6 +2759,7 @@ scaff_514	dust	low_complexity_region	408769	408895	.	-	.
 scaff_514	dust	low_complexity_region	411070	411076	.	-	.	
 scaff_432	WormBase_imported	gene	61750	74110	.	-	.	ID=gene:CRM22_008738;Name=CRM22_008738;biotype=protein_coding
 scaff_432	WormBase_imported	mRNA	61750	74110	.	-	.	ID=transcript:CRM22_008738;Parent=gene:CRM22_008738;Name=CRM22_008738
+#microexons transcript:CRM22_008738:  118 27-24-30-24-21
 scaff_432	WormBase_imported	exon	73993	74110	.	-	.	ID=exon:CRM22_008738.1;Parent=transcript:CRM22_008738
 scaff_432	WormBase_imported	exon	72701	72727	.	-	.	ID=exon:CRM22_008738.2;Parent=transcript:CRM22_008738
 scaff_432	WormBase_imported	exon	71708	71731	.	-	.	ID=exon:CRM22_008738.3;Parent=transcript:CRM22_008738
@@ -2710,12 +2774,19 @@ scaff_432	WormBase_imported	CDS	65506	65529	.	-	2	ID=cds:CRM22_008738;Parent=tra
 scaff_432	WormBase_imported	CDS	61750	61770	.	-	2	ID=cds:CRM22_008738;Parent=transcript:CRM22_008738
 scaff_1561	WormBase_imported	gene	144293	206956	.	-	.	ID=gene:CRM22_002914;Name=CRM22_002914;biotype=protein_coding
 scaff_1561	WormBase_imported	mRNA	144293	206955	.	-	.	ID=transcript:CRM22_002914.1;Parent=gene:CRM22_002914;Name=CRM22_002914.1;info=method:InterPro accession:IPR001680 description:WD40 repeat %0Amethod:InterPro accession:IPR015048 description:Domain of unknown function DUF1899 %0Amethod:InterPro accession:IPR015505 description:Coronin %0Amethod:InterPro accession:IPR015943 description:WD40/YVTN repeat-like-containing domain superfamily %0Amethod:InterPro accession:IPR017986 description:WD40-repeat-containing domain %0Amethod:InterPro accession:IPR019775 description:WD40 repeat%2C conserved site %0Amethod:InterPro accession:IPR036322 description:WD40-repeat-containing domain superfamily
+#microexons transcript:CRM22_002914.1:  189 259 176 117 105 309 249 21-21 1448
 scaff_1561	WormBase_imported	mRNA	144293	206955	.	-	.	ID=transcript:CRM22_002914.2;Parent=gene:CRM22_002914;Name=CRM22_002914.2;info=method:InterPro accession:IPR001680 description:WD40 repeat %0Amethod:InterPro accession:IPR015048 description:Domain of unknown function DUF1899 %0Amethod:InterPro accession:IPR015505 description:Coronin %0Amethod:InterPro accession:IPR015943 description:WD40/YVTN repeat-like-containing domain superfamily %0Amethod:InterPro accession:IPR017986 description:WD40-repeat-containing domain %0Amethod:InterPro accession:IPR019775 description:WD40 repeat%2C conserved site %0Amethod:InterPro accession:IPR036322 description:WD40-repeat-containing domain superfamily
+#microexons transcript:CRM22_002914.2:  189 259 176 117 105 309 249 21-21-24 1448
 scaff_1561	WormBase_imported	mRNA	144293	206956	.	-	.	ID=transcript:CRM22_002914.3;Parent=gene:CRM22_002914;Name=CRM22_002914.3;info=method:InterPro accession:IPR001680 description:WD40 repeat %0Amethod:InterPro accession:IPR015048 description:Domain of unknown function DUF1899 %0Amethod:InterPro accession:IPR015505 description:Coronin %0Amethod:InterPro accession:IPR015943 description:WD40/YVTN repeat-like-containing domain superfamily %0Amethod:InterPro accession:IPR017986 description:WD40-repeat-containing domain %0Amethod:InterPro accession:IPR019775 description:WD40 repeat%2C conserved site %0Amethod:InterPro accession:IPR036322 description:WD40-repeat-containing domain superfamily
+#microexons transcript:CRM22_002914.3:  190 259 176 117 105 309 249 21 194 1070
 scaff_1561	WormBase_imported	mRNA	144293	206956	.	-	.	ID=transcript:CRM22_002914.4;Parent=gene:CRM22_002914;Name=CRM22_002914.4;info=method:InterPro accession:IPR001680 description:WD40 repeat %0Amethod:InterPro accession:IPR015048 description:Domain of unknown function DUF1899 %0Amethod:InterPro accession:IPR015505 description:Coronin %0Amethod:InterPro accession:IPR015943 description:WD40/YVTN repeat-like-containing domain superfamily %0Amethod:InterPro accession:IPR017986 description:WD40-repeat-containing domain %0Amethod:InterPro accession:IPR019775 description:WD40 repeat%2C conserved site %0Amethod:InterPro accession:IPR036322 description:WD40-repeat-containing domain superfamily
+#microexons transcript:CRM22_002914.4:  190 259 176 117 105 309 249 21 1448
 scaff_1561	WormBase_imported	mRNA	144293	206956	.	-	.	ID=transcript:CRM22_002914.5;Parent=gene:CRM22_002914;Name=CRM22_002914.5;info=method:InterPro accession:IPR001680 description:WD40 repeat %0Amethod:InterPro accession:IPR015048 description:Domain of unknown function DUF1899 %0Amethod:InterPro accession:IPR015505 description:Coronin %0Amethod:InterPro accession:IPR015943 description:WD40/YVTN repeat-like-containing domain superfamily %0Amethod:InterPro accession:IPR017986 description:WD40-repeat-containing domain %0Amethod:InterPro accession:IPR019775 description:WD40 repeat%2C conserved site %0Amethod:InterPro accession:IPR036322 description:WD40-repeat-containing domain superfamily
+#microexons transcript:CRM22_002914.5:  190 259 176 117 105 309 249 1448
 scaff_1561	WormBase_imported	mRNA	176682	206956	.	-	.	ID=transcript:CRM22_002914.6;Parent=gene:CRM22_002914;Name=CRM22_002914.6;info=method:InterPro accession:IPR001680 description:WD40 repeat %0Amethod:InterPro accession:IPR015048 description:Domain of unknown function DUF1899 %0Amethod:InterPro accession:IPR015505 description:Coronin %0Amethod:InterPro accession:IPR015943 description:WD40/YVTN repeat-like-containing domain superfamily %0Amethod:InterPro accession:IPR017986 description:WD40-repeat-containing domain %0Amethod:InterPro accession:IPR019775 description:WD40 repeat%2C conserved site %0Amethod:InterPro accession:IPR036322 description:WD40-repeat-containing domain superfamily
+#microexons transcript:CRM22_002914.6:  190 259 176 117 105 309 131
 scaff_1561	WormBase_imported	mRNA	176682	206956	.	-	.	ID=transcript:CRM22_002914.7;Parent=gene:CRM22_002914;Name=CRM22_002914.7;info=method:InterPro accession:IPR001680 description:WD40 repeat %0Amethod:InterPro accession:IPR015048 description:Domain of unknown function DUF1899 %0Amethod:InterPro accession:IPR015505 description:Coronin %0Amethod:InterPro accession:IPR015943 description:WD40/YVTN repeat-like-containing domain superfamily %0Amethod:InterPro accession:IPR017986 description:WD40-repeat-containing domain %0Amethod:InterPro accession:IPR019775 description:WD40 repeat%2C conserved site %0Amethod:InterPro accession:IPR036322 description:WD40-repeat-containing domain superfamily
+#microexons transcript:CRM22_002914.7:  190 259 176 117 105 309 149
 scaff_1561	WormBase_imported	exon	206767	206955	.	-	.	ID=exon:CRM22_002914.1.1;Parent=transcript:CRM22_002914.1
 scaff_1561	WormBase_imported	exon	203723	203981	.	-	.	ID=exon:CRM22_002914.1.2;Parent=transcript:CRM22_002914.1
 scaff_1561	WormBase_imported	exon	192159	192334	.	-	.	ID=exon:CRM22_002914.1.3;Parent=transcript:CRM22_002914.1
@@ -2854,11 +2925,17 @@ scaff_1561	WormBase_imported	CDS	176813	176830	.	-	0	ID=cds:CRM22_002914.7;Paren
 scaff_1561	WormBase_imported	three_prime_UTR	176682	176812	.	-	.	Parent=transcript:CRM22_002914.7
 scaff_606	WormBase_imported	gene	126336	250652	.	+	.	ID=gene:CRM22_010654;Name=CRM22_010654;biotype=protein_coding
 scaff_606	WormBase_imported	mRNA	126336	250652	.	+	.	ID=transcript:CRM22_010654.1;Parent=gene:CRM22_010654;Name=CRM22_010654.1
+#microexons transcript:CRM22_010654.1:  132 21 69 48 36 39 27 33 30 156 147 9 36 36 36 27 39 15-24-24-24 96 153 54 36 36 39 99 458
 scaff_606	WormBase_imported	mRNA	126336	250652	.	+	.	ID=transcript:CRM22_010654.2;Parent=gene:CRM22_010654;Name=CRM22_010654.2
+#microexons transcript:CRM22_010654.2:  132 21 69 48 36 39 27 33 30 156 147 9 36 36 36 27 39 15-24-24-24 96 153 33 33 36 36 39 99 458
 scaff_606	WormBase_imported	mRNA	126336	250652	.	+	.	ID=transcript:CRM22_010654.3;Parent=gene:CRM22_010654;Name=CRM22_010654.3
+#microexons transcript:CRM22_010654.3:  132 21 69 48 36 39 27 33 30 156 147 9 36 36 36 27 39 24 99 24 96 153 54 36 36 39 99 458
 scaff_606	WormBase_imported	mRNA	126336	250652	.	+	.	ID=transcript:CRM22_010654.4;Parent=gene:CRM22_010654;Name=CRM22_010654.4
+#microexons transcript:CRM22_010654.4:  132 21 69 48 36 39 27 33 30 156 147 9 36 36 36 27 39 15-24 99 24 96 153 33 33 36 36 39 99 458
 scaff_606	WormBase_imported	mRNA	126336	250652	.	+	.	ID=transcript:CRM22_010654.5;Parent=gene:CRM22_010654;Name=CRM22_010654.5
+#microexons transcript:CRM22_010654.5:  132 21 69 48 36 39 27 33 30 156 147 9 36 36 36 27 39 15-24-24-24 96 153 54 36 39 99 458
 scaff_606	WormBase_imported	mRNA	126336	250652	.	+	.	ID=transcript:CRM22_010654.6;Parent=gene:CRM22_010654;Name=CRM22_010654.6
+#microexons transcript:CRM22_010654.6:  132 21 69 48 36 39 27 33 30 156 147 9 36 36 36 27 39 15-24 99 24 96 153 54 36 39 99 458
 scaff_606	WormBase_imported	exon	126336	126467	.	+	.	ID=exon:CRM22_010654.1.1;Parent=transcript:CRM22_010654.1
 scaff_606	WormBase_imported	exon	138186	138206	.	+	.	ID=exon:CRM22_010654.1.2;Parent=transcript:CRM22_010654.1
 scaff_606	WormBase_imported	exon	144784	144852	.	+	.	ID=exon:CRM22_010654.1.3;Parent=transcript:CRM22_010654.1
@@ -3219,6 +3296,7 @@ scaff_606	WormBase_imported	CDS	250195	250342	.	+	1	ID=cds:CRM22_010654.6;Parent
 scaff_606	WormBase_imported	three_prime_UTR	250343	250652	.	+	.	Parent=transcript:CRM22_010654.6
 scaff_1547	WormBase_imported	gene	62391	91508	.	+	.	ID=gene:CRM22_002806;Name=CRM22_002806;biotype=protein_coding
 scaff_1547	WormBase_imported	mRNA	62391	91508	.	+	.	ID=transcript:CRM22_002806;Parent=gene:CRM22_002806;Name=CRM22_002806
+#microexons transcript:CRM22_002806:  96 33 30-30-21-30-15-15-15-21 81 21 269
 scaff_1547	WormBase_imported	exon	62391	62486	.	+	.	ID=exon:CRM22_002806.1;Parent=transcript:CRM22_002806
 scaff_1547	WormBase_imported	exon	65464	65496	.	+	.	ID=exon:CRM22_002806.2;Parent=transcript:CRM22_002806
 scaff_1547	WormBase_imported	exon	69696	69725	.	+	.	ID=exon:CRM22_002806.3;Parent=transcript:CRM22_002806
@@ -3249,27 +3327,49 @@ scaff_1547	WormBase_imported	CDS	91240	91268	.	+	2	ID=cds:CRM22_002806;Parent=tr
 scaff_1547	WormBase_imported	three_prime_UTR	91269	91508	.	+	.	Parent=transcript:CRM22_002806
 scaff_1556	WormBase_imported	gene	170800	272601	.	-	.	ID=gene:CRM22_002880;Name=CRM22_002880;biotype=protein_coding
 scaff_1556	WormBase_imported	mRNA	170800	272588	.	-	.	ID=transcript:CRM22_002880.1;Parent=gene:CRM22_002880;Name=CRM22_002880.1;info=method:InterPro accession:IPR000488 description:Death domain %0Amethod:InterPro accession:IPR000906 description:ZU5 domain %0Amethod:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR011029 description:Death-like domain superfamily %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily %0Amethod:InterPro accession:IPR040745 description:Ankyrin%2C UPA domain
+#microexons transcript:CRM22_002880.1:  87 102 198 99 189 99 198 99 99 99 198 198 195 216 303 181 90 99 74 98 186 191 529 229 203 170 210 129 336 114 24 249 27 568 3378 774 100 102 198 99 189 99 198 99 99 99 198 198 195 216 303 181 90 99 42 74 98 186 191 529 229 203 170 210 129 336 114 24 249 27 231 27 219 774 100 102 198 99 189 99 198 99 99 99 198 198 195 216 303 181 90 99 42 74 98 186 191 529 229 203 170 210 129 336 114 24 165 249 27 231 27 3378 774 100 102 198 99 189 99 198 99 99 99 198 198 195 216 303 181 90 99 42 74 98 186 191 529 229 203 170 210 129 336 114 24 249 27 231 27 774 100 102 198 99 189 99 198 99 99 99 198 198 195 216 303 181 90 99 42 74 98 186 191 529 229 203 170 210 129 336 114 24 249 27-27 774 100 102 198 99 189 99 198 99 99 99 198 198 195 216 303 181 90 99 74 98 186 191 529 229 203 170 210 129 336 114 24 249 27-27 219 774 100 102 198 99 189 99 198 99 99 99 198 198 195 216 303 181 90 99 74 98 186 191 529 229 203 170 210 129 336 114 24 249 27-27 774 100 102 198 99 189 99 198 99 99 99 198 198 195 216 303 181 90 99 74 98 186 191 529 229 203 170 210 129 336 114 24-27 231 27 219 774 100 102 198 99 189 99 198 99 99 99 198 198 195 216 303 181 90 99 74 98 186 191 529 229 203 170 210 129 336 114 24 249 27 231 27 954 774 100 102 198 99 189 99 198 99 99 99 198 198 195 216 303 181 90 99 42 74 98 186 191 529 229 203 170 210 129 336 114 24 165 249 27 77 231 27 774 100 102 198 99 189 99 198 99 99 99 198 198 195 216 303 181 90 99 74 98 186 191 529 229 203 170 210 129 336 114 24 249 27-27 3378 774
 scaff_1556	WormBase_imported	mRNA	170800	272601	.	-	.	ID=transcript:CRM22_002880.2;Parent=gene:CRM22_002880;Name=CRM22_002880.2;info=method:InterPro accession:IPR000488 description:Death domain %0Amethod:InterPro accession:IPR000906 description:ZU5 domain %0Amethod:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR011029 description:Death-like domain superfamily %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily %0Amethod:InterPro accession:IPR040745 description:Ankyrin%2C UPA domain
+#microexons transcript:CRM22_002880.2:  100 102 198 99 189 99 198 99 99 99 198 198 195 216 303 181 90 99 42 74 98 186 191 529 229 203 170 210 129 336 114 24 249 27 231 27 3378 774 100 102 198 99 189 99 198 99 99 99 198 198 195 216 303 181 90 99 74 98 186 191 529 229 203 170 210 129 336 114 24 249 27 231 27 219 774 100 102 198 99 189 99 198 99 99 99 198 198 195 216 303 181 90 99 42 74 98 186 191 529 229 203 170 210 129 336 114 24 249 27 440 269 23 100 102 198 99 189 99 198 99 99 99 198 198 195 216 303 181 90 99 42 74 98 186 191 529 229 203 170 210 129 336 114 24 249 273 191
 scaff_1556	WormBase_imported	mRNA	170800	272601	.	-	.	ID=transcript:CRM22_002880.3;Parent=gene:CRM22_002880;Name=CRM22_002880.3;info=method:InterPro accession:IPR000488 description:Death domain %0Amethod:InterPro accession:IPR000906 description:ZU5 domain %0Amethod:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR011029 description:Death-like domain superfamily %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily %0Amethod:InterPro accession:IPR040745 description:Ankyrin%2C UPA domain
+#microexons transcript:CRM22_002880.3:  100 102 198 99 189 99 198 99 99 99 198 198 195 216 303 181 90 99 74 98 186 191 529 229 203 170 210 129 336 114 24 249 27 568 774
 scaff_1556	WormBase_imported	mRNA	170800	272601	.	-	.	ID=transcript:CRM22_002880.4;Parent=gene:CRM22_002880;Name=CRM22_002880.4;info=method:InterPro accession:IPR000488 description:Death domain %0Amethod:InterPro accession:IPR000906 description:ZU5 domain %0Amethod:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR011029 description:Death-like domain superfamily %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily %0Amethod:InterPro accession:IPR040745 description:Ankyrin%2C UPA domain
+#microexons transcript:CRM22_002880.4:  100 102 198 99 189 99 198 99 99 99 198 198 195 216 303 181 90 99 74 98 186 191 529 229 203 170 210 129 336 114 24 249 27 231 27 774
 scaff_1556	WormBase_imported	mRNA	170800	272601	.	-	.	ID=transcript:CRM22_002880.5;Parent=gene:CRM22_002880;Name=CRM22_002880.5;info=method:InterPro accession:IPR000488 description:Death domain %0Amethod:InterPro accession:IPR000906 description:ZU5 domain %0Amethod:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR011029 description:Death-like domain superfamily %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily %0Amethod:InterPro accession:IPR040745 description:Ankyrin%2C UPA domain
+#microexons transcript:CRM22_002880.5:  100 102 198 99 189 99 198 99 99 99 198 198 195 216 303 181 90 99 74 98 186 191 529 229 203 170 210 129 336 114 24-27 231 27 3378 774
 scaff_1556	WormBase_imported	mRNA	170800	272601	.	-	.	ID=transcript:CRM22_002880.6;Parent=gene:CRM22_002880;Name=CRM22_002880.6;info=method:InterPro accession:IPR000488 description:Death domain %0Amethod:InterPro accession:IPR000906 description:ZU5 domain %0Amethod:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR011029 description:Death-like domain superfamily %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily %0Amethod:InterPro accession:IPR040745 description:Ankyrin%2C UPA domain
+#microexons transcript:CRM22_002880.6:  100 102 198 99 189 99 198 99 99 99 198 198 195 216 303 181 90 99 74 98 186 191 529 229 203 170 210 129 336 114 24 249 27 231 27 3378 774
 scaff_1556	WormBase_imported	mRNA	170800	272601	.	-	.	ID=transcript:CRM22_002880.7;Parent=gene:CRM22_002880;Name=CRM22_002880.7;info=method:InterPro accession:IPR000488 description:Death domain %0Amethod:InterPro accession:IPR000906 description:ZU5 domain %0Amethod:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR011029 description:Death-like domain superfamily %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily %0Amethod:InterPro accession:IPR040745 description:Ankyrin%2C UPA domain
+#microexons transcript:CRM22_002880.7:  100 102 198 99 189 99 198 99 99 99 198 198 195 216 303 181 90 99 42 74 98 186 191 529 229 203 170 210 129 336 114 24 165 249 27 269 3378 774
 scaff_1556	WormBase_imported	mRNA	170800	272601	.	-	.	ID=transcript:CRM22_002880.8;Parent=gene:CRM22_002880;Name=CRM22_002880.8;info=method:InterPro accession:IPR000488 description:Death domain %0Amethod:InterPro accession:IPR000906 description:ZU5 domain %0Amethod:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR011029 description:Death-like domain superfamily %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily %0Amethod:InterPro accession:IPR040745 description:Ankyrin%2C UPA domain
+#microexons transcript:CRM22_002880.8:  100 102 198 99 189 99 198 99 99 99 198 198 195 216 303 181 90 99 74 98 186 191 529 229 203 170 210 129 336 114 24-27-27 3378 774
 scaff_1556	WormBase_imported	mRNA	170800	272601	.	-	.	ID=transcript:CRM22_002880.9;Parent=gene:CRM22_002880;Name=CRM22_002880.9;info=method:InterPro accession:IPR000488 description:Death domain %0Amethod:InterPro accession:IPR000906 description:ZU5 domain %0Amethod:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR011029 description:Death-like domain superfamily %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily %0Amethod:InterPro accession:IPR040745 description:Ankyrin%2C UPA domain
+#microexons transcript:CRM22_002880.9:  100 102 198 99 189 99 198 99 99 99 198 198 195 216 303 181 90 99 42 74 98 186 191 529 229 203 170 210 129 336 114 24-27-27 3378 774
 scaff_1556	WormBase_imported	mRNA	170800	272601	.	-	.	ID=transcript:CRM22_002880.10;Parent=gene:CRM22_002880;Name=CRM22_002880.10;info=method:InterPro accession:IPR000488 description:Death domain %0Amethod:InterPro accession:IPR000906 description:ZU5 domain %0Amethod:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR011029 description:Death-like domain superfamily %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily %0Amethod:InterPro accession:IPR040745 description:Ankyrin%2C UPA domain
+#microexons transcript:CRM22_002880.10:  100 102 198 99 189 99 198 99 99 99 198 198 195 216 303 181 90 99 42 74 98 186 191 529 229 203 170 210 129 336 114 24 249 27 231 27 219 774
 scaff_1556	WormBase_imported	mRNA	170800	272601	.	-	.	ID=transcript:CRM22_002880.11;Parent=gene:CRM22_002880;Name=CRM22_002880.11;info=method:InterPro accession:IPR000488 description:Death domain %0Amethod:InterPro accession:IPR000906 description:ZU5 domain %0Amethod:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR011029 description:Death-like domain superfamily %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily %0Amethod:InterPro accession:IPR040745 description:Ankyrin%2C UPA domain
+#microexons transcript:CRM22_002880.11:  100 102 198 99 189 99 198 99 99 99 198 198 195 216 303 181 90 99 42 74 98 186 191 529 229 203 170 210 129 336 114 24 165 249 27 231 27 3378 774
 scaff_1556	WormBase_imported	mRNA	170800	272601	.	-	.	ID=transcript:CRM22_002880.12;Parent=gene:CRM22_002880;Name=CRM22_002880.12;info=method:InterPro accession:IPR000488 description:Death domain %0Amethod:InterPro accession:IPR000906 description:ZU5 domain %0Amethod:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR011029 description:Death-like domain superfamily %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily %0Amethod:InterPro accession:IPR040745 description:Ankyrin%2C UPA domain
+#microexons transcript:CRM22_002880.12:  100 102 198 99 189 99 198 99 99 99 198 198 195 216 303 181 90 99 42 74 98 186 191 529 229 203 170 210 129 336 114 24 249 27 231 27 774
 scaff_1556	WormBase_imported	mRNA	170800	272601	.	-	.	ID=transcript:CRM22_002880.13;Parent=gene:CRM22_002880;Name=CRM22_002880.13;info=method:InterPro accession:IPR000488 description:Death domain %0Amethod:InterPro accession:IPR000906 description:ZU5 domain %0Amethod:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR011029 description:Death-like domain superfamily %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily %0Amethod:InterPro accession:IPR040745 description:Ankyrin%2C UPA domain
+#microexons transcript:CRM22_002880.13:  100 102 198 99 189 99 198 99 99 99 198 198 195 216 303 181 90 99 42 74 98 186 191 529 229 203 170 210 129 336 114 24 249 27-27 774
 scaff_1556	WormBase_imported	mRNA	170800	272601	.	-	.	ID=transcript:CRM22_002880.14;Parent=gene:CRM22_002880;Name=CRM22_002880.14;info=method:InterPro accession:IPR000488 description:Death domain %0Amethod:InterPro accession:IPR000906 description:ZU5 domain %0Amethod:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR011029 description:Death-like domain superfamily %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily %0Amethod:InterPro accession:IPR040745 description:Ankyrin%2C UPA domain
+#microexons transcript:CRM22_002880.14:  100 102 198 99 189 99 198 99 99 99 198 198 195 216 303 181 90 99 74 98 186 191 529 229 203 170 210 129 336 114 24 249 27-27 219 774
 scaff_1556	WormBase_imported	mRNA	170800	272601	.	-	.	ID=transcript:CRM22_002880.15;Parent=gene:CRM22_002880;Name=CRM22_002880.15;info=method:InterPro accession:IPR000488 description:Death domain %0Amethod:InterPro accession:IPR000906 description:ZU5 domain %0Amethod:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR011029 description:Death-like domain superfamily %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily %0Amethod:InterPro accession:IPR040745 description:Ankyrin%2C UPA domain
+#microexons transcript:CRM22_002880.15:  100 102 198 99 189 99 198 99 99 99 198 198 195 216 303 181 90 99 74 98 186 191 529 229 203 170 210 129 336 114 24 249 27-27 774
 scaff_1556	WormBase_imported	mRNA	170800	272601	.	-	.	ID=transcript:CRM22_002880.16;Parent=gene:CRM22_002880;Name=CRM22_002880.16;info=method:InterPro accession:IPR000488 description:Death domain %0Amethod:InterPro accession:IPR000906 description:ZU5 domain %0Amethod:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR011029 description:Death-like domain superfamily %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily %0Amethod:InterPro accession:IPR040745 description:Ankyrin%2C UPA domain
+#microexons transcript:CRM22_002880.16:  100 102 198 99 189 99 198 99 99 99 198 198 195 216 303 181 90 99 74 98 186 191 529 229 203 170 210 129 336 114 24-27 231 27 219 774
 scaff_1556	WormBase_imported	mRNA	170800	272601	.	-	.	ID=transcript:CRM22_002880.17;Parent=gene:CRM22_002880;Name=CRM22_002880.17;info=method:InterPro accession:IPR000488 description:Death domain %0Amethod:InterPro accession:IPR000906 description:ZU5 domain %0Amethod:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR011029 description:Death-like domain superfamily %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily %0Amethod:InterPro accession:IPR040745 description:Ankyrin%2C UPA domain
+#microexons transcript:CRM22_002880.17:  100 102 198 99 189 99 198 99 99 99 198 198 195 216 303 181 90 99 74 98 186 191 529 229 203 170 210 129 336 114 24 249 27 231 27 954 774
 scaff_1556	WormBase_imported	mRNA	170800	272601	.	-	.	ID=transcript:CRM22_002880.18;Parent=gene:CRM22_002880;Name=CRM22_002880.18;info=method:InterPro accession:IPR000488 description:Death domain %0Amethod:InterPro accession:IPR000906 description:ZU5 domain %0Amethod:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR011029 description:Death-like domain superfamily %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily %0Amethod:InterPro accession:IPR040745 description:Ankyrin%2C UPA domain
+#microexons transcript:CRM22_002880.18:  100 102 198 99 189 99 198 99 99 99 198 198 195 216 303 181 90 99 42 74 98 186 191 529 229 203 170 210 129 336 114 24 165 249 27 77 231 27 774
 scaff_1556	WormBase_imported	mRNA	170800	272601	.	-	.	ID=transcript:CRM22_002880.19;Parent=gene:CRM22_002880;Name=CRM22_002880.19;info=method:InterPro accession:IPR000488 description:Death domain %0Amethod:InterPro accession:IPR000906 description:ZU5 domain %0Amethod:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR011029 description:Death-like domain superfamily %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily %0Amethod:InterPro accession:IPR040745 description:Ankyrin%2C UPA domain
+#microexons transcript:CRM22_002880.19:  100 102 198 99 189 99 198 99 99 99 198 198 195 216 303 181 90 99 74 98 186 191 529 229 203 170 210 129 336 114 24 249 27-27 3378 774
 scaff_1556	WormBase_imported	mRNA	170800	272601	.	-	.	ID=transcript:CRM22_002880.20;Parent=gene:CRM22_002880;Name=CRM22_002880.20;info=method:InterPro accession:IPR000488 description:Death domain %0Amethod:InterPro accession:IPR000906 description:ZU5 domain %0Amethod:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR011029 description:Death-like domain superfamily %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily %0Amethod:InterPro accession:IPR040745 description:Ankyrin%2C UPA domain
+#microexons transcript:CRM22_002880.20:  100 102 198 99 189 99 198 99 99 99 198 198 195 216 303 181 90 99 74 98 186 191 529 229 203 170 210 129 336 114 24 249 27 231 27 219 774
 scaff_1556	WormBase_imported	mRNA	175118	272601	.	-	.	ID=transcript:CRM22_002880.21;Parent=gene:CRM22_002880;Name=CRM22_002880.21;info=method:InterPro accession:IPR000488 description:Death domain %0Amethod:InterPro accession:IPR000906 description:ZU5 domain %0Amethod:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR011029 description:Death-like domain superfamily %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily %0Amethod:InterPro accession:IPR040745 description:Ankyrin%2C UPA domain
+#microexons transcript:CRM22_002880.21:  100 102 198 99 189 99 198 99 99 99 198 198 195 216 303 181 90 99 42 74 98 186 191 529 229 203 170 210 129 336 114 24 249 27 440 269 23
 scaff_1556	WormBase_imported	mRNA	185863	272601	.	-	.	ID=transcript:CRM22_002880.22;Parent=gene:CRM22_002880;Name=CRM22_002880.22;info=method:InterPro accession:IPR000488 description:Death domain %0Amethod:InterPro accession:IPR000906 description:ZU5 domain %0Amethod:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR011029 description:Death-like domain superfamily %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily %0Amethod:InterPro accession:IPR040745 description:Ankyrin%2C UPA domain
+#microexons transcript:CRM22_002880.22:  100 102 198 99 189 99 198 99 99 99 198 198 195 216 303 181 90 99 42 74 98 186 191 529 229 203 170 210 129 336 114 24 249 273 191
 scaff_1556	WormBase_imported	exon	272502	272588	.	-	.	ID=exon:CRM22_002880.1.1;Parent=transcript:CRM22_002880.1
 scaff_1556	WormBase_imported	exon	261507	261608	.	-	.	ID=exon:CRM22_002880.1.2;Parent=transcript:CRM22_002880.1
 scaff_1556	WormBase_imported	exon	258313	258510	.	-	.	ID=exon:CRM22_002880.1.3;Parent=transcript:CRM22_002880.1
@@ -5079,8 +5179,11 @@ scaff_1556	dust	low_complexity_region	275904	275910	.	-	.
 scaff_1556	dust	low_complexity_region	278914	278920	.	-	.	
 scaff_1471	WormBase_imported	gene	158950	265411	.	-	.	ID=gene:CRM22_002287;Name=CRM22_002287;biotype=protein_coding
 scaff_1471	WormBase_imported	mRNA	158950	265411	.	-	.	ID=transcript:CRM22_002287.1;Parent=gene:CRM22_002287;Name=CRM22_002287.1
+#microexons transcript:CRM22_002287.1:  19 24-27-15-9-15-12-12-12-12-21-18-12-12-12-12-12-12-12-12-12-12-3-15-15 36 18-18-24 39 36 36 54 24 36 42 27 42 36 33 30 35 26 41 82
 scaff_1471	WormBase_imported	mRNA	166276	262504	.	-	.	ID=transcript:CRM22_002287.2;Parent=gene:CRM22_002287;Name=CRM22_002287.2
+#microexons transcript:CRM22_002287.2:  483 27-15-9-15-12-12-12-12-21-18-12-12-12-12-12-12-12-12-12-12-3-15-15 36 18-18-24 39 36 36 54 24 36 42 27 42 36 33 30 35 26 121
 scaff_1471	WormBase_imported	mRNA	166276	265411	.	-	.	ID=transcript:CRM22_002287.3;Parent=gene:CRM22_002287;Name=CRM22_002287.3
+#microexons transcript:CRM22_002287.3:  19 306 27-15-9-15-12-12-12-12-21-18-12-12-12-12-12-12-12-12-12-12-3-15-15 36 18-18-24 39 36 36 54 24 36 42 27 42 36 33 30 35 26 121
 scaff_1471	WormBase_imported	exon	265393	265411	.	-	.	ID=exon:CRM22_002287.1.1;Parent=transcript:CRM22_002287.1
 scaff_1471	WormBase_imported	exon	262022	262045	.	-	.	ID=exon:CRM22_002287.1.2;Parent=transcript:CRM22_002287.1
 scaff_1471	WormBase_imported	exon	257887	257913	.	-	.	ID=exon:CRM22_002287.1.3;Parent=transcript:CRM22_002287.1
@@ -5501,6 +5604,7 @@ scaff_1471	dust	low_complexity_region	264955	264992	.	-	.
 scaff_1471	dust	low_complexity_region	266439	266451	.	-	.	
 scaff_1444	WormBase_imported	gene	84004	243989	.	+	.	ID=gene:CRM22_002107;Name=CRM22_002107;biotype=protein_coding
 scaff_1444	WormBase_imported	mRNA	84004	243989	.	+	.	ID=transcript:CRM22_002107;Parent=gene:CRM22_002107;Name=CRM22_002107
+#microexons transcript:CRM22_002107:  134 33 21-30-21-30-21 54 21-21-21-21-21 48 21
 scaff_1444	WormBase_imported	exon	84004	84137	.	+	.	ID=exon:CRM22_002107.1;Parent=transcript:CRM22_002107
 scaff_1444	WormBase_imported	exon	179956	179988	.	+	.	ID=exon:CRM22_002107.2;Parent=transcript:CRM22_002107
 scaff_1444	WormBase_imported	exon	181760	181780	.	+	.	ID=exon:CRM22_002107.3;Parent=transcript:CRM22_002107
@@ -5670,6 +5774,7 @@ scaff_1444	dust	low_complexity_region	253330	253336	.	-	.
 scaff_1444	dust	low_complexity_region	253467	253473	.	-	.	
 scaff_281	WormBase_imported	gene	196240	228086	.	-	.	ID=gene:CRM22_007126;Name=CRM22_007126;biotype=protein_coding
 scaff_281	WormBase_imported	mRNA	196240	228086	.	-	.	ID=transcript:CRM22_007126;Parent=gene:CRM22_007126;Name=CRM22_007126
+#microexons transcript:CRM22_007126:  118 21-30-6-18-6-21-21-15-15-21-24-12-18-24-27-27-21-12
 scaff_281	WormBase_imported	exon	227969	228086	.	-	.	ID=exon:CRM22_007126.1;Parent=transcript:CRM22_007126
 scaff_281	WormBase_imported	exon	220749	220769	.	-	.	ID=exon:CRM22_007126.2;Parent=transcript:CRM22_007126
 scaff_281	WormBase_imported	exon	218697	218726	.	-	.	ID=exon:CRM22_007126.3;Parent=transcript:CRM22_007126
@@ -5836,6 +5941,7 @@ scaff_281	dust	low_complexity_region	240113	240175	.	-	.
 scaff_281	dust	low_complexity_region	242001	242007	.	-	.	
 scaff_427	WormBase_imported	gene	183264	200213	.	-	.	ID=gene:CRM22_008707;Name=CRM22_008707;biotype=protein_coding
 scaff_427	WormBase_imported	mRNA	183264	200213	.	-	.	ID=transcript:CRM22_008707;Parent=gene:CRM22_008707;Name=CRM22_008707
+#microexons transcript:CRM22_008707:  24-21-18-21-24-21-21-21-21-27-12-21-27-24-21 65 150
 scaff_427	WormBase_imported	exon	200190	200213	.	-	.	ID=exon:CRM22_008707.1;Parent=transcript:CRM22_008707
 scaff_427	WormBase_imported	exon	199056	199076	.	-	.	ID=exon:CRM22_008707.2;Parent=transcript:CRM22_008707
 scaff_427	WormBase_imported	exon	198607	198624	.	-	.	ID=exon:CRM22_008707.3;Parent=transcript:CRM22_008707
@@ -5963,6 +6069,7 @@ scaff_427	trf	tandem_repeat	204486	204574	164	-	.
 scaff_427	dust	low_complexity_region	204491	204569	.	-	.	
 scaff_93	WormBase_imported	gene	86894	133535	.	-	.	ID=gene:CRM22_011271;Name=CRM22_011271;biotype=protein_coding
 scaff_93	WormBase_imported	mRNA	86894	133535	.	-	.	ID=transcript:CRM22_011271;Parent=gene:CRM22_011271;Name=CRM22_011271
+#microexons transcript:CRM22_011271:  158 168 21-24-12-24-21-18-21-24-21-21-21-21-21-21-18-21-24-21-21 50
 scaff_93	WormBase_imported	exon	133378	133535	.	-	.	ID=exon:CRM22_011271.1;Parent=transcript:CRM22_011271
 scaff_93	WormBase_imported	exon	131032	131199	.	-	.	ID=exon:CRM22_011271.2;Parent=transcript:CRM22_011271
 scaff_93	WormBase_imported	exon	126107	126127	.	-	.	ID=exon:CRM22_011271.3;Parent=transcript:CRM22_011271
@@ -6011,6 +6118,7 @@ scaff_93	WormBase_imported	CDS	86936	86943	.	-	2	ID=cds:CRM22_011271;Parent=tran
 scaff_93	WormBase_imported	three_prime_UTR	86894	86935	.	-	.	Parent=transcript:CRM22_011271
 scaff_1405	WormBase_imported	gene	91974	113825	.	-	.	ID=gene:CRM22_001863;Name=CRM22_001863;biotype=protein_coding
 scaff_1405	WormBase_imported	mRNA	91974	113825	.	-	.	ID=transcript:CRM22_001863;Parent=gene:CRM22_001863;Name=CRM22_001863
+#microexons transcript:CRM22_001863:  24-18-18-27-24-27-15-30-9-30-30-15 73
 scaff_1405	WormBase_imported	exon	113802	113825	.	-	.	ID=exon:CRM22_001863.1;Parent=transcript:CRM22_001863
 scaff_1405	WormBase_imported	exon	113267	113284	.	-	.	ID=exon:CRM22_001863.2;Parent=transcript:CRM22_001863
 scaff_1405	WormBase_imported	exon	112880	112897	.	-	.	ID=exon:CRM22_001863.3;Parent=transcript:CRM22_001863
@@ -6041,6 +6149,7 @@ scaff_1405	WormBase_imported	CDS	92021	92046	.	-	2	ID=cds:CRM22_001863;Parent=tr
 scaff_1405	WormBase_imported	three_prime_UTR	91974	92020	.	-	.	Parent=transcript:CRM22_001863
 scaff_1401	WormBase_imported	gene	69026	108131	.	-	.	ID=gene:CRM22_001846;Name=CRM22_001846;biotype=protein_coding
 scaff_1401	WormBase_imported	mRNA	69026	108131	.	-	.	ID=transcript:CRM22_001846;Parent=gene:CRM22_001846;Name=CRM22_001846
+#microexons transcript:CRM22_001846:  77 27-24-27-21-15-12-18-9-24-21-24-6-30-27-27-27-15
 scaff_1401	WormBase_imported	exon	108055	108131	.	-	.	ID=exon:CRM22_001846.1;Parent=transcript:CRM22_001846
 scaff_1401	WormBase_imported	exon	105997	106023	.	-	.	ID=exon:CRM22_001846.2;Parent=transcript:CRM22_001846
 scaff_1401	WormBase_imported	exon	104311	104334	.	-	.	ID=exon:CRM22_001846.3;Parent=transcript:CRM22_001846
@@ -6080,9 +6189,13 @@ scaff_1401	WormBase_imported	CDS	69417	69443	.	-	2	ID=cds:CRM22_001846;Parent=tr
 scaff_1401	WormBase_imported	CDS	69026	69040	.	-	2	ID=cds:CRM22_001846;Parent=transcript:CRM22_001846
 scaff_592	WormBase_imported	gene	77980	85441	.	+	.	ID=gene:CRM22_010569;Name=CRM22_010569;biotype=protein_coding
 scaff_592	WormBase_imported	mRNA	77980	85441	.	+	.	ID=transcript:CRM22_010569.1;Parent=gene:CRM22_010569;Name=CRM22_010569.1
+#microexons transcript:CRM22_010569.1:  78 48 30-24-30 36 30-30 55
 scaff_592	WormBase_imported	mRNA	77980	85441	.	+	.	ID=transcript:CRM22_010569.2;Parent=gene:CRM22_010569;Name=CRM22_010569.2
+#microexons transcript:CRM22_010569.2:  78 48 30-24 36 30 36 30-30 55
 scaff_592	WormBase_imported	mRNA	77980	85441	.	+	.	ID=transcript:CRM22_010569.3;Parent=gene:CRM22_010569;Name=CRM22_010569.3
+#microexons transcript:CRM22_010569.3:  78 48 30-24-30 36 30 55
 scaff_592	WormBase_imported	mRNA	77980	85441	.	+	.	ID=transcript:CRM22_010569.4;Parent=gene:CRM22_010569;Name=CRM22_010569.4
+#microexons transcript:CRM22_010569.4:  78 48 30-24 36 30 36 30 55
 scaff_592	WormBase_imported	exon	77980	78057	.	+	.	ID=exon:CRM22_010569.1.1;Parent=transcript:CRM22_010569.1
 scaff_592	WormBase_imported	exon	78139	78186	.	+	.	ID=exon:CRM22_010569.1.2;Parent=transcript:CRM22_010569.1
 scaff_592	WormBase_imported	exon	78800	78829	.	+	.	ID=exon:CRM22_010569.1.3;Parent=transcript:CRM22_010569.1
@@ -6266,11 +6379,17 @@ scaff_592	dust	low_complexity_region	173285	173291	.	-	.
 scaff_592	dust	low_complexity_region	175292	175298	.	-	.	
 scaff_1394	WormBase_imported	gene	7631	83575	.	+	.	ID=gene:CRM22_001801;Name=CRM22_001801;biotype=protein_coding
 scaff_1394	WormBase_imported	mRNA	7631	83575	.	+	.	ID=transcript:CRM22_001801.1;Parent=gene:CRM22_001801;Name=CRM22_001801.1;info=method:InterPro accession:IPR000008 description:C2 domain %0Amethod:InterPro accession:IPR035892 description:C2 domain superfamily
+#microexons transcript:CRM22_001801.1:  437 73 48 112 294 329 118 26 120 21-21-15-15-21-21-15-21-15-21-15-15-18-15-21-15-27 108 57 858
 scaff_1394	WormBase_imported	mRNA	7631	83575	.	+	.	ID=transcript:CRM22_001801.2;Parent=gene:CRM22_001801;Name=CRM22_001801.2;info=method:InterPro accession:IPR000008 description:C2 domain %0Amethod:InterPro accession:IPR035892 description:C2 domain superfamily
+#microexons transcript:CRM22_001801.2:  437 73 48 112 294 329 118 26 120 21-21-15-15-21-21-15-21-15-21-15-15-15-18-15-21-15-27 108 57 858
 scaff_1394	WormBase_imported	mRNA	15258	83575	.	+	.	ID=transcript:CRM22_001801.3;Parent=gene:CRM22_001801;Name=CRM22_001801.3;info=method:InterPro accession:IPR000008 description:C2 domain %0Amethod:InterPro accession:IPR035892 description:C2 domain superfamily
+#microexons transcript:CRM22_001801.3:  147 48 112 294 401 118 26 120 108 57 858
 scaff_1394	WormBase_imported	mRNA	15258	83575	.	+	.	ID=transcript:CRM22_001801.4;Parent=gene:CRM22_001801;Name=CRM22_001801.4;info=method:InterPro accession:IPR000008 description:C2 domain %0Amethod:InterPro accession:IPR035892 description:C2 domain superfamily
+#microexons transcript:CRM22_001801.4:  147 48 112 294 329 118 26 120 108 57 858
 scaff_1394	WormBase_imported	mRNA	15258	83575	.	+	.	ID=transcript:CRM22_001801.5;Parent=gene:CRM22_001801;Name=CRM22_001801.5;info=method:InterPro accession:IPR000008 description:C2 domain %0Amethod:InterPro accession:IPR035892 description:C2 domain superfamily
+#microexons transcript:CRM22_001801.5:  147 48 112 294 329 118 26 120 108 320 57 858
 scaff_1394	WormBase_imported	mRNA	15509	83575	.	+	.	ID=transcript:CRM22_001801.6;Parent=gene:CRM22_001801;Name=CRM22_001801.6;info=method:InterPro accession:IPR035892 description:C2 domain superfamily
+#microexons transcript:CRM22_001801.6:  273 48 112 294 329 118 26 120 108 57 858
 scaff_1394	WormBase_imported	exon	7631	8067	.	+	.	ID=exon:CRM22_001801.1.1;Parent=transcript:CRM22_001801.1
 scaff_1394	WormBase_imported	exon	15332	15404	.	+	.	ID=exon:CRM22_001801.1.2;Parent=transcript:CRM22_001801.1
 scaff_1394	WormBase_imported	exon	16956	17003	.	+	.	ID=exon:CRM22_001801.1.3;Parent=transcript:CRM22_001801.1
@@ -6493,9 +6612,13 @@ scaff_1394	WormBase_imported	CDS	82718	83100	.	+	2	ID=cds:CRM22_001801.6;Parent=
 scaff_1394	WormBase_imported	three_prime_UTR	83101	83575	.	+	.	Parent=transcript:CRM22_001801.6
 scaff_1304	WormBase_imported	gene	3706	54874	.	-	.	ID=gene:CRM22_001284;Name=CRM22_001284;biotype=protein_coding
 scaff_1304	WormBase_imported	mRNA	3706	43375	.	-	.	ID=transcript:CRM22_001284.1;Parent=gene:CRM22_001284;Name=CRM22_001284.1
+#microexons transcript:CRM22_001284.1:  55 21-21-12-21-27-24-21 33 36 12-24-21-18-21-24-21-21-21-21-21-12-21-27-24-21 33 268
 scaff_1304	WormBase_imported	mRNA	3706	54874	.	-	.	ID=transcript:CRM22_001284.2;Parent=gene:CRM22_001284;Name=CRM22_001284.2
+#microexons transcript:CRM22_001284.2:  91 36 12-24-21-18-21-24-21-21-21-21-12-21-27-24-21 33 36 12-24-21-18-21-24-21-21-21-21-21-12-21-27-24-21 33 268
 scaff_1304	WormBase_imported	mRNA	3706	54874	.	-	.	ID=transcript:CRM22_001284.3;Parent=gene:CRM22_001284;Name=CRM22_001284.3
+#microexons transcript:CRM22_001284.3:  91 36 12-24-21-18-21-24-21-21-21-21-21-12-21-27-24-21 33 36 12-24-21-18-21-24-21-21-21-21-21-12-21-27-24-21 33 268
 scaff_1304	WormBase_imported	mRNA	3706	54874	.	-	.	ID=transcript:CRM22_001284.4;Parent=gene:CRM22_001284;Name=CRM22_001284.4
+#microexons transcript:CRM22_001284.4:  91 36 12-24-18-21-24-21-21-21-21-21-12-21-27-24-21 33 36 12-24-21-18-21-24-21-21-21-21-21-12-21-27-24-21 33 268
 scaff_1304	WormBase_imported	exon	43321	43375	.	-	.	ID=exon:CRM22_001284.1.1;Parent=transcript:CRM22_001284.1
 scaff_1304	WormBase_imported	exon	43159	43179	.	-	.	ID=exon:CRM22_001284.1.2;Parent=transcript:CRM22_001284.1
 scaff_1304	WormBase_imported	exon	43012	43032	.	-	.	ID=exon:CRM22_001284.1.3;Parent=transcript:CRM22_001284.1
@@ -6862,7 +6985,9 @@ scaff_1304	dust	low_complexity_region	136577	142227	.	-	.
 scaff_1304	dust	low_complexity_region	143611	143617	.	-	.	
 scaff_31	WormBase_imported	gene	80549	111051	.	-	.	ID=gene:CRM22_007470;Name=CRM22_007470;biotype=protein_coding
 scaff_31	WormBase_imported	mRNA	80549	110016	.	-	.	ID=transcript:CRM22_007470.1;Parent=gene:CRM22_007470;Name=CRM22_007470.1
+#microexons transcript:CRM22_007470.1:  174 21-21-21-21-21-27 4 18-21 55 81
 scaff_31	WormBase_imported	mRNA	80549	111051	.	-	.	ID=transcript:CRM22_007470.2;Parent=gene:CRM22_007470;Name=CRM22_007470.2
+#microexons transcript:CRM22_007470.2:  59 21-21-21-21-21-27 4 18-21 55 81
 scaff_31	WormBase_imported	exon	109843	110016	.	-	.	ID=exon:CRM22_007470.1.1;Parent=transcript:CRM22_007470.1
 scaff_31	WormBase_imported	exon	107988	108008	.	-	.	ID=exon:CRM22_007470.1.2;Parent=transcript:CRM22_007470.1
 scaff_31	WormBase_imported	exon	106675	106695	.	-	.	ID=exon:CRM22_007470.1.3;Parent=transcript:CRM22_007470.1
@@ -6917,6 +7042,7 @@ scaff_31	WormBase_imported	three_prime_UTR	81089	81099	.	-	.	Parent=transcript:C
 scaff_31	WormBase_imported	three_prime_UTR	80549	80629	.	-	.	Parent=transcript:CRM22_007470.2
 scaff_1282	WormBase_imported	gene	14780	48849	.	+	.	ID=gene:CRM22_001171;Name=CRM22_001171;biotype=protein_coding
 scaff_1282	WormBase_imported	mRNA	14780	48849	.	+	.	ID=transcript:CRM22_001171;Parent=gene:CRM22_001171;Name=CRM22_001171
+#microexons transcript:CRM22_001171:  15-21-30-21-21-30-9-15 54 15-21-30-21-21-30 36 21 28 31 66
 scaff_1282	WormBase_imported	exon	14780	14794	.	+	.	ID=exon:CRM22_001171.1;Parent=transcript:CRM22_001171
 scaff_1282	WormBase_imported	exon	15426	15446	.	+	.	ID=exon:CRM22_001171.2;Parent=transcript:CRM22_001171
 scaff_1282	WormBase_imported	exon	16698	16727	.	+	.	ID=exon:CRM22_001171.3;Parent=transcript:CRM22_001171
@@ -6961,6 +7087,7 @@ scaff_1282	WormBase_imported	three_prime_UTR	48273	48303	.	+	.	Parent=transcript
 scaff_1282	WormBase_imported	three_prime_UTR	48784	48849	.	+	.	Parent=transcript:CRM22_001171
 scaff_917	WormBase_imported	gene	1121	76017	.	+	.	ID=gene:CRM22_011241;Name=CRM22_011241;biotype=protein_coding
 scaff_917	WormBase_imported	mRNA	1121	76017	.	+	.	ID=transcript:CRM22_011241;Parent=gene:CRM22_011241;Name=CRM22_011241
+#microexons transcript:CRM22_011241:  76 39 42 42 51 51 24 54 21-24-24 51 21 60 21 95 202 24 86 184 36 83
 scaff_917	WormBase_imported	exon	1121	1196	.	+	.	ID=exon:CRM22_011241.1;Parent=transcript:CRM22_011241
 scaff_917	WormBase_imported	exon	8185	8223	.	+	.	ID=exon:CRM22_011241.2;Parent=transcript:CRM22_011241
 scaff_917	WormBase_imported	exon	12645	12686	.	+	.	ID=exon:CRM22_011241.3;Parent=transcript:CRM22_011241
@@ -7056,6 +7183,7 @@ scaff_917	trf	tandem_repeat	91398	93876	4803	-	.
 scaff_917	dust	low_complexity_region	97082	98661	.	-	.	
 scaff_181	WormBase_imported	gene	65341	86374	.	+	.	ID=gene:CRM22_005754;Name=CRM22_005754;biotype=protein_coding
 scaff_181	WormBase_imported	mRNA	65341	86374	.	+	.	ID=transcript:CRM22_005754;Parent=gene:CRM22_005754;Name=CRM22_005754
+#microexons transcript:CRM22_005754:  242 36 12-24-21-18-21-24-21-21-21-21-21-12-21-27-24-21 33
 scaff_181	WormBase_imported	exon	65341	65582	.	+	.	ID=exon:CRM22_005754.1;Parent=transcript:CRM22_005754
 scaff_181	WormBase_imported	exon	66106	66141	.	+	.	ID=exon:CRM22_005754.2;Parent=transcript:CRM22_005754
 scaff_181	WormBase_imported	exon	66889	66900	.	+	.	ID=exon:CRM22_005754.3;Parent=transcript:CRM22_005754
@@ -7137,7 +7265,9 @@ scaff_181	dust	low_complexity_region	89432	89439	.	-	.
 scaff_181	dust	low_complexity_region	89701	89707	.	-	.	
 scaff_1116	WormBase_imported	gene	26545	77946	.	+	.	ID=gene:CRM22_000501;Name=CRM22_000501;biotype=protein_coding
 scaff_1116	WormBase_imported	mRNA	26545	77946	.	+	.	ID=transcript:CRM22_000501.1;Parent=gene:CRM22_000501;Name=CRM22_000501.1
+#microexons transcript:CRM22_000501.1:  163 18-24-24-24-18-24-15-24-24-24-24-21-24 33 24-24-24-24-24-24 193
 scaff_1116	WormBase_imported	mRNA	26545	77946	.	+	.	ID=transcript:CRM22_000501.2;Parent=gene:CRM22_000501;Name=CRM22_000501.2
+#microexons transcript:CRM22_000501.2:  163 18-24-24-24-18-24-15-24-24-24-24-21-24 33 24-24-24-24-24-24-24 196
 scaff_1116	WormBase_imported	exon	26545	26707	.	+	.	ID=exon:CRM22_000501.1.1;Parent=transcript:CRM22_000501.1
 scaff_1116	WormBase_imported	exon	29906	29923	.	+	.	ID=exon:CRM22_000501.1.2;Parent=transcript:CRM22_000501.1
 scaff_1116	WormBase_imported	exon	33486	33509	.	+	.	ID=exon:CRM22_000501.1.3;Parent=transcript:CRM22_000501.1
@@ -7276,6 +7406,7 @@ scaff_1116	dust	low_complexity_region	78232	78238	.	-	.
 scaff_1116	dust	low_complexity_region	79917	82909	.	-	.	
 scaff_1079	WormBase_imported	gene	17524	34218	.	+	.	ID=gene:CRM22_000332;Name=CRM22_000332;biotype=protein_coding
 scaff_1079	WormBase_imported	mRNA	17524	34218	.	+	.	ID=transcript:CRM22_000332;Parent=gene:CRM22_000332;Name=CRM22_000332
+#microexons transcript:CRM22_000332:  9-27-15-18-21-21-24 36
 scaff_1079	WormBase_imported	exon	17524	17532	.	+	.	ID=exon:CRM22_000332.1;Parent=transcript:CRM22_000332
 scaff_1079	WormBase_imported	exon	18921	18947	.	+	.	ID=exon:CRM22_000332.2;Parent=transcript:CRM22_000332
 scaff_1079	WormBase_imported	exon	22762	22776	.	+	.	ID=exon:CRM22_000332.3;Parent=transcript:CRM22_000332
@@ -7294,8 +7425,11 @@ scaff_1079	WormBase_imported	CDS	30140	30163	.	+	2	ID=cds:CRM22_000332;Parent=tr
 scaff_1079	WormBase_imported	CDS	34183	34218	.	+	2	ID=cds:CRM22_000332;Parent=transcript:CRM22_000332
 scaff_842	WormBase_imported	gene	2743	9802	.	-	.	ID=gene:CRM22_011078;Name=CRM22_011078;biotype=protein_coding
 scaff_842	WormBase_imported	mRNA	2743	9802	.	-	.	ID=transcript:CRM22_011078.1;Parent=gene:CRM22_011078;Name=CRM22_011078.1
+#microexons transcript:CRM22_011078.1:  18-24 39 33 39 54 24
 scaff_842	WormBase_imported	mRNA	2744	9802	.	-	.	ID=transcript:CRM22_011078.2;Parent=gene:CRM22_011078;Name=CRM22_011078.2
+#microexons transcript:CRM22_011078.2:  18-24 39 33 39 54 81
 scaff_842	WormBase_imported	mRNA	3565	9802	.	-	.	ID=transcript:CRM22_011078.3;Parent=gene:CRM22_011078;Name=CRM22_011078.3
+#microexons transcript:CRM22_011078.3:  18-24 39 33 39 121
 scaff_842	WormBase_imported	exon	9785	9802	.	-	.	ID=exon:CRM22_011078.1.1;Parent=transcript:CRM22_011078.1
 scaff_842	WormBase_imported	exon	8104	8127	.	-	.	ID=exon:CRM22_011078.1.2;Parent=transcript:CRM22_011078.1
 scaff_842	WormBase_imported	exon	7860	7898	.	-	.	ID=exon:CRM22_011078.1.3;Parent=transcript:CRM22_011078.1
@@ -7373,6 +7507,7 @@ scaff_842	dust	low_complexity_region	37440	41580	.	-	.
 scaff_842	dust	low_complexity_region	44522	46739	.	-	.	
 scaff_893	WormBase_imported	gene	13992	21703	.	+	.	ID=gene:CRM22_011175;Name=CRM22_011175;biotype=protein_coding
 scaff_893	WormBase_imported	mRNA	13992	21703	.	+	.	ID=transcript:CRM22_011175;Parent=gene:CRM22_011175;Name=CRM22_011175
+#microexons transcript:CRM22_011175:  85 27-15-27 75
 scaff_893	WormBase_imported	exon	13992	14076	.	+	.	ID=exon:CRM22_011175.1;Parent=transcript:CRM22_011175
 scaff_893	WormBase_imported	exon	16969	16995	.	+	.	ID=exon:CRM22_011175.2;Parent=transcript:CRM22_011175
 scaff_893	WormBase_imported	exon	19871	19885	.	+	.	ID=exon:CRM22_011175.3;Parent=transcript:CRM22_011175

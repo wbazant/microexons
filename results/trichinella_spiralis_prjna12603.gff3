@@ -1,5 +1,6 @@
 GL622789	WormBase_imported	gene	4112886	4114786	.	-	.	ID=gene:Tsp_08712;Name=Tsp_08712;biotype=protein_coding
 GL622789	WormBase_imported	mRNA	4112886	4114786	.	-	.	ID=transcript:EFV53805;Parent=gene:Tsp_08712;Name=EFV53805;info=method:InterPro accession:IPR007873 description:Glycosyltransferase%2C ALG3
+#microexons transcript:EFV53805:  187 100 148 92 121 120 21-30-24
 GL622789	WormBase_imported	exon	4114600	4114786	.	-	.	ID=exon:EFV53805.1;Parent=transcript:EFV53805
 GL622789	WormBase_imported	exon	4114447	4114546	.	-	.	ID=exon:EFV53805.2;Parent=transcript:EFV53805
 GL622789	WormBase_imported	exon	4114238	4114385	.	-	.	ID=exon:EFV53805.3;Parent=transcript:EFV53805

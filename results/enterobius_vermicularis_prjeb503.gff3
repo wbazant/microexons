@@ -1,5 +1,6 @@
 EVEC_scaffold0001065	WormBase_imported	gene	2360	10656	.	-	.	ID=gene:EVEC_0000593401;Name=EVEC_0000593401;biotype=protein_coding;description=Anion exchange protein;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0N4V6P1
 EVEC_scaffold0001065	WormBase_imported	mRNA	2360	10656	.	-	.	ID=transcript:EVEC_0000593401-mRNA-1;Parent=gene:EVEC_0000593401;Name=EVEC_0000593401-mRNA-1;info=method:InterPro accession:IPR003020 description:Bicarbonate transporter%2C eukaryotic %0Amethod:InterPro accession:IPR003024 description:Sodium bicarbonate cotransporter %0Amethod:InterPro accession:IPR011531 description:Bicarbonate transporter%2C C-terminal %0Amethod:InterPro accession:IPR013769 description:Band 3 cytoplasmic domain %0Amethod:InterPro accession:IPR016152 description:Phosphotransferase/anion transporter
+#microexons transcript:EVEC_0000593401-mRNA-1:  262 73 228 166 105 75 21-30-21 234 231 175 31 118 147 165 176 180 139 126 206 181
 EVEC_scaffold0001065	WormBase_imported	exon	10395	10656	.	-	.	ID=exon:EVEC_0000593401-mRNA-1.1;Parent=transcript:EVEC_0000593401-mRNA-1
 EVEC_scaffold0001065	WormBase_imported	exon	10187	10259	.	-	.	ID=exon:EVEC_0000593401-mRNA-1.2;Parent=transcript:EVEC_0000593401-mRNA-1
 EVEC_scaffold0001065	WormBase_imported	exon	9939	10166	.	-	.	ID=exon:EVEC_0000593401-mRNA-1.3;Parent=transcript:EVEC_0000593401-mRNA-1

@@ -1,5 +1,6 @@
 scaffold_2	WormBase_imported	gene	700811	707856	.	+	.	ID=gene:Hetgly.G000002010;Name=Hetgly.G000002010;biotype=protein_coding
 scaffold_2	WormBase_imported	mRNA	700811	707856	.	+	.	ID=transcript:Hetgly.G000002010;Parent=gene:Hetgly.G000002010;Name=Hetgly.G000002010
+#microexons transcript:Hetgly.G000002010:  75 87 162 33 61 242 69 36 48 147 27 186 24-21-21 90 18
 scaffold_2	WormBase_imported	exon	700811	700885	.	+	.	ID=exon:Hetgly.G000002010.1;Parent=transcript:Hetgly.G000002010
 scaffold_2	WormBase_imported	exon	701005	701091	.	+	.	ID=exon:Hetgly.G000002010.2;Parent=transcript:Hetgly.G000002010
 scaffold_2	WormBase_imported	exon	701446	701607	.	+	.	ID=exon:Hetgly.G000002010.3;Parent=transcript:Hetgly.G000002010
@@ -36,6 +37,7 @@ scaffold_2	WormBase_imported	CDS	707607	707696	.	+	0	ID=cds:Hetgly.G000002010;Pa
 scaffold_2	WormBase_imported	CDS	707839	707856	.	+	0	ID=cds:Hetgly.G000002010;Parent=transcript:Hetgly.G000002010
 scaffold_49	WormBase_imported	gene	9369	11032	.	-	.	ID=gene:Hetgly.G000010988;Name=Hetgly.G000010988;biotype=protein_coding
 scaffold_49	WormBase_imported	mRNA	9369	11032	.	-	.	ID=transcript:Hetgly.G000010988;Parent=gene:Hetgly.G000010988;Name=Hetgly.G000010988
+#microexons transcript:Hetgly.G000010988:  68 27-27-27-27-27-27-27 31
 scaffold_49	WormBase_imported	exon	10965	11032	.	-	.	ID=exon:Hetgly.G000010988.1;Parent=transcript:Hetgly.G000010988
 scaffold_49	WormBase_imported	exon	9982	10008	.	-	.	ID=exon:Hetgly.G000010988.2;Parent=transcript:Hetgly.G000010988
 scaffold_49	WormBase_imported	exon	9884	9910	.	-	.	ID=exon:Hetgly.G000010988.3;Parent=transcript:Hetgly.G000010988
@@ -56,6 +58,7 @@ scaffold_49	WormBase_imported	CDS	9461	9487	.	-	1	ID=cds:Hetgly.G000010988;Paren
 scaffold_49	WormBase_imported	CDS	9369	9399	.	-	1	ID=cds:Hetgly.G000010988;Parent=transcript:Hetgly.G000010988
 scaffold_54	WormBase_imported	gene	230794	231942	.	+	.	ID=gene:Hetgly.G000015620;Name=Hetgly.G000015620;biotype=protein_coding
 scaffold_54	WormBase_imported	mRNA	230794	231942	.	+	.	ID=transcript:Hetgly.G000015620;Parent=gene:Hetgly.G000015620;Name=Hetgly.G000015620
+#microexons transcript:Hetgly.G000015620:  37 27-27-27-27 61 27-27 37
 scaffold_54	WormBase_imported	exon	230794	230830	.	+	.	ID=exon:Hetgly.G000015620.1;Parent=transcript:Hetgly.G000015620
 scaffold_54	WormBase_imported	exon	231212	231238	.	+	.	ID=exon:Hetgly.G000015620.2;Parent=transcript:Hetgly.G000015620
 scaffold_54	WormBase_imported	exon	231315	231341	.	+	.	ID=exon:Hetgly.G000015620.3;Parent=transcript:Hetgly.G000015620
@@ -76,8 +79,11 @@ scaffold_54	WormBase_imported	CDS	231835	231861	.	+	1	ID=cds:Hetgly.G000015620;P
 scaffold_54	WormBase_imported	CDS	231906	231942	.	+	1	ID=cds:Hetgly.G000015620;Parent=transcript:Hetgly.G000015620
 scaffold_75	WormBase_imported	gene	361921	370957	.	+	.	ID=gene:Hetgly.G000015406;Name=Hetgly.G000015406;biotype=protein_coding
 scaffold_75	WormBase_imported	mRNA	361921	364370	.	+	.	ID=transcript:Hetgly.G000015406.1;Parent=gene:Hetgly.G000015406;Name=Hetgly.G000015406.1;info=method:InterPro accession:IPR005312 description:Protein of unknown function DUF1759
+#microexons transcript:Hetgly.G000015406.1:  155 93 27 400 477 114
 scaffold_75	WormBase_imported	mRNA	361921	366528	.	+	.	ID=transcript:Hetgly.G000015406.2;Parent=gene:Hetgly.G000015406;Name=Hetgly.G000015406.2;info=method:InterPro accession:IPR005312 description:Protein of unknown function DUF1759 %0Amethod:InterPro accession:IPR008737 description:Peptidase aspartic%2C putative
+#microexons transcript:Hetgly.G000015406.2:  155 93 27 400 2402 27 31
 scaffold_75	WormBase_imported	mRNA	361921	370957	.	+	.	ID=transcript:Hetgly.G000015406.3;Parent=gene:Hetgly.G000015406;Name=Hetgly.G000015406.3;info=method:InterPro accession:IPR005312 description:Protein of unknown function DUF1759 %0Amethod:InterPro accession:IPR008737 description:Peptidase aspartic%2C putative
+#microexons transcript:Hetgly.G000015406.3:  155 93 27 400 2644 27-27-27 61 145 435 108
 scaffold_75	WormBase_imported	exon	361921	362075	.	+	.	ID=exon:Hetgly.G000015406.1.1;Parent=transcript:Hetgly.G000015406.1
 scaffold_75	WormBase_imported	exon	362142	362234	.	+	.	ID=exon:Hetgly.G000015406.1.2;Parent=transcript:Hetgly.G000015406.1
 scaffold_75	WormBase_imported	exon	362354	362380	.	+	.	ID=exon:Hetgly.G000015406.1.3;Parent=transcript:Hetgly.G000015406.1
@@ -130,6 +136,7 @@ scaffold_75	WormBase_imported	CDS	368859	369293	.	+	0	ID=cds:Hetgly.G000015406.3
 scaffold_75	WormBase_imported	CDS	370850	370957	.	+	0	ID=cds:Hetgly.G000015406.3;Parent=transcript:Hetgly.G000015406.3
 scaffold_107	WormBase_imported	gene	279898	288838	.	+	.	ID=gene:Hetgly.G000014612;Name=Hetgly.G000014612;biotype=protein_coding
 scaffold_107	WormBase_imported	mRNA	279898	288838	.	+	.	ID=transcript:Hetgly.G000014612;Parent=gene:Hetgly.G000014612;Name=Hetgly.G000014612;info=method:InterPro accession:IPR016135 description:Ubiquitin-conjugating enzyme/RWD-like
+#microexons transcript:Hetgly.G000014612:  34 17 48 119 216 27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27 31
 scaffold_107	WormBase_imported	exon	279898	279931	.	+	.	ID=exon:Hetgly.G000014612.1;Parent=transcript:Hetgly.G000014612
 scaffold_107	WormBase_imported	exon	279988	280004	.	+	.	ID=exon:Hetgly.G000014612.2;Parent=transcript:Hetgly.G000014612
 scaffold_107	WormBase_imported	exon	280101	280148	.	+	.	ID=exon:Hetgly.G000014612.3;Parent=transcript:Hetgly.G000014612
@@ -216,6 +223,7 @@ scaffold_107	WormBase_imported	CDS	288707	288733	.	+	1	ID=cds:Hetgly.G000014612;
 scaffold_107	WormBase_imported	CDS	288808	288838	.	+	1	ID=cds:Hetgly.G000014612;Parent=transcript:Hetgly.G000014612
 scaffold_125	WormBase_imported	gene	120361	122953	.	+	.	ID=gene:Hetgly.G000019494;Name=Hetgly.G000019494;biotype=protein_coding
 scaffold_125	WormBase_imported	mRNA	120361	122953	.	+	.	ID=transcript:Hetgly.G000019494;Parent=gene:Hetgly.G000019494;Name=Hetgly.G000019494
+#microexons transcript:Hetgly.G000019494:  430 345 99 21-21-27 45 48 39 42 39 27-27 36 45 35
 scaffold_125	WormBase_imported	exon	120361	120790	.	+	.	ID=exon:Hetgly.G000019494.1;Parent=transcript:Hetgly.G000019494
 scaffold_125	WormBase_imported	exon	120981	121325	.	+	.	ID=exon:Hetgly.G000019494.2;Parent=transcript:Hetgly.G000019494
 scaffold_125	WormBase_imported	exon	121419	121517	.	+	.	ID=exon:Hetgly.G000019494.3;Parent=transcript:Hetgly.G000019494
@@ -250,6 +258,7 @@ scaffold_125	WormBase_imported	CDS	122824	122868	.	+	2	ID=cds:Hetgly.G000019494;
 scaffold_125	WormBase_imported	CDS	122919	122953	.	+	2	ID=cds:Hetgly.G000019494;Parent=transcript:Hetgly.G000019494
 scaffold_151	WormBase_imported	gene	73341	74118	.	-	.	ID=gene:Hetgly.G000019067;Name=Hetgly.G000019067;biotype=protein_coding
 scaffold_151	WormBase_imported	mRNA	73341	74118	.	-	.	ID=transcript:Hetgly.G000019067;Parent=gene:Hetgly.G000019067;Name=Hetgly.G000019067
+#microexons transcript:Hetgly.G000019067:  30-27-27 98 27-27-27-27 31
 scaffold_151	WormBase_imported	exon	74089	74118	.	-	.	ID=exon:Hetgly.G000019067.1;Parent=transcript:Hetgly.G000019067
 scaffold_151	WormBase_imported	exon	74013	74039	.	-	.	ID=exon:Hetgly.G000019067.2;Parent=transcript:Hetgly.G000019067
 scaffold_151	WormBase_imported	exon	73940	73966	.	-	.	ID=exon:Hetgly.G000019067.3;Parent=transcript:Hetgly.G000019067
@@ -270,6 +279,7 @@ scaffold_151	WormBase_imported	CDS	73427	73453	.	-	1	ID=cds:Hetgly.G000019067;Pa
 scaffold_151	WormBase_imported	CDS	73341	73371	.	-	1	ID=cds:Hetgly.G000019067;Parent=transcript:Hetgly.G000019067
 scaffold_200	WormBase_imported	gene	5420	6677	.	+	.	ID=gene:Hetgly.G000021090;Name=Hetgly.G000021090;biotype=protein_coding
 scaffold_200	WormBase_imported	mRNA	5420	6677	.	+	.	ID=transcript:Hetgly.G000021090;Parent=gene:Hetgly.G000021090;Name=Hetgly.G000021090
+#microexons transcript:Hetgly.G000021090:  80 33 27-15-27 20 28 208
 scaffold_200	WormBase_imported	exon	5420	5499	.	+	.	ID=exon:Hetgly.G000021090.1;Parent=transcript:Hetgly.G000021090
 scaffold_200	WormBase_imported	exon	5718	5750	.	+	.	ID=exon:Hetgly.G000021090.2;Parent=transcript:Hetgly.G000021090
 scaffold_200	WormBase_imported	exon	5961	5987	.	+	.	ID=exon:Hetgly.G000021090.3;Parent=transcript:Hetgly.G000021090
@@ -288,6 +298,7 @@ scaffold_200	WormBase_imported	CDS	6284	6311	.	+	2	ID=cds:Hetgly.G000021090;Pare
 scaffold_200	WormBase_imported	CDS	6470	6677	.	+	1	ID=cds:Hetgly.G000021090;Parent=transcript:Hetgly.G000021090
 scaffold_210	WormBase_imported	gene	158344	164818	.	+	.	ID=gene:Hetgly.G000014844;Name=Hetgly.G000014844;biotype=protein_coding
 scaffold_210	WormBase_imported	mRNA	158344	164818	.	+	.	ID=transcript:Hetgly.G000014844;Parent=gene:Hetgly.G000014844;Name=Hetgly.G000014844
+#microexons transcript:Hetgly.G000014844:  81 111 83 54 120 166 88 58 16 94 156 30-18-27 105 115 130
 scaffold_210	WormBase_imported	exon	158344	158424	.	+	.	ID=exon:Hetgly.G000014844.1;Parent=transcript:Hetgly.G000014844
 scaffold_210	WormBase_imported	exon	158476	158586	.	+	.	ID=exon:Hetgly.G000014844.2;Parent=transcript:Hetgly.G000014844
 scaffold_210	WormBase_imported	exon	158656	158738	.	+	.	ID=exon:Hetgly.G000014844.3;Parent=transcript:Hetgly.G000014844
@@ -324,6 +335,7 @@ scaffold_210	WormBase_imported	CDS	164534	164648	.	+	2	ID=cds:Hetgly.G000014844;
 scaffold_210	WormBase_imported	CDS	164689	164818	.	+	1	ID=cds:Hetgly.G000014844;Parent=transcript:Hetgly.G000014844
 scaffold_238	WormBase_imported	gene	15327	27368	.	+	.	ID=gene:Hetgly.G000019349;Name=Hetgly.G000019349;biotype=protein_coding
 scaffold_238	WormBase_imported	mRNA	15327	27368	.	+	.	ID=transcript:Hetgly.G000019349;Parent=gene:Hetgly.G000019349;Name=Hetgly.G000019349;info=method:InterPro accession:IPR000048 description:IQ motif%2C EF-hand binding site %0Amethod:InterPro accession:IPR000198 description:Rho GTPase-activating protein domain %0Amethod:InterPro accession:IPR001609 description:Myosin head%2C motor domain %0Amethod:InterPro accession:IPR002219 description:Protein kinase C-like%2C phorbol ester/diacylglycerol-binding domain %0Amethod:InterPro accession:IPR008936 description:Rho GTPase activation protein %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR036961 description:Kinesin motor domain superfamily
+#microexons transcript:Hetgly.G000019349:  276 102 142 72 130 72 53 167 148 151 67 105 210 45 231 170 82 266 142 78 167 143 124 100 44 142 97 101 36 69 21-12-27 190 129 102 65 72 90 27 418 167
 scaffold_238	WormBase_imported	exon	15327	15602	.	+	.	ID=exon:Hetgly.G000019349.1;Parent=transcript:Hetgly.G000019349
 scaffold_238	WormBase_imported	exon	15786	15887	.	+	.	ID=exon:Hetgly.G000019349.2;Parent=transcript:Hetgly.G000019349
 scaffold_238	WormBase_imported	exon	15955	16096	.	+	.	ID=exon:Hetgly.G000019349.3;Parent=transcript:Hetgly.G000019349
@@ -410,6 +422,7 @@ scaffold_238	WormBase_imported	CDS	26635	27052	.	+	0	ID=cds:Hetgly.G000019349;Pa
 scaffold_238	WormBase_imported	CDS	27202	27368	.	+	2	ID=cds:Hetgly.G000019349;Parent=transcript:Hetgly.G000019349
 scaffold_240	WormBase_imported	gene	16917	23399	.	+	.	ID=gene:Hetgly.G000018833;Name=Hetgly.G000018833;biotype=protein_coding
 scaffold_240	WormBase_imported	mRNA	16917	23399	.	+	.	ID=transcript:Hetgly.G000018833;Parent=gene:Hetgly.G000018833;Name=Hetgly.G000018833
+#microexons transcript:Hetgly.G000018833:  81 111 83 54 120 166 88 141 153 156 30-18-27 105 115 130
 scaffold_240	WormBase_imported	exon	16917	16997	.	+	.	ID=exon:Hetgly.G000018833.1;Parent=transcript:Hetgly.G000018833
 scaffold_240	WormBase_imported	exon	17049	17159	.	+	.	ID=exon:Hetgly.G000018833.2;Parent=transcript:Hetgly.G000018833
 scaffold_240	WormBase_imported	exon	17229	17311	.	+	.	ID=exon:Hetgly.G000018833.3;Parent=transcript:Hetgly.G000018833
@@ -444,6 +457,7 @@ scaffold_240	WormBase_imported	CDS	23115	23229	.	+	2	ID=cds:Hetgly.G000018833;Pa
 scaffold_240	WormBase_imported	CDS	23270	23399	.	+	1	ID=cds:Hetgly.G000018833;Parent=transcript:Hetgly.G000018833
 scaffold_292	WormBase_imported	gene	8294	9554	.	-	.	ID=gene:Hetgly.G000024248;Name=Hetgly.G000024248;biotype=protein_coding
 scaffold_292	WormBase_imported	mRNA	8294	9554	.	-	.	ID=transcript:Hetgly.G000024248;Parent=gene:Hetgly.G000024248;Name=Hetgly.G000024248
+#microexons transcript:Hetgly.G000024248:  80 33 27-15-27 20 28 208
 scaffold_292	WormBase_imported	exon	9475	9554	.	-	.	ID=exon:Hetgly.G000024248.1;Parent=transcript:Hetgly.G000024248
 scaffold_292	WormBase_imported	exon	9223	9255	.	-	.	ID=exon:Hetgly.G000024248.2;Parent=transcript:Hetgly.G000024248
 scaffold_292	WormBase_imported	exon	8983	9009	.	-	.	ID=exon:Hetgly.G000024248.3;Parent=transcript:Hetgly.G000024248
@@ -462,8 +476,11 @@ scaffold_292	WormBase_imported	CDS	8659	8686	.	-	2	ID=cds:Hetgly.G000024248;Pare
 scaffold_292	WormBase_imported	CDS	8294	8501	.	-	1	ID=cds:Hetgly.G000024248;Parent=transcript:Hetgly.G000024248
 scaffold_292	WormBase_imported	gene	11920	14446	.	-	.	ID=gene:Hetgly.G000024249;Name=Hetgly.G000024249;biotype=protein_coding
 scaffold_292	WormBase_imported	mRNA	11920	14446	.	-	.	ID=transcript:Hetgly.G000024249.1;Parent=gene:Hetgly.G000024249;Name=Hetgly.G000024249.1
+#microexons transcript:Hetgly.G000024249.1:  93 145 51 30-30-24 299
 scaffold_292	WormBase_imported	mRNA	11920	14446	.	-	.	ID=transcript:Hetgly.G000024249.2;Parent=gene:Hetgly.G000024249;Name=Hetgly.G000024249.2
+#microexons transcript:Hetgly.G000024249.2:  105 145 51 30-30-24 299
 scaffold_292	WormBase_imported	mRNA	11920	14446	.	-	.	ID=transcript:Hetgly.G000024249.3;Parent=gene:Hetgly.G000024249;Name=Hetgly.G000024249.3
+#microexons transcript:Hetgly.G000024249.3:  105 145 51 48 33 24 299
 scaffold_292	WormBase_imported	exon	14354	14446	.	-	.	ID=exon:Hetgly.G000024249.1.1;Parent=transcript:Hetgly.G000024249.1
 scaffold_292	WormBase_imported	exon	13846	13990	.	-	.	ID=exon:Hetgly.G000024249.1.2;Parent=transcript:Hetgly.G000024249.1
 scaffold_292	WormBase_imported	exon	13526	13576	.	-	.	ID=exon:Hetgly.G000024249.1.3;Parent=transcript:Hetgly.G000024249.1
@@ -508,7 +525,9 @@ scaffold_292	WormBase_imported	CDS	12670	12693	.	-	2	ID=cds:Hetgly.G000024249.3;
 scaffold_292	WormBase_imported	CDS	11920	12218	.	-	2	ID=cds:Hetgly.G000024249.3;Parent=transcript:Hetgly.G000024249.3
 scaffold_307	WormBase_imported	gene	21623	26710	.	+	.	ID=gene:Hetgly.G000019793;Name=Hetgly.G000019793;biotype=protein_coding
 scaffold_307	WormBase_imported	mRNA	21623	26660	.	+	.	ID=transcript:Hetgly.G000019793.1;Parent=gene:Hetgly.G000019793;Name=Hetgly.G000019793.1;info=method:InterPro accession:IPR033060 description:Integrator complex subunit 7
+#microexons transcript:Hetgly.G000019793.1:  9-27 128 226 61 116 234 74 67 32 49 249 27
 scaffold_307	WormBase_imported	mRNA	21623	26710	.	+	.	ID=transcript:Hetgly.G000019793.2;Parent=gene:Hetgly.G000019793;Name=Hetgly.G000019793.2;info=method:InterPro accession:IPR033060 description:Integrator complex subunit 7
+#microexons transcript:Hetgly.G000019793.2:  9-27 128 226 61 116 234 74 67 32 49 289 77
 scaffold_307	WormBase_imported	exon	21623	21631	.	+	.	ID=exon:Hetgly.G000019793.1.1;Parent=transcript:Hetgly.G000019793.1
 scaffold_307	WormBase_imported	exon	21682	21708	.	+	.	ID=exon:Hetgly.G000019793.1.2;Parent=transcript:Hetgly.G000019793.1
 scaffold_307	WormBase_imported	exon	21839	21966	.	+	.	ID=exon:Hetgly.G000019793.1.3;Parent=transcript:Hetgly.G000019793.1
@@ -563,6 +582,7 @@ scaffold_307	WormBase_imported	CDS	26287	26575	.	+	0	ID=cds:Hetgly.G000019793.2;
 scaffold_307	WormBase_imported	CDS	26634	26710	.	+	2	ID=cds:Hetgly.G000019793.2;Parent=transcript:Hetgly.G000019793.2
 scaffold_682	WormBase_imported	gene	8608	11211	.	+	.	ID=gene:Hetgly.G000028940;Name=Hetgly.G000028940;biotype=protein_coding
 scaffold_682	WormBase_imported	mRNA	8608	11211	.	+	.	ID=transcript:Hetgly.G000028940;Parent=gene:Hetgly.G000028940;Name=Hetgly.G000028940
+#microexons transcript:Hetgly.G000028940:  26 206 27-27-27-27 50 204
 scaffold_682	WormBase_imported	exon	8608	8633	.	+	.	ID=exon:Hetgly.G000028940.1;Parent=transcript:Hetgly.G000028940
 scaffold_682	WormBase_imported	exon	8900	9105	.	+	.	ID=exon:Hetgly.G000028940.2;Parent=transcript:Hetgly.G000028940
 scaffold_682	WormBase_imported	exon	10058	10084	.	+	.	ID=exon:Hetgly.G000028940.3;Parent=transcript:Hetgly.G000028940

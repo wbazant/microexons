@@ -1,5 +1,6 @@
 scaffold79	WormBase_imported	gene	150603	171505	.	+	.	ID=gene:M514_22552;Name=M514_22552;biotype=protein_coding
 scaffold79	WormBase_imported	mRNA	150603	171505	.	+	.	ID=transcript:M514_22552;Parent=gene:M514_22552;Name=M514_22552
+#microexons transcript:M514_22552:  140 30 36 30-30-21 168 36 39 30-21-18 168 36 30-30-21-21 168 30-30 33 30-21-24 166
 scaffold79	WormBase_imported	exon	150603	150742	.	+	.	ID=exon:M514_22552.1;Parent=transcript:M514_22552
 scaffold79	WormBase_imported	exon	154830	154859	.	+	.	ID=exon:M514_22552.2;Parent=transcript:M514_22552
 scaffold79	WormBase_imported	exon	155213	155248	.	+	.	ID=exon:M514_22552.3;Parent=transcript:M514_22552

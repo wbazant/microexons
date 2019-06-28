@@ -1,5 +1,6 @@
 scaffold1s	WormBase_imported	gene	439843	445184	.	-	.	ID=gene:T09_9467;Name=T09_9467;biotype=protein_coding
 scaffold1s	WormBase_imported	mRNA	439843	445184	.	-	.	ID=transcript:T09_9467.1;Parent=gene:T09_9467;Name=T09_9467.1
+#microexons transcript:T09_9467.1:  48 51 65 40 24-24-27 11 40 15 130 52 76
 scaffold1s	WormBase_imported	exon	445137	445184	.	-	.	ID=exon:T09_9467.1.1;Parent=transcript:T09_9467.1
 scaffold1s	WormBase_imported	exon	444879	444929	.	-	.	ID=exon:T09_9467.1.2;Parent=transcript:T09_9467.1
 scaffold1s	WormBase_imported	exon	444326	444390	.	-	.	ID=exon:T09_9467.1.3;Parent=transcript:T09_9467.1
@@ -28,6 +29,7 @@ scaffold1s	WormBase_imported	CDS	440088	440139	.	-	2	ID=cds:T09_9467.1;Parent=tr
 scaffold1s	WormBase_imported	CDS	439843	439918	.	-	1	ID=cds:T09_9467.1;Parent=transcript:T09_9467.1
 scaffold4s	WormBase_imported	gene	309331	312320	.	-	.	ID=gene:T09_4513;Name=T09_4513;biotype=protein_coding
 scaffold4s	WormBase_imported	mRNA	309331	312320	.	-	.	ID=transcript:T09_4513.1;Parent=gene:T09_4513;Name=T09_4513.1
+#microexons transcript:T09_4513.1:  12-27-24 54 63 133 17
 scaffold4s	WormBase_imported	exon	312309	312320	.	-	.	ID=exon:T09_4513.1.1;Parent=transcript:T09_4513.1
 scaffold4s	WormBase_imported	exon	311756	311782	.	-	.	ID=exon:T09_4513.1.2;Parent=transcript:T09_4513.1
 scaffold4s	WormBase_imported	exon	311104	311127	.	-	.	ID=exon:T09_4513.1.3;Parent=transcript:T09_4513.1
@@ -44,6 +46,7 @@ scaffold4s	WormBase_imported	CDS	309690	309822	.	-	0	ID=cds:T09_4513.1;Parent=tr
 scaffold4s	WormBase_imported	CDS	309331	309347	.	-	2	ID=cds:T09_4513.1;Parent=transcript:T09_4513.1
 scaffold8s	WormBase_imported	gene	537493	540599	.	+	.	ID=gene:T09_2643;Name=T09_2643;biotype=protein_coding;description=Coatomer subunit epsilon;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0V0VTP2
 scaffold8s	WormBase_imported	mRNA	537493	540599	.	+	.	ID=transcript:T09_2643.1;Parent=gene:T09_2643;Name=T09_2643.1;info=method:InterPro accession:IPR006822 description:Coatomer%2C epsilon subunit %0Amethod:InterPro accession:IPR011990 description:Tetratricopeptide-like helical domain superfamily
+#microexons transcript:T09_2643.1:  432 18-9-6 107 82 225 124 668 712
 scaffold8s	WormBase_imported	exon	537493	537924	.	+	.	ID=exon:T09_2643.1.1;Parent=transcript:T09_2643.1
 scaffold8s	WormBase_imported	exon	538002	538019	.	+	.	ID=exon:T09_2643.1.2;Parent=transcript:T09_2643.1
 scaffold8s	WormBase_imported	exon	538085	538093	.	+	.	ID=exon:T09_2643.1.3;Parent=transcript:T09_2643.1
@@ -67,6 +70,7 @@ scaffold8s	WormBase_imported	three_prime_UTR	539104	539771	.	+	.	Parent=transcri
 scaffold8s	WormBase_imported	three_prime_UTR	539888	540599	.	+	.	Parent=transcript:T09_2643.1
 scaffold18s	WormBase_imported	gene	102025	103118	.	-	.	ID=gene:T09_15652;Name=T09_15652;biotype=protein_coding
 scaffold18s	WormBase_imported	mRNA	102025	103118	.	-	.	ID=transcript:T09_15652.1;Parent=gene:T09_15652;Name=T09_15652.1
+#microexons transcript:T09_15652.1:  9-30-12 11 67 57
 scaffold18s	WormBase_imported	exon	103110	103118	.	-	.	ID=exon:T09_15652.1.1;Parent=transcript:T09_15652.1
 scaffold18s	WormBase_imported	exon	102952	102981	.	-	.	ID=exon:T09_15652.1.2;Parent=transcript:T09_15652.1
 scaffold18s	WormBase_imported	exon	102727	102738	.	-	.	ID=exon:T09_15652.1.3;Parent=transcript:T09_15652.1
@@ -81,6 +85,7 @@ scaffold18s	WormBase_imported	CDS	102141	102207	.	-	1	ID=cds:T09_15652.1;Parent=
 scaffold18s	WormBase_imported	CDS	102025	102081	.	-	0	ID=cds:T09_15652.1;Parent=transcript:T09_15652.1
 scaffold29s	WormBase_imported	gene	11537	12347	.	+	.	ID=gene:T09_1491;Name=T09_1491;biotype=protein_coding
 scaffold29s	WormBase_imported	mRNA	11537	12347	.	+	.	ID=transcript:T09_1491.1;Parent=gene:T09_1491;Name=T09_1491.1
+#microexons transcript:T09_1491.1:  99 63 18-18-27
 scaffold29s	WormBase_imported	exon	11537	11635	.	+	.	ID=exon:T09_1491.1.1;Parent=transcript:T09_1491.1
 scaffold29s	WormBase_imported	exon	11814	11876	.	+	.	ID=exon:T09_1491.1.2;Parent=transcript:T09_1491.1
 scaffold29s	WormBase_imported	exon	12049	12066	.	+	.	ID=exon:T09_1491.1.3;Parent=transcript:T09_1491.1
@@ -93,6 +98,7 @@ scaffold29s	WormBase_imported	CDS	12229	12246	.	+	0	ID=cds:T09_1491.1;Parent=tra
 scaffold29s	WormBase_imported	CDS	12321	12347	.	+	0	ID=cds:T09_1491.1;Parent=transcript:T09_1491.1
 scaffold108s	WormBase_imported	gene	62988	65517	.	+	.	ID=gene:T09_3593;Name=T09_3593;biotype=protein_coding
 scaffold108s	WormBase_imported	mRNA	62988	65517	.	+	.	ID=transcript:T09_3593.1;Parent=gene:T09_3593;Name=T09_3593.1
+#microexons transcript:T09_3593.1:  100 28 25 89 18-18-9
 scaffold108s	WormBase_imported	exon	62988	63087	.	+	.	ID=exon:T09_3593.1.1;Parent=transcript:T09_3593.1
 scaffold108s	WormBase_imported	exon	63284	63311	.	+	.	ID=exon:T09_3593.1.2;Parent=transcript:T09_3593.1
 scaffold108s	WormBase_imported	exon	63401	63425	.	+	.	ID=exon:T09_3593.1.3;Parent=transcript:T09_3593.1

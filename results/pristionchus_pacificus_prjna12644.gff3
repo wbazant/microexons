@@ -1,5 +1,6 @@
 PPA_ChrI	WormBase_imported	gene	18543112	18565727	.	-	.	ID=gene:WBGene00107630;Name=WBGene00107630;biotype=protein_coding;description=Vps-54;description_source=UniProtKB/TrEMBL;description_source_acc=A0A2A6C8D2;locus=PPA18076
 PPA_ChrI	WormBase_imported	mRNA	18543112	18565727	.	-	.	ID=transcript:PPA18076.1;Parent=gene:WBGene00107630;Name=PPA18076.1;info=method:InterPro accession:IPR012501 description:Vacuolar protein sorting-associated protein 54%2C C-terminal %0Amethod:InterPro accession:IPR039745 description:Vacuolar protein sorting-associated protein 54
+#microexons transcript:PPA18076.1:  86 109 72 96 109 100 186 99 106 69 72 111 104 51 100 27-27-27-27-27-27-27 74 64 119 67 91 106 116 127 106 88 116 90 108 95 100
 PPA_ChrI	WormBase_imported	exon	18565642	18565727	.	-	.	ID=exon:PPA18076.1.1;Parent=transcript:PPA18076.1
 PPA_ChrI	WormBase_imported	exon	18565255	18565363	.	-	.	ID=exon:PPA18076.1.2;Parent=transcript:PPA18076.1
 PPA_ChrI	WormBase_imported	exon	18563742	18563813	.	-	.	ID=exon:PPA18076.1.3;Parent=transcript:PPA18076.1
@@ -76,6 +77,7 @@ PPA_ChrI	WormBase_imported	CDS	18543935	18544029	.	-	0	ID=cds:PPA18076.1;Parent=
 PPA_ChrI	WormBase_imported	CDS	18543112	18543211	.	-	1	ID=cds:PPA18076.1;Parent=transcript:PPA18076.1
 PPA_ChrI	WormBase_imported	gene	28861633	28873145	.	-	.	ID=gene:WBGene00283142;Name=WBGene00283142;biotype=protein_coding;locus=PPA44773
 PPA_ChrI	WormBase_imported	mRNA	28861633	28873145	.	-	.	ID=transcript:PPA44773.1;Parent=gene:WBGene00283142;Name=PPA44773.1
+#microexons transcript:PPA44773.1:  93 49 113 19 15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15 106 82
 PPA_ChrI	WormBase_imported	exon	28873053	28873145	.	-	.	ID=exon:PPA44773.1.1;Parent=transcript:PPA44773.1
 PPA_ChrI	WormBase_imported	exon	28872346	28872394	.	-	.	ID=exon:PPA44773.1.2;Parent=transcript:PPA44773.1
 PPA_ChrI	WormBase_imported	exon	28871021	28871133	.	-	.	ID=exon:PPA44773.1.3;Parent=transcript:PPA44773.1
@@ -132,6 +134,7 @@ PPA_ChrI	WormBase_imported	CDS	28861838	28861943	.	-	2	ID=cds:PPA44773.1;Parent=
 PPA_ChrI	WormBase_imported	CDS	28861633	28861714	.	-	1	ID=cds:PPA44773.1;Parent=transcript:PPA44773.1
 PPA_ChrII	WormBase_imported	gene	4147730	4164969	.	+	.	ID=gene:WBGene00282193;Name=WBGene00282193;biotype=protein_coding;locus=PPA43824
 PPA_ChrII	WormBase_imported	mRNA	4147730	4164969	.	+	.	ID=transcript:PPA43824.1;Parent=gene:WBGene00282193;Name=PPA43824.1
+#microexons transcript:PPA43824.1:  102 84 57 93 204 126 147 72 138 87 75 159 135 93 90 60 84 57 114 96 123 182 82 138 66 87 99 120 75 38 25 15-24-15 111 90 57 117 99 171 158 76 144 84 78 81 48 102 135 21 48 102 156 120 81 145 89 54 144 87 93 108 90
 PPA_ChrII	WormBase_imported	exon	4147730	4147831	.	+	.	ID=exon:PPA43824.1.1;Parent=transcript:PPA43824.1
 PPA_ChrII	WormBase_imported	exon	4148003	4148086	.	+	.	ID=exon:PPA43824.1.2;Parent=transcript:PPA43824.1
 PPA_ChrII	WormBase_imported	exon	4148197	4148253	.	+	.	ID=exon:PPA43824.1.3;Parent=transcript:PPA43824.1
@@ -260,6 +263,7 @@ PPA_ChrII	WormBase_imported	CDS	4164724	4164831	.	+	0	ID=cds:PPA43824.1;Parent=t
 PPA_ChrII	WormBase_imported	CDS	4164880	4164969	.	+	0	ID=cds:PPA43824.1;Parent=transcript:PPA43824.1
 PPA_pbcontig2887	WormBase_imported	gene	3467	59749	.	-	.	ID=gene:WBGene00272861;Name=WBGene00272861;biotype=protein_coding;locus=PPA34492
 PPA_pbcontig2887	WormBase_imported	mRNA	3467	59749	.	-	.	ID=transcript:PPA34492.1;Parent=gene:WBGene00272861;Name=PPA34492.1;info=method:InterPro accession:IPR006626 description:Parallel beta-helix repeat
+#microexons transcript:PPA34492.1:  62 81 197 100 42 42 21 42 42 42 99 42 42 21 42 21-21 80 100 21 42 42 42 42 42 21 42 42 42 80 78 79 42 21 42 42 42 42 21 42 42 80 100 42 42 42 42 21 42 21 42 21 99 42 42 42 21-21 42 42 42 42 42 42 42 42 42 42 42 42 21 42 42 42 42 21 42 42 21 42 42 21 42 42 42 21 42 21 80 138 100 21 42 21 80 100 42 137 79 100 79 78 79 42 42 21 42 21 80 42 100 80 79 62 79 78 80 100 21 42 100 79 100 137 79 42 21 42 42 42 80 78 100 21 42 42 21 135 42 42 90 42 42 80 82 42 78 81 42 80 21 100 135 140 137 79 100 21 80 82 137 82 42 21 42 42 137 79 42 79 79 43 21 80 100 20 81 42 79 135 80 138 43 78 137 100 20 100 41 132 135 102 78 100 21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21 42 21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21 81 80 78 79 21-21 82 81 79 79 80 78 79 158 79 81 81 21 80 78 22 80 81 22 79 101 78 80 22 77 80 79 81 78 79 42 21 159 42 21 42 137 79 78 21 42 21 42 21 100 79 79 137 79 79 139 79 21 137 79 79 79 79 137 79 137 79 42 21 79 79 79 137 100 21 137 79 137 137 77 21 137 79 137 100 21-21 137 79 79 79 79 79 79 100 21-21 79 79 79 21 137 79 79 79 79 79 79 21 79 79 79 79 195 137 21 79 137 79 79 21 79 79 21 79 79 79 79 137 137 79 79 79 78 79 79 79 79 137 79 79 137 46
 PPA_pbcontig2887	WormBase_imported	exon	59688	59749	.	-	.	ID=exon:PPA34492.1.1;Parent=transcript:PPA34492.1
 PPA_pbcontig2887	WormBase_imported	exon	59570	59650	.	-	.	ID=exon:PPA34492.1.2;Parent=transcript:PPA34492.1
 PPA_pbcontig2887	WormBase_imported	exon	59278	59474	.	-	.	ID=exon:PPA34492.1.3;Parent=transcript:PPA34492.1

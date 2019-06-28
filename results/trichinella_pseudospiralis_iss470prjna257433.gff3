@@ -1,6 +1,8 @@
 scaffold3s	WormBase_imported	gene	806578	819072	.	+	.	ID=gene:T4D_10641;Name=T4D_10641;biotype=protein_coding;description=Transducin-like enhancer protein 3;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0V1G5B2;locus=Tle3
 scaffold3s	WormBase_imported	mRNA	806578	819072	.	+	.	ID=transcript:T4D_10641.1;Parent=gene:T4D_10641;Name=T4D_10641.1;info=method:InterPro accession:IPR001680 description:WD40 repeat %0Amethod:InterPro accession:IPR005617 description:Groucho/TLE%2C N-terminal Q-rich domain %0Amethod:InterPro accession:IPR009146 description:Groucho/transducin-like enhancer %0Amethod:InterPro accession:IPR015943 description:WD40/YVTN repeat-like-containing domain superfamily %0Amethod:InterPro accession:IPR017986 description:WD40-repeat-containing domain %0Amethod:InterPro accession:IPR019775 description:WD40 repeat%2C conserved site %0Amethod:InterPro accession:IPR036322 description:WD40-repeat-containing domain superfamily
+#microexons transcript:T4D_10641.1:  21 98 64 45 63 75 288 138 165 160 140 80 250 96 146 112 65 181 96 18-24
 scaffold3s	WormBase_imported	mRNA	806578	819072	.	+	.	ID=transcript:T4D_10641.2;Parent=gene:T4D_10641;Name=T4D_10641.2;info=method:InterPro accession:IPR001680 description:WD40 repeat %0Amethod:InterPro accession:IPR005617 description:Groucho/TLE%2C N-terminal Q-rich domain %0Amethod:InterPro accession:IPR009146 description:Groucho/transducin-like enhancer %0Amethod:InterPro accession:IPR015943 description:WD40/YVTN repeat-like-containing domain superfamily %0Amethod:InterPro accession:IPR017986 description:WD40-repeat-containing domain %0Amethod:InterPro accession:IPR019775 description:WD40 repeat%2C conserved site %0Amethod:InterPro accession:IPR036322 description:WD40-repeat-containing domain superfamily
+#microexons transcript:T4D_10641.2:  21 98 64 45 39 75 288 138 165 160 140 80 250 96 146 112 83 181 96 18-24
 scaffold3s	WormBase_imported	exon	806578	806598	.	+	.	ID=exon:T4D_10641.1.1;Parent=transcript:T4D_10641.1
 scaffold3s	WormBase_imported	exon	806905	807002	.	+	.	ID=exon:T4D_10641.1.2;Parent=transcript:T4D_10641.1
 scaffold3s	WormBase_imported	exon	812324	812387	.	+	.	ID=exon:T4D_10641.1.3;Parent=transcript:T4D_10641.1
@@ -87,6 +89,7 @@ scaffold3s	WormBase_imported	CDS	818742	818759	.	+	0	ID=cds:T4D_10641.2;Parent=t
 scaffold3s	WormBase_imported	CDS	819049	819072	.	+	0	ID=cds:T4D_10641.2;Parent=transcript:T4D_10641.2
 scaffold4s	WormBase_imported	gene	415053	416924	.	-	.	ID=gene:T4D_886;Name=T4D_886;biotype=protein_coding
 scaffold4s	WormBase_imported	mRNA	415053	416924	.	-	.	ID=transcript:T4D_886.1;Parent=gene:T4D_886;Name=T4D_886.1
+#microexons transcript:T4D_886.1:  32 45 15-6-9 28 56 19
 scaffold4s	WormBase_imported	exon	416893	416924	.	-	.	ID=exon:T4D_886.1.1;Parent=transcript:T4D_886.1
 scaffold4s	WormBase_imported	exon	416330	416374	.	-	.	ID=exon:T4D_886.1.2;Parent=transcript:T4D_886.1
 scaffold4s	WormBase_imported	exon	416112	416126	.	-	.	ID=exon:T4D_886.1.3;Parent=transcript:T4D_886.1
@@ -105,6 +108,7 @@ scaffold4s	WormBase_imported	CDS	415632	415687	.	-	0	ID=cds:T4D_886.1;Parent=tra
 scaffold4s	WormBase_imported	CDS	415053	415071	.	-	1	ID=cds:T4D_886.1;Parent=transcript:T4D_886.1
 scaffold4s	WormBase_imported	gene	648098	649787	.	-	.	ID=gene:T4D_108;Name=T4D_108;biotype=protein_coding;description=Polyubiquitin-B;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0V1G464;locus=UBB
 scaffold4s	WormBase_imported	mRNA	648098	649787	.	-	.	ID=transcript:T4D_108.1;Parent=gene:T4D_108;Name=T4D_108.1;info=method:InterPro accession:IPR000626 description:Ubiquitin domain %0Amethod:InterPro accession:IPR019954 description:Ubiquitin conserved site %0Amethod:InterPro accession:IPR019956 description:Ubiquitin %0Amethod:InterPro accession:IPR029071 description:Ubiquitin-like domain superfamily
+#microexons transcript:T4D_108.1:  29 13 15-15-27 163 228 228 86
 scaffold4s	WormBase_imported	exon	649759	649787	.	-	.	ID=exon:T4D_108.1.1;Parent=transcript:T4D_108.1
 scaffold4s	WormBase_imported	exon	649682	649694	.	-	.	ID=exon:T4D_108.1.2;Parent=transcript:T4D_108.1
 scaffold4s	WormBase_imported	exon	649646	649660	.	-	.	ID=exon:T4D_108.1.3;Parent=transcript:T4D_108.1
@@ -125,6 +129,7 @@ scaffold4s	WormBase_imported	CDS	648238	648465	.	-	2	ID=cds:T4D_108.1;Parent=tra
 scaffold4s	WormBase_imported	CDS	648098	648183	.	-	2	ID=cds:T4D_108.1;Parent=transcript:T4D_108.1
 scaffold5s	WormBase_imported	gene	367980	371093	.	-	.	ID=gene:T4D_13320;Name=T4D_13320;biotype=protein_coding;description=N-acetyl-D-glucosamine kinase;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0V1G3I3;locus=Nagk
 scaffold5s	WormBase_imported	mRNA	367980	371093	.	-	.	ID=transcript:T4D_13320.1;Parent=gene:T4D_13320;Name=T4D_13320.1;info=method:InterPro accession:IPR002731 description:ATPase%2C BadF/BadG/BcrA/BcrD type %0Amethod:InterPro accession:IPR039758 description:N-acetyl-D-glucosamine kinase NAGK-like
+#microexons transcript:T4D_13320.1:  9-6-6 156 99 142 111 201 171 158 60 15-24
 scaffold5s	WormBase_imported	exon	371085	371093	.	-	.	ID=exon:T4D_13320.1.1;Parent=transcript:T4D_13320.1
 scaffold5s	WormBase_imported	exon	370808	370813	.	-	.	ID=exon:T4D_13320.1.2;Parent=transcript:T4D_13320.1
 scaffold5s	WormBase_imported	exon	370744	370749	.	-	.	ID=exon:T4D_13320.1.3;Parent=transcript:T4D_13320.1
@@ -153,6 +158,7 @@ scaffold5s	WormBase_imported	CDS	368478	368492	.	-	0	ID=cds:T4D_13320.1;Parent=t
 scaffold5s	WormBase_imported	CDS	367980	368003	.	-	0	ID=cds:T4D_13320.1;Parent=transcript:T4D_13320.1
 scaffold6s	WormBase_imported	gene	169316	171444	.	-	.	ID=gene:T4D_3209;Name=T4D_3209;biotype=protein_coding;description=Immediate early response 3-interacting protein 1;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0V1G2I7;locus=ier3ip1
 scaffold6s	WormBase_imported	mRNA	169316	171444	.	-	.	ID=transcript:T4D_3209.1;Parent=gene:T4D_3209;Name=T4D_3209.1;info=method:InterPro accession:IPR013880 description:Yos1-like
+#microexons transcript:T4D_3209.1:  9-27-18 210 8 35 38 24
 scaffold6s	WormBase_imported	exon	171436	171444	.	-	.	ID=exon:T4D_3209.1.1;Parent=transcript:T4D_3209.1
 scaffold6s	WormBase_imported	exon	171169	171195	.	-	.	ID=exon:T4D_3209.1.2;Parent=transcript:T4D_3209.1
 scaffold6s	WormBase_imported	exon	170888	170905	.	-	.	ID=exon:T4D_3209.1.3;Parent=transcript:T4D_3209.1
@@ -171,6 +177,7 @@ scaffold6s	WormBase_imported	CDS	169972	170009	.	-	2	ID=cds:T4D_3209.1;Parent=tr
 scaffold6s	WormBase_imported	CDS	169316	169339	.	-	0	ID=cds:T4D_3209.1;Parent=transcript:T4D_3209.1
 scaffold8s	WormBase_imported	gene	503734	506527	.	-	.	ID=gene:T4D_4595;Name=T4D_4595;biotype=protein_coding
 scaffold8s	WormBase_imported	mRNA	503734	506527	.	-	.	ID=transcript:T4D_4595.1;Parent=gene:T4D_4595;Name=T4D_4595.1
+#microexons transcript:T4D_4595.1:  45 68 31 6-6-27 29 11 38
 scaffold8s	WormBase_imported	exon	506483	506527	.	-	.	ID=exon:T4D_4595.1.1;Parent=transcript:T4D_4595.1
 scaffold8s	WormBase_imported	exon	506376	506443	.	-	.	ID=exon:T4D_4595.1.2;Parent=transcript:T4D_4595.1
 scaffold8s	WormBase_imported	exon	506289	506319	.	-	.	ID=exon:T4D_4595.1.3;Parent=transcript:T4D_4595.1
@@ -191,6 +198,7 @@ scaffold8s	WormBase_imported	CDS	503857	503867	.	-	1	ID=cds:T4D_4595.1;Parent=tr
 scaffold8s	WormBase_imported	CDS	503734	503771	.	-	2	ID=cds:T4D_4595.1;Parent=transcript:T4D_4595.1
 scaffold11s	WormBase_imported	gene	550002	551592	.	+	.	ID=gene:T4D_11058;Name=T4D_11058;biotype=protein_coding
 scaffold11s	WormBase_imported	mRNA	550002	551592	.	+	.	ID=transcript:T4D_11058.1;Parent=gene:T4D_11058;Name=T4D_11058.1
+#microexons transcript:T4D_11058.1:  6-18-12 41 118 90
 scaffold11s	WormBase_imported	exon	550002	550007	.	+	.	ID=exon:T4D_11058.1.1;Parent=transcript:T4D_11058.1
 scaffold11s	WormBase_imported	exon	550415	550432	.	+	.	ID=exon:T4D_11058.1.2;Parent=transcript:T4D_11058.1
 scaffold11s	WormBase_imported	exon	550608	550619	.	+	.	ID=exon:T4D_11058.1.3;Parent=transcript:T4D_11058.1
@@ -205,6 +213,7 @@ scaffold11s	WormBase_imported	CDS	551291	551408	.	+	1	ID=cds:T4D_11058.1;Parent=
 scaffold11s	WormBase_imported	CDS	551503	551592	.	+	0	ID=cds:T4D_11058.1;Parent=transcript:T4D_11058.1
 scaffold12s	WormBase_imported	gene	308595	311192	.	+	.	ID=gene:T4D_13188;Name=T4D_13188;biotype=protein_coding
 scaffold12s	WormBase_imported	mRNA	308595	311192	.	+	.	ID=transcript:T4D_13188.1;Parent=gene:T4D_13188;Name=T4D_13188.1
+#microexons transcript:T4D_13188.1:  6 8 23 39 11 45 69 33 6-12-12
 scaffold12s	WormBase_imported	exon	308595	308600	.	+	.	ID=exon:T4D_13188.1.1;Parent=transcript:T4D_13188.1
 scaffold12s	WormBase_imported	exon	308739	308746	.	+	.	ID=exon:T4D_13188.1.2;Parent=transcript:T4D_13188.1
 scaffold12s	WormBase_imported	exon	308773	308795	.	+	.	ID=exon:T4D_13188.1.3;Parent=transcript:T4D_13188.1
@@ -229,6 +238,7 @@ scaffold12s	WormBase_imported	CDS	311011	311022	.	+	0	ID=cds:T4D_13188.1;Parent=
 scaffold12s	WormBase_imported	CDS	311181	311192	.	+	0	ID=cds:T4D_13188.1;Parent=transcript:T4D_13188.1
 scaffold12s	WormBase_imported	gene	404164	406299	.	-	.	ID=gene:T4D_15089;Name=T4D_15089;biotype=protein_coding
 scaffold12s	WormBase_imported	mRNA	404164	406299	.	-	.	ID=transcript:T4D_15089.1;Parent=gene:T4D_15089;Name=T4D_15089.1
+#microexons transcript:T4D_15089.1:  96 99 9-15-12 8 66 40 18
 scaffold12s	WormBase_imported	exon	406204	406299	.	-	.	ID=exon:T4D_15089.1.1;Parent=transcript:T4D_15089.1
 scaffold12s	WormBase_imported	exon	405972	406070	.	-	.	ID=exon:T4D_15089.1.2;Parent=transcript:T4D_15089.1
 scaffold12s	WormBase_imported	exon	405479	405487	.	-	.	ID=exon:T4D_15089.1.3;Parent=transcript:T4D_15089.1
@@ -249,6 +259,7 @@ scaffold12s	WormBase_imported	CDS	404289	404328	.	-	1	ID=cds:T4D_15089.1;Parent=
 scaffold12s	WormBase_imported	CDS	404164	404181	.	-	0	ID=cds:T4D_15089.1;Parent=transcript:T4D_15089.1
 scaffold13s	WormBase_imported	gene	149764	151621	.	+	.	ID=gene:T4D_614;Name=T4D_614;biotype=protein_coding
 scaffold13s	WormBase_imported	mRNA	149764	151621	.	+	.	ID=transcript:T4D_614.1;Parent=gene:T4D_614;Name=T4D_614.1
+#microexons transcript:T4D_614.1:  53 118 15-6-18
 scaffold13s	WormBase_imported	exon	149764	149816	.	+	.	ID=exon:T4D_614.1.1;Parent=transcript:T4D_614.1
 scaffold13s	WormBase_imported	exon	150368	150485	.	+	.	ID=exon:T4D_614.1.2;Parent=transcript:T4D_614.1
 scaffold13s	WormBase_imported	exon	151062	151076	.	+	.	ID=exon:T4D_614.1.3;Parent=transcript:T4D_614.1
@@ -261,6 +272,7 @@ scaffold13s	WormBase_imported	CDS	151340	151345	.	+	0	ID=cds:T4D_614.1;Parent=tr
 scaffold13s	WormBase_imported	CDS	151604	151621	.	+	0	ID=cds:T4D_614.1;Parent=transcript:T4D_614.1
 scaffold13s	WormBase_imported	gene	341310	342155	.	+	.	ID=gene:T4D_6390;Name=T4D_6390;biotype=protein_coding
 scaffold13s	WormBase_imported	mRNA	341310	342155	.	+	.	ID=transcript:T4D_6390.1;Parent=gene:T4D_6390;Name=T4D_6390.1
+#microexons transcript:T4D_6390.1:  8 124 18-21-6 51
 scaffold13s	WormBase_imported	exon	341310	341317	.	+	.	ID=exon:T4D_6390.1.1;Parent=transcript:T4D_6390.1
 scaffold13s	WormBase_imported	exon	341402	341525	.	+	.	ID=exon:T4D_6390.1.2;Parent=transcript:T4D_6390.1
 scaffold13s	WormBase_imported	exon	341572	341589	.	+	.	ID=exon:T4D_6390.1.3;Parent=transcript:T4D_6390.1
@@ -275,6 +287,7 @@ scaffold13s	WormBase_imported	CDS	342066	342071	.	+	0	ID=cds:T4D_6390.1;Parent=t
 scaffold13s	WormBase_imported	CDS	342105	342155	.	+	0	ID=cds:T4D_6390.1;Parent=transcript:T4D_6390.1
 scaffold15s	WormBase_imported	gene	134814	136979	.	+	.	ID=gene:T4D_14092;Name=T4D_14092;biotype=protein_coding
 scaffold15s	WormBase_imported	mRNA	134814	136979	.	+	.	ID=transcript:T4D_14092.1;Parent=gene:T4D_14092;Name=T4D_14092.1
+#microexons transcript:T4D_14092.1:  28 23 44 34 18-21-15
 scaffold15s	WormBase_imported	exon	134814	134841	.	+	.	ID=exon:T4D_14092.1.1;Parent=transcript:T4D_14092.1
 scaffold15s	WormBase_imported	exon	135101	135123	.	+	.	ID=exon:T4D_14092.1.2;Parent=transcript:T4D_14092.1
 scaffold15s	WormBase_imported	exon	135488	135531	.	+	.	ID=exon:T4D_14092.1.3;Parent=transcript:T4D_14092.1
@@ -291,6 +304,7 @@ scaffold15s	WormBase_imported	CDS	136535	136555	.	+	0	ID=cds:T4D_14092.1;Parent=
 scaffold15s	WormBase_imported	CDS	136965	136979	.	+	0	ID=cds:T4D_14092.1;Parent=transcript:T4D_14092.1
 scaffold18s	WormBase_imported	gene	311982	313717	.	-	.	ID=gene:T4D_5752;Name=T4D_5752;biotype=protein_coding
 scaffold18s	WormBase_imported	mRNA	311982	313717	.	-	.	ID=transcript:T4D_5752.1;Parent=gene:T4D_5752;Name=T4D_5752.1
+#microexons transcript:T4D_5752.1:  5 18-24-30 36 70 120
 scaffold18s	WormBase_imported	exon	313713	313717	.	-	.	ID=exon:T4D_5752.1.1;Parent=transcript:T4D_5752.1
 scaffold18s	WormBase_imported	exon	313293	313310	.	-	.	ID=exon:T4D_5752.1.2;Parent=transcript:T4D_5752.1
 scaffold18s	WormBase_imported	exon	313107	313130	.	-	.	ID=exon:T4D_5752.1.3;Parent=transcript:T4D_5752.1
@@ -307,6 +321,7 @@ scaffold18s	WormBase_imported	CDS	312167	312236	.	-	1	ID=cds:T4D_5752.1;Parent=t
 scaffold18s	WormBase_imported	CDS	311982	312101	.	-	0	ID=cds:T4D_5752.1;Parent=transcript:T4D_5752.1
 scaffold18s	WormBase_imported	gene	317735	319346	.	+	.	ID=gene:T4D_15092;Name=T4D_15092;biotype=protein_coding
 scaffold18s	WormBase_imported	mRNA	317735	319346	.	+	.	ID=transcript:T4D_15092.1;Parent=gene:T4D_15092;Name=T4D_15092.1
+#microexons transcript:T4D_15092.1:  28 98 8 8 17 6-15-6
 scaffold18s	WormBase_imported	exon	317735	317762	.	+	.	ID=exon:T4D_15092.1.1;Parent=transcript:T4D_15092.1
 scaffold18s	WormBase_imported	exon	318225	318322	.	+	.	ID=exon:T4D_15092.1.2;Parent=transcript:T4D_15092.1
 scaffold18s	WormBase_imported	exon	318717	318724	.	+	.	ID=exon:T4D_15092.1.3;Parent=transcript:T4D_15092.1
@@ -325,6 +340,7 @@ scaffold18s	WormBase_imported	CDS	319298	319312	.	+	0	ID=cds:T4D_15092.1;Parent=
 scaffold18s	WormBase_imported	CDS	319341	319346	.	+	0	ID=cds:T4D_15092.1;Parent=transcript:T4D_15092.1
 scaffold21s	WormBase_imported	gene	223013	224118	.	-	.	ID=gene:T4D_15052;Name=T4D_15052;biotype=protein_coding
 scaffold21s	WormBase_imported	mRNA	223013	224118	.	-	.	ID=transcript:T4D_15052.1;Parent=gene:T4D_15052;Name=T4D_15052.1
+#microexons transcript:T4D_15052.1:  18-12-18 33 136 122
 scaffold21s	WormBase_imported	exon	224101	224118	.	-	.	ID=exon:T4D_15052.1.1;Parent=transcript:T4D_15052.1
 scaffold21s	WormBase_imported	exon	223897	223908	.	-	.	ID=exon:T4D_15052.1.2;Parent=transcript:T4D_15052.1
 scaffold21s	WormBase_imported	exon	223861	223878	.	-	.	ID=exon:T4D_15052.1.3;Parent=transcript:T4D_15052.1
@@ -339,6 +355,7 @@ scaffold21s	WormBase_imported	CDS	223352	223487	.	-	0	ID=cds:T4D_15052.1;Parent=
 scaffold21s	WormBase_imported	CDS	223013	223134	.	-	2	ID=cds:T4D_15052.1;Parent=transcript:T4D_15052.1
 scaffold23s	WormBase_imported	gene	24838	27211	.	-	.	ID=gene:T4D_3070;Name=T4D_3070;biotype=protein_coding
 scaffold23s	WormBase_imported	mRNA	24838	27211	.	-	.	ID=transcript:T4D_3070.1;Parent=gene:T4D_3070;Name=T4D_3070.1
+#microexons transcript:T4D_3070.1:  74 28 13 128 24-12-12-6 48
 scaffold23s	WormBase_imported	exon	27138	27211	.	-	.	ID=exon:T4D_3070.1.1;Parent=transcript:T4D_3070.1
 scaffold23s	WormBase_imported	exon	26727	26754	.	-	.	ID=exon:T4D_3070.1.2;Parent=transcript:T4D_3070.1
 scaffold23s	WormBase_imported	exon	26649	26661	.	-	.	ID=exon:T4D_3070.1.3;Parent=transcript:T4D_3070.1
@@ -359,6 +376,7 @@ scaffold23s	WormBase_imported	CDS	25157	25162	.	-	0	ID=cds:T4D_3070.1;Parent=tra
 scaffold23s	WormBase_imported	CDS	24838	24885	.	-	0	ID=cds:T4D_3070.1;Parent=transcript:T4D_3070.1
 scaffold38s	WormBase_imported	gene	246282	247698	.	-	.	ID=gene:T4D_5681;Name=T4D_5681;biotype=protein_coding
 scaffold38s	WormBase_imported	mRNA	246282	247698	.	-	.	ID=transcript:T4D_5681.1;Parent=gene:T4D_5681;Name=T4D_5681.1
+#microexons transcript:T4D_5681.1:  27-30-21 11 106
 scaffold38s	WormBase_imported	exon	247672	247698	.	-	.	ID=exon:T4D_5681.1.1;Parent=transcript:T4D_5681.1
 scaffold38s	WormBase_imported	exon	247441	247470	.	-	.	ID=exon:T4D_5681.1.2;Parent=transcript:T4D_5681.1
 scaffold38s	WormBase_imported	exon	247249	247269	.	-	.	ID=exon:T4D_5681.1.3;Parent=transcript:T4D_5681.1
@@ -371,6 +389,7 @@ scaffold38s	WormBase_imported	CDS	246700	246710	.	-	0	ID=cds:T4D_5681.1;Parent=t
 scaffold38s	WormBase_imported	CDS	246282	246387	.	-	1	ID=cds:T4D_5681.1;Parent=transcript:T4D_5681.1
 scaffold44s	WormBase_imported	gene	114671	116165	.	-	.	ID=gene:T4D_9878;Name=T4D_9878;biotype=protein_coding
 scaffold44s	WormBase_imported	mRNA	114671	116165	.	-	.	ID=transcript:T4D_9878.1;Parent=gene:T4D_9878;Name=T4D_9878.1
+#microexons transcript:T4D_9878.1:  14 195 79 16 113 30-27-30
 scaffold44s	WormBase_imported	exon	116152	116165	.	-	.	ID=exon:T4D_9878.1.1;Parent=transcript:T4D_9878.1
 scaffold44s	WormBase_imported	exon	115896	116090	.	-	.	ID=exon:T4D_9878.1.2;Parent=transcript:T4D_9878.1
 scaffold44s	WormBase_imported	exon	115707	115785	.	-	.	ID=exon:T4D_9878.1.3;Parent=transcript:T4D_9878.1
@@ -389,6 +408,7 @@ scaffold44s	WormBase_imported	CDS	114872	114898	.	-	0	ID=cds:T4D_9878.1;Parent=t
 scaffold44s	WormBase_imported	CDS	114671	114700	.	-	0	ID=cds:T4D_9878.1;Parent=transcript:T4D_9878.1
 scaffold47s	WormBase_imported	gene	121184	122703	.	-	.	ID=gene:T4D_13386;Name=T4D_13386;biotype=protein_coding
 scaffold47s	WormBase_imported	mRNA	121184	122703	.	-	.	ID=transcript:T4D_13386.1;Parent=gene:T4D_13386;Name=T4D_13386.1
+#microexons transcript:T4D_13386.1:  54 103 32 6-30-21-15
 scaffold47s	WormBase_imported	exon	122650	122703	.	-	.	ID=exon:T4D_13386.1.1;Parent=transcript:T4D_13386.1
 scaffold47s	WormBase_imported	exon	122377	122479	.	-	.	ID=exon:T4D_13386.1.2;Parent=transcript:T4D_13386.1
 scaffold47s	WormBase_imported	exon	122193	122224	.	-	.	ID=exon:T4D_13386.1.3;Parent=transcript:T4D_13386.1
@@ -405,6 +425,7 @@ scaffold47s	WormBase_imported	CDS	121538	121558	.	-	0	ID=cds:T4D_13386.1;Parent=
 scaffold47s	WormBase_imported	CDS	121184	121198	.	-	0	ID=cds:T4D_13386.1;Parent=transcript:T4D_13386.1
 scaffold56s	WormBase_imported	gene	72114	73140	.	+	.	ID=gene:T4D_334;Name=T4D_334;biotype=protein_coding
 scaffold56s	WormBase_imported	mRNA	72114	73140	.	+	.	ID=transcript:T4D_334.1;Parent=gene:T4D_334;Name=T4D_334.1
+#microexons transcript:T4D_334.1:  15-12-12 96 44 43 114
 scaffold56s	WormBase_imported	exon	72114	72128	.	+	.	ID=exon:T4D_334.1.1;Parent=transcript:T4D_334.1
 scaffold56s	WormBase_imported	exon	72146	72157	.	+	.	ID=exon:T4D_334.1.2;Parent=transcript:T4D_334.1
 scaffold56s	WormBase_imported	exon	72341	72352	.	+	.	ID=exon:T4D_334.1.3;Parent=transcript:T4D_334.1
@@ -421,6 +442,7 @@ scaffold56s	WormBase_imported	CDS	72915	72957	.	+	1	ID=cds:T4D_334.1;Parent=tran
 scaffold56s	WormBase_imported	CDS	73027	73140	.	+	0	ID=cds:T4D_334.1;Parent=transcript:T4D_334.1
 scaffold77s	WormBase_imported	gene	158301	160561	.	+	.	ID=gene:T4D_1806;Name=T4D_1806;biotype=protein_coding
 scaffold77s	WormBase_imported	mRNA	158301	160561	.	+	.	ID=transcript:T4D_1806.1;Parent=gene:T4D_1806;Name=T4D_1806.1
+#microexons transcript:T4D_1806.1:  16 29 31 35 18 111 27-6-9
 scaffold77s	WormBase_imported	exon	158301	158316	.	+	.	ID=exon:T4D_1806.1.1;Parent=transcript:T4D_1806.1
 scaffold77s	WormBase_imported	exon	158590	158618	.	+	.	ID=exon:T4D_1806.1.2;Parent=transcript:T4D_1806.1
 scaffold77s	WormBase_imported	exon	158670	158700	.	+	.	ID=exon:T4D_1806.1.3;Parent=transcript:T4D_1806.1
@@ -441,6 +463,7 @@ scaffold77s	WormBase_imported	CDS	160291	160296	.	+	0	ID=cds:T4D_1806.1;Parent=t
 scaffold77s	WormBase_imported	CDS	160553	160561	.	+	0	ID=cds:T4D_1806.1;Parent=transcript:T4D_1806.1
 scaffold91s	WormBase_imported	gene	109732	111517	.	-	.	ID=gene:T4D_6548;Name=T4D_6548;biotype=protein_coding
 scaffold91s	WormBase_imported	mRNA	109732	111517	.	-	.	ID=transcript:T4D_6548.1;Parent=gene:T4D_6548;Name=T4D_6548.1
+#microexons transcript:T4D_6548.1:  30-27-30 46 20 216
 scaffold91s	WormBase_imported	exon	111488	111517	.	-	.	ID=exon:T4D_6548.1.1;Parent=transcript:T4D_6548.1
 scaffold91s	WormBase_imported	exon	110420	110446	.	-	.	ID=exon:T4D_6548.1.2;Parent=transcript:T4D_6548.1
 scaffold91s	WormBase_imported	exon	110340	110369	.	-	.	ID=exon:T4D_6548.1.3;Parent=transcript:T4D_6548.1
@@ -455,6 +478,7 @@ scaffold91s	WormBase_imported	CDS	109972	109991	.	-	2	ID=cds:T4D_6548.1;Parent=t
 scaffold91s	WormBase_imported	CDS	109732	109947	.	-	0	ID=cds:T4D_6548.1;Parent=transcript:T4D_6548.1
 scaffold109s	WormBase_imported	gene	17	803	.	-	.	ID=gene:T4D_8614;Name=T4D_8614;biotype=protein_coding
 scaffold109s	WormBase_imported	mRNA	17	803	.	-	.	ID=transcript:T4D_8614.1;Parent=gene:T4D_8614;Name=T4D_8614.1
+#microexons transcript:T4D_8614.1:  18-30-12-27 51 54 9
 scaffold109s	WormBase_imported	exon	786	803	.	-	.	ID=exon:T4D_8614.1.1;Parent=transcript:T4D_8614.1
 scaffold109s	WormBase_imported	exon	721	750	.	-	.	ID=exon:T4D_8614.1.2;Parent=transcript:T4D_8614.1
 scaffold109s	WormBase_imported	exon	686	697	.	-	.	ID=exon:T4D_8614.1.3;Parent=transcript:T4D_8614.1
@@ -471,6 +495,7 @@ scaffold109s	WormBase_imported	CDS	244	297	.	-	0	ID=cds:T4D_8614.1;Parent=transc
 scaffold109s	WormBase_imported	CDS	17	25	.	-	0	ID=cds:T4D_8614.1;Parent=transcript:T4D_8614.1
 scaffold122s	WormBase_imported	gene	117349	118140	.	+	.	ID=gene:T4D_5992;Name=T4D_5992;biotype=protein_coding
 scaffold122s	WormBase_imported	mRNA	117349	118140	.	+	.	ID=transcript:T4D_5992.1;Parent=gene:T4D_5992;Name=T4D_5992.1
+#microexons transcript:T4D_5992.1:  18-30-12-27 51 54 24
 scaffold122s	WormBase_imported	exon	117349	117366	.	+	.	ID=exon:T4D_5992.1.1;Parent=transcript:T4D_5992.1
 scaffold122s	WormBase_imported	exon	117402	117431	.	+	.	ID=exon:T4D_5992.1.2;Parent=transcript:T4D_5992.1
 scaffold122s	WormBase_imported	exon	117455	117466	.	+	.	ID=exon:T4D_5992.1.3;Parent=transcript:T4D_5992.1
@@ -487,6 +512,7 @@ scaffold122s	WormBase_imported	CDS	117855	117908	.	+	0	ID=cds:T4D_5992.1;Parent=
 scaffold122s	WormBase_imported	CDS	118117	118140	.	+	0	ID=cds:T4D_5992.1;Parent=transcript:T4D_5992.1
 scaffold150s	WormBase_imported	gene	17	803	.	-	.	ID=gene:T4D_9145;Name=T4D_9145;biotype=protein_coding
 scaffold150s	WormBase_imported	mRNA	17	803	.	-	.	ID=transcript:T4D_9145.1;Parent=gene:T4D_9145;Name=T4D_9145.1
+#microexons transcript:T4D_9145.1:  18-30-12-27 51 54 9
 scaffold150s	WormBase_imported	exon	786	803	.	-	.	ID=exon:T4D_9145.1.1;Parent=transcript:T4D_9145.1
 scaffold150s	WormBase_imported	exon	721	750	.	-	.	ID=exon:T4D_9145.1.2;Parent=transcript:T4D_9145.1
 scaffold150s	WormBase_imported	exon	686	697	.	-	.	ID=exon:T4D_9145.1.3;Parent=transcript:T4D_9145.1
@@ -503,6 +529,7 @@ scaffold150s	WormBase_imported	CDS	244	297	.	-	0	ID=cds:T4D_9145.1;Parent=transc
 scaffold150s	WormBase_imported	CDS	17	25	.	-	0	ID=cds:T4D_9145.1;Parent=transcript:T4D_9145.1
 scaffold163s	WormBase_imported	gene	24950	26731	.	+	.	ID=gene:T4D_3433;Name=T4D_3433;biotype=protein_coding
 scaffold163s	WormBase_imported	mRNA	24950	26731	.	+	.	ID=transcript:T4D_3433.1;Parent=gene:T4D_3433;Name=T4D_3433.1
+#microexons transcript:T4D_3433.1:  35 64 12-6-24 39
 scaffold163s	WormBase_imported	exon	24950	24984	.	+	.	ID=exon:T4D_3433.1.1;Parent=transcript:T4D_3433.1
 scaffold163s	WormBase_imported	exon	25199	25262	.	+	.	ID=exon:T4D_3433.1.2;Parent=transcript:T4D_3433.1
 scaffold163s	WormBase_imported	exon	25329	25340	.	+	.	ID=exon:T4D_3433.1.3;Parent=transcript:T4D_3433.1
@@ -517,6 +544,7 @@ scaffold163s	WormBase_imported	CDS	26319	26342	.	+	0	ID=cds:T4D_3433.1;Parent=tr
 scaffold163s	WormBase_imported	CDS	26693	26731	.	+	0	ID=cds:T4D_3433.1;Parent=transcript:T4D_3433.1
 scaffold178s	WormBase_imported	gene	58382	67657	.	-	.	ID=gene:T4D_2831;Name=T4D_2831;biotype=protein_coding;description=Acyl-CoA synthetase family member 2, mitochondrial;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0V1FAQ6;locus=acsf2
 scaffold178s	WormBase_imported	mRNA	58382	67657	.	-	.	ID=transcript:T4D_2831.1;Parent=gene:T4D_2831;Name=T4D_2831.1;info=method:InterPro accession:IPR000873 description:AMP-dependent synthetase/ligase %0Amethod:InterPro accession:IPR042099 description:AMP-dependent synthetase-like superfamily
+#microexons transcript:T4D_2831.1:  21-21-30 42 80 67 47 43 336 88 132 680 18 602 103 96 149 101 74 260 142 126 43 56 27
 scaffold178s	WormBase_imported	exon	67637	67657	.	-	.	ID=exon:T4D_2831.1.1;Parent=transcript:T4D_2831.1
 scaffold178s	WormBase_imported	exon	67447	67467	.	-	.	ID=exon:T4D_2831.1.2;Parent=transcript:T4D_2831.1
 scaffold178s	WormBase_imported	exon	67291	67320	.	-	.	ID=exon:T4D_2831.1.3;Parent=transcript:T4D_2831.1
@@ -569,6 +597,7 @@ scaffold178s	WormBase_imported	CDS	58750	58805	.	-	2	ID=cds:T4D_2831.1;Parent=tr
 scaffold178s	WormBase_imported	CDS	58382	58408	.	-	0	ID=cds:T4D_2831.1;Parent=transcript:T4D_2831.1
 scaffold419s	WormBase_imported	gene	1158	3132	.	-	.	ID=gene:T4D_7999;Name=T4D_7999;biotype=protein_coding
 scaffold419s	WormBase_imported	mRNA	1158	3132	.	-	.	ID=transcript:T4D_7999.1;Parent=gene:T4D_7999;Name=T4D_7999.1
+#microexons transcript:T4D_7999.1:  10 14 24 14 14 14 24-27-24 14 10
 scaffold419s	WormBase_imported	exon	3123	3132	.	-	.	ID=exon:T4D_7999.1.1;Parent=transcript:T4D_7999.1
 scaffold419s	WormBase_imported	exon	2965	2978	.	-	.	ID=exon:T4D_7999.1.2;Parent=transcript:T4D_7999.1
 scaffold419s	WormBase_imported	exon	2847	2870	.	-	.	ID=exon:T4D_7999.1.3;Parent=transcript:T4D_7999.1

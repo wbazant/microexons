@@ -1,5 +1,6 @@
 scaffold_103	WormBase_imported	gene	368824	369614	.	-	.	ID=gene:arcanus-sn_msk-S_103-2.145-mRNA-1;Name=arcanus-sn_msk-S_103-2.145-mRNA-1;biotype=protein_coding
 scaffold_103	WormBase_imported	mRNA	368824	369614	.	-	.	ID=transcript:arcanus-sn_msk-S_103-2.145-mRNA-1;Parent=gene:arcanus-sn_msk-S_103-2.145-mRNA-1;Name=arcanus-sn_msk-S_103-2.145-mRNA-1
+#microexons transcript:arcanus-sn_msk-S_103-2.145-mRNA-1:  56 21-21-21-21-21 40
 scaffold_103	WormBase_imported	exon	369559	369614	.	-	.	ID=exon:arcanus-sn_msk-S_103-2.145-mRNA-1.1;Parent=transcript:arcanus-sn_msk-S_103-2.145-mRNA-1
 scaffold_103	WormBase_imported	exon	369448	369468	.	-	.	ID=exon:arcanus-sn_msk-S_103-2.145-mRNA-1.2;Parent=transcript:arcanus-sn_msk-S_103-2.145-mRNA-1
 scaffold_103	WormBase_imported	exon	369327	369347	.	-	.	ID=exon:arcanus-sn_msk-S_103-2.145-mRNA-1.3;Parent=transcript:arcanus-sn_msk-S_103-2.145-mRNA-1

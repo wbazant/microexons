@@ -1,5 +1,6 @@
 RSKR_scaffold0000004	WormBase_imported	gene	715989	724406	.	+	.	ID=gene:RSKR_0000435200;Name=RSKR_0000435200;biotype=protein_coding
 RSKR_scaffold0000004	WormBase_imported	mRNA	715989	724406	.	+	.	ID=transcript:RSKR_0000435200.1;Parent=gene:RSKR_0000435200;Name=RSKR_0000435200.1
+#microexons transcript:RSKR_0000435200.1:  190 165 167 21-21-18-18-24 144 111 90 105 420
 RSKR_scaffold0000004	WormBase_imported	exon	715989	716178	.	+	.	ID=exon:RSKR_0000435200.1.1;Parent=transcript:RSKR_0000435200.1
 RSKR_scaffold0000004	WormBase_imported	exon	716413	716577	.	+	.	ID=exon:RSKR_0000435200.1.2;Parent=transcript:RSKR_0000435200.1
 RSKR_scaffold0000004	WormBase_imported	exon	720141	720307	.	+	.	ID=exon:RSKR_0000435200.1.3;Parent=transcript:RSKR_0000435200.1

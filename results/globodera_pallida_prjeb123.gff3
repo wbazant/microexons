@@ -1,5 +1,6 @@
 pathogens_Gpal_scaffold_61	WormBase_imported	gene	198684	203741	.	-	.	ID=gene:GPLIN_000297100;Name=GPLIN_000297100;biotype=protein_coding
 pathogens_Gpal_scaffold_61	WormBase_imported	mRNA	198684	203741	.	-	.	ID=transcript:GPLIN_000297100;Parent=gene:GPLIN_000297100;Name=GPLIN_000297100
+#microexons transcript:GPLIN_000297100:  65 115 201 163 89 179 15 99 21-21-18-24-21-21-21-27 19
 pathogens_Gpal_scaffold_61	WormBase_imported	exon	203677	203741	.	-	.	ID=exon:GPLIN_000297100.1;Parent=transcript:GPLIN_000297100
 pathogens_Gpal_scaffold_61	WormBase_imported	exon	203477	203591	.	-	.	ID=exon:GPLIN_000297100.2;Parent=transcript:GPLIN_000297100
 pathogens_Gpal_scaffold_61	WormBase_imported	exon	203015	203215	.	-	.	ID=exon:GPLIN_000297100.3;Parent=transcript:GPLIN_000297100
@@ -36,6 +37,7 @@ pathogens_Gpal_scaffold_61	WormBase_imported	CDS	198777	198803	.	-	1	ID=cds:GPLI
 pathogens_Gpal_scaffold_61	WormBase_imported	CDS	198684	198702	.	-	1	ID=cds:GPLIN_000297100;Parent=transcript:GPLIN_000297100
 pathogens_Gpal_scaffold_1594	WormBase_imported	gene	4268	9929	.	-	.	ID=gene:GPLIN_001419400;Name=GPLIN_001419400;biotype=protein_coding
 pathogens_Gpal_scaffold_1594	WormBase_imported	mRNA	4268	9929	.	-	.	ID=transcript:GPLIN_001419400;Parent=gene:GPLIN_001419400;Name=GPLIN_001419400;info=method:InterPro accession:IPR000175 description:Sodium:neurotransmitter symporter %0Amethod:InterPro accession:IPR037272 description:Sodium:neurotransmitter symporter superfamily
+#microexons transcript:GPLIN_001419400:  67 130 24-24-24 95 130 70 67 97 79 53 48 79 165 105 22 6 93 217 142 57
 pathogens_Gpal_scaffold_1594	WormBase_imported	exon	9863	9929	.	-	.	ID=exon:GPLIN_001419400.1;Parent=transcript:GPLIN_001419400
 pathogens_Gpal_scaffold_1594	WormBase_imported	exon	9326	9455	.	-	.	ID=exon:GPLIN_001419400.2;Parent=transcript:GPLIN_001419400
 pathogens_Gpal_scaffold_1594	WormBase_imported	exon	8675	8698	.	-	.	ID=exon:GPLIN_001419400.3;Parent=transcript:GPLIN_001419400

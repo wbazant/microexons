@@ -1,5 +1,6 @@
 Backbone_851	WormBase_imported	gene	45406	48442	.	+	.	ID=gene:mbelari.g1902;Name=mbelari.g1902;biotype=protein_coding
 Backbone_851	WormBase_imported	mRNA	45406	48442	.	+	.	ID=transcript:mbelari.g1902.t1;Parent=gene:mbelari.g1902;Name=mbelari.g1902.t1
+#microexons transcript:mbelari.g1902.t1:  24-15-15 123 57 72 84 78 105 100 71 108 94 104 51
 Backbone_851	WormBase_imported	exon	45406	45429	.	+	.	ID=exon:mbelari.g1902.t1.1;Parent=transcript:mbelari.g1902.t1
 Backbone_851	WormBase_imported	exon	45472	45486	.	+	.	ID=exon:mbelari.g1902.t1.2;Parent=transcript:mbelari.g1902.t1
 Backbone_851	WormBase_imported	exon	45707	45721	.	+	.	ID=exon:mbelari.g1902.t1.3;Parent=transcript:mbelari.g1902.t1

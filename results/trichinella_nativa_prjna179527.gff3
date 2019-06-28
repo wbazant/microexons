@@ -1,5 +1,6 @@
 D917DFT_Contig22110	WormBase_imported	gene	67	788	.	-	.	ID=gene:D917_07755;Name=D917_07755;biotype=protein_coding
 D917DFT_Contig22110	WormBase_imported	mRNA	67	788	.	-	.	ID=transcript:D917_07755;Parent=gene:D917_07755;Name=D917_07755
+#microexons transcript:D917_07755:  24-6-6 11 16 11 149 263
 D917DFT_Contig22110	WormBase_imported	exon	765	788	.	-	.	ID=exon:D917_07755.1;Parent=transcript:D917_07755
 D917DFT_Contig22110	WormBase_imported	exon	729	734	.	-	.	ID=exon:D917_07755.2;Parent=transcript:D917_07755
 D917DFT_Contig22110	WormBase_imported	exon	711	716	.	-	.	ID=exon:D917_07755.3;Parent=transcript:D917_07755

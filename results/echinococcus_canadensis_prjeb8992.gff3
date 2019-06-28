@@ -1,5 +1,6 @@
 E.canG7_contigs_3896	WormBase_imported	gene	23520	25133	.	-	.	ID=gene:EcG7_01103;Name=EcG7_01103;biotype=protein_coding
 E.canG7_contigs_3896	WormBase_imported	mRNA	23520	25133	.	-	.	ID=transcript:maker-E.canG7_contigs_3896-pred_gff_cdna2genome-gene-0.166-mRNA-1;Parent=gene:EcG7_01103;Name=maker-E.canG7_contigs_3896-pred_gff_cdna2genome-gene-0.166-mRNA-1
+#microexons transcript:maker-E.canG7_contigs_3896-pred_gff_cdna2genome-gene-0.166-mRNA-1:  99 57 135 24-21-27 263
 E.canG7_contigs_3896	WormBase_imported	exon	25035	25133	.	-	.	ID=exon:maker-E.canG7_contigs_3896-pred_gff_cdna2genome-gene-0.166-mRNA-1.1;Parent=transcript:maker-E.canG7_contigs_3896-pred_gff_cdna2genome-gene-0.166-mRNA-1
 E.canG7_contigs_3896	WormBase_imported	exon	24699	24755	.	-	.	ID=exon:maker-E.canG7_contigs_3896-pred_gff_cdna2genome-gene-0.166-mRNA-1.2;Parent=transcript:maker-E.canG7_contigs_3896-pred_gff_cdna2genome-gene-0.166-mRNA-1
 E.canG7_contigs_3896	WormBase_imported	exon	24475	24609	.	-	.	ID=exon:maker-E.canG7_contigs_3896-pred_gff_cdna2genome-gene-0.166-mRNA-1.3;Parent=transcript:maker-E.canG7_contigs_3896-pred_gff_cdna2genome-gene-0.166-mRNA-1
@@ -18,6 +19,7 @@ E.canG7_contigs_3896	WormBase_imported	CDS	23580	23782	.	-	2	ID=cds:maker-E.canG
 E.canG7_contigs_3896	WormBase_imported	three_prime_UTR	23520	23579	.	-	.	Parent=transcript:maker-E.canG7_contigs_3896-pred_gff_cdna2genome-gene-0.166-mRNA-1
 E.canG7_contigs_1413	WormBase_imported	gene	31682	39998	.	+	.	ID=gene:EcG7_04413;Name=EcG7_04413;biotype=protein_coding
 E.canG7_contigs_1413	WormBase_imported	mRNA	31682	39998	.	+	.	ID=transcript:maker-E.canG7_contigs_1413-pred_gff_cdna2genome-gene-0.91-mRNA-1;Parent=gene:EcG7_04413;Name=maker-E.canG7_contigs_1413-pred_gff_cdna2genome-gene-0.91-mRNA-1;info=method:InterPro accession:IPR013087 description:Zinc finger C2H2-type %0Amethod:InterPro accession:IPR036236 description:Zinc finger C2H2 superfamily
+#microexons transcript:maker-E.canG7_contigs_1413-pred_gff_cdna2genome-gene-0.91-mRNA-1:  416 36 24-27-15 81 87 87 81 90 87 87 87 96 117 75 57 87 87 87 87 51 339 45 60 170
 E.canG7_contigs_1413	WormBase_imported	exon	31682	32097	.	+	.	ID=exon:maker-E.canG7_contigs_1413-pred_gff_cdna2genome-gene-0.91-mRNA-1.1;Parent=transcript:maker-E.canG7_contigs_1413-pred_gff_cdna2genome-gene-0.91-mRNA-1
 E.canG7_contigs_1413	WormBase_imported	exon	32180	32215	.	+	.	ID=exon:maker-E.canG7_contigs_1413-pred_gff_cdna2genome-gene-0.91-mRNA-1.2;Parent=transcript:maker-E.canG7_contigs_1413-pred_gff_cdna2genome-gene-0.91-mRNA-1
 E.canG7_contigs_1413	WormBase_imported	exon	32536	32559	.	+	.	ID=exon:maker-E.canG7_contigs_1413-pred_gff_cdna2genome-gene-0.91-mRNA-1.3;Parent=transcript:maker-E.canG7_contigs_1413-pred_gff_cdna2genome-gene-0.91-mRNA-1
@@ -73,6 +75,7 @@ E.canG7_contigs_1413	WormBase_imported	CDS	38581	38640	.	+	2	ID=cds:maker-E.canG
 E.canG7_contigs_1413	WormBase_imported	CDS	39829	39998	.	+	2	ID=cds:maker-E.canG7_contigs_1413-pred_gff_cdna2genome-gene-0.91-mRNA-1;Parent=transcript:maker-E.canG7_contigs_1413-pred_gff_cdna2genome-gene-0.91-mRNA-1
 E.canG7_contigs_8351	WormBase_imported	gene	41486	44637	.	+	.	ID=gene:EcG7_05445;Name=EcG7_05445;biotype=protein_coding
 E.canG7_contigs_8351	WormBase_imported	mRNA	41486	44637	.	+	.	ID=transcript:maker-E.canG7_contigs_8351-pred_gff_cdna2genome-gene-0.74-mRNA-1;Parent=gene:EcG7_05445;Name=maker-E.canG7_contigs_8351-pred_gff_cdna2genome-gene-0.74-mRNA-1
+#microexons transcript:maker-E.canG7_contigs_8351-pred_gff_cdna2genome-gene-0.74-mRNA-1:  136 30-18-15-27-27-27 51 143
 E.canG7_contigs_8351	WormBase_imported	exon	41486	41621	.	+	.	ID=exon:maker-E.canG7_contigs_8351-pred_gff_cdna2genome-gene-0.74-mRNA-1.1;Parent=transcript:maker-E.canG7_contigs_8351-pred_gff_cdna2genome-gene-0.74-mRNA-1
 E.canG7_contigs_8351	WormBase_imported	exon	41788	41817	.	+	.	ID=exon:maker-E.canG7_contigs_8351-pred_gff_cdna2genome-gene-0.74-mRNA-1.2;Parent=transcript:maker-E.canG7_contigs_8351-pred_gff_cdna2genome-gene-0.74-mRNA-1
 E.canG7_contigs_8351	WormBase_imported	exon	42013	42030	.	+	.	ID=exon:maker-E.canG7_contigs_8351-pred_gff_cdna2genome-gene-0.74-mRNA-1.3;Parent=transcript:maker-E.canG7_contigs_8351-pred_gff_cdna2genome-gene-0.74-mRNA-1
@@ -94,6 +97,7 @@ E.canG7_contigs_8351	WormBase_imported	CDS	44495	44547	.	+	2	ID=cds:maker-E.canG
 E.canG7_contigs_8351	WormBase_imported	three_prime_UTR	44548	44637	.	+	.	Parent=transcript:maker-E.canG7_contigs_8351-pred_gff_cdna2genome-gene-0.74-mRNA-1
 E.canG7_contigs_3727	WormBase_imported	gene	12168	15875	.	-	.	ID=gene:EcG7_08612;Name=EcG7_08612;biotype=protein_coding
 E.canG7_contigs_3727	WormBase_imported	mRNA	12168	15875	.	-	.	ID=transcript:maker-E.canG7_contigs_3727-pred_gff_cdna2genome-gene-0.23-mRNA-1;Parent=gene:EcG7_08612;Name=maker-E.canG7_contigs_3727-pred_gff_cdna2genome-gene-0.23-mRNA-1
+#microexons transcript:maker-E.canG7_contigs_3727-pred_gff_cdna2genome-gene-0.23-mRNA-1:  129 106 123 104 79 132 30-18-18-27 99
 E.canG7_contigs_3727	WormBase_imported	exon	15747	15875	.	-	.	ID=exon:maker-E.canG7_contigs_3727-pred_gff_cdna2genome-gene-0.23-mRNA-1.1;Parent=transcript:maker-E.canG7_contigs_3727-pred_gff_cdna2genome-gene-0.23-mRNA-1
 E.canG7_contigs_3727	WormBase_imported	exon	15430	15535	.	-	.	ID=exon:maker-E.canG7_contigs_3727-pred_gff_cdna2genome-gene-0.23-mRNA-1.2;Parent=transcript:maker-E.canG7_contigs_3727-pred_gff_cdna2genome-gene-0.23-mRNA-1
 E.canG7_contigs_3727	WormBase_imported	exon	15076	15198	.	-	.	ID=exon:maker-E.canG7_contigs_3727-pred_gff_cdna2genome-gene-0.23-mRNA-1.3;Parent=transcript:maker-E.canG7_contigs_3727-pred_gff_cdna2genome-gene-0.23-mRNA-1

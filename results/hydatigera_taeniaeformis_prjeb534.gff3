@@ -1,5 +1,6 @@
 TTAC_contig0000240	WormBase_imported	gene	7847	14299	.	-	.	ID=gene:TTAC_0000126601;Name=TTAC_0000126601;biotype=protein_coding
 TTAC_contig0000240	WormBase_imported	mRNA	7847	14299	.	-	.	ID=transcript:TTAC_0000126601-mRNA-1;Parent=gene:TTAC_0000126601;Name=TTAC_0000126601-mRNA-1
+#microexons transcript:TTAC_0000126601-mRNA-1:  25 99 93 87 129 187 33 135 30 578 63 201 51 48 60 132 30-24-24 39 128 267 33 52 122
 TTAC_contig0000240	WormBase_imported	exon	14275	14299	.	-	.	ID=exon:TTAC_0000126601-mRNA-1.1;Parent=transcript:TTAC_0000126601-mRNA-1
 TTAC_contig0000240	WormBase_imported	exon	14104	14202	.	-	.	ID=exon:TTAC_0000126601-mRNA-1.2;Parent=transcript:TTAC_0000126601-mRNA-1
 TTAC_contig0000240	WormBase_imported	exon	13787	13879	.	-	.	ID=exon:TTAC_0000126601-mRNA-1.3;Parent=transcript:TTAC_0000126601-mRNA-1

@@ -1,5 +1,6 @@
 scaffold2s	WormBase_imported	gene	194161	199203	.	+	.	ID=gene:T08_14321;Name=T08_14321;biotype=protein_coding
 scaffold2s	WormBase_imported	mRNA	194161	199203	.	+	.	ID=transcript:T08_14321.1;Parent=gene:T08_14321;Name=T08_14321.1
+#microexons transcript:T08_14321.1:  21-27-9 80 41 43 40 46 35 60
 scaffold2s	WormBase_imported	exon	194161	194181	.	+	.	ID=exon:T08_14321.1.1;Parent=transcript:T08_14321.1
 scaffold2s	WormBase_imported	exon	195168	195194	.	+	.	ID=exon:T08_14321.1.2;Parent=transcript:T08_14321.1
 scaffold2s	WormBase_imported	exon	195373	195381	.	+	.	ID=exon:T08_14321.1.3;Parent=transcript:T08_14321.1
@@ -22,6 +23,7 @@ scaffold2s	WormBase_imported	CDS	199086	199120	.	+	2	ID=cds:T08_14321.1;Parent=t
 scaffold2s	WormBase_imported	CDS	199144	199203	.	+	0	ID=cds:T08_14321.1;Parent=transcript:T08_14321.1
 scaffold3s	WormBase_imported	gene	389557	394067	.	-	.	ID=gene:T08_5819;Name=T08_5819;biotype=protein_coding
 scaffold3s	WormBase_imported	mRNA	389557	394067	.	-	.	ID=transcript:T08_5819.1;Parent=gene:T08_5819;Name=T08_5819.1
+#microexons transcript:T08_5819.1:  4 46 82 63 90 26 21-6-27 40
 scaffold3s	WormBase_imported	exon	394064	394067	.	-	.	ID=exon:T08_5819.1.1;Parent=transcript:T08_5819.1
 scaffold3s	WormBase_imported	exon	393907	393952	.	-	.	ID=exon:T08_5819.1.2;Parent=transcript:T08_5819.1
 scaffold3s	WormBase_imported	exon	393749	393830	.	-	.	ID=exon:T08_5819.1.3;Parent=transcript:T08_5819.1
@@ -44,6 +46,7 @@ scaffold3s	WormBase_imported	CDS	390938	390964	.	-	1	ID=cds:T08_5819.1;Parent=tr
 scaffold3s	WormBase_imported	CDS	389557	389596	.	-	1	ID=cds:T08_5819.1;Parent=transcript:T08_5819.1
 scaffold10s	WormBase_imported	gene	212650	215513	.	+	.	ID=gene:T08_9107;Name=T08_9107;biotype=protein_coding;description=Deoxyribonuclease-2-alpha;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0V1PHY0;locus=DNASE2
 scaffold10s	WormBase_imported	mRNA	212650	215513	.	+	.	ID=transcript:T08_9107.1;Parent=gene:T08_9107;Name=T08_9107.1;info=method:InterPro accession:IPR004947 description:Deoxyribonuclease II
+#microexons transcript:T08_9107.1:  13 92 196 171 204 227 84 30-12-27
 scaffold10s	WormBase_imported	exon	212650	212662	.	+	.	ID=exon:T08_9107.1.1;Parent=transcript:T08_9107.1
 scaffold10s	WormBase_imported	exon	213031	213122	.	+	.	ID=exon:T08_9107.1.2;Parent=transcript:T08_9107.1
 scaffold10s	WormBase_imported	exon	213495	213690	.	+	.	ID=exon:T08_9107.1.3;Parent=transcript:T08_9107.1
@@ -66,6 +69,7 @@ scaffold10s	WormBase_imported	CDS	215326	215337	.	+	0	ID=cds:T08_9107.1;Parent=t
 scaffold10s	WormBase_imported	CDS	215487	215513	.	+	0	ID=cds:T08_9107.1;Parent=transcript:T08_9107.1
 scaffold22s	WormBase_imported	gene	139031	140548	.	+	.	ID=gene:T08_9886;Name=T08_9886;biotype=protein_coding
 scaffold22s	WormBase_imported	mRNA	139031	140548	.	+	.	ID=transcript:T08_9886.1;Parent=gene:T08_9886;Name=T08_9886.1
+#microexons transcript:T08_9886.1:  18 155 29 71 36 27-30-18
 scaffold22s	WormBase_imported	exon	139031	139048	.	+	.	ID=exon:T08_9886.1.1;Parent=transcript:T08_9886.1
 scaffold22s	WormBase_imported	exon	139161	139315	.	+	.	ID=exon:T08_9886.1.2;Parent=transcript:T08_9886.1
 scaffold22s	WormBase_imported	exon	139717	139745	.	+	.	ID=exon:T08_9886.1.3;Parent=transcript:T08_9886.1
@@ -84,6 +88,7 @@ scaffold22s	WormBase_imported	CDS	140467	140496	.	+	0	ID=cds:T08_9886.1;Parent=t
 scaffold22s	WormBase_imported	CDS	140531	140548	.	+	0	ID=cds:T08_9886.1;Parent=transcript:T08_9886.1
 scaffold48s	WormBase_imported	gene	146448	147069	.	-	.	ID=gene:T08_12962;Name=T08_12962;biotype=protein_coding
 scaffold48s	WormBase_imported	mRNA	146448	147069	.	-	.	ID=transcript:T08_12962.1;Parent=gene:T08_12962;Name=T08_12962.1
+#microexons transcript:T08_12962.1:  24 111 24-6-27
 scaffold48s	WormBase_imported	exon	147046	147069	.	-	.	ID=exon:T08_12962.1.1;Parent=transcript:T08_12962.1
 scaffold48s	WormBase_imported	exon	146832	146942	.	-	.	ID=exon:T08_12962.1.2;Parent=transcript:T08_12962.1
 scaffold48s	WormBase_imported	exon	146726	146749	.	-	.	ID=exon:T08_12962.1.3;Parent=transcript:T08_12962.1
@@ -96,6 +101,7 @@ scaffold48s	WormBase_imported	CDS	146665	146670	.	-	0	ID=cds:T08_12962.1;Parent=
 scaffold48s	WormBase_imported	CDS	146448	146474	.	-	0	ID=cds:T08_12962.1;Parent=transcript:T08_12962.1
 scaffold51s	WormBase_imported	gene	206398	209708	.	+	.	ID=gene:T08_7171;Name=T08_7171;biotype=protein_coding
 scaffold51s	WormBase_imported	mRNA	206398	209708	.	+	.	ID=transcript:T08_7171.1;Parent=gene:T08_7171;Name=T08_7171.1
+#microexons transcript:T08_7171.1:  6 36 24-27 81 18-21-12
 scaffold51s	WormBase_imported	exon	206398	206403	.	+	.	ID=exon:T08_7171.1.1;Parent=transcript:T08_7171.1
 scaffold51s	WormBase_imported	exon	206832	206867	.	+	.	ID=exon:T08_7171.1.2;Parent=transcript:T08_7171.1
 scaffold51s	WormBase_imported	exon	207175	207198	.	+	.	ID=exon:T08_7171.1.3;Parent=transcript:T08_7171.1
@@ -114,6 +120,7 @@ scaffold51s	WormBase_imported	CDS	209429	209449	.	+	0	ID=cds:T08_7171.1;Parent=t
 scaffold51s	WormBase_imported	CDS	209697	209708	.	+	0	ID=cds:T08_7171.1;Parent=transcript:T08_7171.1
 scaffold54s	WormBase_imported	gene	250505	251198	.	+	.	ID=gene:T08_12029;Name=T08_12029;biotype=protein_coding
 scaffold54s	WormBase_imported	mRNA	250505	251198	.	+	.	ID=transcript:T08_12029.1;Parent=gene:T08_12029;Name=T08_12029.1
+#microexons transcript:T08_12029.1:  21-6-6-6-6 165
 scaffold54s	WormBase_imported	exon	250505	250525	.	+	.	ID=exon:T08_12029.1.1;Parent=transcript:T08_12029.1
 scaffold54s	WormBase_imported	exon	250675	250680	.	+	.	ID=exon:T08_12029.1.2;Parent=transcript:T08_12029.1
 scaffold54s	WormBase_imported	exon	250751	250756	.	+	.	ID=exon:T08_12029.1.3;Parent=transcript:T08_12029.1
@@ -128,6 +135,7 @@ scaffold54s	WormBase_imported	CDS	250824	250829	.	+	0	ID=cds:T08_12029.1;Parent=
 scaffold54s	WormBase_imported	CDS	251034	251198	.	+	0	ID=cds:T08_12029.1;Parent=transcript:T08_12029.1
 scaffold97s	WormBase_imported	gene	129276	130879	.	+	.	ID=gene:T08_10188;Name=T08_10188;biotype=protein_coding
 scaffold97s	WormBase_imported	mRNA	129276	130879	.	+	.	ID=transcript:T08_10188.1;Parent=gene:T08_10188;Name=T08_10188.1
+#microexons transcript:T08_10188.1:  15 44 48 16 18-30-9
 scaffold97s	WormBase_imported	exon	129276	129290	.	+	.	ID=exon:T08_10188.1.1;Parent=transcript:T08_10188.1
 scaffold97s	WormBase_imported	exon	129705	129748	.	+	.	ID=exon:T08_10188.1.2;Parent=transcript:T08_10188.1
 scaffold97s	WormBase_imported	exon	129782	129829	.	+	.	ID=exon:T08_10188.1.3;Parent=transcript:T08_10188.1
@@ -144,6 +152,7 @@ scaffold97s	WormBase_imported	CDS	130638	130667	.	+	0	ID=cds:T08_10188.1;Parent=
 scaffold97s	WormBase_imported	CDS	130871	130879	.	+	0	ID=cds:T08_10188.1;Parent=transcript:T08_10188.1
 scaffold100s	WormBase_imported	gene	166154	167502	.	-	.	ID=gene:T08_2781;Name=T08_2781;biotype=protein_coding
 scaffold100s	WormBase_imported	mRNA	166154	167502	.	-	.	ID=transcript:T08_2781.1;Parent=gene:T08_2781;Name=T08_2781.1
+#microexons transcript:T08_2781.1:  15-12-24 20 159 168 34
 scaffold100s	WormBase_imported	exon	167488	167502	.	-	.	ID=exon:T08_2781.1.1;Parent=transcript:T08_2781.1
 scaffold100s	WormBase_imported	exon	167415	167426	.	-	.	ID=exon:T08_2781.1.2;Parent=transcript:T08_2781.1
 scaffold100s	WormBase_imported	exon	167287	167310	.	-	.	ID=exon:T08_2781.1.3;Parent=transcript:T08_2781.1
@@ -160,8 +169,11 @@ scaffold100s	WormBase_imported	CDS	166302	166469	.	-	1	ID=cds:T08_2781.1;Parent=
 scaffold100s	WormBase_imported	CDS	166154	166187	.	-	1	ID=cds:T08_2781.1;Parent=transcript:T08_2781.1
 scaffold196s	WormBase_imported	gene	12226	15532	.	+	.	ID=gene:T08_2384;Name=T08_2384;biotype=protein_coding;description=N-terminal Xaa-Pro-Lys N-methyltransferase 1;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0V1NIJ9;locus=NTMT1
 scaffold196s	WormBase_imported	mRNA	12226	15532	.	+	.	ID=transcript:T08_2384.1;Parent=gene:T08_2384;Name=T08_2384.1;info=method:InterPro accession:IPR004323 description:Divalent ion tolerance protein%2C CutA %0Amethod:InterPro accession:IPR008576 description:Alpha-N-methyltransferase NTM1 %0Amethod:InterPro accession:IPR011322 description:Nitrogen regulatory PII-like%2C alpha/beta %0Amethod:InterPro accession:IPR029063 description:S-adenosyl-L-methionine-dependent methyltransferase
+#microexons transcript:T08_2384.1:  27 60 60 116 60 144 120 460 950 30-18
 scaffold196s	WormBase_imported	mRNA	12226	15347	.	+	.	ID=transcript:T08_2384.2;Parent=gene:T08_2384;Name=T08_2384.2;info=method:InterPro accession:IPR004323 description:Divalent ion tolerance protein%2C CutA %0Amethod:InterPro accession:IPR008576 description:Alpha-N-methyltransferase NTM1 %0Amethod:InterPro accession:IPR011322 description:Nitrogen regulatory PII-like%2C alpha/beta %0Amethod:InterPro accession:IPR015867 description:Nitrogen regulatory protein PII/ATP phosphoribosyltransferase%2C C-terminal %0Amethod:InterPro accession:IPR029063 description:S-adenosyl-L-methionine-dependent methyltransferase
+#microexons transcript:T08_2384.2:  27 60 60 136 60 139 84 159 1718
 scaffold196s	WormBase_imported	mRNA	12226	15347	.	+	.	ID=transcript:T08_2384.3;Parent=gene:T08_2384;Name=T08_2384.3;info=method:InterPro accession:IPR004323 description:Divalent ion tolerance protein%2C CutA %0Amethod:InterPro accession:IPR008576 description:Alpha-N-methyltransferase NTM1 %0Amethod:InterPro accession:IPR011322 description:Nitrogen regulatory PII-like%2C alpha/beta %0Amethod:InterPro accession:IPR015867 description:Nitrogen regulatory protein PII/ATP phosphoribosyltransferase%2C C-terminal %0Amethod:InterPro accession:IPR029063 description:S-adenosyl-L-methionine-dependent methyltransferase
+#microexons transcript:T08_2384.3:  27 60 136 60 139 84 159 1718
 scaffold196s	WormBase_imported	exon	12226	12252	.	+	.	ID=exon:T08_2384.1.1;Parent=transcript:T08_2384.1
 scaffold196s	WormBase_imported	exon	12311	12370	.	+	.	ID=exon:T08_2384.1.2;Parent=transcript:T08_2384.1
 scaffold196s	WormBase_imported	exon	12539	12598	.	+	.	ID=exon:T08_2384.1.3;Parent=transcript:T08_2384.1

@@ -1,5 +1,6 @@
 scaffold19s	WormBase_imported	gene	106842	110877	.	+	.	ID=gene:T02_15317;Name=T02_15317;biotype=protein_coding
 scaffold19s	WormBase_imported	mRNA	106842	110877	.	+	.	ID=transcript:T02_15317.1;Parent=gene:T02_15317;Name=T02_15317.1
+#microexons transcript:T02_15317.1:  67 97 21-15-30 25 24
 scaffold19s	WormBase_imported	exon	106842	106908	.	+	.	ID=exon:T02_15317.1.1;Parent=transcript:T02_15317.1
 scaffold19s	WormBase_imported	exon	107084	107180	.	+	.	ID=exon:T02_15317.1.2;Parent=transcript:T02_15317.1
 scaffold19s	WormBase_imported	exon	107269	107289	.	+	.	ID=exon:T02_15317.1.3;Parent=transcript:T02_15317.1
@@ -16,6 +17,7 @@ scaffold19s	WormBase_imported	CDS	109869	109893	.	+	1	ID=cds:T02_15317.1;Parent=
 scaffold19s	WormBase_imported	CDS	110854	110877	.	+	0	ID=cds:T02_15317.1;Parent=transcript:T02_15317.1
 scaffold19s	WormBase_imported	gene	191327	195789	.	+	.	ID=gene:T02_16085;Name=T02_16085;biotype=protein_coding
 scaffold19s	WormBase_imported	mRNA	191327	195789	.	+	.	ID=transcript:T02_16085.1;Parent=gene:T02_16085;Name=T02_16085.1
+#microexons transcript:T02_16085.1:  81 18 114 24-12-27
 scaffold19s	WormBase_imported	exon	191327	191407	.	+	.	ID=exon:T02_16085.1.1;Parent=transcript:T02_16085.1
 scaffold19s	WormBase_imported	exon	192158	192175	.	+	.	ID=exon:T02_16085.1.2;Parent=transcript:T02_16085.1
 scaffold19s	WormBase_imported	exon	192362	192475	.	+	.	ID=exon:T02_16085.1.3;Parent=transcript:T02_16085.1
@@ -30,6 +32,7 @@ scaffold19s	WormBase_imported	CDS	195672	195683	.	+	0	ID=cds:T02_16085.1;Parent=
 scaffold19s	WormBase_imported	CDS	195763	195789	.	+	0	ID=cds:T02_16085.1;Parent=transcript:T02_16085.1
 scaffold19s	WormBase_imported	gene	231159	234050	.	-	.	ID=gene:T02_1054;Name=T02_1054;biotype=protein_coding
 scaffold19s	WormBase_imported	mRNA	231159	234050	.	-	.	ID=transcript:T02_1054.1;Parent=gene:T02_1054;Name=T02_1054.1
+#microexons transcript:T02_1054.1:  6-9-18 19 34 31 81
 scaffold19s	WormBase_imported	exon	234045	234050	.	-	.	ID=exon:T02_1054.1.1;Parent=transcript:T02_1054.1
 scaffold19s	WormBase_imported	exon	234010	234018	.	-	.	ID=exon:T02_1054.1.2;Parent=transcript:T02_1054.1
 scaffold19s	WormBase_imported	exon	233886	233903	.	-	.	ID=exon:T02_1054.1.3;Parent=transcript:T02_1054.1
@@ -46,6 +49,7 @@ scaffold19s	WormBase_imported	CDS	232502	232532	.	-	1	ID=cds:T02_1054.1;Parent=t
 scaffold19s	WormBase_imported	CDS	231159	231239	.	-	0	ID=cds:T02_1054.1;Parent=transcript:T02_1054.1
 scaffold66s	WormBase_imported	gene	161043	162769	.	+	.	ID=gene:T02_7369;Name=T02_7369;biotype=protein_coding
 scaffold66s	WormBase_imported	mRNA	161043	162769	.	+	.	ID=transcript:T02_7369.1;Parent=gene:T02_7369;Name=T02_7369.1
+#microexons transcript:T02_7369.1:  19 66 50 42 27-6-12
 scaffold66s	WormBase_imported	exon	161043	161061	.	+	.	ID=exon:T02_7369.1.1;Parent=transcript:T02_7369.1
 scaffold66s	WormBase_imported	exon	161237	161302	.	+	.	ID=exon:T02_7369.1.2;Parent=transcript:T02_7369.1
 scaffold66s	WormBase_imported	exon	161360	161409	.	+	.	ID=exon:T02_7369.1.3;Parent=transcript:T02_7369.1
@@ -62,6 +66,7 @@ scaffold66s	WormBase_imported	CDS	162628	162633	.	+	0	ID=cds:T02_7369.1;Parent=t
 scaffold66s	WormBase_imported	CDS	162758	162769	.	+	0	ID=cds:T02_7369.1;Parent=transcript:T02_7369.1
 scaffold66s	WormBase_imported	gene	172795	176173	.	-	.	ID=gene:T02_1655;Name=T02_1655;biotype=protein_coding
 scaffold66s	WormBase_imported	mRNA	172795	176173	.	-	.	ID=transcript:T02_1655.1;Parent=gene:T02_1655;Name=T02_1655.1
+#microexons transcript:T02_1655.1:  108 77 163 109 76 43 104 8 66 50 42 27-6-12
 scaffold66s	WormBase_imported	exon	176066	176173	.	-	.	ID=exon:T02_1655.1.1;Parent=transcript:T02_1655.1
 scaffold66s	WormBase_imported	exon	175921	175997	.	-	.	ID=exon:T02_1655.1.2;Parent=transcript:T02_1655.1
 scaffold66s	WormBase_imported	exon	175735	175897	.	-	.	ID=exon:T02_1655.1.3;Parent=transcript:T02_1655.1
@@ -92,6 +97,7 @@ scaffold66s	WormBase_imported	CDS	172931	172936	.	-	0	ID=cds:T02_1655.1;Parent=t
 scaffold66s	WormBase_imported	CDS	172795	172806	.	-	0	ID=cds:T02_1655.1;Parent=transcript:T02_1655.1
 scaffold201s	WormBase_imported	gene	33177	33936	.	+	.	ID=gene:T02_10343;Name=T02_10343;biotype=protein_coding
 scaffold201s	WormBase_imported	mRNA	33177	33936	.	+	.	ID=transcript:T02_10343.1;Parent=gene:T02_10343;Name=T02_10343.1
+#microexons transcript:T02_10343.1:  9-24-24 182 118
 scaffold201s	WormBase_imported	exon	33177	33185	.	+	.	ID=exon:T02_10343.1.1;Parent=transcript:T02_10343.1
 scaffold201s	WormBase_imported	exon	33259	33282	.	+	.	ID=exon:T02_10343.1.2;Parent=transcript:T02_10343.1
 scaffold201s	WormBase_imported	exon	33541	33564	.	+	.	ID=exon:T02_10343.1.3;Parent=transcript:T02_10343.1
@@ -104,6 +110,7 @@ scaffold201s	WormBase_imported	CDS	33596	33777	.	+	0	ID=cds:T02_10343.1;Parent=t
 scaffold201s	WormBase_imported	CDS	33819	33936	.	+	1	ID=cds:T02_10343.1;Parent=transcript:T02_10343.1
 scaffold361s	WormBase_imported	gene	13299	16604	.	+	.	ID=gene:T02_7473;Name=T02_7473;biotype=protein_coding
 scaffold361s	WormBase_imported	mRNA	13299	16604	.	+	.	ID=transcript:T02_7473.1;Parent=gene:T02_7473;Name=T02_7473.1
+#microexons transcript:T02_7473.1:  6 36 71 70 81 18-21-12
 scaffold361s	WormBase_imported	exon	13299	13304	.	+	.	ID=exon:T02_7473.1.1;Parent=transcript:T02_7473.1
 scaffold361s	WormBase_imported	exon	13730	13765	.	+	.	ID=exon:T02_7473.1.2;Parent=transcript:T02_7473.1
 scaffold361s	WormBase_imported	exon	14072	14142	.	+	.	ID=exon:T02_7473.1.3;Parent=transcript:T02_7473.1
@@ -122,6 +129,7 @@ scaffold361s	WormBase_imported	CDS	16331	16351	.	+	0	ID=cds:T02_7473.1;Parent=tr
 scaffold361s	WormBase_imported	CDS	16593	16604	.	+	0	ID=cds:T02_7473.1;Parent=transcript:T02_7473.1
 scaffold601s	WormBase_imported	gene	1264	3933	.	+	.	ID=gene:T02_557;Name=T02_557;biotype=protein_coding
 scaffold601s	WormBase_imported	mRNA	1264	3933	.	+	.	ID=transcript:T02_557.1;Parent=gene:T02_557;Name=T02_557.1
+#microexons transcript:T02_557.1:  16 92 186 21-15-12 200 67
 scaffold601s	WormBase_imported	exon	1264	1279	.	+	.	ID=exon:T02_557.1.1;Parent=transcript:T02_557.1
 scaffold601s	WormBase_imported	exon	1980	2071	.	+	.	ID=exon:T02_557.1.2;Parent=transcript:T02_557.1
 scaffold601s	WormBase_imported	exon	2437	2622	.	+	.	ID=exon:T02_557.1.3;Parent=transcript:T02_557.1
@@ -148,6 +156,7 @@ scaffold601s	dust	low_complexity_region	3842	3861	.	-	.
 scaffold601s	trf	tandem_repeat	3842	3861	40	-	.	
 scaffold709s	WormBase_imported	gene	126	2161	.	+	.	ID=gene:T02_1590;Name=T02_1590;biotype=protein_coding
 scaffold709s	WormBase_imported	mRNA	126	2161	.	+	.	ID=transcript:T02_1590.1;Parent=gene:T02_1590;Name=T02_1590.1
+#microexons transcript:T02_1590.1:  28 86 31 27 57 27-30-27-27 55
 scaffold709s	WormBase_imported	exon	126	153	.	+	.	ID=exon:T02_1590.1.1;Parent=transcript:T02_1590.1
 scaffold709s	WormBase_imported	exon	300	385	.	+	.	ID=exon:T02_1590.1.2;Parent=transcript:T02_1590.1
 scaffold709s	WormBase_imported	exon	417	447	.	+	.	ID=exon:T02_1590.1.3;Parent=transcript:T02_1590.1
@@ -180,6 +189,7 @@ scaffold711s	trf	tandem_repeat	1773	1818	55	-	.
 scaffold711s	dust	low_complexity_region	1774	1841	.	-	.	
 scaffold781s	WormBase_imported	gene	93	1460	.	+	.	ID=gene:T02_11433;Name=T02_11433;biotype=protein_coding
 scaffold781s	WormBase_imported	mRNA	93	1460	.	+	.	ID=transcript:T02_11433.1;Parent=gene:T02_11433;Name=T02_11433.1
+#microexons transcript:T02_11433.1:  78 27-30-27-27 135 66
 scaffold781s	WormBase_imported	exon	93	170	.	+	.	ID=exon:T02_11433.1.1;Parent=transcript:T02_11433.1
 scaffold781s	WormBase_imported	exon	444	470	.	+	.	ID=exon:T02_11433.1.2;Parent=transcript:T02_11433.1
 scaffold781s	WormBase_imported	exon	502	531	.	+	.	ID=exon:T02_11433.1.3;Parent=transcript:T02_11433.1
@@ -203,6 +213,7 @@ scaffold781s	dust	low_complexity_region	765	799	.	-	.
 scaffold781s	dust	low_complexity_region	1490	1496	.	-	.	
 scaffold825s	WormBase_imported	gene	99	1285	.	-	.	ID=gene:T02_11226;Name=T02_11226;biotype=protein_coding
 scaffold825s	WormBase_imported	mRNA	99	1285	.	-	.	ID=transcript:T02_11226.1;Parent=gene:T02_11226;Name=T02_11226.1
+#microexons transcript:T02_11226.1:  69 30-30-27 69 27-27
 scaffold825s	WormBase_imported	exon	1217	1285	.	-	.	ID=exon:T02_11226.1.1;Parent=transcript:T02_11226.1
 scaffold825s	WormBase_imported	exon	1100	1129	.	-	.	ID=exon:T02_11226.1.2;Parent=transcript:T02_11226.1
 scaffold825s	WormBase_imported	exon	868	897	.	-	.	ID=exon:T02_11226.1.3;Parent=transcript:T02_11226.1

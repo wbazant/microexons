@@ -1,5 +1,6 @@
 scaffold9741_cov218	WormBase_imported	gene	5518	11368	.	+	.	ID=gene:scaffold9741_cov218.g14221;Name=scaffold9741_cov218.g14221;biotype=protein_coding
 scaffold9741_cov218	WormBase_imported	mRNA	5518	11368	.	+	.	ID=transcript:scaffold9741_cov218.g14221;Parent=gene:scaffold9741_cov218.g14221;Name=scaffold9741_cov218.g14221;info=method:InterPro accession:IPR011990 description:Tetratricopeptide-like helical domain superfamily %0Amethod:InterPro accession:IPR013026 description:Tetratricopeptide repeat-containing domain %0Amethod:InterPro accession:IPR019734 description:Tetratricopeptide repeat
+#microexons transcript:scaffold9741_cov218.g14221:  130 115 163 175 50 246 150 300 120 54 70 53 267 126 96 125 24-24-24 75 22 41 66 156 61
 scaffold9741_cov218	WormBase_imported	exon	5518	5647	.	+	.	ID=exon:scaffold9741_cov218.g14221.1;Parent=transcript:scaffold9741_cov218.g14221
 scaffold9741_cov218	WormBase_imported	exon	5688	5802	.	+	.	ID=exon:scaffold9741_cov218.g14221.2;Parent=transcript:scaffold9741_cov218.g14221
 scaffold9741_cov218	WormBase_imported	exon	6100	6262	.	+	.	ID=exon:scaffold9741_cov218.g14221.3;Parent=transcript:scaffold9741_cov218.g14221
@@ -52,6 +53,7 @@ scaffold9741_cov218	WormBase_imported	CDS	11078	11233	.	+	1	ID=cds:scaffold9741_
 scaffold9741_cov218	WormBase_imported	CDS	11308	11368	.	+	1	ID=cds:scaffold9741_cov218.g14221;Parent=transcript:scaffold9741_cov218.g14221
 scaffold24281_cov262	WormBase_imported	gene	1848	2704	.	-	.	ID=gene:scaffold24281_cov262.g20244;Name=scaffold24281_cov262.g20244;biotype=protein_coding
 scaffold24281_cov262	WormBase_imported	mRNA	1848	2704	.	-	.	ID=transcript:scaffold24281_cov262.g20244;Parent=gene:scaffold24281_cov262.g20244;Name=scaffold24281_cov262.g20244;info=method:InterPro accession:IPR001356 description:Homeobox domain %0Amethod:InterPro accession:IPR009057 description:Homeobox-like domain superfamily %0Amethod:InterPro accession:IPR017970 description:Homeobox%2C conserved site %0Amethod:InterPro accession:IPR031701 description:Homeobox protein SIX1%2C N-terminal SD domain
+#microexons transcript:scaffold24281_cov262.g20244:  30-30-24 96 165
 scaffold24281_cov262	WormBase_imported	exon	2675	2704	.	-	.	ID=exon:scaffold24281_cov262.g20244.1;Parent=transcript:scaffold24281_cov262.g20244
 scaffold24281_cov262	WormBase_imported	exon	2278	2307	.	-	.	ID=exon:scaffold24281_cov262.g20244.2;Parent=transcript:scaffold24281_cov262.g20244
 scaffold24281_cov262	WormBase_imported	exon	2204	2227	.	-	.	ID=exon:scaffold24281_cov262.g20244.3;Parent=transcript:scaffold24281_cov262.g20244

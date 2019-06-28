@@ -1,5 +1,6 @@
 OOCN_scaffold0000733	WormBase_imported	gene	13975	20767	.	-	.	ID=gene:OOCN_0000835701;Name=OOCN_0000835701;biotype=protein_coding
 OOCN_scaffold0000733	WormBase_imported	mRNA	13975	20767	.	-	.	ID=transcript:OOCN_0000835701-mRNA-1;Parent=gene:OOCN_0000835701;Name=OOCN_0000835701-mRNA-1;info=method:InterPro accession:IPR009057 description:Homeobox-like domain superfamily %0Amethod:InterPro accession:IPR015216 description:SANT associated %0Amethod:InterPro accession:IPR039110 description:KNL2-like
+#microexons transcript:OOCN_0000835701-mRNA-1:  60 9-12-15-12 196 207 378 103 125 88 248 93 173 201 157 194 189 118 35 203 190
 OOCN_scaffold0000733	WormBase_imported	exon	20708	20767	.	-	.	ID=exon:OOCN_0000835701-mRNA-1.1;Parent=transcript:OOCN_0000835701-mRNA-1
 OOCN_scaffold0000733	WormBase_imported	exon	20660	20668	.	-	.	ID=exon:OOCN_0000835701-mRNA-1.2;Parent=transcript:OOCN_0000835701-mRNA-1
 OOCN_scaffold0000733	WormBase_imported	exon	20519	20530	.	-	.	ID=exon:OOCN_0000835701-mRNA-1.3;Parent=transcript:OOCN_0000835701-mRNA-1
@@ -128,6 +129,7 @@ OOCN_scaffold0000733	dust	low_complexity_region	23916	23957	.	-	.
 OOCN_scaffold0000733	dust	low_complexity_region	24013	24019	.	-	.	
 OOCN_contig0000058	WormBase_imported	gene	425	5060	.	+	.	ID=gene:OOCN_0000022501;Name=OOCN_0000022501;biotype=protein_coding
 OOCN_contig0000058	WormBase_imported	mRNA	425	5060	.	+	.	ID=transcript:OOCN_0000022501-mRNA-1;Parent=gene:OOCN_0000022501;Name=OOCN_0000022501-mRNA-1;info=method:InterPro accession:IPR001356 description:Homeobox domain %0Amethod:InterPro accession:IPR009057 description:Homeobox-like domain superfamily
+#microexons transcript:OOCN_0000022501-mRNA-1:  15 124 51 50 30-24-15
 OOCN_contig0000058	WormBase_imported	exon	425	439	.	+	.	ID=exon:OOCN_0000022501-mRNA-1.1;Parent=transcript:OOCN_0000022501-mRNA-1
 OOCN_contig0000058	WormBase_imported	exon	620	743	.	+	.	ID=exon:OOCN_0000022501-mRNA-1.2;Parent=transcript:OOCN_0000022501-mRNA-1
 OOCN_contig0000058	WormBase_imported	exon	3862	3912	.	+	.	ID=exon:OOCN_0000022501-mRNA-1.3;Parent=transcript:OOCN_0000022501-mRNA-1

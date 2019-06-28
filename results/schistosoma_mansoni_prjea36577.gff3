@@ -1,7 +1,10 @@
 SM_V7_1	WormBase_imported	gene	12354088	12422037	.	+	.	ID=gene:Smp_124050;Name=Smp_124050;biotype=protein_coding;description=Venom allergen-like (VAL) 6 protein;description_source=UniProtKB/TrEMBL;description_source_acc=A0A3Q0KKN2;locus=Sm-VAL 6
 SM_V7_1	WormBase_imported	mRNA	12354088	12422037	.	+	.	ID=transcript:Smp_124050.1;Parent=gene:Smp_124050;Name=Smp_124050.1;info=method:InterPro accession:IPR001283 description:Cysteine-rich  secretory protein-related %0Amethod:InterPro accession:IPR014044 description:CAP domain %0Amethod:InterPro accession:IPR034113 description:Golgi-associated plant pathogenesis-related protein 1%2C SCP domain %0Amethod:InterPro accession:IPR035940 description:CAP superfamily
+#microexons transcript:Smp_124050.1:  93 83 173 75 165 12-12-21-21 22 74 306 6-21 78 39 6-15-12-6-15-12-6-15-12-15 42 24-24 669
 SM_V7_1	WormBase_imported	mRNA	12354088	12422037	.	+	.	ID=transcript:Smp_124050.2;Parent=gene:Smp_124050;Name=Smp_124050.2;info=method:InterPro accession:IPR001283 description:Cysteine-rich  secretory protein-related %0Amethod:InterPro accession:IPR014044 description:CAP domain %0Amethod:InterPro accession:IPR034113 description:Golgi-associated plant pathogenesis-related protein 1%2C SCP domain %0Amethod:InterPro accession:IPR035940 description:CAP superfamily
+#microexons transcript:Smp_124050.2:  93 83 173 75 165 12-12-21-21 22 74 306 6-21 78 39 6-15-12-6-15-12-6-15-12-15 42 24 35 24 669
 SM_V7_1	WormBase_imported	mRNA	12354088	12422037	.	+	.	ID=transcript:Smp_124050.3;Parent=gene:Smp_124050;Name=Smp_124050.3;info=method:InterPro accession:IPR001283 description:Cysteine-rich  secretory protein-related %0Amethod:InterPro accession:IPR014044 description:CAP domain %0Amethod:InterPro accession:IPR034113 description:Golgi-associated plant pathogenesis-related protein 1%2C SCP domain %0Amethod:InterPro accession:IPR035940 description:CAP superfamily
+#microexons transcript:Smp_124050.3:  93 83 173 75 165 12-12-21-21 22 74 306 78 39 6-15-12-6-15-12-6-15-12-15 42 24 35 24 669
 SM_V7_1	WormBase_imported	exon	12354088	12354180	.	+	.	ID=exon:Smp_124050.1.1;Parent=transcript:Smp_124050.1
 SM_V7_1	WormBase_imported	exon	12354335	12354417	.	+	.	ID=exon:Smp_124050.1.2;Parent=transcript:Smp_124050.1
 SM_V7_1	WormBase_imported	exon	12357646	12357818	.	+	.	ID=exon:Smp_124050.1.3;Parent=transcript:Smp_124050.1
@@ -190,7 +193,9 @@ SM_V7_1	WormBase_imported	three_prime_UTR	12415078	12415101	.	+	.	Parent=transcr
 SM_V7_1	WormBase_imported	three_prime_UTR	12421369	12422037	.	+	.	Parent=transcript:Smp_124050.3
 SM_V7_1	WormBase_imported	gene	12699336	12723152	.	+	.	ID=gene:Smp_124000;Name=Smp_124000;biotype=protein_coding;description=MEG-14; MEG-14 isoform 3;description_source=UniProtKB/TrEMBL;description_source_acc=A0A1C9A1H6
 SM_V7_1	WormBase_imported	mRNA	12699336	12723152	.	+	.	ID=transcript:Smp_124000.1;Parent=gene:Smp_124000;Name=Smp_124000.1
+#microexons transcript:Smp_124000.1:  101 22 24-24-24-24-21-24-21-15-24-24-6-15-27-21-21 194
 SM_V7_1	WormBase_imported	mRNA	12699336	12723152	.	+	.	ID=transcript:Smp_124000.2;Parent=gene:Smp_124000;Name=Smp_124000.2
+#microexons transcript:Smp_124000.2:  101 22 24-24-24-24-21-24-21-12-24-24-6-15-27-21-21 194
 SM_V7_1	WormBase_imported	exon	12699336	12699436	.	+	.	ID=exon:Smp_124000.1.1;Parent=transcript:Smp_124000.1
 SM_V7_1	WormBase_imported	exon	12700334	12700355	.	+	.	ID=exon:Smp_124000.1.2;Parent=transcript:Smp_124000.1
 SM_V7_1	WormBase_imported	exon	12703130	12703153	.	+	.	ID=exon:Smp_124000.1.3;Parent=transcript:Smp_124000.1
@@ -269,6 +274,7 @@ SM_V7_1	WormBase_imported	CDS	12722959	12722977	.	+	1	ID=cds:Smp_124000.2;Parent
 SM_V7_1	WormBase_imported	three_prime_UTR	12722978	12723152	.	+	.	Parent=transcript:Smp_124000.2
 SM_V7_1	WormBase_imported	gene	16979361	16997127	.	-	.	ID=gene:Smp_176020;Name=Smp_176020;biotype=protein_coding;description=MEG-11;description_source=UniProtKB/TrEMBL;description_source_acc=A0A3Q0KTG4
 SM_V7_1	WormBase_imported	mRNA	16979361	16997127	.	-	.	ID=transcript:Smp_176020.1;Parent=gene:Smp_176020;Name=Smp_176020.1
+#microexons transcript:Smp_176020.1:  70 13 15-15-15-18-18-21-21 19
 SM_V7_1	WormBase_imported	exon	16997058	16997127	.	-	.	ID=exon:Smp_176020.1.1;Parent=transcript:Smp_176020.1
 SM_V7_1	WormBase_imported	exon	16993770	16993782	.	-	.	ID=exon:Smp_176020.1.2;Parent=transcript:Smp_176020.1
 SM_V7_1	WormBase_imported	exon	16992025	16992039	.	-	.	ID=exon:Smp_176020.1.3;Parent=transcript:Smp_176020.1
@@ -291,6 +297,7 @@ SM_V7_1	WormBase_imported	CDS	16980274	16980294	.	-	1	ID=cds:Smp_176020.1;Parent
 SM_V7_1	WormBase_imported	CDS	16979361	16979379	.	-	1	ID=cds:Smp_176020.1;Parent=transcript:Smp_176020.1
 SM_V7_1	WormBase_imported	gene	18036566	18047106	.	-	.	ID=gene:Smp_085840;Name=Smp_085840;biotype=protein_coding;description=MEG-4 (10.3) family;description_source=UniProtKB/TrEMBL;description_source_acc=C4QKE8
 SM_V7_1	WormBase_imported	mRNA	18036566	18047106	.	-	.	ID=transcript:Smp_085840.1;Parent=gene:Smp_085840;Name=Smp_085840.1
+#microexons transcript:Smp_085840.1:  137 25 33 30-21-21-27-18-21-21 23 145
 SM_V7_1	WormBase_imported	exon	18046970	18047106	.	-	.	ID=exon:Smp_085840.1.1;Parent=transcript:Smp_085840.1
 SM_V7_1	WormBase_imported	exon	18045811	18045835	.	-	.	ID=exon:Smp_085840.1.2;Parent=transcript:Smp_085840.1
 SM_V7_1	WormBase_imported	exon	18044174	18044206	.	-	.	ID=exon:Smp_085840.1.3;Parent=transcript:Smp_085840.1
@@ -319,8 +326,11 @@ SM_V7_1	WormBase_imported	CDS	18036697	18036710	.	-	2	ID=cds:Smp_085840.1;Parent
 SM_V7_1	WormBase_imported	three_prime_UTR	18036566	18036696	.	-	.	Parent=transcript:Smp_085840.1
 SM_V7_1	WormBase_imported	gene	20471024	20502708	.	+	.	ID=gene:Smp_307220;Name=Smp_307220;biotype=protein_coding;description=Developmentally regulated antigen 10.3;description_source=UniProtKB/TrEMBL;description_source_acc=Q86D79;previous_stable_id=Smp_163630
 SM_V7_1	WormBase_imported	mRNA	20471024	20502708	.	+	.	ID=transcript:Smp_307220.1;Parent=gene:Smp_307220;Name=Smp_307220.1
+#microexons transcript:Smp_307220.1:  86 22 18-18-24-24-24-27-27-27-27-27-27-21-21-21-21 23 891
 SM_V7_1	WormBase_imported	mRNA	20471024	20502708	.	+	.	ID=transcript:Smp_307220.2;Parent=gene:Smp_307220;Name=Smp_307220.2
+#microexons transcript:Smp_307220.2:  86 22 18-18-24-24-24-27-27-27-27-27-27-27-27-27-21-21-21-21 23 891
 SM_V7_1	WormBase_imported	mRNA	20471024	20502708	.	+	.	ID=transcript:Smp_307220.3;Parent=gene:Smp_307220;Name=Smp_307220.3
+#microexons transcript:Smp_307220.3:  86 22 18-18-24-24-24-27-27-27-27-27-27-27-21-21-21-21 23 891
 SM_V7_1	WormBase_imported	exon	20471024	20471109	.	+	.	ID=exon:Smp_307220.1.1;Parent=transcript:Smp_307220.1
 SM_V7_1	WormBase_imported	exon	20472280	20472301	.	+	.	ID=exon:Smp_307220.1.2;Parent=transcript:Smp_307220.1
 SM_V7_1	WormBase_imported	exon	20474532	20474549	.	+	.	ID=exon:Smp_307220.1.3;Parent=transcript:Smp_307220.1
@@ -451,6 +461,7 @@ SM_V7_1	WormBase_imported	CDS	20501818	20501885	.	+	2	ID=cds:Smp_307220.3;Parent
 SM_V7_1	WormBase_imported	three_prime_UTR	20501886	20502708	.	+	.	Parent=transcript:Smp_307220.3
 SM_V7_1	WormBase_imported	gene	20571174	20597407	.	-	.	ID=gene:Smp_307240;Name=Smp_307240;biotype=protein_coding;previous_stable_id=Smp_163630
 SM_V7_1	WormBase_imported	mRNA	20571174	20597407	.	-	.	ID=transcript:Smp_307240.1;Parent=gene:Smp_307240;Name=Smp_307240.1
+#microexons transcript:Smp_307240.1:  104 22 30-30-24-24-24-24-27-27-27-27-27-21-21-21-21 23 233
 SM_V7_1	WormBase_imported	exon	20597304	20597407	.	-	.	ID=exon:Smp_307240.1.1;Parent=transcript:Smp_307240.1
 SM_V7_1	WormBase_imported	exon	20595101	20595122	.	-	.	ID=exon:Smp_307240.1.2;Parent=transcript:Smp_307240.1
 SM_V7_1	WormBase_imported	exon	20593738	20593767	.	-	.	ID=exon:Smp_307240.1.3;Parent=transcript:Smp_307240.1
@@ -493,6 +504,7 @@ SM_V7_1	WormBase_imported	CDS	20571339	20571406	.	-	2	ID=cds:Smp_307240.1;Parent
 SM_V7_1	WormBase_imported	three_prime_UTR	20571174	20571338	.	-	.	Parent=transcript:Smp_307240.1
 SM_V7_1	WormBase_imported	gene	51414839	51431230	.	+	.	ID=gene:Smp_266940;Name=Smp_266940;biotype=protein_coding
 SM_V7_1	WormBase_imported	mRNA	51414839	51431230	.	+	.	ID=transcript:Smp_266940.1;Parent=gene:Smp_266940;Name=Smp_266940.1
+#microexons transcript:Smp_266940.1:  158 18-15-6-15-15-15-15-24 25 21 339 622
 SM_V7_1	WormBase_imported	exon	51414839	51414996	.	+	.	ID=exon:Smp_266940.1.1;Parent=transcript:Smp_266940.1
 SM_V7_1	WormBase_imported	exon	51416255	51416272	.	+	.	ID=exon:Smp_266940.1.2;Parent=transcript:Smp_266940.1
 SM_V7_1	WormBase_imported	exon	51417763	51417777	.	+	.	ID=exon:Smp_266940.1.3;Parent=transcript:Smp_266940.1
@@ -523,6 +535,7 @@ SM_V7_1	WormBase_imported	three_prime_UTR	51429575	51429837	.	+	.	Parent=transcr
 SM_V7_1	WormBase_imported	three_prime_UTR	51430609	51431230	.	+	.	Parent=transcript:Smp_266940.1
 SM_V7_1	WormBase_imported	gene	51821313	51827452	.	+	.	ID=gene:Smp_243790;Name=Smp_243790;biotype=protein_coding;description=MEG-31 protein;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0U5KFM1;locus=MEG-31
 SM_V7_1	WormBase_imported	mRNA	51821313	51827452	.	+	.	ID=transcript:Smp_243790.1;Parent=gene:Smp_243790;Name=Smp_243790.1
+#microexons transcript:Smp_243790.1:  61 14 9-9-9 57 34 83
 SM_V7_1	WormBase_imported	exon	51821313	51821373	.	+	.	ID=exon:Smp_243790.1.1;Parent=transcript:Smp_243790.1
 SM_V7_1	WormBase_imported	exon	51822683	51822696	.	+	.	ID=exon:Smp_243790.1.2;Parent=transcript:Smp_243790.1
 SM_V7_1	WormBase_imported	exon	51823216	51823224	.	+	.	ID=exon:Smp_243790.1.3;Parent=transcript:Smp_243790.1
@@ -542,6 +555,7 @@ SM_V7_1	WormBase_imported	three_prime_UTR	51826900	51826900	.	+	.	Parent=transcr
 SM_V7_1	WormBase_imported	three_prime_UTR	51827370	51827452	.	+	.	Parent=transcript:Smp_243790.1
 SM_V7_1	WormBase_imported	gene	60921077	60943814	.	-	.	ID=gene:Smp_319720;Name=Smp_319720;biotype=protein_coding
 SM_V7_1	WormBase_imported	mRNA	60921077	60943814	.	-	.	ID=transcript:Smp_319720.1;Parent=gene:Smp_319720;Name=Smp_319720.1
+#microexons transcript:Smp_319720.1:  42 61 45 48 48 42 27-27-27-27-27-27-27-27-27-27-27 330
 SM_V7_1	WormBase_imported	exon	60943773	60943814	.	-	.	ID=exon:Smp_319720.1.1;Parent=transcript:Smp_319720.1
 SM_V7_1	WormBase_imported	exon	60943674	60943734	.	-	.	ID=exon:Smp_319720.1.2;Parent=transcript:Smp_319720.1
 SM_V7_1	WormBase_imported	exon	60941547	60941591	.	-	.	ID=exon:Smp_319720.1.3;Parent=transcript:Smp_319720.1
@@ -582,7 +596,9 @@ SM_V7_1	WormBase_imported	CDS	60921321	60921406	.	-	2	ID=cds:Smp_319720.1;Parent
 SM_V7_1	WormBase_imported	three_prime_UTR	60921077	60921320	.	-	.	Parent=transcript:Smp_319720.1
 SM_V7_1	WormBase_imported	gene	60950965	60957664	.	-	.	ID=gene:Smp_165050;Name=Smp_165050;biotype=protein_coding;description=MEG-7;description_source=UniProtKB/TrEMBL;description_source_acc=G4V7W5
 SM_V7_1	WormBase_imported	mRNA	60950965	60957664	.	-	.	ID=transcript:Smp_165050.1;Parent=gene:Smp_165050;Name=Smp_165050.1
+#microexons transcript:Smp_165050.1:  121 61 24-27 60 30-24-30-24 159
 SM_V7_1	WormBase_imported	mRNA	60950965	60957664	.	-	.	ID=transcript:Smp_165050.2;Parent=gene:Smp_165050;Name=Smp_165050.2
+#microexons transcript:Smp_165050.2:  235 24-27 60 30-24-30-24 159
 SM_V7_1	WormBase_imported	exon	60957544	60957664	.	-	.	ID=exon:Smp_165050.1.1;Parent=transcript:Smp_165050.1
 SM_V7_1	WormBase_imported	exon	60957430	60957490	.	-	.	ID=exon:Smp_165050.1.2;Parent=transcript:Smp_165050.1
 SM_V7_1	WormBase_imported	exon	60956864	60956887	.	-	.	ID=exon:Smp_165050.1.3;Parent=transcript:Smp_165050.1
@@ -627,7 +643,9 @@ SM_V7_1	WormBase_imported	CDS	60951068	60951123	.	-	2	ID=cds:Smp_165050.2;Parent
 SM_V7_1	WormBase_imported	three_prime_UTR	60950965	60951067	.	-	.	Parent=transcript:Smp_165050.2
 SM_V7_ZW	WormBase_imported	gene	52788190	52810835	.	-	.	ID=gene:Smp_347450;Name=Smp_347450;biotype=protein_coding
 SM_V7_ZW	WormBase_imported	mRNA	52788190	52810835	.	-	.	ID=transcript:Smp_347450.1;Parent=gene:Smp_347450;Name=Smp_347450.1
+#microexons transcript:Smp_347450.1:  211 30-30-30-30 63 63 54 42 54 69 45 60 63 69 57 69 360
 SM_V7_ZW	WormBase_imported	mRNA	52788190	52810835	.	-	.	ID=transcript:Smp_347450.2;Parent=gene:Smp_347450;Name=Smp_347450.2
+#microexons transcript:Smp_347450.2:  211 30-30-30 63 63 54 42 54 69 45 60 63 69 57 69 360
 SM_V7_ZW	WormBase_imported	exon	52810625	52810835	.	-	.	ID=exon:Smp_347450.1.1;Parent=transcript:Smp_347450.1
 SM_V7_ZW	WormBase_imported	exon	52809183	52809212	.	-	.	ID=exon:Smp_347450.1.2;Parent=transcript:Smp_347450.1
 SM_V7_ZW	WormBase_imported	exon	52809036	52809065	.	-	.	ID=exon:Smp_347450.1.3;Parent=transcript:Smp_347450.1
@@ -704,6 +722,7 @@ SM_V7_ZW	WormBase_imported	three_prime_UTR	52789119	52789122	.	-	.	Parent=transc
 SM_V7_ZW	WormBase_imported	three_prime_UTR	52788190	52788549	.	-	.	Parent=transcript:Smp_347450.2
 SM_V7_ZW	WormBase_imported	gene	79731576	79765663	.	+	.	ID=gene:Smp_163710;Name=Smp_163710;biotype=protein_coding;description=MEG-6;description_source=UniProtKB/TrEMBL;description_source_acc=G4VTX1
 SM_V7_ZW	WormBase_imported	mRNA	79731576	79765663	.	+	.	ID=transcript:Smp_163710.1;Parent=gene:Smp_163710;Name=Smp_163710.1
+#microexons transcript:Smp_163710.1:  206 20 7 21-18-18-12-21-24-12-12-21-21 1822
 SM_V7_ZW	WormBase_imported	exon	79731576	79731781	.	+	.	ID=exon:Smp_163710.1.1;Parent=transcript:Smp_163710.1
 SM_V7_ZW	WormBase_imported	exon	79735349	79735368	.	+	.	ID=exon:Smp_163710.1.2;Parent=transcript:Smp_163710.1
 SM_V7_ZW	WormBase_imported	exon	79736783	79736789	.	+	.	ID=exon:Smp_163710.1.3;Parent=transcript:Smp_163710.1
@@ -736,6 +755,7 @@ SM_V7_ZW	WormBase_imported	CDS	79763842	79763876	.	+	2	ID=cds:Smp_163710.1;Paren
 SM_V7_ZW	WormBase_imported	three_prime_UTR	79763877	79765663	.	+	.	Parent=transcript:Smp_163710.1
 SM_V7_3	WormBase_imported	gene	4861176	4875605	.	-	.	ID=gene:Smp_138060;Name=Smp_138060;biotype=protein_coding;description=MEG-3 (Grail) family;description_source=UniProtKB/TrEMBL;description_source_acc=A0A3Q0KMS0
 SM_V7_3	WormBase_imported	mRNA	4861176	4875605	.	-	.	ID=transcript:Smp_138060.1;Parent=gene:Smp_138060;Name=Smp_138060.1
+#microexons transcript:Smp_138060.1:  46 18-9-24-21-21-24-24-27-18-27-24-18-21-24-24-27-24 148
 SM_V7_3	WormBase_imported	exon	4875560	4875605	.	-	.	ID=exon:Smp_138060.1.1;Parent=transcript:Smp_138060.1
 SM_V7_3	WormBase_imported	exon	4875249	4875266	.	-	.	ID=exon:Smp_138060.1.2;Parent=transcript:Smp_138060.1
 SM_V7_3	WormBase_imported	exon	4874496	4874504	.	-	.	ID=exon:Smp_138060.1.3;Parent=transcript:Smp_138060.1
@@ -777,7 +797,9 @@ SM_V7_3	WormBase_imported	CDS	4861289	4861323	.	-	2	ID=cds:Smp_138060.1;Parent=t
 SM_V7_3	WormBase_imported	three_prime_UTR	4861176	4861288	.	-	.	Parent=transcript:Smp_138060.1
 SM_V7_3	WormBase_imported	gene	4882890	4899799	.	-	.	ID=gene:Smp_138070;Name=Smp_138070;biotype=protein_coding;description=MEG 3.2 isoform 1; MEG-3 (Grail) family;description_source=UniProtKB/TrEMBL;description_source_acc=D7PD52
 SM_V7_3	WormBase_imported	mRNA	4882890	4899799	.	-	.	ID=transcript:Smp_138070.1;Parent=gene:Smp_138070;Name=Smp_138070.1
+#microexons transcript:Smp_138070.1:  74 18-9-9-24-21-21-24-24-27-18-27-24-18-21-24-24-24 199
 SM_V7_3	WormBase_imported	mRNA	4882890	4899799	.	-	.	ID=transcript:Smp_138070.2;Parent=gene:Smp_138070;Name=Smp_138070.2
+#microexons transcript:Smp_138070.2:  74 18-9-9-24-21-21-24-24-27-18-27 20 18-21-24-24-24 199
 SM_V7_3	WormBase_imported	exon	4899726	4899799	.	-	.	ID=exon:Smp_138070.1.1;Parent=transcript:Smp_138070.1
 SM_V7_3	WormBase_imported	exon	4899426	4899443	.	-	.	ID=exon:Smp_138070.1.2;Parent=transcript:Smp_138070.1
 SM_V7_3	WormBase_imported	exon	4898280	4898288	.	-	.	ID=exon:Smp_138070.1.3;Parent=transcript:Smp_138070.1
@@ -860,6 +882,7 @@ SM_V7_3	WormBase_imported	CDS	4883044	4883088	.	-	0	ID=cds:Smp_138070.2;Parent=t
 SM_V7_3	WormBase_imported	three_prime_UTR	4882890	4883043	.	-	.	Parent=transcript:Smp_138070.2
 SM_V7_3	WormBase_imported	gene	4904826	4924152	.	+	.	ID=gene:Smp_138080;Name=Smp_138080;biotype=protein_coding;description=MEG-3 (Grail) family;description_source=UniProtKB/TrEMBL;description_source_acc=A0A3Q0KMU6
 SM_V7_3	WormBase_imported	mRNA	4904826	4924152	.	+	.	ID=transcript:Smp_138080.1;Parent=gene:Smp_138080;Name=Smp_138080.1
+#microexons transcript:Smp_138080.1:  82 18-9-9-9-24-21-21-24-24-27-18-27-24-18-21-24-24-21-12 215
 SM_V7_3	WormBase_imported	exon	4904826	4904907	.	+	.	ID=exon:Smp_138080.1.1;Parent=transcript:Smp_138080.1
 SM_V7_3	WormBase_imported	exon	4905190	4905207	.	+	.	ID=exon:Smp_138080.1.2;Parent=transcript:Smp_138080.1
 SM_V7_3	WormBase_imported	exon	4906345	4906353	.	+	.	ID=exon:Smp_138080.1.3;Parent=transcript:Smp_138080.1
@@ -906,6 +929,7 @@ SM_V7_3	WormBase_imported	CDS	4923938	4923972	.	+	2	ID=cds:Smp_138080.1;Parent=t
 SM_V7_3	WormBase_imported	three_prime_UTR	4923973	4924152	.	+	.	Parent=transcript:Smp_138080.1
 SM_V7_3	WormBase_imported	gene	4926959	4956642	.	-	.	ID=gene:Smp_325680;Name=Smp_325680;biotype=protein_coding
 SM_V7_3	WormBase_imported	mRNA	4926959	4956642	.	-	.	ID=transcript:Smp_325680.1;Parent=gene:Smp_325680;Name=Smp_325680.1
+#microexons transcript:Smp_325680.1:  220 9-24-21-21-24-24 42 27-12-24-24-18-21-24-24-21-12 215
 SM_V7_3	WormBase_imported	exon	4956423	4956642	.	-	.	ID=exon:Smp_325680.1.1;Parent=transcript:Smp_325680.1
 SM_V7_3	WormBase_imported	exon	4953154	4953162	.	-	.	ID=exon:Smp_325680.1.2;Parent=transcript:Smp_325680.1
 SM_V7_3	WormBase_imported	exon	4953043	4953066	.	-	.	ID=exon:Smp_325680.1.3;Parent=transcript:Smp_325680.1
@@ -948,7 +972,9 @@ SM_V7_3	WormBase_imported	CDS	4927148	4927173	.	-	2	ID=cds:Smp_325680.1;Parent=t
 SM_V7_3	WormBase_imported	three_prime_UTR	4926959	4927147	.	-	.	Parent=transcript:Smp_325680.1
 SM_V7_3	WormBase_imported	gene	17493725	17520599	.	+	.	ID=gene:Smp_018250;Name=Smp_018250;biotype=protein_coding;description=Putative troponin I;description_source=UniProtKB/TrEMBL;description_source_acc=G4VGQ7
 SM_V7_3	WormBase_imported	mRNA	17493725	17520599	.	+	.	ID=transcript:Smp_018250.1;Parent=gene:Smp_018250;Name=Smp_018250.1;info=method:InterPro accession:IPR001978 description:Troponin %0Amethod:InterPro accession:IPR038077 description:Troponin domain superfamily
+#microexons transcript:Smp_018250.1:  206 68 13 21-27-30-30 108 121 101 44 154 1509
 SM_V7_3	WormBase_imported	mRNA	17493725	17520599	.	+	.	ID=transcript:Smp_018250.2;Parent=gene:Smp_018250;Name=Smp_018250.2;info=method:InterPro accession:IPR001978 description:Troponin %0Amethod:InterPro accession:IPR038077 description:Troponin domain superfamily
+#microexons transcript:Smp_018250.2:  206 68 13 27-30-30 108 121 101 44 154 1509
 SM_V7_3	WormBase_imported	exon	17493725	17493930	.	+	.	ID=exon:Smp_018250.1.1;Parent=transcript:Smp_018250.1
 SM_V7_3	WormBase_imported	exon	17494036	17494103	.	+	.	ID=exon:Smp_018250.1.2;Parent=transcript:Smp_018250.1
 SM_V7_3	WormBase_imported	exon	17496988	17497000	.	+	.	ID=exon:Smp_018250.1.3;Parent=transcript:Smp_018250.1
@@ -1005,6 +1031,7 @@ SM_V7_3	WormBase_imported	CDS	17519091	17519105	.	+	0	ID=cds:Smp_018250.2;Parent
 SM_V7_3	WormBase_imported	three_prime_UTR	17519106	17520599	.	+	.	Parent=transcript:Smp_018250.2
 SM_V7_3	WormBase_imported	gene	35830010	35839186	.	+	.	ID=gene:Smp_159830;Name=Smp_159830;biotype=protein_coding;description=MEG-2 (ESP15) family;description_source=UniProtKB/TrEMBL;description_source_acc=A0A3Q0KR24
 SM_V7_3	WormBase_imported	mRNA	35830010	35839186	.	+	.	ID=transcript:Smp_159830.1;Parent=gene:Smp_159830;Name=Smp_159830.1
+#microexons transcript:Smp_159830.1:  56 8 15-15-15-15-18-9-9-27 14 9
 SM_V7_3	WormBase_imported	exon	35830010	35830065	.	+	.	ID=exon:Smp_159830.1.1;Parent=transcript:Smp_159830.1
 SM_V7_3	WormBase_imported	exon	35831118	35831125	.	+	.	ID=exon:Smp_159830.1.2;Parent=transcript:Smp_159830.1
 SM_V7_3	WormBase_imported	exon	35831660	35831674	.	+	.	ID=exon:Smp_159830.1.3;Parent=transcript:Smp_159830.1
@@ -1031,6 +1058,7 @@ SM_V7_3	WormBase_imported	CDS	35838399	35838412	.	+	2	ID=cds:Smp_159830.1;Parent
 SM_V7_3	WormBase_imported	CDS	35839178	35839186	.	+	0	ID=cds:Smp_159830.1;Parent=transcript:Smp_159830.1
 SM_V7_3	WormBase_imported	gene	35955221	35964431	.	-	.	ID=gene:Smp_159800;Name=Smp_159800;biotype=protein_coding;description=MEG-2 (ESP15) family;description_source=UniProtKB/TrEMBL;description_source_acc=C4QG05
 SM_V7_3	WormBase_imported	mRNA	35955221	35964431	.	-	.	ID=transcript:Smp_159800.1;Parent=gene:Smp_159800;Name=Smp_159800.1
+#microexons transcript:Smp_159800.1:  52 12-15-15-15-15-18-9-9-27-21-21 14 3
 SM_V7_3	WormBase_imported	exon	35964380	35964431	.	-	.	ID=exon:Smp_159800.1.1;Parent=transcript:Smp_159800.1
 SM_V7_3	WormBase_imported	exon	35963309	35963320	.	-	.	ID=exon:Smp_159800.1.2;Parent=transcript:Smp_159800.1
 SM_V7_3	WormBase_imported	exon	35962763	35962777	.	-	.	ID=exon:Smp_159800.1.3;Parent=transcript:Smp_159800.1
@@ -1061,6 +1089,7 @@ SM_V7_3	WormBase_imported	CDS	35955979	35955992	.	-	2	ID=cds:Smp_159800.1;Parent
 SM_V7_3	WormBase_imported	CDS	35955221	35955223	.	-	0	ID=cds:Smp_159800.1;Parent=transcript:Smp_159800.1
 SM_V7_3	WormBase_imported	gene	35979325	35998580	.	-	.	ID=gene:Smp_326510;Name=Smp_326510;biotype=protein_coding
 SM_V7_3	WormBase_imported	mRNA	35979325	35998580	.	-	.	ID=transcript:Smp_326510.1;Parent=gene:Smp_326510;Name=Smp_326510.1
+#microexons transcript:Smp_326510.1:  92 12 26 12-12-15-12 19 15-15-18-18-21-21-15-15 191
 SM_V7_3	WormBase_imported	exon	35998489	35998580	.	-	.	ID=exon:Smp_326510.1.1;Parent=transcript:Smp_326510.1
 SM_V7_3	WormBase_imported	exon	35997949	35997960	.	-	.	ID=exon:Smp_326510.1.2;Parent=transcript:Smp_326510.1
 SM_V7_3	WormBase_imported	exon	35997426	35997451	.	-	.	ID=exon:Smp_326510.1.3;Parent=transcript:Smp_326510.1
@@ -1099,6 +1128,7 @@ SM_V7_3	WormBase_imported	CDS	35979511	35979515	.	-	2	ID=cds:Smp_326510.1;Parent
 SM_V7_3	WormBase_imported	three_prime_UTR	35979325	35979510	.	-	.	Parent=transcript:Smp_326510.1
 SM_V7_3	WormBase_imported	gene	36038037	36045362	.	-	.	ID=gene:Smp_180310;Name=Smp_180310;biotype=protein_coding;description=MEG-2 (ESP15) family;description_source=UniProtKB/TrEMBL;description_source_acc=C4QPR6
 SM_V7_3	WormBase_imported	mRNA	36038037	36045362	.	-	.	ID=transcript:Smp_180310.1;Parent=gene:Smp_180310;Name=Smp_180310.1
+#microexons transcript:Smp_180310.1:  73 21-15-18-9-27-21-21-15 2
 SM_V7_3	WormBase_imported	exon	36045290	36045362	.	-	.	ID=exon:Smp_180310.1.1;Parent=transcript:Smp_180310.1
 SM_V7_3	WormBase_imported	exon	36044046	36044066	.	-	.	ID=exon:Smp_180310.1.2;Parent=transcript:Smp_180310.1
 SM_V7_3	WormBase_imported	exon	36043915	36043929	.	-	.	ID=exon:Smp_180310.1.3;Parent=transcript:Smp_180310.1
@@ -1121,6 +1151,7 @@ SM_V7_3	WormBase_imported	CDS	36039312	36039326	.	-	2	ID=cds:Smp_180310.1;Parent
 SM_V7_3	WormBase_imported	CDS	36038037	36038038	.	-	2	ID=cds:Smp_180310.1;Parent=transcript:Smp_180310.1
 SM_V7_3	WormBase_imported	gene	36058589	36064633	.	+	.	ID=gene:Smp_180340;Name=Smp_180340;biotype=protein_coding;description=MEG-2 (ESP15) family;description_source=UniProtKB/TrEMBL;description_source_acc=C4QPS0
 SM_V7_3	WormBase_imported	mRNA	36058589	36064633	.	+	.	ID=transcript:Smp_180340.1;Parent=gene:Smp_180340;Name=Smp_180340.1
+#microexons transcript:Smp_180340.1:  6-18 22 27-21-21-15 5
 SM_V7_3	WormBase_imported	exon	36058589	36058594	.	+	.	ID=exon:Smp_180340.1.1;Parent=transcript:Smp_180340.1
 SM_V7_3	WormBase_imported	exon	36058696	36058713	.	+	.	ID=exon:Smp_180340.1.2;Parent=transcript:Smp_180340.1
 SM_V7_3	WormBase_imported	exon	36059449	36059470	.	+	.	ID=exon:Smp_180340.1.3;Parent=transcript:Smp_180340.1
@@ -1139,6 +1170,7 @@ SM_V7_3	WormBase_imported	CDS	36063677	36063691	.	+	2	ID=cds:Smp_180340.1;Parent
 SM_V7_3	WormBase_imported	CDS	36064629	36064633	.	+	2	ID=cds:Smp_180340.1;Parent=transcript:Smp_180340.1
 SM_V7_3	WormBase_imported	gene	36068811	36076313	.	-	.	ID=gene:Smp_180330;Name=Smp_180330;biotype=protein_coding;description=MEG-2 (ESP15) family;description_source=UniProtKB/TrEMBL;description_source_acc=C4QPR9
 SM_V7_3	WormBase_imported	mRNA	36068811	36076313	.	-	.	ID=transcript:Smp_180330.1;Parent=gene:Smp_180330;Name=Smp_180330.1
+#microexons transcript:Smp_180330.1:  38 15-15-15 22 27-21-21 14 31
 SM_V7_3	WormBase_imported	exon	36076276	36076313	.	-	.	ID=exon:Smp_180330.1.1;Parent=transcript:Smp_180330.1
 SM_V7_3	WormBase_imported	exon	36074591	36074605	.	-	.	ID=exon:Smp_180330.1.2;Parent=transcript:Smp_180330.1
 SM_V7_3	WormBase_imported	exon	36073988	36074002	.	-	.	ID=exon:Smp_180330.1.3;Parent=transcript:Smp_180330.1
@@ -1163,7 +1195,9 @@ SM_V7_3	WormBase_imported	CDS	36068833	36068841	.	-	0	ID=cds:Smp_180330.1;Parent
 SM_V7_3	WormBase_imported	three_prime_UTR	36068811	36068832	.	-	.	Parent=transcript:Smp_180330.1
 SM_V7_3	WormBase_imported	gene	36084077	36093945	.	+	.	ID=gene:Smp_180320;Name=Smp_180320;biotype=protein_coding;description=Egg secreted protein ESP15-like;description_source=UniProtKB/TrEMBL;description_source_acc=C4QPR8
 SM_V7_3	WormBase_imported	mRNA	36084077	36093945	.	+	.	ID=transcript:Smp_180320.1;Parent=gene:Smp_180320;Name=Smp_180320.1
+#microexons transcript:Smp_180320.1:  187 15-15-15-15-18-9-24-21-15 170
 SM_V7_3	WormBase_imported	mRNA	36084077	36090043	.	+	.	ID=transcript:Smp_180320.2;Parent=gene:Smp_180320;Name=Smp_180320.2
+#microexons transcript:Smp_180320.2:  187 15-15-15-15-18 73
 SM_V7_3	WormBase_imported	exon	36084077	36084263	.	+	.	ID=exon:Smp_180320.1.1;Parent=transcript:Smp_180320.1
 SM_V7_3	WormBase_imported	exon	36084836	36084850	.	+	.	ID=exon:Smp_180320.1.2;Parent=transcript:Smp_180320.1
 SM_V7_3	WormBase_imported	exon	36085487	36085501	.	+	.	ID=exon:Smp_180320.1.3;Parent=transcript:Smp_180320.1
@@ -1206,6 +1240,7 @@ SM_V7_3	WormBase_imported	CDS	36089971	36090032	.	+	2	ID=cds:Smp_180320.2;Parent
 SM_V7_3	WormBase_imported	three_prime_UTR	36090033	36090043	.	+	.	Parent=transcript:Smp_180320.2
 SM_V7_3	WormBase_imported	gene	36137355	36146475	.	-	.	ID=gene:Smp_345100;Name=Smp_345100;biotype=protein_coding;description=MEG 2.2;description_source=UniProtKB/TrEMBL;description_source_acc=D7PD77;previous_stable_id=Smp_159810
 SM_V7_3	WormBase_imported	mRNA	36137355	36146475	.	-	.	ID=transcript:Smp_345100.1;Parent=gene:Smp_345100;Name=Smp_345100.1
+#microexons transcript:Smp_345100.1:  154 12-15-15-21-15-18-27-21-21-15 163
 SM_V7_3	WormBase_imported	exon	36146322	36146475	.	-	.	ID=exon:Smp_345100.1.1;Parent=transcript:Smp_345100.1
 SM_V7_3	WormBase_imported	exon	36145467	36145478	.	-	.	ID=exon:Smp_345100.1.2;Parent=transcript:Smp_345100.1
 SM_V7_3	WormBase_imported	exon	36144974	36144988	.	-	.	ID=exon:Smp_345100.1.3;Parent=transcript:Smp_345100.1
@@ -1234,6 +1269,7 @@ SM_V7_3	WormBase_imported	CDS	36137516	36137517	.	-	2	ID=cds:Smp_345100.1;Parent
 SM_V7_3	WormBase_imported	three_prime_UTR	36137355	36137515	.	-	.	Parent=transcript:Smp_345100.1
 SM_V7_3	WormBase_imported	gene	36201994	36207171	.	-	.	ID=gene:Smp_309120;Name=Smp_309120;biotype=protein_coding
 SM_V7_3	WormBase_imported	mRNA	36201994	36207171	.	-	.	ID=transcript:Smp_309120.1;Parent=gene:Smp_309120;Name=Smp_309120.1
+#microexons transcript:Smp_309120.1:  85 12 155 12-12-12 88
 SM_V7_3	WormBase_imported	exon	36207087	36207171	.	-	.	ID=exon:Smp_309120.1.1;Parent=transcript:Smp_309120.1
 SM_V7_3	WormBase_imported	exon	36206547	36206558	.	-	.	ID=exon:Smp_309120.1.2;Parent=transcript:Smp_309120.1
 SM_V7_3	WormBase_imported	exon	36205356	36205510	.	-	.	ID=exon:Smp_309120.1.3;Parent=transcript:Smp_309120.1
@@ -1251,6 +1287,7 @@ SM_V7_3	WormBase_imported	three_prime_UTR	36202684	36202688	.	-	.	Parent=transcr
 SM_V7_3	WormBase_imported	three_prime_UTR	36201994	36202081	.	-	.	Parent=transcript:Smp_309120.1
 SM_V7_3	WormBase_imported	gene	36252439	36261725	.	-	.	ID=gene:Smp_336990;Name=Smp_336990;biotype=protein_coding;previous_stable_id=Smp_181510
 SM_V7_3	WormBase_imported	mRNA	36252439	36261725	.	-	.	ID=transcript:Smp_336990.1;Parent=gene:Smp_336990;Name=Smp_336990.1
+#microexons transcript:Smp_336990.1:  122 12-15-15-21-15-18-27-21-21-15 95
 SM_V7_3	WormBase_imported	exon	36261604	36261725	.	-	.	ID=exon:Smp_336990.1.1;Parent=transcript:Smp_336990.1
 SM_V7_3	WormBase_imported	exon	36260750	36260761	.	-	.	ID=exon:Smp_336990.1.2;Parent=transcript:Smp_336990.1
 SM_V7_3	WormBase_imported	exon	36260258	36260272	.	-	.	ID=exon:Smp_336990.1.3;Parent=transcript:Smp_336990.1
@@ -1279,6 +1316,7 @@ SM_V7_3	WormBase_imported	CDS	36252532	36252533	.	-	2	ID=cds:Smp_336990.1;Parent
 SM_V7_3	WormBase_imported	three_prime_UTR	36252439	36252531	.	-	.	Parent=transcript:Smp_336990.1
 SM_V7_3	WormBase_imported	gene	36272008	36282841	.	-	.	ID=gene:Smp_337000;Name=Smp_337000;biotype=protein_coding
 SM_V7_3	WormBase_imported	mRNA	36272008	36282841	.	-	.	ID=transcript:Smp_337000.1;Parent=gene:Smp_337000;Name=Smp_337000.1
+#microexons transcript:Smp_337000.1:  100 15-15-15-15-15-18-9-27-21-21 14 172
 SM_V7_3	WormBase_imported	exon	36282742	36282841	.	-	.	ID=exon:Smp_337000.1.1;Parent=transcript:Smp_337000.1
 SM_V7_3	WormBase_imported	exon	36280881	36280895	.	-	.	ID=exon:Smp_337000.1.2;Parent=transcript:Smp_337000.1
 SM_V7_3	WormBase_imported	exon	36280151	36280165	.	-	.	ID=exon:Smp_337000.1.3;Parent=transcript:Smp_337000.1
@@ -1308,7 +1346,9 @@ SM_V7_3	WormBase_imported	CDS	36272171	36272179	.	-	0	ID=cds:Smp_337000.1;Parent
 SM_V7_3	WormBase_imported	three_prime_UTR	36272008	36272170	.	-	.	Parent=transcript:Smp_337000.1
 SM_V7_3	WormBase_imported	gene	49078522	49096529	.	+	.	ID=gene:Smp_122630;Name=Smp_122630;biotype=protein_coding;description=MEG-1 family;description_source=UniProtKB/TrEMBL;description_source_acc=A0A3Q0KKC4
 SM_V7_3	WormBase_imported	mRNA	49078522	49096529	.	+	.	ID=transcript:Smp_122630.1;Parent=gene:Smp_122630;Name=Smp_122630.1
+#microexons transcript:Smp_122630.1:  151 17 39 51 18-18-21-21-21-15-21-21 51 48 52
 SM_V7_3	WormBase_imported	mRNA	49078522	49096529	.	+	.	ID=transcript:Smp_122630.2;Parent=gene:Smp_122630;Name=Smp_122630.2
+#microexons transcript:Smp_122630.2:  151 17 39 51 18-18-21-21-21-15-21-21 51 97 52
 SM_V7_3	WormBase_imported	exon	49078522	49078672	.	+	.	ID=exon:Smp_122630.1.1;Parent=transcript:Smp_122630.1
 SM_V7_3	WormBase_imported	exon	49080479	49080495	.	+	.	ID=exon:Smp_122630.1.2;Parent=transcript:Smp_122630.1
 SM_V7_3	WormBase_imported	exon	49081706	49081744	.	+	.	ID=exon:Smp_122630.1.3;Parent=transcript:Smp_122630.1
@@ -1375,8 +1415,11 @@ SM_V7_3	WormBase_imported	three_prime_UTR	49094900	49094948	.	+	.	Parent=transcr
 SM_V7_3	WormBase_imported	three_prime_UTR	49096478	49096529	.	+	.	Parent=transcript:Smp_122630.2
 SM_V7_3	WormBase_imported	gene	49107510	49131098	.	-	.	ID=gene:Smp_326790;Name=Smp_326790;biotype=protein_coding
 SM_V7_3	WormBase_imported	mRNA	49107510	49131098	.	-	.	ID=transcript:Smp_326790.1;Parent=gene:Smp_326790;Name=Smp_326790.1
+#microexons transcript:Smp_326790.1:  147 17 39 51 18-18 11 28 15-21-21-21-15-21-21 54 48 112
 SM_V7_3	WormBase_imported	mRNA	49107510	49131098	.	-	.	ID=transcript:Smp_326790.2;Parent=gene:Smp_326790;Name=Smp_326790.2
+#microexons transcript:Smp_326790.2:  147 17 39 51 18-18 11 28 15-21-21-21-15-21-21 54 27 112
 SM_V7_3	WormBase_imported	mRNA	49107510	49131098	.	-	.	ID=transcript:Smp_326790.3;Parent=gene:Smp_326790;Name=Smp_326790.3
+#microexons transcript:Smp_326790.3:  141 20 17 39 51 18-18 11 28 15-21-21-21-15-21-21 54 27 112
 SM_V7_3	WormBase_imported	exon	49130952	49131098	.	-	.	ID=exon:Smp_326790.1.1;Parent=transcript:Smp_326790.1
 SM_V7_3	WormBase_imported	exon	49129104	49129120	.	-	.	ID=exon:Smp_326790.1.2;Parent=transcript:Smp_326790.1
 SM_V7_3	WormBase_imported	exon	49127823	49127861	.	-	.	ID=exon:Smp_326790.1.3;Parent=transcript:Smp_326790.1
@@ -1495,6 +1538,7 @@ SM_V7_3	WormBase_imported	CDS	49107583	49107621	.	-	0	ID=cds:Smp_326790.3;Parent
 SM_V7_3	WormBase_imported	three_prime_UTR	49107510	49107582	.	-	.	Parent=transcript:Smp_326790.3
 SM_V7_2	WormBase_imported	gene	15939129	15957894	.	-	.	ID=gene:Smp_171190;Name=Smp_171190;biotype=protein_coding;description=MEG-8 family;description_source=UniProtKB/TrEMBL;description_source_acc=G4VCW5
 SM_V7_2	WormBase_imported	mRNA	15939129	15957894	.	-	.	ID=transcript:Smp_171190.1;Parent=gene:Smp_171190;Name=Smp_171190.1
+#microexons transcript:Smp_171190.1:  60 45 48 51 51 36 51 36 36 15-15-24 22 21 158
 SM_V7_2	WormBase_imported	exon	15957835	15957894	.	-	.	ID=exon:Smp_171190.1.1;Parent=transcript:Smp_171190.1
 SM_V7_2	WormBase_imported	exon	15954823	15954867	.	-	.	ID=exon:Smp_171190.1.2;Parent=transcript:Smp_171190.1
 SM_V7_2	WormBase_imported	exon	15954537	15954584	.	-	.	ID=exon:Smp_171190.1.3;Parent=transcript:Smp_171190.1
@@ -1529,7 +1573,9 @@ SM_V7_2	WormBase_imported	CDS	15939223	15939286	.	-	1	ID=cds:Smp_171190.1;Parent
 SM_V7_2	WormBase_imported	three_prime_UTR	15939129	15939222	.	-	.	Parent=transcript:Smp_171190.1
 SM_V7_2	WormBase_imported	gene	47193747	47199556	.	+	.	ID=gene:Smp_328700;Name=Smp_328700;biotype=protein_coding
 SM_V7_2	WormBase_imported	mRNA	47193747	47199556	.	+	.	ID=transcript:Smp_328700.1;Parent=gene:Smp_328700;Name=Smp_328700.1
+#microexons transcript:Smp_328700.1:  314 33 33 21-21-21 33 33 29 17
 SM_V7_2	WormBase_imported	mRNA	47193747	47199556	.	+	.	ID=transcript:Smp_328700.2;Parent=gene:Smp_328700;Name=Smp_328700.2
+#microexons transcript:Smp_328700.2:  314 33 21-21-21 33 33 29 17
 SM_V7_2	WormBase_imported	exon	47193747	47194060	.	+	.	ID=exon:Smp_328700.1.1;Parent=transcript:Smp_328700.1
 SM_V7_2	WormBase_imported	exon	47194501	47194533	.	+	.	ID=exon:Smp_328700.1.2;Parent=transcript:Smp_328700.1
 SM_V7_2	WormBase_imported	exon	47194818	47194850	.	+	.	ID=exon:Smp_328700.1.3;Parent=transcript:Smp_328700.1
@@ -1574,6 +1620,7 @@ SM_V7_2	WormBase_imported	three_prime_UTR	47198407	47198421	.	+	.	Parent=transcr
 SM_V7_2	WormBase_imported	three_prime_UTR	47199540	47199556	.	+	.	Parent=transcript:Smp_328700.2
 SM_V7_4	WormBase_imported	gene	173387	178693	.	+	.	ID=gene:Smp_180620;Name=Smp_180620;biotype=protein_coding
 SM_V7_4	WormBase_imported	mRNA	173387	178693	.	+	.	ID=transcript:Smp_180620.1;Parent=gene:Smp_180620;Name=Smp_180620.1
+#microexons transcript:Smp_180620.1:  100 10 6-6-21 22 30-18-6 158
 SM_V7_4	WormBase_imported	exon	173387	173486	.	+	.	ID=exon:Smp_180620.1.1;Parent=transcript:Smp_180620.1
 SM_V7_4	WormBase_imported	exon	173954	173963	.	+	.	ID=exon:Smp_180620.1.2;Parent=transcript:Smp_180620.1
 SM_V7_4	WormBase_imported	exon	174299	174304	.	+	.	ID=exon:Smp_180620.1.3;Parent=transcript:Smp_180620.1
@@ -1598,6 +1645,7 @@ SM_V7_4	WormBase_imported	CDS	178536	178553	.	+	0	ID=cds:Smp_180620.1;Parent=tra
 SM_V7_4	WormBase_imported	three_prime_UTR	178554	178693	.	+	.	Parent=transcript:Smp_180620.1
 SM_V7_5	WormBase_imported	gene	6046535	6058606	.	+	.	ID=gene:Smp_243750;Name=Smp_243750;biotype=protein_coding;description=MEG-27 protein;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0U5KIV9;locus=MEG-27
 SM_V7_5	WormBase_imported	mRNA	6046535	6058606	.	+	.	ID=transcript:Smp_243750.1;Parent=gene:Smp_243750;Name=Smp_243750.1
+#microexons transcript:Smp_243750.1:  89 31 15-21-21 152
 SM_V7_5	WormBase_imported	exon	6046535	6046623	.	+	.	ID=exon:Smp_243750.1.1;Parent=transcript:Smp_243750.1
 SM_V7_5	WormBase_imported	exon	6049002	6049032	.	+	.	ID=exon:Smp_243750.1.2;Parent=transcript:Smp_243750.1
 SM_V7_5	WormBase_imported	exon	6052176	6052190	.	+	.	ID=exon:Smp_243750.1.3;Parent=transcript:Smp_243750.1
@@ -1614,6 +1662,7 @@ SM_V7_5	WormBase_imported	CDS	6058455	6058455	.	+	1	ID=cds:Smp_243750.1;Parent=t
 SM_V7_5	WormBase_imported	three_prime_UTR	6058456	6058606	.	+	.	Parent=transcript:Smp_243750.1
 SM_V7_5	WormBase_imported	gene	6065046	6075580	.	+	.	ID=gene:Smp_330150;Name=Smp_330150;biotype=protein_coding
 SM_V7_5	WormBase_imported	mRNA	6065046	6075580	.	+	.	ID=transcript:Smp_330150.1;Parent=gene:Smp_330150;Name=Smp_330150.1
+#microexons transcript:Smp_330150.1:  101 21 31 18-21-21-18 69 357
 SM_V7_5	WormBase_imported	exon	6065046	6065146	.	+	.	ID=exon:Smp_330150.1.1;Parent=transcript:Smp_330150.1
 SM_V7_5	WormBase_imported	exon	6065794	6065814	.	+	.	ID=exon:Smp_330150.1.2;Parent=transcript:Smp_330150.1
 SM_V7_5	WormBase_imported	exon	6066451	6066481	.	+	.	ID=exon:Smp_330150.1.3;Parent=transcript:Smp_330150.1
@@ -1636,7 +1685,9 @@ SM_V7_5	WormBase_imported	three_prime_UTR	6074281	6074333	.	+	.	Parent=transcrip
 SM_V7_5	WormBase_imported	three_prime_UTR	6075224	6075580	.	+	.	Parent=transcript:Smp_330150.1
 SM_V7_5	WormBase_imported	gene	6101097	6119452	.	-	.	ID=gene:Smp_330160;Name=Smp_330160;biotype=protein_coding
 SM_V7_5	WormBase_imported	mRNA	6101097	6119452	.	-	.	ID=transcript:Smp_330160.1;Parent=gene:Smp_330160;Name=Smp_330160.1
+#microexons transcript:Smp_330160.1:  169 9-18 28 18-21-21-21-21-21-21 191
 SM_V7_5	WormBase_imported	mRNA	6101097	6119452	.	-	.	ID=transcript:Smp_330160.2;Parent=gene:Smp_330160;Name=Smp_330160.2
+#microexons transcript:Smp_330160.2:  169 9-18 28 18-21-21-21-21 191
 SM_V7_5	WormBase_imported	exon	6119284	6119452	.	-	.	ID=exon:Smp_330160.1.1;Parent=transcript:Smp_330160.1
 SM_V7_5	WormBase_imported	exon	6118383	6118391	.	-	.	ID=exon:Smp_330160.1.2;Parent=transcript:Smp_330160.1
 SM_V7_5	WormBase_imported	exon	6117018	6117035	.	-	.	ID=exon:Smp_330160.1.3;Parent=transcript:Smp_330160.1
@@ -1687,6 +1738,7 @@ SM_V7_5	WormBase_imported	CDS	6101254	6101287	.	-	1	ID=cds:Smp_330160.2;Parent=t
 SM_V7_5	WormBase_imported	three_prime_UTR	6101097	6101253	.	-	.	Parent=transcript:Smp_330160.2
 SM_V7_5	WormBase_imported	gene	6147056	6161967	.	+	.	ID=gene:Smp_152580;Name=Smp_152580;biotype=protein_coding;description=MEG-5;description_source=UniProtKB/TrEMBL;description_source_acc=G4LYD1
 SM_V7_5	WormBase_imported	mRNA	6147056	6161967	.	+	.	ID=transcript:Smp_152580.1;Parent=gene:Smp_152580;Name=Smp_152580.1
+#microexons transcript:Smp_152580.1:  254 9-21 37 21-21-21 240
 SM_V7_5	WormBase_imported	exon	6147056	6147309	.	+	.	ID=exon:Smp_152580.1.1;Parent=transcript:Smp_152580.1
 SM_V7_5	WormBase_imported	exon	6149930	6149938	.	+	.	ID=exon:Smp_152580.1.2;Parent=transcript:Smp_152580.1
 SM_V7_5	WormBase_imported	exon	6151461	6151481	.	+	.	ID=exon:Smp_152580.1.3;Parent=transcript:Smp_152580.1
@@ -1707,6 +1759,7 @@ SM_V7_5	WormBase_imported	CDS	6161728	6161761	.	+	1	ID=cds:Smp_152580.1;Parent=t
 SM_V7_5	WormBase_imported	three_prime_UTR	6161762	6161967	.	+	.	Parent=transcript:Smp_152580.1
 SM_V7_5	WormBase_imported	gene	6164333	6176592	.	-	.	ID=gene:Smp_330170;Name=Smp_330170;biotype=protein_coding
 SM_V7_5	WormBase_imported	mRNA	6164333	6176592	.	-	.	ID=transcript:Smp_330170.1;Parent=gene:Smp_330170;Name=Smp_330170.1
+#microexons transcript:Smp_330170.1:  86 28 20 16 18-21-21-18-18 63
 SM_V7_5	WormBase_imported	exon	6176507	6176592	.	-	.	ID=exon:Smp_330170.1.1;Parent=transcript:Smp_330170.1
 SM_V7_5	WormBase_imported	exon	6175374	6175401	.	-	.	ID=exon:Smp_330170.1.2;Parent=transcript:Smp_330170.1
 SM_V7_5	WormBase_imported	exon	6173700	6173719	.	-	.	ID=exon:Smp_330170.1.3;Parent=transcript:Smp_330170.1
@@ -1731,7 +1784,9 @@ SM_V7_5	WormBase_imported	CDS	6164380	6164395	.	-	1	ID=cds:Smp_330170.1;Parent=t
 SM_V7_5	WormBase_imported	three_prime_UTR	6164333	6164379	.	-	.	Parent=transcript:Smp_330170.1
 SM_V7_5	WormBase_imported	gene	6183032	6212292	.	-	.	ID=gene:Smp_330180;Name=Smp_330180;biotype=protein_coding
 SM_V7_5	WormBase_imported	mRNA	6183032	6212292	.	-	.	ID=transcript:Smp_330180.1;Parent=gene:Smp_330180;Name=Smp_330180.1
+#microexons transcript:Smp_330180.1:  91 34 26 10 23 34 23 34 26 34 20 31 18-21-21-18 171
 SM_V7_5	WormBase_imported	mRNA	6183032	6212292	.	-	.	ID=transcript:Smp_330180.2;Parent=gene:Smp_330180;Name=Smp_330180.2
+#microexons transcript:Smp_330180.2:  91 34 26 10 23 34 23 34 29 34 20 31 18-21-21-18 171
 SM_V7_5	WormBase_imported	exon	6212202	6212292	.	-	.	ID=exon:Smp_330180.1.1;Parent=transcript:Smp_330180.1
 SM_V7_5	WormBase_imported	exon	6211122	6211155	.	-	.	ID=exon:Smp_330180.1.2;Parent=transcript:Smp_330180.1
 SM_V7_5	WormBase_imported	exon	6208555	6208580	.	-	.	ID=exon:Smp_330180.1.3;Parent=transcript:Smp_330180.1
@@ -1806,6 +1861,7 @@ SM_V7_5	WormBase_imported	CDS	6183184	6183202	.	-	1	ID=cds:Smp_330180.2;Parent=t
 SM_V7_5	WormBase_imported	three_prime_UTR	6183032	6183183	.	-	.	Parent=transcript:Smp_330180.2
 SM_V7_5	WormBase_imported	gene	6249318	6254722	.	-	.	ID=gene:Smp_330210;Name=Smp_330210;biotype=protein_coding
 SM_V7_5	WormBase_imported	mRNA	6249318	6254722	.	-	.	ID=transcript:Smp_330210.1;Parent=gene:Smp_330210;Name=Smp_330210.1
+#microexons transcript:Smp_330210.1:  98 28 21-21-18 100
 SM_V7_5	WormBase_imported	exon	6254625	6254722	.	-	.	ID=exon:Smp_330210.1.1;Parent=transcript:Smp_330210.1
 SM_V7_5	WormBase_imported	exon	6254508	6254535	.	-	.	ID=exon:Smp_330210.1.2;Parent=transcript:Smp_330210.1
 SM_V7_5	WormBase_imported	exon	6252667	6252687	.	-	.	ID=exon:Smp_330210.1.3;Parent=transcript:Smp_330210.1
@@ -1822,7 +1878,9 @@ SM_V7_5	WormBase_imported	CDS	6249381	6249417	.	-	1	ID=cds:Smp_330210.1;Parent=t
 SM_V7_5	WormBase_imported	three_prime_UTR	6249318	6249380	.	-	.	Parent=transcript:Smp_330210.1
 SM_V7_5	WormBase_imported	gene	6263059	6267003	.	+	.	ID=gene:Smp_152590;Name=Smp_152590;biotype=protein_coding;description=MEG-10;description_source=UniProtKB/TrEMBL;description_source_acc=G4LYD0
 SM_V7_5	WormBase_imported	mRNA	6263059	6267003	.	+	.	ID=transcript:Smp_152590.1;Parent=gene:Smp_152590;Name=Smp_152590.1
+#microexons transcript:Smp_152590.1:  84 25 21-21-18 39
 SM_V7_5	WormBase_imported	mRNA	6263059	6267003	.	+	.	ID=transcript:Smp_152590.2;Parent=gene:Smp_152590;Name=Smp_152590.2
+#microexons transcript:Smp_152590.2:  84 22 21-21-18 39
 SM_V7_5	WormBase_imported	exon	6263059	6263142	.	+	.	ID=exon:Smp_152590.1.1;Parent=transcript:Smp_152590.1
 SM_V7_5	WormBase_imported	exon	6263227	6263251	.	+	.	ID=exon:Smp_152590.1.2;Parent=transcript:Smp_152590.1
 SM_V7_5	WormBase_imported	exon	6263984	6264004	.	+	.	ID=exon:Smp_152590.1.3;Parent=transcript:Smp_152590.1
@@ -1853,6 +1911,7 @@ SM_V7_5	WormBase_imported	CDS	6266965	6266995	.	+	1	ID=cds:Smp_152590.2;Parent=t
 SM_V7_5	WormBase_imported	three_prime_UTR	6266996	6267003	.	+	.	Parent=transcript:Smp_152590.2
 SM_V7_5	WormBase_imported	gene	6287115	6293644	.	+	.	ID=gene:Smp_243730;Name=Smp_243730;biotype=protein_coding;description=MEG-10.2 protein;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0U5KJN7;locus=MEG-10.2
 SM_V7_5	WormBase_imported	mRNA	6287115	6293644	.	+	.	ID=transcript:Smp_243730.1;Parent=gene:Smp_243730;Name=Smp_243730.1
+#microexons transcript:Smp_243730.1:  109 16 9-21-21-18 63
 SM_V7_5	WormBase_imported	exon	6287115	6287223	.	+	.	ID=exon:Smp_243730.1.1;Parent=transcript:Smp_243730.1
 SM_V7_5	WormBase_imported	exon	6287801	6287816	.	+	.	ID=exon:Smp_243730.1.2;Parent=transcript:Smp_243730.1
 SM_V7_5	WormBase_imported	exon	6288389	6288397	.	+	.	ID=exon:Smp_243730.1.3;Parent=transcript:Smp_243730.1
@@ -1871,6 +1930,7 @@ SM_V7_5	WormBase_imported	CDS	6293582	6293618	.	+	1	ID=cds:Smp_243730.1;Parent=t
 SM_V7_5	WormBase_imported	three_prime_UTR	6293619	6293644	.	+	.	Parent=transcript:Smp_243730.1
 SM_V7_5	WormBase_imported	gene	6310886	6317251	.	+	.	ID=gene:Smp_330220;Name=Smp_330220;biotype=protein_coding
 SM_V7_5	WormBase_imported	mRNA	6310886	6317251	.	+	.	ID=transcript:Smp_330220.1;Parent=gene:Smp_330220;Name=Smp_330220.1
+#microexons transcript:Smp_330220.1:  126 7 12-21-21-18 184
 SM_V7_5	WormBase_imported	exon	6310886	6311011	.	+	.	ID=exon:Smp_330220.1.1;Parent=transcript:Smp_330220.1
 SM_V7_5	WormBase_imported	exon	6311616	6311622	.	+	.	ID=exon:Smp_330220.1.2;Parent=transcript:Smp_330220.1
 SM_V7_5	WormBase_imported	exon	6312629	6312640	.	+	.	ID=exon:Smp_330220.1.3;Parent=transcript:Smp_330220.1
@@ -1889,6 +1949,7 @@ SM_V7_5	WormBase_imported	CDS	6317068	6317122	.	+	1	ID=cds:Smp_330220.1;Parent=t
 SM_V7_5	WormBase_imported	three_prime_UTR	6317123	6317251	.	+	.	Parent=transcript:Smp_330220.1
 SM_V7_5	WormBase_imported	gene	6320293	6326222	.	-	.	ID=gene:Smp_330230;Name=Smp_330230;biotype=protein_coding
 SM_V7_5	WormBase_imported	mRNA	6320293	6326222	.	-	.	ID=transcript:Smp_330230.1;Parent=gene:Smp_330230;Name=Smp_330230.1
+#microexons transcript:Smp_330230.1:  189 19 18-9-21-18 157
 SM_V7_5	WormBase_imported	exon	6326034	6326222	.	-	.	ID=exon:Smp_330230.1.1;Parent=transcript:Smp_330230.1
 SM_V7_5	WormBase_imported	exon	6325332	6325350	.	-	.	ID=exon:Smp_330230.1.2;Parent=transcript:Smp_330230.1
 SM_V7_5	WormBase_imported	exon	6324417	6324434	.	-	.	ID=exon:Smp_330230.1.3;Parent=transcript:Smp_330230.1
@@ -1907,6 +1968,7 @@ SM_V7_5	WormBase_imported	CDS	6320413	6320449	.	-	1	ID=cds:Smp_330230.1;Parent=t
 SM_V7_5	WormBase_imported	three_prime_UTR	6320293	6320412	.	-	.	Parent=transcript:Smp_330230.1
 SM_V7_5	WormBase_imported	gene	6478197	6491961	.	-	.	ID=gene:Smp_152630;Name=Smp_152630;biotype=protein_coding;description=MEG-12;description_source=UniProtKB/TrEMBL;description_source_acc=A0A3Q0KQ41
 SM_V7_5	WormBase_imported	mRNA	6478197	6491961	.	-	.	ID=transcript:Smp_152630.1;Parent=gene:Smp_152630;Name=Smp_152630.1
+#microexons transcript:Smp_152630.1:  101 13 18-18-21-21-18 156
 SM_V7_5	WormBase_imported	exon	6491861	6491961	.	-	.	ID=exon:Smp_152630.1.1;Parent=transcript:Smp_152630.1
 SM_V7_5	WormBase_imported	exon	6488104	6488116	.	-	.	ID=exon:Smp_152630.1.2;Parent=transcript:Smp_152630.1
 SM_V7_5	WormBase_imported	exon	6487397	6487414	.	-	.	ID=exon:Smp_152630.1.3;Parent=transcript:Smp_152630.1
@@ -1927,7 +1989,9 @@ SM_V7_5	WormBase_imported	CDS	6478334	6478352	.	-	1	ID=cds:Smp_152630.1;Parent=t
 SM_V7_5	WormBase_imported	three_prime_UTR	6478197	6478333	.	-	.	Parent=transcript:Smp_152630.1
 SM_V7_5	WormBase_imported	gene	16660578	16666679	.	-	.	ID=gene:Smp_156930;Name=Smp_156930;biotype=protein_coding
 SM_V7_5	WormBase_imported	mRNA	16660578	16665528	.	-	.	ID=transcript:Smp_156930.1;Parent=gene:Smp_156930;Name=Smp_156930.1
+#microexons transcript:Smp_156930.1:  18-21-18 132
 SM_V7_5	WormBase_imported	mRNA	16660578	16666679	.	-	.	ID=transcript:Smp_156930.2;Parent=gene:Smp_156930;Name=Smp_156930.2
+#microexons transcript:Smp_156930.2:  12-18-21-18 132
 SM_V7_5	WormBase_imported	exon	16665511	16665528	.	-	.	ID=exon:Smp_156930.1.1;Parent=transcript:Smp_156930.1
 SM_V7_5	WormBase_imported	exon	16663494	16663514	.	-	.	ID=exon:Smp_156930.1.2;Parent=transcript:Smp_156930.1
 SM_V7_5	WormBase_imported	exon	16662331	16662348	.	-	.	ID=exon:Smp_156930.1.3;Parent=transcript:Smp_156930.1
@@ -1952,6 +2016,7 @@ SM_V7_5	WormBase_imported	CDS	16660664	16660709	.	-	1	ID=cds:Smp_156930.2;Parent
 SM_V7_5	WormBase_imported	three_prime_UTR	16660578	16660663	.	-	.	Parent=transcript:Smp_156930.2
 SM_V7_6	WormBase_imported	gene	3628966	3633911	.	+	.	ID=gene:Smp_123100;Name=Smp_123100;biotype=protein_coding;description=MEG-32.1 protein;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0U5KEW2;locus=MEG-32.1
 SM_V7_6	WormBase_imported	mRNA	3628966	3633911	.	+	.	ID=transcript:Smp_123100.1;Parent=gene:Smp_123100;Name=Smp_123100.1
+#microexons transcript:Smp_123100.1:  147 33 6-12-21 166
 SM_V7_6	WormBase_imported	exon	3628966	3629112	.	+	.	ID=exon:Smp_123100.1.1;Parent=transcript:Smp_123100.1
 SM_V7_6	WormBase_imported	exon	3629212	3629244	.	+	.	ID=exon:Smp_123100.1.2;Parent=transcript:Smp_123100.1
 SM_V7_6	WormBase_imported	exon	3630732	3630737	.	+	.	ID=exon:Smp_123100.1.3;Parent=transcript:Smp_123100.1
@@ -1968,6 +2033,7 @@ SM_V7_6	WormBase_imported	CDS	3633746	3633837	.	+	2	ID=cds:Smp_123100.1;Parent=t
 SM_V7_6	WormBase_imported	three_prime_UTR	3633838	3633911	.	+	.	Parent=transcript:Smp_123100.1
 SM_V7_6	WormBase_imported	gene	4366207	4371709	.	+	.	ID=gene:Smp_123200;Name=Smp_123200;biotype=protein_coding;description=MEG-32.2 protein;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0U5KJ28;locus=MEG-32.2
 SM_V7_6	WormBase_imported	mRNA	4366207	4371709	.	+	.	ID=transcript:Smp_123200.1;Parent=gene:Smp_123200;Name=Smp_123200.1
+#microexons transcript:Smp_123200.1:  149 27-6-6-12-18 92
 SM_V7_6	WormBase_imported	exon	4366207	4366355	.	+	.	ID=exon:Smp_123200.1.1;Parent=transcript:Smp_123200.1
 SM_V7_6	WormBase_imported	exon	4366475	4366501	.	+	.	ID=exon:Smp_123200.1.2;Parent=transcript:Smp_123200.1
 SM_V7_6	WormBase_imported	exon	4368063	4368068	.	+	.	ID=exon:Smp_123200.1.3;Parent=transcript:Smp_123200.1
@@ -1985,6 +2051,7 @@ SM_V7_6	WormBase_imported	CDS	4370437	4370454	.	+	2	ID=cds:Smp_123200.1;Parent=t
 SM_V7_6	WormBase_imported	CDS	4371618	4371709	.	+	2	ID=cds:Smp_123200.1;Parent=transcript:Smp_123200.1
 SM_V7_6	WormBase_imported	gene	4382124	4390421	.	+	.	ID=gene:Smp_243770;Name=Smp_243770;biotype=protein_coding;description=MEG-29 protein;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0U5KLL2;locus=MEG-29
 SM_V7_6	WormBase_imported	mRNA	4382124	4390421	.	+	.	ID=transcript:Smp_243770.1;Parent=gene:Smp_243770;Name=Smp_243770.1
+#microexons transcript:Smp_243770.1:  67 21-15-15-12 80
 SM_V7_6	WormBase_imported	exon	4382124	4382190	.	+	.	ID=exon:Smp_243770.1.1;Parent=transcript:Smp_243770.1
 SM_V7_6	WormBase_imported	exon	4384904	4384924	.	+	.	ID=exon:Smp_243770.1.2;Parent=transcript:Smp_243770.1
 SM_V7_6	WormBase_imported	exon	4386326	4386340	.	+	.	ID=exon:Smp_243770.1.3;Parent=transcript:Smp_243770.1
@@ -1999,6 +2066,7 @@ SM_V7_6	WormBase_imported	CDS	4388656	4388667	.	+	2	ID=cds:Smp_243770.1;Parent=t
 SM_V7_6	WormBase_imported	CDS	4390342	4390421	.	+	2	ID=cds:Smp_243770.1;Parent=transcript:Smp_243770.1
 SM_V7_6	WormBase_imported	gene	4443857	4475574	.	+	.	ID=gene:Smp_311310;Name=Smp_311310;biotype=protein_coding
 SM_V7_6	WormBase_imported	mRNA	4443857	4475574	.	+	.	ID=transcript:Smp_311310.1;Parent=gene:Smp_311310;Name=Smp_311310.1
+#microexons transcript:Smp_311310.1:  54 24-21-15-18-21-21 14 18-21-21-15 11
 SM_V7_6	WormBase_imported	exon	4443857	4443910	.	+	.	ID=exon:Smp_311310.1.1;Parent=transcript:Smp_311310.1
 SM_V7_6	WormBase_imported	exon	4446366	4446389	.	+	.	ID=exon:Smp_311310.1.2;Parent=transcript:Smp_311310.1
 SM_V7_6	WormBase_imported	exon	4448070	4448090	.	+	.	ID=exon:Smp_311310.1.3;Parent=transcript:Smp_311310.1
@@ -2029,6 +2097,7 @@ SM_V7_6	WormBase_imported	three_prime_UTR	4472273	4472287	.	+	.	Parent=transcrip
 SM_V7_6	WormBase_imported	three_prime_UTR	4475564	4475574	.	+	.	Parent=transcript:Smp_311310.1
 SM_V7_6	WormBase_imported	gene	4484521	4497323	.	+	.	ID=gene:Smp_331310;Name=Smp_331310;biotype=protein_coding
 SM_V7_6	WormBase_imported	mRNA	4484521	4497323	.	+	.	ID=transcript:Smp_331310.1;Parent=gene:Smp_331310;Name=Smp_331310.1
+#microexons transcript:Smp_331310.1:  265 21-21-24 33 21-15 202
 SM_V7_6	WormBase_imported	exon	4484521	4484785	.	+	.	ID=exon:Smp_331310.1.1;Parent=transcript:Smp_331310.1
 SM_V7_6	WormBase_imported	exon	4486620	4486640	.	+	.	ID=exon:Smp_331310.1.2;Parent=transcript:Smp_331310.1
 SM_V7_6	WormBase_imported	exon	4488043	4488063	.	+	.	ID=exon:Smp_331310.1.3;Parent=transcript:Smp_331310.1
@@ -2049,6 +2118,7 @@ SM_V7_6	WormBase_imported	CDS	4497122	4497207	.	+	2	ID=cds:Smp_331310.1;Parent=t
 SM_V7_6	WormBase_imported	three_prime_UTR	4497208	4497323	.	+	.	Parent=transcript:Smp_331310.1
 SM_V7_6	WormBase_imported	gene	5971706	5992571	.	+	.	ID=gene:Smp_172180;Name=Smp_172180;biotype=protein_coding;description=MEG-8 family;description_source=UniProtKB/TrEMBL;description_source_acc=G4VLP3
 SM_V7_6	WormBase_imported	mRNA	5971706	5992571	.	+	.	ID=transcript:Smp_172180.1;Parent=gene:Smp_172180;Name=Smp_172180.1
+#microexons transcript:Smp_172180.1:  90 15-12-21-21-15-15-15 33 30-30-15-15-24 22 21 169
 SM_V7_6	WormBase_imported	exon	5971706	5971795	.	+	.	ID=exon:Smp_172180.1.1;Parent=transcript:Smp_172180.1
 SM_V7_6	WormBase_imported	exon	5972585	5972599	.	+	.	ID=exon:Smp_172180.1.2;Parent=transcript:Smp_172180.1
 SM_V7_6	WormBase_imported	exon	5973423	5973434	.	+	.	ID=exon:Smp_172180.1.3;Parent=transcript:Smp_172180.1
@@ -2087,6 +2157,7 @@ SM_V7_6	WormBase_imported	CDS	5992403	5992463	.	+	1	ID=cds:Smp_172180.1;Parent=t
 SM_V7_6	WormBase_imported	three_prime_UTR	5992464	5992571	.	+	.	Parent=transcript:Smp_172180.1
 SM_V7_6	WormBase_imported	gene	6004376	6016577	.	+	.	ID=gene:Smp_331380;Name=Smp_331380;biotype=protein_coding
 SM_V7_6	WormBase_imported	mRNA	6004376	6016577	.	+	.	ID=transcript:Smp_331380.1;Parent=gene:Smp_331380;Name=Smp_331380.1
+#microexons transcript:Smp_331380.1:  248 15-30-30-15-15-24 22 21 189
 SM_V7_6	WormBase_imported	exon	6004376	6004623	.	+	.	ID=exon:Smp_331380.1.1;Parent=transcript:Smp_331380.1
 SM_V7_6	WormBase_imported	exon	6006093	6006107	.	+	.	ID=exon:Smp_331380.1.2;Parent=transcript:Smp_331380.1
 SM_V7_6	WormBase_imported	exon	6007324	6007353	.	+	.	ID=exon:Smp_331380.1.3;Parent=transcript:Smp_331380.1
@@ -2111,7 +2182,9 @@ SM_V7_6	WormBase_imported	CDS	6016389	6016449	.	+	1	ID=cds:Smp_331380.1;Parent=t
 SM_V7_6	WormBase_imported	three_prime_UTR	6016450	6016577	.	+	.	Parent=transcript:Smp_331380.1
 SM_V7_6	WormBase_imported	gene	20075772	20108830	.	-	.	ID=gene:Smp_127990;Name=Smp_127990;biotype=protein_coding;description=MEG-13;description_source=UniProtKB/TrEMBL;description_source_acc=A0A3Q0KLA7
 SM_V7_6	WormBase_imported	mRNA	20075772	20108830	.	-	.	ID=transcript:Smp_127990.1;Parent=gene:Smp_127990;Name=Smp_127990.1
+#microexons transcript:Smp_127990.1:  68 21-24-15 36 36 36 21-24-24-24 118 203
 SM_V7_6	WormBase_imported	mRNA	20075772	20108830	.	-	.	ID=transcript:Smp_127990.2;Parent=gene:Smp_127990;Name=Smp_127990.2
+#microexons transcript:Smp_127990.2:  68 21-24 36 36 36 21-24-24-24 118 203
 SM_V7_6	WormBase_imported	exon	20108763	20108830	.	-	.	ID=exon:Smp_127990.1.1;Parent=transcript:Smp_127990.1
 SM_V7_6	WormBase_imported	exon	20103828	20103848	.	-	.	ID=exon:Smp_127990.1.2;Parent=transcript:Smp_127990.1
 SM_V7_6	WormBase_imported	exon	20100639	20100662	.	-	.	ID=exon:Smp_127990.1.3;Parent=transcript:Smp_127990.1
@@ -2168,9 +2241,13 @@ SM_V7_6	WormBase_imported	three_prime_UTR	20077192	20077238	.	-	.	Parent=transcr
 SM_V7_6	WormBase_imported	three_prime_UTR	20075772	20075974	.	-	.	Parent=transcript:Smp_127990.2
 SM_V7_7	WormBase_imported	gene	4850401	4867182	.	-	.	ID=gene:Smp_010550;Name=Smp_010550;biotype=protein_coding
 SM_V7_7	WormBase_imported	mRNA	4850404	4867182	.	-	.	ID=transcript:Smp_010550.1;Parent=gene:Smp_010550;Name=Smp_010550.1
+#microexons transcript:Smp_010550.1:  113 19 21-27 39 27-27-27 36 27 182
 SM_V7_7	WormBase_imported	mRNA	4850401	4867182	.	-	.	ID=transcript:Smp_010550.2;Parent=gene:Smp_010550;Name=Smp_010550.2
+#microexons transcript:Smp_010550.2:  117 21-27 39 27-27 39 27-27-27 36 27 185
 SM_V7_7	WormBase_imported	mRNA	4850404	4867182	.	-	.	ID=transcript:Smp_010550.3;Parent=gene:Smp_010550;Name=Smp_010550.3
+#microexons transcript:Smp_010550.3:  113 19 21-27 39 27-27 39 27-27-27 36 27 182
 SM_V7_7	WormBase_imported	mRNA	4850401	4867182	.	-	.	ID=transcript:Smp_010550.4;Parent=gene:Smp_010550;Name=Smp_010550.4
+#microexons transcript:Smp_010550.4:  113 19 21-27 39 27-27-27 36 27 185
 SM_V7_7	WormBase_imported	exon	4867070	4867182	.	-	.	ID=exon:Smp_010550.1.1;Parent=transcript:Smp_010550.1
 SM_V7_7	WormBase_imported	exon	4865916	4865934	.	-	.	ID=exon:Smp_010550.1.2;Parent=transcript:Smp_010550.1
 SM_V7_7	WormBase_imported	exon	4864200	4864220	.	-	.	ID=exon:Smp_010550.1.3;Parent=transcript:Smp_010550.1
@@ -2279,7 +2356,9 @@ SM_V7_7	WormBase_imported	CDS	4850480	4850585	.	-	1	ID=cds:Smp_010550.4;Parent=t
 SM_V7_7	WormBase_imported	three_prime_UTR	4850401	4850479	.	-	.	Parent=transcript:Smp_010550.4
 SM_V7_7	WormBase_imported	gene	8045643	8059978	.	-	.	ID=gene:Smp_318200;Name=Smp_318200;biotype=protein_coding
 SM_V7_7	WormBase_imported	mRNA	8046741	8059978	.	-	.	ID=transcript:Smp_318200.1;Parent=gene:Smp_318200;Name=Smp_318200.1
+#microexons transcript:Smp_318200.1:  116 16 15-21-21-21-21-21 196
 SM_V7_7	WormBase_imported	mRNA	8045643	8059978	.	-	.	ID=transcript:Smp_318200.2;Parent=gene:Smp_318200;Name=Smp_318200.2
+#microexons transcript:Smp_318200.2:  116 16 15-21-21-21-21-21 268
 SM_V7_7	WormBase_imported	exon	8059863	8059978	.	-	.	ID=exon:Smp_318200.1.1;Parent=transcript:Smp_318200.1
 SM_V7_7	WormBase_imported	exon	8057513	8057528	.	-	.	ID=exon:Smp_318200.1.2;Parent=transcript:Smp_318200.1
 SM_V7_7	WormBase_imported	exon	8056460	8056474	.	-	.	ID=exon:Smp_318200.1.3;Parent=transcript:Smp_318200.1
@@ -2322,6 +2401,7 @@ SM_V7_7	WormBase_imported	CDS	8045784	8045910	.	-	1	ID=cds:Smp_318200.2;Parent=t
 SM_V7_7	WormBase_imported	three_prime_UTR	8045643	8045783	.	-	.	Parent=transcript:Smp_318200.2
 SM_V7_7	WormBase_imported	gene	14782296	14792972	.	+	.	ID=gene:Smp_125320;Name=Smp_125320;biotype=protein_coding;description=MEG-9;description_source=UniProtKB/TrEMBL;description_source_acc=A0A3Q0KKW2
 SM_V7_7	WormBase_imported	mRNA	14782296	14792972	.	+	.	ID=transcript:Smp_125320.1;Parent=gene:Smp_125320;Name=Smp_125320.1
+#microexons transcript:Smp_125320.1:  102 6 25 15-21-18 175
 SM_V7_7	WormBase_imported	exon	14782296	14782397	.	+	.	ID=exon:Smp_125320.1.1;Parent=transcript:Smp_125320.1
 SM_V7_7	WormBase_imported	exon	14785152	14785157	.	+	.	ID=exon:Smp_125320.1.2;Parent=transcript:Smp_125320.1
 SM_V7_7	WormBase_imported	exon	14786396	14786420	.	+	.	ID=exon:Smp_125320.1.3;Parent=transcript:Smp_125320.1
@@ -2340,6 +2420,7 @@ SM_V7_7	WormBase_imported	CDS	14792798	14792873	.	+	1	ID=cds:Smp_125320.1;Parent
 SM_V7_7	WormBase_imported	three_prime_UTR	14792874	14792972	.	+	.	Parent=transcript:Smp_125320.1
 SM_V7_6H019	WormBase_imported	gene	3716	26395	.	+	.	ID=gene:Smp_325290;Name=Smp_325290;biotype=protein_coding
 SM_V7_6H019	WormBase_imported	mRNA	3716	26395	.	+	.	ID=transcript:Smp_325290.1;Parent=gene:Smp_325290;Name=Smp_325290.1
+#microexons transcript:Smp_325290.1:  113 24-21-15-18-21-21-24 541
 SM_V7_6H019	WormBase_imported	exon	3716	3828	.	+	.	ID=exon:Smp_325290.1.1;Parent=transcript:Smp_325290.1
 SM_V7_6H019	WormBase_imported	exon	6284	6307	.	+	.	ID=exon:Smp_325290.1.2;Parent=transcript:Smp_325290.1
 SM_V7_6H019	WormBase_imported	exon	7989	8009	.	+	.	ID=exon:Smp_325290.1.3;Parent=transcript:Smp_325290.1

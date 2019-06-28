@@ -1,5 +1,6 @@
 SMUV_contig0000166	WormBase_imported	gene	128	15473	.	+	.	ID=gene:SMUV_0000075401;Name=SMUV_0000075401;biotype=protein_coding
 SMUV_contig0000166	WormBase_imported	mRNA	128	15473	.	+	.	ID=transcript:SMUV_0000075401-mRNA-1;Parent=gene:SMUV_0000075401;Name=SMUV_0000075401-mRNA-1;info=method:InterPro accession:IPR016024 description:Armadillo-type fold %0Amethod:InterPro accession:IPR025481 description:Cell morphogenesis protein C-terminal %0Amethod:InterPro accession:IPR025614 description:Cell morphogenesis protein N-terminal %0Amethod:InterPro accession:IPR039867 description:Protein furry/Tao3/Mor2
+#microexons transcript:SMUV_0000075401-mRNA-1:  98 13 160 161 165 211 138 99 152 181 157 143 65 85 156 143 130 123 69 170 198 177 121 117 79 100 160 155 242 101 237 264 125 226 191 226 259 324 191 69 126 111 9-15-30 75 129 75 164 179 113 123 99 150 99 75 108 182 255
 SMUV_contig0000166	WormBase_imported	exon	128	225	.	+	.	ID=exon:SMUV_0000075401-mRNA-1.1;Parent=transcript:SMUV_0000075401-mRNA-1
 SMUV_contig0000166	WormBase_imported	exon	301	313	.	+	.	ID=exon:SMUV_0000075401-mRNA-1.2;Parent=transcript:SMUV_0000075401-mRNA-1
 SMUV_contig0000166	WormBase_imported	exon	557	716	.	+	.	ID=exon:SMUV_0000075401-mRNA-1.3;Parent=transcript:SMUV_0000075401-mRNA-1

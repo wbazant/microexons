@@ -1,5 +1,6 @@
 DICVIVDFT_Contig54	WormBase_imported	gene	167113	168054	.	-	.	ID=gene:DICVIV_03205;Name=DICVIV_03205;biotype=protein_coding
 DICVIVDFT_Contig54	WormBase_imported	mRNA	167113	168054	.	-	.	ID=transcript:DICVIV_03205;Parent=gene:DICVIV_03205;Name=DICVIV_03205
+#microexons transcript:DICVIV_03205:  27-27-24 36 87
 DICVIVDFT_Contig54	WormBase_imported	exon	168028	168054	.	-	.	ID=exon:DICVIV_03205.1;Parent=transcript:DICVIV_03205
 DICVIVDFT_Contig54	WormBase_imported	exon	167631	167657	.	-	.	ID=exon:DICVIV_03205.2;Parent=transcript:DICVIV_03205
 DICVIVDFT_Contig54	WormBase_imported	exon	167507	167530	.	-	.	ID=exon:DICVIV_03205.3;Parent=transcript:DICVIV_03205

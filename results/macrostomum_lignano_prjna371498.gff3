@@ -1,5 +1,6 @@
 scaf709	WormBase_imported	gene	53505	57864	.	+	.	ID=gene:BOX15_Mlig027664g1;Name=BOX15_Mlig027664g1;biotype=protein_coding
 scaf709	WormBase_imported	mRNA	53505	57864	.	+	.	ID=transcript:BOX15_Mlig027664g1;Parent=gene:BOX15_Mlig027664g1;Name=BOX15_Mlig027664g1;info=method:InterPro accession:IPR000727 description:Target SNARE coiled-coil homology domain %0Amethod:InterPro accession:IPR006011 description:Syntaxin%2C N-terminal domain %0Amethod:InterPro accession:IPR010989 description:SNARE
+#microexons transcript:BOX15_Mlig027664g1:  305 247 421 6-6-9 950
 scaf709	WormBase_imported	exon	53505	53809	.	+	.	ID=exon:BOX15_Mlig027664g1.1;Parent=transcript:BOX15_Mlig027664g1
 scaf709	WormBase_imported	exon	54945	55191	.	+	.	ID=exon:BOX15_Mlig027664g1.2;Parent=transcript:BOX15_Mlig027664g1
 scaf709	WormBase_imported	exon	55852	56272	.	+	.	ID=exon:BOX15_Mlig027664g1.3;Parent=transcript:BOX15_Mlig027664g1
@@ -18,6 +19,7 @@ scaf709	WormBase_imported	three_prime_UTR	56883	56891	.	+	.	Parent=transcript:BO
 scaf709	WormBase_imported	three_prime_UTR	56915	57864	.	+	.	Parent=transcript:BOX15_Mlig027664g1
 scaf1701	WormBase_imported	gene	120604	123441	.	+	.	ID=gene:BOX15_Mlig011564g1;Name=BOX15_Mlig011564g1;biotype=protein_coding
 scaf1701	WormBase_imported	mRNA	120604	123441	.	+	.	ID=transcript:BOX15_Mlig011564g1;Parent=gene:BOX15_Mlig011564g1;Name=BOX15_Mlig011564g1;info=method:InterPro accession:IPR010788 description:VDE lipocalin domain
+#microexons transcript:BOX15_Mlig011564g1:  703 969 3-15-27 140
 scaf1701	WormBase_imported	exon	120604	121306	.	+	.	ID=exon:BOX15_Mlig011564g1.1;Parent=transcript:BOX15_Mlig011564g1
 scaf1701	WormBase_imported	exon	121917	122885	.	+	.	ID=exon:BOX15_Mlig011564g1.2;Parent=transcript:BOX15_Mlig011564g1
 scaf1701	WormBase_imported	exon	122906	122908	.	+	.	ID=exon:BOX15_Mlig011564g1.3;Parent=transcript:BOX15_Mlig011564g1
@@ -34,6 +36,7 @@ scaf1701	WormBase_imported	three_prime_UTR	123254	123280	.	+	.	Parent=transcript
 scaf1701	WormBase_imported	three_prime_UTR	123302	123441	.	+	.	Parent=transcript:BOX15_Mlig011564g1
 scaf1623	WormBase_imported	gene	97336	119862	.	-	.	ID=gene:BOX15_Mlig032271g2;Name=BOX15_Mlig032271g2;biotype=protein_coding
 scaf1623	WormBase_imported	mRNA	97336	119862	.	-	.	ID=transcript:BOX15_Mlig032271g2;Parent=gene:BOX15_Mlig032271g2;Name=BOX15_Mlig032271g2;info=method:InterPro accession:IPR004089 description:Methyl-accepting chemotaxis protein (MCP) signalling domain %0Amethod:InterPro accession:IPR038765 description:Papain-like cysteine peptidase superfamily
+#microexons transcript:BOX15_Mlig032271g2:  1226 2380 55 1615 98 9-18-27 789 67 42 1469 1869
 scaf1623	WormBase_imported	exon	118637	119862	.	-	.	ID=exon:BOX15_Mlig032271g2.1;Parent=transcript:BOX15_Mlig032271g2
 scaf1623	WormBase_imported	exon	113638	116017	.	-	.	ID=exon:BOX15_Mlig032271g2.2;Parent=transcript:BOX15_Mlig032271g2
 scaf1623	WormBase_imported	exon	113190	113244	.	-	.	ID=exon:BOX15_Mlig032271g2.3;Parent=transcript:BOX15_Mlig032271g2
@@ -64,6 +67,7 @@ scaf1623	WormBase_imported	CDS	98359	99204	.	-	0	ID=cds:BOX15_Mlig032271g2;Paren
 scaf1623	WormBase_imported	three_prime_UTR	97336	98358	.	-	.	Parent=transcript:BOX15_Mlig032271g2
 scaf4337	WormBase_imported	gene	30754	38396	.	-	.	ID=gene:BOX15_Mlig028116g1;Name=BOX15_Mlig028116g1;biotype=protein_coding
 scaf4337	WormBase_imported	mRNA	30754	38396	.	-	.	ID=transcript:BOX15_Mlig028116g1;Parent=gene:BOX15_Mlig028116g1;Name=BOX15_Mlig028116g1;info=method:InterPro accession:IPR000007 description:Tubby%2C C-terminal %0Amethod:InterPro accession:IPR015943 description:WD40/YVTN repeat-like-containing domain superfamily %0Amethod:InterPro accession:IPR025659 description:Tubby-like%2C C-terminal %0Amethod:InterPro accession:IPR036322 description:WD40-repeat-containing domain superfamily
+#microexons transcript:BOX15_Mlig028116g1:  319 397 2339 21-21-30 29 1053
 scaf4337	WormBase_imported	exon	38078	38396	.	-	.	ID=exon:BOX15_Mlig028116g1.1;Parent=transcript:BOX15_Mlig028116g1
 scaf4337	WormBase_imported	exon	37154	37550	.	-	.	ID=exon:BOX15_Mlig028116g1.2;Parent=transcript:BOX15_Mlig028116g1
 scaf4337	WormBase_imported	exon	32091	34429	.	-	.	ID=exon:BOX15_Mlig028116g1.3;Parent=transcript:BOX15_Mlig028116g1

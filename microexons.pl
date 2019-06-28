@@ -20,11 +20,29 @@ while(<>){
 process_gene(@buffer) if @buffer;
 
 sub process_gene {
-  if (is_microexon_structure(grep {$_->[2] eq "exon"} @_)){
-     print join ("\t", @$_) for @_;
+  my @lines = @_;
+  return unless is_microexon_structure(grep {$_->[2] eq "exon"} @lines);
+  for my $line (@lines) {
+     my @F = @$line;
+     print join ("\t", @F);
+     if ($F[2] eq "mRNA"){
+       my ($id) = $F[8] =~ /ID=(.*?);/;
+       print "#microexons $id: ";
+       my $is_ml_previous = 0;
+       for my $length (map {$_->[4] - $_->[3] +1} grep {$_->[2] eq "exon" && $_->[8] =~ /Parent=$id/} @lines){
+          my $is_ml = is_microexon_length ($length);
+          print $is_ml && $is_ml_previous ?"-":" ";
+          print $length;
+          $is_ml_previous = $is_ml;
+       }
+       print "\n";
+     }
   }
 }
-
+sub is_microexon_length {
+  my ($length) = @_;
+  return $length <= 30 && $length % 3 ==0 ? 1 : 0;
+}
 sub is_microexon_structure {
   my @scores = map {looks_like_microexon(@$_)} @_;
   return scalar @_ >= 5 && largest_running_total(@scores) >=3;
@@ -32,7 +50,7 @@ sub is_microexon_structure {
 
 sub looks_like_microexon {
   my $length = $_[4] - $_[3] + 1;
-  my $result = $length <= 30 && $length % 3 ==0 ? 1 : 0;
+  my $result = is_microexon_length($length);
   print STDERR "looks_like_microexon: $result .".join("\t", @_)
    if $ENV{MICROEXONS_VERBOSE};
   return $result;

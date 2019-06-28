@@ -1,5 +1,6 @@
 scaffold_83	WormBase_imported	gene	273350	275987	.	-	.	ID=gene:Parapristionchus-sn_msk-S_83-1.72-mRNA-1;Name=Parapristionchus-sn_msk-S_83-1.72-mRNA-1;biotype=protein_coding
 scaffold_83	WormBase_imported	mRNA	273350	275987	.	-	.	ID=transcript:Parapristionchus-sn_msk-S_83-1.72-mRNA-1;Parent=gene:Parapristionchus-sn_msk-S_83-1.72-mRNA-1;Name=Parapristionchus-sn_msk-S_83-1.72-mRNA-1
+#microexons transcript:Parapristionchus-sn_msk-S_83-1.72-mRNA-1:  120 48 36 6-6-6-6-6-6-6-6-6-6-6-6 13 47 48 36 6 45
 scaffold_83	WormBase_imported	exon	275868	275987	.	-	.	ID=exon:Parapristionchus-sn_msk-S_83-1.72-mRNA-1.1;Parent=transcript:Parapristionchus-sn_msk-S_83-1.72-mRNA-1
 scaffold_83	WormBase_imported	exon	275536	275583	.	-	.	ID=exon:Parapristionchus-sn_msk-S_83-1.72-mRNA-1.2;Parent=transcript:Parapristionchus-sn_msk-S_83-1.72-mRNA-1
 scaffold_83	WormBase_imported	exon	275389	275424	.	-	.	ID=exon:Parapristionchus-sn_msk-S_83-1.72-mRNA-1.3;Parent=transcript:Parapristionchus-sn_msk-S_83-1.72-mRNA-1
@@ -44,6 +45,7 @@ scaffold_83	WormBase_imported	CDS	273416	273421	.	-	0	ID=cds:Parapristionchus-sn
 scaffold_83	WormBase_imported	CDS	273350	273394	.	-	0	ID=cds:Parapristionchus-sn_msk-S_83-1.72-mRNA-1;Parent=transcript:Parapristionchus-sn_msk-S_83-1.72-mRNA-1
 scaffold_178	WormBase_imported	gene	154494	158790	.	-	.	ID=gene:Parapristionchus-sn_msk-S_178-1.60-mRNA-1;Name=Parapristionchus-sn_msk-S_178-1.60-mRNA-1;biotype=protein_coding
 scaffold_178	WormBase_imported	mRNA	154494	158790	.	-	.	ID=transcript:Parapristionchus-sn_msk-S_178-1.60-mRNA-1;Parent=gene:Parapristionchus-sn_msk-S_178-1.60-mRNA-1;Name=Parapristionchus-sn_msk-S_178-1.60-mRNA-1
+#microexons transcript:Parapristionchus-sn_msk-S_178-1.60-mRNA-1:  44 72 71 26 24-27-21
 scaffold_178	WormBase_imported	exon	158747	158790	.	-	.	ID=exon:Parapristionchus-sn_msk-S_178-1.60-mRNA-1.1;Parent=transcript:Parapristionchus-sn_msk-S_178-1.60-mRNA-1
 scaffold_178	WormBase_imported	exon	158315	158386	.	-	.	ID=exon:Parapristionchus-sn_msk-S_178-1.60-mRNA-1.2;Parent=transcript:Parapristionchus-sn_msk-S_178-1.60-mRNA-1
 scaffold_178	WormBase_imported	exon	155910	155980	.	-	.	ID=exon:Parapristionchus-sn_msk-S_178-1.60-mRNA-1.3;Parent=transcript:Parapristionchus-sn_msk-S_178-1.60-mRNA-1
@@ -60,6 +62,7 @@ scaffold_178	WormBase_imported	CDS	154697	154723	.	-	0	ID=cds:Parapristionchus-s
 scaffold_178	WormBase_imported	CDS	154494	154514	.	-	0	ID=cds:Parapristionchus-sn_msk-S_178-1.60-mRNA-1;Parent=transcript:Parapristionchus-sn_msk-S_178-1.60-mRNA-1
 scaffold_203	WormBase_imported	gene	17015	29271	.	-	.	ID=gene:Parapristionchus-mkr-S_203-0.105-mRNA-1;Name=Parapristionchus-mkr-S_203-0.105-mRNA-1;biotype=protein_coding
 scaffold_203	WormBase_imported	mRNA	17015	29271	.	-	.	ID=transcript:Parapristionchus-mkr-S_203-0.105-mRNA-1;Parent=gene:Parapristionchus-mkr-S_203-0.105-mRNA-1;Name=Parapristionchus-mkr-S_203-0.105-mRNA-1;info=method:InterPro accession:IPR000629 description:ATP-dependent RNA helicase DEAD-box%2C conserved site %0Amethod:InterPro accession:IPR000994 description:Peptidase M24 %0Amethod:InterPro accession:IPR001650 description:Helicase%2C C-terminal %0Amethod:InterPro accession:IPR001714 description:Peptidase M24%2C methionine aminopeptidase %0Amethod:InterPro accession:IPR002468 description:Peptidase M24A%2C methionine aminopeptidase%2C subfamily 2 %0Amethod:InterPro accession:IPR011545 description:DEAD/DEAH box helicase domain %0Amethod:InterPro accession:IPR014001 description:Helicase superfamily 1/2%2C ATP-binding domain %0Amethod:InterPro accession:IPR014014 description:RNA helicase%2C DEAD-box type%2C Q motif %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR036005 description:Creatinase/aminopeptidase-like %0Amethod:InterPro accession:IPR036388 description:Winged helix-like DNA-binding domain superfamily %0Amethod:InterPro accession:IPR036390 description:Winged helix DNA-binding domain superfamily
+#microexons transcript:Parapristionchus-mkr-S_203-0.105-mRNA-1:  6-24-12 211 181 94 98 139 119 142 106 122 122 103 123 86 107 98 132 516 62 62 108 98 111 89 73 84 171 92 67 113 130 123
 scaffold_203	WormBase_imported	exon	29266	29271	.	-	.	ID=exon:Parapristionchus-mkr-S_203-0.105-mRNA-1.1;Parent=transcript:Parapristionchus-mkr-S_203-0.105-mRNA-1
 scaffold_203	WormBase_imported	exon	29036	29059	.	-	.	ID=exon:Parapristionchus-mkr-S_203-0.105-mRNA-1.2;Parent=transcript:Parapristionchus-mkr-S_203-0.105-mRNA-1
 scaffold_203	WormBase_imported	exon	28844	28855	.	-	.	ID=exon:Parapristionchus-mkr-S_203-0.105-mRNA-1.3;Parent=transcript:Parapristionchus-mkr-S_203-0.105-mRNA-1
@@ -130,6 +133,7 @@ scaffold_203	WormBase_imported	CDS	17189	17318	.	-	1	ID=cds:Parapristionchus-mkr
 scaffold_203	WormBase_imported	CDS	17015	17137	.	-	0	ID=cds:Parapristionchus-mkr-S_203-0.105-mRNA-1;Parent=transcript:Parapristionchus-mkr-S_203-0.105-mRNA-1
 scaffold_245	WormBase_imported	gene	171430	173581	.	-	.	ID=gene:Parapristionchus-mkr-S_245-0.43-mRNA-1;Name=Parapristionchus-mkr-S_245-0.43-mRNA-1;biotype=protein_coding
 scaffold_245	WormBase_imported	mRNA	171430	173581	.	-	.	ID=transcript:Parapristionchus-mkr-S_245-0.43-mRNA-1;Parent=gene:Parapristionchus-mkr-S_245-0.43-mRNA-1;Name=Parapristionchus-mkr-S_245-0.43-mRNA-1
+#microexons transcript:Parapristionchus-mkr-S_245-0.43-mRNA-1:  95 113 101 56 126 27-21-27 33 30 49
 scaffold_245	WormBase_imported	exon	173487	173581	.	-	.	ID=exon:Parapristionchus-mkr-S_245-0.43-mRNA-1.1;Parent=transcript:Parapristionchus-mkr-S_245-0.43-mRNA-1
 scaffold_245	WormBase_imported	exon	173227	173339	.	-	.	ID=exon:Parapristionchus-mkr-S_245-0.43-mRNA-1.2;Parent=transcript:Parapristionchus-mkr-S_245-0.43-mRNA-1
 scaffold_245	WormBase_imported	exon	172810	172910	.	-	.	ID=exon:Parapristionchus-mkr-S_245-0.43-mRNA-1.3;Parent=transcript:Parapristionchus-mkr-S_245-0.43-mRNA-1
@@ -581,6 +585,7 @@ scaffold_245	trf	tandem_repeat	174135	174167	59	-	.
 scaffold_245	trf	tandem_repeat	174208	174260	62	-	.	
 scaffold_264	WormBase_imported	gene	15826	26777	.	+	.	ID=gene:Parapristionchus-sn_msk-S_264-0.12-mRNA-1;Name=Parapristionchus-sn_msk-S_264-0.12-mRNA-1;biotype=protein_coding
 scaffold_264	WormBase_imported	mRNA	15826	26777	.	+	.	ID=transcript:Parapristionchus-sn_msk-S_264-0.12-mRNA-1;Parent=gene:Parapristionchus-sn_msk-S_264-0.12-mRNA-1;Name=Parapristionchus-sn_msk-S_264-0.12-mRNA-1;info=method:InterPro accession:IPR026896 description:Transcription termination and cleavage factor%2C C-terminal domain %0Amethod:InterPro accession:IPR038192 description:CSTF2%2C C-terminal domain superfamily
+#microexons transcript:Parapristionchus-sn_msk-S_264-0.12-mRNA-1:  15-24-30 73 44 56 89 90 275 99
 scaffold_264	WormBase_imported	exon	15826	15840	.	+	.	ID=exon:Parapristionchus-sn_msk-S_264-0.12-mRNA-1.1;Parent=transcript:Parapristionchus-sn_msk-S_264-0.12-mRNA-1
 scaffold_264	WormBase_imported	exon	15904	15927	.	+	.	ID=exon:Parapristionchus-sn_msk-S_264-0.12-mRNA-1.2;Parent=transcript:Parapristionchus-sn_msk-S_264-0.12-mRNA-1
 scaffold_264	WormBase_imported	exon	16024	16053	.	+	.	ID=exon:Parapristionchus-sn_msk-S_264-0.12-mRNA-1.3;Parent=transcript:Parapristionchus-sn_msk-S_264-0.12-mRNA-1
@@ -603,6 +608,7 @@ scaffold_264	WormBase_imported	CDS	26207	26481	.	+	2	ID=cds:Parapristionchus-sn_
 scaffold_264	WormBase_imported	CDS	26679	26777	.	+	0	ID=cds:Parapristionchus-sn_msk-S_264-0.12-mRNA-1;Parent=transcript:Parapristionchus-sn_msk-S_264-0.12-mRNA-1
 scaffold_485	WormBase_imported	gene	17543	20187	.	+	.	ID=gene:Parapristionchus-mkr-S_485-0.35-mRNA-1;Name=Parapristionchus-mkr-S_485-0.35-mRNA-1;biotype=protein_coding
 scaffold_485	WormBase_imported	mRNA	17543	20187	.	+	.	ID=transcript:Parapristionchus-mkr-S_485-0.35-mRNA-1;Parent=gene:Parapristionchus-mkr-S_485-0.35-mRNA-1;Name=Parapristionchus-mkr-S_485-0.35-mRNA-1
+#microexons transcript:Parapristionchus-mkr-S_485-0.35-mRNA-1:  98 122 110 59 126 27-30-27 36 27 61
 scaffold_485	WormBase_imported	exon	17543	17640	.	+	.	ID=exon:Parapristionchus-mkr-S_485-0.35-mRNA-1.1;Parent=transcript:Parapristionchus-mkr-S_485-0.35-mRNA-1
 scaffold_485	WormBase_imported	exon	17911	18032	.	+	.	ID=exon:Parapristionchus-mkr-S_485-0.35-mRNA-1.2;Parent=transcript:Parapristionchus-mkr-S_485-0.35-mRNA-1
 scaffold_485	WormBase_imported	exon	18689	18798	.	+	.	ID=exon:Parapristionchus-mkr-S_485-0.35-mRNA-1.3;Parent=transcript:Parapristionchus-mkr-S_485-0.35-mRNA-1
@@ -627,6 +633,7 @@ scaffold_485	WormBase_imported	CDS	20048	20074	.	+	1	ID=cds:Parapristionchus-mkr
 scaffold_485	WormBase_imported	CDS	20127	20187	.	+	1	ID=cds:Parapristionchus-mkr-S_485-0.35-mRNA-1;Parent=transcript:Parapristionchus-mkr-S_485-0.35-mRNA-1
 scaffold_485	WormBase_imported	gene	20733	23505	.	+	.	ID=gene:Parapristionchus-mkr-S_485-0.36-mRNA-1;Name=Parapristionchus-mkr-S_485-0.36-mRNA-1;biotype=protein_coding
 scaffold_485	WormBase_imported	mRNA	20733	23505	.	+	.	ID=transcript:Parapristionchus-mkr-S_485-0.36-mRNA-1;Parent=gene:Parapristionchus-mkr-S_485-0.36-mRNA-1;Name=Parapristionchus-mkr-S_485-0.36-mRNA-1
+#microexons transcript:Parapristionchus-mkr-S_485-0.36-mRNA-1:  47 119 50 59 27-30-27 36 27 61
 scaffold_485	WormBase_imported	exon	20733	20779	.	+	.	ID=exon:Parapristionchus-mkr-S_485-0.36-mRNA-1.1;Parent=transcript:Parapristionchus-mkr-S_485-0.36-mRNA-1
 scaffold_485	WormBase_imported	exon	20995	21113	.	+	.	ID=exon:Parapristionchus-mkr-S_485-0.36-mRNA-1.2;Parent=transcript:Parapristionchus-mkr-S_485-0.36-mRNA-1
 scaffold_485	WormBase_imported	exon	21872	21921	.	+	.	ID=exon:Parapristionchus-mkr-S_485-0.36-mRNA-1.3;Parent=transcript:Parapristionchus-mkr-S_485-0.36-mRNA-1
@@ -649,6 +656,7 @@ scaffold_485	WormBase_imported	CDS	23366	23392	.	+	1	ID=cds:Parapristionchus-mkr
 scaffold_485	WormBase_imported	CDS	23445	23505	.	+	1	ID=cds:Parapristionchus-mkr-S_485-0.36-mRNA-1;Parent=transcript:Parapristionchus-mkr-S_485-0.36-mRNA-1
 scaffold_1025	WormBase_imported	gene	12169	14310	.	+	.	ID=gene:Parapristionchus-sn_msk-S_1025-0.4-mRNA-1;Name=Parapristionchus-sn_msk-S_1025-0.4-mRNA-1;biotype=protein_coding
 scaffold_1025	WormBase_imported	mRNA	12169	14310	.	+	.	ID=transcript:Parapristionchus-sn_msk-S_1025-0.4-mRNA-1;Parent=gene:Parapristionchus-sn_msk-S_1025-0.4-mRNA-1;Name=Parapristionchus-sn_msk-S_1025-0.4-mRNA-1
+#microexons transcript:Parapristionchus-sn_msk-S_1025-0.4-mRNA-1:  18-18-6 84 54 57 93 42
 scaffold_1025	WormBase_imported	exon	12169	12186	.	+	.	ID=exon:Parapristionchus-sn_msk-S_1025-0.4-mRNA-1.1;Parent=transcript:Parapristionchus-sn_msk-S_1025-0.4-mRNA-1
 scaffold_1025	WormBase_imported	exon	12477	12494	.	+	.	ID=exon:Parapristionchus-sn_msk-S_1025-0.4-mRNA-1.2;Parent=transcript:Parapristionchus-sn_msk-S_1025-0.4-mRNA-1
 scaffold_1025	WormBase_imported	exon	12586	12591	.	+	.	ID=exon:Parapristionchus-sn_msk-S_1025-0.4-mRNA-1.3;Parent=transcript:Parapristionchus-sn_msk-S_1025-0.4-mRNA-1
@@ -667,6 +675,7 @@ scaffold_1025	WormBase_imported	CDS	14091	14183	.	+	0	ID=cds:Parapristionchus-sn
 scaffold_1025	WormBase_imported	CDS	14269	14310	.	+	0	ID=cds:Parapristionchus-sn_msk-S_1025-0.4-mRNA-1;Parent=transcript:Parapristionchus-sn_msk-S_1025-0.4-mRNA-1
 scaffold_2821	WormBase_imported	gene	1287	2346	.	+	.	ID=gene:Parapristionchus-sn_msk-S_2821-0.1-mRNA-1;Name=Parapristionchus-sn_msk-S_2821-0.1-mRNA-1;biotype=protein_coding
 scaffold_2821	WormBase_imported	mRNA	1287	2346	.	+	.	ID=transcript:Parapristionchus-sn_msk-S_2821-0.1-mRNA-1;Parent=gene:Parapristionchus-sn_msk-S_2821-0.1-mRNA-1;Name=Parapristionchus-sn_msk-S_2821-0.1-mRNA-1
+#microexons transcript:Parapristionchus-sn_msk-S_2821-0.1-mRNA-1:  51 60 24-30-24
 scaffold_2821	WormBase_imported	exon	1287	1337	.	+	.	ID=exon:Parapristionchus-sn_msk-S_2821-0.1-mRNA-1.1;Parent=transcript:Parapristionchus-sn_msk-S_2821-0.1-mRNA-1
 scaffold_2821	WormBase_imported	exon	1463	1522	.	+	.	ID=exon:Parapristionchus-sn_msk-S_2821-0.1-mRNA-1.2;Parent=transcript:Parapristionchus-sn_msk-S_2821-0.1-mRNA-1
 scaffold_2821	WormBase_imported	exon	1852	1875	.	+	.	ID=exon:Parapristionchus-sn_msk-S_2821-0.1-mRNA-1.3;Parent=transcript:Parapristionchus-sn_msk-S_2821-0.1-mRNA-1

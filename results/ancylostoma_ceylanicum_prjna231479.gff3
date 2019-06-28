@@ -1,9 +1,14 @@
 Acey_s0002_scaf	WormBase_imported	gene	2681366	2686507	.	+	.	ID=gene:Acey_s0002.g908;Name=Acey_s0002.g908;biotype=protein_coding;locus=Acey_s0002.g908
 Acey_s0002_scaf	WormBase_imported	mRNA	2681366	2686399	.	+	.	ID=transcript:Acey_s0002.g908.t1;Parent=gene:Acey_s0002.g908;Name=Acey_s0002.g908.t1
+#microexons transcript:Acey_s0002.g908.t1:  78 31 80 105 118 737
 Acey_s0002_scaf	WormBase_imported	mRNA	2681414	2686399	.	+	.	ID=transcript:Acey_s0002.g908.t2;Parent=gene:Acey_s0002.g908;Name=Acey_s0002.g908.t2
+#microexons transcript:Acey_s0002.g908.t2:  30 31 80 105 118 737
 Acey_s0002_scaf	WormBase_imported	mRNA	2681414	2686399	.	+	.	ID=transcript:Acey_s0002.g908.t3;Parent=gene:Acey_s0002.g908;Name=Acey_s0002.g908.t3
+#microexons transcript:Acey_s0002.g908.t3:  4 54 80 105 118 737
 Acey_s0002_scaf	WormBase_imported	mRNA	2681366	2686507	.	+	.	ID=transcript:Acey_s0002.g908.t4;Parent=gene:Acey_s0002.g908;Name=Acey_s0002.g908.t4
+#microexons transcript:Acey_s0002.g908.t4:  78 31 80 105 118 695 9-18
 Acey_s0002_scaf	WormBase_imported	mRNA	2681414	2686507	.	+	.	ID=transcript:Acey_s0002.g908.t5;Parent=gene:Acey_s0002.g908;Name=Acey_s0002.g908.t5
+#microexons transcript:Acey_s0002.g908.t5:  30 31 80 105 118 695 9-18
 Acey_s0002_scaf	WormBase_imported	exon	2681366	2681443	.	+	.	ID=exon:Acey_s0002.g908.t1.1;Parent=transcript:Acey_s0002.g908.t1
 Acey_s0002_scaf	WormBase_imported	exon	2681559	2681589	.	+	.	ID=exon:Acey_s0002.g908.t1.2;Parent=transcript:Acey_s0002.g908.t1
 Acey_s0002_scaf	WormBase_imported	exon	2681681	2681760	.	+	.	ID=exon:Acey_s0002.g908.t1.3;Parent=transcript:Acey_s0002.g908.t1
@@ -74,8 +79,11 @@ Acey_s0002_scaf	WormBase_imported	CDS	2686427	2686435	.	+	0	ID=cds:Acey_s0002.g9
 Acey_s0002_scaf	WormBase_imported	CDS	2686490	2686507	.	+	0	ID=cds:Acey_s0002.g908.t5;Parent=transcript:Acey_s0002.g908.t5
 Acey_s0064_scaf	WormBase_imported	gene	662416	673837	.	-	.	ID=gene:Acey_s0064.g3553;Name=Acey_s0064.g3553;biotype=protein_coding;locus=Acey_s0064.g3553
 Acey_s0064_scaf	WormBase_imported	mRNA	668436	673837	.	-	.	ID=transcript:Acey_s0064.g3553.t1;Parent=gene:Acey_s0064.g3553;Name=Acey_s0064.g3553.t1
+#microexons transcript:Acey_s0064.g3553.t1:  66 45 69 156 42 42 42 45 39 45 30 45 42 78
 Acey_s0064_scaf	WormBase_imported	mRNA	662416	673837	.	-	.	ID=transcript:Acey_s0064.g3553.t2;Parent=gene:Acey_s0064.g3553;Name=Acey_s0064.g3553.t2
+#microexons transcript:Acey_s0064.g3553.t2:  66 45 69 156 42 42 42 45 39 45 30 45 42 42 57 141 30-24-24 71 98 95 105 63
 Acey_s0064_scaf	WormBase_imported	mRNA	662416	673837	.	-	.	ID=transcript:Acey_s0064.g3553.t3;Parent=gene:Acey_s0064.g3553;Name=Acey_s0064.g3553.t3
+#microexons transcript:Acey_s0064.g3553.t3:  66 45 69 156 42 42 42 45 39 45 30 45 42 42 45 57 141 30-24-24 71 98 95 105 63
 Acey_s0064_scaf	WormBase_imported	exon	673772	673837	.	-	.	ID=exon:Acey_s0064.g3553.t1.1;Parent=transcript:Acey_s0064.g3553.t1
 Acey_s0064_scaf	WormBase_imported	exon	673518	673562	.	-	.	ID=exon:Acey_s0064.g3553.t1.2;Parent=transcript:Acey_s0064.g3553.t1
 Acey_s0064_scaf	WormBase_imported	exon	673340	673408	.	-	.	ID=exon:Acey_s0064.g3553.t1.3;Parent=transcript:Acey_s0064.g3553.t1

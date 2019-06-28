@@ -1,5 +1,6 @@
 NXFT01001544.1	WormBase_imported	gene	867	2063	.	-	.	ID=gene:NXFT01001544.1.4011_g;Name=NXFT01001544.1.4011_g;biotype=protein_coding
 NXFT01001544.1	WormBase_imported	mRNA	867	2063	.	-	.	ID=transcript:NXFT01001544.1.4011_g;Parent=gene:NXFT01001544.1.4011_g;Name=NXFT01001544.1.4011_g;info=method:InterPro accession:IPR013087 description:Zinc finger C2H2-type %0Amethod:InterPro accession:IPR036236 description:Zinc finger C2H2 superfamily
+#microexons transcript:NXFT01001544.1.4011_g:  12-12-30 67 53 174 63 17 84 43
 NXFT01001544.1	WormBase_imported	exon	2052	2063	.	-	.	ID=exon:NXFT01001544.1.4011_g.1;Parent=transcript:NXFT01001544.1.4011_g
 NXFT01001544.1	WormBase_imported	exon	1924	1935	.	-	.	ID=exon:NXFT01001544.1.4011_g.2;Parent=transcript:NXFT01001544.1.4011_g
 NXFT01001544.1	WormBase_imported	exon	1833	1862	.	-	.	ID=exon:NXFT01001544.1.4011_g.3;Parent=transcript:NXFT01001544.1.4011_g

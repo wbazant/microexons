@@ -1,5 +1,6 @@
 SRAE_chr2	WormBase_imported	gene	11702895	11705259	.	+	.	ID=gene:WBGene00263969;Name=WBGene00263969;biotype=protein_coding;description=G2/mitotic-specific cyclin-B3;description_source=UniProtKB/TrEMBL;description_source_acc=A0A090LH34;locus=SRAE_2000374400
 SRAE_chr2	WormBase_imported	mRNA	11702895	11705259	.	+	.	ID=transcript:SRAE_2000374400;Parent=gene:WBGene00263969;Name=SRAE_2000374400;info=method:InterPro accession:IPR004367 description:Cyclin%2C C-terminal domain %0Amethod:InterPro accession:IPR006671 description:Cyclin%2C N-terminal %0Amethod:InterPro accession:IPR013763 description:Cyclin-like %0Amethod:InterPro accession:IPR015452 description:Cyclin B3%2C G2/mitotic-specific %0Amethod:InterPro accession:IPR036915 description:Cyclin-like superfamily %0Amethod:InterPro accession:IPR039361 description:Cyclin
+#microexons transcript:SRAE_2000374400:  23 18-6-6 253 246 543 138 120
 SRAE_chr2	WormBase_imported	exon	11702895	11702917	.	+	.	ID=exon:SRAE_2000374400.1;Parent=transcript:SRAE_2000374400
 SRAE_chr2	WormBase_imported	exon	11703321	11703338	.	+	.	ID=exon:SRAE_2000374400.2;Parent=transcript:SRAE_2000374400
 SRAE_chr2	WormBase_imported	exon	11703388	11703393	.	+	.	ID=exon:SRAE_2000374400.3;Parent=transcript:SRAE_2000374400
@@ -20,6 +21,7 @@ SRAE_chr2	WormBase_imported	CDS	11704965	11705102	.	+	0	ID=cds:SRAE_2000374400;P
 SRAE_chr2	WormBase_imported	CDS	11705140	11705259	.	+	0	ID=cds:SRAE_2000374400;Parent=transcript:SRAE_2000374400
 SRAE_chr2	WormBase_imported	gene	14481030	14486515	.	+	.	ID=gene:WBGene00264839;Name=WBGene00264839;biotype=protein_coding;locus=SRAE_2000460700
 SRAE_chr2	WormBase_imported	mRNA	14481030	14486515	.	+	.	ID=transcript:SRAE_2000460700;Parent=gene:WBGene00264839;Name=SRAE_2000460700
+#microexons transcript:SRAE_2000460700:  120 91 72 39 45 39 84 27-24-30-30 93 27-24-30-30 93 27-24-30-30 81 27-24-30-30 93 27-24-30-27 93 24-21 39 93 105 51 87 33 39 171 51 51 39 87 48 104
 SRAE_chr2	WormBase_imported	exon	14481030	14481149	.	+	.	ID=exon:SRAE_2000460700.1;Parent=transcript:SRAE_2000460700
 SRAE_chr2	WormBase_imported	exon	14481199	14481289	.	+	.	ID=exon:SRAE_2000460700.2;Parent=transcript:SRAE_2000460700
 SRAE_chr2	WormBase_imported	exon	14481332	14481403	.	+	.	ID=exon:SRAE_2000460700.3;Parent=transcript:SRAE_2000460700
@@ -118,6 +120,7 @@ SRAE_chr2	WormBase_imported	CDS	14486324	14486371	.	+	2	ID=cds:SRAE_2000460700;P
 SRAE_chr2	WormBase_imported	CDS	14486412	14486515	.	+	2	ID=cds:SRAE_2000460700;Parent=transcript:SRAE_2000460700
 SRAE_chr2	WormBase_imported	gene	14601026	14601668	.	+	.	ID=gene:WBGene00264884;Name=WBGene00264884;biotype=protein_coding;locus=SRAE_2000465000
 SRAE_chr2	WormBase_imported	mRNA	14601026	14601668	.	+	.	ID=transcript:SRAE_2000465000;Parent=gene:WBGene00264884;Name=SRAE_2000465000
+#microexons transcript:SRAE_2000465000:  111 52 30-30-30 36 53
 SRAE_chr2	WormBase_imported	exon	14601026	14601136	.	+	.	ID=exon:SRAE_2000465000.1;Parent=transcript:SRAE_2000465000
 SRAE_chr2	WormBase_imported	exon	14601187	14601238	.	+	.	ID=exon:SRAE_2000465000.2;Parent=transcript:SRAE_2000465000
 SRAE_chr2	WormBase_imported	exon	14601292	14601321	.	+	.	ID=exon:SRAE_2000465000.3;Parent=transcript:SRAE_2000465000
@@ -134,6 +137,7 @@ SRAE_chr2	WormBase_imported	CDS	14601541	14601576	.	+	2	ID=cds:SRAE_2000465000;P
 SRAE_chr2	WormBase_imported	CDS	14601616	14601668	.	+	2	ID=cds:SRAE_2000465000;Parent=transcript:SRAE_2000465000
 SRAE_chr2	WormBase_imported	gene	14610994	14611636	.	+	.	ID=gene:WBGene00264887;Name=WBGene00264887;biotype=protein_coding;locus=SRAE_2000465200
 SRAE_chr2	WormBase_imported	mRNA	14610994	14611636	.	+	.	ID=transcript:SRAE_2000465200;Parent=gene:WBGene00264887;Name=SRAE_2000465200
+#microexons transcript:SRAE_2000465200:  111 52 30-30-30 36 53
 SRAE_chr2	WormBase_imported	exon	14610994	14611104	.	+	.	ID=exon:SRAE_2000465200.1;Parent=transcript:SRAE_2000465200
 SRAE_chr2	WormBase_imported	exon	14611155	14611206	.	+	.	ID=exon:SRAE_2000465200.2;Parent=transcript:SRAE_2000465200
 SRAE_chr2	WormBase_imported	exon	14611260	14611289	.	+	.	ID=exon:SRAE_2000465200.3;Parent=transcript:SRAE_2000465200
@@ -150,6 +154,7 @@ SRAE_chr2	WormBase_imported	CDS	14611509	14611544	.	+	2	ID=cds:SRAE_2000465200;P
 SRAE_chr2	WormBase_imported	CDS	14611584	14611636	.	+	2	ID=cds:SRAE_2000465200;Parent=transcript:SRAE_2000465200
 SRAE_chr1	WormBase_imported	gene	9117018	9120686	.	-	.	ID=gene:WBGene00259462;Name=WBGene00259462;biotype=protein_coding;description=Leishmanolysin-like peptidase;description_source=UniProtKB/TrEMBL;description_source_acc=A0A090L4F0;locus=SRAE_1000284500
 SRAE_chr1	WormBase_imported	mRNA	9117018	9120686	.	-	.	ID=transcript:SRAE_1000284500;Parent=gene:WBGene00259462;Name=SRAE_1000284500;info=method:InterPro accession:IPR001577 description:Peptidase M8%2C leishmanolysin
+#microexons transcript:SRAE_1000284500:  692 1324 30-12-9
 SRAE_chr1	WormBase_imported	exon	9119995	9120686	.	-	.	ID=exon:SRAE_1000284500.1;Parent=transcript:SRAE_1000284500
 SRAE_chr1	WormBase_imported	exon	9118618	9119941	.	-	.	ID=exon:SRAE_1000284500.2;Parent=transcript:SRAE_1000284500
 SRAE_chr1	WormBase_imported	exon	9117136	9117165	.	-	.	ID=exon:SRAE_1000284500.3;Parent=transcript:SRAE_1000284500
@@ -162,6 +167,7 @@ SRAE_chr1	WormBase_imported	CDS	9117085	9117096	.	-	0	ID=cds:SRAE_1000284500;Par
 SRAE_chr1	WormBase_imported	CDS	9117018	9117026	.	-	0	ID=cds:SRAE_1000284500;Parent=transcript:SRAE_1000284500
 SRAE_scaffold41	WormBase_imported	gene	1728	2485	.	-	.	ID=gene:WBGene00256536;Name=WBGene00256536;biotype=protein_coding;locus=SRAE_0000077700
 SRAE_scaffold41	WormBase_imported	mRNA	1728	2485	.	-	.	ID=transcript:SRAE_0000077700;Parent=gene:WBGene00256536;Name=SRAE_0000077700
+#microexons transcript:SRAE_0000077700:  111 52 30-30-30 54 39 65
 SRAE_scaffold41	WormBase_imported	exon	2375	2485	.	-	.	ID=exon:SRAE_0000077700.1;Parent=transcript:SRAE_0000077700
 SRAE_scaffold41	WormBase_imported	exon	2273	2324	.	-	.	ID=exon:SRAE_0000077700.2;Parent=transcript:SRAE_0000077700
 SRAE_scaffold41	WormBase_imported	exon	2191	2220	.	-	.	ID=exon:SRAE_0000077700.3;Parent=transcript:SRAE_0000077700

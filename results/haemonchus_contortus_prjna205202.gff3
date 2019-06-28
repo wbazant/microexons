@@ -1,5 +1,6 @@
 scaffold9996	WormBase_imported	gene	504	2299	.	-	.	ID=gene:maker-scaffold9996-snap-gene-0.8;Name=maker-scaffold9996-snap-gene-0.8;biotype=protein_coding
 scaffold9996	WormBase_imported	mRNA	504	2299	.	-	.	ID=transcript:maker-scaffold9996-snap-gene-0.8-mRNA-1;Parent=gene:maker-scaffold9996-snap-gene-0.8;Name=maker-scaffold9996-snap-gene-0.8-mRNA-1
+#microexons transcript:maker-scaffold9996-snap-gene-0.8-mRNA-1:  89 207 30-30-30
 scaffold9996	WormBase_imported	exon	2211	2299	.	-	.	ID=exon:maker-scaffold9996-snap-gene-0.8-mRNA-1.1;Parent=transcript:maker-scaffold9996-snap-gene-0.8-mRNA-1
 scaffold9996	WormBase_imported	exon	1314	1520	.	-	.	ID=exon:maker-scaffold9996-snap-gene-0.8-mRNA-1.2;Parent=transcript:maker-scaffold9996-snap-gene-0.8-mRNA-1
 scaffold9996	WormBase_imported	exon	1035	1064	.	-	.	ID=exon:maker-scaffold9996-snap-gene-0.8-mRNA-1.3;Parent=transcript:maker-scaffold9996-snap-gene-0.8-mRNA-1

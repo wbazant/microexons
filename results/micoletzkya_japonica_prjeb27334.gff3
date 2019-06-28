@@ -1,5 +1,6 @@
 scaffold24	WormBase_imported	gene	35894	38484	.	-	.	ID=gene:MicoRS5524-mkr-S24-0.21-mRNA-1;Name=MicoRS5524-mkr-S24-0.21-mRNA-1;biotype=protein_coding
 scaffold24	WormBase_imported	mRNA	35894	38484	.	-	.	ID=transcript:MicoRS5524-mkr-S24-0.21-mRNA-1;Parent=gene:MicoRS5524-mkr-S24-0.21-mRNA-1;Name=MicoRS5524-mkr-S24-0.21-mRNA-1
+#microexons transcript:MicoRS5524-mkr-S24-0.21-mRNA-1:  66 36 24-21-30-30 57 36
 scaffold24	WormBase_imported	exon	38419	38484	.	-	.	ID=exon:MicoRS5524-mkr-S24-0.21-mRNA-1.1;Parent=transcript:MicoRS5524-mkr-S24-0.21-mRNA-1
 scaffold24	WormBase_imported	exon	38069	38104	.	-	.	ID=exon:MicoRS5524-mkr-S24-0.21-mRNA-1.2;Parent=transcript:MicoRS5524-mkr-S24-0.21-mRNA-1
 scaffold24	WormBase_imported	exon	37846	37869	.	-	.	ID=exon:MicoRS5524-mkr-S24-0.21-mRNA-1.3;Parent=transcript:MicoRS5524-mkr-S24-0.21-mRNA-1
@@ -18,6 +19,7 @@ scaffold24	WormBase_imported	CDS	36714	36770	.	-	0	ID=cds:MicoRS5524-mkr-S24-0.2
 scaffold24	WormBase_imported	CDS	35894	35929	.	-	0	ID=cds:MicoRS5524-mkr-S24-0.21-mRNA-1;Parent=transcript:MicoRS5524-mkr-S24-0.21-mRNA-1
 scaffold280	WormBase_imported	gene	162754	169291	.	+	.	ID=gene:MicoRS5524-sn_msk-S280-0.20-mRNA-1;Name=MicoRS5524-sn_msk-S280-0.20-mRNA-1;biotype=protein_coding
 scaffold280	WormBase_imported	mRNA	162754	169291	.	+	.	ID=transcript:MicoRS5524-sn_msk-S280-0.20-mRNA-1;Parent=gene:MicoRS5524-sn_msk-S280-0.20-mRNA-1;Name=MicoRS5524-sn_msk-S280-0.20-mRNA-1
+#microexons transcript:MicoRS5524-sn_msk-S280-0.20-mRNA-1:  24-27-30 123 75
 scaffold280	WormBase_imported	exon	162754	162777	.	+	.	ID=exon:MicoRS5524-sn_msk-S280-0.20-mRNA-1.1;Parent=transcript:MicoRS5524-sn_msk-S280-0.20-mRNA-1
 scaffold280	WormBase_imported	exon	165929	165955	.	+	.	ID=exon:MicoRS5524-sn_msk-S280-0.20-mRNA-1.2;Parent=transcript:MicoRS5524-sn_msk-S280-0.20-mRNA-1
 scaffold280	WormBase_imported	exon	167041	167070	.	+	.	ID=exon:MicoRS5524-sn_msk-S280-0.20-mRNA-1.3;Parent=transcript:MicoRS5524-sn_msk-S280-0.20-mRNA-1

@@ -1,5 +1,6 @@
 opera_v5_144	WormBase_imported	gene	336466	357437	.	+	.	ID=gene:T265_14107;Name=T265_14107;biotype=protein_coding
 opera_v5_144	WormBase_imported	mRNA	336466	357437	.	+	.	ID=transcript:T265_14107;Parent=gene:T265_14107;Name=T265_14107
+#microexons transcript:T265_14107:  90 27-27-27-27-3
 opera_v5_144	WormBase_imported	exon	336466	336555	.	+	.	ID=exon:T265_14107.1;Parent=transcript:T265_14107
 opera_v5_144	WormBase_imported	exon	341010	341036	.	+	.	ID=exon:T265_14107.2;Parent=transcript:T265_14107
 opera_v5_144	WormBase_imported	exon	342404	342430	.	+	.	ID=exon:T265_14107.3;Parent=transcript:T265_14107
@@ -15,6 +16,7 @@ opera_v5_144	WormBase_imported	CDS	349838	349864	.	+	0	ID=cds:T265_14107;Parent=
 opera_v5_144	WormBase_imported	CDS	357435	357437	.	+	0	ID=cds:T265_14107;Parent=transcript:T265_14107
 opera_v5_427	WormBase_imported	gene	176778	268165	.	+	.	ID=gene:T265_15306;Name=T265_15306;biotype=protein_coding
 opera_v5_427	WormBase_imported	mRNA	176778	268165	.	+	.	ID=transcript:T265_15306;Parent=gene:T265_15306;Name=T265_15306;info=method:InterPro accession:IPR000488 description:Death domain %0Amethod:InterPro accession:IPR000906 description:ZU5 domain %0Amethod:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR011029 description:Death-like domain superfamily %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily %0Amethod:InterPro accession:IPR040745 description:Ankyrin%2C UPA domain
+#microexons transcript:T265_15306:  47 198 99 99 99 198 198 195 216 303 181 90 99 74 98 186 191 529 229 203 170 210 129 336 114 24-27-27 978 715
 opera_v5_427	WormBase_imported	exon	176778	176824	.	+	.	ID=exon:T265_15306.1;Parent=transcript:T265_15306
 opera_v5_427	WormBase_imported	exon	183377	183574	.	+	.	ID=exon:T265_15306.2;Parent=transcript:T265_15306
 opera_v5_427	WormBase_imported	exon	187284	187382	.	+	.	ID=exon:T265_15306.3;Parent=transcript:T265_15306

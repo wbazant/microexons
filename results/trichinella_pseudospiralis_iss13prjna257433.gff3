@@ -1,5 +1,6 @@
 scaffold1s	WormBase_imported	gene	1049678	1051307	.	+	.	ID=gene:T4A_4407;Name=T4A_4407;biotype=protein_coding
 scaffold1s	WormBase_imported	mRNA	1049678	1051307	.	+	.	ID=transcript:T4A_4407.1;Parent=gene:T4A_4407;Name=T4A_4407.1
+#microexons transcript:T4A_4407.1:  30-6-18 106 32
 scaffold1s	WormBase_imported	exon	1049678	1049707	.	+	.	ID=exon:T4A_4407.1.1;Parent=transcript:T4A_4407.1
 scaffold1s	WormBase_imported	exon	1049918	1049923	.	+	.	ID=exon:T4A_4407.1.2;Parent=transcript:T4A_4407.1
 scaffold1s	WormBase_imported	exon	1050495	1050512	.	+	.	ID=exon:T4A_4407.1.3;Parent=transcript:T4A_4407.1
@@ -12,6 +13,7 @@ scaffold1s	WormBase_imported	CDS	1050857	1050962	.	+	0	ID=cds:T4A_4407.1;Parent=
 scaffold1s	WormBase_imported	CDS	1051276	1051307	.	+	2	ID=cds:T4A_4407.1;Parent=transcript:T4A_4407.1
 scaffold1s	WormBase_imported	gene	1905368	1906978	.	+	.	ID=gene:T4A_4599;Name=T4A_4599;biotype=protein_coding
 scaffold1s	WormBase_imported	mRNA	1905368	1906978	.	+	.	ID=transcript:T4A_4599.1;Parent=gene:T4A_4599;Name=T4A_4599.1
+#microexons transcript:T4A_4599.1:  11 15-24-18 25 99 6
 scaffold1s	WormBase_imported	exon	1905368	1905378	.	+	.	ID=exon:T4A_4599.1.1;Parent=transcript:T4A_4599.1
 scaffold1s	WormBase_imported	exon	1905485	1905499	.	+	.	ID=exon:T4A_4599.1.2;Parent=transcript:T4A_4599.1
 scaffold1s	WormBase_imported	exon	1905720	1905743	.	+	.	ID=exon:T4A_4599.1.3;Parent=transcript:T4A_4599.1
@@ -28,6 +30,7 @@ scaffold1s	WormBase_imported	CDS	1906713	1906811	.	+	0	ID=cds:T4A_4599.1;Parent=
 scaffold1s	WormBase_imported	CDS	1906973	1906978	.	+	0	ID=cds:T4A_4599.1;Parent=transcript:T4A_4599.1
 scaffold13s	WormBase_imported	gene	279553	280466	.	-	.	ID=gene:T4A_5759;Name=T4A_5759;biotype=protein_coding
 scaffold13s	WormBase_imported	mRNA	279553	280466	.	-	.	ID=transcript:T4A_5759.1;Parent=gene:T4A_5759;Name=T4A_5759.1
+#microexons transcript:T4A_5759.1:  15-15-15-15-15-15-15 87 52 35
 scaffold13s	WormBase_imported	exon	280452	280466	.	-	.	ID=exon:T4A_5759.1.1;Parent=transcript:T4A_5759.1
 scaffold13s	WormBase_imported	exon	280275	280289	.	-	.	ID=exon:T4A_5759.1.2;Parent=transcript:T4A_5759.1
 scaffold13s	WormBase_imported	exon	280185	280199	.	-	.	ID=exon:T4A_5759.1.3;Parent=transcript:T4A_5759.1
@@ -50,6 +53,7 @@ scaffold13s	WormBase_imported	CDS	279625	279676	.	-	0	ID=cds:T4A_5759.1;Parent=t
 scaffold13s	WormBase_imported	CDS	279553	279587	.	-	2	ID=cds:T4A_5759.1;Parent=transcript:T4A_5759.1
 scaffold57s	WormBase_imported	gene	152	932	.	-	.	ID=gene:T4A_5054;Name=T4A_5054;biotype=protein_coding
 scaffold57s	WormBase_imported	mRNA	152	932	.	-	.	ID=transcript:T4A_5054.1;Parent=gene:T4A_5054;Name=T4A_5054.1
+#microexons transcript:T4A_5054.1:  18-30-27 39 54 21
 scaffold57s	WormBase_imported	exon	915	932	.	-	.	ID=exon:T4A_5054.1.1;Parent=transcript:T4A_5054.1
 scaffold57s	WormBase_imported	exon	850	879	.	-	.	ID=exon:T4A_5054.1.2;Parent=transcript:T4A_5054.1
 scaffold57s	WormBase_imported	exon	645	671	.	-	.	ID=exon:T4A_5054.1.3;Parent=transcript:T4A_5054.1
@@ -64,6 +68,7 @@ scaffold57s	WormBase_imported	CDS	385	438	.	-	0	ID=cds:T4A_5054.1;Parent=transcr
 scaffold57s	WormBase_imported	CDS	152	172	.	-	0	ID=cds:T4A_5054.1;Parent=transcript:T4A_5054.1
 scaffold113s	WormBase_imported	gene	134234	135014	.	+	.	ID=gene:T4A_13791;Name=T4A_13791;biotype=protein_coding
 scaffold113s	WormBase_imported	mRNA	134234	135014	.	+	.	ID=transcript:T4A_13791.1;Parent=gene:T4A_13791;Name=T4A_13791.1
+#microexons transcript:T4A_13791.1:  18-30-27 39 54 21
 scaffold113s	WormBase_imported	exon	134234	134251	.	+	.	ID=exon:T4A_13791.1.1;Parent=transcript:T4A_13791.1
 scaffold113s	WormBase_imported	exon	134287	134316	.	+	.	ID=exon:T4A_13791.1.2;Parent=transcript:T4A_13791.1
 scaffold113s	WormBase_imported	exon	134495	134521	.	+	.	ID=exon:T4A_13791.1.3;Parent=transcript:T4A_13791.1
@@ -655,6 +660,7 @@ scaffold113s	dust	low_complexity_region	134448	134454	.	-	.
 scaffold113s	dust	low_complexity_region	135083	135110	.	-	.	
 scaffold121s	WormBase_imported	gene	116776	120295	.	+	.	ID=gene:T4A_10157;Name=T4A_10157;biotype=protein_coding
 scaffold121s	WormBase_imported	mRNA	116776	120295	.	+	.	ID=transcript:T4A_10157.1;Parent=gene:T4A_10157;Name=T4A_10157.1
+#microexons transcript:T4A_10157.1:  18-30-27 39 54 39 51 72 49 49 69 55 52 103 298
 scaffold121s	WormBase_imported	exon	116776	116793	.	+	.	ID=exon:T4A_10157.1.1;Parent=transcript:T4A_10157.1
 scaffold121s	WormBase_imported	exon	116829	116858	.	+	.	ID=exon:T4A_10157.1.2;Parent=transcript:T4A_10157.1
 scaffold121s	WormBase_imported	exon	117037	117063	.	+	.	ID=exon:T4A_10157.1.3;Parent=transcript:T4A_10157.1
@@ -687,9 +693,13 @@ scaffold121s	WormBase_imported	CDS	119802	119904	.	+	2	ID=cds:T4A_10157.1;Parent
 scaffold121s	WormBase_imported	CDS	119998	120295	.	+	1	ID=cds:T4A_10157.1;Parent=transcript:T4A_10157.1
 scaffold129s	WormBase_imported	gene	23315	29734	.	-	.	ID=gene:T4A_7119;Name=T4A_7119;biotype=protein_coding;description=Sulfhydryl oxidase;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0V1E1K7;locus=AK5
 scaffold129s	WormBase_imported	mRNA	23315	29734	.	-	.	ID=transcript:T4A_7119.1;Parent=gene:T4A_7119;Name=T4A_7119.1;info=method:InterPro accession:IPR017905 description:ERV/ALR sulfhydryl oxidase domain %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR036774 description:ERV/ALR sulfhydryl oxidase domain superfamily
+#microexons transcript:T4A_7119.1:  21 610 86 181 261 147 137 171 76 204 156 68 192 79 75 58 25 37 113 54 27-6
 scaffold129s	WormBase_imported	mRNA	23315	29734	.	-	.	ID=transcript:T4A_7119.2;Parent=gene:T4A_7119;Name=T4A_7119.2;info=method:InterPro accession:IPR000850 description:Adenylate kinase/UMP-CMP kinase %0Amethod:InterPro accession:IPR017905 description:ERV/ALR sulfhydryl oxidase domain %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR036774 description:ERV/ALR sulfhydryl oxidase domain superfamily
+#microexons transcript:T4A_7119.2:  21 610 86 181 261 147 137 171 76 204 173 120 192 79 75 58 25 37 113 54 27-6
 scaffold129s	WormBase_imported	mRNA	23315	25862	.	-	.	ID=transcript:T4A_7119.3;Parent=gene:T4A_7119;Name=T4A_7119.3;info=method:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase
+#microexons transcript:T4A_7119.3:  11 100 120 192 79 75 58 25 37 113 54 27-6
 scaffold129s	WormBase_imported	mRNA	24986	29734	.	-	.	ID=transcript:T4A_7119.4;Parent=gene:T4A_7119;Name=T4A_7119.4;info=method:InterPro accession:IPR017905 description:ERV/ALR sulfhydryl oxidase domain %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR036774 description:ERV/ALR sulfhydryl oxidase domain superfamily
+#microexons transcript:T4A_7119.4:  21 610 86 181 261 147 137 171 76 188 173 94 192 79 65
 scaffold129s	WormBase_imported	exon	29714	29734	.	-	.	ID=exon:T4A_7119.1.1;Parent=transcript:T4A_7119.1
 scaffold129s	WormBase_imported	exon	28967	29576	.	-	.	ID=exon:T4A_7119.1.2;Parent=transcript:T4A_7119.1
 scaffold129s	WormBase_imported	exon	28106	28191	.	-	.	ID=exon:T4A_7119.1.3;Parent=transcript:T4A_7119.1
@@ -837,7 +847,9 @@ scaffold129s	WormBase_imported	three_prime_UTR	25125	25203	.	-	.	Parent=transcri
 scaffold129s	WormBase_imported	three_prime_UTR	24986	25050	.	-	.	Parent=transcript:T4A_7119.4
 scaffold161s	WormBase_imported	gene	69053	84573	.	+	.	ID=gene:T4A_7623;Name=T4A_7623;biotype=protein_coding;description=Rap guanine nucleotide exchange factor 1;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0V1DYW5;locus=C3G
 scaffold161s	WormBase_imported	mRNA	69053	84573	.	+	.	ID=transcript:T4A_7623.1;Parent=gene:T4A_7623;Name=T4A_7623.1;info=method:InterPro accession:IPR000651 description:Ras-like guanine nucleotide exchange factor%2C N-terminal %0Amethod:InterPro accession:IPR001895 description:Ras guanine-nucleotide exchange factors catalytic domain %0Amethod:InterPro accession:IPR023578 description:Ras guanine nucleotide exchange factor domain superfamily %0Amethod:InterPro accession:IPR036964 description:Ras guanine-nucleotide exchange factor catalytic domain superfamily
+#microexons transcript:T4A_7623.1:  7 320 143 160 410 440 462 304 161 178 223 374 111 124 18-6-18
 scaffold161s	WormBase_imported	mRNA	69053	84573	.	+	.	ID=transcript:T4A_7623.2;Parent=gene:T4A_7623;Name=T4A_7623.2;info=method:InterPro accession:IPR000651 description:Ras-like guanine nucleotide exchange factor%2C N-terminal %0Amethod:InterPro accession:IPR001895 description:Ras guanine-nucleotide exchange factors catalytic domain %0Amethod:InterPro accession:IPR023578 description:Ras guanine nucleotide exchange factor domain superfamily %0Amethod:InterPro accession:IPR036964 description:Ras guanine-nucleotide exchange factor catalytic domain superfamily
+#microexons transcript:T4A_7623.2:  7 320 143 160 410 440 429 304 161 155 374 111 124 18-6-18
 scaffold161s	WormBase_imported	exon	69053	69059	.	+	.	ID=exon:T4A_7623.1.1;Parent=transcript:T4A_7623.1
 scaffold161s	WormBase_imported	exon	76548	76867	.	+	.	ID=exon:T4A_7623.1.2;Parent=transcript:T4A_7623.1
 scaffold161s	WormBase_imported	exon	78448	78590	.	+	.	ID=exon:T4A_7623.1.3;Parent=transcript:T4A_7623.1
@@ -906,6 +918,7 @@ scaffold161s	WormBase_imported	CDS	84465	84470	.	+	0	ID=cds:T4A_7623.2;Parent=tr
 scaffold161s	WormBase_imported	CDS	84556	84573	.	+	0	ID=cds:T4A_7623.2;Parent=transcript:T4A_7623.2
 scaffold182s	WormBase_imported	gene	69095	70137	.	-	.	ID=gene:T4A_5634;Name=T4A_5634;biotype=protein_coding
 scaffold182s	WormBase_imported	mRNA	69095	70137	.	-	.	ID=transcript:T4A_5634.1;Parent=gene:T4A_5634;Name=T4A_5634.1
+#microexons transcript:T4A_5634.1:  24-6-15 10 24 42 16 34 12
 scaffold182s	WormBase_imported	exon	70114	70137	.	-	.	ID=exon:T4A_5634.1.1;Parent=transcript:T4A_5634.1
 scaffold182s	WormBase_imported	exon	70021	70026	.	-	.	ID=exon:T4A_5634.1.2;Parent=transcript:T4A_5634.1
 scaffold182s	WormBase_imported	exon	69899	69913	.	-	.	ID=exon:T4A_5634.1.3;Parent=transcript:T4A_5634.1
@@ -926,6 +939,7 @@ scaffold182s	WormBase_imported	CDS	69138	69171	.	-	1	ID=cds:T4A_5634.1;Parent=tr
 scaffold182s	WormBase_imported	CDS	69095	69106	.	-	0	ID=cds:T4A_5634.1;Parent=transcript:T4A_5634.1
 scaffold191s	WormBase_imported	gene	49947	53056	.	+	.	ID=gene:T4A_5860;Name=T4A_5860;biotype=protein_coding
 scaffold191s	WormBase_imported	mRNA	49947	53056	.	+	.	ID=transcript:T4A_5860.1;Parent=gene:T4A_5860;Name=T4A_5860.1
+#microexons transcript:T4A_5860.1:  6-9-9 7 41 66 89 28
 scaffold191s	WormBase_imported	exon	49947	49952	.	+	.	ID=exon:T4A_5860.1.1;Parent=transcript:T4A_5860.1
 scaffold191s	WormBase_imported	exon	50203	50211	.	+	.	ID=exon:T4A_5860.1.2;Parent=transcript:T4A_5860.1
 scaffold191s	WormBase_imported	exon	50599	50607	.	+	.	ID=exon:T4A_5860.1.3;Parent=transcript:T4A_5860.1

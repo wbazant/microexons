@@ -1,7 +1,10 @@
 HMN_01_pilon	WormBase_imported	gene	111260	125903	.	+	.	ID=gene:HmN_003000160;Name=HmN_003000160;biotype=protein_coding
 HMN_01_pilon	WormBase_imported	mRNA	111260	125903	.	+	.	ID=transcript:HmN_003000160.1;Parent=gene:HmN_003000160;Name=HmN_003000160.1
+#microexons transcript:HmN_003000160.1:  34 45 27-30-30 33 42 18 42 39 24 60 57 51 45 24 60 21-27-30 33 51 24 57 24 57 27 39 27 33 39 27 63 66 45 63 48 57 48 42 32
 HMN_01_pilon	WormBase_imported	mRNA	111260	125903	.	+	.	ID=transcript:HmN_003000160.2;Parent=gene:HmN_003000160;Name=HmN_003000160.2
+#microexons transcript:HmN_003000160.2:  34 45 27-30-30 33 42 18 42 39 24 60 57 51 45 24 60 21-27-30 33 51 24 57 24 57 27 39 27 33 39 27 63 45 66 45 63 48 57 48 42 32
 HMN_01_pilon	WormBase_imported	mRNA	111260	125903	.	+	.	ID=transcript:HmN_003000160.3;Parent=gene:HmN_003000160;Name=HmN_003000160.3
+#microexons transcript:HmN_003000160.3:  34 45 27-30-30 33 42 18 42 39 24 60 57 51 45 24 60 21-27-30 51 24 57 24 57 27 39 27 33 39 27 63 45 66 45 63 48 57 48 42 32
 HMN_01_pilon	WormBase_imported	exon	111260	111293	.	+	.	ID=exon:HmN_003000160.1.1;Parent=transcript:HmN_003000160.1
 HMN_01_pilon	WormBase_imported	exon	112376	112420	.	+	.	ID=exon:HmN_003000160.1.2;Parent=transcript:HmN_003000160.1
 HMN_01_pilon	WormBase_imported	exon	112486	112512	.	+	.	ID=exon:HmN_003000160.1.3;Parent=transcript:HmN_003000160.1
@@ -252,6 +255,7 @@ HMN_01_pilon	WormBase_imported	CDS	125479	125520	.	+	2	ID=cds:HmN_003000160.3;Pa
 HMN_01_pilon	WormBase_imported	CDS	125872	125903	.	+	2	ID=cds:HmN_003000160.3;Parent=transcript:HmN_003000160.3
 HMN_01_pilon	WormBase_imported	gene	559738	564021	.	-	.	ID=gene:HmN_000288300;Name=HmN_000288300;biotype=protein_coding
 HMN_01_pilon	WormBase_imported	mRNA	559738	564021	.	-	.	ID=transcript:HmN_000288300;Parent=gene:HmN_000288300;Name=HmN_000288300
+#microexons transcript:HmN_000288300:  37 21-18-30-21-27-24 45 54 48 42 54 54 27 36 66 45 57 51 42 54 54 57 29
 HMN_01_pilon	WormBase_imported	exon	563985	564021	.	-	.	ID=exon:HmN_000288300.1;Parent=transcript:HmN_000288300
 HMN_01_pilon	WormBase_imported	exon	563467	563487	.	-	.	ID=exon:HmN_000288300.2;Parent=transcript:HmN_000288300
 HMN_01_pilon	WormBase_imported	exon	562769	562786	.	-	.	ID=exon:HmN_000288300.3;Parent=transcript:HmN_000288300
@@ -302,7 +306,9 @@ HMN_01_pilon	WormBase_imported	CDS	559833	559889	.	-	2	ID=cds:HmN_000288300;Pare
 HMN_01_pilon	WormBase_imported	CDS	559738	559766	.	-	2	ID=cds:HmN_000288300;Parent=transcript:HmN_000288300
 HMN_01_pilon	WormBase_imported	gene	694903	706492	.	+	.	ID=gene:HmN_000287200;Name=HmN_000287200;biotype=protein_coding;previous_stable_id=HmN_002291200
 HMN_01_pilon	WormBase_imported	mRNA	694903	706492	.	+	.	ID=transcript:HmN_000287200.1;Parent=gene:HmN_000287200;Name=HmN_000287200.1
+#microexons transcript:HmN_000287200.1:  42 55 48 51 60 48 39 33 21 60 45 51 12-21 45 51 51 111 54 57 51 51 30 36 30-30-30 48 60 51 39 32 18
 HMN_01_pilon	WormBase_imported	mRNA	694903	705982	.	+	.	ID=transcript:HmN_000287200.2;Parent=gene:HmN_000287200;Name=HmN_000287200.2
+#microexons transcript:HmN_000287200.2:  42 55 48 51 60 48 39 33 21 60 45 51 12-21 45 51 51 111 54 57 51 51 30 36 30-30-30 48 60 51 39 32 24
 HMN_01_pilon	WormBase_imported	exon	694903	694944	.	+	.	ID=exon:HmN_000287200.1.1;Parent=transcript:HmN_000287200.1
 HMN_01_pilon	WormBase_imported	exon	695138	695192	.	+	.	ID=exon:HmN_000287200.1.2;Parent=transcript:HmN_000287200.1
 HMN_01_pilon	WormBase_imported	exon	695450	695497	.	+	.	ID=exon:HmN_000287200.1.3;Parent=transcript:HmN_000287200.1
@@ -437,6 +443,7 @@ HMN_01_pilon	WormBase_imported	CDS	705859	705890	.	+	2	ID=cds:HmN_000287200.2;Pa
 HMN_01_pilon	WormBase_imported	CDS	705959	705982	.	+	0	ID=cds:HmN_000287200.2;Parent=transcript:HmN_000287200.2
 HMN_01_pilon	WormBase_imported	gene	7485003	7494451	.	-	.	ID=gene:HmN_000701800;Name=HmN_000701800;biotype=protein_coding
 HMN_01_pilon	WormBase_imported	mRNA	7485003	7494451	.	-	.	ID=transcript:HmN_000701800;Parent=gene:HmN_000701800;Name=HmN_000701800
+#microexons transcript:HmN_000701800:  46 21 60 93 24 54 45 57 36 39 54 48 54 45 27 39 24-24-21 39 75 63 30 54 45 57 39 54 60 42 54 45 21 20
 HMN_01_pilon	WormBase_imported	exon	7494406	7494451	.	-	.	ID=exon:HmN_000701800.1;Parent=transcript:HmN_000701800
 HMN_01_pilon	WormBase_imported	exon	7494258	7494278	.	-	.	ID=exon:HmN_000701800.2;Parent=transcript:HmN_000701800
 HMN_01_pilon	WormBase_imported	exon	7494125	7494184	.	-	.	ID=exon:HmN_000701800.3;Parent=transcript:HmN_000701800
@@ -507,9 +514,13 @@ HMN_01_pilon	WormBase_imported	CDS	7485120	7485140	.	-	2	ID=cds:HmN_000701800;Pa
 HMN_01_pilon	WormBase_imported	CDS	7485003	7485022	.	-	2	ID=cds:HmN_000701800;Parent=transcript:HmN_000701800
 HMN_01_pilon	WormBase_imported	gene	17317848	17331616	.	+	.	ID=gene:HmN_003004540;Name=HmN_003004540;biotype=protein_coding;previous_stable_id=HmN_000587900
 HMN_01_pilon	WormBase_imported	mRNA	17317848	17331616	.	+	.	ID=transcript:HmN_003004540.1;Parent=gene:HmN_003004540;Name=HmN_003004540.1;info=method:InterPro accession:IPR000169 description:Cysteine peptidase%2C cysteine active site %0Amethod:InterPro accession:IPR001300 description:Peptidase C2%2C calpain%2C catalytic domain %0Amethod:InterPro accession:IPR002048 description:EF-hand domain %0Amethod:InterPro accession:IPR011992 description:EF-hand domain pair %0Amethod:InterPro accession:IPR018247 description:EF-Hand 1%2C calcium-binding site %0Amethod:InterPro accession:IPR022682 description:Peptidase C2%2C calpain%2C large subunit%2C domain III %0Amethod:InterPro accession:IPR022683 description:Peptidase C2%2C calpain%2C domain III %0Amethod:InterPro accession:IPR022684 description:Peptidase C2%2C calpain family %0Amethod:InterPro accession:IPR033883 description:Calpain subdomain III %0Amethod:InterPro accession:IPR036213 description:Calpain large subunit%2C domain III superfamily %0Amethod:InterPro accession:IPR038765 description:Papain-like cysteine peptidase superfamily
+#microexons transcript:HmN_003004540.1:  108 330 70 256 253 167 170 164 212 37 12-24-27 136 195 59 69 79 155 27
 HMN_01_pilon	WormBase_imported	mRNA	17317848	17331616	.	+	.	ID=transcript:HmN_003004540.2;Parent=gene:HmN_003004540;Name=HmN_003004540.2;info=method:InterPro accession:IPR000169 description:Cysteine peptidase%2C cysteine active site %0Amethod:InterPro accession:IPR001300 description:Peptidase C2%2C calpain%2C catalytic domain %0Amethod:InterPro accession:IPR002048 description:EF-hand domain %0Amethod:InterPro accession:IPR011992 description:EF-hand domain pair %0Amethod:InterPro accession:IPR018247 description:EF-Hand 1%2C calcium-binding site %0Amethod:InterPro accession:IPR022682 description:Peptidase C2%2C calpain%2C large subunit%2C domain III %0Amethod:InterPro accession:IPR022683 description:Peptidase C2%2C calpain%2C domain III %0Amethod:InterPro accession:IPR022684 description:Peptidase C2%2C calpain family %0Amethod:InterPro accession:IPR033883 description:Calpain subdomain III %0Amethod:InterPro accession:IPR036213 description:Calpain large subunit%2C domain III superfamily %0Amethod:InterPro accession:IPR038765 description:Papain-like cysteine peptidase superfamily
+#microexons transcript:HmN_003004540.2:  108 330 70 256 253 167 170 164 212 37 12-24 136 195 59 69 79 155 27
 HMN_01_pilon	WormBase_imported	mRNA	17317848	17331616	.	+	.	ID=transcript:HmN_003004540.3;Parent=gene:HmN_003004540;Name=HmN_003004540.3;info=method:InterPro accession:IPR000169 description:Cysteine peptidase%2C cysteine active site %0Amethod:InterPro accession:IPR001300 description:Peptidase C2%2C calpain%2C catalytic domain %0Amethod:InterPro accession:IPR002048 description:EF-hand domain %0Amethod:InterPro accession:IPR011992 description:EF-hand domain pair %0Amethod:InterPro accession:IPR018247 description:EF-Hand 1%2C calcium-binding site %0Amethod:InterPro accession:IPR022682 description:Peptidase C2%2C calpain%2C large subunit%2C domain III %0Amethod:InterPro accession:IPR022683 description:Peptidase C2%2C calpain%2C domain III %0Amethod:InterPro accession:IPR022684 description:Peptidase C2%2C calpain family %0Amethod:InterPro accession:IPR033883 description:Calpain subdomain III %0Amethod:InterPro accession:IPR036213 description:Calpain large subunit%2C domain III superfamily %0Amethod:InterPro accession:IPR038765 description:Papain-like cysteine peptidase superfamily
+#microexons transcript:HmN_003004540.3:  108 330 70 256 253 167 170 164 212 37 12-27 136 195 59 69 79 155 27
 HMN_01_pilon	WormBase_imported	mRNA	17317848	17331616	.	+	.	ID=transcript:HmN_003004540.4;Parent=gene:HmN_003004540;Name=HmN_003004540.4;info=method:InterPro accession:IPR000169 description:Cysteine peptidase%2C cysteine active site %0Amethod:InterPro accession:IPR001300 description:Peptidase C2%2C calpain%2C catalytic domain %0Amethod:InterPro accession:IPR002048 description:EF-hand domain %0Amethod:InterPro accession:IPR011992 description:EF-hand domain pair %0Amethod:InterPro accession:IPR018247 description:EF-Hand 1%2C calcium-binding site %0Amethod:InterPro accession:IPR022682 description:Peptidase C2%2C calpain%2C large subunit%2C domain III %0Amethod:InterPro accession:IPR022683 description:Peptidase C2%2C calpain%2C domain III %0Amethod:InterPro accession:IPR022684 description:Peptidase C2%2C calpain family %0Amethod:InterPro accession:IPR033883 description:Calpain subdomain III %0Amethod:InterPro accession:IPR036213 description:Calpain large subunit%2C domain III superfamily %0Amethod:InterPro accession:IPR038765 description:Papain-like cysteine peptidase superfamily
+#microexons transcript:HmN_003004540.4:  108 330 70 256 253 167 170 164 212 37 12-27 136 59 69 79 155 27
 HMN_01_pilon	WormBase_imported	exon	17317848	17317955	.	+	.	ID=exon:HmN_003004540.1.1;Parent=transcript:HmN_003004540.1
 HMN_01_pilon	WormBase_imported	exon	17318064	17318393	.	+	.	ID=exon:HmN_003004540.1.2;Parent=transcript:HmN_003004540.1
 HMN_01_pilon	WormBase_imported	exon	17319199	17319268	.	+	.	ID=exon:HmN_003004540.1.3;Parent=transcript:HmN_003004540.1
@@ -664,9 +675,13 @@ HMN_01_pilon	WormBase_imported	CDS	17331356	17331510	.	+	2	ID=cds:HmN_003004540.
 HMN_01_pilon	WormBase_imported	CDS	17331590	17331616	.	+	0	ID=cds:HmN_003004540.4;Parent=transcript:HmN_003004540.4
 HMN_01_pilon	WormBase_imported	gene	18665513	18676663	.	+	.	ID=gene:HmN_003004740;Name=HmN_003004740;biotype=protein_coding;previous_stable_id=HmN_001008400,HmN_001008300
 HMN_01_pilon	WormBase_imported	mRNA	18665513	18676663	.	+	.	ID=transcript:HmN_003004740.1;Parent=gene:HmN_003004740;Name=HmN_003004740.1;info=method:InterPro accession:IPR002524 description:Cation efflux protein %0Amethod:InterPro accession:IPR027469 description:Cation efflux transmembrane domain superfamily
+#microexons transcript:HmN_003004740.1:  465 262 157 44 80 94 27-15 120 45 21-12-21-24 89 201
 HMN_01_pilon	WormBase_imported	mRNA	18665513	18675606	.	+	.	ID=transcript:HmN_003004740.2;Parent=gene:HmN_003004740;Name=HmN_003004740.2;info=method:InterPro accession:IPR002524 description:Cation efflux protein %0Amethod:InterPro accession:IPR027469 description:Cation efflux transmembrane domain superfamily %0Amethod:InterPro accession:IPR036837 description:Cation efflux protein%2C cytoplasmic domain superfamily
+#microexons transcript:HmN_003004740.2:  465 262 157 44 80 94 89 252
 HMN_01_pilon	WormBase_imported	mRNA	18665513	18675606	.	+	.	ID=transcript:HmN_003004740.3;Parent=gene:HmN_003004740;Name=HmN_003004740.3;info=method:InterPro accession:IPR002524 description:Cation efflux protein %0Amethod:InterPro accession:IPR027469 description:Cation efflux transmembrane domain superfamily
+#microexons transcript:HmN_003004740.3:  465 262 157 44 80 94 27-15 120 45 21-12-21-24 89 252
 HMN_01_pilon	WormBase_imported	mRNA	18665513	18675606	.	+	.	ID=transcript:HmN_003004740.4;Parent=gene:HmN_003004740;Name=HmN_003004740.4;info=method:InterPro accession:IPR002524 description:Cation efflux protein %0Amethod:InterPro accession:IPR027469 description:Cation efflux transmembrane domain superfamily
+#microexons transcript:HmN_003004740.4:  465 262 33 157 44 80 94 27-15 120 45 21-12-21-24 89 252
 HMN_01_pilon	WormBase_imported	exon	18665513	18665977	.	+	.	ID=exon:HmN_003004740.1.1;Parent=transcript:HmN_003004740.1
 HMN_01_pilon	WormBase_imported	exon	18666060	18666321	.	+	.	ID=exon:HmN_003004740.1.2;Parent=transcript:HmN_003004740.1
 HMN_01_pilon	WormBase_imported	exon	18666728	18666884	.	+	.	ID=exon:HmN_003004740.1.3;Parent=transcript:HmN_003004740.1
@@ -783,6 +798,7 @@ HMN_01_pilon	WormBase_imported	CDS	18674958	18675046	.	+	2	ID=cds:HmN_003004740.
 HMN_01_pilon	WormBase_imported	CDS	18675355	18675606	.	+	0	ID=cds:HmN_003004740.4;Parent=transcript:HmN_003004740.4
 HMN_01_pilon	WormBase_imported	gene	21592317	21594285	.	-	.	ID=gene:HmN_000558400;Name=HmN_000558400;biotype=protein_coding
 HMN_01_pilon	WormBase_imported	mRNA	21592317	21594285	.	-	.	ID=transcript:HmN_000558400;Parent=gene:HmN_000558400;Name=HmN_000558400
+#microexons transcript:HmN_000558400:  46 30-15 80 109 123 104 76 138 30-21-12-27 47
 HMN_01_pilon	WormBase_imported	exon	21594240	21594285	.	-	.	ID=exon:HmN_000558400.1;Parent=transcript:HmN_000558400
 HMN_01_pilon	WormBase_imported	exon	21594081	21594110	.	-	.	ID=exon:HmN_000558400.2;Parent=transcript:HmN_000558400
 HMN_01_pilon	WormBase_imported	exon	21593915	21593929	.	-	.	ID=exon:HmN_000558400.3;Parent=transcript:HmN_000558400
@@ -813,6 +829,7 @@ HMN_01_pilon	WormBase_imported	CDS	21592424	21592450	.	-	2	ID=cds:HmN_000558400;
 HMN_01_pilon	WormBase_imported	CDS	21592317	21592363	.	-	2	ID=cds:HmN_000558400;Parent=transcript:HmN_000558400
 HMN_01_pilon	WormBase_imported	gene	25415862	25429240	.	-	.	ID=gene:HmN_003006070;Name=HmN_003006070;biotype=protein_coding;previous_stable_id=HmN_000397900
 HMN_01_pilon	WormBase_imported	mRNA	25415862	25429240	.	-	.	ID=transcript:HmN_003006070;Parent=gene:HmN_003006070;Name=HmN_003006070;info=method:InterPro accession:IPR002035 description:von Willebrand factor%2C type A %0Amethod:InterPro accession:IPR013694 description:VIT domain %0Amethod:InterPro accession:IPR036465 description:von Willebrand factor A-like domain superfamily
+#microexons transcript:HmN_003006070:  270 253 363 127 187 134 188 312 21 39 12-15-18-15-15-15-12-12-15-24 141 194
 HMN_01_pilon	WormBase_imported	exon	25428971	25429240	.	-	.	ID=exon:HmN_003006070.1;Parent=transcript:HmN_003006070
 HMN_01_pilon	WormBase_imported	exon	25428681	25428933	.	-	.	ID=exon:HmN_003006070.2;Parent=transcript:HmN_003006070
 HMN_01_pilon	WormBase_imported	exon	25428275	25428637	.	-	.	ID=exon:HmN_003006070.3;Parent=transcript:HmN_003006070
@@ -859,6 +876,7 @@ HMN_01_pilon	WormBase_imported	CDS	25417491	25417631	.	-	2	ID=cds:HmN_003006070;
 HMN_01_pilon	WormBase_imported	CDS	25415862	25416055	.	-	2	ID=cds:HmN_003006070;Parent=transcript:HmN_003006070
 HMN_01_pilon	WormBase_imported	gene	26771352	26779641	.	-	.	ID=gene:HmN_003006340;Name=HmN_003006340;biotype=protein_coding;previous_stable_id=HmN_000539400
 HMN_01_pilon	WormBase_imported	mRNA	26771352	26779641	.	-	.	ID=transcript:HmN_003006340;Parent=gene:HmN_003006340;Name=HmN_003006340;info=method:InterPro accession:IPR002035 description:von Willebrand factor%2C type A %0Amethod:InterPro accession:IPR013694 description:VIT domain %0Amethod:InterPro accession:IPR036465 description:von Willebrand factor A-like domain superfamily
+#microexons transcript:HmN_003006340:  267 232 360 127 187 134 188 300 21-12-18 51 158
 HMN_01_pilon	WormBase_imported	exon	26779375	26779641	.	-	.	ID=exon:HmN_003006340.1;Parent=transcript:HmN_003006340
 HMN_01_pilon	WormBase_imported	exon	26779111	26779342	.	-	.	ID=exon:HmN_003006340.2;Parent=transcript:HmN_003006340
 HMN_01_pilon	WormBase_imported	exon	26778675	26779034	.	-	.	ID=exon:HmN_003006340.3;Parent=transcript:HmN_003006340
@@ -887,6 +905,7 @@ HMN_01_pilon	WormBase_imported	CDS	26771732	26771782	.	-	2	ID=cds:HmN_003006340;
 HMN_01_pilon	WormBase_imported	CDS	26771352	26771509	.	-	2	ID=cds:HmN_003006340;Parent=transcript:HmN_003006340
 HMN_02_pilon	WormBase_imported	gene	4433510	4436275	.	-	.	ID=gene:HmN_002041200;Name=HmN_002041200;biotype=protein_coding
 HMN_02_pilon	WormBase_imported	mRNA	4433510	4436275	.	-	.	ID=transcript:HmN_002041200;Parent=gene:HmN_002041200;Name=HmN_002041200
+#microexons transcript:HmN_002041200:  153 106 117 104 73 141 30-27-24-27 35
 HMN_02_pilon	WormBase_imported	exon	4436123	4436275	.	-	.	ID=exon:HmN_002041200.1;Parent=transcript:HmN_002041200
 HMN_02_pilon	WormBase_imported	exon	4435970	4436075	.	-	.	ID=exon:HmN_002041200.2;Parent=transcript:HmN_002041200
 HMN_02_pilon	WormBase_imported	exon	4435801	4435917	.	-	.	ID=exon:HmN_002041200.3;Parent=transcript:HmN_002041200
@@ -911,7 +930,9 @@ HMN_02_pilon	WormBase_imported	CDS	4433630	4433656	.	-	2	ID=cds:HmN_002041200;Pa
 HMN_02_pilon	WormBase_imported	CDS	4433510	4433544	.	-	2	ID=cds:HmN_002041200;Parent=transcript:HmN_002041200
 HMN_02_pilon	WormBase_imported	gene	4457116	4459782	.	-	.	ID=gene:HmN_002041300;Name=HmN_002041300;biotype=protein_coding
 HMN_02_pilon	WormBase_imported	mRNA	4457116	4459782	.	-	.	ID=transcript:HmN_002041300.1;Parent=gene:HmN_002041300;Name=HmN_002041300.1
+#microexons transcript:HmN_002041300.1:  82 141 30-27-24-27-24 89
 HMN_02_pilon	WormBase_imported	mRNA	4457914	4459782	.	-	.	ID=transcript:HmN_002041300.2;Parent=gene:HmN_002041300;Name=HmN_002041300.2
+#microexons transcript:HmN_002041300.2:  82 141 30-27-24-27 35
 HMN_02_pilon	WormBase_imported	exon	4459701	4459782	.	-	.	ID=exon:HmN_002041300.1.1;Parent=transcript:HmN_002041300.1
 HMN_02_pilon	WormBase_imported	exon	4459483	4459623	.	-	.	ID=exon:HmN_002041300.1.2;Parent=transcript:HmN_002041300.1
 HMN_02_pilon	WormBase_imported	exon	4459378	4459407	.	-	.	ID=exon:HmN_002041300.1.3;Parent=transcript:HmN_002041300.1
@@ -944,6 +965,7 @@ HMN_02_pilon	WormBase_imported	CDS	4458033	4458059	.	-	2	ID=cds:HmN_002041300.2;
 HMN_02_pilon	WormBase_imported	CDS	4457914	4457948	.	-	2	ID=cds:HmN_002041300.2;Parent=transcript:HmN_002041300.2
 HMN_02_pilon	WormBase_imported	gene	4534076	4536931	.	-	.	ID=gene:HmN_002163500;Name=HmN_002163500;biotype=protein_coding
 HMN_02_pilon	WormBase_imported	mRNA	4534076	4536931	.	-	.	ID=transcript:HmN_002163500;Parent=gene:HmN_002163500;Name=HmN_002163500
+#microexons transcript:HmN_002163500:  42 79 120 104 79 141 30-27-24 39 27 35
 HMN_02_pilon	WormBase_imported	exon	4536890	4536931	.	-	.	ID=exon:HmN_002163500.1;Parent=transcript:HmN_002163500
 HMN_02_pilon	WormBase_imported	exon	4536764	4536842	.	-	.	ID=exon:HmN_002163500.2;Parent=transcript:HmN_002163500
 HMN_02_pilon	WormBase_imported	exon	4536565	4536684	.	-	.	ID=exon:HmN_002163500.3;Parent=transcript:HmN_002163500
@@ -970,7 +992,9 @@ HMN_02_pilon	WormBase_imported	CDS	4534196	4534222	.	-	2	ID=cds:HmN_002163500;Pa
 HMN_02_pilon	WormBase_imported	CDS	4534076	4534110	.	-	2	ID=cds:HmN_002163500;Parent=transcript:HmN_002163500
 HMN_02_pilon	WormBase_imported	gene	21408232	21417207	.	-	.	ID=gene:HmN_002064800;Name=HmN_002064800;biotype=protein_coding
 HMN_02_pilon	WormBase_imported	mRNA	21408232	21417207	.	-	.	ID=transcript:HmN_002064800.1;Parent=gene:HmN_002064800;Name=HmN_002064800.1
+#microexons transcript:HmN_002064800.1:  64 78 90 66 117 51 90 60 66 261 141 15 45 30 777 162 201 51 60 48 60 33 135 30-24-24 39 12 186 30 126 30-24-12-24 33 84 24 171 39 29
 HMN_02_pilon	WormBase_imported	mRNA	21408232	21417207	.	-	.	ID=transcript:HmN_002064800.2;Parent=gene:HmN_002064800;Name=HmN_002064800.2
+#microexons transcript:HmN_002064800.2:  64 78 90 66 117 51 90 60 66 261 141 15 45 30 777 162 201 51 60 48 60 33 135 30-24-24 39 12 186 30 126 30-24-15-24 33 84 24 171 39 29
 HMN_02_pilon	WormBase_imported	exon	21417144	21417207	.	-	.	ID=exon:HmN_002064800.1.1;Parent=transcript:HmN_002064800.1
 HMN_02_pilon	WormBase_imported	exon	21416903	21416980	.	-	.	ID=exon:HmN_002064800.1.2;Parent=transcript:HmN_002064800.1
 HMN_02_pilon	WormBase_imported	exon	21416658	21416747	.	-	.	ID=exon:HmN_002064800.1.3;Parent=transcript:HmN_002064800.1
@@ -1137,7 +1161,9 @@ HMN_02_pilon	WormBase_imported	CDS	21408337	21408375	.	-	2	ID=cds:HmN_002064800.
 HMN_02_pilon	WormBase_imported	CDS	21408232	21408260	.	-	2	ID=cds:HmN_002064800.2;Parent=transcript:HmN_002064800.2
 HMN_02_pilon	WormBase_imported	gene	21426186	21434771	.	+	.	ID=gene:HmN_000715600;Name=HmN_000715600;biotype=protein_coding
 HMN_02_pilon	WormBase_imported	mRNA	21426186	21434771	.	+	.	ID=transcript:HmN_000715600.1;Parent=gene:HmN_000715600;Name=HmN_000715600.1
+#microexons transcript:HmN_000715600.1:  46 66 54 75 90 45 27 51 111 60 135 81 117 15 45 30 33 912 201 51 60 48 60 33 135 30-24-24 39 111 30 393 12-24-30 105 138 14
 HMN_02_pilon	WormBase_imported	mRNA	21426186	21434771	.	+	.	ID=transcript:HmN_000715600.2;Parent=gene:HmN_000715600;Name=HmN_000715600.2
+#microexons transcript:HmN_000715600.2:  46 66 54 75 90 45 27 51 111 135 81 117 15 45 30 33 912 201 51 60 48 60 33 135 30-24-24 39 111 30 393 12-24-30 105 138 14
 HMN_02_pilon	WormBase_imported	exon	21426186	21426231	.	+	.	ID=exon:HmN_000715600.1.1;Parent=transcript:HmN_000715600.1
 HMN_02_pilon	WormBase_imported	exon	21426303	21426368	.	+	.	ID=exon:HmN_000715600.1.2;Parent=transcript:HmN_000715600.1
 HMN_02_pilon	WormBase_imported	exon	21426438	21426491	.	+	.	ID=exon:HmN_000715600.1.3;Parent=transcript:HmN_000715600.1
@@ -1290,7 +1316,9 @@ HMN_02_pilon	WormBase_imported	CDS	21434531	21434668	.	+	2	ID=cds:HmN_000715600.
 HMN_02_pilon	WormBase_imported	CDS	21434758	21434771	.	+	2	ID=cds:HmN_000715600.2;Parent=transcript:HmN_000715600.2
 HMN_02_pilon	WormBase_imported	gene	21438778	21450862	.	-	.	ID=gene:HmN_000715700;Name=HmN_000715700;biotype=protein_coding
 HMN_02_pilon	WormBase_imported	mRNA	21438778	21450862	.	-	.	ID=transcript:HmN_000715700.1;Parent=gene:HmN_000715700;Name=HmN_000715700.1
+#microexons transcript:HmN_000715700.1:  40 54 54 54 54 54 87 108 60 45 45 108 60 141 228 15 45 27 648 144 201 51 60 48 60 33 135 30-24-24 39 12 138 147 30 51 30-27-9 81 72 123 39 14
 HMN_02_pilon	WormBase_imported	mRNA	21438778	21450862	.	-	.	ID=transcript:HmN_000715700.2;Parent=gene:HmN_000715700;Name=HmN_000715700.2
+#microexons transcript:HmN_000715700.2:  40 54 54 54 54 54 87 108 60 45 45 108 60 141 228 15 45 27 648 144 201 51 60 48 60 33 135 30-24-24 39 12 138 147 30 51 30-27-9 81 72 123 36 14
 HMN_02_pilon	WormBase_imported	exon	21450823	21450862	.	-	.	ID=exon:HmN_000715700.1.1;Parent=transcript:HmN_000715700.1
 HMN_02_pilon	WormBase_imported	exon	21450690	21450743	.	-	.	ID=exon:HmN_000715700.1.2;Parent=transcript:HmN_000715700.1
 HMN_02_pilon	WormBase_imported	exon	21449854	21449907	.	-	.	ID=exon:HmN_000715700.1.3;Parent=transcript:HmN_000715700.1
@@ -1469,7 +1497,9 @@ HMN_02_pilon	WormBase_imported	CDS	21438868	21438903	.	-	2	ID=cds:HmN_000715700.
 HMN_02_pilon	WormBase_imported	CDS	21438778	21438791	.	-	2	ID=cds:HmN_000715700.2;Parent=transcript:HmN_000715700.2
 HMN_02_pilon	WormBase_imported	gene	25849221	25852157	.	-	.	ID=gene:HmN_002037800;Name=HmN_002037800;biotype=protein_coding
 HMN_02_pilon	WormBase_imported	mRNA	25849221	25852157	.	-	.	ID=transcript:HmN_002037800.1;Parent=gene:HmN_002037800;Name=HmN_002037800.1
+#microexons transcript:HmN_002037800.1:  153 106 120 104 82 141 30-30-30-30-27 38
 HMN_02_pilon	WormBase_imported	mRNA	25849221	25852157	.	-	.	ID=transcript:HmN_002037800.2;Parent=gene:HmN_002037800;Name=HmN_002037800.2
+#microexons transcript:HmN_002037800.2:  153 106 120 104 82 141 30-30-30-30-30-27 38
 HMN_02_pilon	WormBase_imported	exon	25852005	25852157	.	-	.	ID=exon:HmN_002037800.1.1;Parent=transcript:HmN_002037800.1
 HMN_02_pilon	WormBase_imported	exon	25851850	25851955	.	-	.	ID=exon:HmN_002037800.1.2;Parent=transcript:HmN_002037800.1
 HMN_02_pilon	WormBase_imported	exon	25851678	25851797	.	-	.	ID=exon:HmN_002037800.1.3;Parent=transcript:HmN_002037800.1
@@ -1522,8 +1552,11 @@ HMN_02_pilon	WormBase_imported	CDS	25849347	25849373	.	-	2	ID=cds:HmN_002037800.
 HMN_02_pilon	WormBase_imported	CDS	25849221	25849258	.	-	2	ID=cds:HmN_002037800.2;Parent=transcript:HmN_002037800.2
 HMN_02_pilon	WormBase_imported	gene	26296274	26298302	.	+	.	ID=gene:HmN_000983400;Name=HmN_000983400;biotype=protein_coding
 HMN_02_pilon	WormBase_imported	mRNA	26296274	26298302	.	+	.	ID=transcript:HmN_000983400.1;Parent=gene:HmN_000983400;Name=HmN_000983400.1
+#microexons transcript:HmN_000983400.1:  117 106 120 104 82 120 30-27-18-27 35
 HMN_02_pilon	WormBase_imported	mRNA	26296274	26298015	.	+	.	ID=transcript:HmN_000983400.2;Parent=gene:HmN_000983400;Name=HmN_000983400.2
+#microexons transcript:HmN_000983400.2:  117 106 120 104 82 141 30-27-18 41
 HMN_02_pilon	WormBase_imported	mRNA	26296274	26298302	.	+	.	ID=transcript:HmN_000983400.3;Parent=gene:HmN_000983400;Name=HmN_000983400.3
+#microexons transcript:HmN_000983400.3:  117 106 120 104 82 141 30-27-18-27 35
 HMN_02_pilon	WormBase_imported	exon	26296274	26296390	.	+	.	ID=exon:HmN_000983400.1.1;Parent=transcript:HmN_000983400.1
 HMN_02_pilon	WormBase_imported	exon	26296440	26296545	.	+	.	ID=exon:HmN_000983400.1.2;Parent=transcript:HmN_000983400.1
 HMN_02_pilon	WormBase_imported	exon	26296598	26296717	.	+	.	ID=exon:HmN_000983400.1.3;Parent=transcript:HmN_000983400.1
@@ -1590,6 +1623,7 @@ HMN_02_pilon	WormBase_imported	CDS	26298155	26298181	.	+	2	ID=cds:HmN_000983400.
 HMN_02_pilon	WormBase_imported	CDS	26298268	26298302	.	+	2	ID=cds:HmN_000983400.3;Parent=transcript:HmN_000983400.3
 HMN_02_pilon	WormBase_imported	gene	26674396	26676485	.	+	.	ID=gene:HmN_002036700;Name=HmN_002036700;biotype=protein_coding
 HMN_02_pilon	WormBase_imported	mRNA	26674396	26676485	.	+	.	ID=transcript:HmN_002036700;Parent=gene:HmN_002036700;Name=HmN_002036700
+#microexons transcript:HmN_002036700:  69 106 120 104 82 159 30-15-27 35
 HMN_02_pilon	WormBase_imported	exon	26674396	26674464	.	+	.	ID=exon:HmN_002036700.1;Parent=transcript:HmN_002036700
 HMN_02_pilon	WormBase_imported	exon	26674514	26674619	.	+	.	ID=exon:HmN_002036700.2;Parent=transcript:HmN_002036700
 HMN_02_pilon	WormBase_imported	exon	26674672	26674791	.	+	.	ID=exon:HmN_002036700.3;Parent=transcript:HmN_002036700
@@ -1612,6 +1646,7 @@ HMN_02_pilon	WormBase_imported	CDS	26676337	26676363	.	+	2	ID=cds:HmN_002036700;
 HMN_02_pilon	WormBase_imported	CDS	26676451	26676485	.	+	2	ID=cds:HmN_002036700;Parent=transcript:HmN_002036700
 HMN_02_pilon	WormBase_imported	gene	26968968	26971077	.	-	.	ID=gene:HmN_001004900;Name=HmN_001004900;biotype=protein_coding
 HMN_02_pilon	WormBase_imported	mRNA	26968968	26971077	.	-	.	ID=transcript:HmN_001004900;Parent=gene:HmN_001004900;Name=HmN_001004900
+#microexons transcript:HmN_001004900:  27 106 120 104 82 159 30-30-27 35
 HMN_02_pilon	WormBase_imported	exon	26971051	26971077	.	-	.	ID=exon:HmN_001004900.1;Parent=transcript:HmN_001004900
 HMN_02_pilon	WormBase_imported	exon	26970896	26971001	.	-	.	ID=exon:HmN_001004900.2;Parent=transcript:HmN_001004900
 HMN_02_pilon	WormBase_imported	exon	26970724	26970843	.	-	.	ID=exon:HmN_001004900.3;Parent=transcript:HmN_001004900
@@ -1634,7 +1669,9 @@ HMN_02_pilon	WormBase_imported	CDS	26969092	26969118	.	-	2	ID=cds:HmN_001004900;
 HMN_02_pilon	WormBase_imported	CDS	26968968	26969002	.	-	2	ID=cds:HmN_001004900;Parent=transcript:HmN_001004900
 HMN_02_pilon	WormBase_imported	gene	27074012	27075299	.	-	.	ID=gene:HmN_002232000;Name=HmN_002232000;biotype=protein_coding
 HMN_02_pilon	WormBase_imported	mRNA	27074012	27075299	.	-	.	ID=transcript:HmN_002232000.1;Parent=gene:HmN_002232000;Name=HmN_002232000.1;info=method:InterPro accession:IPR006629 description:LPS-induced tumour necrosis factor alpha factor
+#microexons transcript:HmN_002232000.1:  4 27 33 18 33 136 118
 HMN_02_pilon	WormBase_imported	mRNA	27074012	27075299	.	-	.	ID=transcript:HmN_002232000.2;Parent=gene:HmN_002232000;Name=HmN_002232000.2;info=method:InterPro accession:IPR006629 description:LPS-induced tumour necrosis factor alpha factor
+#microexons transcript:HmN_002232000.2:  4 27-30-18 33 136 118
 HMN_02_pilon	WormBase_imported	exon	27075296	27075299	.	-	.	ID=exon:HmN_002232000.1.1;Parent=transcript:HmN_002232000.1
 HMN_02_pilon	WormBase_imported	exon	27075190	27075216	.	-	.	ID=exon:HmN_002232000.1.2;Parent=transcript:HmN_002232000.1
 HMN_02_pilon	WormBase_imported	exon	27075027	27075059	.	-	.	ID=exon:HmN_002232000.1.3;Parent=transcript:HmN_002232000.1
@@ -1665,6 +1702,7 @@ HMN_02_pilon	WormBase_imported	CDS	27074570	27074705	.	-	2	ID=cds:HmN_002232000.
 HMN_02_pilon	WormBase_imported	CDS	27074012	27074129	.	-	1	ID=cds:HmN_002232000.2;Parent=transcript:HmN_002232000.2
 HMN_02_pilon	WormBase_imported	gene	28309939	28312219	.	-	.	ID=gene:HmN_000775700;Name=HmN_000775700;biotype=protein_coding
 HMN_02_pilon	WormBase_imported	mRNA	28309939	28312219	.	-	.	ID=transcript:HmN_000775700;Parent=gene:HmN_000775700;Name=HmN_000775700
+#microexons transcript:HmN_000775700:  153 106 120 104 82 141 30-30-27 38
 HMN_02_pilon	WormBase_imported	exon	28312067	28312219	.	-	.	ID=exon:HmN_000775700.1;Parent=transcript:HmN_000775700
 HMN_02_pilon	WormBase_imported	exon	28311911	28312016	.	-	.	ID=exon:HmN_000775700.2;Parent=transcript:HmN_000775700
 HMN_02_pilon	WormBase_imported	exon	28311739	28311858	.	-	.	ID=exon:HmN_000775700.3;Parent=transcript:HmN_000775700
@@ -1687,6 +1725,7 @@ HMN_02_pilon	WormBase_imported	CDS	28310063	28310089	.	-	2	ID=cds:HmN_000775700;
 HMN_02_pilon	WormBase_imported	CDS	28309939	28309976	.	-	2	ID=cds:HmN_000775700;Parent=transcript:HmN_000775700
 HMN_02_pilon	WormBase_imported	gene	31156928	31159303	.	-	.	ID=gene:HmN_003024100;Name=HmN_003024100;biotype=protein_coding;previous_stable_id=HmN_000960400
 HMN_02_pilon	WormBase_imported	mRNA	31156928	31159303	.	-	.	ID=transcript:HmN_003024100;Parent=gene:HmN_003024100;Name=HmN_003024100
+#microexons transcript:HmN_003024100:  102 106 120 104 82 141 30-27-27 35
 HMN_02_pilon	WormBase_imported	exon	31159202	31159303	.	-	.	ID=exon:HmN_003024100.1;Parent=transcript:HmN_003024100
 HMN_02_pilon	WormBase_imported	exon	31159047	31159152	.	-	.	ID=exon:HmN_003024100.2;Parent=transcript:HmN_003024100
 HMN_02_pilon	WormBase_imported	exon	31158875	31158994	.	-	.	ID=exon:HmN_003024100.3;Parent=transcript:HmN_003024100
@@ -1709,6 +1748,7 @@ HMN_02_pilon	WormBase_imported	CDS	31157039	31157065	.	-	2	ID=cds:HmN_003024100;
 HMN_02_pilon	WormBase_imported	CDS	31156928	31156962	.	-	2	ID=cds:HmN_003024100;Parent=transcript:HmN_003024100
 HMN_02_pilon	WormBase_imported	gene	31230700	31233091	.	-	.	ID=gene:HmN_003024120;Name=HmN_003024120;biotype=protein_coding;previous_stable_id=HmN_000960400
 HMN_02_pilon	WormBase_imported	mRNA	31230700	31233091	.	-	.	ID=transcript:HmN_003024120;Parent=gene:HmN_003024120;Name=HmN_003024120
+#microexons transcript:HmN_003024120:  102 106 120 104 82 141 30-27-18-18-27 35
 HMN_02_pilon	WormBase_imported	exon	31232990	31233091	.	-	.	ID=exon:HmN_003024120.1;Parent=transcript:HmN_003024120
 HMN_02_pilon	WormBase_imported	exon	31232835	31232940	.	-	.	ID=exon:HmN_003024120.2;Parent=transcript:HmN_003024120
 HMN_02_pilon	WormBase_imported	exon	31232663	31232782	.	-	.	ID=exon:HmN_003024120.3;Parent=transcript:HmN_003024120
@@ -1735,7 +1775,9 @@ HMN_02_pilon	WormBase_imported	CDS	31230811	31230837	.	-	2	ID=cds:HmN_003024120;
 HMN_02_pilon	WormBase_imported	CDS	31230700	31230734	.	-	2	ID=cds:HmN_003024120;Parent=transcript:HmN_003024120
 HMN_02_pilon	WormBase_imported	gene	31429746	31434474	.	+	.	ID=gene:HmN_003024240;Name=HmN_003024240;biotype=protein_coding
 HMN_02_pilon	WormBase_imported	mRNA	31429746	31434474	.	+	.	ID=transcript:HmN_003024240.1;Parent=gene:HmN_003024240;Name=HmN_003024240.1
+#microexons transcript:HmN_003024240.1:  153 106 120 104 82 141 30-24-27 35
 HMN_02_pilon	WormBase_imported	mRNA	31429746	31432011	.	+	.	ID=transcript:HmN_003024240.2;Parent=gene:HmN_003024240;Name=HmN_003024240.2
+#microexons transcript:HmN_003024240.2:  153 106 120 104 82 141 30-24-27 35
 HMN_02_pilon	WormBase_imported	exon	31429746	31429898	.	+	.	ID=exon:HmN_003024240.1.1;Parent=transcript:HmN_003024240.1
 HMN_02_pilon	WormBase_imported	exon	31429947	31430052	.	+	.	ID=exon:HmN_003024240.1.2;Parent=transcript:HmN_003024240.1
 HMN_02_pilon	WormBase_imported	exon	31430105	31430224	.	+	.	ID=exon:HmN_003024240.1.3;Parent=transcript:HmN_003024240.1
@@ -1778,6 +1820,7 @@ HMN_02_pilon	WormBase_imported	CDS	31431864	31431890	.	+	2	ID=cds:HmN_003024240.
 HMN_02_pilon	WormBase_imported	CDS	31431977	31432011	.	+	2	ID=cds:HmN_003024240.2;Parent=transcript:HmN_003024240.2
 HMN_03_pilon	WormBase_imported	gene	9981464	9984826	.	-	.	ID=gene:HmN_003028090;Name=HmN_003028090;biotype=protein_coding;previous_stable_id=HmN_000373600
 HMN_03_pilon	WormBase_imported	mRNA	9981464	9984826	.	-	.	ID=transcript:HmN_003028090;Parent=gene:HmN_003028090;Name=HmN_003028090;info=method:InterPro accession:IPR011990 description:Tetratricopeptide-like helical domain superfamily %0Amethod:InterPro accession:IPR013026 description:Tetratricopeptide repeat-containing domain %0Amethod:InterPro accession:IPR019734 description:Tetratricopeptide repeat %0Amethod:InterPro accession:IPR040111 description:Tetratricopeptide repeat protein 25
+#microexons transcript:HmN_003028090:  142 56 136 222 292 259 112 27-30-30-24 11
 HMN_03_pilon	WormBase_imported	exon	9984685	9984826	.	-	.	ID=exon:HmN_003028090.1;Parent=transcript:HmN_003028090
 HMN_03_pilon	WormBase_imported	exon	9984497	9984552	.	-	.	ID=exon:HmN_003028090.2;Parent=transcript:HmN_003028090
 HMN_03_pilon	WormBase_imported	exon	9984308	9984443	.	-	.	ID=exon:HmN_003028090.3;Parent=transcript:HmN_003028090
@@ -1804,10 +1847,15 @@ HMN_03_pilon	WormBase_imported	CDS	9981640	9981663	.	-	2	ID=cds:HmN_003028090;Pa
 HMN_03_pilon	WormBase_imported	CDS	9981464	9981474	.	-	2	ID=cds:HmN_003028090;Parent=transcript:HmN_003028090
 HMN_03_pilon	WormBase_imported	gene	21856315	21863386	.	+	.	ID=gene:HmN_000403600;Name=HmN_000403600;biotype=protein_coding
 HMN_03_pilon	WormBase_imported	mRNA	21856315	21863386	.	+	.	ID=transcript:HmN_000403600.1;Parent=gene:HmN_000403600;Name=HmN_000403600.1
+#microexons transcript:HmN_000403600.1:  40 39 39 51 27 69 66 39 57 30 33 27-24 57 54 36 60 39 39 36 33 30 39 42 51 51 45 26 39 9
 HMN_03_pilon	WormBase_imported	mRNA	21856315	21863386	.	+	.	ID=transcript:HmN_000403600.2;Parent=gene:HmN_000403600;Name=HmN_000403600.2
+#microexons transcript:HmN_000403600.2:  40 39 39 51 27 69 66 39 36 57 30 33 27-24 57 54 36 60 39 39 36 33 30 39 42 51 93 45 26 39 9
 HMN_03_pilon	WormBase_imported	mRNA	21856315	21863386	.	+	.	ID=transcript:HmN_000403600.3;Parent=gene:HmN_000403600;Name=HmN_000403600.3
+#microexons transcript:HmN_000403600.3:  40 39 39 51 27 69 66 39 36 57 30 33 27-24 57 54 36 60 39 39 36 33 30 39 42 51 51 45 26 39 9
 HMN_03_pilon	WormBase_imported	mRNA	21856315	21863386	.	+	.	ID=transcript:HmN_000403600.4;Parent=gene:HmN_000403600;Name=HmN_000403600.4
+#microexons transcript:HmN_000403600.4:  40 39 39 51 27 69 66 39 36 57 30-27-24 57 54 36 60 39 39 36 33 30 39 42 51 51 45 26 39 9
 HMN_03_pilon	WormBase_imported	mRNA	21856315	21863386	.	+	.	ID=transcript:HmN_000403600.5;Parent=gene:HmN_000403600;Name=HmN_000403600.5
+#microexons transcript:HmN_000403600.5:  40 39 51 27 69 66 39 36 57 30 33 27-24 57 54 36 60 39 39 36 33 30 39 42 51 51 45 26 39 9
 HMN_03_pilon	WormBase_imported	exon	21856315	21856354	.	+	.	ID=exon:HmN_000403600.1.1;Parent=transcript:HmN_000403600.1
 HMN_03_pilon	WormBase_imported	exon	21856836	21856874	.	+	.	ID=exon:HmN_000403600.1.2;Parent=transcript:HmN_000403600.1
 HMN_03_pilon	WormBase_imported	exon	21857676	21857714	.	+	.	ID=exon:HmN_000403600.1.3;Parent=transcript:HmN_000403600.1
@@ -2114,6 +2162,7 @@ HMN_03_pilon	WormBase_imported	CDS	21863259	21863297	.	+	0	ID=cds:HmN_000403600.
 HMN_03_pilon	WormBase_imported	CDS	21863378	21863386	.	+	0	ID=cds:HmN_000403600.5;Parent=transcript:HmN_000403600.5
 HMN_03_pilon	WormBase_imported	gene	21997585	22000128	.	-	.	ID=gene:HmN_000402800;Name=HmN_000402800;biotype=protein_coding
 HMN_03_pilon	WormBase_imported	mRNA	21997585	22000128	.	-	.	ID=transcript:HmN_000402800;Parent=gene:HmN_000402800;Name=HmN_000402800
+#microexons transcript:HmN_000402800:  43 57 99 21-21-18 141 195 65
 HMN_03_pilon	WormBase_imported	exon	22000086	22000128	.	-	.	ID=exon:HmN_000402800.1;Parent=transcript:HmN_000402800
 HMN_03_pilon	WormBase_imported	exon	21999846	21999902	.	-	.	ID=exon:HmN_000402800.2;Parent=transcript:HmN_000402800
 HMN_03_pilon	WormBase_imported	exon	21999673	21999771	.	-	.	ID=exon:HmN_000402800.3;Parent=transcript:HmN_000402800
@@ -2134,7 +2183,9 @@ HMN_03_pilon	WormBase_imported	CDS	21997916	21998110	.	-	2	ID=cds:HmN_000402800;
 HMN_03_pilon	WormBase_imported	CDS	21997585	21997649	.	-	2	ID=cds:HmN_000402800;Parent=transcript:HmN_000402800
 HMN_04_pilon	WormBase_imported	gene	4666413	4674697	.	+	.	ID=gene:HmN_000931600;Name=HmN_000931600;biotype=protein_coding
 HMN_04_pilon	WormBase_imported	mRNA	4666413	4674697	.	+	.	ID=transcript:HmN_000931600.1;Parent=gene:HmN_000931600;Name=HmN_000931600.1
+#microexons transcript:HmN_000931600.1:  194 341 345 30-24-30 36 89 77 42 517
 HMN_04_pilon	WormBase_imported	mRNA	4666413	4674697	.	+	.	ID=transcript:HmN_000931600.2;Parent=gene:HmN_000931600;Name=HmN_000931600.2
+#microexons transcript:HmN_000931600.2:  194 341 345 30-24-30 36 89 77 517
 HMN_04_pilon	WormBase_imported	exon	4666413	4666606	.	+	.	ID=exon:HmN_000931600.1.1;Parent=transcript:HmN_000931600.1
 HMN_04_pilon	WormBase_imported	exon	4668285	4668625	.	+	.	ID=exon:HmN_000931600.1.2;Parent=transcript:HmN_000931600.1
 HMN_04_pilon	WormBase_imported	exon	4671456	4671800	.	+	.	ID=exon:HmN_000931600.1.3;Parent=transcript:HmN_000931600.1
@@ -2179,7 +2230,9 @@ HMN_04_pilon	WormBase_imported	CDS	4673489	4673565	.	+	0	ID=cds:HmN_000931600.2;
 HMN_04_pilon	WormBase_imported	CDS	4674181	4674697	.	+	1	ID=cds:HmN_000931600.2;Parent=transcript:HmN_000931600.2
 HMN_04_pilon	WormBase_imported	gene	8631838	8634101	.	+	.	ID=gene:HmN_003035140;Name=HmN_003035140;biotype=protein_coding
 HMN_04_pilon	WormBase_imported	mRNA	8631838	8634101	.	+	.	ID=transcript:HmN_003035140.1;Parent=gene:HmN_003035140;Name=HmN_003035140.1
+#microexons transcript:HmN_003035140.1:  153 106 120 104 82 138 30-30-27 35
 HMN_04_pilon	WormBase_imported	mRNA	8631838	8634101	.	+	.	ID=transcript:HmN_003035140.2;Parent=gene:HmN_003035140;Name=HmN_003035140.2
+#microexons transcript:HmN_003035140.2:  153 106 120 104 82 138 30-30-30-27 35
 HMN_04_pilon	WormBase_imported	exon	8631838	8631990	.	+	.	ID=exon:HmN_003035140.1.1;Parent=transcript:HmN_003035140.1
 HMN_04_pilon	WormBase_imported	exon	8632040	8632145	.	+	.	ID=exon:HmN_003035140.1.2;Parent=transcript:HmN_003035140.1
 HMN_04_pilon	WormBase_imported	exon	8632198	8632317	.	+	.	ID=exon:HmN_003035140.1.3;Parent=transcript:HmN_003035140.1
@@ -2224,7 +2277,9 @@ HMN_04_pilon	WormBase_imported	CDS	8633951	8633977	.	+	2	ID=cds:HmN_003035140.2;
 HMN_04_pilon	WormBase_imported	CDS	8634067	8634101	.	+	2	ID=cds:HmN_003035140.2;Parent=transcript:HmN_003035140.2
 HMN_04_pilon	WormBase_imported	gene	12266734	12293677	.	+	.	ID=gene:HmN_000741600;Name=HmN_000741600;biotype=protein_coding
 HMN_04_pilon	WormBase_imported	mRNA	12266734	12293677	.	+	.	ID=transcript:HmN_000741600.1;Parent=gene:HmN_000741600;Name=HmN_000741600.1;info=method:InterPro accession:IPR000719 description:Protein kinase domain %0Amethod:InterPro accession:IPR011009 description:Protein kinase-like domain superfamily %0Amethod:InterPro accession:IPR019012 description:RNA cap guanine-N2 methyltransferase %0Amethod:InterPro accession:IPR029063 description:S-adenosyl-L-methionine-dependent methyltransferase
+#microexons transcript:HmN_000741600.1:  130 136 18 68 127 234 33 33 18 42 30-15-18-30-15 36 39 48 30-30-30-15-30 36 30 101 124 86 186 153 312 314
 HMN_04_pilon	WormBase_imported	mRNA	12266734	12293677	.	+	.	ID=transcript:HmN_000741600.2;Parent=gene:HmN_000741600;Name=HmN_000741600.2;info=method:InterPro accession:IPR000719 description:Protein kinase domain %0Amethod:InterPro accession:IPR011009 description:Protein kinase-like domain superfamily %0Amethod:InterPro accession:IPR019012 description:RNA cap guanine-N2 methyltransferase %0Amethod:InterPro accession:IPR029063 description:S-adenosyl-L-methionine-dependent methyltransferase
+#microexons transcript:HmN_000741600.2:  130 136 18 68 127 234 33 33 18 42 30-15-18-15 36 39 48 30-30-30-15-30 36 30 101 124 86 186 153 312 314
 HMN_04_pilon	WormBase_imported	exon	12266734	12266863	.	+	.	ID=exon:HmN_000741600.1.1;Parent=transcript:HmN_000741600.1
 HMN_04_pilon	WormBase_imported	exon	12266904	12267039	.	+	.	ID=exon:HmN_000741600.1.2;Parent=transcript:HmN_000741600.1
 HMN_04_pilon	WormBase_imported	exon	12268968	12268985	.	+	.	ID=exon:HmN_000741600.1.3;Parent=transcript:HmN_000741600.1
@@ -2353,6 +2408,7 @@ HMN_04_pilon	WormBase_imported	CDS	12292388	12292699	.	+	2	ID=cds:HmN_000741600.
 HMN_04_pilon	WormBase_imported	CDS	12293364	12293677	.	+	2	ID=cds:HmN_000741600.2;Parent=transcript:HmN_000741600.2
 HMN_04_pilon	WormBase_imported	gene	13695853	13714310	.	-	.	ID=gene:HmN_000159900;Name=HmN_000159900;biotype=protein_coding
 HMN_04_pilon	WormBase_imported	mRNA	13695853	13714310	.	-	.	ID=transcript:HmN_000159900;Parent=gene:HmN_000159900;Name=HmN_000159900;info=method:InterPro accession:IPR014752 description:Arrestin%2C C-terminal
+#microexons transcript:HmN_000159900:  86 29 15 45 18-12-27 48 72 17 21 42 15-21 10 263 302 190 426 114
 HMN_04_pilon	WormBase_imported	exon	13714225	13714310	.	-	.	ID=exon:HmN_000159900.1;Parent=transcript:HmN_000159900
 HMN_04_pilon	WormBase_imported	exon	13712329	13712357	.	-	.	ID=exon:HmN_000159900.2;Parent=transcript:HmN_000159900
 HMN_04_pilon	WormBase_imported	exon	13712145	13712159	.	-	.	ID=exon:HmN_000159900.3;Parent=transcript:HmN_000159900
@@ -2395,6 +2451,7 @@ HMN_04_pilon	WormBase_imported	CDS	13697760	13698185	.	-	0	ID=cds:HmN_000159900;
 HMN_04_pilon	WormBase_imported	CDS	13695853	13695966	.	-	0	ID=cds:HmN_000159900;Parent=transcript:HmN_000159900
 HMN_04_pilon	WormBase_imported	gene	20503941	20519076	.	+	.	ID=gene:HmN_003037040;Name=HmN_003037040;biotype=protein_coding;previous_stable_id=HmN_000369900
 HMN_04_pilon	WormBase_imported	mRNA	20503941	20519076	.	+	.	ID=transcript:HmN_003037040;Parent=gene:HmN_003037040;Name=HmN_003037040
+#microexons transcript:HmN_003037040:  192 106 120 104 82 144 120 104 82 144 120 104 82 144 30-30-30-27 35
 HMN_04_pilon	WormBase_imported	exon	20503941	20504132	.	+	.	ID=exon:HmN_003037040.1;Parent=transcript:HmN_003037040
 HMN_04_pilon	WormBase_imported	exon	20504182	20504287	.	+	.	ID=exon:HmN_003037040.2;Parent=transcript:HmN_003037040
 HMN_04_pilon	WormBase_imported	exon	20504340	20504459	.	+	.	ID=exon:HmN_003037040.3;Parent=transcript:HmN_003037040
@@ -2435,7 +2492,9 @@ HMN_04_pilon	WormBase_imported	CDS	20518946	20518972	.	+	2	ID=cds:HmN_003037040;
 HMN_04_pilon	WormBase_imported	CDS	20519042	20519076	.	+	2	ID=cds:HmN_003037040;Parent=transcript:HmN_003037040
 HMN_04_pilon	WormBase_imported	gene	22813852	22818313	.	+	.	ID=gene:HmN_000221600;Name=HmN_000221600;biotype=protein_coding
 HMN_04_pilon	WormBase_imported	mRNA	22813852	22818313	.	+	.	ID=transcript:HmN_000221600.1;Parent=gene:HmN_000221600;Name=HmN_000221600.1;info=method:InterPro accession:IPR001978 description:Troponin %0Amethod:InterPro accession:IPR038077 description:Troponin domain superfamily
+#microexons transcript:HmN_000221600.1:  23 7 15-27-27-30 108 121 145 151 72
 HMN_04_pilon	WormBase_imported	mRNA	22813852	22818313	.	+	.	ID=transcript:HmN_000221600.2;Parent=gene:HmN_000221600;Name=HmN_000221600.2;info=method:InterPro accession:IPR001978 description:Troponin %0Amethod:InterPro accession:IPR038077 description:Troponin domain superfamily
+#microexons transcript:HmN_000221600.2:  23 7 15-27 42 30 108 121 145 151 72
 HMN_04_pilon	WormBase_imported	exon	22813852	22813874	.	+	.	ID=exon:HmN_000221600.1.1;Parent=transcript:HmN_000221600.1
 HMN_04_pilon	WormBase_imported	exon	22814166	22814172	.	+	.	ID=exon:HmN_000221600.1.2;Parent=transcript:HmN_000221600.1
 HMN_04_pilon	WormBase_imported	exon	22814341	22814355	.	+	.	ID=exon:HmN_000221600.1.3;Parent=transcript:HmN_000221600.1
@@ -2482,6 +2541,7 @@ HMN_04_pilon	WormBase_imported	CDS	22817370	22817520	.	+	1	ID=cds:HmN_000221600.
 HMN_04_pilon	WormBase_imported	CDS	22818242	22818313	.	+	0	ID=cds:HmN_000221600.2;Parent=transcript:HmN_000221600.2
 HMN_04_pilon	WormBase_imported	gene	22822869	22828021	.	+	.	ID=gene:HmN_000221700;Name=HmN_000221700;biotype=protein_coding
 HMN_04_pilon	WormBase_imported	mRNA	22822869	22828021	.	+	.	ID=transcript:HmN_000221700;Parent=gene:HmN_000221700;Name=HmN_000221700
+#microexons transcript:HmN_000221700:  382 30-30-30-30-30 128
 HMN_04_pilon	WormBase_imported	exon	22822869	22823250	.	+	.	ID=exon:HmN_000221700.1;Parent=transcript:HmN_000221700
 HMN_04_pilon	WormBase_imported	exon	22824422	22824451	.	+	.	ID=exon:HmN_000221700.2;Parent=transcript:HmN_000221700
 HMN_04_pilon	WormBase_imported	exon	22824538	22824567	.	+	.	ID=exon:HmN_000221700.3;Parent=transcript:HmN_000221700
@@ -2498,6 +2558,7 @@ HMN_04_pilon	WormBase_imported	CDS	22826182	22826211	.	+	2	ID=cds:HmN_000221700;
 HMN_04_pilon	WormBase_imported	CDS	22827894	22828021	.	+	2	ID=cds:HmN_000221700;Parent=transcript:HmN_000221700
 HMN_05_pilon	WormBase_imported	gene	13079337	13117955	.	+	.	ID=gene:HmN_000551200;Name=HmN_000551200;biotype=protein_coding;previous_stable_id=HmN_002286000
 HMN_05_pilon	WormBase_imported	mRNA	13079337	13117955	.	+	.	ID=transcript:HmN_000551200;Parent=gene:HmN_000551200;Name=HmN_000551200
+#microexons transcript:HmN_000551200:  94 48 90 48 36 30-30-27 66 18-30 36 39 33 30 33 39 33 24-30-21 42 33 36 45 24-27 39 63 30 72 111 56 66 263 136 173 39 78 77 230 94 77
 HMN_05_pilon	WormBase_imported	exon	13079337	13079430	.	+	.	ID=exon:HmN_000551200.1;Parent=transcript:HmN_000551200
 HMN_05_pilon	WormBase_imported	exon	13080916	13080963	.	+	.	ID=exon:HmN_000551200.2;Parent=transcript:HmN_000551200
 HMN_05_pilon	WormBase_imported	exon	13082030	13082119	.	+	.	ID=exon:HmN_000551200.3;Parent=transcript:HmN_000551200
@@ -2586,6 +2647,7 @@ HMN_05_pilon	WormBase_imported	CDS	13117715	13117808	.	+	0	ID=cds:HmN_000551200;
 HMN_05_pilon	WormBase_imported	CDS	13117879	13117955	.	+	2	ID=cds:HmN_000551200;Parent=transcript:HmN_000551200
 HMN_06_pilon	WormBase_imported	gene	18294	20741	.	-	.	ID=gene:HmN_002054700;Name=HmN_002054700;biotype=protein_coding
 HMN_06_pilon	WormBase_imported	mRNA	18294	20741	.	-	.	ID=transcript:HmN_002054700;Parent=gene:HmN_002054700;Name=HmN_002054700
+#microexons transcript:HmN_002054700:  153 106 120 104 82 141 30-27-30-27 5
 HMN_06_pilon	WormBase_imported	exon	20589	20741	.	-	.	ID=exon:HmN_002054700.1;Parent=transcript:HmN_002054700
 HMN_06_pilon	WormBase_imported	exon	20436	20541	.	-	.	ID=exon:HmN_002054700.2;Parent=transcript:HmN_002054700
 HMN_06_pilon	WormBase_imported	exon	20279	20398	.	-	.	ID=exon:HmN_002054700.3;Parent=transcript:HmN_002054700
@@ -2610,7 +2672,9 @@ HMN_06_pilon	WormBase_imported	CDS	18439	18465	.	-	2	ID=cds:HmN_002054700;Parent
 HMN_06_pilon	WormBase_imported	CDS	18294	18298	.	-	2	ID=cds:HmN_002054700;Parent=transcript:HmN_002054700
 HMN_06_pilon	WormBase_imported	gene	107317	111238	.	-	.	ID=gene:HmN_000297500;Name=HmN_000297500;biotype=protein_coding
 HMN_06_pilon	WormBase_imported	mRNA	107317	111238	.	-	.	ID=transcript:HmN_000297500.1;Parent=gene:HmN_000297500;Name=HmN_000297500.1
+#microexons transcript:HmN_000297500.1:  85 104 82 141 30-27-30-30-30-30 143
 HMN_06_pilon	WormBase_imported	mRNA	107317	111238	.	-	.	ID=transcript:HmN_000297500.2;Parent=gene:HmN_000297500;Name=HmN_000297500.2
+#microexons transcript:HmN_000297500.2:  85 104 82 141 30-27-30-30-30 143
 HMN_06_pilon	WormBase_imported	exon	111154	111238	.	-	.	ID=exon:HmN_000297500.1.1;Parent=transcript:HmN_000297500.1
 HMN_06_pilon	WormBase_imported	exon	110943	111046	.	-	.	ID=exon:HmN_000297500.1.2;Parent=transcript:HmN_000297500.1
 HMN_06_pilon	WormBase_imported	exon	110737	110818	.	-	.	ID=exon:HmN_000297500.1.3;Parent=transcript:HmN_000297500.1
@@ -2655,6 +2719,7 @@ HMN_06_pilon	WormBase_imported	CDS	109000	109029	.	-	2	ID=cds:HmN_000297500.2;Pa
 HMN_06_pilon	WormBase_imported	CDS	107317	107459	.	-	2	ID=cds:HmN_000297500.2;Parent=transcript:HmN_000297500.2
 HMN_06_pilon	WormBase_imported	gene	2643060	2647492	.	+	.	ID=gene:HmN_003046130;Name=HmN_003046130;biotype=protein_coding
 HMN_06_pilon	WormBase_imported	mRNA	2643060	2647492	.	+	.	ID=transcript:HmN_003046130;Parent=gene:HmN_003046130;Name=HmN_003046130
+#microexons transcript:HmN_003046130:  145 21-24-18 33 44
 HMN_06_pilon	WormBase_imported	exon	2643060	2643204	.	+	.	ID=exon:HmN_003046130.1;Parent=transcript:HmN_003046130
 HMN_06_pilon	WormBase_imported	exon	2644006	2644026	.	+	.	ID=exon:HmN_003046130.2;Parent=transcript:HmN_003046130
 HMN_06_pilon	WormBase_imported	exon	2646150	2646173	.	+	.	ID=exon:HmN_003046130.3;Parent=transcript:HmN_003046130
@@ -2669,6 +2734,7 @@ HMN_06_pilon	WormBase_imported	CDS	2647201	2647233	.	+	2	ID=cds:HmN_003046130;Pa
 HMN_06_pilon	WormBase_imported	CDS	2647449	2647492	.	+	2	ID=cds:HmN_003046130;Parent=transcript:HmN_003046130
 HMN_06_pilon	WormBase_imported	gene	2849668	2852114	.	+	.	ID=gene:HmN_002003700;Name=HmN_002003700;biotype=protein_coding
 HMN_06_pilon	WormBase_imported	mRNA	2849668	2852114	.	+	.	ID=transcript:HmN_002003700;Parent=gene:HmN_002003700;Name=HmN_002003700
+#microexons transcript:HmN_002003700:  145 27-21-9-27-27-21 59
 HMN_06_pilon	WormBase_imported	exon	2849668	2849812	.	+	.	ID=exon:HmN_002003700.1;Parent=transcript:HmN_002003700
 HMN_06_pilon	WormBase_imported	exon	2850304	2850330	.	+	.	ID=exon:HmN_002003700.2;Parent=transcript:HmN_002003700
 HMN_06_pilon	WormBase_imported	exon	2850901	2850921	.	+	.	ID=exon:HmN_002003700.3;Parent=transcript:HmN_002003700
@@ -2687,8 +2753,11 @@ HMN_06_pilon	WormBase_imported	CDS	2851796	2851816	.	+	2	ID=cds:HmN_002003700;Pa
 HMN_06_pilon	WormBase_imported	CDS	2852056	2852114	.	+	2	ID=cds:HmN_002003700;Parent=transcript:HmN_002003700
 HMN_06_pilon	WormBase_imported	gene	2874233	2893703	.	-	.	ID=gene:HmN_003046170;Name=HmN_003046170;biotype=protein_coding
 HMN_06_pilon	WormBase_imported	mRNA	2874233	2893703	.	-	.	ID=transcript:HmN_003046170.1;Parent=gene:HmN_003046170;Name=HmN_003046170.1
+#microexons transcript:HmN_003046170.1:  67 21-27-27-21-27-18-21-18-30-21-27-18-21-27 26
 HMN_06_pilon	WormBase_imported	mRNA	2874233	2893703	.	-	.	ID=transcript:HmN_003046170.2;Parent=gene:HmN_003046170;Name=HmN_003046170.2
+#microexons transcript:HmN_003046170.2:  67 27-27-21-27-18-21-18-30-21-27-18-21-27 26
 HMN_06_pilon	WormBase_imported	mRNA	2890545	2893703	.	-	.	ID=transcript:HmN_003046170.3;Parent=gene:HmN_003046170;Name=HmN_003046170.3
+#microexons transcript:HmN_003046170.3:  67 21-27-27-21-27-18 38
 HMN_06_pilon	WormBase_imported	exon	2893637	2893703	.	-	.	ID=exon:HmN_003046170.1.1;Parent=transcript:HmN_003046170.1
 HMN_06_pilon	WormBase_imported	exon	2892653	2892673	.	-	.	ID=exon:HmN_003046170.1.2;Parent=transcript:HmN_003046170.1
 HMN_06_pilon	WormBase_imported	exon	2892151	2892177	.	-	.	ID=exon:HmN_003046170.1.3;Parent=transcript:HmN_003046170.1
@@ -2769,6 +2838,7 @@ HMN_06_pilon	WormBase_imported	CDS	2890686	2890703	.	-	2	ID=cds:HmN_003046170.3;
 HMN_06_pilon	WormBase_imported	CDS	2890545	2890582	.	-	2	ID=cds:HmN_003046170.3;Parent=transcript:HmN_003046170.3
 HMN_06_pilon	WormBase_imported	gene	2899420	2906415	.	-	.	ID=gene:HmN_000360400;Name=HmN_000360400;biotype=protein_coding
 HMN_06_pilon	WormBase_imported	mRNA	2899420	2906415	.	-	.	ID=transcript:HmN_000360400;Parent=gene:HmN_000360400;Name=HmN_000360400
+#microexons transcript:HmN_000360400:  73 30-21-18-21-30-21-18-21-30-21-18-21-21 26
 HMN_06_pilon	WormBase_imported	exon	2906343	2906415	.	-	.	ID=exon:HmN_000360400.1;Parent=transcript:HmN_000360400
 HMN_06_pilon	WormBase_imported	exon	2905868	2905897	.	-	.	ID=exon:HmN_000360400.2;Parent=transcript:HmN_000360400
 HMN_06_pilon	WormBase_imported	exon	2905634	2905654	.	-	.	ID=exon:HmN_000360400.3;Parent=transcript:HmN_000360400
@@ -2801,7 +2871,9 @@ HMN_06_pilon	WormBase_imported	CDS	2899616	2899636	.	-	2	ID=cds:HmN_000360400;Pa
 HMN_06_pilon	WormBase_imported	CDS	2899420	2899445	.	-	2	ID=cds:HmN_000360400;Parent=transcript:HmN_000360400
 HMN_06_pilon	WormBase_imported	gene	2925736	2934042	.	-	.	ID=gene:HmN_003046180;Name=HmN_003046180;biotype=protein_coding
 HMN_06_pilon	WormBase_imported	mRNA	2925736	2934042	.	-	.	ID=transcript:HmN_003046180.1;Parent=gene:HmN_003046180;Name=HmN_003046180.1
+#microexons transcript:HmN_003046180.1:  67 21-21-27 84 27-27-27-21 5
 HMN_06_pilon	WormBase_imported	mRNA	2925736	2934042	.	-	.	ID=transcript:HmN_003046180.2;Parent=gene:HmN_003046180;Name=HmN_003046180.2
+#microexons transcript:HmN_003046180.2:  67 21-21-21-21-27 84 27-27-27-21 5
 HMN_06_pilon	WormBase_imported	exon	2933976	2934042	.	-	.	ID=exon:HmN_003046180.1.1;Parent=transcript:HmN_003046180.1
 HMN_06_pilon	WormBase_imported	exon	2933661	2933681	.	-	.	ID=exon:HmN_003046180.1.2;Parent=transcript:HmN_003046180.1
 HMN_06_pilon	WormBase_imported	exon	2929623	2929643	.	-	.	ID=exon:HmN_003046180.1.3;Parent=transcript:HmN_003046180.1
@@ -2848,6 +2920,7 @@ HMN_06_pilon	WormBase_imported	CDS	2926036	2926056	.	-	2	ID=cds:HmN_003046180.2;
 HMN_06_pilon	WormBase_imported	CDS	2925736	2925740	.	-	2	ID=cds:HmN_003046180.2;Parent=transcript:HmN_003046180.2
 HMN_06_pilon	WormBase_imported	gene	2937635	2941280	.	-	.	ID=gene:HmN_003046190;Name=HmN_003046190;biotype=protein_coding
 HMN_06_pilon	WormBase_imported	mRNA	2937635	2941280	.	-	.	ID=transcript:HmN_003046190;Parent=gene:HmN_003046190;Name=HmN_003046190
+#microexons transcript:HmN_003046190:  67 21-27 36 21-15-21-21 32
 HMN_06_pilon	WormBase_imported	exon	2941214	2941280	.	-	.	ID=exon:HmN_003046190.1;Parent=transcript:HmN_003046190
 HMN_06_pilon	WormBase_imported	exon	2940859	2940879	.	-	.	ID=exon:HmN_003046190.2;Parent=transcript:HmN_003046190
 HMN_06_pilon	WormBase_imported	exon	2940307	2940333	.	-	.	ID=exon:HmN_003046190.3;Parent=transcript:HmN_003046190
@@ -2868,6 +2941,7 @@ HMN_06_pilon	WormBase_imported	CDS	2938368	2938388	.	-	2	ID=cds:HmN_003046190;Pa
 HMN_06_pilon	WormBase_imported	CDS	2937635	2937666	.	-	2	ID=cds:HmN_003046190;Parent=transcript:HmN_003046190
 HMN_06_pilon	WormBase_imported	gene	2948594	2957353	.	-	.	ID=gene:HmN_003046200;Name=HmN_003046200;biotype=protein_coding;previous_stable_id=HmN_002070900
 HMN_06_pilon	WormBase_imported	mRNA	2948594	2957353	.	-	.	ID=transcript:HmN_003046200;Parent=gene:HmN_003046200;Name=HmN_003046200
+#microexons transcript:HmN_003046200:  139 21-27-21-21-21-27-21-27-27 32
 HMN_06_pilon	WormBase_imported	exon	2957215	2957353	.	-	.	ID=exon:HmN_003046200.1;Parent=transcript:HmN_003046200
 HMN_06_pilon	WormBase_imported	exon	2956882	2956902	.	-	.	ID=exon:HmN_003046200.2;Parent=transcript:HmN_003046200
 HMN_06_pilon	WormBase_imported	exon	2956252	2956278	.	-	.	ID=exon:HmN_003046200.3;Parent=transcript:HmN_003046200
@@ -2892,6 +2966,7 @@ HMN_06_pilon	WormBase_imported	CDS	2950949	2950975	.	-	2	ID=cds:HmN_003046200;Pa
 HMN_06_pilon	WormBase_imported	CDS	2948594	2948625	.	-	2	ID=cds:HmN_003046200;Parent=transcript:HmN_003046200
 HMN_06_pilon	WormBase_imported	gene	2990488	3008997	.	+	.	ID=gene:HmN_003046220;Name=HmN_003046220;biotype=protein_coding;previous_stable_id=HmN_002070900
 HMN_06_pilon	WormBase_imported	mRNA	2990488	3008997	.	+	.	ID=transcript:HmN_003046220;Parent=gene:HmN_003046220;Name=HmN_003046220
+#microexons transcript:HmN_003046220:  67 21-27-21-21-21-27-21-27-21-27 36 21-15-21-21-21 32
 HMN_06_pilon	WormBase_imported	exon	2990488	2990554	.	+	.	ID=exon:HmN_003046220.1;Parent=transcript:HmN_003046220
 HMN_06_pilon	WormBase_imported	exon	2990867	2990887	.	+	.	ID=exon:HmN_003046220.2;Parent=transcript:HmN_003046220
 HMN_06_pilon	WormBase_imported	exon	2991848	2991874	.	+	.	ID=exon:HmN_003046220.3;Parent=transcript:HmN_003046220
@@ -2930,7 +3005,9 @@ HMN_06_pilon	WormBase_imported	CDS	3008701	3008721	.	+	2	ID=cds:HmN_003046220;Pa
 HMN_06_pilon	WormBase_imported	CDS	3008966	3008997	.	+	2	ID=cds:HmN_003046220;Parent=transcript:HmN_003046220
 HMN_06_pilon	WormBase_imported	gene	3034944	3041115	.	+	.	ID=gene:HmN_003046230;Name=HmN_003046230;biotype=protein_coding
 HMN_06_pilon	WormBase_imported	mRNA	3034944	3041115	.	+	.	ID=transcript:HmN_003046230.1;Parent=gene:HmN_003046230;Name=HmN_003046230.1
+#microexons transcript:HmN_003046230.1:  73 291 36 27-27-27-21-21-21-21-21-15-21-21-21-21-21-21-21-21-21-21-21-21-21-21 117 21-21-21-21-21 117 21-21-21-21-21-21 32
 HMN_06_pilon	WormBase_imported	mRNA	3034944	3041115	.	+	.	ID=transcript:HmN_003046230.2;Parent=gene:HmN_003046230;Name=HmN_003046230.2
+#microexons transcript:HmN_003046230.2:  73 291 36 27-18-27-27-21-21-21-21-21-15-21-21-21-21-21-21-21-21-21-21-21-21-21-21 117 21-21-21-21-21 117 21-21-21-21-21-21 32
 HMN_06_pilon	WormBase_imported	exon	3034944	3035016	.	+	.	ID=exon:HmN_003046230.1.1;Parent=transcript:HmN_003046230.1
 HMN_06_pilon	WormBase_imported	exon	3035054	3035344	.	+	.	ID=exon:HmN_003046230.1.2;Parent=transcript:HmN_003046230.1
 HMN_06_pilon	WormBase_imported	exon	3035414	3035449	.	+	.	ID=exon:HmN_003046230.1.3;Parent=transcript:HmN_003046230.1
@@ -3095,6 +3172,7 @@ HMN_06_pilon	WormBase_imported	CDS	3040988	3041008	.	+	2	ID=cds:HmN_003046230.2;
 HMN_06_pilon	WormBase_imported	CDS	3041084	3041115	.	+	2	ID=cds:HmN_003046230.2;Parent=transcript:HmN_003046230.2
 HMN_06_pilon	WormBase_imported	gene	3069899	3072453	.	+	.	ID=gene:HmN_003046240;Name=HmN_003046240;biotype=protein_coding
 HMN_06_pilon	WormBase_imported	mRNA	3069899	3072453	.	+	.	ID=transcript:HmN_003046240;Parent=gene:HmN_003046240;Name=HmN_003046240
+#microexons transcript:HmN_003046240:  67 21-27-21-27-21 26
 HMN_06_pilon	WormBase_imported	exon	3069899	3069965	.	+	.	ID=exon:HmN_003046240.1;Parent=transcript:HmN_003046240
 HMN_06_pilon	WormBase_imported	exon	3070300	3070320	.	+	.	ID=exon:HmN_003046240.2;Parent=transcript:HmN_003046240
 HMN_06_pilon	WormBase_imported	exon	3071006	3071032	.	+	.	ID=exon:HmN_003046240.3;Parent=transcript:HmN_003046240
@@ -3111,6 +3189,7 @@ HMN_06_pilon	WormBase_imported	CDS	3072127	3072147	.	+	2	ID=cds:HmN_003046240;Pa
 HMN_06_pilon	WormBase_imported	CDS	3072428	3072453	.	+	2	ID=cds:HmN_003046240;Parent=transcript:HmN_003046240
 HMN_06_pilon	WormBase_imported	gene	3095609	3103627	.	+	.	ID=gene:HmN_000971400;Name=HmN_000971400;biotype=protein_coding
 HMN_06_pilon	WormBase_imported	mRNA	3095609	3103627	.	+	.	ID=transcript:HmN_000971400;Parent=gene:HmN_000971400;Name=HmN_000971400
+#microexons transcript:HmN_000971400:  109 195 132 111 36 12 36 21 36 21-21-21 17
 HMN_06_pilon	WormBase_imported	exon	3095609	3095717	.	+	.	ID=exon:HmN_000971400.1;Parent=transcript:HmN_000971400
 HMN_06_pilon	WormBase_imported	exon	3099407	3099601	.	+	.	ID=exon:HmN_000971400.2;Parent=transcript:HmN_000971400
 HMN_06_pilon	WormBase_imported	exon	3099671	3099802	.	+	.	ID=exon:HmN_000971400.3;Parent=transcript:HmN_000971400
@@ -3139,6 +3218,7 @@ HMN_06_pilon	WormBase_imported	CDS	3101716	3101736	.	+	2	ID=cds:HmN_000971400;Pa
 HMN_06_pilon	WormBase_imported	CDS	3103611	3103627	.	+	2	ID=cds:HmN_000971400;Parent=transcript:HmN_000971400
 HMN_06_pilon	WormBase_imported	gene	4163049	4165443	.	-	.	ID=gene:HmN_002046700;Name=HmN_002046700;biotype=protein_coding
 HMN_06_pilon	WormBase_imported	mRNA	4163049	4165443	.	-	.	ID=transcript:HmN_002046700;Parent=gene:HmN_002046700;Name=HmN_002046700
+#microexons transcript:HmN_002046700:  153 106 120 104 82 141 30-27-30-27 35
 HMN_06_pilon	WormBase_imported	exon	4165291	4165443	.	-	.	ID=exon:HmN_002046700.1;Parent=transcript:HmN_002046700
 HMN_06_pilon	WormBase_imported	exon	4165138	4165243	.	-	.	ID=exon:HmN_002046700.2;Parent=transcript:HmN_002046700
 HMN_06_pilon	WormBase_imported	exon	4164983	4165102	.	-	.	ID=exon:HmN_002046700.3;Parent=transcript:HmN_002046700
@@ -3163,6 +3243,7 @@ HMN_06_pilon	WormBase_imported	CDS	4163166	4163192	.	-	2	ID=cds:HmN_002046700;Pa
 HMN_06_pilon	WormBase_imported	CDS	4163049	4163083	.	-	2	ID=cds:HmN_002046700;Parent=transcript:HmN_002046700
 HMN_06_pilon	WormBase_imported	gene	4234753	4237061	.	-	.	ID=gene:HmN_003046880;Name=HmN_003046880;biotype=protein_coding
 HMN_06_pilon	WormBase_imported	mRNA	4234753	4237061	.	-	.	ID=transcript:HmN_003046880;Parent=gene:HmN_003046880;Name=HmN_003046880
+#microexons transcript:HmN_003046880:  153 106 120 104 82 141 30-27-30-27 38
 HMN_06_pilon	WormBase_imported	exon	4236909	4237061	.	-	.	ID=exon:HmN_003046880.1;Parent=transcript:HmN_003046880
 HMN_06_pilon	WormBase_imported	exon	4236759	4236864	.	-	.	ID=exon:HmN_003046880.2;Parent=transcript:HmN_003046880
 HMN_06_pilon	WormBase_imported	exon	4236604	4236723	.	-	.	ID=exon:HmN_003046880.3;Parent=transcript:HmN_003046880
@@ -3187,6 +3268,7 @@ HMN_06_pilon	WormBase_imported	CDS	4234849	4234875	.	-	2	ID=cds:HmN_003046880;Pa
 HMN_06_pilon	WormBase_imported	CDS	4234753	4234790	.	-	2	ID=cds:HmN_003046880;Parent=transcript:HmN_003046880
 HMN_06_pilon	WormBase_imported	gene	13119901	13121877	.	-	.	ID=gene:HmN_003049240;Name=HmN_003049240;biotype=protein_coding
 HMN_06_pilon	WormBase_imported	mRNA	13119901	13121877	.	-	.	ID=transcript:HmN_003049240;Parent=gene:HmN_003049240;Name=HmN_003049240
+#microexons transcript:HmN_003049240:  46 30-15 80 109 123 104 76 138 30-21-12-27 47
 HMN_06_pilon	WormBase_imported	exon	13121832	13121877	.	-	.	ID=exon:HmN_003049240.1;Parent=transcript:HmN_003049240
 HMN_06_pilon	WormBase_imported	exon	13121673	13121702	.	-	.	ID=exon:HmN_003049240.2;Parent=transcript:HmN_003049240
 HMN_06_pilon	WormBase_imported	exon	13121493	13121507	.	-	.	ID=exon:HmN_003049240.3;Parent=transcript:HmN_003049240

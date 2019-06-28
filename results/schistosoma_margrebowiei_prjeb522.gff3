@@ -1,5 +1,6 @@
 SMRZ_scaffold0000063	WormBase_imported	gene	38964	54125	.	-	.	ID=gene:SMRZ_0001484901;Name=SMRZ_0001484901;biotype=protein_coding
 SMRZ_scaffold0000063	WormBase_imported	mRNA	38964	54125	.	-	.	ID=transcript:SMRZ_0001484901-mRNA-1;Parent=gene:SMRZ_0001484901;Name=SMRZ_0001484901-mRNA-1;info=method:InterPro accession:IPR001978 description:Troponin %0Amethod:InterPro accession:IPR038077 description:Troponin domain superfamily
+#microexons transcript:SMRZ_0001484901-mRNA-1:  6-30-30 108 121 101 44 154 204
 SMRZ_scaffold0000063	WormBase_imported	exon	54120	54125	.	-	.	ID=exon:SMRZ_0001484901-mRNA-1.1;Parent=transcript:SMRZ_0001484901-mRNA-1
 SMRZ_scaffold0000063	WormBase_imported	exon	53304	53333	.	-	.	ID=exon:SMRZ_0001484901-mRNA-1.2;Parent=transcript:SMRZ_0001484901-mRNA-1
 SMRZ_scaffold0000063	WormBase_imported	exon	52466	52495	.	-	.	ID=exon:SMRZ_0001484901-mRNA-1.3;Parent=transcript:SMRZ_0001484901-mRNA-1

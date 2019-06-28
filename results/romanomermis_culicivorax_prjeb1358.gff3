@@ -1,5 +1,6 @@
 nRc.2.0.scaf00031	WormBase_imported	gene	70012	79136	.	+	.	ID=gene:nRc.2.0.1.g13894;Name=nRc.2.0.1.g13894;biotype=protein_coding
 nRc.2.0.scaf00031	WormBase_imported	mRNA	70012	79136	.	+	.	ID=transcript:nRc.2.0.1.t13894-RA;Parent=gene:nRc.2.0.1.g13894;Name=nRc.2.0.1.t13894-RA
+#microexons transcript:nRc.2.0.1.t13894-RA:  21-18-24 134 112
 nRc.2.0.scaf00031	WormBase_imported	exon	70012	70032	.	+	.	ID=exon:nRc.2.0.1.t13894-RA.1;Parent=transcript:nRc.2.0.1.t13894-RA
 nRc.2.0.scaf00031	WormBase_imported	exon	73910	73927	.	+	.	ID=exon:nRc.2.0.1.t13894-RA.2;Parent=transcript:nRc.2.0.1.t13894-RA
 nRc.2.0.scaf00031	WormBase_imported	exon	77086	77109	.	+	.	ID=exon:nRc.2.0.1.t13894-RA.3;Parent=transcript:nRc.2.0.1.t13894-RA
@@ -12,6 +13,7 @@ nRc.2.0.scaf00031	WormBase_imported	CDS	77526	77659	.	+	0	ID=cds:nRc.2.0.1.t1389
 nRc.2.0.scaf00031	WormBase_imported	CDS	79025	79136	.	+	1	ID=cds:nRc.2.0.1.t13894-RA;Parent=transcript:nRc.2.0.1.t13894-RA
 nRc.2.0.scaf00117	WormBase_imported	gene	69307	81466	.	-	.	ID=gene:nRc.2.0.1.g16016;Name=nRc.2.0.1.g16016;biotype=protein_coding
 nRc.2.0.scaf00117	WormBase_imported	mRNA	69307	81466	.	-	.	ID=transcript:nRc.2.0.1.t16016-RA;Parent=gene:nRc.2.0.1.g16016;Name=nRc.2.0.1.t16016-RA;info=method:InterPro accession:IPR008045 description:DNA replication licensing factor Mcm2 %0Amethod:InterPro accession:IPR012340 description:Nucleic acid-binding%2C OB-fold %0Amethod:InterPro accession:IPR027925 description:MCM N-terminal domain %0Amethod:InterPro accession:IPR031327 description:Mini-chromosome maintenance protein %0Amethod:InterPro accession:IPR033762 description:MCM OB domain
+#microexons transcript:nRc.2.0.1.t16016-RA:  6-6-15 329 155 104 175 116 318 9
 nRc.2.0.scaf00117	WormBase_imported	exon	81461	81466	.	-	.	ID=exon:nRc.2.0.1.t16016-RA.1;Parent=transcript:nRc.2.0.1.t16016-RA
 nRc.2.0.scaf00117	WormBase_imported	exon	81131	81136	.	-	.	ID=exon:nRc.2.0.1.t16016-RA.2;Parent=transcript:nRc.2.0.1.t16016-RA
 nRc.2.0.scaf00117	WormBase_imported	exon	80760	80774	.	-	.	ID=exon:nRc.2.0.1.t16016-RA.3;Parent=transcript:nRc.2.0.1.t16016-RA
@@ -487,6 +489,7 @@ nRc.2.0.scaf00117	dust	low_complexity_region	87584	87634	.	-	.
 nRc.2.0.scaf00117	RepeatMasker	repeat_region	87635	87767	942	-	.	
 nRc.2.0.scaf00327	WormBase_imported	gene	51097	63160	.	+	.	ID=gene:nRc.2.0.1.g06022;Name=nRc.2.0.1.g06022;biotype=protein_coding
 nRc.2.0.scaf00327	WormBase_imported	mRNA	51097	63160	.	+	.	ID=transcript:nRc.2.0.1.t06022-RA;Parent=gene:nRc.2.0.1.g06022;Name=nRc.2.0.1.t06022-RA
+#microexons transcript:nRc.2.0.1.t06022-RA:  24-6-30 75 35 40 39
 nRc.2.0.scaf00327	WormBase_imported	exon	51097	51120	.	+	.	ID=exon:nRc.2.0.1.t06022-RA.1;Parent=transcript:nRc.2.0.1.t06022-RA
 nRc.2.0.scaf00327	WormBase_imported	exon	54888	54893	.	+	.	ID=exon:nRc.2.0.1.t06022-RA.2;Parent=transcript:nRc.2.0.1.t06022-RA
 nRc.2.0.scaf00327	WormBase_imported	exon	58706	58735	.	+	.	ID=exon:nRc.2.0.1.t06022-RA.3;Parent=transcript:nRc.2.0.1.t06022-RA
@@ -816,6 +819,7 @@ nRc.2.0.scaf00327	RepeatMasker	repeat_region	64916	64948	262	+	.
 nRc.2.0.scaf00327	RepeatMasker	repeat_region	64933	64988	431	+	.	
 nRc.2.0.scaf00358	WormBase_imported	gene	1310	8539	.	+	.	ID=gene:nRc.2.0.1.g07929;Name=nRc.2.0.1.g07929;biotype=protein_coding
 nRc.2.0.scaf00358	WormBase_imported	mRNA	1310	8539	.	+	.	ID=transcript:nRc.2.0.1.t07929-RA;Parent=gene:nRc.2.0.1.g07929;Name=nRc.2.0.1.t07929-RA
+#microexons transcript:nRc.2.0.1.t07929-RA:  90 27-18-24 102
 nRc.2.0.scaf00358	WormBase_imported	exon	1310	1399	.	+	.	ID=exon:nRc.2.0.1.t07929-RA.1;Parent=transcript:nRc.2.0.1.t07929-RA
 nRc.2.0.scaf00358	WormBase_imported	exon	1705	1731	.	+	.	ID=exon:nRc.2.0.1.t07929-RA.2;Parent=transcript:nRc.2.0.1.t07929-RA
 nRc.2.0.scaf00358	WormBase_imported	exon	7810	7827	.	+	.	ID=exon:nRc.2.0.1.t07929-RA.3;Parent=transcript:nRc.2.0.1.t07929-RA
@@ -828,6 +832,7 @@ nRc.2.0.scaf00358	WormBase_imported	CDS	8033	8056	.	+	0	ID=cds:nRc.2.0.1.t07929-
 nRc.2.0.scaf00358	WormBase_imported	CDS	8438	8539	.	+	0	ID=cds:nRc.2.0.1.t07929-RA;Parent=transcript:nRc.2.0.1.t07929-RA
 nRc.2.0.scaf00387	WormBase_imported	gene	40558	57679	.	+	.	ID=gene:nRc.2.0.1.g17764;Name=nRc.2.0.1.g17764;biotype=protein_coding
 nRc.2.0.scaf00387	WormBase_imported	mRNA	40558	57679	.	+	.	ID=transcript:nRc.2.0.1.t17764-RA;Parent=gene:nRc.2.0.1.g17764;Name=nRc.2.0.1.t17764-RA
+#microexons transcript:nRc.2.0.1.t17764-RA:  55 63 20 63 27-27-24
 nRc.2.0.scaf00387	WormBase_imported	exon	40558	40612	.	+	.	ID=exon:nRc.2.0.1.t17764-RA.1;Parent=transcript:nRc.2.0.1.t17764-RA
 nRc.2.0.scaf00387	WormBase_imported	exon	45195	45257	.	+	.	ID=exon:nRc.2.0.1.t17764-RA.2;Parent=transcript:nRc.2.0.1.t17764-RA
 nRc.2.0.scaf00387	WormBase_imported	exon	46219	46238	.	+	.	ID=exon:nRc.2.0.1.t17764-RA.3;Parent=transcript:nRc.2.0.1.t17764-RA
@@ -844,6 +849,7 @@ nRc.2.0.scaf00387	WormBase_imported	CDS	56853	56879	.	+	0	ID=cds:nRc.2.0.1.t1776
 nRc.2.0.scaf00387	WormBase_imported	CDS	57656	57679	.	+	0	ID=cds:nRc.2.0.1.t17764-RA;Parent=transcript:nRc.2.0.1.t17764-RA
 nRc.2.0.scaf00399	WormBase_imported	gene	482	6531	.	-	.	ID=gene:nRc.2.0.1.g06709;Name=nRc.2.0.1.g06709;biotype=protein_coding
 nRc.2.0.scaf00399	WormBase_imported	mRNA	482	6531	.	-	.	ID=transcript:nRc.2.0.1.t06709-RA;Parent=gene:nRc.2.0.1.g06709;Name=nRc.2.0.1.t06709-RA
+#microexons transcript:nRc.2.0.1.t06709-RA:  24-6-12 108 45
 nRc.2.0.scaf00399	WormBase_imported	exon	6508	6531	.	-	.	ID=exon:nRc.2.0.1.t06709-RA.1;Parent=transcript:nRc.2.0.1.t06709-RA
 nRc.2.0.scaf00399	WormBase_imported	exon	4900	4905	.	-	.	ID=exon:nRc.2.0.1.t06709-RA.2;Parent=transcript:nRc.2.0.1.t06709-RA
 nRc.2.0.scaf00399	WormBase_imported	exon	4141	4152	.	-	.	ID=exon:nRc.2.0.1.t06709-RA.3;Parent=transcript:nRc.2.0.1.t06709-RA
@@ -856,6 +862,7 @@ nRc.2.0.scaf00399	WormBase_imported	CDS	3670	3777	.	-	0	ID=cds:nRc.2.0.1.t06709-
 nRc.2.0.scaf00399	WormBase_imported	CDS	482	526	.	-	0	ID=cds:nRc.2.0.1.t06709-RA;Parent=transcript:nRc.2.0.1.t06709-RA
 nRc.2.0.scaf00500	WormBase_imported	gene	32798	46377	.	+	.	ID=gene:nRc.2.0.1.g32838;Name=nRc.2.0.1.g32838;biotype=protein_coding
 nRc.2.0.scaf00500	WormBase_imported	mRNA	32798	46377	.	+	.	ID=transcript:nRc.2.0.1.t32838-RA;Parent=gene:nRc.2.0.1.g32838;Name=nRc.2.0.1.t32838-RA
+#microexons transcript:nRc.2.0.1.t32838-RA:  10 267 44 33 81 18-18-18-18-6
 nRc.2.0.scaf00500	WormBase_imported	exon	32798	32807	.	+	.	ID=exon:nRc.2.0.1.t32838-RA.1;Parent=transcript:nRc.2.0.1.t32838-RA
 nRc.2.0.scaf00500	WormBase_imported	exon	37842	38108	.	+	.	ID=exon:nRc.2.0.1.t32838-RA.2;Parent=transcript:nRc.2.0.1.t32838-RA
 nRc.2.0.scaf00500	WormBase_imported	exon	39389	39432	.	+	.	ID=exon:nRc.2.0.1.t32838-RA.3;Parent=transcript:nRc.2.0.1.t32838-RA
@@ -878,6 +885,7 @@ nRc.2.0.scaf00500	WormBase_imported	CDS	46243	46260	.	+	0	ID=cds:nRc.2.0.1.t3283
 nRc.2.0.scaf00500	WormBase_imported	CDS	46372	46377	.	+	0	ID=cds:nRc.2.0.1.t32838-RA;Parent=transcript:nRc.2.0.1.t32838-RA
 nRc.2.0.scaf00941	WormBase_imported	gene	19450	33540	.	-	.	ID=gene:nRc.2.0.1.g07919;Name=nRc.2.0.1.g07919;biotype=protein_coding
 nRc.2.0.scaf00941	WormBase_imported	mRNA	19450	33540	.	-	.	ID=transcript:nRc.2.0.1.t07919-RA;Parent=gene:nRc.2.0.1.g07919;Name=nRc.2.0.1.t07919-RA;info=method:InterPro accession:IPR001012 description:UBX domain %0Amethod:InterPro accession:IPR006577 description:UAS %0Amethod:InterPro accession:IPR009060 description:UBA-like superfamily %0Amethod:InterPro accession:IPR029071 description:Ubiquitin-like domain superfamily %0Amethod:InterPro accession:IPR036249 description:Thioredoxin-like superfamily
+#microexons transcript:nRc.2.0.1.t07919-RA:  12 42 103 136 65 164 147 15-24-24 91 57 98 115 144 80 157 65
 nRc.2.0.scaf00941	WormBase_imported	exon	33529	33540	.	-	.	ID=exon:nRc.2.0.1.t07919-RA.1;Parent=transcript:nRc.2.0.1.t07919-RA
 nRc.2.0.scaf00941	WormBase_imported	exon	32701	32742	.	-	.	ID=exon:nRc.2.0.1.t07919-RA.2;Parent=transcript:nRc.2.0.1.t07919-RA
 nRc.2.0.scaf00941	WormBase_imported	exon	32402	32504	.	-	.	ID=exon:nRc.2.0.1.t07919-RA.3;Parent=transcript:nRc.2.0.1.t07919-RA
@@ -1142,6 +1150,7 @@ nRc.2.0.scaf00941	RepeatMasker	repeat_region	44737	44803	406	-	.
 nRc.2.0.scaf00941	dust	low_complexity_region	44775	44781	.	-	.	
 nRc.2.0.scaf00973	WormBase_imported	gene	15826	37932	.	-	.	ID=gene:nRc.2.0.1.g05771;Name=nRc.2.0.1.g05771;biotype=protein_coding
 nRc.2.0.scaf00973	WormBase_imported	mRNA	15826	37932	.	-	.	ID=transcript:nRc.2.0.1.t05771-RA;Parent=gene:nRc.2.0.1.g05771;Name=nRc.2.0.1.t05771-RA
+#microexons transcript:nRc.2.0.1.t05771-RA:  57 171 58 102 50 31 411 240 105 75 59 30-24-27 19 44 34 45 54 97 61
 nRc.2.0.scaf00973	WormBase_imported	exon	37876	37932	.	-	.	ID=exon:nRc.2.0.1.t05771-RA.1;Parent=transcript:nRc.2.0.1.t05771-RA
 nRc.2.0.scaf00973	WormBase_imported	exon	37320	37490	.	-	.	ID=exon:nRc.2.0.1.t05771-RA.2;Parent=transcript:nRc.2.0.1.t05771-RA
 nRc.2.0.scaf00973	WormBase_imported	exon	36878	36935	.	-	.	ID=exon:nRc.2.0.1.t05771-RA.3;Parent=transcript:nRc.2.0.1.t05771-RA
@@ -1186,6 +1195,7 @@ nRc.2.0.scaf00973	WormBase_imported	CDS	17284	17380	.	-	2	ID=cds:nRc.2.0.1.t0577
 nRc.2.0.scaf00973	WormBase_imported	CDS	15826	15886	.	-	1	ID=cds:nRc.2.0.1.t05771-RA;Parent=transcript:nRc.2.0.1.t05771-RA
 nRc.2.0.scaf01342	WormBase_imported	gene	609	24622	.	+	.	ID=gene:nRc.2.0.1.g29719;Name=nRc.2.0.1.g29719;biotype=protein_coding
 nRc.2.0.scaf01342	WormBase_imported	mRNA	609	24622	.	+	.	ID=transcript:nRc.2.0.1.t29719-RA;Parent=gene:nRc.2.0.1.g29719;Name=nRc.2.0.1.t29719-RA
+#microexons transcript:nRc.2.0.1.t29719-RA:  154 218 27-21-9
 nRc.2.0.scaf01342	WormBase_imported	exon	609	762	.	+	.	ID=exon:nRc.2.0.1.t29719-RA.1;Parent=transcript:nRc.2.0.1.t29719-RA
 nRc.2.0.scaf01342	WormBase_imported	exon	1207	1424	.	+	.	ID=exon:nRc.2.0.1.t29719-RA.2;Parent=transcript:nRc.2.0.1.t29719-RA
 nRc.2.0.scaf01342	WormBase_imported	exon	3750	3776	.	+	.	ID=exon:nRc.2.0.1.t29719-RA.3;Parent=transcript:nRc.2.0.1.t29719-RA
@@ -1198,6 +1208,7 @@ nRc.2.0.scaf01342	WormBase_imported	CDS	13886	13906	.	+	0	ID=cds:nRc.2.0.1.t2971
 nRc.2.0.scaf01342	WormBase_imported	CDS	24614	24622	.	+	0	ID=cds:nRc.2.0.1.t29719-RA;Parent=transcript:nRc.2.0.1.t29719-RA
 nRc.2.0.scaf01750	WormBase_imported	gene	2236	21112	.	-	.	ID=gene:nRc.2.0.1.g41892;Name=nRc.2.0.1.g41892;biotype=protein_coding
 nRc.2.0.scaf01750	WormBase_imported	mRNA	2236	21112	.	-	.	ID=transcript:nRc.2.0.1.t41892-RA;Parent=gene:nRc.2.0.1.g41892;Name=nRc.2.0.1.t41892-RA
+#microexons transcript:nRc.2.0.1.t41892-RA:  45 184 30 186 34 67 40 21-21-21-21 23
 nRc.2.0.scaf01750	WormBase_imported	exon	21068	21112	.	-	.	ID=exon:nRc.2.0.1.t41892-RA.1;Parent=transcript:nRc.2.0.1.t41892-RA
 nRc.2.0.scaf01750	WormBase_imported	exon	17589	17772	.	-	.	ID=exon:nRc.2.0.1.t41892-RA.2;Parent=transcript:nRc.2.0.1.t41892-RA
 nRc.2.0.scaf01750	WormBase_imported	exon	15312	15341	.	-	.	ID=exon:nRc.2.0.1.t41892-RA.3;Parent=transcript:nRc.2.0.1.t41892-RA
@@ -1224,6 +1235,7 @@ nRc.2.0.scaf01750	WormBase_imported	CDS	3128	3148	.	-	2	ID=cds:nRc.2.0.1.t41892-
 nRc.2.0.scaf01750	WormBase_imported	CDS	2236	2258	.	-	2	ID=cds:nRc.2.0.1.t41892-RA;Parent=transcript:nRc.2.0.1.t41892-RA
 nRc.2.0.scaf01892	WormBase_imported	gene	12055	24248	.	-	.	ID=gene:nRc.2.0.1.g18512;Name=nRc.2.0.1.g18512;biotype=protein_coding
 nRc.2.0.scaf01892	WormBase_imported	mRNA	12055	24248	.	-	.	ID=transcript:nRc.2.0.1.t18512-RA;Parent=gene:nRc.2.0.1.g18512;Name=nRc.2.0.1.t18512-RA
+#microexons transcript:nRc.2.0.1.t18512-RA:  681 498 24-21-12-6
 nRc.2.0.scaf01892	WormBase_imported	exon	23568	24248	.	-	.	ID=exon:nRc.2.0.1.t18512-RA.1;Parent=transcript:nRc.2.0.1.t18512-RA
 nRc.2.0.scaf01892	WormBase_imported	exon	22392	22889	.	-	.	ID=exon:nRc.2.0.1.t18512-RA.2;Parent=transcript:nRc.2.0.1.t18512-RA
 nRc.2.0.scaf01892	WormBase_imported	exon	17070	17093	.	-	.	ID=exon:nRc.2.0.1.t18512-RA.3;Parent=transcript:nRc.2.0.1.t18512-RA
@@ -1238,6 +1250,7 @@ nRc.2.0.scaf01892	WormBase_imported	CDS	13496	13507	.	-	0	ID=cds:nRc.2.0.1.t1851
 nRc.2.0.scaf01892	WormBase_imported	CDS	12055	12060	.	-	0	ID=cds:nRc.2.0.1.t18512-RA;Parent=transcript:nRc.2.0.1.t18512-RA
 nRc.2.0.scaf02125	WormBase_imported	gene	100	20304	.	+	.	ID=gene:nRc.2.0.1.g11126;Name=nRc.2.0.1.g11126;biotype=protein_coding
 nRc.2.0.scaf02125	WormBase_imported	mRNA	100	20304	.	+	.	ID=transcript:nRc.2.0.1.t11126-RA;Parent=gene:nRc.2.0.1.g11126;Name=nRc.2.0.1.t11126-RA;info=method:InterPro accession:IPR001254 description:Serine proteases%2C trypsin domain %0Amethod:InterPro accession:IPR009003 description:Peptidase S1%2C PA clan
+#microexons transcript:nRc.2.0.1.t11126-RA:  150 132 304 289 403 30-15-6
 nRc.2.0.scaf02125	WormBase_imported	exon	100	249	.	+	.	ID=exon:nRc.2.0.1.t11126-RA.1;Parent=transcript:nRc.2.0.1.t11126-RA
 nRc.2.0.scaf02125	WormBase_imported	exon	3409	3540	.	+	.	ID=exon:nRc.2.0.1.t11126-RA.2;Parent=transcript:nRc.2.0.1.t11126-RA
 nRc.2.0.scaf02125	WormBase_imported	exon	3603	3906	.	+	.	ID=exon:nRc.2.0.1.t11126-RA.3;Parent=transcript:nRc.2.0.1.t11126-RA
@@ -1256,6 +1269,7 @@ nRc.2.0.scaf02125	WormBase_imported	CDS	9817	9831	.	+	0	ID=cds:nRc.2.0.1.t11126-
 nRc.2.0.scaf02125	WormBase_imported	CDS	20299	20304	.	+	0	ID=cds:nRc.2.0.1.t11126-RA;Parent=transcript:nRc.2.0.1.t11126-RA
 nRc.2.0.scaf03276	WormBase_imported	gene	6658	22899	.	-	.	ID=gene:nRc.2.0.1.g45629;Name=nRc.2.0.1.g45629;biotype=protein_coding
 nRc.2.0.scaf03276	WormBase_imported	mRNA	6658	22899	.	-	.	ID=transcript:nRc.2.0.1.t45629-RA;Parent=gene:nRc.2.0.1.g45629;Name=nRc.2.0.1.t45629-RA
+#microexons transcript:nRc.2.0.1.t45629-RA:  113 31 87 75 9-9-9
 nRc.2.0.scaf03276	WormBase_imported	exon	22787	22899	.	-	.	ID=exon:nRc.2.0.1.t45629-RA.1;Parent=transcript:nRc.2.0.1.t45629-RA
 nRc.2.0.scaf03276	WormBase_imported	exon	19154	19184	.	-	.	ID=exon:nRc.2.0.1.t45629-RA.2;Parent=transcript:nRc.2.0.1.t45629-RA
 nRc.2.0.scaf03276	WormBase_imported	exon	18862	18948	.	-	.	ID=exon:nRc.2.0.1.t45629-RA.3;Parent=transcript:nRc.2.0.1.t45629-RA
@@ -1272,6 +1286,7 @@ nRc.2.0.scaf03276	WormBase_imported	CDS	6898	6906	.	-	0	ID=cds:nRc.2.0.1.t45629-
 nRc.2.0.scaf03276	WormBase_imported	CDS	6658	6666	.	-	0	ID=cds:nRc.2.0.1.t45629-RA;Parent=transcript:nRc.2.0.1.t45629-RA
 nRc.2.0.scaf04941	WormBase_imported	gene	98	16413	.	-	.	ID=gene:nRc.2.0.1.g07148;Name=nRc.2.0.1.g07148;biotype=protein_coding
 nRc.2.0.scaf04941	WormBase_imported	mRNA	98	16413	.	-	.	ID=transcript:nRc.2.0.1.t07148-RA;Parent=gene:nRc.2.0.1.g07148;Name=nRc.2.0.1.t07148-RA
+#microexons transcript:nRc.2.0.1.t07148-RA:  9 36 63 9-18-24-21
 nRc.2.0.scaf04941	WormBase_imported	exon	16405	16413	.	-	.	ID=exon:nRc.2.0.1.t07148-RA.1;Parent=transcript:nRc.2.0.1.t07148-RA
 nRc.2.0.scaf04941	WormBase_imported	exon	15573	15608	.	-	.	ID=exon:nRc.2.0.1.t07148-RA.2;Parent=transcript:nRc.2.0.1.t07148-RA
 nRc.2.0.scaf04941	WormBase_imported	exon	10804	10866	.	-	.	ID=exon:nRc.2.0.1.t07148-RA.3;Parent=transcript:nRc.2.0.1.t07148-RA
@@ -1344,6 +1359,7 @@ nRc.2.0.scaf04941	RepeatMasker	repeat_region	16342	16425	339	-	.
 nRc.2.0.scaf04941	RepeatMasker	repeat_region	16410	16461	295	-	.	
 nRc.2.0.scaf07021	WormBase_imported	gene	262	11490	.	-	.	ID=gene:nRc.2.0.1.g02384;Name=nRc.2.0.1.g02384;biotype=protein_coding
 nRc.2.0.scaf07021	WormBase_imported	mRNA	262	11490	.	-	.	ID=transcript:nRc.2.0.1.t02384-RA;Parent=gene:nRc.2.0.1.g02384;Name=nRc.2.0.1.t02384-RA
+#microexons transcript:nRc.2.0.1.t02384-RA:  15-21-9 114 73 35 117
 nRc.2.0.scaf07021	WormBase_imported	exon	11476	11490	.	-	.	ID=exon:nRc.2.0.1.t02384-RA.1;Parent=transcript:nRc.2.0.1.t02384-RA
 nRc.2.0.scaf07021	WormBase_imported	exon	11173	11193	.	-	.	ID=exon:nRc.2.0.1.t02384-RA.2;Parent=transcript:nRc.2.0.1.t02384-RA
 nRc.2.0.scaf07021	WormBase_imported	exon	7302	7310	.	-	.	ID=exon:nRc.2.0.1.t02384-RA.3;Parent=transcript:nRc.2.0.1.t02384-RA
@@ -1420,6 +1436,7 @@ nRc.2.0.scaf07021	RepeatMasker	repeat_region	11723	11942	1189	+	.
 nRc.2.0.scaf07021	RepeatMasker	repeat_region	11926	12002	528	+	.	
 nRc.2.0.scaf07148	WormBase_imported	gene	2775	4050	.	-	.	ID=gene:nRc.2.0.1.g44467;Name=nRc.2.0.1.g44467;biotype=protein_coding
 nRc.2.0.scaf07148	WormBase_imported	mRNA	2775	4050	.	-	.	ID=transcript:nRc.2.0.1.t44467-RA;Parent=gene:nRc.2.0.1.g44467;Name=nRc.2.0.1.t44467-RA
+#microexons transcript:nRc.2.0.1.t44467-RA:  21-12-12 19 125
 nRc.2.0.scaf07148	WormBase_imported	exon	4030	4050	.	-	.	ID=exon:nRc.2.0.1.t44467-RA.1;Parent=transcript:nRc.2.0.1.t44467-RA
 nRc.2.0.scaf07148	WormBase_imported	exon	3599	3610	.	-	.	ID=exon:nRc.2.0.1.t44467-RA.2;Parent=transcript:nRc.2.0.1.t44467-RA
 nRc.2.0.scaf07148	WormBase_imported	exon	3425	3436	.	-	.	ID=exon:nRc.2.0.1.t44467-RA.3;Parent=transcript:nRc.2.0.1.t44467-RA
@@ -1432,6 +1449,7 @@ nRc.2.0.scaf07148	WormBase_imported	CDS	2935	2953	.	-	0	ID=cds:nRc.2.0.1.t44467-
 nRc.2.0.scaf07148	WormBase_imported	CDS	2775	2899	.	-	2	ID=cds:nRc.2.0.1.t44467-RA;Parent=transcript:nRc.2.0.1.t44467-RA
 nRc.2.0.scaf10176	WormBase_imported	gene	211	7582	.	-	.	ID=gene:nRc.2.0.1.g04386;Name=nRc.2.0.1.g04386;biotype=protein_coding
 nRc.2.0.scaf10176	WormBase_imported	mRNA	211	7582	.	-	.	ID=transcript:nRc.2.0.1.t04386-RA;Parent=gene:nRc.2.0.1.g04386;Name=nRc.2.0.1.t04386-RA
+#microexons transcript:nRc.2.0.1.t04386-RA:  25 9-27-12 150
 nRc.2.0.scaf10176	WormBase_imported	exon	7558	7582	.	-	.	ID=exon:nRc.2.0.1.t04386-RA.1;Parent=transcript:nRc.2.0.1.t04386-RA
 nRc.2.0.scaf10176	WormBase_imported	exon	3892	3900	.	-	.	ID=exon:nRc.2.0.1.t04386-RA.2;Parent=transcript:nRc.2.0.1.t04386-RA
 nRc.2.0.scaf10176	WormBase_imported	exon	3616	3642	.	-	.	ID=exon:nRc.2.0.1.t04386-RA.3;Parent=transcript:nRc.2.0.1.t04386-RA
@@ -1508,6 +1526,7 @@ nRc.2.0.scaf10176	RepeatMasker	repeat_region	7814	7878	376	+	.
 nRc.2.0.scaf10176	dust	low_complexity_region	7831	7848	.	-	.	
 nRc.2.0.scaf14693	WormBase_imported	gene	416	3102	.	-	.	ID=gene:nRc.2.0.1.g31740;Name=nRc.2.0.1.g31740;biotype=protein_coding
 nRc.2.0.scaf14693	WormBase_imported	mRNA	416	3102	.	-	.	ID=transcript:nRc.2.0.1.t31740-RA;Parent=gene:nRc.2.0.1.g31740;Name=nRc.2.0.1.t31740-RA
+#microexons transcript:nRc.2.0.1.t31740-RA:  149 18-9-9-9-9-9-15
 nRc.2.0.scaf14693	WormBase_imported	exon	2954	3102	.	-	.	ID=exon:nRc.2.0.1.t31740-RA.1;Parent=transcript:nRc.2.0.1.t31740-RA
 nRc.2.0.scaf14693	WormBase_imported	exon	2416	2433	.	-	.	ID=exon:nRc.2.0.1.t31740-RA.2;Parent=transcript:nRc.2.0.1.t31740-RA
 nRc.2.0.scaf14693	WormBase_imported	exon	2389	2397	.	-	.	ID=exon:nRc.2.0.1.t31740-RA.3;Parent=transcript:nRc.2.0.1.t31740-RA
@@ -1572,6 +1591,7 @@ nRc.2.0.scaf14693	dust	low_complexity_region	4632	4710	.	-	.
 nRc.2.0.scaf14693	tandem	tandem_repeat	4650	4713	65	-	.	
 nRc.2.0.scaf15477	WormBase_imported	gene	128	3169	.	-	.	ID=gene:nRc.2.0.1.g12979;Name=nRc.2.0.1.g12979;biotype=protein_coding
 nRc.2.0.scaf15477	WormBase_imported	mRNA	128	3169	.	-	.	ID=transcript:nRc.2.0.1.t12979-RA;Parent=gene:nRc.2.0.1.g12979;Name=nRc.2.0.1.t12979-RA
+#microexons transcript:nRc.2.0.1.t12979-RA:  149 9-9-9-9-9-9-15
 nRc.2.0.scaf15477	WormBase_imported	exon	3021	3169	.	-	.	ID=exon:nRc.2.0.1.t12979-RA.1;Parent=transcript:nRc.2.0.1.t12979-RA
 nRc.2.0.scaf15477	WormBase_imported	exon	2502	2510	.	-	.	ID=exon:nRc.2.0.1.t12979-RA.2;Parent=transcript:nRc.2.0.1.t12979-RA
 nRc.2.0.scaf15477	WormBase_imported	exon	2250	2258	.	-	.	ID=exon:nRc.2.0.1.t12979-RA.3;Parent=transcript:nRc.2.0.1.t12979-RA

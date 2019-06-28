@@ -1,5 +1,6 @@
 PXEA_scaffold0005352	WormBase_imported	gene	3191	4483	.	+	.	ID=gene:PXEA_0002884501;Name=PXEA_0002884501;biotype=protein_coding
 PXEA_scaffold0005352	WormBase_imported	mRNA	3191	4483	.	+	.	ID=transcript:PXEA_0002884501-mRNA-1;Parent=gene:PXEA_0002884501;Name=PXEA_0002884501-mRNA-1;info=method:InterPro accession:IPR001236 description:Lactate/malate dehydrogenase%2C N-terminal %0Amethod:InterPro accession:IPR001557 description:L-lactate/malate dehydrogenase %0Amethod:InterPro accession:IPR015955 description:Lactate dehydrogenase/glycoside hydrolase%2C family 4%2C C-terminal %0Amethod:InterPro accession:IPR022383 description:Lactate/malate dehydrogenase%2C C-terminal %0Amethod:InterPro accession:IPR036291 description:NAD(P)-binding domain superfamily
+#microexons transcript:PXEA_0002884501-mRNA-1:  143 118 210 174 118 124 18-12-12
 PXEA_scaffold0005352	WormBase_imported	exon	3191	3333	.	+	.	ID=exon:PXEA_0002884501-mRNA-1.1;Parent=transcript:PXEA_0002884501-mRNA-1
 PXEA_scaffold0005352	WormBase_imported	exon	3362	3479	.	+	.	ID=exon:PXEA_0002884501-mRNA-1.2;Parent=transcript:PXEA_0002884501-mRNA-1
 PXEA_scaffold0005352	WormBase_imported	exon	3507	3716	.	+	.	ID=exon:PXEA_0002884501-mRNA-1.3;Parent=transcript:PXEA_0002884501-mRNA-1

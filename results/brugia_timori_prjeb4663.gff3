@@ -1,5 +1,6 @@
 BTMF_scaffold0000459	WormBase_imported	gene	1166	5702	.	+	.	ID=gene:BTMF_0000921701;Name=BTMF_0000921701;biotype=protein_coding
 BTMF_scaffold0000459	WormBase_imported	mRNA	1166	5702	.	+	.	ID=transcript:BTMF_0000921701-mRNA-1;Parent=gene:BTMF_0000921701;Name=BTMF_0000921701-mRNA-1
+#microexons transcript:BTMF_0000921701-mRNA-1:  4 14 57 72 24 150 106 17 21-12-30
 BTMF_scaffold0000459	WormBase_imported	exon	1166	1169	.	+	.	ID=exon:BTMF_0000921701-mRNA-1.1;Parent=transcript:BTMF_0000921701-mRNA-1
 BTMF_scaffold0000459	WormBase_imported	exon	1890	1903	.	+	.	ID=exon:BTMF_0000921701-mRNA-1.2;Parent=transcript:BTMF_0000921701-mRNA-1
 BTMF_scaffold0000459	WormBase_imported	exon	2310	2366	.	+	.	ID=exon:BTMF_0000921701-mRNA-1.3;Parent=transcript:BTMF_0000921701-mRNA-1
@@ -24,6 +25,7 @@ BTMF_scaffold0000459	WormBase_imported	CDS	5439	5450	.	+	0	ID=cds:BTMF_000092170
 BTMF_scaffold0000459	WormBase_imported	CDS	5673	5702	.	+	0	ID=cds:BTMF_0000921701-mRNA-1;Parent=transcript:BTMF_0000921701-mRNA-1
 BTMF_scaffold0001971	WormBase_imported	gene	523	3615	.	+	.	ID=gene:BTMF_0001211801;Name=BTMF_0001211801;biotype=protein_coding
 BTMF_scaffold0001971	WormBase_imported	mRNA	523	3615	.	+	.	ID=transcript:BTMF_0001211801-mRNA-1;Parent=gene:BTMF_0001211801;Name=BTMF_0001211801-mRNA-1;info=method:InterPro accession:IPR022091 description:TATA element modulatory factor 1%2C TATA binding
+#microexons transcript:BTMF_0001211801-mRNA-1:  18-15-12 65 124 168 126 140 61
 BTMF_scaffold0001971	WormBase_imported	exon	523	540	.	+	.	ID=exon:BTMF_0001211801-mRNA-1.1;Parent=transcript:BTMF_0001211801-mRNA-1
 BTMF_scaffold0001971	WormBase_imported	exon	801	815	.	+	.	ID=exon:BTMF_0001211801-mRNA-1.2;Parent=transcript:BTMF_0001211801-mRNA-1
 BTMF_scaffold0001971	WormBase_imported	exon	1148	1159	.	+	.	ID=exon:BTMF_0001211801-mRNA-1.3;Parent=transcript:BTMF_0001211801-mRNA-1

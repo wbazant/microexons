@@ -1,5 +1,6 @@
 scaffold2s	WormBase_imported	gene	409797	415683	.	-	.	ID=gene:T4B_13398;Name=T4B_13398;biotype=protein_coding
 scaffold2s	WormBase_imported	mRNA	409797	415683	.	-	.	ID=transcript:T4B_13398.1;Parent=gene:T4B_13398;Name=T4B_13398.1
+#microexons transcript:T4B_13398.1:  39 48 105 96 38 147 22 6-21-18 92 46 30
 scaffold2s	WormBase_imported	exon	415645	415683	.	-	.	ID=exon:T4B_13398.1.1;Parent=transcript:T4B_13398.1
 scaffold2s	WormBase_imported	exon	415509	415556	.	-	.	ID=exon:T4B_13398.1.2;Parent=transcript:T4B_13398.1
 scaffold2s	WormBase_imported	exon	415392	415496	.	-	.	ID=exon:T4B_13398.1.3;Parent=transcript:T4B_13398.1
@@ -28,6 +29,7 @@ scaffold2s	WormBase_imported	CDS	410345	410390	.	-	1	ID=cds:T4B_13398.1;Parent=t
 scaffold2s	WormBase_imported	CDS	409797	409826	.	-	0	ID=cds:T4B_13398.1;Parent=transcript:T4B_13398.1
 scaffold6s	WormBase_imported	gene	86551	88179	.	+	.	ID=gene:T4B_736;Name=T4B_736;biotype=protein_coding
 scaffold6s	WormBase_imported	mRNA	86551	88179	.	+	.	ID=transcript:T4B_736.1;Parent=gene:T4B_736;Name=T4B_736.1
+#microexons transcript:T4B_736.1:  30-6-18 106 32
 scaffold6s	WormBase_imported	exon	86551	86580	.	+	.	ID=exon:T4B_736.1.1;Parent=transcript:T4B_736.1
 scaffold6s	WormBase_imported	exon	86791	86796	.	+	.	ID=exon:T4B_736.1.2;Parent=transcript:T4B_736.1
 scaffold6s	WormBase_imported	exon	87368	87385	.	+	.	ID=exon:T4B_736.1.3;Parent=transcript:T4B_736.1
@@ -40,6 +42,7 @@ scaffold6s	WormBase_imported	CDS	87729	87834	.	+	0	ID=cds:T4B_736.1;Parent=trans
 scaffold6s	WormBase_imported	CDS	88148	88179	.	+	2	ID=cds:T4B_736.1;Parent=transcript:T4B_736.1
 scaffold8s	WormBase_imported	gene	25006	27381	.	-	.	ID=gene:T4B_2448;Name=T4B_2448;biotype=protein_coding
 scaffold8s	WormBase_imported	mRNA	25006	27381	.	-	.	ID=transcript:T4B_2448.1;Parent=gene:T4B_2448;Name=T4B_2448.1
+#microexons transcript:T4B_2448.1:  74 16 63 24-12-12-6 48
 scaffold8s	WormBase_imported	exon	27308	27381	.	-	.	ID=exon:T4B_2448.1.1;Parent=transcript:T4B_2448.1
 scaffold8s	WormBase_imported	exon	26748	26763	.	-	.	ID=exon:T4B_2448.1.2;Parent=transcript:T4B_2448.1
 scaffold8s	WormBase_imported	exon	26442	26504	.	-	.	ID=exon:T4B_2448.1.3;Parent=transcript:T4B_2448.1
@@ -58,6 +61,7 @@ scaffold8s	WormBase_imported	CDS	25324	25329	.	-	0	ID=cds:T4B_2448.1;Parent=tran
 scaffold8s	WormBase_imported	CDS	25006	25053	.	-	0	ID=cds:T4B_2448.1;Parent=transcript:T4B_2448.1
 scaffold10s	WormBase_imported	gene	274010	275795	.	-	.	ID=gene:T4B_7780;Name=T4B_7780;biotype=protein_coding
 scaffold10s	WormBase_imported	mRNA	274010	275795	.	-	.	ID=transcript:T4B_7780.1;Parent=gene:T4B_7780;Name=T4B_7780.1
+#microexons transcript:T4B_7780.1:  30-27-30 46 20 216
 scaffold10s	WormBase_imported	exon	275766	275795	.	-	.	ID=exon:T4B_7780.1.1;Parent=transcript:T4B_7780.1
 scaffold10s	WormBase_imported	exon	274698	274724	.	-	.	ID=exon:T4B_7780.1.2;Parent=transcript:T4B_7780.1
 scaffold10s	WormBase_imported	exon	274618	274647	.	-	.	ID=exon:T4B_7780.1.3;Parent=transcript:T4B_7780.1
@@ -72,6 +76,7 @@ scaffold10s	WormBase_imported	CDS	274250	274269	.	-	2	ID=cds:T4B_7780.1;Parent=t
 scaffold10s	WormBase_imported	CDS	274010	274225	.	-	0	ID=cds:T4B_7780.1;Parent=transcript:T4B_7780.1
 scaffold49s	WormBase_imported	gene	48502	49415	.	+	.	ID=gene:T4B_5046;Name=T4B_5046;biotype=protein_coding
 scaffold49s	WormBase_imported	mRNA	48502	49415	.	+	.	ID=transcript:T4B_5046.1;Parent=gene:T4B_5046;Name=T4B_5046.1
+#microexons transcript:T4B_5046.1:  15-15-15-15-15-15-15 87 52 35
 scaffold49s	WormBase_imported	exon	48502	48516	.	+	.	ID=exon:T4B_5046.1.1;Parent=transcript:T4B_5046.1
 scaffold49s	WormBase_imported	exon	48679	48693	.	+	.	ID=exon:T4B_5046.1.2;Parent=transcript:T4B_5046.1
 scaffold49s	WormBase_imported	exon	48769	48783	.	+	.	ID=exon:T4B_5046.1.3;Parent=transcript:T4B_5046.1
@@ -94,6 +99,7 @@ scaffold49s	WormBase_imported	CDS	49292	49343	.	+	0	ID=cds:T4B_5046.1;Parent=tra
 scaffold49s	WormBase_imported	CDS	49381	49415	.	+	2	ID=cds:T4B_5046.1;Parent=transcript:T4B_5046.1
 scaffold76s	WormBase_imported	gene	69869	71602	.	-	.	ID=gene:T4B_4253;Name=T4B_4253;biotype=protein_coding
 scaffold76s	WormBase_imported	mRNA	69869	71602	.	-	.	ID=transcript:T4B_4253.1;Parent=gene:T4B_4253;Name=T4B_4253.1
+#microexons transcript:T4B_4253.1:  5 18-24-30 70 120
 scaffold76s	WormBase_imported	exon	71598	71602	.	-	.	ID=exon:T4B_4253.1.1;Parent=transcript:T4B_4253.1
 scaffold76s	WormBase_imported	exon	71180	71197	.	-	.	ID=exon:T4B_4253.1.2;Parent=transcript:T4B_4253.1
 scaffold76s	WormBase_imported	exon	70994	71017	.	-	.	ID=exon:T4B_4253.1.3;Parent=transcript:T4B_4253.1
@@ -108,11 +114,17 @@ scaffold76s	WormBase_imported	CDS	70054	70123	.	-	1	ID=cds:T4B_4253.1;Parent=tra
 scaffold76s	WormBase_imported	CDS	69869	69988	.	-	0	ID=cds:T4B_4253.1;Parent=transcript:T4B_4253.1
 scaffold78s	WormBase_imported	gene	93554	102565	.	+	.	ID=gene:T4B_13057;Name=T4B_13057;biotype=protein_coding;description=Coatomer subunit gamma;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0V1IVZ6;locus=ttr-52
 scaffold78s	WormBase_imported	mRNA	93554	102565	.	+	.	ID=transcript:T4B_13057.1;Parent=gene:T4B_13057;Name=T4B_13057.1;info=method:InterPro accession:IPR001534 description:Transthyretin-like %0Amethod:InterPro accession:IPR002553 description:Clathrin/coatomer adaptor%2C adaptin-like%2C N-terminal %0Amethod:InterPro accession:IPR009028 description:Coatomer/calthrin adaptor appendage%2C C-terminal subdomain %0Amethod:InterPro accession:IPR011989 description:Armadillo-like helical %0Amethod:InterPro accession:IPR012295 description:TBP domain superfamily %0Amethod:InterPro accession:IPR013040 description:Coatomer%2C gamma subunit%2C appendage%2C Ig-like subdomain %0Amethod:InterPro accession:IPR013041 description:Clathrin adaptor%2C appendage%2C Ig-like subdomain superfamily %0Amethod:InterPro accession:IPR016024 description:Armadillo-type fold %0Amethod:InterPro accession:IPR017106 description:Coatomer gamma subunit %0Amethod:InterPro accession:IPR032154 description:Coatomer subunit gamma%2C C-terminal %0Amethod:InterPro accession:IPR037067 description:Coatomer%2C gamma subunit%2C appendage domain superfamily %0Amethod:InterPro accession:IPR038479 description:Transthyretin-like superfamily
+#microexons transcript:T4B_13057.1:  21 123 233 76 93 87 117 41 205 285 79 165 177 135 215 172 83 136 159 205 193 30 74 256 27-15
 scaffold78s	WormBase_imported	mRNA	93554	102301	.	+	.	ID=transcript:T4B_13057.2;Parent=gene:T4B_13057;Name=T4B_13057.2;info=method:InterPro accession:IPR001534 description:Transthyretin-like %0Amethod:InterPro accession:IPR002553 description:Clathrin/coatomer adaptor%2C adaptin-like%2C N-terminal %0Amethod:InterPro accession:IPR009028 description:Coatomer/calthrin adaptor appendage%2C C-terminal subdomain %0Amethod:InterPro accession:IPR011989 description:Armadillo-like helical %0Amethod:InterPro accession:IPR012295 description:TBP domain superfamily %0Amethod:InterPro accession:IPR013040 description:Coatomer%2C gamma subunit%2C appendage%2C Ig-like subdomain %0Amethod:InterPro accession:IPR013041 description:Clathrin adaptor%2C appendage%2C Ig-like subdomain superfamily %0Amethod:InterPro accession:IPR016024 description:Armadillo-type fold %0Amethod:InterPro accession:IPR017106 description:Coatomer gamma subunit %0Amethod:InterPro accession:IPR032154 description:Coatomer subunit gamma%2C C-terminal %0Amethod:InterPro accession:IPR037067 description:Coatomer%2C gamma subunit%2C appendage domain superfamily %0Amethod:InterPro accession:IPR038479 description:Transthyretin-like superfamily
+#microexons transcript:T4B_13057.2:  21 123 233 76 93 87 117 41 205 285 97 165 177 135 215 172 83 136 212 50 29 205 532 127 36 39 256 44
 scaffold78s	WormBase_imported	mRNA	93554	102301	.	+	.	ID=transcript:T4B_13057.3;Parent=gene:T4B_13057;Name=T4B_13057.3;info=method:InterPro accession:IPR001534 description:Transthyretin-like %0Amethod:InterPro accession:IPR002553 description:Clathrin/coatomer adaptor%2C adaptin-like%2C N-terminal %0Amethod:InterPro accession:IPR009028 description:Coatomer/calthrin adaptor appendage%2C C-terminal subdomain %0Amethod:InterPro accession:IPR011989 description:Armadillo-like helical %0Amethod:InterPro accession:IPR012295 description:TBP domain superfamily %0Amethod:InterPro accession:IPR013040 description:Coatomer%2C gamma subunit%2C appendage%2C Ig-like subdomain %0Amethod:InterPro accession:IPR013041 description:Clathrin adaptor%2C appendage%2C Ig-like subdomain superfamily %0Amethod:InterPro accession:IPR016024 description:Armadillo-type fold %0Amethod:InterPro accession:IPR017106 description:Coatomer gamma subunit %0Amethod:InterPro accession:IPR032154 description:Coatomer subunit gamma%2C C-terminal %0Amethod:InterPro accession:IPR037067 description:Coatomer%2C gamma subunit%2C appendage domain superfamily %0Amethod:InterPro accession:IPR038479 description:Transthyretin-like superfamily
+#microexons transcript:T4B_13057.3:  21 123 233 76 93 87 117 41 205 285 79 165 177 135 215 172 83 136 212 50 29 205 532 127 36 39 256 44
 scaffold78s	WormBase_imported	mRNA	93554	102301	.	+	.	ID=transcript:T4B_13057.4;Parent=gene:T4B_13057;Name=T4B_13057.4;info=method:InterPro accession:IPR001534 description:Transthyretin-like %0Amethod:InterPro accession:IPR002553 description:Clathrin/coatomer adaptor%2C adaptin-like%2C N-terminal %0Amethod:InterPro accession:IPR009028 description:Coatomer/calthrin adaptor appendage%2C C-terminal subdomain %0Amethod:InterPro accession:IPR011989 description:Armadillo-like helical %0Amethod:InterPro accession:IPR012295 description:TBP domain superfamily %0Amethod:InterPro accession:IPR013040 description:Coatomer%2C gamma subunit%2C appendage%2C Ig-like subdomain %0Amethod:InterPro accession:IPR013041 description:Clathrin adaptor%2C appendage%2C Ig-like subdomain superfamily %0Amethod:InterPro accession:IPR016024 description:Armadillo-type fold %0Amethod:InterPro accession:IPR017106 description:Coatomer gamma subunit %0Amethod:InterPro accession:IPR032154 description:Coatomer subunit gamma%2C C-terminal %0Amethod:InterPro accession:IPR037067 description:Coatomer%2C gamma subunit%2C appendage domain superfamily %0Amethod:InterPro accession:IPR038479 description:Transthyretin-like superfamily
+#microexons transcript:T4B_13057.4:  21 123 233 76 93 87 85 31 205 285 79 165 177 135 215 172 83 136 212 50 29 205 532 127 36 39 256 44
 scaffold78s	WormBase_imported	mRNA	93554	98324	.	+	.	ID=transcript:T4B_13057.5;Parent=gene:T4B_13057;Name=T4B_13057.5;info=method:InterPro accession:IPR002553 description:Clathrin/coatomer adaptor%2C adaptin-like%2C N-terminal %0Amethod:InterPro accession:IPR011989 description:Armadillo-like helical %0Amethod:InterPro accession:IPR013040 description:Coatomer%2C gamma subunit%2C appendage%2C Ig-like subdomain %0Amethod:InterPro accession:IPR013041 description:Clathrin adaptor%2C appendage%2C Ig-like subdomain superfamily %0Amethod:InterPro accession:IPR016024 description:Armadillo-type fold %0Amethod:InterPro accession:IPR017106 description:Coatomer gamma subunit %0Amethod:InterPro accession:IPR037067 description:Coatomer%2C gamma subunit%2C appendage domain superfamily
+#microexons transcript:T4B_13057.5:  21 123 233 76 93 87 117 41 205 285 79 165 177 135 215 172 83 87 493
 scaffold78s	WormBase_imported	mRNA	97924	102301	.	+	.	ID=transcript:T4B_13057.6;Parent=gene:T4B_13057;Name=T4B_13057.6;info=method:InterPro accession:IPR001534 description:Transthyretin-like %0Amethod:InterPro accession:IPR038479 description:Transthyretin-like superfamily
+#microexons transcript:T4B_13057.6:  120 50 29 205 532 127 36 39 256 44
 scaffold78s	WormBase_imported	exon	93554	93574	.	+	.	ID=exon:T4B_13057.1.1;Parent=transcript:T4B_13057.1
 scaffold78s	WormBase_imported	exon	93897	94019	.	+	.	ID=exon:T4B_13057.1.2;Parent=transcript:T4B_13057.1
 scaffold78s	WormBase_imported	exon	94076	94308	.	+	.	ID=exon:T4B_13057.1.3;Parent=transcript:T4B_13057.1
@@ -398,6 +410,7 @@ scaffold78s	WormBase_imported	three_prime_UTR	100243	100498	.	+	.	Parent=transcr
 scaffold78s	WormBase_imported	three_prime_UTR	102258	102301	.	+	.	Parent=transcript:T4B_13057.6
 scaffold80s	WormBase_imported	gene	134567	135915	.	+	.	ID=gene:T4B_6539;Name=T4B_6539;biotype=protein_coding
 scaffold80s	WormBase_imported	mRNA	134567	135915	.	+	.	ID=transcript:T4B_6539.1;Parent=gene:T4B_6539;Name=T4B_6539.1
+#microexons transcript:T4B_6539.1:  18-30-30-27 39 54 39 51 39
 scaffold80s	WormBase_imported	exon	134567	134584	.	+	.	ID=exon:T4B_6539.1.1;Parent=transcript:T4B_6539.1
 scaffold80s	WormBase_imported	exon	134620	134649	.	+	.	ID=exon:T4B_6539.1.2;Parent=transcript:T4B_6539.1
 scaffold80s	WormBase_imported	exon	134686	134715	.	+	.	ID=exon:T4B_6539.1.3;Parent=transcript:T4B_6539.1
@@ -1002,6 +1015,7 @@ scaffold80s	dust	low_complexity_region	135517	135579	.	-	.
 scaffold80s	dust	low_complexity_region	135898	135906	.	-	.	
 scaffold244s	WormBase_imported	gene	26638	28248	.	+	.	ID=gene:T4B_7231;Name=T4B_7231;biotype=protein_coding
 scaffold244s	WormBase_imported	mRNA	26638	28248	.	+	.	ID=transcript:T4B_7231.1;Parent=gene:T4B_7231;Name=T4B_7231.1
+#microexons transcript:T4B_7231.1:  11 15-24-18 25 99 6
 scaffold244s	WormBase_imported	exon	26638	26648	.	+	.	ID=exon:T4B_7231.1.1;Parent=transcript:T4B_7231.1
 scaffold244s	WormBase_imported	exon	26755	26769	.	+	.	ID=exon:T4B_7231.1.2;Parent=transcript:T4B_7231.1
 scaffold244s	WormBase_imported	exon	26990	27013	.	+	.	ID=exon:T4B_7231.1.3;Parent=transcript:T4B_7231.1

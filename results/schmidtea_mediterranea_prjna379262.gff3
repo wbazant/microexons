@@ -1,5 +1,6 @@
 dd_Smes_g4_6	WormBase_imported	gene	11423958	11431567	.	-	.	ID=gene:SMESG000068932;Name=SMESG000068932;biotype=protein_coding
 dd_Smes_g4_6	WormBase_imported	mRNA	11423958	11431567	.	-	.	ID=transcript:SMEST068932001;Parent=gene:SMESG000068932;Name=SMEST068932001
+#microexons transcript:SMEST068932001:  410 15-21-21 77 184
 dd_Smes_g4_6	WormBase_imported	exon	11431158	11431567	.	-	.	ID=exon:SMEST068932001.1;Parent=transcript:SMEST068932001
 dd_Smes_g4_6	WormBase_imported	exon	11431099	11431113	.	-	.	ID=exon:SMEST068932001.2;Parent=transcript:SMEST068932001
 dd_Smes_g4_6	WormBase_imported	exon	11428952	11428972	.	-	.	ID=exon:SMEST068932001.3;Parent=transcript:SMEST068932001
@@ -16,7 +17,9 @@ dd_Smes_g4_6	WormBase_imported	CDS	11424088	11424141	.	-	0	ID=cds:SMEST068932001
 dd_Smes_g4_6	WormBase_imported	three_prime_UTR	11423958	11424087	.	-	.	Parent=transcript:SMEST068932001
 dd_Smes_g4_8	WormBase_imported	gene	6237960	6275095	.	+	.	ID=gene:SMESG000077924;Name=SMESG000077924;biotype=protein_coding
 dd_Smes_g4_8	WormBase_imported	mRNA	6237970	6275095	.	+	.	ID=transcript:SMEST077924001;Parent=gene:SMESG000077924;Name=SMEST077924001
+#microexons transcript:SMEST077924001:  142 315 288 203 90 93 51 33 27-24-24-18-24-24-15-24-27 40 116
 dd_Smes_g4_8	WormBase_imported	mRNA	6237960	6275095	.	+	.	ID=transcript:SMEST077924004;Parent=gene:SMESG000077924;Name=SMEST077924004
+#microexons transcript:SMEST077924004:  152 315 288 339 203 90 93 51 33 27-24-24-18-24-21-15-24-27 56 98
 dd_Smes_g4_8	WormBase_imported	exon	6237970	6238111	.	+	.	ID=exon:SMEST077924001.1;Parent=transcript:SMEST077924001
 dd_Smes_g4_8	WormBase_imported	exon	6240598	6240912	.	+	.	ID=exon:SMEST077924001.2;Parent=transcript:SMEST077924001
 dd_Smes_g4_8	WormBase_imported	exon	6245710	6245997	.	+	.	ID=exon:SMEST077924001.3;Parent=transcript:SMEST077924001
@@ -101,7 +104,9 @@ dd_Smes_g4_8	WormBase_imported	CDS	6274998	6275001	.	+	1	ID=cds:SMEST077924004;P
 dd_Smes_g4_8	WormBase_imported	three_prime_UTR	6275002	6275095	.	+	.	Parent=transcript:SMEST077924004
 dd_Smes_g4_14	WormBase_imported	gene	2976823	2982277	.	+	.	ID=gene:SMESG000014373;Name=SMESG000014373;biotype=protein_coding
 dd_Smes_g4_14	WormBase_imported	mRNA	2976823	2982277	.	+	.	ID=transcript:SMEST014373001;Parent=gene:SMESG000014373;Name=SMEST014373001;info=method:InterPro accession:IPR006214 description:Bax inhibitor 1-related
+#microexons transcript:SMEST014373001:  300 9-27-27-27-30 36 36 39 36 36 24 42 79 54 91 120 144 263
 dd_Smes_g4_14	WormBase_imported	mRNA	2976823	2982277	.	+	.	ID=transcript:SMEST014373002;Parent=gene:SMESG000014373;Name=SMEST014373002;info=method:InterPro accession:IPR006214 description:Bax inhibitor 1-related
+#microexons transcript:SMEST014373002:  300 9-27-27-27-30 36 36 39 36 36 24 42 79 54 91 120 144 263
 dd_Smes_g4_14	WormBase_imported	exon	2976823	2977122	.	+	.	ID=exon:SMEST014373001.1;Parent=transcript:SMEST014373001
 dd_Smes_g4_14	WormBase_imported	exon	2977175	2977183	.	+	.	ID=exon:SMEST014373001.2;Parent=transcript:SMEST014373001
 dd_Smes_g4_14	WormBase_imported	exon	2977232	2977258	.	+	.	ID=exon:SMEST014373001.3;Parent=transcript:SMEST014373001
@@ -184,6 +189,7 @@ dd_Smes_g4_14	WormBase_imported	CDS	2982015	2982164	.	+	0	ID=cds:SMEST014373002;
 dd_Smes_g4_14	WormBase_imported	three_prime_UTR	2982165	2982277	.	+	.	Parent=transcript:SMEST014373002
 dd_Smes_g4_14	WormBase_imported	gene	5615119	5620865	.	-	.	ID=gene:SMESG000014753;Name=SMESG000014753;biotype=protein_coding
 dd_Smes_g4_14	WormBase_imported	mRNA	5615119	5620865	.	-	.	ID=transcript:SMEST014753001;Parent=gene:SMESG000014753;Name=SMEST014753001;info=method:InterPro accession:IPR022812 description:Dynamin superfamily %0Amethod:InterPro accession:IPR027094 description:Mitofusin family %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase
+#microexons transcript:SMEST014753001:  181 60 121 145 258 111 142 65 119 236 65 21-15-15-21 60 135 296
 dd_Smes_g4_14	WormBase_imported	exon	5620685	5620865	.	-	.	ID=exon:SMEST014753001.1;Parent=transcript:SMEST014753001
 dd_Smes_g4_14	WormBase_imported	exon	5620493	5620552	.	-	.	ID=exon:SMEST014753001.2;Parent=transcript:SMEST014753001
 dd_Smes_g4_14	WormBase_imported	exon	5620331	5620451	.	-	.	ID=exon:SMEST014753001.3;Parent=transcript:SMEST014753001
@@ -224,6 +230,7 @@ dd_Smes_g4_14	WormBase_imported	CDS	5615262	5615414	.	-	0	ID=cds:SMEST014753001;
 dd_Smes_g4_14	WormBase_imported	three_prime_UTR	5615119	5615261	.	-	.	Parent=transcript:SMEST014753001
 dd_Smes_g4_14	WormBase_imported	gene	5640226	5663815	.	-	.	ID=gene:SMESG000014759;Name=SMESG000014759;biotype=protein_coding
 dd_Smes_g4_14	WormBase_imported	mRNA	5640226	5663815	.	-	.	ID=transcript:SMEST014759001;Parent=gene:SMESG000014759;Name=SMEST014759001;info=method:InterPro accession:IPR022812 description:Dynamin superfamily %0Amethod:InterPro accession:IPR027094 description:Mitofusin family %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase
+#microexons transcript:SMEST014759001:  131 39 121 145 264 111 142 71 125 228 76 21-15-15-24 120 378
 dd_Smes_g4_14	WormBase_imported	exon	5663685	5663815	.	-	.	ID=exon:SMEST014759001.1;Parent=transcript:SMEST014759001
 dd_Smes_g4_14	WormBase_imported	exon	5663606	5663644	.	-	.	ID=exon:SMEST014759001.2;Parent=transcript:SMEST014759001
 dd_Smes_g4_14	WormBase_imported	exon	5663424	5663544	.	-	.	ID=exon:SMEST014759001.3;Parent=transcript:SMEST014759001
@@ -262,6 +269,7 @@ dd_Smes_g4_14	WormBase_imported	CDS	5640475	5640603	.	-	0	ID=cds:SMEST014759001;
 dd_Smes_g4_14	WormBase_imported	three_prime_UTR	5640226	5640474	.	-	.	Parent=transcript:SMEST014759001
 dd_Smes_g4_14	WormBase_imported	gene	5667963	5675998	.	+	.	ID=gene:SMESG000014762;Name=SMESG000014762;biotype=protein_coding
 dd_Smes_g4_14	WormBase_imported	mRNA	5667963	5675998	.	+	.	ID=transcript:SMEST014762001;Parent=gene:SMESG000014762;Name=SMEST014762001;info=method:InterPro accession:IPR022812 description:Dynamin superfamily %0Amethod:InterPro accession:IPR027094 description:Mitofusin family %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase
+#microexons transcript:SMEST014762001:  129 60 121 145 258 111 142 65 119 236 65 21-15-15 51 63 168 278
 dd_Smes_g4_14	WormBase_imported	exon	5667963	5668091	.	+	.	ID=exon:SMEST014762001.1;Parent=transcript:SMEST014762001
 dd_Smes_g4_14	WormBase_imported	exon	5668859	5668918	.	+	.	ID=exon:SMEST014762001.2;Parent=transcript:SMEST014762001
 dd_Smes_g4_14	WormBase_imported	exon	5668965	5669085	.	+	.	ID=exon:SMEST014762001.3;Parent=transcript:SMEST014762001
@@ -302,7 +310,9 @@ dd_Smes_g4_14	WormBase_imported	CDS	5675721	5675873	.	+	0	ID=cds:SMEST014762001;
 dd_Smes_g4_14	WormBase_imported	three_prime_UTR	5675874	5675998	.	+	.	Parent=transcript:SMEST014762001
 dd_Smes_g4_14	WormBase_imported	gene	6744766	6798640	.	-	.	ID=gene:SMESG000014912;Name=SMESG000014912;biotype=protein_coding
 dd_Smes_g4_14	WormBase_imported	mRNA	6744766	6798510	.	-	.	ID=transcript:SMEST014912001;Parent=gene:SMESG000014912;Name=SMEST014912001
+#microexons transcript:SMEST014912001:  167 39 30-30 51 57 57 30 48 27 66 75 63 21-30-24-24 78
 dd_Smes_g4_14	WormBase_imported	mRNA	6744766	6798640	.	-	.	ID=transcript:SMEST014912002;Parent=gene:SMESG000014912;Name=SMEST014912002
+#microexons transcript:SMEST014912002:  297 39 30-30 51 57 57 30 48 27 66 75 63 21-30-24-24 78
 dd_Smes_g4_14	WormBase_imported	exon	6798344	6798510	.	-	.	ID=exon:SMEST014912001.1;Parent=transcript:SMEST014912001
 dd_Smes_g4_14	WormBase_imported	exon	6798260	6798298	.	-	.	ID=exon:SMEST014912001.2;Parent=transcript:SMEST014912001
 dd_Smes_g4_14	WormBase_imported	exon	6798178	6798207	.	-	.	ID=exon:SMEST014912001.3;Parent=transcript:SMEST014912001
@@ -381,9 +391,13 @@ dd_Smes_g4_14	WormBase_imported	CDS	6744821	6744843	.	-	2	ID=cds:SMEST014912002;
 dd_Smes_g4_14	WormBase_imported	three_prime_UTR	6744766	6744820	.	-	.	Parent=transcript:SMEST014912002
 dd_Smes_g4_18	WormBase_imported	gene	811341	832622	.	+	.	ID=gene:SMESG000023251;Name=SMESG000023251;biotype=protein_coding
 dd_Smes_g4_18	WormBase_imported	mRNA	811341	831396	.	+	.	ID=transcript:SMEST023251001;Parent=gene:SMESG000023251;Name=SMEST023251001
+#microexons transcript:SMEST023251001:  97 243 282 207 33 36 45 21 120 90 39 150 60 120 150 27-24 178
 dd_Smes_g4_18	WormBase_imported	mRNA	811341	832622	.	+	.	ID=transcript:SMEST023251002;Parent=gene:SMESG000023251;Name=SMEST023251002
+#microexons transcript:SMEST023251002:  97 243 282 207 33 36 45 21 120 90 39 150 60 120 150 27-24 443
 dd_Smes_g4_18	WormBase_imported	mRNA	811361	832622	.	+	.	ID=transcript:SMEST023251003;Parent=gene:SMESG000023251;Name=SMEST023251003
+#microexons transcript:SMEST023251003:  77 243 282 207 33 36 45 21 120 90 39 150 60 120 150 27-24 33 443
 dd_Smes_g4_18	WormBase_imported	mRNA	811341	832622	.	+	.	ID=transcript:SMEST023251004;Parent=gene:SMESG000023251;Name=SMEST023251004
+#microexons transcript:SMEST023251004:  97 243 282 207 33 36 45 21 120 90 39 150 60 120 150 27-24-12 443
 dd_Smes_g4_18	WormBase_imported	exon	811341	811437	.	+	.	ID=exon:SMEST023251001.1;Parent=transcript:SMEST023251001
 dd_Smes_g4_18	WormBase_imported	exon	811487	811729	.	+	.	ID=exon:SMEST023251001.2;Parent=transcript:SMEST023251001
 dd_Smes_g4_18	WormBase_imported	exon	813673	813954	.	+	.	ID=exon:SMEST023251001.3;Parent=transcript:SMEST023251001
@@ -542,8 +556,11 @@ dd_Smes_g4_18	WormBase_imported	CDS	832180	832520	.	+	2	ID=cds:SMEST023251004;Pa
 dd_Smes_g4_18	WormBase_imported	three_prime_UTR	832521	832622	.	+	.	Parent=transcript:SMEST023251004
 dd_Smes_g4_24	WormBase_imported	gene	4566659	4616974	.	+	.	ID=gene:SMESG000035186;Name=SMESG000035186;biotype=protein_coding
 dd_Smes_g4_24	WormBase_imported	mRNA	4566659	4616974	.	+	.	ID=transcript:SMEST035186001;Parent=gene:SMESG000035186;Name=SMEST035186001;info=method:InterPro accession:IPR001283 description:Cysteine-rich  secretory protein-related %0Amethod:InterPro accession:IPR003582 description:ShKT domain %0Amethod:InterPro accession:IPR014044 description:CAP domain %0Amethod:InterPro accession:IPR035940 description:CAP superfamily
+#microexons transcript:SMEST035186001:  687 164 88 86 143 102 117 93 108 36 105 21 36 129 84 75 36 69 72 36 30 72 24-30-30 72 48 72 39 72 69 72 48 72 45 72 48 72 45 72 36 45 69 54 72 42 72 39 30 69 42 39 72 72 33 30 72 24 36 66
 dd_Smes_g4_24	WormBase_imported	mRNA	4566659	4616974	.	+	.	ID=transcript:SMEST035186002;Parent=gene:SMESG000035186;Name=SMEST035186002;info=method:InterPro accession:IPR001283 description:Cysteine-rich  secretory protein-related %0Amethod:InterPro accession:IPR003582 description:ShKT domain %0Amethod:InterPro accession:IPR014044 description:CAP domain %0Amethod:InterPro accession:IPR035940 description:CAP superfamily
+#microexons transcript:SMEST035186002:  687 164 88 86 143 102 117 93 108 36 105 21 36 129 84 75 36 69 72 36 30 72 24-30-30 72 48 72 39 72 69 72 48 72 45 72 48 72 45 72 36 45 69 54 72 42 72 39 30 69 42 39 72 72 33 30 72 24 36 66
 dd_Smes_g4_24	WormBase_imported	mRNA	4566659	4616974	.	+	.	ID=transcript:SMEST035186003;Parent=gene:SMESG000035186;Name=SMEST035186003;info=method:InterPro accession:IPR001283 description:Cysteine-rich  secretory protein-related %0Amethod:InterPro accession:IPR003582 description:ShKT domain %0Amethod:InterPro accession:IPR014044 description:CAP domain %0Amethod:InterPro accession:IPR035940 description:CAP superfamily
+#microexons transcript:SMEST035186003:  687 164 88 86 143 102 117 93 108 36 105 21 36 129 84 75 36 69 72 36 30-30-30 72 48 72 39 72 69 72 48 72 45 72 48 72 45 72 36 45 69 54 72 42 72 39 30 69 42 39 72 72 33 30 72 24 36 66
 dd_Smes_g4_24	WormBase_imported	exon	4566659	4567345	.	+	.	ID=exon:SMEST035186001.1;Parent=transcript:SMEST035186001
 dd_Smes_g4_24	WormBase_imported	exon	4567455	4567618	.	+	.	ID=exon:SMEST035186001.2;Parent=transcript:SMEST035186001
 dd_Smes_g4_24	WormBase_imported	exon	4567657	4567744	.	+	.	ID=exon:SMEST035186001.3;Parent=transcript:SMEST035186001
@@ -908,7 +925,9 @@ dd_Smes_g4_24	WormBase_imported	three_prime_UTR	4611659	4611686	.	+	.	Parent=tra
 dd_Smes_g4_24	WormBase_imported	three_prime_UTR	4616909	4616974	.	+	.	Parent=transcript:SMEST035186003
 dd_Smes_g4_28	WormBase_imported	gene	3939568	3972279	.	+	.	ID=gene:SMESG000040007;Name=SMESG000040007;biotype=protein_coding
 dd_Smes_g4_28	WormBase_imported	mRNA	3939568	3965280	.	+	.	ID=transcript:SMEST040007002;Parent=gene:SMESG000040007;Name=SMEST040007002;info=method:InterPro accession:IPR038765 description:Papain-like cysteine peptidase superfamily
+#microexons transcript:SMEST040007002:  873 21-21-21 63 111 75 63 78 81 464
 dd_Smes_g4_28	WormBase_imported	mRNA	3939568	3972279	.	+	.	ID=transcript:SMEST040007003;Parent=gene:SMESG000040007;Name=SMEST040007003;info=method:InterPro accession:IPR001394 description:Peptidase C19%2C ubiquitin carboxyl-terminal hydrolase %0Amethod:InterPro accession:IPR018200 description:Ubiquitin specific protease%2C conserved site %0Amethod:InterPro accession:IPR028889 description:Ubiquitin specific protease domain %0Amethod:InterPro accession:IPR038765 description:Papain-like cysteine peptidase superfamily
+#microexons transcript:SMEST040007003:  873 21-21-21 63 111 135 75 63 78 81 338 1723 2887
 dd_Smes_g4_28	WormBase_imported	exon	3939568	3940440	.	+	.	ID=exon:SMEST040007002.1;Parent=transcript:SMEST040007002
 dd_Smes_g4_28	WormBase_imported	exon	3940490	3940510	.	+	.	ID=exon:SMEST040007002.2;Parent=transcript:SMEST040007002
 dd_Smes_g4_28	WormBase_imported	exon	3943646	3943666	.	+	.	ID=exon:SMEST040007002.3;Parent=transcript:SMEST040007002
@@ -965,8 +984,11 @@ dd_Smes_g4_28	WormBase_imported	CDS	3969393	3972226	.	+	2	ID=cds:SMEST040007003;
 dd_Smes_g4_28	WormBase_imported	three_prime_UTR	3972227	3972279	.	+	.	Parent=transcript:SMEST040007003
 dd_Smes_g4_31	WormBase_imported	gene	1981549	2044322	.	-	.	ID=gene:SMESG000044311;Name=SMESG000044311;biotype=protein_coding
 dd_Smes_g4_31	WormBase_imported	mRNA	1981712	2044322	.	-	.	ID=transcript:SMEST044311003;Parent=gene:SMESG000044311;Name=SMEST044311003
+#microexons transcript:SMEST044311003:  895 282 294 303 294 95 106 291 209 96 33 21 141 24-30 33 33 27-24-30-27 39 39 27-24-27-24-24-30 33 27-24-27-27 39 39 27-24 103 125
 dd_Smes_g4_31	WormBase_imported	mRNA	1981549	2044322	.	-	.	ID=transcript:SMEST044311006;Parent=gene:SMESG000044311;Name=SMEST044311006
+#microexons transcript:SMEST044311006:  881 116 294 303 294 75 126 291 209 96 33 21 141 24-30 33 33 27-24-30-27 39 39 27-24-27-24-24-30 33 27-24-27-27 39 39 27-24 103 300
 dd_Smes_g4_31	WormBase_imported	mRNA	1981712	2044322	.	-	.	ID=transcript:SMEST044311008;Parent=gene:SMESG000044311;Name=SMEST044311008
+#microexons transcript:SMEST044311008:  895 282 294 303 294 116 58 291 209 96 33 21 141 24-30 33 33 27-24-30-27 39 39 27-24-27-24-24-30 33 27-24-27-27 39 39 27-24 103 132
 dd_Smes_g4_31	WormBase_imported	exon	2043428	2044322	.	-	.	ID=exon:SMEST044311003.1;Parent=transcript:SMEST044311003
 dd_Smes_g4_31	WormBase_imported	exon	2039790	2040071	.	-	.	ID=exon:SMEST044311003.2;Parent=transcript:SMEST044311003
 dd_Smes_g4_31	WormBase_imported	exon	2037661	2037954	.	-	.	ID=exon:SMEST044311003.3;Parent=transcript:SMEST044311003
@@ -1215,6 +1237,7 @@ dd_Smes_g4_31	WormBase_imported	three_prime_UTR	1983764	1983785	.	-	.	Parent=tra
 dd_Smes_g4_31	WormBase_imported	three_prime_UTR	1981712	1981843	.	-	.	Parent=transcript:SMEST044311008
 dd_Smes_g4_33	WormBase_imported	gene	1911705	1923704	.	+	.	ID=gene:SMESG000045914;Name=SMESG000045914;biotype=protein_coding
 dd_Smes_g4_33	WormBase_imported	mRNA	1911705	1923704	.	+	.	ID=transcript:SMEST045914001;Parent=gene:SMESG000045914;Name=SMEST045914001;info=method:InterPro accession:IPR002083 description:MATH/TRAF domain %0Amethod:InterPro accession:IPR008974 description:TRAF-like
+#microexons transcript:SMEST045914001:  329 39 30-30-24 39 51 57 60 29 556
 dd_Smes_g4_33	WormBase_imported	exon	1911705	1912033	.	+	.	ID=exon:SMEST045914001.1;Parent=transcript:SMEST045914001
 dd_Smes_g4_33	WormBase_imported	exon	1912128	1912166	.	+	.	ID=exon:SMEST045914001.2;Parent=transcript:SMEST045914001
 dd_Smes_g4_33	WormBase_imported	exon	1912213	1912242	.	+	.	ID=exon:SMEST045914001.3;Parent=transcript:SMEST045914001
@@ -1241,6 +1264,7 @@ dd_Smes_g4_33	WormBase_imported	CDS	1923149	1923643	.	+	0	ID=cds:SMEST045914001;
 dd_Smes_g4_33	WormBase_imported	three_prime_UTR	1923644	1923704	.	+	.	Parent=transcript:SMEST045914001
 dd_Smes_g4_34	WormBase_imported	gene	3347342	3380178	.	-	.	ID=gene:SMESG000046768;Name=SMESG000046768;biotype=protein_coding
 dd_Smes_g4_34	WormBase_imported	mRNA	3347342	3380178	.	-	.	ID=transcript:SMEST046768001;Parent=gene:SMESG000046768;Name=SMEST046768001;info=method:InterPro accession:IPR002035 description:von Willebrand factor%2C type A %0Amethod:InterPro accession:IPR036465 description:von Willebrand factor A-like domain superfamily
+#microexons transcript:SMEST046768001:  533 34 237 247 104 33 30-27-30-30 36 39 21-21 228 241 107 216 235 104 228 238 104 228 238 107 216 238 104 228 238 107 101
 dd_Smes_g4_34	WormBase_imported	exon	3379646	3380178	.	-	.	ID=exon:SMEST046768001.1;Parent=transcript:SMEST046768001
 dd_Smes_g4_34	WormBase_imported	exon	3379563	3379596	.	-	.	ID=exon:SMEST046768001.2;Parent=transcript:SMEST046768001
 dd_Smes_g4_34	WormBase_imported	exon	3379182	3379418	.	-	.	ID=exon:SMEST046768001.3;Parent=transcript:SMEST046768001
@@ -1311,9 +1335,13 @@ dd_Smes_g4_34	WormBase_imported	CDS	3347426	3347442	.	-	2	ID=cds:SMEST046768001;
 dd_Smes_g4_34	WormBase_imported	three_prime_UTR	3347342	3347425	.	-	.	Parent=transcript:SMEST046768001
 dd_Smes_g4_48	WormBase_imported	gene	3892469	4005167	.	-	.	ID=gene:SMESG000057293;Name=SMESG000057293;biotype=protein_coding
 dd_Smes_g4_48	WormBase_imported	mRNA	3892469	4005167	.	-	.	ID=transcript:SMEST057293003;Parent=gene:SMESG000057293;Name=SMEST057293003;info=method:InterPro accession:IPR000001 description:Kringle %0Amethod:InterPro accession:IPR013806 description:Kringle-like fold %0Amethod:InterPro accession:IPR018056 description:Kringle%2C conserved site %0Amethod:InterPro accession:IPR038178 description:Kringle superfamily
+#microexons transcript:SMEST057293003:  120 228 258 426 315 285 273 315 243 282 30 306 246 330 212 174 57 51 54 48 24-30 36 30-21-18-18 33 33 36 33 42 33 18-24-21 89 224
 dd_Smes_g4_48	WormBase_imported	mRNA	3892469	4005167	.	-	.	ID=transcript:SMEST057293004;Parent=gene:SMESG000057293;Name=SMEST057293004;info=method:InterPro accession:IPR000001 description:Kringle %0Amethod:InterPro accession:IPR013806 description:Kringle-like fold %0Amethod:InterPro accession:IPR018056 description:Kringle%2C conserved site %0Amethod:InterPro accession:IPR038178 description:Kringle superfamily
+#microexons transcript:SMEST057293004:  120 228 258 426 315 285 273 315 243 282 30 306 246 330 212 174 57 51 54 48 24-30 36 30-21-18-18 33 33 36 33 42 33 18-24-21 89 224
 dd_Smes_g4_48	WormBase_imported	mRNA	3892469	4005167	.	-	.	ID=transcript:SMEST057293008;Parent=gene:SMESG000057293;Name=SMEST057293008;info=method:InterPro accession:IPR000001 description:Kringle %0Amethod:InterPro accession:IPR013806 description:Kringle-like fold %0Amethod:InterPro accession:IPR018056 description:Kringle%2C conserved site %0Amethod:InterPro accession:IPR038178 description:Kringle superfamily
+#microexons transcript:SMEST057293008:  120 228 258 426 315 285 273 315 243 282 30 306 246 330 212 174 57 51 54 48 24-30 36 30-21-18-18 33 33 36 33 42 33 18-24-21 89 224
 dd_Smes_g4_48	WormBase_imported	mRNA	3892660	4005167	.	-	.	ID=transcript:SMEST057293009;Parent=gene:SMESG000057293;Name=SMEST057293009;info=method:InterPro accession:IPR000001 description:Kringle %0Amethod:InterPro accession:IPR013806 description:Kringle-like fold %0Amethod:InterPro accession:IPR018056 description:Kringle%2C conserved site %0Amethod:InterPro accession:IPR038178 description:Kringle superfamily
+#microexons transcript:SMEST057293009:  120 228 258 426 315 285 273 315 243 282 30 306 246 330 212 174 57 51 54 48 24-30 36 30-21-18 33 33 36 33 42 33 18-24-21-21 89 33
 dd_Smes_g4_48	WormBase_imported	exon	4005048	4005167	.	-	.	ID=exon:SMEST057293003.1;Parent=transcript:SMEST057293003
 dd_Smes_g4_48	WormBase_imported	exon	4004776	4005003	.	-	.	ID=exon:SMEST057293003.2;Parent=transcript:SMEST057293003
 dd_Smes_g4_48	WormBase_imported	exon	3985069	3985326	.	-	.	ID=exon:SMEST057293003.3;Parent=transcript:SMEST057293003
@@ -1628,8 +1656,11 @@ dd_Smes_g4_48	WormBase_imported	three_prime_UTR	3895095	3895120	.	-	.	Parent=tra
 dd_Smes_g4_48	WormBase_imported	three_prime_UTR	3892660	3892692	.	-	.	Parent=transcript:SMEST057293009
 dd_Smes_g4_49	WormBase_imported	gene	3300159	3316423	.	+	.	ID=gene:SMESG000057719;Name=SMESG000057719;biotype=protein_coding
 dd_Smes_g4_49	WormBase_imported	mRNA	3305239	3316423	.	+	.	ID=transcript:SMEST057719001;Parent=gene:SMESG000057719;Name=SMEST057719001;info=method:InterPro accession:IPR001752 description:Kinesin motor domain %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR027640 description:Kinesin-like protein %0Amethod:InterPro accession:IPR036961 description:Kinesin motor domain superfamily
+#microexons transcript:SMEST057719001:  129 542 91 133 119 176 1362
 dd_Smes_g4_49	WormBase_imported	mRNA	3300159	3316423	.	+	.	ID=transcript:SMEST057719002;Parent=gene:SMESG000057719;Name=SMEST057719002;info=method:InterPro accession:IPR001752 description:Kinesin motor domain %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR027640 description:Kinesin-like protein %0Amethod:InterPro accession:IPR036961 description:Kinesin motor domain superfamily
+#microexons transcript:SMEST057719002:  296 45 21-15-12 93 213 105 138 126 114 27 542 91 133 119 176 1362
 dd_Smes_g4_49	WormBase_imported	mRNA	3300159	3305183	.	+	.	ID=transcript:SMEST057719003;Parent=gene:SMESG000057719;Name=SMEST057719003
+#microexons transcript:SMEST057719003:  296 45 21-15-12 93 213 105 138 126 114 27 126 119
 dd_Smes_g4_49	WormBase_imported	exon	3305239	3305367	.	+	.	ID=exon:SMEST057719001.1;Parent=transcript:SMEST057719001
 dd_Smes_g4_49	WormBase_imported	exon	3305943	3306484	.	+	.	ID=exon:SMEST057719001.2;Parent=transcript:SMEST057719001
 dd_Smes_g4_49	WormBase_imported	exon	3308182	3308272	.	+	.	ID=exon:SMEST057719001.3;Parent=transcript:SMEST057719001
@@ -1716,6 +1747,7 @@ dd_Smes_g4_49	WormBase_imported	three_prime_UTR	3304923	3305018	.	+	.	Parent=tra
 dd_Smes_g4_49	WormBase_imported	three_prime_UTR	3305065	3305183	.	+	.	Parent=transcript:SMEST057719003
 dd_Smes_g4_53	WormBase_imported	gene	3157990	3190940	.	-	.	ID=gene:SMESG000061114;Name=SMESG000061114;biotype=protein_coding
 dd_Smes_g4_53	WormBase_imported	mRNA	3157990	3190940	.	-	.	ID=transcript:SMEST061114001;Parent=gene:SMESG000061114;Name=SMEST061114001
+#microexons transcript:SMEST061114001:  431 18-24-12-18-21-30-15-27-30-15-27-15 45 24-30-15-21 33 27 36 36 28 1756
 dd_Smes_g4_53	WormBase_imported	exon	3190510	3190940	.	-	.	ID=exon:SMEST061114001.1;Parent=transcript:SMEST061114001
 dd_Smes_g4_53	WormBase_imported	exon	3189751	3189768	.	-	.	ID=exon:SMEST061114001.2;Parent=transcript:SMEST061114001
 dd_Smes_g4_53	WormBase_imported	exon	3189677	3189700	.	-	.	ID=exon:SMEST061114001.3;Parent=transcript:SMEST061114001
@@ -1768,7 +1800,9 @@ dd_Smes_g4_53	WormBase_imported	CDS	3159721	3159745	.	-	1	ID=cds:SMEST061114001;
 dd_Smes_g4_53	WormBase_imported	three_prime_UTR	3157990	3159720	.	-	.	Parent=transcript:SMEST061114001
 dd_Smes_g4_53	WormBase_imported	gene	3191347	3225110	.	-	.	ID=gene:SMESG000061115;Name=SMESG000061115;biotype=protein_coding
 dd_Smes_g4_53	WormBase_imported	mRNA	3191347	3225110	.	-	.	ID=transcript:SMEST061115001;Parent=gene:SMESG000061115;Name=SMEST061115001
+#microexons transcript:SMEST061115001:  935 87 219 36 33 15-15-21 33 24 33 24 33 33 18-30-30-24-30 33 30-15-30-18-18 203
 dd_Smes_g4_53	WormBase_imported	mRNA	3191359	3219140	.	-	.	ID=transcript:SMEST061115002;Parent=gene:SMESG000061115;Name=SMEST061115002
+#microexons transcript:SMEST061115002:  670 87 219 36 33 15-15-21 33 24 33 24 33 33 18-30-30-24-30 33 30-15-30-18-18 191
 dd_Smes_g4_53	WormBase_imported	exon	3224176	3225110	.	-	.	ID=exon:SMEST061115001.1;Parent=transcript:SMEST061115001
 dd_Smes_g4_53	WormBase_imported	exon	3216728	3216814	.	-	.	ID=exon:SMEST061115001.2;Parent=transcript:SMEST061115001
 dd_Smes_g4_53	WormBase_imported	exon	3216456	3216674	.	-	.	ID=exon:SMEST061115001.3;Parent=transcript:SMEST061115001
@@ -1879,8 +1913,11 @@ dd_Smes_g4_53	WormBase_imported	CDS	3191482	3191549	.	-	2	ID=cds:SMEST061115002;
 dd_Smes_g4_53	WormBase_imported	three_prime_UTR	3191359	3191481	.	-	.	Parent=transcript:SMEST061115002
 dd_Smes_g4_56	WormBase_imported	gene	2150987	2187031	.	+	.	ID=gene:SMESG000062319;Name=SMESG000062319;biotype=protein_coding
 dd_Smes_g4_56	WormBase_imported	mRNA	2150987	2153768	.	+	.	ID=transcript:SMEST062319001;Parent=gene:SMESG000062319;Name=SMEST062319001;info=method:InterPro accession:IPR000535 description:Major sperm protein (MSP) domain %0Amethod:InterPro accession:IPR008962 description:PapD-like superfamily %0Amethod:InterPro accession:IPR013783 description:Immunoglobulin-like fold %0Amethod:InterPro accession:IPR016763 description:Vesicle-associated membrane-protein-associated protein
+#microexons transcript:SMEST062319001:  1353 156 854 101
 dd_Smes_g4_56	WormBase_imported	mRNA	2150987	2162142	.	+	.	ID=transcript:SMEST062319002;Parent=gene:SMESG000062319;Name=SMEST062319002;info=method:InterPro accession:IPR000535 description:Major sperm protein (MSP) domain %0Amethod:InterPro accession:IPR008962 description:PapD-like superfamily %0Amethod:InterPro accession:IPR013783 description:Immunoglobulin-like fold %0Amethod:InterPro accession:IPR016763 description:Vesicle-associated membrane-protein-associated protein
+#microexons transcript:SMEST062319002:  1353 156 113 60 12 112 315
 dd_Smes_g4_56	WormBase_imported	mRNA	2150987	2187031	.	+	.	ID=transcript:SMEST062319007;Parent=gene:SMESG000062319;Name=SMEST062319007;info=method:InterPro accession:IPR000535 description:Major sperm protein (MSP) domain %0Amethod:InterPro accession:IPR008962 description:PapD-like superfamily %0Amethod:InterPro accession:IPR013783 description:Immunoglobulin-like fold %0Amethod:InterPro accession:IPR016763 description:Vesicle-associated membrane-protein-associated protein
+#microexons transcript:SMEST062319007:  1353 156 113 60 12-30-27 283 321 437
 dd_Smes_g4_56	WormBase_imported	exon	2150987	2152339	.	+	.	ID=exon:SMEST062319001.1;Parent=transcript:SMEST062319001
 dd_Smes_g4_56	WormBase_imported	exon	2152564	2152719	.	+	.	ID=exon:SMEST062319001.2;Parent=transcript:SMEST062319001
 dd_Smes_g4_56	WormBase_imported	exon	2152766	2153619	.	+	.	ID=exon:SMEST062319001.3;Parent=transcript:SMEST062319001
@@ -1931,8 +1968,11 @@ dd_Smes_g4_56	WormBase_imported	CDS	2186595	2186956	.	+	2	ID=cds:SMEST062319007;
 dd_Smes_g4_56	WormBase_imported	three_prime_UTR	2186957	2187031	.	+	.	Parent=transcript:SMEST062319007
 dd_Smes_g4_77	WormBase_imported	gene	876437	925645	.	-	.	ID=gene:SMESG000072549;Name=SMESG000072549;biotype=protein_coding
 dd_Smes_g4_77	WormBase_imported	mRNA	876437	925645	.	-	.	ID=transcript:SMEST072549001;Parent=gene:SMESG000072549;Name=SMEST072549001
+#microexons transcript:SMEST072549001:  122 72 102 156 315 282 312 336 312 315 288 63 225 197 90 78 51 33 42 21-24-24-21-18-24-24-27-21-27 25 147
 dd_Smes_g4_77	WormBase_imported	mRNA	876437	925645	.	-	.	ID=transcript:SMEST072549002;Parent=gene:SMESG000072549;Name=SMEST072549002
+#microexons transcript:SMEST072549002:  122 72 102 156 87 288 315 282 312 336 312 315 288 63 225 197 90 78 51 33 42 21-24-24-21-18-24-24-27-21-27 25 147
 dd_Smes_g4_77	WormBase_imported	mRNA	876437	925645	.	-	.	ID=transcript:SMEST072549003;Parent=gene:SMESG000072549;Name=SMEST072549003
+#microexons transcript:SMEST072549003:  122 72 102 156 309 288 315 282 312 336 312 315 288 63 225 197 90 78 51 33 42 21-24-24-21-18-24-24-27-21-27 25 147
 dd_Smes_g4_77	WormBase_imported	exon	925524	925645	.	-	.	ID=exon:SMEST072549001.1;Parent=transcript:SMEST072549001
 dd_Smes_g4_77	WormBase_imported	exon	925405	925476	.	-	.	ID=exon:SMEST072549001.2;Parent=transcript:SMEST072549001
 dd_Smes_g4_77	WormBase_imported	exon	925256	925357	.	-	.	ID=exon:SMEST072549001.3;Parent=transcript:SMEST072549001
@@ -2135,6 +2175,7 @@ dd_Smes_g4_77	WormBase_imported	CDS	876579	876583	.	-	2	ID=cds:SMEST072549003;Pa
 dd_Smes_g4_77	WormBase_imported	three_prime_UTR	876437	876578	.	-	.	Parent=transcript:SMEST072549003
 dd_Smes_g4_77	WormBase_imported	gene	951698	992046	.	-	.	ID=gene:SMESG000072553;Name=SMESG000072553;biotype=protein_coding
 dd_Smes_g4_77	WormBase_imported	mRNA	951698	992046	.	-	.	ID=transcript:SMEST072553001;Parent=gene:SMESG000072553;Name=SMEST072553001
+#microexons transcript:SMEST072553001:  14 108 33 33 33 48 21-24-24-27 48 49 106
 dd_Smes_g4_77	WormBase_imported	exon	992033	992046	.	-	.	ID=exon:SMEST072553001.1;Parent=transcript:SMEST072553001
 dd_Smes_g4_77	WormBase_imported	exon	987779	987886	.	-	.	ID=exon:SMEST072553001.2;Parent=transcript:SMEST072553001
 dd_Smes_g4_77	WormBase_imported	exon	987691	987723	.	-	.	ID=exon:SMEST072553001.3;Parent=transcript:SMEST072553001
@@ -2164,6 +2205,7 @@ dd_Smes_g4_77	WormBase_imported	three_prime_UTR	957547	957577	.	-	.	Parent=trans
 dd_Smes_g4_77	WormBase_imported	three_prime_UTR	951698	951803	.	-	.	Parent=transcript:SMEST072553001
 dd_Smes_g4_77	WormBase_imported	gene	1030685	1060456	.	-	.	ID=gene:SMESG000072295;Name=SMESG000072295;biotype=protein_coding
 dd_Smes_g4_77	WormBase_imported	mRNA	1030685	1060456	.	-	.	ID=transcript:SMEST072295002;Parent=gene:SMESG000072295;Name=SMEST072295002
+#microexons transcript:SMEST072295002:  302 315 318 303 309 288 336 203 90 51 84 90 24-24-27 48 30 48 117
 dd_Smes_g4_77	WormBase_imported	exon	1060155	1060456	.	-	.	ID=exon:SMEST072295002.1;Parent=transcript:SMEST072295002
 dd_Smes_g4_77	WormBase_imported	exon	1059793	1060107	.	-	.	ID=exon:SMEST072295002.2;Parent=transcript:SMEST072295002
 dd_Smes_g4_77	WormBase_imported	exon	1057493	1057810	.	-	.	ID=exon:SMEST072295002.3;Parent=transcript:SMEST072295002
@@ -2206,9 +2248,13 @@ dd_Smes_g4_77	WormBase_imported	three_prime_UTR	1030848	1030856	.	-	.	Parent=tra
 dd_Smes_g4_77	WormBase_imported	three_prime_UTR	1030685	1030801	.	-	.	Parent=transcript:SMEST072295002
 dd_Smes_g4_77	WormBase_imported	gene	1138277	1174146	.	-	.	ID=gene:SMESG000072303;Name=SMESG000072303;biotype=protein_coding
 dd_Smes_g4_77	WormBase_imported	mRNA	1138277	1173836	.	-	.	ID=transcript:SMEST072303001;Parent=gene:SMESG000072303;Name=SMEST072303001
+#microexons transcript:SMEST072303001:  302 297 285 312 282 315 318 309 76 281 336 203 90 72 51 96 24-24-27-15 48 27 132 130
 dd_Smes_g4_77	WormBase_imported	mRNA	1138277	1174146	.	-	.	ID=transcript:SMEST072303006;Parent=gene:SMESG000072303;Name=SMEST072303006
+#microexons transcript:SMEST072303006:  612 297 285 312 282 315 318 309 76 188 336 203 90 72 51 96 24-24-27-15 48 27 132 130
 dd_Smes_g4_77	WormBase_imported	mRNA	1138277	1174046	.	-	.	ID=transcript:SMEST072303007;Parent=gene:SMESG000072303;Name=SMEST072303007
+#microexons transcript:SMEST072303007:  512 297 285 312 282 315 318 309 76 281 336 203 90 72 51 96 24-24-27-15 48 27 132 130
 dd_Smes_g4_77	WormBase_imported	mRNA	1138277	1173756	.	-	.	ID=transcript:SMEST072303008;Parent=gene:SMESG000072303;Name=SMEST072303008
+#microexons transcript:SMEST072303008:  222 297 285 312 282 315 318 309 65 370 336 203 90 72 51 96 24-24-27-15 48 27 132 130
 dd_Smes_g4_77	WormBase_imported	exon	1173535	1173836	.	-	.	ID=exon:SMEST072303001.1;Parent=transcript:SMEST072303001
 dd_Smes_g4_77	WormBase_imported	exon	1172218	1172514	.	-	.	ID=exon:SMEST072303001.2;Parent=transcript:SMEST072303001
 dd_Smes_g4_77	WormBase_imported	exon	1171480	1171764	.	-	.	ID=exon:SMEST072303001.3;Parent=transcript:SMEST072303001
@@ -2411,8 +2457,11 @@ dd_Smes_g4_77	WormBase_imported	three_prime_UTR	1139685	1139765	.	-	.	Parent=tra
 dd_Smes_g4_77	WormBase_imported	three_prime_UTR	1138277	1138406	.	-	.	Parent=transcript:SMEST072303008
 dd_Smes_g4_77	WormBase_imported	gene	1267414	1287937	.	+	.	ID=gene:SMESG000072307;Name=SMESG000072307;biotype=protein_coding
 dd_Smes_g4_77	WormBase_imported	mRNA	1267414	1287937	.	+	.	ID=transcript:SMEST072307001;Parent=gene:SMESG000072307;Name=SMEST072307001
+#microexons transcript:SMEST072307001:  83 72 306 309 291 200 90 31 59 39 24 39 24-21-21-30-21-27-27-27-24-24 33 24 176
 dd_Smes_g4_77	WormBase_imported	mRNA	1267414	1287937	.	+	.	ID=transcript:SMEST072307002;Parent=gene:SMESG000072307;Name=SMEST072307002
+#microexons transcript:SMEST072307002:  83 72 306 309 291 200 90 31 59 39 27 39 24-21-21-30-21-27-27-27-24-24 33 24 176
 dd_Smes_g4_77	WormBase_imported	mRNA	1267414	1287643	.	+	.	ID=transcript:SMEST072307004;Parent=gene:SMESG000072307;Name=SMEST072307004
+#microexons transcript:SMEST072307004:  83 72 306 309 291 200 90 31 59 39 27 39 24-21-21-30-21-27-27-27-24-24 33 24 461
 dd_Smes_g4_77	WormBase_imported	exon	1267414	1267496	.	+	.	ID=exon:SMEST072307001.1;Parent=transcript:SMEST072307001
 dd_Smes_g4_77	WormBase_imported	exon	1267537	1267608	.	+	.	ID=exon:SMEST072307001.2;Parent=transcript:SMEST072307001
 dd_Smes_g4_77	WormBase_imported	exon	1267658	1267963	.	+	.	ID=exon:SMEST072307001.3;Parent=transcript:SMEST072307001
@@ -2571,10 +2620,15 @@ dd_Smes_g4_77	WormBase_imported	CDS	1287183	1287227	.	+	0	ID=cds:SMEST072307004;
 dd_Smes_g4_77	WormBase_imported	three_prime_UTR	1287228	1287643	.	+	.	Parent=transcript:SMEST072307004
 dd_Smes_g4_77	WormBase_imported	gene	1337507	1383606	.	-	.	ID=gene:SMESG000072317;Name=SMESG000072317;biotype=protein_coding
 dd_Smes_g4_77	WormBase_imported	mRNA	1337565	1383606	.	-	.	ID=transcript:SMEST072317006;Parent=gene:SMESG000072317;Name=SMEST072317006
+#microexons transcript:SMEST072317006:  402 288 288 315 288 315 318 312 288 336 200 90 81 42 27 60 24-24-24-27 48 21 133
 dd_Smes_g4_77	WormBase_imported	mRNA	1337565	1383606	.	-	.	ID=transcript:SMEST072317008;Parent=gene:SMESG000072317;Name=SMEST072317008
+#microexons transcript:SMEST072317008:  402 288 288 315 288 315 318 312 288 336 200 90 81 42 27 60 24-24-24-27 48 21 133
 dd_Smes_g4_77	WormBase_imported	mRNA	1337507	1383606	.	-	.	ID=transcript:SMEST072317009;Parent=gene:SMESG000072317;Name=SMEST072317009
+#microexons transcript:SMEST072317009:  402 288 288 315 318 312 315 288 336 200 90 81 42 27 60 24-24-24-27 48 21 191
 dd_Smes_g4_77	WormBase_imported	mRNA	1337507	1383606	.	-	.	ID=transcript:SMEST072317010;Parent=gene:SMESG000072317;Name=SMEST072317010
+#microexons transcript:SMEST072317010:  402 288 288 315 318 312 315 288 336 200 90 81 42 27 60 24-24-24-27 48 21 191
 dd_Smes_g4_77	WormBase_imported	mRNA	1337507	1383596	.	-	.	ID=transcript:SMEST072317012;Parent=gene:SMESG000072317;Name=SMEST072317012
+#microexons transcript:SMEST072317012:  392 288 288 315 288 315 56 148 315 288 336 200 90 81 42 27 60 24-24-24-27 48 21 191
 dd_Smes_g4_77	WormBase_imported	exon	1383205	1383606	.	-	.	ID=exon:SMEST072317006.1;Parent=transcript:SMEST072317006
 dd_Smes_g4_77	WormBase_imported	exon	1381619	1381906	.	-	.	ID=exon:SMEST072317006.2;Parent=transcript:SMEST072317006
 dd_Smes_g4_77	WormBase_imported	exon	1374827	1375114	.	-	.	ID=exon:SMEST072317006.3;Parent=transcript:SMEST072317006
@@ -2815,11 +2869,17 @@ dd_Smes_g4_77	WormBase_imported	three_prime_UTR	1346092	1346097	.	-	.	Parent=tra
 dd_Smes_g4_77	WormBase_imported	three_prime_UTR	1337507	1337697	.	-	.	Parent=transcript:SMEST072317012
 dd_Smes_g4_77	WormBase_imported	gene	1384410	1426146	.	-	.	ID=gene:SMESG000072318;Name=SMESG000072318;biotype=protein_coding
 dd_Smes_g4_77	WormBase_imported	mRNA	1385372	1397666	.	-	.	ID=transcript:SMEST072318001;Parent=gene:SMESG000072318;Name=SMEST072318001
+#microexons transcript:SMEST072318001:  326 203 90 123 36 27 42 24-24-24-27 45 27 75
 dd_Smes_g4_77	WormBase_imported	mRNA	1385372	1397676	.	-	.	ID=transcript:SMEST072318002;Parent=gene:SMESG000072318;Name=SMEST072318002
+#microexons transcript:SMEST072318002:  336 203 90 123 36 27 42 24-24-24-27 45 27 75
 dd_Smes_g4_77	WormBase_imported	mRNA	1385119	1425796	.	-	.	ID=transcript:SMEST072318006;Parent=gene:SMESG000072318;Name=SMEST072318006
+#microexons transcript:SMEST072318006:  1405 163 99 309 288 126 126 288 315 85 50 87 312 135 195 336 203 90 123 36 27 42 24-24-24-27 45 27 328
 dd_Smes_g4_77	WormBase_imported	mRNA	1384410	1424666	.	-	.	ID=transcript:SMEST072318017;Parent=gene:SMESG000072318;Name=SMEST072318017
+#microexons transcript:SMEST072318017:  275 163 99 138 13 68 288 315 85 50 87 312 309 195 336 203 90 123 36 27 42 24-24-24-27 45 27 1037
 dd_Smes_g4_77	WormBase_imported	mRNA	1398016	1426146	.	-	.	ID=transcript:SMEST072318039;Parent=gene:SMESG000072318;Name=SMEST072318039
+#microexons transcript:SMEST072318039:  1755 163 99 252 13 68 288 315 85 50 87 312 309 410
 dd_Smes_g4_77	WormBase_imported	mRNA	1397892	1424616	.	-	.	ID=transcript:SMEST072318042;Parent=gene:SMESG000072318;Name=SMEST072318042
+#microexons transcript:SMEST072318042:  225 163 99 138 13 68 288 315 85 50 87 312 135 534
 dd_Smes_g4_77	WormBase_imported	exon	1397341	1397666	.	-	.	ID=exon:SMEST072318001.1;Parent=transcript:SMEST072318001
 dd_Smes_g4_77	WormBase_imported	exon	1395234	1395436	.	-	.	ID=exon:SMEST072318001.2;Parent=transcript:SMEST072318001
 dd_Smes_g4_77	WormBase_imported	exon	1395095	1395184	.	-	.	ID=exon:SMEST072318001.3;Parent=transcript:SMEST072318001
@@ -3060,6 +3120,7 @@ dd_Smes_g4_77	WormBase_imported	CDS	1398205	1398425	.	-	2	ID=cds:SMEST072318042;
 dd_Smes_g4_77	WormBase_imported	three_prime_UTR	1397892	1398204	.	-	.	Parent=transcript:SMEST072318042
 dd_Smes_g4_79	WormBase_imported	gene	1970586	2006339	.	+	.	ID=gene:SMESG000073126;Name=SMESG000073126;biotype=protein_coding
 dd_Smes_g4_79	WormBase_imported	mRNA	1970586	2006339	.	+	.	ID=transcript:SMEST073126001;Parent=gene:SMESG000073126;Name=SMEST073126001
+#microexons transcript:SMEST073126001:  185 33 21-21-21-24-15-15-6 48 507
 dd_Smes_g4_79	WormBase_imported	exon	1970586	1970770	.	+	.	ID=exon:SMEST073126001.1;Parent=transcript:SMEST073126001
 dd_Smes_g4_79	WormBase_imported	exon	1973280	1973312	.	+	.	ID=exon:SMEST073126001.2;Parent=transcript:SMEST073126001
 dd_Smes_g4_79	WormBase_imported	exon	1973362	1973382	.	+	.	ID=exon:SMEST073126001.3;Parent=transcript:SMEST073126001
@@ -3086,6 +3147,7 @@ dd_Smes_g4_79	WormBase_imported	CDS	2005833	2006266	.	+	2	ID=cds:SMEST073126001;
 dd_Smes_g4_79	WormBase_imported	three_prime_UTR	2006267	2006339	.	+	.	Parent=transcript:SMEST073126001
 dd_Smes_g4_80	WormBase_imported	gene	1326626	1330201	.	-	.	ID=gene:SMESG000074409;Name=SMESG000074409;biotype=protein_coding
 dd_Smes_g4_80	WormBase_imported	mRNA	1326626	1330201	.	-	.	ID=transcript:SMEST074409001;Parent=gene:SMESG000074409;Name=SMEST074409001
+#microexons transcript:SMEST074409001:  220 39 30-30-21 45 30-24 151
 dd_Smes_g4_80	WormBase_imported	pseudogene	1326626	1330201	.	-	.	ID=transcript:SMEST074409002;Parent=gene:SMESG000074409;Name=SMEST074409002
 dd_Smes_g4_80	WormBase_imported	exon	1329982	1330201	.	-	.	ID=exon:SMEST074409001.1;Parent=transcript:SMEST074409001
 dd_Smes_g4_80	WormBase_imported	exon	1328959	1328997	.	-	.	ID=exon:SMEST074409001.2;Parent=transcript:SMEST074409001
@@ -3119,9 +3181,13 @@ dd_Smes_g4_80	WormBase_imported	CDS	1326706	1326776	.	-	2	ID=cds:SMEST074409001;
 dd_Smes_g4_80	WormBase_imported	three_prime_UTR	1326626	1326705	.	-	.	Parent=transcript:SMEST074409001
 dd_Smes_g4_80	WormBase_imported	gene	1363828	1387391	.	-	.	ID=gene:SMESG000074416;Name=SMESG000074416;biotype=protein_coding
 dd_Smes_g4_80	WormBase_imported	mRNA	1363828	1387381	.	-	.	ID=transcript:SMEST074416001;Parent=gene:SMESG000074416;Name=SMEST074416001;info=method:InterPro accession:IPR000719 description:Protein kinase domain %0Amethod:InterPro accession:IPR011009 description:Protein kinase-like domain superfamily
+#microexons transcript:SMEST074416001:  215 39 30-30-21 45 30-24 51 30 51 42 42 42 223 219 213 268 127 222 321
 dd_Smes_g4_80	WormBase_imported	mRNA	1363828	1387391	.	-	.	ID=transcript:SMEST074416002;Parent=gene:SMESG000074416;Name=SMEST074416002;info=method:InterPro accession:IPR000719 description:Protein kinase domain %0Amethod:InterPro accession:IPR001245 description:Serine-threonine/tyrosine-protein kinase%2C catalytic domain %0Amethod:InterPro accession:IPR011009 description:Protein kinase-like domain superfamily
+#microexons transcript:SMEST074416002:  225 39 30-30-21 45 30-24 51 30 51 42 42 42 223 219 213 268 127 222 321
 dd_Smes_g4_80	WormBase_imported	mRNA	1363828	1387381	.	-	.	ID=transcript:SMEST074416003;Parent=gene:SMESG000074416;Name=SMEST074416003;info=method:InterPro accession:IPR000719 description:Protein kinase domain %0Amethod:InterPro accession:IPR011009 description:Protein kinase-like domain superfamily
+#microexons transcript:SMEST074416003:  215 39 30-30-21 45 30-24 51 30 51 42 42 42 33 223 219 213 268 127 222 321
 dd_Smes_g4_80	WormBase_imported	mRNA	1363828	1387391	.	-	.	ID=transcript:SMEST074416004;Parent=gene:SMESG000074416;Name=SMEST074416004;info=method:InterPro accession:IPR000719 description:Protein kinase domain %0Amethod:InterPro accession:IPR011009 description:Protein kinase-like domain superfamily
+#microexons transcript:SMEST074416004:  225 39 30-30-21 45 30-24 51 30 51 42 42 42 33 223 219 213 268 127 222 321
 dd_Smes_g4_80	WormBase_imported	exon	1387167	1387381	.	-	.	ID=exon:SMEST074416001.1;Parent=transcript:SMEST074416001
 dd_Smes_g4_80	WormBase_imported	exon	1386228	1386266	.	-	.	ID=exon:SMEST074416001.2;Parent=transcript:SMEST074416001
 dd_Smes_g4_80	WormBase_imported	exon	1386147	1386176	.	-	.	ID=exon:SMEST074416001.3;Parent=transcript:SMEST074416001
@@ -3304,7 +3370,9 @@ dd_Smes_g4_80	WormBase_imported	CDS	1363952	1364148	.	-	2	ID=cds:SMEST074416004;
 dd_Smes_g4_80	WormBase_imported	three_prime_UTR	1363828	1363951	.	-	.	Parent=transcript:SMEST074416004
 dd_Smes_g4_82	WormBase_imported	gene	984108	1005499	.	-	.	ID=gene:SMESG000074914;Name=SMESG000074914;biotype=protein_coding
 dd_Smes_g4_82	WormBase_imported	mRNA	984108	1005409	.	-	.	ID=transcript:SMEST074914001;Parent=gene:SMESG000074914;Name=SMEST074914001;info=method:InterPro accession:IPR000719 description:Protein kinase domain %0Amethod:InterPro accession:IPR011009 description:Protein kinase-like domain superfamily %0Amethod:InterPro accession:IPR029071 description:Ubiquitin-like domain superfamily
+#microexons transcript:SMEST074914001:  193 39 30-21-30 60 30 54 57 54 57 57 259 225 234 262 130 222 212 218
 dd_Smes_g4_82	WormBase_imported	mRNA	984108	1005499	.	-	.	ID=transcript:SMEST074914002;Parent=gene:SMESG000074914;Name=SMEST074914002;info=method:InterPro accession:IPR000719 description:Protein kinase domain %0Amethod:InterPro accession:IPR011009 description:Protein kinase-like domain superfamily %0Amethod:InterPro accession:IPR029071 description:Ubiquitin-like domain superfamily
+#microexons transcript:SMEST074914002:  283 39 30-21-30 60 30 54 57 54 57 57 259 225 234 262 130 222 212 218
 dd_Smes_g4_82	WormBase_imported	exon	1005217	1005409	.	-	.	ID=exon:SMEST074914001.1;Parent=transcript:SMEST074914001
 dd_Smes_g4_82	WormBase_imported	exon	1000622	1000660	.	-	.	ID=exon:SMEST074914001.2;Parent=transcript:SMEST074914001
 dd_Smes_g4_82	WormBase_imported	exon	1000546	1000575	.	-	.	ID=exon:SMEST074914001.3;Parent=transcript:SMEST074914001
@@ -3391,7 +3459,9 @@ dd_Smes_g4_82	WormBase_imported	three_prime_UTR	984368	984376	.	-	.	Parent=trans
 dd_Smes_g4_82	WormBase_imported	three_prime_UTR	984108	984325	.	-	.	Parent=transcript:SMEST074914002
 dd_Smes_g4_82	WormBase_imported	gene	1006067	1033215	.	+	.	ID=gene:SMESG000074915;Name=SMESG000074915;biotype=protein_coding
 dd_Smes_g4_82	WormBase_imported	mRNA	1006067	1033215	.	+	.	ID=transcript:SMEST074915001;Parent=gene:SMESG000074915;Name=SMEST074915001;info=method:InterPro accession:IPR000626 description:Ubiquitin domain %0Amethod:InterPro accession:IPR029071 description:Ubiquitin-like domain superfamily
+#microexons transcript:SMEST074915001:  301 39 30-27-30-30 60 30 45 51 42 244 243 232 99
 dd_Smes_g4_82	WormBase_imported	mRNA	1006067	1033215	.	+	.	ID=transcript:SMEST074915002;Parent=gene:SMESG000074915;Name=SMEST074915002;info=method:InterPro accession:IPR000626 description:Ubiquitin domain %0Amethod:InterPro accession:IPR029071 description:Ubiquitin-like domain superfamily
+#microexons transcript:SMEST074915002:  301 39 30-27-30-30 60 30 45 51 42 244 243 232 99
 dd_Smes_g4_82	WormBase_imported	exon	1006067	1006367	.	+	.	ID=exon:SMEST074915001.1;Parent=transcript:SMEST074915001
 dd_Smes_g4_82	WormBase_imported	exon	1009484	1009522	.	+	.	ID=exon:SMEST074915001.2;Parent=transcript:SMEST074915001
 dd_Smes_g4_82	WormBase_imported	exon	1009564	1009593	.	+	.	ID=exon:SMEST074915001.3;Parent=transcript:SMEST074915001
@@ -3458,6 +3528,7 @@ dd_Smes_g4_82	WormBase_imported	three_prime_UTR	1032970	1033071	.	+	.	Parent=tra
 dd_Smes_g4_82	WormBase_imported	three_prime_UTR	1033117	1033215	.	+	.	Parent=transcript:SMEST074915002
 dd_Smes_g4_82	WormBase_imported	gene	1093077	1130259	.	-	.	ID=gene:SMESG000074923;Name=SMESG000074923;biotype=protein_coding
 dd_Smes_g4_82	WormBase_imported	mRNA	1093077	1130259	.	-	.	ID=transcript:SMEST074923001;Parent=gene:SMESG000074923;Name=SMEST074923001;info=method:InterPro accession:IPR000719 description:Protein kinase domain %0Amethod:InterPro accession:IPR001245 description:Serine-threonine/tyrosine-protein kinase%2C catalytic domain %0Amethod:InterPro accession:IPR011009 description:Protein kinase-like domain superfamily %0Amethod:InterPro accession:IPR029071 description:Ubiquitin-like domain superfamily
+#microexons transcript:SMEST074923001:  264 39 30-27-30-30 60 30 39 39 42 42 244 243 231 262 127 225 300
 dd_Smes_g4_82	WormBase_imported	exon	1129996	1130259	.	-	.	ID=exon:SMEST074923001.1;Parent=transcript:SMEST074923001
 dd_Smes_g4_82	WormBase_imported	exon	1114297	1114335	.	-	.	ID=exon:SMEST074923001.2;Parent=transcript:SMEST074923001
 dd_Smes_g4_82	WormBase_imported	exon	1114220	1114249	.	-	.	ID=exon:SMEST074923001.3;Parent=transcript:SMEST074923001
@@ -3500,6 +3571,7 @@ dd_Smes_g4_82	WormBase_imported	CDS	1093180	1093376	.	-	2	ID=cds:SMEST074923001;
 dd_Smes_g4_82	WormBase_imported	three_prime_UTR	1093077	1093179	.	-	.	Parent=transcript:SMEST074923001
 dd_Smes_g4_82	WormBase_imported	gene	1228230	1251039	.	-	.	ID=gene:SMESG000074938;Name=SMESG000074938;biotype=protein_coding
 dd_Smes_g4_82	WormBase_imported	mRNA	1228230	1251039	.	-	.	ID=transcript:SMEST074938001;Parent=gene:SMESG000074938;Name=SMEST074938001;info=method:InterPro accession:IPR000626 description:Ubiquitin domain %0Amethod:InterPro accession:IPR000719 description:Protein kinase domain %0Amethod:InterPro accession:IPR001245 description:Serine-threonine/tyrosine-protein kinase%2C catalytic domain %0Amethod:InterPro accession:IPR008271 description:Serine/threonine-protein kinase%2C active site %0Amethod:InterPro accession:IPR011009 description:Protein kinase-like domain superfamily %0Amethod:InterPro accession:IPR029071 description:Ubiquitin-like domain superfamily
+#microexons transcript:SMEST074938001:  277 39 30-30-27 42 27 60 42 57 57 57 45 45 268 216 234 262 130 216 226
 dd_Smes_g4_82	WormBase_imported	exon	1250763	1251039	.	-	.	ID=exon:SMEST074938001.1;Parent=transcript:SMEST074938001
 dd_Smes_g4_82	WormBase_imported	exon	1249944	1249982	.	-	.	ID=exon:SMEST074938001.2;Parent=transcript:SMEST074938001
 dd_Smes_g4_82	WormBase_imported	exon	1249105	1249134	.	-	.	ID=exon:SMEST074938001.3;Parent=transcript:SMEST074938001
@@ -3546,8 +3618,11 @@ dd_Smes_g4_82	WormBase_imported	CDS	1228265	1228455	.	-	2	ID=cds:SMEST074938001;
 dd_Smes_g4_82	WormBase_imported	three_prime_UTR	1228230	1228264	.	-	.	Parent=transcript:SMEST074938001
 dd_Smes_g4_91	WormBase_imported	gene	1144715	1180782	.	-	.	ID=gene:SMESG000078496;Name=SMESG000078496;biotype=protein_coding
 dd_Smes_g4_91	WormBase_imported	mRNA	1144715	1180782	.	-	.	ID=transcript:SMEST078496001;Parent=gene:SMESG000078496;Name=SMEST078496001;info=method:InterPro accession:IPR011701 description:Major facilitator superfamily %0Amethod:InterPro accession:IPR020846 description:Major facilitator superfamily domain %0Amethod:InterPro accession:IPR036259 description:MFS transporter superfamily
+#microexons transcript:SMEST078496001:  42 154 192 166 105 72 18-27-18-21-21-18-21-21-15-18 63 114 42 63 63 60 60 114 48 57 51 57 127 135 104 164 292
 dd_Smes_g4_91	WormBase_imported	mRNA	1144719	1180782	.	-	.	ID=transcript:SMEST078496002;Parent=gene:SMESG000078496;Name=SMEST078496002;info=method:InterPro accession:IPR011701 description:Major facilitator superfamily %0Amethod:InterPro accession:IPR020846 description:Major facilitator superfamily domain %0Amethod:InterPro accession:IPR036259 description:MFS transporter superfamily
+#microexons transcript:SMEST078496002:  42 154 192 166 105 72 18-27-18-21-21-18-21-21-15-18 63 126 42 63 63 60 60 51 48 57 51 57 127 135 104 164 288
 dd_Smes_g4_91	WormBase_imported	mRNA	1144715	1180782	.	-	.	ID=transcript:SMEST078496003;Parent=gene:SMESG000078496;Name=SMEST078496003;info=method:InterPro accession:IPR011701 description:Major facilitator superfamily %0Amethod:InterPro accession:IPR020846 description:Major facilitator superfamily domain %0Amethod:InterPro accession:IPR036259 description:MFS transporter superfamily
+#microexons transcript:SMEST078496003:  42 154 192 166 105 72 18-27-18-21-21-18-21-21-15-18 63 126 42 63 63 60 60 114 48 57 51 57 127 135 104 164 292
 dd_Smes_g4_91	WormBase_imported	exon	1180741	1180782	.	-	.	ID=exon:SMEST078496001.1;Parent=transcript:SMEST078496001
 dd_Smes_g4_91	WormBase_imported	exon	1180527	1180680	.	-	.	ID=exon:SMEST078496001.2;Parent=transcript:SMEST078496001
 dd_Smes_g4_91	WormBase_imported	exon	1179865	1180056	.	-	.	ID=exon:SMEST078496001.3;Parent=transcript:SMEST078496001
@@ -3754,6 +3829,7 @@ dd_Smes_g4_91	WormBase_imported	CDS	1144818	1145006	.	-	0	ID=cds:SMEST078496003;
 dd_Smes_g4_91	WormBase_imported	three_prime_UTR	1144715	1144817	.	-	.	Parent=transcript:SMEST078496003
 dd_Smes_g4_93	WormBase_imported	gene	2374714	2392534	.	-	.	ID=gene:SMESG000079259;Name=SMESG000079259;biotype=protein_coding
 dd_Smes_g4_93	WormBase_imported	mRNA	2374714	2392534	.	-	.	ID=transcript:SMEST079259002;Parent=gene:SMESG000079259;Name=SMEST079259002;info=method:InterPro accession:IPR006629 description:LPS-induced tumour necrosis factor alpha factor
+#microexons transcript:SMEST079259002:  86 21-24-24 174
 dd_Smes_g4_93	WormBase_imported	exon	2392449	2392534	.	-	.	ID=exon:SMEST079259002.1;Parent=transcript:SMEST079259002
 dd_Smes_g4_93	WormBase_imported	exon	2392380	2392400	.	-	.	ID=exon:SMEST079259002.2;Parent=transcript:SMEST079259002
 dd_Smes_g4_93	WormBase_imported	exon	2384202	2384225	.	-	.	ID=exon:SMEST079259002.3;Parent=transcript:SMEST079259002
@@ -3768,8 +3844,11 @@ dd_Smes_g4_93	WormBase_imported	CDS	2374751	2374887	.	-	2	ID=cds:SMEST079259002;
 dd_Smes_g4_93	WormBase_imported	three_prime_UTR	2374714	2374750	.	-	.	Parent=transcript:SMEST079259002
 dd_Smes_g4_94	WormBase_imported	gene	2300293	2317576	.	-	.	ID=gene:SMESG000079569;Name=SMESG000079569;biotype=protein_coding
 dd_Smes_g4_94	WormBase_imported	mRNA	2304393	2317396	.	-	.	ID=transcript:SMEST079569001;Parent=gene:SMESG000079569;Name=SMEST079569001
+#microexons transcript:SMEST079569001:  177 186 196 52 9-30-24 155 139 30 36 42 69 62 197
 dd_Smes_g4_94	WormBase_imported	mRNA	2300293	2317576	.	-	.	ID=transcript:SMEST079569003;Parent=gene:SMESG000079569;Name=SMEST079569003
+#microexons transcript:SMEST079569003:  357 186 196 73 9-30-24 155 139 30 36 42 69 62 279
 dd_Smes_g4_94	WormBase_imported	mRNA	2304393	2317456	.	-	.	ID=transcript:SMEST079569004;Parent=gene:SMESG000079569;Name=SMEST079569004
+#microexons transcript:SMEST079569004:  237 186 196 52 9-30 40 34 139 30 36 42 69 59 197
 dd_Smes_g4_94	WormBase_imported	exon	2317220	2317396	.	-	.	ID=exon:SMEST079569001.1;Parent=transcript:SMEST079569001
 dd_Smes_g4_94	WormBase_imported	exon	2316990	2317175	.	-	.	ID=exon:SMEST079569001.2;Parent=transcript:SMEST079569001
 dd_Smes_g4_94	WormBase_imported	exon	2316739	2316934	.	-	.	ID=exon:SMEST079569001.3;Parent=transcript:SMEST079569001
@@ -3868,6 +3947,7 @@ dd_Smes_g4_94	WormBase_imported	CDS	2304587	2304589	.	-	0	ID=cds:SMEST079569004;
 dd_Smes_g4_94	WormBase_imported	three_prime_UTR	2304393	2304586	.	-	.	Parent=transcript:SMEST079569004
 dd_Smes_g4_111	WormBase_imported	gene	1852421	1876300	.	-	.	ID=gene:SMESG000003859;Name=SMESG000003859;biotype=protein_coding
 dd_Smes_g4_111	WormBase_imported	mRNA	1852421	1876300	.	-	.	ID=transcript:SMEST003859001;Parent=gene:SMESG000003859;Name=SMEST003859001;info=method:InterPro accession:IPR000719 description:Protein kinase domain %0Amethod:InterPro accession:IPR011009 description:Protein kinase-like domain superfamily
+#microexons transcript:SMEST003859001:  210 39 30-30-30 60 30 66 256 240 231 42 241 142 192 328
 dd_Smes_g4_111	WormBase_imported	exon	1876091	1876300	.	-	.	ID=exon:SMEST003859001.1;Parent=transcript:SMEST003859001
 dd_Smes_g4_111	WormBase_imported	exon	1871276	1871314	.	-	.	ID=exon:SMEST003859001.2;Parent=transcript:SMEST003859001
 dd_Smes_g4_111	WormBase_imported	exon	1871203	1871232	.	-	.	ID=exon:SMEST003859001.3;Parent=transcript:SMEST003859001
@@ -3904,6 +3984,7 @@ dd_Smes_g4_111	WormBase_imported	CDS	1852564	1852748	.	-	2	ID=cds:SMEST003859001
 dd_Smes_g4_111	WormBase_imported	three_prime_UTR	1852421	1852563	.	-	.	Parent=transcript:SMEST003859001
 dd_Smes_g4_111	WormBase_imported	gene	1881705	1894620	.	-	.	ID=gene:SMESG000003862;Name=SMESG000003862;biotype=protein_coding
 dd_Smes_g4_111	WormBase_imported	mRNA	1881705	1894620	.	-	.	ID=transcript:SMEST003862001;Parent=gene:SMESG000003862;Name=SMEST003862001;info=method:InterPro accession:IPR000626 description:Ubiquitin domain %0Amethod:InterPro accession:IPR000719 description:Protein kinase domain %0Amethod:InterPro accession:IPR011009 description:Protein kinase-like domain superfamily %0Amethod:InterPro accession:IPR029071 description:Ubiquitin-like domain superfamily %0Amethod:InterPro accession:IPR039540 description:UBL3-like%2C ubiquitin domain
+#microexons transcript:SMEST003862001:  185 39 30-30-30 60 30 66 259 237 225 51 256 142 192 351
 dd_Smes_g4_111	WormBase_imported	exon	1894436	1894620	.	-	.	ID=exon:SMEST003862001.1;Parent=transcript:SMEST003862001
 dd_Smes_g4_111	WormBase_imported	exon	1890121	1890159	.	-	.	ID=exon:SMEST003862001.2;Parent=transcript:SMEST003862001
 dd_Smes_g4_111	WormBase_imported	exon	1890045	1890074	.	-	.	ID=exon:SMEST003862001.3;Parent=transcript:SMEST003862001
@@ -3940,7 +4021,9 @@ dd_Smes_g4_111	WormBase_imported	CDS	1881868	1882055	.	-	2	ID=cds:SMEST003862001
 dd_Smes_g4_111	WormBase_imported	three_prime_UTR	1881705	1881867	.	-	.	Parent=transcript:SMEST003862001
 dd_Smes_g4_111	WormBase_imported	gene	2054036	2070410	.	-	.	ID=gene:SMESG000003887;Name=SMESG000003887;biotype=protein_coding
 dd_Smes_g4_111	WormBase_imported	mRNA	2054075	2070410	.	-	.	ID=transcript:SMEST003887001;Parent=gene:SMESG000003887;Name=SMEST003887001;info=method:InterPro accession:IPR000626 description:Ubiquitin domain %0Amethod:InterPro accession:IPR000719 description:Protein kinase domain %0Amethod:InterPro accession:IPR011009 description:Protein kinase-like domain superfamily %0Amethod:InterPro accession:IPR029071 description:Ubiquitin-like domain superfamily %0Amethod:InterPro accession:IPR039540 description:UBL3-like%2C ubiquitin domain
+#microexons transcript:SMEST003887001:  401 39 30-30-30 60 30 63 259 237 228 529 142 192 330
 dd_Smes_g4_111	WormBase_imported	mRNA	2054036	2070400	.	-	.	ID=transcript:SMEST003887002;Parent=gene:SMESG000003887;Name=SMEST003887002;info=method:InterPro accession:IPR000626 description:Ubiquitin domain %0Amethod:InterPro accession:IPR000719 description:Protein kinase domain %0Amethod:InterPro accession:IPR011009 description:Protein kinase-like domain superfamily %0Amethod:InterPro accession:IPR029071 description:Ubiquitin-like domain superfamily %0Amethod:InterPro accession:IPR039540 description:UBL3-like%2C ubiquitin domain
+#microexons transcript:SMEST003887002:  391 39 30-30-30 60 30 63 259 237 228 529 142 192 369
 dd_Smes_g4_111	WormBase_imported	exon	2070010	2070410	.	-	.	ID=exon:SMEST003887001.1;Parent=transcript:SMEST003887001
 dd_Smes_g4_111	WormBase_imported	exon	2067987	2068025	.	-	.	ID=exon:SMEST003887001.2;Parent=transcript:SMEST003887001
 dd_Smes_g4_111	WormBase_imported	exon	2067910	2067939	.	-	.	ID=exon:SMEST003887001.3;Parent=transcript:SMEST003887001
@@ -4007,11 +4090,17 @@ dd_Smes_g4_111	WormBase_imported	CDS	2054178	2054404	.	-	2	ID=cds:SMEST003887002
 dd_Smes_g4_111	WormBase_imported	three_prime_UTR	2054036	2054177	.	-	.	Parent=transcript:SMEST003887002
 dd_Smes_g4_125	WormBase_imported	gene	340929	368568	.	-	.	ID=gene:SMESG000007756;Name=SMESG000007756;biotype=protein_coding
 dd_Smes_g4_125	WormBase_imported	mRNA	340959	368568	.	-	.	ID=transcript:SMEST007756001;Parent=gene:SMESG000007756;Name=SMEST007756001;info=method:InterPro accession:IPR001309 description:Peptidase C14%2C  p20 domain %0Amethod:InterPro accession:IPR002138 description:Peptidase C14%2C caspase non-catalytic subunit p10 %0Amethod:InterPro accession:IPR002398 description:Peptidase C14 family %0Amethod:InterPro accession:IPR015917 description:Peptidase C14A%2C caspase catalytic domain %0Amethod:InterPro accession:IPR029030 description:Caspase-like domain superfamily
+#microexons transcript:SMEST007756001:  286 198 218 27-21-18 122 256 211 237
 dd_Smes_g4_125	WormBase_imported	mRNA	340959	368568	.	-	.	ID=transcript:SMEST007756002;Parent=gene:SMESG000007756;Name=SMEST007756002;info=method:InterPro accession:IPR001309 description:Peptidase C14%2C  p20 domain %0Amethod:InterPro accession:IPR002138 description:Peptidase C14%2C caspase non-catalytic subunit p10 %0Amethod:InterPro accession:IPR002398 description:Peptidase C14 family %0Amethod:InterPro accession:IPR015917 description:Peptidase C14A%2C caspase catalytic domain %0Amethod:InterPro accession:IPR029030 description:Caspase-like domain superfamily
+#microexons transcript:SMEST007756002:  286 198 218 12-21-18 122 256 211 237
 dd_Smes_g4_125	WormBase_imported	mRNA	340959	368568	.	-	.	ID=transcript:SMEST007756003;Parent=gene:SMESG000007756;Name=SMEST007756003;info=method:InterPro accession:IPR001309 description:Peptidase C14%2C  p20 domain %0Amethod:InterPro accession:IPR002138 description:Peptidase C14%2C caspase non-catalytic subunit p10 %0Amethod:InterPro accession:IPR002398 description:Peptidase C14 family %0Amethod:InterPro accession:IPR015917 description:Peptidase C14A%2C caspase catalytic domain %0Amethod:InterPro accession:IPR029030 description:Caspase-like domain superfamily
+#microexons transcript:SMEST007756003:  286 198 218 27-21-18 122 256 211 237
 dd_Smes_g4_125	WormBase_imported	mRNA	340929	368568	.	-	.	ID=transcript:SMEST007756004;Parent=gene:SMESG000007756;Name=SMEST007756004;info=method:InterPro accession:IPR001309 description:Peptidase C14%2C  p20 domain %0Amethod:InterPro accession:IPR002138 description:Peptidase C14%2C caspase non-catalytic subunit p10 %0Amethod:InterPro accession:IPR002398 description:Peptidase C14 family %0Amethod:InterPro accession:IPR015917 description:Peptidase C14A%2C caspase catalytic domain %0Amethod:InterPro accession:IPR029030 description:Caspase-like domain superfamily
+#microexons transcript:SMEST007756004:  286 198 218 12-21-18 122 256 211 267
 dd_Smes_g4_125	WormBase_imported	mRNA	366869	368568	.	-	.	ID=transcript:SMEST007756005;Parent=gene:SMESG000007756;Name=SMEST007756005
+#microexons transcript:SMEST007756005:  286 198 218 12 182 134
 dd_Smes_g4_125	WormBase_imported	mRNA	366869	368568	.	-	.	ID=transcript:SMEST007756006;Parent=gene:SMESG000007756;Name=SMEST007756006
+#microexons transcript:SMEST007756006:  286 198 218 12 182 134
 dd_Smes_g4_125	WormBase_imported	exon	368283	368568	.	-	.	ID=exon:SMEST007756001.1;Parent=transcript:SMEST007756001
 dd_Smes_g4_125	WormBase_imported	exon	368043	368240	.	-	.	ID=exon:SMEST007756001.2;Parent=transcript:SMEST007756001
 dd_Smes_g4_125	WormBase_imported	exon	367783	368000	.	-	.	ID=exon:SMEST007756001.3;Parent=transcript:SMEST007756001
@@ -4130,6 +4219,7 @@ dd_Smes_g4_125	WormBase_imported	three_prime_UTR	367052	367201	.	-	.	Parent=tran
 dd_Smes_g4_125	WormBase_imported	three_prime_UTR	366869	367002	.	-	.	Parent=transcript:SMEST007756006
 dd_Smes_g4_128	WormBase_imported	gene	1642904	1662605	.	-	.	ID=gene:SMESG000008405;Name=SMESG000008405;biotype=protein_coding
 dd_Smes_g4_128	WormBase_imported	mRNA	1642904	1662605	.	-	.	ID=transcript:SMEST008405001;Parent=gene:SMESG000008405;Name=SMEST008405001;info=method:InterPro accession:IPR001577 description:Peptidase M8%2C leishmanolysin
+#microexons transcript:SMEST008405001:  303 132 86 112 161 103 104 109 108 80 111 220 55 107 138 27-27-24 190
 dd_Smes_g4_128	WormBase_imported	exon	1662303	1662605	.	-	.	ID=exon:SMEST008405001.1;Parent=transcript:SMEST008405001
 dd_Smes_g4_128	WormBase_imported	exon	1660618	1660749	.	-	.	ID=exon:SMEST008405001.2;Parent=transcript:SMEST008405001
 dd_Smes_g4_128	WormBase_imported	exon	1660484	1660569	.	-	.	ID=exon:SMEST008405001.3;Parent=transcript:SMEST008405001
@@ -4172,7 +4262,9 @@ dd_Smes_g4_128	WormBase_imported	CDS	1643055	1643093	.	-	0	ID=cds:SMEST008405001
 dd_Smes_g4_128	WormBase_imported	three_prime_UTR	1642904	1643054	.	-	.	Parent=transcript:SMEST008405001
 dd_Smes_g4_179	WormBase_imported	gene	838168	884775	.	-	.	ID=gene:SMESG000020728;Name=SMESG000020728;biotype=protein_coding
 dd_Smes_g4_179	WormBase_imported	mRNA	838168	884775	.	-	.	ID=transcript:SMEST020728001;Parent=gene:SMESG000020728;Name=SMEST020728001;info=method:InterPro accession:IPR001841 description:Zinc finger%2C RING-type %0Amethod:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR013083 description:Zinc finger%2C RING/FYVE/PHD-type %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily %0Amethod:InterPro accession:IPR040847 description:Mind bomb%2C SH3 repeat domain
+#microexons transcript:SMEST020728001:  187 123 127 66 69 33 204 27 83 297 20 22 48 75 21-21-27-27 192
 dd_Smes_g4_179	WormBase_imported	mRNA	838168	884775	.	-	.	ID=transcript:SMEST020728002;Parent=gene:SMESG000020728;Name=SMEST020728002;info=method:InterPro accession:IPR001841 description:Zinc finger%2C RING-type %0Amethod:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR013083 description:Zinc finger%2C RING/FYVE/PHD-type %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily %0Amethod:InterPro accession:IPR040847 description:Mind bomb%2C SH3 repeat domain
+#microexons transcript:SMEST020728002:  187 123 127 66 69 33 204 27-12 83 297 20 22 48 75 21-21-27-27 192
 dd_Smes_g4_179	WormBase_imported	exon	884589	884775	.	-	.	ID=exon:SMEST020728001.1;Parent=transcript:SMEST020728001
 dd_Smes_g4_179	WormBase_imported	exon	877277	877399	.	-	.	ID=exon:SMEST020728001.2;Parent=transcript:SMEST020728001
 dd_Smes_g4_179	WormBase_imported	exon	875299	875425	.	-	.	ID=exon:SMEST020728001.3;Parent=transcript:SMEST020728001

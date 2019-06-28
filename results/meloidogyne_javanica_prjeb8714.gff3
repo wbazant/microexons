@@ -1,5 +1,6 @@
 M.Javanica_Scaff654	WormBase_imported	gene	6375	7500	.	-	.	ID=gene:M.Javanica_Scaff654g008576;Name=M.Javanica_Scaff654g008576;biotype=protein_coding
 M.Javanica_Scaff654	WormBase_imported	mRNA	6375	7500	.	-	.	ID=transcript:M.Javanica_Scaff654g008576;Parent=gene:M.Javanica_Scaff654g008576;Name=M.Javanica_Scaff654g008576
+#microexons transcript:M.Javanica_Scaff654g008576:  83 33 27-15-27 17 105 214
 M.Javanica_Scaff654	WormBase_imported	exon	7418	7500	.	-	.	ID=exon:M.Javanica_Scaff654g008576.1;Parent=transcript:M.Javanica_Scaff654g008576
 M.Javanica_Scaff654	WormBase_imported	exon	7342	7374	.	-	.	ID=exon:M.Javanica_Scaff654g008576.2;Parent=transcript:M.Javanica_Scaff654g008576
 M.Javanica_Scaff654	WormBase_imported	exon	7273	7299	.	-	.	ID=exon:M.Javanica_Scaff654g008576.3;Parent=transcript:M.Javanica_Scaff654g008576
@@ -19,6 +20,7 @@ M.Javanica_Scaff654	WormBase_imported	CDS	6476	6588	.	-	2	ID=cds:M.Javanica_Scaf
 M.Javanica_Scaff654	WormBase_imported	three_prime_UTR	6375	6475	.	-	.	Parent=transcript:M.Javanica_Scaff654g008576
 M.Javanica_Scaff15023	WormBase_imported	gene	2539	3569	.	-	.	ID=gene:M.Javanica_Scaff15023g071349;Name=M.Javanica_Scaff15023g071349;biotype=protein_coding
 M.Javanica_Scaff15023	WormBase_imported	mRNA	2539	3569	.	-	.	ID=transcript:M.Javanica_Scaff15023g071349;Parent=gene:M.Javanica_Scaff15023g071349;Name=M.Javanica_Scaff15023g071349
+#microexons transcript:M.Javanica_Scaff15023g071349:  86 33 27-15-27 17 105 114
 M.Javanica_Scaff15023	WormBase_imported	exon	3484	3569	.	-	.	ID=exon:M.Javanica_Scaff15023g071349.1;Parent=transcript:M.Javanica_Scaff15023g071349
 M.Javanica_Scaff15023	WormBase_imported	exon	3405	3437	.	-	.	ID=exon:M.Javanica_Scaff15023g071349.2;Parent=transcript:M.Javanica_Scaff15023g071349
 M.Javanica_Scaff15023	WormBase_imported	exon	3332	3358	.	-	.	ID=exon:M.Javanica_Scaff15023g071349.3;Parent=transcript:M.Javanica_Scaff15023g071349

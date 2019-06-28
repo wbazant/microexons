@@ -1,5 +1,6 @@
 BPAG_scaffold0000300	WormBase_imported	gene	32178	37233	.	-	.	ID=gene:BPAG_0001374501;Name=BPAG_0001374501;biotype=protein_coding
 BPAG_scaffold0000300	WormBase_imported	mRNA	32178	37233	.	-	.	ID=transcript:BPAG_0001374501-mRNA-1;Parent=gene:BPAG_0001374501;Name=BPAG_0001374501-mRNA-1
+#microexons transcript:BPAG_0001374501-mRNA-1:  59 71 78 43 204 55 30-6-6
 BPAG_scaffold0000300	WormBase_imported	exon	37175	37233	.	-	.	ID=exon:BPAG_0001374501-mRNA-1.1;Parent=transcript:BPAG_0001374501-mRNA-1
 BPAG_scaffold0000300	WormBase_imported	exon	37095	37165	.	-	.	ID=exon:BPAG_0001374501-mRNA-1.2;Parent=transcript:BPAG_0001374501-mRNA-1
 BPAG_scaffold0000300	WormBase_imported	exon	36446	36523	.	-	.	ID=exon:BPAG_0001374501-mRNA-1.3;Parent=transcript:BPAG_0001374501-mRNA-1

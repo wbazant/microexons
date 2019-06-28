@@ -1,5 +1,6 @@
 Scaffold00006	WormBase_imported	gene	117768	139455	.	-	.	ID=gene:TASs00006g01574;Name=TASs00006g01574;biotype=protein_coding
 Scaffold00006	WormBase_imported	mRNA	117768	139455	.	-	.	ID=transcript:TASs00006g01574m00001;Parent=gene:TASs00006g01574;Name=TASs00006g01574m00001;info=method:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily
+#microexons transcript:TASs00006g01574m00001:  25 99 93 99 69 132 618 30 201 51 60 48 60 33 132 30-24-24 39 114 33 33 48 41 54 1680 293 75 91 150 138 279 243 21
 Scaffold00006	WormBase_imported	exon	139431	139455	.	-	.	ID=exon:TASs00006g01574m00001.1;Parent=transcript:TASs00006g01574m00001
 Scaffold00006	WormBase_imported	exon	139264	139362	.	-	.	ID=exon:TASs00006g01574m00001.2;Parent=transcript:TASs00006g01574m00001
 Scaffold00006	WormBase_imported	exon	138856	138948	.	-	.	ID=exon:TASs00006g01574m00001.3;Parent=transcript:TASs00006g01574m00001
@@ -70,6 +71,7 @@ Scaffold00006	WormBase_imported	CDS	117895	118137	.	-	0	ID=cds:TASs00006g01574m0
 Scaffold00006	WormBase_imported	CDS	117768	117788	.	-	0	ID=cds:TASs00006g01574m00001;Parent=transcript:TASs00006g01574m00001
 Scaffold00008	WormBase_imported	gene	140747	150837	.	-	.	ID=gene:TASs00008g01966;Name=TASs00008g01966;biotype=protein_coding
 Scaffold00008	WormBase_imported	mRNA	140747	150837	.	-	.	ID=transcript:TASs00008g01966m00001;Parent=gene:TASs00008g01966;Name=TASs00008g01966m00001;info=method:InterPro accession:IPR014752 description:Arrestin%2C C-terminal
+#microexons transcript:TASs00008g01966m00001:  25 18 39 21-12-30 51 75 17 12 39 18 10 263 299 190 426 114
 Scaffold00008	WormBase_imported	exon	150813	150837	.	-	.	ID=exon:TASs00008g01966m00001.1;Parent=transcript:TASs00008g01966m00001
 Scaffold00008	WormBase_imported	exon	150402	150419	.	-	.	ID=exon:TASs00008g01966m00001.2;Parent=transcript:TASs00008g01966m00001
 Scaffold00008	WormBase_imported	exon	150202	150240	.	-	.	ID=exon:TASs00008g01966m00001.3;Parent=transcript:TASs00008g01966m00001
@@ -108,6 +110,7 @@ Scaffold00008	WormBase_imported	CDS	141813	142238	.	-	0	ID=cds:TASs00008g01966m0
 Scaffold00008	WormBase_imported	CDS	140747	140860	.	-	0	ID=cds:TASs00008g01966m00001;Parent=transcript:TASs00008g01966m00001
 Scaffold00010	WormBase_imported	gene	701464	722546	.	-	.	ID=gene:TASs00010g02400;Name=TASs00010g02400;biotype=protein_coding
 Scaffold00010	WormBase_imported	mRNA	701464	722546	.	-	.	ID=transcript:TASs00010g02400m00001;Parent=gene:TASs00010g02400;Name=TASs00010g02400m00001;info=method:InterPro accession:IPR001073 description:C1q domain %0Amethod:InterPro accession:IPR008983 description:Tumour necrosis factor-like domain superfamily %0Amethod:InterPro accession:IPR013087 description:Zinc finger C2H2-type %0Amethod:InterPro accession:IPR036236 description:Zinc finger C2H2 superfamily
+#microexons transcript:TASs00010g02400m00001:  22 420 36 24-27-15 81 87 87 96 150 81 57 87 87 87 51 342 184 218 168 165 251 216
 Scaffold00010	WormBase_imported	exon	722525	722546	.	-	.	ID=exon:TASs00010g02400m00001.1;Parent=transcript:TASs00010g02400m00001
 Scaffold00010	WormBase_imported	exon	721452	721871	.	-	.	ID=exon:TASs00010g02400m00001.2;Parent=transcript:TASs00010g02400m00001
 Scaffold00010	WormBase_imported	exon	721336	721371	.	-	.	ID=exon:TASs00010g02400m00001.3;Parent=transcript:TASs00010g02400m00001
@@ -158,6 +161,7 @@ Scaffold00010	WormBase_imported	CDS	701959	702209	.	-	2	ID=cds:TASs00010g02400m0
 Scaffold00010	WormBase_imported	CDS	701464	701679	.	-	0	ID=cds:TASs00010g02400m00001;Parent=transcript:TASs00010g02400m00001
 Scaffold00015	WormBase_imported	gene	878418	890392	.	+	.	ID=gene:TASs00015g03100;Name=TASs00015g03100;biotype=protein_coding
 Scaffold00015	WormBase_imported	mRNA	878418	890392	.	+	.	ID=transcript:TASs00015g03100m00001;Parent=gene:TASs00015g03100;Name=TASs00015g03100m00001;info=method:InterPro accession:IPR002035 description:von Willebrand factor%2C type A %0Amethod:InterPro accession:IPR013694 description:VIT domain %0Amethod:InterPro accession:IPR036465 description:von Willebrand factor A-like domain superfamily
+#microexons transcript:TASs00015g03100m00001:  246 265 149 220 127 140 214 185 315 21-24-18 216 150 191
 Scaffold00015	WormBase_imported	exon	878418	878663	.	+	.	ID=exon:TASs00015g03100m00001.1;Parent=transcript:TASs00015g03100m00001
 Scaffold00015	WormBase_imported	exon	878751	879015	.	+	.	ID=exon:TASs00015g03100m00001.2;Parent=transcript:TASs00015g03100m00001
 Scaffold00015	WormBase_imported	exon	879103	879251	.	+	.	ID=exon:TASs00015g03100m00001.3;Parent=transcript:TASs00015g03100m00001
@@ -190,6 +194,7 @@ Scaffold00015	WormBase_imported	CDS	889884	890033	.	+	2	ID=cds:TASs00015g03100m0
 Scaffold00015	WormBase_imported	CDS	890202	890392	.	+	2	ID=cds:TASs00015g03100m00001;Parent=transcript:TASs00015g03100m00001
 Scaffold00053	WormBase_imported	gene	11125	26741	.	+	.	ID=gene:TASs00053g05672;Name=TASs00053g05672;biotype=protein_coding
 Scaffold00053	WormBase_imported	mRNA	11125	26741	.	+	.	ID=transcript:TASs00053g05672m00001;Parent=gene:TASs00053g05672;Name=TASs00053g05672m00001
+#microexons transcript:TASs00053g05672m00001:  187 95 214 850 1280 32 45 158 166 30-24-24 60 51 198 1524 77 192 446
 Scaffold00053	WormBase_imported	exon	11125	11311	.	+	.	ID=exon:TASs00053g05672m00001.1;Parent=transcript:TASs00053g05672m00001
 Scaffold00053	WormBase_imported	exon	12472	12566	.	+	.	ID=exon:TASs00053g05672m00001.2;Parent=transcript:TASs00053g05672m00001
 Scaffold00053	WormBase_imported	exon	12795	13008	.	+	.	ID=exon:TASs00053g05672m00001.3;Parent=transcript:TASs00053g05672m00001
@@ -231,6 +236,7 @@ Scaffold00053	WormBase_imported	CDS	26296	26569	.	+	1	ID=cds:TASs00053g05672m000
 Scaffold00053	WormBase_imported	three_prime_UTR	26570	26741	.	+	.	Parent=transcript:TASs00053g05672m00001
 Scaffold00084	WormBase_imported	gene	52482	79708	.	+	.	ID=gene:TASs00084g06924;Name=TASs00084g06924;biotype=protein_coding
 Scaffold00084	WormBase_imported	mRNA	52482	79708	.	+	.	ID=transcript:TASs00084g06924m00001;Parent=gene:TASs00084g06924;Name=TASs00084g06924m00001;info=method:InterPro accession:IPR013087 description:Zinc finger C2H2-type %0Amethod:InterPro accession:IPR036236 description:Zinc finger C2H2 superfamily
+#microexons transcript:TASs00084g06924m00001:  3-30-30 42 39 24 39 33 42 30 72 39 30 75 30 75 30 72 39 51 39 21 63 49 504 572 483 403 548 546
 Scaffold00084	WormBase_imported	exon	52482	52484	.	+	.	ID=exon:TASs00084g06924m00001.1;Parent=transcript:TASs00084g06924m00001
 Scaffold00084	WormBase_imported	exon	53981	54010	.	+	.	ID=exon:TASs00084g06924m00001.2;Parent=transcript:TASs00084g06924m00001
 Scaffold00084	WormBase_imported	exon	55730	55759	.	+	.	ID=exon:TASs00084g06924m00001.3;Parent=transcript:TASs00084g06924m00001
@@ -293,6 +299,7 @@ Scaffold00084	WormBase_imported	CDS	78505	79052	.	+	2	ID=cds:TASs00084g06924m000
 Scaffold00084	WormBase_imported	CDS	79163	79708	.	+	0	ID=cds:TASs00084g06924m00001;Parent=transcript:TASs00084g06924m00001
 Scaffold00138	WormBase_imported	gene	111200	114494	.	+	.	ID=gene:TASs00138g08254;Name=TASs00138g08254;biotype=protein_coding
 Scaffold00138	WormBase_imported	mRNA	111200	114494	.	+	.	ID=transcript:TASs00138g08254m00001;Parent=gene:TASs00138g08254;Name=TASs00138g08254m00001
+#microexons transcript:TASs00138g08254m00001:  49 92 106 132 104 79 141 30-18-15-27 41
 Scaffold00138	WormBase_imported	exon	111200	111248	.	+	.	ID=exon:TASs00138g08254m00001.1;Parent=transcript:TASs00138g08254m00001
 Scaffold00138	WormBase_imported	exon	111380	111471	.	+	.	ID=exon:TASs00138g08254m00001.2;Parent=transcript:TASs00138g08254m00001
 Scaffold00138	WormBase_imported	exon	111623	111728	.	+	.	ID=exon:TASs00138g08254m00001.3;Parent=transcript:TASs00138g08254m00001
@@ -319,6 +326,7 @@ Scaffold00138	WormBase_imported	CDS	114238	114264	.	+	2	ID=cds:TASs00138g08254m0
 Scaffold00138	WormBase_imported	CDS	114454	114494	.	+	2	ID=cds:TASs00138g08254m00001;Parent=transcript:TASs00138g08254m00001
 Scaffold00138	WormBase_imported	gene	193537	197272	.	+	.	ID=gene:TASs00138g08257;Name=TASs00138g08257;biotype=protein_coding
 Scaffold00138	WormBase_imported	mRNA	193537	197272	.	+	.	ID=transcript:TASs00138g08257m00001;Parent=gene:TASs00138g08257;Name=TASs00138g08257m00001
+#microexons transcript:TASs00138g08257m00001:  27 106 132 104 79 141 30-18-27 41
 Scaffold00138	WormBase_imported	exon	193537	193563	.	+	.	ID=exon:TASs00138g08257m00001.1;Parent=transcript:TASs00138g08257m00001
 Scaffold00138	WormBase_imported	exon	193748	193853	.	+	.	ID=exon:TASs00138g08257m00001.2;Parent=transcript:TASs00138g08257m00001
 Scaffold00138	WormBase_imported	exon	194234	194365	.	+	.	ID=exon:TASs00138g08257m00001.3;Parent=transcript:TASs00138g08257m00001
@@ -341,6 +349,7 @@ Scaffold00138	WormBase_imported	CDS	196889	196915	.	+	2	ID=cds:TASs00138g08257m0
 Scaffold00138	WormBase_imported	CDS	197232	197272	.	+	2	ID=cds:TASs00138g08257m00001;Parent=transcript:TASs00138g08257m00001
 Scaffold00315	WormBase_imported	gene	498	24936	.	+	.	ID=gene:TASs00315g09860;Name=TASs00315g09860;biotype=protein_coding
 Scaffold00315	WormBase_imported	mRNA	498	24936	.	+	.	ID=transcript:TASs00315g09860m00001;Parent=gene:TASs00315g09860;Name=TASs00315g09860m00001;info=method:InterPro accession:IPR004273 description:Dynein heavy chain region D6 P-loop domain %0Amethod:InterPro accession:IPR013602 description:Dynein heavy chain%2C domain-2 %0Amethod:InterPro accession:IPR024317 description:Dynein heavy chain%2C AAA module D4 %0Amethod:InterPro accession:IPR024743 description:Dynein heavy chain%2C coiled coil stalk %0Amethod:InterPro accession:IPR026983 description:Dynein heavy chain %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR035699 description:Dynein heavy chain%2C hydrolytic ATP-binding dynein motor region %0Amethod:InterPro accession:IPR035706 description:Dynein heavy chain%2C ATP-binding dynein motor region %0Amethod:InterPro accession:IPR041228 description:Dynein heavy chain%2C C-terminal domain %0Amethod:InterPro accession:IPR041466 description:Dynein heavy chain%2C AAA 5 extension domain %0Amethod:InterPro accession:IPR041589 description:Dynein heavy chain 3%2C AAA+ lid domain %0Amethod:InterPro accession:IPR041658 description:Dynein heavy chain AAA lid domain
+#microexons transcript:TASs00315g09860m00001:  70 181 130 106 105 305 120 184 66 177 162 407 988 149 631 233 238 231 213 312 513 132 222 24-12-21-9 54 159 254 198 361 312 321 230 331 878 307 1629 186 138 384 178 104 186
 Scaffold00315	WormBase_imported	exon	498	567	.	+	.	ID=exon:TASs00315g09860m00001.1;Parent=transcript:TASs00315g09860m00001
 Scaffold00315	WormBase_imported	exon	600	780	.	+	.	ID=exon:TASs00315g09860m00001.2;Parent=transcript:TASs00315g09860m00001
 Scaffold00315	WormBase_imported	exon	2158	2287	.	+	.	ID=exon:TASs00315g09860m00001.3;Parent=transcript:TASs00315g09860m00001
@@ -434,6 +443,7 @@ Scaffold00315	WormBase_imported	CDS	24456	24559	.	+	2	ID=cds:TASs00315g09860m000
 Scaffold00315	WormBase_imported	CDS	24751	24936	.	+	0	ID=cds:TASs00315g09860m00001;Parent=transcript:TASs00315g09860m00001
 Scaffold00484	WormBase_imported	gene	27306	51744	.	-	.	ID=gene:TASs00484g10626;Name=TASs00484g10626;biotype=protein_coding
 Scaffold00484	WormBase_imported	mRNA	27306	51744	.	-	.	ID=transcript:TASs00484g10626m00001;Parent=gene:TASs00484g10626;Name=TASs00484g10626m00001;info=method:InterPro accession:IPR004273 description:Dynein heavy chain region D6 P-loop domain %0Amethod:InterPro accession:IPR013602 description:Dynein heavy chain%2C domain-2 %0Amethod:InterPro accession:IPR024317 description:Dynein heavy chain%2C AAA module D4 %0Amethod:InterPro accession:IPR024743 description:Dynein heavy chain%2C coiled coil stalk %0Amethod:InterPro accession:IPR026983 description:Dynein heavy chain %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR035699 description:Dynein heavy chain%2C hydrolytic ATP-binding dynein motor region %0Amethod:InterPro accession:IPR035706 description:Dynein heavy chain%2C ATP-binding dynein motor region %0Amethod:InterPro accession:IPR041228 description:Dynein heavy chain%2C C-terminal domain %0Amethod:InterPro accession:IPR041466 description:Dynein heavy chain%2C AAA 5 extension domain %0Amethod:InterPro accession:IPR041589 description:Dynein heavy chain 3%2C AAA+ lid domain %0Amethod:InterPro accession:IPR041658 description:Dynein heavy chain AAA lid domain
+#microexons transcript:TASs00484g10626m00001:  70 181 130 106 105 305 120 184 66 177 162 407 988 149 631 233 238 231 213 312 513 132 222 24-12-21-9 54 159 254 198 361 312 321 230 331 878 307 1629 186 138 384 178 104 186
 Scaffold00484	WormBase_imported	exon	51675	51744	.	-	.	ID=exon:TASs00484g10626m00001.1;Parent=transcript:TASs00484g10626m00001
 Scaffold00484	WormBase_imported	exon	51462	51642	.	-	.	ID=exon:TASs00484g10626m00001.2;Parent=transcript:TASs00484g10626m00001
 Scaffold00484	WormBase_imported	exon	49955	50084	.	-	.	ID=exon:TASs00484g10626m00001.3;Parent=transcript:TASs00484g10626m00001
@@ -572,6 +582,7 @@ Scaffold00484	dust	low_complexity_region	50464	50470	.	-	.
 Scaffold00484	dust	low_complexity_region	52155	52162	.	-	.	
 Scaffold00490	WormBase_imported	gene	25866	50304	.	-	.	ID=gene:TASs00490g10646;Name=TASs00490g10646;biotype=protein_coding
 Scaffold00490	WormBase_imported	mRNA	25866	50304	.	-	.	ID=transcript:TASs00490g10646m00001;Parent=gene:TASs00490g10646;Name=TASs00490g10646m00001;info=method:InterPro accession:IPR004273 description:Dynein heavy chain region D6 P-loop domain %0Amethod:InterPro accession:IPR013602 description:Dynein heavy chain%2C domain-2 %0Amethod:InterPro accession:IPR024317 description:Dynein heavy chain%2C AAA module D4 %0Amethod:InterPro accession:IPR024743 description:Dynein heavy chain%2C coiled coil stalk %0Amethod:InterPro accession:IPR026983 description:Dynein heavy chain %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR035699 description:Dynein heavy chain%2C hydrolytic ATP-binding dynein motor region %0Amethod:InterPro accession:IPR035706 description:Dynein heavy chain%2C ATP-binding dynein motor region %0Amethod:InterPro accession:IPR041228 description:Dynein heavy chain%2C C-terminal domain %0Amethod:InterPro accession:IPR041466 description:Dynein heavy chain%2C AAA 5 extension domain %0Amethod:InterPro accession:IPR041589 description:Dynein heavy chain 3%2C AAA+ lid domain %0Amethod:InterPro accession:IPR041658 description:Dynein heavy chain AAA lid domain
+#microexons transcript:TASs00490g10646m00001:  70 181 130 106 105 305 120 184 66 177 162 407 988 149 631 233 238 231 213 312 513 132 222 24-12-21-9 54 159 254 198 361 312 321 230 331 878 307 1629 186 138 384 178 104 186
 Scaffold00490	WormBase_imported	exon	50235	50304	.	-	.	ID=exon:TASs00490g10646m00001.1;Parent=transcript:TASs00490g10646m00001
 Scaffold00490	WormBase_imported	exon	50022	50202	.	-	.	ID=exon:TASs00490g10646m00001.2;Parent=transcript:TASs00490g10646m00001
 Scaffold00490	WormBase_imported	exon	48515	48644	.	-	.	ID=exon:TASs00490g10646m00001.3;Parent=transcript:TASs00490g10646m00001
@@ -709,6 +720,7 @@ Scaffold00490	dust	low_complexity_region	49024	49030	.	-	.
 Scaffold00490	dust	low_complexity_region	50715	50722	.	-	.	
 Scaffold00492	WormBase_imported	gene	25794	50232	.	-	.	ID=gene:TASs00492g10654;Name=TASs00492g10654;biotype=protein_coding
 Scaffold00492	WormBase_imported	mRNA	25794	50232	.	-	.	ID=transcript:TASs00492g10654m00001;Parent=gene:TASs00492g10654;Name=TASs00492g10654m00001;info=method:InterPro accession:IPR004273 description:Dynein heavy chain region D6 P-loop domain %0Amethod:InterPro accession:IPR013602 description:Dynein heavy chain%2C domain-2 %0Amethod:InterPro accession:IPR024317 description:Dynein heavy chain%2C AAA module D4 %0Amethod:InterPro accession:IPR024743 description:Dynein heavy chain%2C coiled coil stalk %0Amethod:InterPro accession:IPR026983 description:Dynein heavy chain %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR035699 description:Dynein heavy chain%2C hydrolytic ATP-binding dynein motor region %0Amethod:InterPro accession:IPR035706 description:Dynein heavy chain%2C ATP-binding dynein motor region %0Amethod:InterPro accession:IPR041228 description:Dynein heavy chain%2C C-terminal domain %0Amethod:InterPro accession:IPR041466 description:Dynein heavy chain%2C AAA 5 extension domain %0Amethod:InterPro accession:IPR041589 description:Dynein heavy chain 3%2C AAA+ lid domain %0Amethod:InterPro accession:IPR041658 description:Dynein heavy chain AAA lid domain
+#microexons transcript:TASs00492g10654m00001:  70 181 130 106 105 305 120 184 66 177 162 407 988 149 631 233 238 231 213 312 513 132 222 24-12-21-9 54 159 254 198 361 312 321 230 331 878 307 1629 186 138 384 178 104 186
 Scaffold00492	WormBase_imported	exon	50163	50232	.	-	.	ID=exon:TASs00492g10654m00001.1;Parent=transcript:TASs00492g10654m00001
 Scaffold00492	WormBase_imported	exon	49950	50130	.	-	.	ID=exon:TASs00492g10654m00001.2;Parent=transcript:TASs00492g10654m00001
 Scaffold00492	WormBase_imported	exon	48443	48572	.	-	.	ID=exon:TASs00492g10654m00001.3;Parent=transcript:TASs00492g10654m00001

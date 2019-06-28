@@ -1,5 +1,6 @@
 O_flexuosa-1.0_Cont3	WormBase_imported	gene	2286336	2289852	.	+	.	ID=gene:X798_01189;Name=X798_01189;biotype=protein_coding
 O_flexuosa-1.0_Cont3	WormBase_imported	mRNA	2286336	2289852	.	+	.	ID=transcript:X798_01189;Parent=gene:X798_01189;Name=X798_01189
+#microexons transcript:X798_01189:  19 74 6-15 231 83 108 148 27-12-18 109 68 87 105 52 23
 O_flexuosa-1.0_Cont3	WormBase_imported	exon	2286336	2286354	.	+	.	ID=exon:X798_01189.1;Parent=transcript:X798_01189
 O_flexuosa-1.0_Cont3	WormBase_imported	exon	2286531	2286604	.	+	.	ID=exon:X798_01189.2;Parent=transcript:X798_01189
 O_flexuosa-1.0_Cont3	WormBase_imported	exon	2286670	2286675	.	+	.	ID=exon:X798_01189.3;Parent=transcript:X798_01189
@@ -36,6 +37,7 @@ O_flexuosa-1.0_Cont3	WormBase_imported	CDS	2289730	2289781	.	+	0	ID=cds:X798_011
 O_flexuosa-1.0_Cont3	WormBase_imported	CDS	2289830	2289852	.	+	2	ID=cds:X798_01189;Parent=transcript:X798_01189
 O_flexuosa-1.0_Cont39	WormBase_imported	gene	173412	177586	.	+	.	ID=gene:X798_04884;Name=X798_04884;biotype=protein_coding
 O_flexuosa-1.0_Cont39	WormBase_imported	mRNA	173412	177586	.	+	.	ID=transcript:X798_04884;Parent=gene:X798_04884;Name=X798_04884
+#microexons transcript:X798_04884:  17 207 13 63 10 77 27-30-9
 O_flexuosa-1.0_Cont39	WormBase_imported	exon	173412	173428	.	+	.	ID=exon:X798_04884.1;Parent=transcript:X798_04884
 O_flexuosa-1.0_Cont39	WormBase_imported	exon	173468	173674	.	+	.	ID=exon:X798_04884.2;Parent=transcript:X798_04884
 O_flexuosa-1.0_Cont39	WormBase_imported	exon	174276	174288	.	+	.	ID=exon:X798_04884.3;Parent=transcript:X798_04884
@@ -56,6 +58,7 @@ O_flexuosa-1.0_Cont39	WormBase_imported	CDS	176950	176979	.	+	0	ID=cds:X798_0488
 O_flexuosa-1.0_Cont39	WormBase_imported	CDS	177578	177586	.	+	0	ID=cds:X798_04884;Parent=transcript:X798_04884
 O_flexuosa-1.0_Cont60	WormBase_imported	gene	1303	3947	.	+	.	ID=gene:X798_05672;Name=X798_05672;biotype=protein_coding
 O_flexuosa-1.0_Cont60	WormBase_imported	mRNA	1303	3947	.	+	.	ID=transcript:X798_05672;Parent=gene:X798_05672;Name=X798_05672;info=method:InterPro accession:IPR003392 description:Protein patched/dispatched
+#microexons transcript:X798_05672:  128 111 106 24-21-24
 O_flexuosa-1.0_Cont60	WormBase_imported	exon	1303	1430	.	+	.	ID=exon:X798_05672.1;Parent=transcript:X798_05672
 O_flexuosa-1.0_Cont60	WormBase_imported	exon	2436	2546	.	+	.	ID=exon:X798_05672.2;Parent=transcript:X798_05672
 O_flexuosa-1.0_Cont60	WormBase_imported	exon	2700	2805	.	+	.	ID=exon:X798_05672.3;Parent=transcript:X798_05672

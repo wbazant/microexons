@@ -1,5 +1,6 @@
 scf7180000986890	WormBase_imported	gene	2700625	2703693	.	-	.	ID=gene:DCO_016107;Name=DCO_016107;biotype=protein_coding
 scf7180000986890	WormBase_imported	mRNA	2700625	2703693	.	-	.	ID=transcript:DCO_016107;Parent=gene:DCO_016107;Name=DCO_016107;info=method:InterPro accession:IPR002486 description:Nematode cuticle collagen%2C N-terminal %0Amethod:InterPro accession:IPR008160 description:Collagen triple helix repeat
+#microexons transcript:DCO_016107:  203 115 167 24 59 42 44 9 59 63 34 30-9-18-27 26 31 119
 scf7180000986890	WormBase_imported	exon	2703491	2703693	.	-	.	ID=exon:DCO_016107.1;Parent=transcript:DCO_016107
 scf7180000986890	WormBase_imported	exon	2703148	2703262	.	-	.	ID=exon:DCO_016107.2;Parent=transcript:DCO_016107
 scf7180000986890	WormBase_imported	exon	2702736	2702902	.	-	.	ID=exon:DCO_016107.3;Parent=transcript:DCO_016107
@@ -40,6 +41,7 @@ scf7180000986890	WormBase_imported	CDS	2700688	2700743	.	-	2	ID=cds:DCO_016107;P
 scf7180000986890	WormBase_imported	three_prime_UTR	2700625	2700687	.	-	.	Parent=transcript:DCO_016107
 scf7180000986906	WormBase_imported	gene	186456	192954	.	-	.	ID=gene:DCO_029561;Name=DCO_029561;biotype=protein_coding
 scf7180000986906	WormBase_imported	mRNA	186456	192954	.	-	.	ID=transcript:DCO_029561;Parent=gene:DCO_029561;Name=DCO_029561
+#microexons transcript:DCO_029561:  112 99 96 79 52 207 21-21-24 33 170
 scf7180000986906	WormBase_imported	exon	192843	192954	.	-	.	ID=exon:DCO_029561.1;Parent=transcript:DCO_029561
 scf7180000986906	WormBase_imported	exon	192678	192776	.	-	.	ID=exon:DCO_029561.2;Parent=transcript:DCO_029561
 scf7180000986906	WormBase_imported	exon	192416	192511	.	-	.	ID=exon:DCO_029561.3;Parent=transcript:DCO_029561
@@ -66,6 +68,7 @@ scf7180000986906	WormBase_imported	CDS	186549	186625	.	-	2	ID=cds:DCO_029561;Par
 scf7180000986906	WormBase_imported	three_prime_UTR	186456	186548	.	-	.	Parent=transcript:DCO_029561
 scf7180000986428	WormBase_imported	gene	975799	981858	.	+	.	ID=gene:DCO_029337;Name=DCO_029337;biotype=protein_coding
 scf7180000986428	WormBase_imported	mRNA	975799	981858	.	+	.	ID=transcript:DCO_029337;Parent=gene:DCO_029337;Name=DCO_029337
+#microexons transcript:DCO_029337:  52 75 143 86 15-30-27 54 36 33 39 33 33 177 149
 scf7180000986428	WormBase_imported	exon	975799	975850	.	+	.	ID=exon:DCO_029337.1;Parent=transcript:DCO_029337
 scf7180000986428	WormBase_imported	exon	976260	976334	.	+	.	ID=exon:DCO_029337.2;Parent=transcript:DCO_029337
 scf7180000986428	WormBase_imported	exon	977491	977633	.	+	.	ID=exon:DCO_029337.3;Parent=transcript:DCO_029337
@@ -100,6 +103,7 @@ scf7180000986428	WormBase_imported	CDS	981710	981732	.	+	2	ID=cds:DCO_029337;Par
 scf7180000986428	WormBase_imported	three_prime_UTR	981733	981858	.	+	.	Parent=transcript:DCO_029337
 scf7180000986874	WormBase_imported	gene	774626	776209	.	+	.	ID=gene:DCO_024186;Name=DCO_024186;biotype=protein_coding
 scf7180000986874	WormBase_imported	mRNA	774626	776209	.	+	.	ID=transcript:DCO_024186;Parent=gene:DCO_024186;Name=DCO_024186
+#microexons transcript:DCO_024186:  102 21-24-18 51 39 60 25 63
 scf7180000986874	WormBase_imported	exon	774626	774727	.	+	.	ID=exon:DCO_024186.1;Parent=transcript:DCO_024186
 scf7180000986874	WormBase_imported	exon	774891	774911	.	+	.	ID=exon:DCO_024186.2;Parent=transcript:DCO_024186
 scf7180000986874	WormBase_imported	exon	774967	774990	.	+	.	ID=exon:DCO_024186.3;Parent=transcript:DCO_024186
@@ -122,6 +126,7 @@ scf7180000986874	WormBase_imported	CDS	776147	776162	.	+	1	ID=cds:DCO_024186;Par
 scf7180000986874	WormBase_imported	three_prime_UTR	776163	776209	.	+	.	Parent=transcript:DCO_024186
 scf7180000986794	WormBase_imported	gene	436561	439029	.	+	.	ID=gene:DCO_028325;Name=DCO_028325;biotype=protein_coding
 scf7180000986794	WormBase_imported	mRNA	436561	439029	.	+	.	ID=transcript:DCO_028325;Parent=gene:DCO_028325;Name=DCO_028325;info=method:InterPro accession:IPR002486 description:Nematode cuticle collagen%2C N-terminal
+#microexons transcript:DCO_028325:  55 171 138 36 23 34 44 14 33 132 12-21-21 200 72
 scf7180000986794	WormBase_imported	exon	436561	436615	.	+	.	ID=exon:DCO_028325.1;Parent=transcript:DCO_028325
 scf7180000986794	WormBase_imported	exon	436930	437100	.	+	.	ID=exon:DCO_028325.2;Parent=transcript:DCO_028325
 scf7180000986794	WormBase_imported	exon	437447	437584	.	+	.	ID=exon:DCO_028325.3;Parent=transcript:DCO_028325
@@ -156,6 +161,7 @@ scf7180000986794	WormBase_imported	three_prime_UTR	438861	438911	.	+	.	Parent=tr
 scf7180000986794	WormBase_imported	three_prime_UTR	438958	439029	.	+	.	Parent=transcript:DCO_028325
 scf7180000986728	WormBase_imported	gene	841470	843149	.	-	.	ID=gene:DCO_024185;Name=DCO_024185;biotype=protein_coding
 scf7180000986728	WormBase_imported	mRNA	841470	843149	.	-	.	ID=transcript:DCO_024185;Parent=gene:DCO_024185;Name=DCO_024185
+#microexons transcript:DCO_024185:  142 21-24-18 51 39 60 25 67
 scf7180000986728	WormBase_imported	exon	843008	843149	.	-	.	ID=exon:DCO_024185.1;Parent=transcript:DCO_024185
 scf7180000986728	WormBase_imported	exon	842743	842763	.	-	.	ID=exon:DCO_024185.2;Parent=transcript:DCO_024185
 scf7180000986728	WormBase_imported	exon	842664	842687	.	-	.	ID=exon:DCO_024185.3;Parent=transcript:DCO_024185
@@ -178,6 +184,7 @@ scf7180000986728	WormBase_imported	CDS	841521	841536	.	-	1	ID=cds:DCO_024185;Par
 scf7180000986728	WormBase_imported	three_prime_UTR	841470	841520	.	-	.	Parent=transcript:DCO_024185
 scf7180000986891	WormBase_imported	gene	235302	236633	.	-	.	ID=gene:DCO_032216;Name=DCO_032216;biotype=protein_coding
 scf7180000986891	WormBase_imported	mRNA	235302	236633	.	-	.	ID=transcript:DCO_032216;Parent=gene:DCO_032216;Name=DCO_032216
+#microexons transcript:DCO_032216:  165 27-18-27 122
 scf7180000986891	WormBase_imported	exon	236469	236633	.	-	.	ID=exon:DCO_032216.1;Parent=transcript:DCO_032216
 scf7180000986891	WormBase_imported	exon	236384	236410	.	-	.	ID=exon:DCO_032216.2;Parent=transcript:DCO_032216
 scf7180000986891	WormBase_imported	exon	236311	236328	.	-	.	ID=exon:DCO_032216.3;Parent=transcript:DCO_032216
@@ -192,6 +199,7 @@ scf7180000986891	WormBase_imported	CDS	235344	235423	.	-	2	ID=cds:DCO_032216;Par
 scf7180000986891	WormBase_imported	three_prime_UTR	235302	235343	.	-	.	Parent=transcript:DCO_032216
 scf7180000986668	WormBase_imported	gene	548668	549530	.	-	.	ID=gene:DCO_033588;Name=DCO_033588;biotype=protein_coding
 scf7180000986668	WormBase_imported	mRNA	548668	549530	.	-	.	ID=transcript:DCO_033588;Parent=gene:DCO_033588;Name=DCO_033588
+#microexons transcript:DCO_033588:  115 17 15-15-15 36 137
 scf7180000986668	WormBase_imported	exon	549416	549530	.	-	.	ID=exon:DCO_033588.1;Parent=transcript:DCO_033588
 scf7180000986668	WormBase_imported	exon	549241	549257	.	-	.	ID=exon:DCO_033588.2;Parent=transcript:DCO_033588
 scf7180000986668	WormBase_imported	exon	549175	549189	.	-	.	ID=exon:DCO_033588.3;Parent=transcript:DCO_033588
@@ -210,6 +218,7 @@ scf7180000986668	WormBase_imported	CDS	548770	548804	.	-	2	ID=cds:DCO_033588;Par
 scf7180000986668	WormBase_imported	three_prime_UTR	548668	548769	.	-	.	Parent=transcript:DCO_033588
 scf7180000986800	WormBase_imported	gene	444583	456676	.	+	.	ID=gene:DCO_026400;Name=DCO_026400;biotype=protein_coding
 scf7180000986800	WormBase_imported	mRNA	444583	456676	.	+	.	ID=transcript:DCO_026400;Parent=gene:DCO_026400;Name=DCO_026400
+#microexons transcript:DCO_026400:  54 139 105 90 63 160 30-30 84 19 21-21-21 143 159 191 80 322
 scf7180000986800	WormBase_imported	exon	444583	444636	.	+	.	ID=exon:DCO_026400.1;Parent=transcript:DCO_026400
 scf7180000986800	WormBase_imported	exon	445341	445479	.	+	.	ID=exon:DCO_026400.2;Parent=transcript:DCO_026400
 scf7180000986800	WormBase_imported	exon	445646	445750	.	+	.	ID=exon:DCO_026400.3;Parent=transcript:DCO_026400
@@ -250,6 +259,7 @@ scf7180000986800	WormBase_imported	CDS	456355	456635	.	+	2	ID=cds:DCO_026400;Par
 scf7180000986800	WormBase_imported	three_prime_UTR	456636	456676	.	+	.	Parent=transcript:DCO_026400
 scf7180000986423	WormBase_imported	gene	515825	518882	.	-	.	ID=gene:DCO_016108;Name=DCO_016108;biotype=protein_coding
 scf7180000986423	WormBase_imported	mRNA	515825	518882	.	-	.	ID=transcript:DCO_016108;Parent=gene:DCO_016108;Name=DCO_016108;info=method:InterPro accession:IPR002486 description:Nematode cuticle collagen%2C N-terminal %0Amethod:InterPro accession:IPR008160 description:Collagen triple helix repeat
+#microexons transcript:DCO_016108:  218 115 164 24 59 42 44 9 59 63 34 30-9-18-27 26 31 119
 scf7180000986423	WormBase_imported	exon	518665	518882	.	-	.	ID=exon:DCO_016108.1;Parent=transcript:DCO_016108
 scf7180000986423	WormBase_imported	exon	518322	518436	.	-	.	ID=exon:DCO_016108.2;Parent=transcript:DCO_016108
 scf7180000986423	WormBase_imported	exon	517910	518073	.	-	.	ID=exon:DCO_016108.3;Parent=transcript:DCO_016108
@@ -290,6 +300,7 @@ scf7180000986423	WormBase_imported	CDS	515888	515943	.	-	2	ID=cds:DCO_016108;Par
 scf7180000986423	WormBase_imported	three_prime_UTR	515825	515887	.	-	.	Parent=transcript:DCO_016108
 scf7180000986387	WormBase_imported	gene	76977	79475	.	-	.	ID=gene:DCO_028378;Name=DCO_028378;biotype=protein_coding
 scf7180000986387	WormBase_imported	mRNA	76977	79475	.	-	.	ID=transcript:DCO_028378;Parent=gene:DCO_028378;Name=DCO_028378;info=method:InterPro accession:IPR002486 description:Nematode cuticle collagen%2C N-terminal
+#microexons transcript:DCO_028378:  90 171 138 36 23 34 44 14 33 115 12-21-21 199 69
 scf7180000986387	WormBase_imported	exon	79386	79475	.	-	.	ID=exon:DCO_028378.1;Parent=transcript:DCO_028378
 scf7180000986387	WormBase_imported	exon	78902	79072	.	-	.	ID=exon:DCO_028378.2;Parent=transcript:DCO_028378
 scf7180000986387	WormBase_imported	exon	78429	78566	.	-	.	ID=exon:DCO_028378.3;Parent=transcript:DCO_028378
@@ -324,6 +335,7 @@ scf7180000986387	WormBase_imported	three_prime_UTR	77092	77142	.	-	.	Parent=tran
 scf7180000986387	WormBase_imported	three_prime_UTR	76977	77045	.	-	.	Parent=transcript:DCO_028378
 scf7180000986836	WormBase_imported	gene	300735	306481	.	+	.	ID=gene:DCO_028506;Name=DCO_028506;biotype=protein_coding
 scf7180000986836	WormBase_imported	mRNA	300735	306481	.	+	.	ID=transcript:DCO_028506;Parent=gene:DCO_028506;Name=DCO_028506
+#microexons transcript:DCO_028506:  125 38 30 51 15-30-27 66 36 39 39 42 12 60 33 177 149
 scf7180000986836	WormBase_imported	exon	300735	300859	.	+	.	ID=exon:DCO_028506.1;Parent=transcript:DCO_028506
 scf7180000986836	WormBase_imported	exon	301996	302033	.	+	.	ID=exon:DCO_028506.2;Parent=transcript:DCO_028506
 scf7180000986836	WormBase_imported	exon	302088	302117	.	+	.	ID=exon:DCO_028506.3;Parent=transcript:DCO_028506

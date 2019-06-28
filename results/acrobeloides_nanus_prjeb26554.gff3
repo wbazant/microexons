@@ -1,5 +1,6 @@
 ACRNAN_Path_434	WormBase_imported	gene	25876	28524	.	-	.	ID=gene:ACRNAN_Path_434.g1642;Name=ACRNAN_Path_434.g1642;biotype=protein_coding
 ACRNAN_Path_434	WormBase_imported	mRNA	25876	28524	.	-	.	ID=transcript:ACRNAN_Path_434.g1642.t1;Parent=gene:ACRNAN_Path_434.g1642;Name=ACRNAN_Path_434.g1642.t1
+#microexons transcript:ACRNAN_Path_434.g1642.t1:  184 30-24-30 65 107 150 118
 ACRNAN_Path_434	WormBase_imported	exon	28341	28524	.	-	.	ID=exon:ACRNAN_Path_434.g1642.t1.1;Parent=transcript:ACRNAN_Path_434.g1642.t1
 ACRNAN_Path_434	WormBase_imported	exon	28268	28297	.	-	.	ID=exon:ACRNAN_Path_434.g1642.t1.2;Parent=transcript:ACRNAN_Path_434.g1642.t1
 ACRNAN_Path_434	WormBase_imported	exon	28201	28224	.	-	.	ID=exon:ACRNAN_Path_434.g1642.t1.3;Parent=transcript:ACRNAN_Path_434.g1642.t1

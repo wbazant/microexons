@@ -1,5 +1,6 @@
 pathogen_EgG_scaffold_0004	WormBase_imported	gene	6240482	6248120	.	+	.	ID=gene:EgrG_000489200;Name=EgrG_000489200;biotype=protein_coding;description=Pfam-B_9399 and Pfam-B_2764 and Pfam-B_110 and Pfam-B_388 domain containing protein;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068WPH9
 pathogen_EgG_scaffold_0004	WormBase_imported	mRNA	6240482	6248120	.	+	.	ID=transcript:EgrG_000489200;Parent=gene:EgrG_000489200;Name=EgrG_000489200
+#microexons transcript:EgrG_000489200:  25 99 93 87 69 132 66 33 84 15 48 30 690 27 63 201 51 60 48 60 33 132 30-24-24 39 21 120 30 114 33 33 48 81 69 45 21 57 39 14
 pathogen_EgG_scaffold_0004	WormBase_imported	exon	6240482	6240506	.	+	.	ID=exon:EgrG_000489200.1;Parent=transcript:EgrG_000489200
 pathogen_EgG_scaffold_0004	WormBase_imported	exon	6240581	6240679	.	+	.	ID=exon:EgrG_000489200.2;Parent=transcript:EgrG_000489200
 pathogen_EgG_scaffold_0004	WormBase_imported	exon	6240973	6241065	.	+	.	ID=exon:EgrG_000489200.3;Parent=transcript:EgrG_000489200
@@ -82,6 +83,7 @@ pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6247967	6248005	.	+	2	ID=cds:Eg
 pathogen_EgG_scaffold_0004	WormBase_imported	CDS	6248107	6248120	.	+	2	ID=cds:EgrG_000489200;Parent=transcript:EgrG_000489200
 pathogen_EgG_scaffold_0005	WormBase_imported	gene	6081362	6105346	.	+	.	ID=gene:EgrG_000255900;Name=EgrG_000255900;biotype=protein_coding;description=Dynein heavy chain;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068WRQ8
 pathogen_EgG_scaffold_0005	WormBase_imported	mRNA	6081362	6105346	.	+	.	ID=transcript:EgrG_000255900;Parent=gene:EgrG_000255900;Name=EgrG_000255900;info=method:InterPro accession:IPR004273 description:Dynein heavy chain region D6 P-loop domain %0Amethod:InterPro accession:IPR013602 description:Dynein heavy chain%2C domain-2 %0Amethod:InterPro accession:IPR024317 description:Dynein heavy chain%2C AAA module D4 %0Amethod:InterPro accession:IPR024743 description:Dynein heavy chain%2C coiled coil stalk %0Amethod:InterPro accession:IPR026983 description:Dynein heavy chain %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR035699 description:Dynein heavy chain%2C hydrolytic ATP-binding dynein motor region %0Amethod:InterPro accession:IPR035706 description:Dynein heavy chain%2C ATP-binding dynein motor region %0Amethod:InterPro accession:IPR041228 description:Dynein heavy chain%2C C-terminal domain %0Amethod:InterPro accession:IPR041466 description:Dynein heavy chain%2C AAA 5 extension domain %0Amethod:InterPro accession:IPR041589 description:Dynein heavy chain 3%2C AAA+ lid domain %0Amethod:InterPro accession:IPR041658 description:Dynein heavy chain AAA lid domain
+#microexons transcript:EgrG_000255900:  30 305 120 37 177 75 407 988 149 616 233 238 231 213 513 132 222 24-12-21-9 54 198 254 198 361 312 414 230 331 878 307 1629 186 138 384 178 104 207
 pathogen_EgG_scaffold_0005	WormBase_imported	exon	6081362	6081391	.	+	.	ID=exon:EgrG_000255900.1;Parent=transcript:EgrG_000255900
 pathogen_EgG_scaffold_0005	WormBase_imported	exon	6081596	6081900	.	+	.	ID=exon:EgrG_000255900.2;Parent=transcript:EgrG_000255900
 pathogen_EgG_scaffold_0005	WormBase_imported	exon	6082167	6082286	.	+	.	ID=exon:EgrG_000255900.3;Parent=transcript:EgrG_000255900
@@ -162,6 +164,7 @@ pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6104794	6104897	.	+	2	ID=cds:Eg
 pathogen_EgG_scaffold_0005	WormBase_imported	CDS	6105140	6105346	.	+	0	ID=cds:EgrG_000255900;Parent=transcript:EgrG_000255900
 pathogen_EgG_scaffold_0009	WormBase_imported	gene	2148026	2150513	.	-	.	ID=gene:EgrG_000120500;Name=EgrG_000120500;biotype=protein_coding;description=Expressed protein;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068WT90
 pathogen_EgG_scaffold_0009	WormBase_imported	mRNA	2148026	2150513	.	-	.	ID=transcript:EgrG_000120500;Parent=gene:EgrG_000120500;Name=EgrG_000120500
+#microexons transcript:EgrG_000120500:  28 57 135 24-21-27 153 132 24 59
 pathogen_EgG_scaffold_0009	WormBase_imported	exon	2150486	2150513	.	-	.	ID=exon:EgrG_000120500.1;Parent=transcript:EgrG_000120500
 pathogen_EgG_scaffold_0009	WormBase_imported	exon	2150148	2150204	.	-	.	ID=exon:EgrG_000120500.2;Parent=transcript:EgrG_000120500
 pathogen_EgG_scaffold_0009	WormBase_imported	exon	2149927	2150061	.	-	.	ID=exon:EgrG_000120500.3;Parent=transcript:EgrG_000120500
@@ -184,6 +187,7 @@ pathogen_EgG_scaffold_0009	WormBase_imported	CDS	2148191	2148214	.	-	2	ID=cds:Eg
 pathogen_EgG_scaffold_0009	WormBase_imported	CDS	2148026	2148084	.	-	2	ID=cds:EgrG_000120500;Parent=transcript:EgrG_000120500
 pathogen_EgG_scaffold_0012	WormBase_imported	gene	500069	510317	.	-	.	ID=gene:EgrG_001168700;Name=EgrG_001168700;biotype=protein_coding;description=von Willebrand factor A domain containing protein;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068WQX3
 pathogen_EgG_scaffold_0012	WormBase_imported	mRNA	500069	510317	.	-	.	ID=transcript:EgrG_001168700;Parent=gene:EgrG_001168700;Name=EgrG_001168700;info=method:InterPro accession:IPR002035 description:von Willebrand factor%2C type A %0Amethod:InterPro accession:IPR013694 description:VIT domain %0Amethod:InterPro accession:IPR036465 description:von Willebrand factor A-like domain superfamily
+#microexons transcript:EgrG_001168700:  246 265 149 220 127 187 134 185 312 21-24-18-18-21-12-18-12-21-12-27-15 60 144 191
 pathogen_EgG_scaffold_0012	WormBase_imported	exon	510072	510317	.	-	.	ID=exon:EgrG_001168700.1;Parent=transcript:EgrG_001168700
 pathogen_EgG_scaffold_0012	WormBase_imported	exon	509721	509985	.	-	.	ID=exon:EgrG_001168700.2;Parent=transcript:EgrG_001168700
 pathogen_EgG_scaffold_0012	WormBase_imported	exon	509496	509644	.	-	.	ID=exon:EgrG_001168700.3;Parent=transcript:EgrG_001168700
@@ -234,6 +238,7 @@ pathogen_EgG_scaffold_0012	WormBase_imported	CDS	500419	500562	.	-	2	ID=cds:EgrG
 pathogen_EgG_scaffold_0012	WormBase_imported	CDS	500069	500259	.	-	2	ID=cds:EgrG_001168700;Parent=transcript:EgrG_001168700
 pathogen_EgG_scaffold_0012	WormBase_imported	gene	2402517	2409729	.	+	.	ID=gene:EgrG_001187100;Name=EgrG_001187100;biotype=protein_coding;description=Zinc finger protein 91;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068WYH6
 pathogen_EgG_scaffold_0012	WormBase_imported	mRNA	2402517	2409729	.	+	.	ID=transcript:EgrG_001187100;Parent=gene:EgrG_001187100;Name=EgrG_001187100;info=method:InterPro accession:IPR013087 description:Zinc finger C2H2-type %0Amethod:InterPro accession:IPR036236 description:Zinc finger C2H2 superfamily
+#microexons transcript:EgrG_001187100:  22 414 36 24-27-15 81 87 87 81 90 87 87 87 96 117 75 57 87 87 87 87 51 377
 pathogen_EgG_scaffold_0012	WormBase_imported	exon	2402517	2402538	.	+	.	ID=exon:EgrG_001187100.1;Parent=transcript:EgrG_001187100
 pathogen_EgG_scaffold_0012	WormBase_imported	exon	2403676	2404089	.	+	.	ID=exon:EgrG_001187100.2;Parent=transcript:EgrG_001187100
 pathogen_EgG_scaffold_0012	WormBase_imported	exon	2404172	2404207	.	+	.	ID=exon:EgrG_001187100.3;Parent=transcript:EgrG_001187100
@@ -284,6 +289,7 @@ pathogen_EgG_scaffold_0012	WormBase_imported	CDS	2409124	2409174	.	+	2	ID=cds:Eg
 pathogen_EgG_scaffold_0012	WormBase_imported	CDS	2409353	2409729	.	+	2	ID=cds:EgrG_001187100;Parent=transcript:EgrG_001187100
 pathogen_EgG_scaffold_0023	WormBase_imported	gene	40921	43473	.	-	.	ID=gene:EgrG_000293700;Name=EgrG_000293700;biotype=protein_coding;description=Diagnostic antigen gp50;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068X2I6
 pathogen_EgG_scaffold_0023	WormBase_imported	mRNA	40921	43473	.	-	.	ID=transcript:EgrG_000293700;Parent=gene:EgrG_000293700;Name=EgrG_000293700
+#microexons transcript:EgrG_000293700:  51 90 166 30-18-15-27 44
 pathogen_EgG_scaffold_0023	WormBase_imported	exon	43423	43473	.	-	.	ID=exon:EgrG_000293700.1;Parent=transcript:EgrG_000293700
 pathogen_EgG_scaffold_0023	WormBase_imported	exon	42774	42863	.	-	.	ID=exon:EgrG_000293700.2;Parent=transcript:EgrG_000293700
 pathogen_EgG_scaffold_0023	WormBase_imported	exon	42195	42360	.	-	.	ID=exon:EgrG_000293700.3;Parent=transcript:EgrG_000293700
@@ -302,6 +308,7 @@ pathogen_EgG_scaffold_0023	WormBase_imported	CDS	41291	41317	.	-	2	ID=cds:EgrG_0
 pathogen_EgG_scaffold_0023	WormBase_imported	CDS	40921	40964	.	-	2	ID=cds:EgrG_000293700;Parent=transcript:EgrG_000293700
 pathogen_EgG_scaffold_0025	WormBase_imported	gene	117448	120819	.	-	.	ID=gene:EgrG_000734700;Name=EgrG_000734700;biotype=protein_coding;description=Troponin i;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068X0C0
 pathogen_EgG_scaffold_0025	WormBase_imported	mRNA	117448	120819	.	-	.	ID=transcript:EgrG_000734700;Parent=gene:EgrG_000734700;Name=EgrG_000734700;info=method:InterPro accession:IPR001978 description:Troponin %0Amethod:InterPro accession:IPR038077 description:Troponin domain superfamily
+#microexons transcript:EgrG_000734700:  23 7 15-15-27 42 30 108 121 145 151 72
 pathogen_EgG_scaffold_0025	WormBase_imported	exon	120797	120819	.	-	.	ID=exon:EgrG_000734700.1;Parent=transcript:EgrG_000734700
 pathogen_EgG_scaffold_0025	WormBase_imported	exon	120415	120421	.	-	.	ID=exon:EgrG_000734700.2;Parent=transcript:EgrG_000734700
 pathogen_EgG_scaffold_0025	WormBase_imported	exon	120279	120293	.	-	.	ID=exon:EgrG_000734700.3;Parent=transcript:EgrG_000734700
@@ -328,6 +335,7 @@ pathogen_EgG_scaffold_0025	WormBase_imported	CDS	117745	117895	.	-	1	ID=cds:EgrG
 pathogen_EgG_scaffold_0025	WormBase_imported	CDS	117448	117519	.	-	0	ID=cds:EgrG_000734700;Parent=transcript:EgrG_000734700
 pathogen_EgG_scaffold_0033	WormBase_imported	gene	141527	145015	.	+	.	ID=gene:EgrG_000566700;Name=EgrG_000566700;biotype=protein_coding;description=Diagnostic antigen gp50;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068WWK3
 pathogen_EgG_scaffold_0033	WormBase_imported	mRNA	141527	145015	.	+	.	ID=transcript:EgrG_000566700;Parent=gene:EgrG_000566700;Name=EgrG_000566700
+#microexons transcript:EgrG_000566700:  46 89 106 123 104 19 132 18-15-27 53
 pathogen_EgG_scaffold_0033	WormBase_imported	exon	141527	141572	.	+	.	ID=exon:EgrG_000566700.1;Parent=transcript:EgrG_000566700
 pathogen_EgG_scaffold_0033	WormBase_imported	exon	141794	141882	.	+	.	ID=exon:EgrG_000566700.2;Parent=transcript:EgrG_000566700
 pathogen_EgG_scaffold_0033	WormBase_imported	exon	142094	142199	.	+	.	ID=exon:EgrG_000566700.3;Parent=transcript:EgrG_000566700
@@ -352,6 +360,7 @@ pathogen_EgG_scaffold_0033	WormBase_imported	CDS	144594	144620	.	+	2	ID=cds:EgrG
 pathogen_EgG_scaffold_0033	WormBase_imported	CDS	144963	145015	.	+	2	ID=cds:EgrG_000566700;Parent=transcript:EgrG_000566700
 pathogen_EgG_scaffold_0048	WormBase_imported	gene	174049	177517	.	-	.	ID=gene:EgrG_000324200;Name=EgrG_000324200;biotype=protein_coding;description=Diagnostic antigen gp50;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068WYA4
 pathogen_EgG_scaffold_0048	WormBase_imported	mRNA	174049	177517	.	-	.	ID=transcript:EgrG_000324200;Parent=gene:EgrG_000324200;Name=EgrG_000324200
+#microexons transcript:EgrG_000324200:  51 106 132 104 79 141 30-18-18-27 50
 pathogen_EgG_scaffold_0048	WormBase_imported	exon	177467	177517	.	-	.	ID=exon:EgrG_000324200.1;Parent=transcript:EgrG_000324200
 pathogen_EgG_scaffold_0048	WormBase_imported	exon	177195	177300	.	-	.	ID=exon:EgrG_000324200.2;Parent=transcript:EgrG_000324200
 pathogen_EgG_scaffold_0048	WormBase_imported	exon	176645	176776	.	-	.	ID=exon:EgrG_000324200.3;Parent=transcript:EgrG_000324200
@@ -590,6 +599,7 @@ pathogen_EgG_scaffold_0048	dust	low_complexity_region	179793	179811	.	-	.
 pathogen_EgG_scaffold_0048	dust	low_complexity_region	181926	181932	.	-	.	
 pathogen_EgG_scaffold_0114	WormBase_imported	gene	31346	32385	.	-	.	ID=gene:EgrG_002006500;Name=EgrG_002006500;biotype=protein_coding
 pathogen_EgG_scaffold_0114	WormBase_imported	mRNA	31346	32385	.	-	.	ID=transcript:EgrG_002006500;Parent=gene:EgrG_002006500;Name=EgrG_002006500
+#microexons transcript:EgrG_002006500:  13 27-15-27 53
 pathogen_EgG_scaffold_0114	WormBase_imported	exon	32373	32385	.	-	.	ID=exon:EgrG_002006500.1;Parent=transcript:EgrG_002006500
 pathogen_EgG_scaffold_0114	WormBase_imported	exon	32218	32244	.	-	.	ID=exon:EgrG_002006500.2;Parent=transcript:EgrG_002006500
 pathogen_EgG_scaffold_0114	WormBase_imported	exon	31920	31934	.	-	.	ID=exon:EgrG_002006500.3;Parent=transcript:EgrG_002006500

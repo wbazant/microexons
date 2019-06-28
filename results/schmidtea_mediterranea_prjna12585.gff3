@@ -1,5 +1,6 @@
 v31.004887	WormBase_imported	gene	14341	18375	.	-	.	ID=gene:mk4.004887.07;Name=mk4.004887.07;biotype=protein_coding
 v31.004887	WormBase_imported	mRNA	14341	18375	.	-	.	ID=transcript:mk4.004887.07;Parent=gene:mk4.004887.07;Name=mk4.004887.07
+#microexons transcript:mk4.004887.07:  85 39 30-30-21 45 30-24 67
 v31.004887	WormBase_imported	exon	18291	18375	.	-	.	ID=exon:mk4.004887.07.1;Parent=transcript:mk4.004887.07
 v31.004887	WormBase_imported	exon	17352	17390	.	-	.	ID=exon:mk4.004887.07.2;Parent=transcript:mk4.004887.07
 v31.004887	WormBase_imported	exon	17271	17300	.	-	.	ID=exon:mk4.004887.07.3;Parent=transcript:mk4.004887.07
@@ -20,6 +21,7 @@ v31.004887	WormBase_imported	CDS	14455	14478	.	-	2	ID=cds:mk4.004887.07;Parent=t
 v31.004887	WormBase_imported	CDS	14341	14407	.	-	2	ID=cds:mk4.004887.07;Parent=transcript:mk4.004887.07
 v31.022164	WormBase_imported	gene	244	13561	.	+	.	ID=gene:mk4.022164.00;Name=mk4.022164.00;biotype=protein_coding
 v31.022164	WormBase_imported	mRNA	244	13561	.	+	.	ID=transcript:mk4.022164.00;Parent=gene:mk4.022164.00;Name=mk4.022164.00;info=method:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily
+#microexons transcript:mk4.022164.00:  111 297 20 22 48 75 21-21-27 76
 v31.022164	WormBase_imported	exon	244	354	.	+	.	ID=exon:mk4.022164.00.1;Parent=transcript:mk4.022164.00
 v31.022164	WormBase_imported	exon	402	698	.	+	.	ID=exon:mk4.022164.00.2;Parent=transcript:mk4.022164.00
 v31.022164	WormBase_imported	exon	2995	3014	.	+	.	ID=exon:mk4.022164.00.3;Parent=transcript:mk4.022164.00
@@ -211,6 +213,7 @@ v31.017809	dust	low_complexity_region	13906	13967	.	-	.
 v31.017809	tandem	tandem_repeat	13935	13967	43	-	.	
 v31.025025	WormBase_imported	gene	2882	8595	.	-	.	ID=gene:mk4.025025.00;Name=mk4.025025.00;biotype=protein_coding
 v31.025025	WormBase_imported	mRNA	2882	8595	.	-	.	ID=transcript:mk4.025025.00;Parent=gene:mk4.025025.00;Name=mk4.025025.00
+#microexons transcript:mk4.025025.00:  173 39 30-30-30 88
 v31.025025	WormBase_imported	exon	8423	8595	.	-	.	ID=exon:mk4.025025.00.1;Parent=transcript:mk4.025025.00
 v31.025025	WormBase_imported	exon	3843	3881	.	-	.	ID=exon:mk4.025025.00.2;Parent=transcript:mk4.025025.00
 v31.025025	WormBase_imported	exon	3767	3796	.	-	.	ID=exon:mk4.025025.00.3;Parent=transcript:mk4.025025.00

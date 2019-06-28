@@ -1,5 +1,6 @@
 Scaffold00001	WormBase_imported	gene	1621170	1643524	.	-	.	ID=gene:TSAs00001g00170;Name=TSAs00001g00170;biotype=protein_coding
 Scaffold00001	WormBase_imported	mRNA	1621170	1643524	.	-	.	ID=transcript:TSAs00001g00170m00001;Parent=gene:TSAs00001g00170;Name=TSAs00001g00170m00001;info=method:InterPro accession:IPR004273 description:Dynein heavy chain region D6 P-loop domain %0Amethod:InterPro accession:IPR013602 description:Dynein heavy chain%2C domain-2 %0Amethod:InterPro accession:IPR024317 description:Dynein heavy chain%2C AAA module D4 %0Amethod:InterPro accession:IPR024743 description:Dynein heavy chain%2C coiled coil stalk %0Amethod:InterPro accession:IPR026983 description:Dynein heavy chain %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR035699 description:Dynein heavy chain%2C hydrolytic ATP-binding dynein motor region %0Amethod:InterPro accession:IPR035706 description:Dynein heavy chain%2C ATP-binding dynein motor region %0Amethod:InterPro accession:IPR041228 description:Dynein heavy chain%2C C-terminal domain %0Amethod:InterPro accession:IPR041466 description:Dynein heavy chain%2C AAA 5 extension domain %0Amethod:InterPro accession:IPR041589 description:Dynein heavy chain 3%2C AAA+ lid domain %0Amethod:InterPro accession:IPR041658 description:Dynein heavy chain AAA lid domain
+#microexons transcript:TSAs00001g00170m00001:  30 305 120 37 177 75 407 988 149 631 233 238 231 213 513 132 222 24-12-21-9 54 198 254 198 361 312 414 230 331 878 307 1629 186 138 384 178 104 207
 Scaffold00001	WormBase_imported	exon	1643495	1643524	.	-	.	ID=exon:TSAs00001g00170m00001.1;Parent=transcript:TSAs00001g00170m00001
 Scaffold00001	WormBase_imported	exon	1642982	1643286	.	-	.	ID=exon:TSAs00001g00170m00001.2;Parent=transcript:TSAs00001g00170m00001
 Scaffold00001	WormBase_imported	exon	1642649	1642768	.	-	.	ID=exon:TSAs00001g00170m00001.3;Parent=transcript:TSAs00001g00170m00001
@@ -80,6 +81,7 @@ Scaffold00001	WormBase_imported	CDS	1621547	1621650	.	-	2	ID=cds:TSAs00001g00170
 Scaffold00001	WormBase_imported	CDS	1621170	1621376	.	-	0	ID=cds:TSAs00001g00170m00001;Parent=transcript:TSAs00001g00170m00001
 Scaffold00001	WormBase_imported	gene	6301588	6317054	.	-	.	ID=gene:TSAs00001g00601;Name=TSAs00001g00601;biotype=protein_coding
 Scaffold00001	WormBase_imported	mRNA	6301588	6317054	.	-	.	ID=transcript:TSAs00001g00601m00001;Parent=gene:TSAs00001g00601;Name=TSAs00001g00601m00001
+#microexons transcript:TSAs00001g00601m00001:  187 95 214 850 1280 32 45 158 166 30-24-24 60 198 1524 203 274
 Scaffold00001	WormBase_imported	exon	6316868	6317054	.	-	.	ID=exon:TSAs00001g00601m00001.1;Parent=transcript:TSAs00001g00601m00001
 Scaffold00001	WormBase_imported	exon	6315623	6315717	.	-	.	ID=exon:TSAs00001g00601m00001.2;Parent=transcript:TSAs00001g00601m00001
 Scaffold00001	WormBase_imported	exon	6315181	6315394	.	-	.	ID=exon:TSAs00001g00601m00001.3;Parent=transcript:TSAs00001g00601m00001
@@ -116,6 +118,7 @@ Scaffold00001	WormBase_imported	CDS	6302620	6302822	.	-	0	ID=cds:TSAs00001g00601
 Scaffold00001	WormBase_imported	CDS	6301588	6301861	.	-	1	ID=cds:TSAs00001g00601m00001;Parent=transcript:TSAs00001g00601m00001
 Scaffold00002	WormBase_imported	gene	2965942	2974708	.	+	.	ID=gene:TSAs00002g00944;Name=TSAs00002g00944;biotype=protein_coding
 Scaffold00002	WormBase_imported	mRNA	2965942	2974708	.	+	.	ID=transcript:TSAs00002g00944m00001;Parent=gene:TSAs00002g00944;Name=TSAs00002g00944m00001;info=method:InterPro accession:IPR014752 description:Arrestin%2C C-terminal
+#microexons transcript:TSAs00002g00944m00001:  25 18 39 21-12-30 51 75 17 12 39 18 10 263 299 190 426 114
 Scaffold00002	WormBase_imported	exon	2965942	2965966	.	+	.	ID=exon:TSAs00002g00944m00001.1;Parent=transcript:TSAs00002g00944m00001
 Scaffold00002	WormBase_imported	exon	2966360	2966377	.	+	.	ID=exon:TSAs00002g00944m00001.2;Parent=transcript:TSAs00002g00944m00001
 Scaffold00002	WormBase_imported	exon	2966539	2966577	.	+	.	ID=exon:TSAs00002g00944m00001.3;Parent=transcript:TSAs00002g00944m00001
@@ -154,6 +157,7 @@ Scaffold00002	WormBase_imported	CDS	2973221	2973646	.	+	0	ID=cds:TSAs00002g00944
 Scaffold00002	WormBase_imported	CDS	2974595	2974708	.	+	0	ID=cds:TSAs00002g00944m00001;Parent=transcript:TSAs00002g00944m00001
 Scaffold00026	WormBase_imported	gene	816631	837844	.	+	.	ID=gene:TSAs00026g04378;Name=TSAs00026g04378;biotype=protein_coding
 Scaffold00026	WormBase_imported	mRNA	816631	837844	.	+	.	ID=transcript:TSAs00026g04378m00001;Parent=gene:TSAs00026g04378;Name=TSAs00026g04378m00001;info=method:InterPro accession:IPR001073 description:C1q domain %0Amethod:InterPro accession:IPR008983 description:Tumour necrosis factor-like domain superfamily %0Amethod:InterPro accession:IPR013087 description:Zinc finger C2H2-type %0Amethod:InterPro accession:IPR036236 description:Zinc finger C2H2 superfamily
+#microexons transcript:TSAs00026g04378m00001:  22 420 36 24-27-15 81 87 87 96 150 81 57 87 87 87 51 342 184 261 80 246 251 216
 Scaffold00026	WormBase_imported	exon	816631	816652	.	+	.	ID=exon:TSAs00026g04378m00001.1;Parent=transcript:TSAs00026g04378m00001
 Scaffold00026	WormBase_imported	exon	817306	817725	.	+	.	ID=exon:TSAs00026g04378m00001.2;Parent=transcript:TSAs00026g04378m00001
 Scaffold00026	WormBase_imported	exon	817806	817841	.	+	.	ID=exon:TSAs00026g04378m00001.3;Parent=transcript:TSAs00026g04378m00001
@@ -204,6 +208,7 @@ Scaffold00026	WormBase_imported	CDS	837099	837349	.	+	2	ID=cds:TSAs00026g04378m0
 Scaffold00026	WormBase_imported	CDS	837629	837844	.	+	0	ID=cds:TSAs00026g04378m00001;Parent=transcript:TSAs00026g04378m00001
 Scaffold00061	WormBase_imported	gene	59375	63043	.	+	.	ID=gene:TSAs00061g07071;Name=TSAs00061g07071;biotype=protein_coding
 Scaffold00061	WormBase_imported	mRNA	59375	63043	.	+	.	ID=transcript:TSAs00061g07071m00001;Parent=gene:TSAs00061g07071;Name=TSAs00061g07071m00001
+#microexons transcript:TSAs00061g07071m00001:  46 92 106 132 104 79 141 30-18-18-27 44
 Scaffold00061	WormBase_imported	exon	59375	59420	.	+	.	ID=exon:TSAs00061g07071m00001.1;Parent=transcript:TSAs00061g07071m00001
 Scaffold00061	WormBase_imported	exon	59486	59577	.	+	.	ID=exon:TSAs00061g07071m00001.2;Parent=transcript:TSAs00061g07071m00001
 Scaffold00061	WormBase_imported	exon	59796	59901	.	+	.	ID=exon:TSAs00061g07071m00001.3;Parent=transcript:TSAs00061g07071m00001
@@ -230,6 +235,7 @@ Scaffold00061	WormBase_imported	CDS	62218	62244	.	+	2	ID=cds:TSAs00061g07071m000
 Scaffold00061	WormBase_imported	CDS	63000	63043	.	+	2	ID=cds:TSAs00061g07071m00001;Parent=transcript:TSAs00061g07071m00001
 Scaffold00101	WormBase_imported	gene	36654	43718	.	+	.	ID=gene:TSAs00101g08571;Name=TSAs00101g08571;biotype=protein_coding
 Scaffold00101	WormBase_imported	mRNA	36654	43718	.	+	.	ID=transcript:TSAs00101g08571m00001;Parent=gene:TSAs00101g08571;Name=TSAs00101g08571m00001;info=method:InterPro accession:IPR000719 description:Protein kinase domain %0Amethod:InterPro accession:IPR008271 description:Serine/threonine-protein kinase%2C active site %0Amethod:InterPro accession:IPR011009 description:Protein kinase-like domain superfamily
+#microexons transcript:TSAs00101g08571m00001:  166 254 51 51 30-21-21 75
 Scaffold00101	WormBase_imported	exon	36654	36819	.	+	.	ID=exon:TSAs00101g08571m00001.1;Parent=transcript:TSAs00101g08571m00001
 Scaffold00101	WormBase_imported	exon	36869	37122	.	+	.	ID=exon:TSAs00101g08571m00001.2;Parent=transcript:TSAs00101g08571m00001
 Scaffold00101	WormBase_imported	exon	39503	39553	.	+	.	ID=exon:TSAs00101g08571m00001.3;Parent=transcript:TSAs00101g08571m00001
@@ -248,6 +254,7 @@ Scaffold00101	WormBase_imported	CDS	42111	42131	.	+	0	ID=cds:TSAs00101g08571m000
 Scaffold00101	WormBase_imported	CDS	43644	43718	.	+	0	ID=cds:TSAs00101g08571m00001;Parent=transcript:TSAs00101g08571m00001
 Scaffold00129	WormBase_imported	gene	26141	29462	.	-	.	ID=gene:TSAs00129g09113;Name=TSAs00129g09113;biotype=protein_coding
 Scaffold00129	WormBase_imported	mRNA	26141	29462	.	-	.	ID=transcript:TSAs00129g09113m00001;Parent=gene:TSAs00129g09113;Name=TSAs00129g09113m00001
+#microexons transcript:TSAs00129g09113m00001:  46 92 106 132 125 79 141 30-18-24-27 44
 Scaffold00129	WormBase_imported	exon	29417	29462	.	-	.	ID=exon:TSAs00129g09113m00001.1;Parent=transcript:TSAs00129g09113m00001
 Scaffold00129	WormBase_imported	exon	29230	29321	.	-	.	ID=exon:TSAs00129g09113m00001.2;Parent=transcript:TSAs00129g09113m00001
 Scaffold00129	WormBase_imported	exon	28907	29012	.	-	.	ID=exon:TSAs00129g09113m00001.3;Parent=transcript:TSAs00129g09113m00001
@@ -274,6 +281,7 @@ Scaffold00129	WormBase_imported	CDS	26497	26523	.	-	2	ID=cds:TSAs00129g09113m000
 Scaffold00129	WormBase_imported	CDS	26141	26184	.	-	2	ID=cds:TSAs00129g09113m00001;Parent=transcript:TSAs00129g09113m00001
 Scaffold00211	WormBase_imported	gene	90264	93741	.	-	.	ID=gene:TSAs00211g09970;Name=TSAs00211g09970;biotype=protein_coding
 Scaffold00211	WormBase_imported	mRNA	90264	93741	.	-	.	ID=transcript:TSAs00211g09970m00001;Parent=gene:TSAs00211g09970;Name=TSAs00211g09970m00001
+#microexons transcript:TSAs00211g09970m00001:  27 106 132 104 79 141 30-18-27 41
 Scaffold00211	WormBase_imported	exon	93715	93741	.	-	.	ID=exon:TSAs00211g09970m00001.1;Parent=transcript:TSAs00211g09970m00001
 Scaffold00211	WormBase_imported	exon	93365	93470	.	-	.	ID=exon:TSAs00211g09970m00001.2;Parent=transcript:TSAs00211g09970m00001
 Scaffold00211	WormBase_imported	exon	92853	92984	.	-	.	ID=exon:TSAs00211g09970m00001.3;Parent=transcript:TSAs00211g09970m00001
@@ -404,6 +412,7 @@ Scaffold00211	dust	low_complexity_region	116712	118250	.	-	.
 Scaffold00211	trf	tandem_repeat	120838	120969	264	-	.	
 Scaffold00499	WormBase_imported	gene	36632	39415	.	+	.	ID=gene:TSAs00499g11451;Name=TSAs00499g11451;biotype=protein_coding
 Scaffold00499	WormBase_imported	mRNA	36632	39415	.	+	.	ID=transcript:TSAs00499g11451m00001;Parent=gene:TSAs00499g11451;Name=TSAs00499g11451m00001
+#microexons transcript:TSAs00499g11451m00001:  49 92 106 132 104 79 141 30-18-15-27 71
 Scaffold00499	WormBase_imported	exon	36632	36680	.	+	.	ID=exon:TSAs00499g11451m00001.1;Parent=transcript:TSAs00499g11451m00001
 Scaffold00499	WormBase_imported	exon	36810	36901	.	+	.	ID=exon:TSAs00499g11451m00001.2;Parent=transcript:TSAs00499g11451m00001
 Scaffold00499	WormBase_imported	exon	37054	37159	.	+	.	ID=exon:TSAs00499g11451m00001.3;Parent=transcript:TSAs00499g11451m00001

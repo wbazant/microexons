@@ -1,5 +1,6 @@
 scaffold562	WormBase_imported	gene	43061	45070	.	-	.	ID=gene:WR25_03228;Name=WR25_03228;biotype=protein_coding
 scaffold562	WormBase_imported	mRNA	43061	45070	.	-	.	ID=transcript:WR25_03228.1;Parent=gene:WR25_03228;Name=WR25_03228.1;info=method:InterPro accession:IPR002486 description:Nematode cuticle collagen%2C N-terminal
+#microexons transcript:WR25_03228.1:  144 85 68 18-30-9 14 40 109 25 13 57 21 57
 scaffold562	WormBase_imported	exon	44927	45070	.	-	.	ID=exon:WR25_03228.1.1;Parent=transcript:WR25_03228.1
 scaffold562	WormBase_imported	exon	44657	44741	.	-	.	ID=exon:WR25_03228.1.2;Parent=transcript:WR25_03228.1
 scaffold562	WormBase_imported	exon	44538	44605	.	-	.	ID=exon:WR25_03228.1.3;Parent=transcript:WR25_03228.1
@@ -30,6 +31,7 @@ scaffold562	WormBase_imported	CDS	43234	43254	.	-	0	ID=cds:WR25_03228.1;Parent=t
 scaffold562	WormBase_imported	CDS	43061	43117	.	-	0	ID=cds:WR25_03228.1;Parent=transcript:WR25_03228.1
 scaffold422	WormBase_imported	gene	180588	186634	.	-	.	ID=gene:WR25_15155;Name=WR25_15155;biotype=protein_coding
 scaffold422	WormBase_imported	mRNA	180588	186634	.	-	.	ID=transcript:WR25_15155.1;Parent=gene:WR25_15155;Name=WR25_15155.1
+#microexons transcript:WR25_15155.1:  74 38 30 51 15-30-27 69 57 36 39 33 42 12 42 33 138 23
 scaffold422	WormBase_imported	exon	186561	186634	.	-	.	ID=exon:WR25_15155.1.1;Parent=transcript:WR25_15155.1
 scaffold422	WormBase_imported	exon	185376	185413	.	-	.	ID=exon:WR25_15155.1.2;Parent=transcript:WR25_15155.1
 scaffold422	WormBase_imported	exon	185292	185321	.	-	.	ID=exon:WR25_15155.1.3;Parent=transcript:WR25_15155.1
@@ -68,7 +70,9 @@ scaffold422	WormBase_imported	CDS	180723	180860	.	-	2	ID=cds:WR25_15155.1;Parent
 scaffold422	WormBase_imported	CDS	180588	180610	.	-	2	ID=cds:WR25_15155.1;Parent=transcript:WR25_15155.1
 scaffold50	WormBase_imported	gene	112343	119437	.	-	.	ID=gene:WR25_20206;Name=WR25_20206;biotype=protein_coding
 scaffold50	WormBase_imported	mRNA	112343	119437	.	-	.	ID=transcript:WR25_20206A.1;Parent=gene:WR25_20206;Name=WR25_20206A.1
+#microexons transcript:WR25_20206A.1:  873 75 38 30 51 15-30-27 69 54 36 33 39 42 9 33 216 23
 scaffold50	WormBase_imported	mRNA	112343	116802	.	-	.	ID=transcript:WR25_20206B.1;Parent=gene:WR25_20206;Name=WR25_20206B.1
+#microexons transcript:WR25_20206B.1:  432 15-30-27 69 54 36 33 39 42 9 33 216 23
 scaffold50	WormBase_imported	exon	118565	119437	.	-	.	ID=exon:WR25_20206A.1.1;Parent=transcript:WR25_20206A.1
 scaffold50	WormBase_imported	exon	118080	118154	.	-	.	ID=exon:WR25_20206A.1.2;Parent=transcript:WR25_20206A.1
 scaffold50	WormBase_imported	exon	116888	116925	.	-	.	ID=exon:WR25_20206A.1.3;Parent=transcript:WR25_20206A.1
@@ -137,6 +141,7 @@ scaffold50	WormBase_imported	CDS	112471	112686	.	-	2	ID=cds:WR25_20206B.1;Parent
 scaffold50	WormBase_imported	CDS	112343	112365	.	-	2	ID=cds:WR25_20206B.1;Parent=transcript:WR25_20206B.1
 scaffold688	WormBase_imported	gene	70402	72645	.	+	.	ID=gene:WR25_26533;Name=WR25_26533;biotype=protein_coding
 scaffold688	WormBase_imported	mRNA	70402	72645	.	+	.	ID=transcript:WR25_26533.1;Parent=gene:WR25_26533;Name=WR25_26533.1;info=method:InterPro accession:IPR008160 description:Collagen triple helix repeat
+#microexons transcript:WR25_26533.1:  132 47 21-27-9-18 28 37 99 37 37 39 22 92 108
 scaffold688	WormBase_imported	exon	70402	70533	.	+	.	ID=exon:WR25_26533.1.1;Parent=transcript:WR25_26533.1
 scaffold688	WormBase_imported	exon	70579	70625	.	+	.	ID=exon:WR25_26533.1.2;Parent=transcript:WR25_26533.1
 scaffold688	WormBase_imported	exon	70675	70695	.	+	.	ID=exon:WR25_26533.1.3;Parent=transcript:WR25_26533.1
@@ -169,6 +174,7 @@ scaffold688	WormBase_imported	CDS	72403	72494	.	+	2	ID=cds:WR25_26533.1;Parent=t
 scaffold688	WormBase_imported	CDS	72538	72645	.	+	0	ID=cds:WR25_26533.1;Parent=transcript:WR25_26533.1
 scaffold35	WormBase_imported	gene	61714	64607	.	-	.	ID=gene:WR25_22180;Name=WR25_22180;biotype=protein_coding
 scaffold35	WormBase_imported	mRNA	61714	64607	.	-	.	ID=transcript:WR25_22180.1;Parent=gene:WR25_22180;Name=WR25_22180.1;info=method:InterPro accession:IPR002486 description:Nematode cuticle collagen%2C N-terminal
+#microexons transcript:WR25_22180.1:  144 85 68 18-30-9 14 40 26 25 13 57 21 11 939
 scaffold35	WormBase_imported	exon	64464	64607	.	-	.	ID=exon:WR25_22180.1.1;Parent=transcript:WR25_22180.1
 scaffold35	WormBase_imported	exon	64195	64279	.	-	.	ID=exon:WR25_22180.1.2;Parent=transcript:WR25_22180.1
 scaffold35	WormBase_imported	exon	64076	64143	.	-	.	ID=exon:WR25_22180.1.3;Parent=transcript:WR25_22180.1
@@ -202,6 +208,7 @@ scaffold35	WormBase_imported	CDS	62596	62652	.	-	0	ID=cds:WR25_22180.1;Parent=tr
 scaffold35	WormBase_imported	three_prime_UTR	61714	62595	.	-	.	Parent=transcript:WR25_22180.1
 scaffold2546	WormBase_imported	gene	23290	26455	.	+	.	ID=gene:WR25_18867;Name=WR25_18867;biotype=protein_coding
 scaffold2546	WormBase_imported	mRNA	23290	26455	.	+	.	ID=transcript:WR25_18867.1;Parent=gene:WR25_18867;Name=WR25_18867.1
+#microexons transcript:WR25_18867.1:  724 164 59 42 44 35 63 30-9-27 31 56
 scaffold2546	WormBase_imported	exon	23290	24013	.	+	.	ID=exon:WR25_18867.1.1;Parent=transcript:WR25_18867.1
 scaffold2546	WormBase_imported	exon	24262	24425	.	+	.	ID=exon:WR25_18867.1.2;Parent=transcript:WR25_18867.1
 scaffold2546	WormBase_imported	exon	24805	24863	.	+	.	ID=exon:WR25_18867.1.3;Parent=transcript:WR25_18867.1

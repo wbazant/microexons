@@ -1,5 +1,6 @@
 NIRI01000260.1	WormBase_imported	gene	185117	252197	.	-	.	ID=gene:Cs-k2.gene8;Name=Cs-k2.gene8;biotype=protein_coding
 NIRI01000260.1	WormBase_imported	mRNA	185117	252197	.	-	.	ID=transcript:Cs-k2.gene8;Parent=gene:Cs-k2.gene8;Name=Cs-k2.gene8;info=method:InterPro accession:IPR000859 description:CUB domain %0Amethod:InterPro accession:IPR035914 description:Spermadhesin%2C CUB domain superfamily
+#microexons transcript:Cs-k2.gene8:  73 451 205 133 65 157 155 163 24 146 169 179 196 12-12-24-27 131 183
 NIRI01000260.1	WormBase_imported	exon	252125	252197	.	-	.	ID=exon:Cs-k2.gene8.1;Parent=transcript:Cs-k2.gene8
 NIRI01000260.1	WormBase_imported	exon	247693	248143	.	-	.	ID=exon:Cs-k2.gene8.2;Parent=transcript:Cs-k2.gene8
 NIRI01000260.1	WormBase_imported	exon	247176	247380	.	-	.	ID=exon:Cs-k2.gene8.3;Parent=transcript:Cs-k2.gene8
@@ -40,6 +41,7 @@ NIRI01000260.1	WormBase_imported	CDS	189099	189229	.	-	2	ID=cds:Cs-k2.gene8;Pare
 NIRI01000260.1	WormBase_imported	CDS	185117	185299	.	-	0	ID=cds:Cs-k2.gene8;Parent=transcript:Cs-k2.gene8
 NIRI01000260.1	WormBase_imported	gene	3669579	3697768	.	+	.	ID=gene:Cs-k2.gene93;Name=Cs-k2.gene93;biotype=protein_coding
 NIRI01000260.1	WormBase_imported	mRNA	3669579	3697768	.	+	.	ID=transcript:Cs-k2.gene93;Parent=gene:Cs-k2.gene93;Name=Cs-k2.gene93
+#microexons transcript:Cs-k2.gene93:  15-21-30-21-21-30-9-15 54 15-21-30-21-21-30 48
 NIRI01000260.1	WormBase_imported	exon	3669579	3669593	.	+	.	ID=exon:Cs-k2.gene93.1;Parent=transcript:Cs-k2.gene93
 NIRI01000260.1	WormBase_imported	exon	3670312	3670332	.	+	.	ID=exon:Cs-k2.gene93.2;Parent=transcript:Cs-k2.gene93
 NIRI01000260.1	WormBase_imported	exon	3671571	3671600	.	+	.	ID=exon:Cs-k2.gene93.3;Parent=transcript:Cs-k2.gene93
@@ -74,6 +76,7 @@ NIRI01000260.1	WormBase_imported	CDS	3697413	3697442	.	+	2	ID=cds:Cs-k2.gene93;P
 NIRI01000260.1	WormBase_imported	CDS	3697721	3697768	.	+	2	ID=cds:Cs-k2.gene93;Parent=transcript:Cs-k2.gene93
 NIRI01002228.1	WormBase_imported	gene	340717	344744	.	+	.	ID=gene:Cs-k2.gene4717;Name=Cs-k2.gene4717;biotype=protein_coding
 NIRI01002228.1	WormBase_imported	mRNA	340717	344744	.	+	.	ID=transcript:Cs-k2.gene4717;Parent=gene:Cs-k2.gene4717;Name=Cs-k2.gene4717
+#microexons transcript:Cs-k2.gene4717:  112 24-27-30 284
 NIRI01002228.1	WormBase_imported	exon	340717	340828	.	+	.	ID=exon:Cs-k2.gene4717.1;Parent=transcript:Cs-k2.gene4717
 NIRI01002228.1	WormBase_imported	exon	343023	343046	.	+	.	ID=exon:Cs-k2.gene4717.2;Parent=transcript:Cs-k2.gene4717
 NIRI01002228.1	WormBase_imported	exon	343450	343476	.	+	.	ID=exon:Cs-k2.gene4717.3;Parent=transcript:Cs-k2.gene4717
@@ -86,6 +89,7 @@ NIRI01002228.1	WormBase_imported	CDS	344292	344321	.	+	2	ID=cds:Cs-k2.gene4717;P
 NIRI01002228.1	WormBase_imported	CDS	344461	344744	.	+	2	ID=cds:Cs-k2.gene4717;Parent=transcript:Cs-k2.gene4717
 NIRI01002486.1	WormBase_imported	gene	1937517	1956246	.	+	.	ID=gene:Cs-k2.gene3454;Name=Cs-k2.gene3454;biotype=protein_coding
 NIRI01002486.1	WormBase_imported	mRNA	1937517	1956246	.	+	.	ID=transcript:Cs-k2.gene3454;Parent=gene:Cs-k2.gene3454;Name=Cs-k2.gene3454
+#microexons transcript:Cs-k2.gene3454:  25 21-15-9-21-21-15-18-9-24-21-9-21-21 67 192
 NIRI01002486.1	WormBase_imported	exon	1937517	1937541	.	+	.	ID=exon:Cs-k2.gene3454.1;Parent=transcript:Cs-k2.gene3454
 NIRI01002486.1	WormBase_imported	exon	1941922	1941942	.	+	.	ID=exon:Cs-k2.gene3454.2;Parent=transcript:Cs-k2.gene3454
 NIRI01002486.1	WormBase_imported	exon	1942870	1942884	.	+	.	ID=exon:Cs-k2.gene3454.3;Parent=transcript:Cs-k2.gene3454
@@ -120,6 +124,7 @@ NIRI01002486.1	WormBase_imported	CDS	1954537	1954603	.	+	2	ID=cds:Cs-k2.gene3454
 NIRI01002486.1	WormBase_imported	CDS	1956055	1956246	.	+	1	ID=cds:Cs-k2.gene3454;Parent=transcript:Cs-k2.gene3454
 NIRI01000032.1	WormBase_imported	gene	1454127	1489400	.	-	.	ID=gene:Cs-k2.gene6027;Name=Cs-k2.gene6027;biotype=protein_coding
 NIRI01000032.1	WormBase_imported	mRNA	1454127	1489400	.	-	.	ID=transcript:Cs-k2.gene6027;Parent=gene:Cs-k2.gene6027;Name=Cs-k2.gene6027
+#microexons transcript:Cs-k2.gene6027:  24-27-24-27-27-24-27-27-18-12 39 21-21-21-21-21-15
 NIRI01000032.1	WormBase_imported	exon	1489377	1489400	.	-	.	ID=exon:Cs-k2.gene6027.1;Parent=transcript:Cs-k2.gene6027
 NIRI01000032.1	WormBase_imported	exon	1485985	1486011	.	-	.	ID=exon:Cs-k2.gene6027.2;Parent=transcript:Cs-k2.gene6027
 NIRI01000032.1	WormBase_imported	exon	1485542	1485565	.	-	.	ID=exon:Cs-k2.gene6027.3;Parent=transcript:Cs-k2.gene6027
@@ -156,6 +161,7 @@ NIRI01000032.1	WormBase_imported	CDS	1454740	1454760	.	-	2	ID=cds:Cs-k2.gene6027
 NIRI01000032.1	WormBase_imported	CDS	1454127	1454141	.	-	2	ID=cds:Cs-k2.gene6027;Parent=transcript:Cs-k2.gene6027
 NIRI01002457.1	WormBase_imported	gene	1441602	1478235	.	-	.	ID=gene:Cs-k2.gene1527;Name=Cs-k2.gene1527;biotype=protein_coding
 NIRI01002457.1	WormBase_imported	mRNA	1441602	1478235	.	-	.	ID=transcript:Cs-k2.gene1527;Parent=gene:Cs-k2.gene1527;Name=Cs-k2.gene1527
+#microexons transcript:Cs-k2.gene1527:  72 93 96 149 97 66 52 33 15-15-15-12 209
 NIRI01002457.1	WormBase_imported	exon	1478164	1478235	.	-	.	ID=exon:Cs-k2.gene1527.1;Parent=transcript:Cs-k2.gene1527
 NIRI01002457.1	WormBase_imported	exon	1474821	1474913	.	-	.	ID=exon:Cs-k2.gene1527.2;Parent=transcript:Cs-k2.gene1527
 NIRI01002457.1	WormBase_imported	exon	1473704	1473799	.	-	.	ID=exon:Cs-k2.gene1527.3;Parent=transcript:Cs-k2.gene1527
@@ -184,6 +190,7 @@ NIRI01002457.1	WormBase_imported	CDS	1445282	1445293	.	-	2	ID=cds:Cs-k2.gene1527
 NIRI01002457.1	WormBase_imported	CDS	1441602	1441810	.	-	2	ID=cds:Cs-k2.gene1527;Parent=transcript:Cs-k2.gene1527
 NIRI01001933.1	WormBase_imported	gene	316193	326248	.	+	.	ID=gene:Cs-k2.gene9727;Name=Cs-k2.gene9727;biotype=protein_coding
 NIRI01001933.1	WormBase_imported	mRNA	316193	326248	.	+	.	ID=transcript:Cs-k2.gene9727;Parent=gene:Cs-k2.gene9727;Name=Cs-k2.gene9727
+#microexons transcript:Cs-k2.gene9727:  74 119 15-24-21-9-21-21 67
 NIRI01001933.1	WormBase_imported	exon	316193	316266	.	+	.	ID=exon:Cs-k2.gene9727.1;Parent=transcript:Cs-k2.gene9727
 NIRI01001933.1	WormBase_imported	exon	317992	318110	.	+	.	ID=exon:Cs-k2.gene9727.2;Parent=transcript:Cs-k2.gene9727
 NIRI01001933.1	WormBase_imported	exon	319314	319328	.	+	.	ID=exon:Cs-k2.gene9727.3;Parent=transcript:Cs-k2.gene9727
@@ -204,6 +211,7 @@ NIRI01001933.1	WormBase_imported	CDS	322977	322997	.	+	2	ID=cds:Cs-k2.gene9727;P
 NIRI01001933.1	WormBase_imported	CDS	326182	326248	.	+	2	ID=cds:Cs-k2.gene9727;Parent=transcript:Cs-k2.gene9727
 NIRI01000068.1	WormBase_imported	gene	1350186	1374007	.	-	.	ID=gene:Cs-k2.gene11476;Name=Cs-k2.gene11476;biotype=protein_coding
 NIRI01000068.1	WormBase_imported	mRNA	1350186	1374007	.	-	.	ID=transcript:Cs-k2.gene11476;Parent=gene:Cs-k2.gene11476;Name=Cs-k2.gene11476
+#microexons transcript:Cs-k2.gene11476:  12 7 12-12-18-12-18-18-12-12-18-12-12-18
 NIRI01000068.1	WormBase_imported	exon	1373996	1374007	.	-	.	ID=exon:Cs-k2.gene11476.1;Parent=transcript:Cs-k2.gene11476
 NIRI01000068.1	WormBase_imported	exon	1364208	1364214	.	-	.	ID=exon:Cs-k2.gene11476.2;Parent=transcript:Cs-k2.gene11476
 NIRI01000068.1	WormBase_imported	exon	1363053	1363064	.	-	.	ID=exon:Cs-k2.gene11476.3;Parent=transcript:Cs-k2.gene11476
@@ -234,6 +242,7 @@ NIRI01000068.1	WormBase_imported	CDS	1353273	1353284	.	-	2	ID=cds:Cs-k2.gene1147
 NIRI01000068.1	WormBase_imported	CDS	1350186	1350203	.	-	2	ID=cds:Cs-k2.gene11476;Parent=transcript:Cs-k2.gene11476
 NIRI01002071.1	WormBase_imported	gene	81092	98130	.	+	.	ID=gene:Cs-k2.gene3216;Name=Cs-k2.gene3216;biotype=protein_coding
 NIRI01002071.1	WormBase_imported	mRNA	81092	98130	.	+	.	ID=transcript:Cs-k2.gene3216;Parent=gene:Cs-k2.gene3216;Name=Cs-k2.gene3216
+#microexons transcript:Cs-k2.gene3216:  27-9-21-21-21-24-27-9-27 13 6
 NIRI01002071.1	WormBase_imported	exon	81092	81118	.	+	.	ID=exon:Cs-k2.gene3216.1;Parent=transcript:Cs-k2.gene3216
 NIRI01002071.1	WormBase_imported	exon	92352	92360	.	+	.	ID=exon:Cs-k2.gene3216.2;Parent=transcript:Cs-k2.gene3216
 NIRI01002071.1	WormBase_imported	exon	92467	92487	.	+	.	ID=exon:Cs-k2.gene3216.3;Parent=transcript:Cs-k2.gene3216
@@ -258,6 +267,7 @@ NIRI01002071.1	WormBase_imported	CDS	97883	97895	.	+	2	ID=cds:Cs-k2.gene3216;Par
 NIRI01002071.1	WormBase_imported	CDS	98125	98130	.	+	1	ID=cds:Cs-k2.gene3216;Parent=transcript:Cs-k2.gene3216
 NIRI01001733.1	WormBase_imported	gene	1330443	1353417	.	-	.	ID=gene:Cs-k2.gene7848;Name=Cs-k2.gene7848;biotype=protein_coding
 NIRI01001733.1	WormBase_imported	mRNA	1330443	1353417	.	-	.	ID=transcript:Cs-k2.gene7848;Parent=gene:Cs-k2.gene7848;Name=Cs-k2.gene7848
+#microexons transcript:Cs-k2.gene7848:  24-24-24-24-21 36 24-24-24
 NIRI01001733.1	WormBase_imported	exon	1353394	1353417	.	-	.	ID=exon:Cs-k2.gene7848.1;Parent=transcript:Cs-k2.gene7848
 NIRI01001733.1	WormBase_imported	exon	1351870	1351893	.	-	.	ID=exon:Cs-k2.gene7848.2;Parent=transcript:Cs-k2.gene7848
 NIRI01001733.1	WormBase_imported	exon	1348461	1348484	.	-	.	ID=exon:Cs-k2.gene7848.3;Parent=transcript:Cs-k2.gene7848
@@ -278,6 +288,7 @@ NIRI01001733.1	WormBase_imported	CDS	1332648	1332671	.	-	2	ID=cds:Cs-k2.gene7848
 NIRI01001733.1	WormBase_imported	CDS	1330443	1330466	.	-	2	ID=cds:Cs-k2.gene7848;Parent=transcript:Cs-k2.gene7848
 NIRI01000374.1	WormBase_imported	gene	1038651	1067961	.	+	.	ID=gene:Cs-k2.gene8155;Name=Cs-k2.gene8155;biotype=protein_coding
 NIRI01000374.1	WormBase_imported	mRNA	1038651	1067961	.	+	.	ID=transcript:Cs-k2.gene8155;Parent=gene:Cs-k2.gene8155;Name=Cs-k2.gene8155
+#microexons transcript:Cs-k2.gene8155:  15 39 36 15-18-18-21-24-24-21-18-21 33 21-21-30-30
 NIRI01000374.1	WormBase_imported	exon	1038651	1038665	.	+	.	ID=exon:Cs-k2.gene8155.1;Parent=transcript:Cs-k2.gene8155
 NIRI01000374.1	WormBase_imported	exon	1046693	1046731	.	+	.	ID=exon:Cs-k2.gene8155.2;Parent=transcript:Cs-k2.gene8155
 NIRI01000374.1	WormBase_imported	exon	1049365	1049400	.	+	.	ID=exon:Cs-k2.gene8155.3;Parent=transcript:Cs-k2.gene8155
@@ -314,6 +325,7 @@ NIRI01000374.1	WormBase_imported	CDS	1065180	1065209	.	+	2	ID=cds:Cs-k2.gene8155
 NIRI01000374.1	WormBase_imported	CDS	1067932	1067961	.	+	2	ID=cds:Cs-k2.gene8155;Parent=transcript:Cs-k2.gene8155
 NIRI01000374.1	WormBase_imported	gene	1852789	1874346	.	+	.	ID=gene:Cs-k2.gene8175;Name=Cs-k2.gene8175;biotype=protein_coding
 NIRI01000374.1	WormBase_imported	mRNA	1852789	1874346	.	+	.	ID=transcript:Cs-k2.gene8175;Parent=gene:Cs-k2.gene8175;Name=Cs-k2.gene8175
+#microexons transcript:Cs-k2.gene8175:  21-24-21-21-21-24-21
 NIRI01000374.1	WormBase_imported	exon	1852789	1852809	.	+	.	ID=exon:Cs-k2.gene8175.1;Parent=transcript:Cs-k2.gene8175
 NIRI01000374.1	WormBase_imported	exon	1855230	1855253	.	+	.	ID=exon:Cs-k2.gene8175.2;Parent=transcript:Cs-k2.gene8175
 NIRI01000374.1	WormBase_imported	exon	1857219	1857239	.	+	.	ID=exon:Cs-k2.gene8175.3;Parent=transcript:Cs-k2.gene8175
@@ -330,6 +342,7 @@ NIRI01000374.1	WormBase_imported	CDS	1868656	1868679	.	+	2	ID=cds:Cs-k2.gene8175
 NIRI01000374.1	WormBase_imported	CDS	1874326	1874346	.	+	2	ID=cds:Cs-k2.gene8175;Parent=transcript:Cs-k2.gene8175
 NIRI01001822.1	WormBase_imported	gene	1446082	1518887	.	-	.	ID=gene:Cs-k2.gene4303;Name=Cs-k2.gene4303;biotype=protein_coding
 NIRI01001822.1	WormBase_imported	mRNA	1446082	1518887	.	-	.	ID=transcript:Cs-k2.gene4303;Parent=gene:Cs-k2.gene4303;Name=Cs-k2.gene4303
+#microexons transcript:Cs-k2.gene4303:  90 39 48 92 226 57 30-30-27-24 98 241 60 57 48 104 238 57 33 27-27 36 39 63 98 223 72 24-9-30-27-24 92 220 57 57 89 181 54 74 229 57 14
 NIRI01001822.1	WormBase_imported	exon	1518798	1518887	.	-	.	ID=exon:Cs-k2.gene4303.1;Parent=transcript:Cs-k2.gene4303
 NIRI01001822.1	WormBase_imported	exon	1517909	1517947	.	-	.	ID=exon:Cs-k2.gene4303.2;Parent=transcript:Cs-k2.gene4303
 NIRI01001822.1	WormBase_imported	exon	1513933	1513980	.	-	.	ID=exon:Cs-k2.gene4303.3;Parent=transcript:Cs-k2.gene4303
@@ -418,6 +431,7 @@ NIRI01001822.1	WormBase_imported	CDS	1448563	1448619	.	-	2	ID=cds:Cs-k2.gene4303
 NIRI01001822.1	WormBase_imported	CDS	1446082	1446095	.	-	2	ID=cds:Cs-k2.gene4303;Parent=transcript:Cs-k2.gene4303
 NIRI01002339.1	WormBase_imported	gene	302545	311900	.	-	.	ID=gene:Cs-k2.gene6290;Name=Cs-k2.gene6290;biotype=protein_coding
 NIRI01002339.1	WormBase_imported	mRNA	302545	311900	.	-	.	ID=transcript:Cs-k2.gene6290;Parent=gene:Cs-k2.gene6290;Name=Cs-k2.gene6290
+#microexons transcript:Cs-k2.gene6290:  22 30-21-21-30 36 89
 NIRI01002339.1	WormBase_imported	exon	311879	311900	.	-	.	ID=exon:Cs-k2.gene6290.1;Parent=transcript:Cs-k2.gene6290
 NIRI01002339.1	WormBase_imported	exon	310059	310088	.	-	.	ID=exon:Cs-k2.gene6290.2;Parent=transcript:Cs-k2.gene6290
 NIRI01002339.1	WormBase_imported	exon	309545	309565	.	-	.	ID=exon:Cs-k2.gene6290.3;Parent=transcript:Cs-k2.gene6290
@@ -434,6 +448,7 @@ NIRI01002339.1	WormBase_imported	CDS	303126	303161	.	-	2	ID=cds:Cs-k2.gene6290;P
 NIRI01002339.1	WormBase_imported	CDS	302545	302633	.	-	2	ID=cds:Cs-k2.gene6290;Parent=transcript:Cs-k2.gene6290
 NIRI01002339.1	WormBase_imported	gene	426982	454938	.	+	.	ID=gene:Cs-k2.gene6295;Name=Cs-k2.gene6295;biotype=protein_coding;description=Peptidase inhibitor 16;description_source=UniProtKB/TrEMBL;description_source_acc=A0A3R7GTY9;locus=Pi16
 NIRI01002339.1	WormBase_imported	mRNA	426982	454938	.	+	.	ID=transcript:Cs-k2.gene6295;Parent=gene:Cs-k2.gene6295;Name=Cs-k2.gene6295;info=method:InterPro accession:IPR001283 description:Cysteine-rich  secretory protein-related %0Amethod:InterPro accession:IPR014044 description:CAP domain %0Amethod:InterPro accession:IPR035940 description:CAP superfamily
+#microexons transcript:Cs-k2.gene6295:  110 145 119 91 116 32 30-30-30 113 110 91 116 53 15-24 54 27 48 48
 NIRI01002339.1	WormBase_imported	exon	426982	427091	.	+	.	ID=exon:Cs-k2.gene6295.1;Parent=transcript:Cs-k2.gene6295
 NIRI01002339.1	WormBase_imported	exon	429548	429692	.	+	.	ID=exon:Cs-k2.gene6295.2;Parent=transcript:Cs-k2.gene6295
 NIRI01002339.1	WormBase_imported	exon	430433	430551	.	+	.	ID=exon:Cs-k2.gene6295.3;Parent=transcript:Cs-k2.gene6295
@@ -476,6 +491,7 @@ NIRI01002339.1	WormBase_imported	CDS	453573	453620	.	+	2	ID=cds:Cs-k2.gene6295;P
 NIRI01002339.1	WormBase_imported	CDS	454891	454938	.	+	2	ID=cds:Cs-k2.gene6295;Parent=transcript:Cs-k2.gene6295
 NIRI01002339.1	WormBase_imported	gene	459739	472349	.	+	.	ID=gene:Cs-k2.gene6296;Name=Cs-k2.gene6296;biotype=protein_coding
 NIRI01002339.1	WormBase_imported	mRNA	459739	472349	.	+	.	ID=transcript:Cs-k2.gene6296;Parent=gene:Cs-k2.gene6296;Name=Cs-k2.gene6296
+#microexons transcript:Cs-k2.gene6296:  24-21-24 36 21-24-21
 NIRI01002339.1	WormBase_imported	exon	459739	459762	.	+	.	ID=exon:Cs-k2.gene6296.1;Parent=transcript:Cs-k2.gene6296
 NIRI01002339.1	WormBase_imported	exon	461819	461839	.	+	.	ID=exon:Cs-k2.gene6296.2;Parent=transcript:Cs-k2.gene6296
 NIRI01002339.1	WormBase_imported	exon	464900	464923	.	+	.	ID=exon:Cs-k2.gene6296.3;Parent=transcript:Cs-k2.gene6296
@@ -492,6 +508,7 @@ NIRI01002339.1	WormBase_imported	CDS	469040	469063	.	+	2	ID=cds:Cs-k2.gene6296;P
 NIRI01002339.1	WormBase_imported	CDS	472329	472349	.	+	2	ID=cds:Cs-k2.gene6296;Parent=transcript:Cs-k2.gene6296
 NIRI01002002.1	WormBase_imported	gene	1198385	1251459	.	+	.	ID=gene:Cs-k2.gene5625;Name=Cs-k2.gene5625;biotype=protein_coding
 NIRI01002002.1	WormBase_imported	mRNA	1198385	1251459	.	+	.	ID=transcript:Cs-k2.gene5625;Parent=gene:Cs-k2.gene5625;Name=Cs-k2.gene5625
+#microexons transcript:Cs-k2.gene5625:  36 18-18-27 42 48 36 36 36 36 30-27 42 42 33 30-9 39 36 18-30-21-27 42 42 18
 NIRI01002002.1	WormBase_imported	exon	1198385	1198420	.	+	.	ID=exon:Cs-k2.gene5625.1;Parent=transcript:Cs-k2.gene5625
 NIRI01002002.1	WormBase_imported	exon	1200297	1200314	.	+	.	ID=exon:Cs-k2.gene5625.2;Parent=transcript:Cs-k2.gene5625
 NIRI01002002.1	WormBase_imported	exon	1204314	1204331	.	+	.	ID=exon:Cs-k2.gene5625.3;Parent=transcript:Cs-k2.gene5625
@@ -546,6 +563,7 @@ NIRI01002002.1	WormBase_imported	CDS	1249589	1249630	.	+	2	ID=cds:Cs-k2.gene5625
 NIRI01002002.1	WormBase_imported	CDS	1251442	1251459	.	+	2	ID=cds:Cs-k2.gene5625;Parent=transcript:Cs-k2.gene5625
 NIRI01000082.1	WormBase_imported	gene	813690	828399	.	+	.	ID=gene:Cs-k2.gene7897;Name=Cs-k2.gene7897;biotype=protein_coding
 NIRI01000082.1	WormBase_imported	mRNA	813690	828399	.	+	.	ID=transcript:Cs-k2.gene7897;Parent=gene:Cs-k2.gene7897;Name=Cs-k2.gene7897
+#microexons transcript:Cs-k2.gene7897:  18-12-24-27-27 45 45
 NIRI01000082.1	WormBase_imported	exon	813690	813707	.	+	.	ID=exon:Cs-k2.gene7897.1;Parent=transcript:Cs-k2.gene7897
 NIRI01000082.1	WormBase_imported	exon	814266	814277	.	+	.	ID=exon:Cs-k2.gene7897.2;Parent=transcript:Cs-k2.gene7897
 NIRI01000082.1	WormBase_imported	exon	816432	816455	.	+	.	ID=exon:Cs-k2.gene7897.3;Parent=transcript:Cs-k2.gene7897
@@ -562,6 +580,7 @@ NIRI01000082.1	WormBase_imported	CDS	825444	825488	.	+	2	ID=cds:Cs-k2.gene7897;P
 NIRI01000082.1	WormBase_imported	CDS	828355	828399	.	+	2	ID=cds:Cs-k2.gene7897;Parent=transcript:Cs-k2.gene7897
 NIRI01000082.1	WormBase_imported	gene	857973	907254	.	+	.	ID=gene:Cs-k2.gene7899;Name=Cs-k2.gene7899;biotype=protein_coding
 NIRI01000082.1	WormBase_imported	mRNA	857973	907254	.	+	.	ID=transcript:Cs-k2.gene7899;Parent=gene:Cs-k2.gene7899;Name=Cs-k2.gene7899
+#microexons transcript:Cs-k2.gene7899:  18-18-12-18-24 75 21-24-21-12-21-21-18-15 101 238 24 77 154 36 57 98 163 48 113 220 57
 NIRI01000082.1	WormBase_imported	exon	857973	857990	.	+	.	ID=exon:Cs-k2.gene7899.1;Parent=transcript:Cs-k2.gene7899
 NIRI01000082.1	WormBase_imported	exon	858841	858858	.	+	.	ID=exon:Cs-k2.gene7899.2;Parent=transcript:Cs-k2.gene7899
 NIRI01000082.1	WormBase_imported	exon	859253	859264	.	+	.	ID=exon:Cs-k2.gene7899.3;Parent=transcript:Cs-k2.gene7899
@@ -618,6 +637,7 @@ NIRI01000082.1	WormBase_imported	CDS	904077	904296	.	+	0	ID=cds:Cs-k2.gene7899;P
 NIRI01000082.1	WormBase_imported	CDS	907198	907254	.	+	2	ID=cds:Cs-k2.gene7899;Parent=transcript:Cs-k2.gene7899
 NIRI01001399.1	WormBase_imported	gene	1201287	1207339	.	+	.	ID=gene:Cs-k2.gene9851;Name=Cs-k2.gene9851;biotype=protein_coding
 NIRI01001399.1	WormBase_imported	mRNA	1201287	1207339	.	+	.	ID=transcript:Cs-k2.gene9851;Parent=gene:Cs-k2.gene9851;Name=Cs-k2.gene9851
+#microexons transcript:Cs-k2.gene9851:  33 12-12-24 33 15-21 36 26 26
 NIRI01001399.1	WormBase_imported	exon	1201287	1201319	.	+	.	ID=exon:Cs-k2.gene9851.1;Parent=transcript:Cs-k2.gene9851
 NIRI01001399.1	WormBase_imported	exon	1202330	1202341	.	+	.	ID=exon:Cs-k2.gene9851.2;Parent=transcript:Cs-k2.gene9851
 NIRI01001399.1	WormBase_imported	exon	1202613	1202624	.	+	.	ID=exon:Cs-k2.gene9851.3;Parent=transcript:Cs-k2.gene9851
@@ -1502,6 +1522,7 @@ NIRI01001399.1	dust	low_complexity_region	1231892	1231899	.	-	.
 NIRI01001399.1	dust	low_complexity_region	1233932	1233940	.	-	.	
 NIRI01001582.1	WormBase_imported	gene	825125	852551	.	+	.	ID=gene:Cs-k2.gene8066;Name=Cs-k2.gene8066;biotype=protein_coding
 NIRI01001582.1	WormBase_imported	mRNA	825125	852551	.	+	.	ID=transcript:Cs-k2.gene8066;Parent=gene:Cs-k2.gene8066;Name=Cs-k2.gene8066
+#microexons transcript:Cs-k2.gene8066:  21-24-24 32 6 169 33 33 57 65 223 48 110 258
 NIRI01001582.1	WormBase_imported	exon	825125	825145	.	+	.	ID=exon:Cs-k2.gene8066.1;Parent=transcript:Cs-k2.gene8066
 NIRI01001582.1	WormBase_imported	exon	825742	825765	.	+	.	ID=exon:Cs-k2.gene8066.2;Parent=transcript:Cs-k2.gene8066
 NIRI01001582.1	WormBase_imported	exon	827431	827454	.	+	.	ID=exon:Cs-k2.gene8066.3;Parent=transcript:Cs-k2.gene8066
@@ -1532,6 +1553,7 @@ NIRI01001582.1	WormBase_imported	CDS	850373	850482	.	+	2	ID=cds:Cs-k2.gene8066;P
 NIRI01001582.1	WormBase_imported	CDS	852294	852551	.	+	0	ID=cds:Cs-k2.gene8066;Parent=transcript:Cs-k2.gene8066
 NIRI01001242.1	WormBase_imported	gene	990885	1064489	.	+	.	ID=gene:Cs-k2.gene11814;Name=Cs-k2.gene11814;biotype=protein_coding
 NIRI01001242.1	WormBase_imported	mRNA	990885	1064489	.	+	.	ID=transcript:Cs-k2.gene11814;Parent=gene:Cs-k2.gene11814;Name=Cs-k2.gene11814
+#microexons transcript:Cs-k2.gene11814:  21-27-21-21-18-18-18 263 319 71 114
 NIRI01001242.1	WormBase_imported	exon	990885	990905	.	+	.	ID=exon:Cs-k2.gene11814.1;Parent=transcript:Cs-k2.gene11814
 NIRI01001242.1	WormBase_imported	exon	993774	993800	.	+	.	ID=exon:Cs-k2.gene11814.2;Parent=transcript:Cs-k2.gene11814
 NIRI01001242.1	WormBase_imported	exon	997394	997414	.	+	.	ID=exon:Cs-k2.gene11814.3;Parent=transcript:Cs-k2.gene11814
@@ -2336,6 +2358,7 @@ NIRI01001242.1	dust	low_complexity_region	1074284	1074290	.	-	.
 NIRI01001242.1	dust	low_complexity_region	1075148	1075154	.	-	.	
 NIRI01000696.1	WormBase_imported	gene	771422	798747	.	+	.	ID=gene:Cs-k2.gene11594;Name=Cs-k2.gene11594;biotype=protein_coding
 NIRI01000696.1	WormBase_imported	mRNA	771422	798747	.	+	.	ID=transcript:Cs-k2.gene11594;Parent=gene:Cs-k2.gene11594;Name=Cs-k2.gene11594
+#microexons transcript:Cs-k2.gene11594:  165 56 70 157 24-21-18-21-24-18-24-6
 NIRI01000696.1	WormBase_imported	exon	771422	771586	.	+	.	ID=exon:Cs-k2.gene11594.1;Parent=transcript:Cs-k2.gene11594
 NIRI01000696.1	WormBase_imported	exon	776124	776179	.	+	.	ID=exon:Cs-k2.gene11594.2;Parent=transcript:Cs-k2.gene11594
 NIRI01000696.1	WormBase_imported	exon	786922	786991	.	+	.	ID=exon:Cs-k2.gene11594.3;Parent=transcript:Cs-k2.gene11594
@@ -2362,6 +2385,7 @@ NIRI01000696.1	WormBase_imported	CDS	798573	798596	.	+	2	ID=cds:Cs-k2.gene11594;
 NIRI01000696.1	WormBase_imported	CDS	798742	798747	.	+	2	ID=cds:Cs-k2.gene11594;Parent=transcript:Cs-k2.gene11594
 NIRI01000696.1	WormBase_imported	gene	801091	815087	.	+	.	ID=gene:Cs-k2.gene11595;Name=Cs-k2.gene11595;biotype=protein_coding
 NIRI01000696.1	WormBase_imported	mRNA	801091	815087	.	+	.	ID=transcript:Cs-k2.gene11595;Parent=gene:Cs-k2.gene11595;Name=Cs-k2.gene11595
+#microexons transcript:Cs-k2.gene11595:  21-21-21-21-21-24-21 51
 NIRI01000696.1	WormBase_imported	exon	801091	801111	.	+	.	ID=exon:Cs-k2.gene11595.1;Parent=transcript:Cs-k2.gene11595
 NIRI01000696.1	WormBase_imported	exon	805524	805544	.	+	.	ID=exon:Cs-k2.gene11595.2;Parent=transcript:Cs-k2.gene11595
 NIRI01000696.1	WormBase_imported	exon	805669	805689	.	+	.	ID=exon:Cs-k2.gene11595.3;Parent=transcript:Cs-k2.gene11595
@@ -2380,6 +2404,7 @@ NIRI01000696.1	WormBase_imported	CDS	814598	814618	.	+	2	ID=cds:Cs-k2.gene11595;
 NIRI01000696.1	WormBase_imported	CDS	815037	815087	.	+	2	ID=cds:Cs-k2.gene11595;Parent=transcript:Cs-k2.gene11595
 NIRI01000473.1	WormBase_imported	gene	869420	907722	.	-	.	ID=gene:Cs-k2.gene12457;Name=Cs-k2.gene12457;biotype=protein_coding;description=Calcium/calmodulin-dependent protein kinase type II subunit delta;description_source=UniProtKB/TrEMBL;description_source_acc=A0A3R7G1L8;locus=CAMK2D
 NIRI01000473.1	WormBase_imported	mRNA	869420	907722	.	-	.	ID=transcript:Cs-k2.gene12457;Parent=gene:Cs-k2.gene12457;Name=Cs-k2.gene12457;info=method:InterPro accession:IPR000719 description:Protein kinase domain %0Amethod:InterPro accession:IPR008271 description:Serine/threonine-protein kinase%2C active site %0Amethod:InterPro accession:IPR011009 description:Protein kinase-like domain superfamily
+#microexons transcript:Cs-k2.gene12457:  73 103 84 95 123 84 43 21-30-24 63 84 90 78 24 57 32
 NIRI01000473.1	WormBase_imported	exon	907650	907722	.	-	.	ID=exon:Cs-k2.gene12457.1;Parent=transcript:Cs-k2.gene12457
 NIRI01000473.1	WormBase_imported	exon	905244	905346	.	-	.	ID=exon:Cs-k2.gene12457.2;Parent=transcript:Cs-k2.gene12457
 NIRI01000473.1	WormBase_imported	exon	904056	904139	.	-	.	ID=exon:Cs-k2.gene12457.3;Parent=transcript:Cs-k2.gene12457
@@ -2416,6 +2441,7 @@ NIRI01000473.1	WormBase_imported	CDS	872406	872462	.	-	2	ID=cds:Cs-k2.gene12457;
 NIRI01000473.1	WormBase_imported	CDS	869420	869451	.	-	2	ID=cds:Cs-k2.gene12457;Parent=transcript:Cs-k2.gene12457
 NIRI01000831.1	WormBase_imported	gene	278829	300468	.	-	.	ID=gene:Cs-k2.gene8825;Name=Cs-k2.gene8825;biotype=protein_coding
 NIRI01000831.1	WormBase_imported	mRNA	278829	300468	.	-	.	ID=transcript:Cs-k2.gene8825;Parent=gene:Cs-k2.gene8825;Name=Cs-k2.gene8825
+#microexons transcript:Cs-k2.gene8825:  33 21-30-21-30-15-15-21 96 15-21
 NIRI01000831.1	WormBase_imported	exon	300436	300468	.	-	.	ID=exon:Cs-k2.gene8825.1;Parent=transcript:Cs-k2.gene8825
 NIRI01000831.1	WormBase_imported	exon	298901	298921	.	-	.	ID=exon:Cs-k2.gene8825.2;Parent=transcript:Cs-k2.gene8825
 NIRI01000831.1	WormBase_imported	exon	298201	298230	.	-	.	ID=exon:Cs-k2.gene8825.3;Parent=transcript:Cs-k2.gene8825
@@ -2440,6 +2466,7 @@ NIRI01000831.1	WormBase_imported	CDS	279692	279706	.	-	2	ID=cds:Cs-k2.gene8825;P
 NIRI01000831.1	WormBase_imported	CDS	278829	278849	.	-	2	ID=cds:Cs-k2.gene8825;Parent=transcript:Cs-k2.gene8825
 NIRI01000831.1	WormBase_imported	gene	308701	335711	.	+	.	ID=gene:Cs-k2.gene8826;Name=Cs-k2.gene8826;biotype=protein_coding
 NIRI01000831.1	WormBase_imported	mRNA	308701	335711	.	+	.	ID=transcript:Cs-k2.gene8826;Parent=gene:Cs-k2.gene8826;Name=Cs-k2.gene8826
+#microexons transcript:Cs-k2.gene8826:  33 21-30-21-30-21 54 21
 NIRI01000831.1	WormBase_imported	exon	308701	308733	.	+	.	ID=exon:Cs-k2.gene8826.1;Parent=transcript:Cs-k2.gene8826
 NIRI01000831.1	WormBase_imported	exon	310589	310609	.	+	.	ID=exon:Cs-k2.gene8826.2;Parent=transcript:Cs-k2.gene8826
 NIRI01000831.1	WormBase_imported	exon	319664	319693	.	+	.	ID=exon:Cs-k2.gene8826.3;Parent=transcript:Cs-k2.gene8826
@@ -2458,6 +2485,7 @@ NIRI01000831.1	WormBase_imported	CDS	330263	330316	.	+	2	ID=cds:Cs-k2.gene8826;P
 NIRI01000831.1	WormBase_imported	CDS	335691	335711	.	+	2	ID=cds:Cs-k2.gene8826;Parent=transcript:Cs-k2.gene8826
 NIRI01000820.1	WormBase_imported	gene	313220	322951	.	+	.	ID=gene:Cs-k2.gene8800;Name=Cs-k2.gene8800;biotype=protein_coding
 NIRI01000820.1	WormBase_imported	mRNA	313220	322951	.	+	.	ID=transcript:Cs-k2.gene8800;Parent=gene:Cs-k2.gene8800;Name=Cs-k2.gene8800
+#microexons transcript:Cs-k2.gene8800:  48 27 33 36 30 36 33 30-30-27-27 36 30-30
 NIRI01000820.1	WormBase_imported	exon	313220	313267	.	+	.	ID=exon:Cs-k2.gene8800.1;Parent=transcript:Cs-k2.gene8800
 NIRI01000820.1	WormBase_imported	exon	315479	315505	.	+	.	ID=exon:Cs-k2.gene8800.2;Parent=transcript:Cs-k2.gene8800
 NIRI01000820.1	WormBase_imported	exon	316240	316272	.	+	.	ID=exon:Cs-k2.gene8800.3;Parent=transcript:Cs-k2.gene8800
@@ -2488,6 +2516,7 @@ NIRI01000820.1	WormBase_imported	CDS	322030	322059	.	+	2	ID=cds:Cs-k2.gene8800;P
 NIRI01000820.1	WormBase_imported	CDS	322922	322951	.	+	2	ID=cds:Cs-k2.gene8800;Parent=transcript:Cs-k2.gene8800
 NIRI01000275.1	WormBase_imported	gene	760633	818993	.	+	.	ID=gene:Cs-k2.gene10828;Name=Cs-k2.gene10828;biotype=protein_coding;description=Homeobox protein DBX1;description_source=UniProtKB/TrEMBL;description_source_acc=A0A419QC55;locus=DBX1
 NIRI01000275.1	WormBase_imported	mRNA	760633	818993	.	+	.	ID=transcript:Cs-k2.gene10828;Parent=gene:Cs-k2.gene10828;Name=Cs-k2.gene10828;info=method:InterPro accession:IPR001356 description:Homeobox domain %0Amethod:InterPro accession:IPR009057 description:Homeobox-like domain superfamily %0Amethod:InterPro accession:IPR017970 description:Homeobox%2C conserved site
+#microexons transcript:Cs-k2.gene10828:  244 659 199 24 89 211 27-9-24-24 57 24 71 217 48 113 250 57
 NIRI01000275.1	WormBase_imported	exon	760633	760876	.	+	.	ID=exon:Cs-k2.gene10828.1;Parent=transcript:Cs-k2.gene10828
 NIRI01000275.1	WormBase_imported	exon	769395	770053	.	+	.	ID=exon:Cs-k2.gene10828.2;Parent=transcript:Cs-k2.gene10828
 NIRI01000275.1	WormBase_imported	exon	776796	776994	.	+	.	ID=exon:Cs-k2.gene10828.3;Parent=transcript:Cs-k2.gene10828
@@ -2526,6 +2555,7 @@ NIRI01000275.1	WormBase_imported	CDS	817779	818028	.	+	0	ID=cds:Cs-k2.gene10828;
 NIRI01000275.1	WormBase_imported	CDS	818937	818993	.	+	2	ID=cds:Cs-k2.gene10828;Parent=transcript:Cs-k2.gene10828
 NIRI01000275.1	WormBase_imported	gene	903050	939688	.	+	.	ID=gene:Cs-k2.gene10832;Name=Cs-k2.gene10832;biotype=protein_coding
 NIRI01000275.1	WormBase_imported	mRNA	903050	939688	.	+	.	ID=transcript:Cs-k2.gene10832;Parent=gene:Cs-k2.gene10832;Name=Cs-k2.gene10832
+#microexons transcript:Cs-k2.gene10832:  18-24-24-24 86 208 27-24-24 57 24 44 214 48 113 238 54 18-18
 NIRI01000275.1	WormBase_imported	exon	903050	903067	.	+	.	ID=exon:Cs-k2.gene10832.1;Parent=transcript:Cs-k2.gene10832
 NIRI01000275.1	WormBase_imported	exon	904306	904329	.	+	.	ID=exon:Cs-k2.gene10832.2;Parent=transcript:Cs-k2.gene10832
 NIRI01000275.1	WormBase_imported	exon	904966	904989	.	+	.	ID=exon:Cs-k2.gene10832.3;Parent=transcript:Cs-k2.gene10832
@@ -2566,6 +2596,7 @@ NIRI01000275.1	WormBase_imported	CDS	936205	936222	.	+	2	ID=cds:Cs-k2.gene10832;
 NIRI01000275.1	WormBase_imported	CDS	939671	939688	.	+	2	ID=cds:Cs-k2.gene10832;Parent=transcript:Cs-k2.gene10832
 NIRI01001846.1	WormBase_imported	gene	839040	895655	.	-	.	ID=gene:Cs-k2.gene12686;Name=Cs-k2.gene12686;biotype=protein_coding
 NIRI01001846.1	WormBase_imported	mRNA	839040	895655	.	-	.	ID=transcript:Cs-k2.gene12686;Parent=gene:Cs-k2.gene12686;Name=Cs-k2.gene12686
+#microexons transcript:Cs-k2.gene12686:  45 270 87 81 45 39 45 45 45 39 45 39 45 39 45 33 39 45 39 69 24-18-27
 NIRI01001846.1	WormBase_imported	exon	895611	895655	.	-	.	ID=exon:Cs-k2.gene12686.1;Parent=transcript:Cs-k2.gene12686
 NIRI01001846.1	WormBase_imported	exon	889123	889392	.	-	.	ID=exon:Cs-k2.gene12686.2;Parent=transcript:Cs-k2.gene12686
 NIRI01001846.1	WormBase_imported	exon	884236	884322	.	-	.	ID=exon:Cs-k2.gene12686.3;Parent=transcript:Cs-k2.gene12686
@@ -3375,6 +3406,7 @@ NIRI01001846.1	dust	low_complexity_region	902088	902094	.	-	.
 NIRI01001846.1	dust	low_complexity_region	906082	906088	.	-	.	
 NIRI01001852.1	WormBase_imported	gene	666418	721037	.	-	.	ID=gene:Cs-k2.gene13628;Name=Cs-k2.gene13628;biotype=protein_coding
 NIRI01001852.1	WormBase_imported	mRNA	666418	721037	.	-	.	ID=transcript:Cs-k2.gene13628;Parent=gene:Cs-k2.gene13628;Name=Cs-k2.gene13628
+#microexons transcript:Cs-k2.gene13628:  36 15-9-24-18 33 24-24 33 33 24-24-24-24-24 93 48 74 208 63 84 48 74 208 63
 NIRI01001852.1	WormBase_imported	exon	721002	721037	.	-	.	ID=exon:Cs-k2.gene13628.1;Parent=transcript:Cs-k2.gene13628
 NIRI01001852.1	WormBase_imported	exon	719632	719646	.	-	.	ID=exon:Cs-k2.gene13628.2;Parent=transcript:Cs-k2.gene13628
 NIRI01001852.1	WormBase_imported	exon	716972	716980	.	-	.	ID=exon:Cs-k2.gene13628.3;Parent=transcript:Cs-k2.gene13628
@@ -3427,6 +3459,7 @@ NIRI01001852.1	WormBase_imported	CDS	671959	672166	.	-	0	ID=cds:Cs-k2.gene13628;
 NIRI01001852.1	WormBase_imported	CDS	666418	666480	.	-	2	ID=cds:Cs-k2.gene13628;Parent=transcript:Cs-k2.gene13628
 NIRI01001977.1	WormBase_imported	gene	310238	328801	.	+	.	ID=gene:Cs-k2.gene10602;Name=Cs-k2.gene10602;biotype=protein_coding
 NIRI01001977.1	WormBase_imported	mRNA	310238	328801	.	+	.	ID=transcript:Cs-k2.gene10602;Parent=gene:Cs-k2.gene10602;Name=Cs-k2.gene10602
+#microexons transcript:Cs-k2.gene10602:  15-24-24-21-24-21-21-21-21-15-24-24-24-21-21
 NIRI01001977.1	WormBase_imported	exon	310238	310252	.	+	.	ID=exon:Cs-k2.gene10602.1;Parent=transcript:Cs-k2.gene10602
 NIRI01001977.1	WormBase_imported	exon	319220	319243	.	+	.	ID=exon:Cs-k2.gene10602.2;Parent=transcript:Cs-k2.gene10602
 NIRI01001977.1	WormBase_imported	exon	320806	320829	.	+	.	ID=exon:Cs-k2.gene10602.3;Parent=transcript:Cs-k2.gene10602
@@ -3459,6 +3492,7 @@ NIRI01001977.1	WormBase_imported	CDS	327115	327135	.	+	2	ID=cds:Cs-k2.gene10602;
 NIRI01001977.1	WormBase_imported	CDS	328781	328801	.	+	2	ID=cds:Cs-k2.gene10602;Parent=transcript:Cs-k2.gene10602
 NIRI01001856.1	WormBase_imported	gene	44195	98463	.	-	.	ID=gene:Cs-k2.gene11710;Name=Cs-k2.gene11710;biotype=protein_coding;description=LINE-1 retrotransposable element ORF2 protein;description_source=UniProtKB/TrEMBL;description_source_acc=A0A419PRU4;locus=Pol
 NIRI01001856.1	WormBase_imported	mRNA	44195	98463	.	-	.	ID=transcript:Cs-k2.gene11710;Parent=gene:Cs-k2.gene11710;Name=Cs-k2.gene11710;info=method:InterPro accession:IPR000477 description:Reverse transcriptase domain
+#microexons transcript:Cs-k2.gene11710:  27-27 33 24-27 33 27 33 27-27-27-27-21 163 625
 NIRI01001856.1	WormBase_imported	exon	98437	98463	.	-	.	ID=exon:Cs-k2.gene11710.1;Parent=transcript:Cs-k2.gene11710
 NIRI01001856.1	WormBase_imported	exon	96906	96932	.	-	.	ID=exon:Cs-k2.gene11710.2;Parent=transcript:Cs-k2.gene11710
 NIRI01001856.1	WormBase_imported	exon	94751	94783	.	-	.	ID=exon:Cs-k2.gene11710.3;Parent=transcript:Cs-k2.gene11710
@@ -3491,6 +3525,7 @@ NIRI01001856.1	WormBase_imported	CDS	44916	45078	.	-	2	ID=cds:Cs-k2.gene11710;Pa
 NIRI01001856.1	WormBase_imported	CDS	44195	44819	.	-	1	ID=cds:Cs-k2.gene11710;Parent=transcript:Cs-k2.gene11710
 NIRI01001418.1	WormBase_imported	gene	116566	126776	.	-	.	ID=gene:Cs-k2.gene13486;Name=Cs-k2.gene13486;biotype=protein_coding
 NIRI01001418.1	WormBase_imported	mRNA	116566	126776	.	-	.	ID=transcript:Cs-k2.gene13486;Parent=gene:Cs-k2.gene13486;Name=Cs-k2.gene13486
+#microexons transcript:Cs-k2.gene13486:  45 24-24-27-21-15-18-9-24-9
 NIRI01001418.1	WormBase_imported	exon	126732	126776	.	-	.	ID=exon:Cs-k2.gene13486.1;Parent=transcript:Cs-k2.gene13486
 NIRI01001418.1	WormBase_imported	exon	126454	126477	.	-	.	ID=exon:Cs-k2.gene13486.2;Parent=transcript:Cs-k2.gene13486
 NIRI01001418.1	WormBase_imported	exon	125650	125673	.	-	.	ID=exon:Cs-k2.gene13486.3;Parent=transcript:Cs-k2.gene13486
@@ -3513,6 +3548,7 @@ NIRI01001418.1	WormBase_imported	CDS	117935	117958	.	-	2	ID=cds:Cs-k2.gene13486;
 NIRI01001418.1	WormBase_imported	CDS	116566	116574	.	-	2	ID=cds:Cs-k2.gene13486;Parent=transcript:Cs-k2.gene13486
 NIRI01000204.1	WormBase_imported	gene	261259	267956	.	+	.	ID=gene:Cs-k2.gene13883;Name=Cs-k2.gene13883;biotype=protein_coding
 NIRI01000204.1	WormBase_imported	mRNA	261259	267956	.	+	.	ID=transcript:Cs-k2.gene13883;Parent=gene:Cs-k2.gene13883;Name=Cs-k2.gene13883
+#microexons transcript:Cs-k2.gene13883:  21-24-24 51 60
 NIRI01000204.1	WormBase_imported	exon	261259	261279	.	+	.	ID=exon:Cs-k2.gene13883.1;Parent=transcript:Cs-k2.gene13883
 NIRI01000204.1	WormBase_imported	exon	262081	262104	.	+	.	ID=exon:Cs-k2.gene13883.2;Parent=transcript:Cs-k2.gene13883
 NIRI01000204.1	WormBase_imported	exon	263194	263217	.	+	.	ID=exon:Cs-k2.gene13883.3;Parent=transcript:Cs-k2.gene13883
@@ -3525,6 +3561,7 @@ NIRI01000204.1	WormBase_imported	CDS	265691	265741	.	+	2	ID=cds:Cs-k2.gene13883;
 NIRI01000204.1	WormBase_imported	CDS	267897	267956	.	+	2	ID=cds:Cs-k2.gene13883;Parent=transcript:Cs-k2.gene13883
 NIRI01000575.1	WormBase_imported	gene	128004	179728	.	-	.	ID=gene:Cs-k2.gene14109;Name=Cs-k2.gene14109;biotype=protein_coding
 NIRI01000575.1	WormBase_imported	mRNA	128004	179728	.	-	.	ID=transcript:Cs-k2.gene14109;Parent=gene:Cs-k2.gene14109;Name=Cs-k2.gene14109
+#microexons transcript:Cs-k2.gene14109:  33 24-27-21-12-18-9-24-21-24-6-27-6-30-9-27-27-27-15-24-18-15-24-24
 NIRI01000575.1	WormBase_imported	exon	179696	179728	.	-	.	ID=exon:Cs-k2.gene14109.1;Parent=transcript:Cs-k2.gene14109
 NIRI01000575.1	WormBase_imported	exon	178582	178605	.	-	.	ID=exon:Cs-k2.gene14109.2;Parent=transcript:Cs-k2.gene14109
 NIRI01000575.1	WormBase_imported	exon	175306	175332	.	-	.	ID=exon:Cs-k2.gene14109.3;Parent=transcript:Cs-k2.gene14109
@@ -3575,6 +3612,7 @@ NIRI01000575.1	WormBase_imported	CDS	132989	133012	.	-	2	ID=cds:Cs-k2.gene14109;
 NIRI01000575.1	WormBase_imported	CDS	128004	128027	.	-	2	ID=cds:Cs-k2.gene14109;Parent=transcript:Cs-k2.gene14109
 NIRI01001827.1	WormBase_imported	gene	9135	24517	.	-	.	ID=gene:Cs-k2.gene14367;Name=Cs-k2.gene14367;biotype=protein_coding
 NIRI01001827.1	WormBase_imported	mRNA	9135	24517	.	-	.	ID=transcript:Cs-k2.gene14367;Parent=gene:Cs-k2.gene14367;Name=Cs-k2.gene14367
+#microexons transcript:Cs-k2.gene14367:  129 18-18-18-18-18-18-18-18
 NIRI01001827.1	WormBase_imported	exon	24389	24517	.	-	.	ID=exon:Cs-k2.gene14367.1;Parent=transcript:Cs-k2.gene14367
 NIRI01001827.1	WormBase_imported	exon	23496	23513	.	-	.	ID=exon:Cs-k2.gene14367.2;Parent=transcript:Cs-k2.gene14367
 NIRI01001827.1	WormBase_imported	exon	21753	21770	.	-	.	ID=exon:Cs-k2.gene14367.3;Parent=transcript:Cs-k2.gene14367
@@ -3595,6 +3633,7 @@ NIRI01001827.1	WormBase_imported	CDS	11603	11620	.	-	0	ID=cds:Cs-k2.gene14367;Pa
 NIRI01001827.1	WormBase_imported	CDS	9135	9152	.	-	0	ID=cds:Cs-k2.gene14367;Parent=transcript:Cs-k2.gene14367
 NIRI01001319.1	WormBase_imported	gene	99623	109668	.	+	.	ID=gene:Cs-k2.gene14497;Name=Cs-k2.gene14497;biotype=protein_coding
 NIRI01001319.1	WormBase_imported	mRNA	99623	109668	.	+	.	ID=transcript:Cs-k2.gene14497;Parent=gene:Cs-k2.gene14497;Name=Cs-k2.gene14497
+#microexons transcript:Cs-k2.gene14497:  24-21-21-21-21 48 21-21-24 26 9
 NIRI01001319.1	WormBase_imported	exon	99623	99646	.	+	.	ID=exon:Cs-k2.gene14497.1;Parent=transcript:Cs-k2.gene14497
 NIRI01001319.1	WormBase_imported	exon	99766	99786	.	+	.	ID=exon:Cs-k2.gene14497.2;Parent=transcript:Cs-k2.gene14497
 NIRI01001319.1	WormBase_imported	exon	99903	99923	.	+	.	ID=exon:Cs-k2.gene14497.3;Parent=transcript:Cs-k2.gene14497
@@ -3619,6 +3658,7 @@ NIRI01001319.1	WormBase_imported	CDS	108941	108966	.	+	2	ID=cds:Cs-k2.gene14497;
 NIRI01001319.1	WormBase_imported	CDS	109660	109668	.	+	0	ID=cds:Cs-k2.gene14497;Parent=transcript:Cs-k2.gene14497
 NIRI01001103.1	WormBase_imported	gene	17113	40269	.	+	.	ID=gene:Cs-k2.gene14761;Name=Cs-k2.gene14761;biotype=protein_coding
 NIRI01001103.1	WormBase_imported	mRNA	17113	40269	.	+	.	ID=transcript:Cs-k2.gene14761;Parent=gene:Cs-k2.gene14761;Name=Cs-k2.gene14761
+#microexons transcript:Cs-k2.gene14761:  21-21-18-9-9-9-9-9-27-15-18-21-21-24 36
 NIRI01001103.1	WormBase_imported	exon	17113	17133	.	+	.	ID=exon:Cs-k2.gene14761.1;Parent=transcript:Cs-k2.gene14761
 NIRI01001103.1	WormBase_imported	exon	20207	20227	.	+	.	ID=exon:Cs-k2.gene14761.2;Parent=transcript:Cs-k2.gene14761
 NIRI01001103.1	WormBase_imported	exon	21116	21133	.	+	.	ID=exon:Cs-k2.gene14761.3;Parent=transcript:Cs-k2.gene14761

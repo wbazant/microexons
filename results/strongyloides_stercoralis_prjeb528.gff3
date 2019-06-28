@@ -1,5 +1,6 @@
 SSTP_scaffold0000002	WormBase_imported	gene	1052171	1056250	.	-	.	ID=gene:SSTP_0000749000;Name=SSTP_0000749000;biotype=protein_coding
 SSTP_scaffold0000002	WormBase_imported	mRNA	1052171	1056250	.	-	.	ID=transcript:SSTP_0000749000.2;Parent=gene:SSTP_0000749000;Name=SSTP_0000749000.2
+#microexons transcript:SSTP_0000749000.2:  123 58 54 18-30-27 45 21 441 45 51 6 48 33 42 36 33 42 48 42 33 42 45 42 33 42 45 42 33 42 42 42 78 48 42 71
 SSTP_scaffold0000002	WormBase_imported	exon	1056128	1056250	.	-	.	ID=exon:SSTP_0000749000.2.1;Parent=transcript:SSTP_0000749000.2
 SSTP_scaffold0000002	WormBase_imported	exon	1056020	1056077	.	-	.	ID=exon:SSTP_0000749000.2.2;Parent=transcript:SSTP_0000749000.2
 SSTP_scaffold0000002	WormBase_imported	exon	1055765	1055818	.	-	.	ID=exon:SSTP_0000749000.2.3;Parent=transcript:SSTP_0000749000.2
@@ -74,6 +75,7 @@ SSTP_scaffold0000002	WormBase_imported	CDS	1052411	1052452	.	-	2	ID=cds:SSTP_000
 SSTP_scaffold0000002	WormBase_imported	CDS	1052171	1052241	.	-	2	ID=cds:SSTP_0000749000.2;Parent=transcript:SSTP_0000749000.2
 SSTP_contig0000075	WormBase_imported	gene	64655	69909	.	+	.	ID=gene:SSTP_0000538800;Name=SSTP_0000538800;biotype=protein_coding
 SSTP_contig0000075	WormBase_imported	mRNA	64655	69909	.	+	.	ID=transcript:SSTP_0000538800.2;Parent=gene:SSTP_0000538800;Name=SSTP_0000538800.2
+#microexons transcript:SSTP_0000538800.2:  120 115 78 78 129 24 45 30 99 27-24-27-30 99 27-15-27-30 117 27-24-27-30 96 24-24 42 81 63 45 114 57 18 39 36 72 105 51 51 39 87 48 158
 SSTP_contig0000075	WormBase_imported	exon	64655	64774	.	+	.	ID=exon:SSTP_0000538800.2.1;Parent=transcript:SSTP_0000538800.2
 SSTP_contig0000075	WormBase_imported	exon	64827	64941	.	+	.	ID=exon:SSTP_0000538800.2.2;Parent=transcript:SSTP_0000538800.2
 SSTP_contig0000075	WormBase_imported	exon	64981	65058	.	+	.	ID=exon:SSTP_0000538800.2.3;Parent=transcript:SSTP_0000538800.2

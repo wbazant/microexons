@@ -1,5 +1,6 @@
 PairedContig_77	WormBase_imported	gene	250900	268255	.	-	.	ID=gene:maker-PairedContig_77-snap-gene-4.15;Name=maker-PairedContig_77-snap-gene-4.15;biotype=protein_coding
 PairedContig_77	WormBase_imported	mRNA	250900	268255	.	-	.	ID=transcript:maker-PairedContig_77-snap-gene-4.15-mRNA-1;Parent=gene:maker-PairedContig_77-snap-gene-4.15;Name=maker-PairedContig_77-snap-gene-4.15-mRNA-1
+#microexons transcript:maker-PairedContig_77-snap-gene-4.15-mRNA-1:  51 36 9-27-12 45 311 114 193
 PairedContig_77	WormBase_imported	exon	268205	268255	.	-	.	ID=exon:maker-PairedContig_77-snap-gene-4.15-mRNA-1.1;Parent=transcript:maker-PairedContig_77-snap-gene-4.15-mRNA-1
 PairedContig_77	WormBase_imported	exon	266282	266317	.	-	.	ID=exon:maker-PairedContig_77-snap-gene-4.15-mRNA-1.2;Parent=transcript:maker-PairedContig_77-snap-gene-4.15-mRNA-1
 PairedContig_77	WormBase_imported	exon	265551	265559	.	-	.	ID=exon:maker-PairedContig_77-snap-gene-4.15-mRNA-1.3;Parent=transcript:maker-PairedContig_77-snap-gene-4.15-mRNA-1
@@ -20,6 +21,7 @@ PairedContig_77	WormBase_imported	CDS	251249	251362	.	-	1	ID=cds:maker-PairedCon
 PairedContig_77	WormBase_imported	CDS	250900	251092	.	-	1	ID=cds:maker-PairedContig_77-snap-gene-4.15-mRNA-1;Parent=transcript:maker-PairedContig_77-snap-gene-4.15-mRNA-1
 PairedContig_2359	WormBase_imported	gene	114028	121924	.	-	.	ID=gene:maker-PairedContig_2359-snap-gene-2.23;Name=maker-PairedContig_2359-snap-gene-2.23;biotype=protein_coding
 PairedContig_2359	WormBase_imported	mRNA	114028	121924	.	-	.	ID=transcript:maker-PairedContig_2359-snap-gene-2.23-mRNA-1;Parent=gene:maker-PairedContig_2359-snap-gene-2.23;Name=maker-PairedContig_2359-snap-gene-2.23-mRNA-1
+#microexons transcript:maker-PairedContig_2359-snap-gene-2.23-mRNA-1:  90 6-18-30 127 157 104 158 100 128 213
 PairedContig_2359	WormBase_imported	exon	121835	121924	.	-	.	ID=exon:maker-PairedContig_2359-snap-gene-2.23-mRNA-1.1;Parent=transcript:maker-PairedContig_2359-snap-gene-2.23-mRNA-1
 PairedContig_2359	WormBase_imported	exon	119673	119678	.	-	.	ID=exon:maker-PairedContig_2359-snap-gene-2.23-mRNA-1.2;Parent=transcript:maker-PairedContig_2359-snap-gene-2.23-mRNA-1
 PairedContig_2359	WormBase_imported	exon	119276	119293	.	-	.	ID=exon:maker-PairedContig_2359-snap-gene-2.23-mRNA-1.3;Parent=transcript:maker-PairedContig_2359-snap-gene-2.23-mRNA-1
@@ -44,6 +46,7 @@ PairedContig_2359	WormBase_imported	CDS	114919	115046	.	-	2	ID=cds:maker-PairedC
 PairedContig_2359	WormBase_imported	CDS	114028	114240	.	-	0	ID=cds:maker-PairedContig_2359-snap-gene-2.23-mRNA-1;Parent=transcript:maker-PairedContig_2359-snap-gene-2.23-mRNA-1
 PairedContig_3675	WormBase_imported	gene	48745	54189	.	+	.	ID=gene:snap_masked-PairedContig_3675-processed-gene-0.3;Name=snap_masked-PairedContig_3675-processed-gene-0.3;biotype=protein_coding
 PairedContig_3675	WormBase_imported	mRNA	48745	54189	.	+	.	ID=transcript:snap_masked-PairedContig_3675-processed-gene-0.3-mRNA-1;Parent=gene:snap_masked-PairedContig_3675-processed-gene-0.3;Name=snap_masked-PairedContig_3675-processed-gene-0.3-mRNA-1
+#microexons transcript:snap_masked-PairedContig_3675-processed-gene-0.3-mRNA-1:  16 32 77 253 250 83 18-18-24
 PairedContig_3675	WormBase_imported	exon	48745	48760	.	+	.	ID=exon:snap_masked-PairedContig_3675-processed-gene-0.3-mRNA-1.1;Parent=transcript:snap_masked-PairedContig_3675-processed-gene-0.3-mRNA-1
 PairedContig_3675	WormBase_imported	exon	49572	49603	.	+	.	ID=exon:snap_masked-PairedContig_3675-processed-gene-0.3-mRNA-1.2;Parent=transcript:snap_masked-PairedContig_3675-processed-gene-0.3-mRNA-1
 PairedContig_3675	WormBase_imported	exon	49647	49723	.	+	.	ID=exon:snap_masked-PairedContig_3675-processed-gene-0.3-mRNA-1.3;Parent=transcript:snap_masked-PairedContig_3675-processed-gene-0.3-mRNA-1
@@ -64,6 +67,7 @@ PairedContig_3675	WormBase_imported	CDS	53636	53653	.	+	0	ID=cds:snap_masked-Pai
 PairedContig_3675	WormBase_imported	CDS	54166	54189	.	+	0	ID=cds:snap_masked-PairedContig_3675-processed-gene-0.3-mRNA-1;Parent=transcript:snap_masked-PairedContig_3675-processed-gene-0.3-mRNA-1
 PairedContig_4546	WormBase_imported	gene	49045	54504	.	-	.	ID=gene:snap_masked-PairedContig_4546-processed-gene-0.9;Name=snap_masked-PairedContig_4546-processed-gene-0.9;biotype=protein_coding
 PairedContig_4546	WormBase_imported	mRNA	49045	54504	.	-	.	ID=transcript:snap_masked-PairedContig_4546-processed-gene-0.9-mRNA-1;Parent=gene:snap_masked-PairedContig_4546-processed-gene-0.9;Name=snap_masked-PairedContig_4546-processed-gene-0.9-mRNA-1
+#microexons transcript:snap_masked-PairedContig_4546-processed-gene-0.9-mRNA-1:  16 32 77 253 250 83 18-18-24
 PairedContig_4546	WormBase_imported	exon	54489	54504	.	-	.	ID=exon:snap_masked-PairedContig_4546-processed-gene-0.9-mRNA-1.1;Parent=transcript:snap_masked-PairedContig_4546-processed-gene-0.9-mRNA-1
 PairedContig_4546	WormBase_imported	exon	53646	53677	.	-	.	ID=exon:snap_masked-PairedContig_4546-processed-gene-0.9-mRNA-1.2;Parent=transcript:snap_masked-PairedContig_4546-processed-gene-0.9-mRNA-1
 PairedContig_4546	WormBase_imported	exon	53526	53602	.	-	.	ID=exon:snap_masked-PairedContig_4546-processed-gene-0.9-mRNA-1.3;Parent=transcript:snap_masked-PairedContig_4546-processed-gene-0.9-mRNA-1
@@ -84,6 +88,7 @@ PairedContig_4546	WormBase_imported	CDS	49581	49598	.	-	0	ID=cds:snap_masked-Pai
 PairedContig_4546	WormBase_imported	CDS	49045	49068	.	-	0	ID=cds:snap_masked-PairedContig_4546-processed-gene-0.9-mRNA-1;Parent=transcript:snap_masked-PairedContig_4546-processed-gene-0.9-mRNA-1
 PairedContig_1160	WormBase_imported	gene	24008	31893	.	+	.	ID=gene:snap_masked-PairedContig_1160-processed-gene-0.3;Name=snap_masked-PairedContig_1160-processed-gene-0.3;biotype=protein_coding
 PairedContig_1160	WormBase_imported	mRNA	24008	31893	.	+	.	ID=transcript:snap_masked-PairedContig_1160-processed-gene-0.3-mRNA-1;Parent=gene:snap_masked-PairedContig_1160-processed-gene-0.3;Name=snap_masked-PairedContig_1160-processed-gene-0.3-mRNA-1;info=method:InterPro accession:IPR000922 description:D-galactoside/L-rhamnose binding SUEL lectin domain
+#microexons transcript:snap_masked-PairedContig_1160-processed-gene-0.3-mRNA-1:  10 153 18-18-18-18 212 124 8
 PairedContig_1160	WormBase_imported	exon	24008	24017	.	+	.	ID=exon:snap_masked-PairedContig_1160-processed-gene-0.3-mRNA-1.1;Parent=transcript:snap_masked-PairedContig_1160-processed-gene-0.3-mRNA-1
 PairedContig_1160	WormBase_imported	exon	25502	25654	.	+	.	ID=exon:snap_masked-PairedContig_1160-processed-gene-0.3-mRNA-1.2;Parent=transcript:snap_masked-PairedContig_1160-processed-gene-0.3-mRNA-1
 PairedContig_1160	WormBase_imported	exon	25695	25712	.	+	.	ID=exon:snap_masked-PairedContig_1160-processed-gene-0.3-mRNA-1.3;Parent=transcript:snap_masked-PairedContig_1160-processed-gene-0.3-mRNA-1
@@ -298,6 +303,7 @@ PairedContig_1160	dust	low_complexity_region	31856	31929	.	-	.
 PairedContig_1160	dust	low_complexity_region	31952	32004	.	-	.	
 PairedContig_507	WormBase_imported	gene	9981	21385	.	+	.	ID=gene:maker-PairedContig_507-snap-gene-0.6;Name=maker-PairedContig_507-snap-gene-0.6;biotype=protein_coding
 PairedContig_507	WormBase_imported	mRNA	9981	21385	.	+	.	ID=transcript:maker-PairedContig_507-snap-gene-0.6-mRNA-1;Parent=gene:maker-PairedContig_507-snap-gene-0.6;Name=maker-PairedContig_507-snap-gene-0.6-mRNA-1
+#microexons transcript:maker-PairedContig_507-snap-gene-0.6-mRNA-1:  156 30-27-18 48 21
 PairedContig_507	WormBase_imported	exon	9981	10136	.	+	.	ID=exon:maker-PairedContig_507-snap-gene-0.6-mRNA-1.1;Parent=transcript:maker-PairedContig_507-snap-gene-0.6-mRNA-1
 PairedContig_507	WormBase_imported	exon	12794	12823	.	+	.	ID=exon:maker-PairedContig_507-snap-gene-0.6-mRNA-1.2;Parent=transcript:maker-PairedContig_507-snap-gene-0.6-mRNA-1
 PairedContig_507	WormBase_imported	exon	14146	14172	.	+	.	ID=exon:maker-PairedContig_507-snap-gene-0.6-mRNA-1.3;Parent=transcript:maker-PairedContig_507-snap-gene-0.6-mRNA-1
@@ -312,6 +318,7 @@ PairedContig_507	WormBase_imported	CDS	19375	19422	.	+	0	ID=cds:maker-PairedCont
 PairedContig_507	WormBase_imported	CDS	21365	21385	.	+	0	ID=cds:maker-PairedContig_507-snap-gene-0.6-mRNA-1;Parent=transcript:maker-PairedContig_507-snap-gene-0.6-mRNA-1
 PairedContig_5874	WormBase_imported	gene	390	10058	.	-	.	ID=gene:maker-PairedContig_5874-snap-gene-0.6;Name=maker-PairedContig_5874-snap-gene-0.6;biotype=protein_coding
 PairedContig_5874	WormBase_imported	mRNA	390	10058	.	-	.	ID=transcript:maker-PairedContig_5874-snap-gene-0.6-mRNA-1;Parent=gene:maker-PairedContig_5874-snap-gene-0.6;Name=maker-PairedContig_5874-snap-gene-0.6-mRNA-1;info=method:InterPro accession:IPR001452 description:SH3 domain %0Amethod:InterPro accession:IPR001478 description:PDZ domain %0Amethod:InterPro accession:IPR008144 description:Guanylate kinase-like domain %0Amethod:InterPro accession:IPR008145 description:Guanylate kinase/L-type calcium channel beta subunit %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR036028 description:SH3-like domain superfamily %0Amethod:InterPro accession:IPR036034 description:PDZ superfamily
+#microexons transcript:maker-PairedContig_5874-snap-gene-0.6-mRNA-1:  130 238 115 225 177 166 125 176 152 110 270 9-18 102 6-6-6-6 39
 PairedContig_5874	WormBase_imported	exon	9929	10058	.	-	.	ID=exon:maker-PairedContig_5874-snap-gene-0.6-mRNA-1.1;Parent=transcript:maker-PairedContig_5874-snap-gene-0.6-mRNA-1
 PairedContig_5874	WormBase_imported	exon	9616	9853	.	-	.	ID=exon:maker-PairedContig_5874-snap-gene-0.6-mRNA-1.2;Parent=transcript:maker-PairedContig_5874-snap-gene-0.6-mRNA-1
 PairedContig_5874	WormBase_imported	exon	9320	9434	.	-	.	ID=exon:maker-PairedContig_5874-snap-gene-0.6-mRNA-1.3;Parent=transcript:maker-PairedContig_5874-snap-gene-0.6-mRNA-1
@@ -352,6 +359,7 @@ PairedContig_5874	WormBase_imported	CDS	478	483	.	-	0	ID=cds:maker-PairedContig_
 PairedContig_5874	WormBase_imported	CDS	390	428	.	-	0	ID=cds:maker-PairedContig_5874-snap-gene-0.6-mRNA-1;Parent=transcript:maker-PairedContig_5874-snap-gene-0.6-mRNA-1
 PairedContig_3122	WormBase_imported	gene	215	5012	.	-	.	ID=gene:snap_masked-PairedContig_3122-processed-gene-0.0;Name=snap_masked-PairedContig_3122-processed-gene-0.0;biotype=protein_coding
 PairedContig_3122	WormBase_imported	mRNA	215	5012	.	-	.	ID=transcript:snap_masked-PairedContig_3122-processed-gene-0.0-mRNA-1;Parent=gene:snap_masked-PairedContig_3122-processed-gene-0.0;Name=snap_masked-PairedContig_3122-processed-gene-0.0-mRNA-1;info=method:InterPro accession:IPR013099 description:Potassium channel domain
+#microexons transcript:snap_masked-PairedContig_3122-processed-gene-0.0-mRNA-1:  23 31 69 128 108 113 6-6-30-6-30 142 10
 PairedContig_3122	WormBase_imported	exon	4990	5012	.	-	.	ID=exon:snap_masked-PairedContig_3122-processed-gene-0.0-mRNA-1.1;Parent=transcript:snap_masked-PairedContig_3122-processed-gene-0.0-mRNA-1
 PairedContig_3122	WormBase_imported	exon	4851	4881	.	-	.	ID=exon:snap_masked-PairedContig_3122-processed-gene-0.0-mRNA-1.2;Parent=transcript:snap_masked-PairedContig_3122-processed-gene-0.0-mRNA-1
 PairedContig_3122	WormBase_imported	exon	3502	3570	.	-	.	ID=exon:snap_masked-PairedContig_3122-processed-gene-0.0-mRNA-1.3;Parent=transcript:snap_masked-PairedContig_3122-processed-gene-0.0-mRNA-1

@@ -1,5 +1,6 @@
 nHp.2.0.scaf00035	WormBase_imported	gene	642280	655894	.	-	.	ID=gene:HPOL_0000093001;Name=HPOL_0000093001;biotype=protein_coding
 nHp.2.0.scaf00035	WormBase_imported	mRNA	642280	655894	.	-	.	ID=transcript:HPOL_0000093001-mRNA-1;Parent=gene:HPOL_0000093001;Name=HPOL_0000093001-mRNA-1
+#microexons transcript:HPOL_0000093001-mRNA-1:  94 116 48 24-30-27 51 33 36
 nHp.2.0.scaf00035	WormBase_imported	exon	655801	655894	.	-	.	ID=exon:HPOL_0000093001-mRNA-1.1;Parent=transcript:HPOL_0000093001-mRNA-1
 nHp.2.0.scaf00035	WormBase_imported	exon	655467	655582	.	-	.	ID=exon:HPOL_0000093001-mRNA-1.2;Parent=transcript:HPOL_0000093001-mRNA-1
 nHp.2.0.scaf00035	WormBase_imported	exon	653611	653658	.	-	.	ID=exon:HPOL_0000093001-mRNA-1.3;Parent=transcript:HPOL_0000093001-mRNA-1
@@ -798,7 +799,9 @@ nHp.2.0.scaf00035	trf	tandem_repeat	666276	666395	240	-	.
 nHp.2.0.scaf00035	repeatmasker	repeat_region	666469	667185	2004	+	.	Name=HSMAR1;repeat_class=DNA/TcMar-Mariner
 nHp.2.0.scaf00052	WormBase_imported	gene	139094	152024	.	+	.	ID=gene:HPOL_0000131301;Name=HPOL_0000131301;biotype=protein_coding
 nHp.2.0.scaf00052	WormBase_imported	mRNA	139094	152024	.	+	.	ID=transcript:HPOL_0000131301-mRNA-1;Parent=gene:HPOL_0000131301;Name=HPOL_0000131301-mRNA-1;info=method:InterPro accession:IPR008569 description:Protein of unknown function DUF851
+#microexons transcript:HPOL_0000131301-mRNA-1:  96 158 30-18-30-30 89 122 90 207 92 113 116 191
 nHp.2.0.scaf00052	WormBase_imported	mRNA	139094	152024	.	+	.	ID=transcript:HPOL_0000131301-mRNA-2;Parent=gene:HPOL_0000131301;Name=HPOL_0000131301-mRNA-2;info=method:InterPro accession:IPR008569 description:Protein of unknown function DUF851
+#microexons transcript:HPOL_0000131301-mRNA-2:  96 158 30-18-30 89 122 90 207 92 113 116 191
 nHp.2.0.scaf00052	WormBase_imported	exon	139094	139189	.	+	.	ID=exon:HPOL_0000131301-mRNA-1.1;Parent=transcript:HPOL_0000131301-mRNA-1
 nHp.2.0.scaf00052	WormBase_imported	exon	140294	140451	.	+	.	ID=exon:HPOL_0000131301-mRNA-1.2;Parent=transcript:HPOL_0000131301-mRNA-1
 nHp.2.0.scaf00052	WormBase_imported	exon	140949	140978	.	+	.	ID=exon:HPOL_0000131301-mRNA-1.3;Parent=transcript:HPOL_0000131301-mRNA-1
@@ -857,6 +860,7 @@ nHp.2.0.scaf00052	WormBase_imported	CDS	151834	151914	.	+	0	ID=cds:HPOL_00001313
 nHp.2.0.scaf00052	WormBase_imported	three_prime_UTR	151915	152024	.	+	.	Parent=transcript:HPOL_0000131301-mRNA-2
 nHp.2.0.scaf01498	WormBase_imported	gene	13903	30993	.	+	.	ID=gene:HPOL_0001375701;Name=HPOL_0001375701;biotype=protein_coding
 nHp.2.0.scaf01498	WormBase_imported	mRNA	13903	30993	.	+	.	ID=transcript:HPOL_0001375701-mRNA-1;Parent=gene:HPOL_0001375701;Name=HPOL_0001375701-mRNA-1
+#microexons transcript:HPOL_0001375701-mRNA-1:  170 84 101 29 99 102 51 66 30-27-30-30
 nHp.2.0.scaf01498	WormBase_imported	exon	13903	14072	.	+	.	ID=exon:HPOL_0001375701-mRNA-1.1;Parent=transcript:HPOL_0001375701-mRNA-1
 nHp.2.0.scaf01498	WormBase_imported	exon	14193	14276	.	+	.	ID=exon:HPOL_0001375701-mRNA-1.2;Parent=transcript:HPOL_0001375701-mRNA-1
 nHp.2.0.scaf01498	WormBase_imported	exon	14344	14444	.	+	.	ID=exon:HPOL_0001375701-mRNA-1.3;Parent=transcript:HPOL_0001375701-mRNA-1

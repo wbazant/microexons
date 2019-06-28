@@ -1,5 +1,6 @@
 scaffold1s	WormBase_imported	gene	37889	40125	.	+	.	ID=gene:T12_8647;Name=T12_8647;biotype=protein_coding
 scaffold1s	WormBase_imported	mRNA	37889	40125	.	+	.	ID=transcript:T12_8647.1;Parent=gene:T12_8647;Name=T12_8647.1
+#microexons transcript:T12_8647.1:  28 159 113 6 38 15 61 9-9-18
 scaffold1s	WormBase_imported	exon	37889	37916	.	+	.	ID=exon:T12_8647.1.1;Parent=transcript:T12_8647.1
 scaffold1s	WormBase_imported	exon	38098	38256	.	+	.	ID=exon:T12_8647.1.2;Parent=transcript:T12_8647.1
 scaffold1s	WormBase_imported	exon	38660	38772	.	+	.	ID=exon:T12_8647.1.3;Parent=transcript:T12_8647.1
@@ -22,6 +23,7 @@ scaffold1s	WormBase_imported	CDS	39987	39995	.	+	0	ID=cds:T12_8647.1;Parent=tran
 scaffold1s	WormBase_imported	CDS	40108	40125	.	+	0	ID=cds:T12_8647.1;Parent=transcript:T12_8647.1
 scaffold19s	WormBase_imported	gene	151196	152755	.	+	.	ID=gene:T12_7575;Name=T12_7575;biotype=protein_coding
 scaffold19s	WormBase_imported	mRNA	151196	152755	.	+	.	ID=transcript:T12_7575.1;Parent=gene:T12_7575;Name=T12_7575.1
+#microexons transcript:T12_7575.1:  9 46 152 21-6-6
 scaffold19s	WormBase_imported	exon	151196	151204	.	+	.	ID=exon:T12_7575.1.1;Parent=transcript:T12_7575.1
 scaffold19s	WormBase_imported	exon	151256	151301	.	+	.	ID=exon:T12_7575.1.2;Parent=transcript:T12_7575.1
 scaffold19s	WormBase_imported	exon	151861	152012	.	+	.	ID=exon:T12_7575.1.3;Parent=transcript:T12_7575.1
@@ -36,6 +38,7 @@ scaffold19s	WormBase_imported	CDS	152679	152684	.	+	0	ID=cds:T12_7575.1;Parent=t
 scaffold19s	WormBase_imported	CDS	152750	152755	.	+	0	ID=cds:T12_7575.1;Parent=transcript:T12_7575.1
 scaffold19s	WormBase_imported	gene	307304	311609	.	+	.	ID=gene:T12_14679;Name=T12_14679;biotype=protein_coding
 scaffold19s	WormBase_imported	mRNA	307304	311609	.	+	.	ID=transcript:T12_14679.1;Parent=gene:T12_14679;Name=T12_14679.1
+#microexons transcript:T12_14679.1:  56 19 59 111 29 59 66 99 24-15-12 52 20
 scaffold19s	WormBase_imported	exon	307304	307359	.	+	.	ID=exon:T12_14679.1.1;Parent=transcript:T12_14679.1
 scaffold19s	WormBase_imported	exon	307431	307449	.	+	.	ID=exon:T12_14679.1.2;Parent=transcript:T12_14679.1
 scaffold19s	WormBase_imported	exon	307497	307555	.	+	.	ID=exon:T12_14679.1.3;Parent=transcript:T12_14679.1
@@ -64,6 +67,7 @@ scaffold19s	WormBase_imported	CDS	310824	310875	.	+	0	ID=cds:T12_14679.1;Parent=
 scaffold19s	WormBase_imported	CDS	311590	311609	.	+	2	ID=cds:T12_14679.1;Parent=transcript:T12_14679.1
 scaffold20s	WormBase_imported	gene	178328	180398	.	+	.	ID=gene:T12_1822;Name=T12_1822;biotype=protein_coding
 scaffold20s	WormBase_imported	mRNA	178328	180398	.	+	.	ID=transcript:T12_1822.1;Parent=gene:T12_1822;Name=T12_1822.1
+#microexons transcript:T12_1822.1:  15-21-27-6-24 63 42
 scaffold20s	WormBase_imported	exon	178328	178342	.	+	.	ID=exon:T12_1822.1.1;Parent=transcript:T12_1822.1
 scaffold20s	WormBase_imported	exon	179071	179091	.	+	.	ID=exon:T12_1822.1.2;Parent=transcript:T12_1822.1
 scaffold20s	WormBase_imported	exon	179325	179351	.	+	.	ID=exon:T12_1822.1.3;Parent=transcript:T12_1822.1
@@ -80,6 +84,7 @@ scaffold20s	WormBase_imported	CDS	180160	180222	.	+	0	ID=cds:T12_1822.1;Parent=t
 scaffold20s	WormBase_imported	CDS	180357	180398	.	+	0	ID=cds:T12_1822.1;Parent=transcript:T12_1822.1
 scaffold42s	WormBase_imported	gene	146536	153467	.	-	.	ID=gene:T12_11850;Name=T12_11850;biotype=protein_coding;description=Potassium voltage-gated channel protein Shaw;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0V1A1P6;locus=Shaw
 scaffold42s	WormBase_imported	mRNA	146536	153467	.	-	.	ID=transcript:T12_11850.1;Parent=gene:T12_11850;Name=T12_11850.1;info=method:InterPro accession:IPR000210 description:BTB/POZ domain %0Amethod:InterPro accession:IPR003131 description:Potassium channel tetramerisation-type BTB domain %0Amethod:InterPro accession:IPR003968 description:Potassium channel%2C voltage dependent%2C Kv %0Amethod:InterPro accession:IPR003974 description:Potassium channel%2C voltage dependent%2C Kv3 %0Amethod:InterPro accession:IPR005821 description:Ion transport domain %0Amethod:InterPro accession:IPR011333 description:SKP1/BTB/POZ domain superfamily %0Amethod:InterPro accession:IPR015572 description:Potassium channel%2C voltage dependent%2C Shaw%2C invertebrate %0Amethod:InterPro accession:IPR027359 description:Voltage-dependent channel domain superfamily %0Amethod:InterPro accession:IPR028325 description:Voltage-gated potassium channel
+#microexons transcript:T12_11850.1:  21-24-30 58 14 206 28 435 312 323 293 186 179
 scaffold42s	WormBase_imported	exon	153447	153467	.	-	.	ID=exon:T12_11850.1.1;Parent=transcript:T12_11850.1
 scaffold42s	WormBase_imported	exon	153217	153240	.	-	.	ID=exon:T12_11850.1.2;Parent=transcript:T12_11850.1
 scaffold42s	WormBase_imported	exon	152887	152916	.	-	.	ID=exon:T12_11850.1.3;Parent=transcript:T12_11850.1
@@ -108,6 +113,7 @@ scaffold42s	WormBase_imported	CDS	146798	146983	.	-	2	ID=cds:T12_11850.1;Parent=
 scaffold42s	WormBase_imported	CDS	146536	146714	.	-	2	ID=cds:T12_11850.1;Parent=transcript:T12_11850.1
 scaffold52s	WormBase_imported	gene	203167	203977	.	-	.	ID=gene:T12_9724;Name=T12_9724;biotype=protein_coding
 scaffold52s	WormBase_imported	mRNA	203167	203977	.	-	.	ID=transcript:T12_9724.1;Parent=gene:T12_9724;Name=T12_9724.1
+#microexons transcript:T12_9724.1:  68 67 18-21-27
 scaffold52s	WormBase_imported	exon	203910	203977	.	-	.	ID=exon:T12_9724.1.1;Parent=transcript:T12_9724.1
 scaffold52s	WormBase_imported	exon	203635	203701	.	-	.	ID=exon:T12_9724.1.2;Parent=transcript:T12_9724.1
 scaffold52s	WormBase_imported	exon	203445	203462	.	-	.	ID=exon:T12_9724.1.3;Parent=transcript:T12_9724.1
@@ -120,11 +126,17 @@ scaffold52s	WormBase_imported	CDS	203262	203282	.	-	0	ID=cds:T12_9724.1;Parent=t
 scaffold52s	WormBase_imported	CDS	203167	203193	.	-	0	ID=cds:T12_9724.1;Parent=transcript:T12_9724.1
 scaffold61s	WormBase_imported	gene	72176	80283	.	+	.	ID=gene:T12_4593;Name=T12_4593;biotype=protein_coding
 scaffold61s	WormBase_imported	mRNA	72176	79068	.	+	.	ID=transcript:T12_4593.1;Parent=gene:T12_4593;Name=T12_4593.1;info=method:InterPro accession:IPR001623 description:DnaJ domain %0Amethod:InterPro accession:IPR018795 description:Protein of unknown function DUF2152 %0Amethod:InterPro accession:IPR036869 description:Chaperone J-domain superfamily
+#microexons transcript:T12_4593.1:  21-24-24 56 359 59 93 65 117 103 69 167 116 100 174 125 180 98 146 204 75 1558
 scaffold61s	WormBase_imported	mRNA	72176	79068	.	+	.	ID=transcript:T12_4593.2;Parent=gene:T12_4593;Name=T12_4593.2;info=method:InterPro accession:IPR001623 description:DnaJ domain %0Amethod:InterPro accession:IPR018795 description:Protein of unknown function DUF2152 %0Amethod:InterPro accession:IPR036869 description:Chaperone J-domain superfamily
+#microexons transcript:T12_4593.2:  21-24-24 56 359 59 93 65 117 103 69 167 108 123 174 125 180 98 146 204 75 1558
 scaffold61s	WormBase_imported	mRNA	72176	79068	.	+	.	ID=transcript:T12_4593.3;Parent=gene:T12_4593;Name=T12_4593.3;info=method:InterPro accession:IPR001623 description:DnaJ domain %0Amethod:InterPro accession:IPR018795 description:Protein of unknown function DUF2152 %0Amethod:InterPro accession:IPR036869 description:Chaperone J-domain superfamily
+#microexons transcript:T12_4593.3:  21-24-24 56 359 59 93 65 103 69 167 108 123 174 125 94 88 146 204 75 1558
 scaffold61s	WormBase_imported	mRNA	72176	75996	.	+	.	ID=transcript:T12_4593.4;Parent=gene:T12_4593;Name=T12_4593.4;info=method:InterPro accession:IPR018795 description:Protein of unknown function DUF2152
+#microexons transcript:T12_4593.4:  21-24-24 56 359 59 93 65 117 231 167 116 100 174 125 158
 scaffold61s	WormBase_imported	mRNA	72549	79068	.	+	.	ID=transcript:T12_4593.5;Parent=gene:T12_4593;Name=T12_4593.5;info=method:InterPro accession:IPR001623 description:DnaJ domain %0Amethod:InterPro accession:IPR018795 description:Protein of unknown function DUF2152 %0Amethod:InterPro accession:IPR036869 description:Chaperone J-domain superfamily
+#microexons transcript:T12_4593.5:  39 123 359 59 93 65 117 231 167 116 100 174 125 180 98 146 204 75 1558
 scaffold61s	WormBase_imported	mRNA	78860	80283	.	+	.	ID=transcript:T12_4593.6;Parent=gene:T12_4593;Name=T12_4593.6
+#microexons transcript:T12_4593.6:  111 73 152 321
 scaffold61s	WormBase_imported	exon	72176	72196	.	+	.	ID=exon:T12_4593.1.1;Parent=transcript:T12_4593.1
 scaffold61s	WormBase_imported	exon	72497	72520	.	+	.	ID=exon:T12_4593.1.2;Parent=transcript:T12_4593.1
 scaffold61s	WormBase_imported	exon	72774	72797	.	+	.	ID=exon:T12_4593.1.3;Parent=transcript:T12_4593.1
@@ -341,6 +353,7 @@ scaffold61s	WormBase_imported	CDS	79451	79602	.	+	2	ID=cds:T12_4593.6;Parent=tra
 scaffold61s	WormBase_imported	CDS	79963	80283	.	+	0	ID=cds:T12_4593.6;Parent=transcript:T12_4593.6
 scaffold166s	WormBase_imported	gene	47609	51042	.	-	.	ID=gene:T12_10201;Name=T12_10201;biotype=protein_coding
 scaffold166s	WormBase_imported	mRNA	47609	51042	.	-	.	ID=transcript:T12_10201.1;Parent=gene:T12_10201;Name=T12_10201.1
+#microexons transcript:T12_10201.1:  21-12-24 82 45 7 15 52
 scaffold166s	WormBase_imported	exon	51022	51042	.	-	.	ID=exon:T12_10201.1.1;Parent=transcript:T12_10201.1
 scaffold166s	WormBase_imported	exon	50901	50912	.	-	.	ID=exon:T12_10201.1.2;Parent=transcript:T12_10201.1
 scaffold166s	WormBase_imported	exon	50490	50513	.	-	.	ID=exon:T12_10201.1.3;Parent=transcript:T12_10201.1
@@ -359,6 +372,7 @@ scaffold166s	WormBase_imported	CDS	48381	48395	.	-	1	ID=cds:T12_10201.1;Parent=t
 scaffold166s	WormBase_imported	CDS	47609	47660	.	-	1	ID=cds:T12_10201.1;Parent=transcript:T12_10201.1
 scaffold185s	WormBase_imported	gene	59912	61689	.	-	.	ID=gene:T12_432;Name=T12_432;biotype=protein_coding
 scaffold185s	WormBase_imported	mRNA	59912	61689	.	-	.	ID=transcript:T12_432.1;Parent=gene:T12_432;Name=T12_432.1
+#microexons transcript:T12_432.1:  15-18-9 120 87
 scaffold185s	WormBase_imported	exon	61675	61689	.	-	.	ID=exon:T12_432.1.1;Parent=transcript:T12_432.1
 scaffold185s	WormBase_imported	exon	61545	61562	.	-	.	ID=exon:T12_432.1.2;Parent=transcript:T12_432.1
 scaffold185s	WormBase_imported	exon	60865	60873	.	-	.	ID=exon:T12_432.1.3;Parent=transcript:T12_432.1
@@ -371,6 +385,7 @@ scaffold185s	WormBase_imported	CDS	60403	60522	.	-	0	ID=cds:T12_432.1;Parent=tra
 scaffold185s	WormBase_imported	CDS	59912	59998	.	-	0	ID=cds:T12_432.1;Parent=transcript:T12_432.1
 scaffold254s	WormBase_imported	gene	46572	52421	.	-	.	ID=gene:T12_1291;Name=T12_1291;biotype=protein_coding
 scaffold254s	WormBase_imported	mRNA	46572	52421	.	-	.	ID=transcript:T12_1291.1;Parent=gene:T12_1291;Name=T12_1291.1
+#microexons transcript:T12_1291.1:  105 158 96 85 72 27-9-27
 scaffold254s	WormBase_imported	exon	52317	52421	.	-	.	ID=exon:T12_1291.1.1;Parent=transcript:T12_1291.1
 scaffold254s	WormBase_imported	exon	52123	52280	.	-	.	ID=exon:T12_1291.1.2;Parent=transcript:T12_1291.1
 scaffold254s	WormBase_imported	exon	51952	52047	.	-	.	ID=exon:T12_1291.1.3;Parent=transcript:T12_1291.1
@@ -389,11 +404,17 @@ scaffold254s	WormBase_imported	CDS	50852	50860	.	-	0	ID=cds:T12_1291.1;Parent=tr
 scaffold254s	WormBase_imported	CDS	46572	46598	.	-	0	ID=cds:T12_1291.1;Parent=transcript:T12_1291.1
 scaffold256s	WormBase_imported	gene	5651	25597	.	-	.	ID=gene:T12_3478;Name=T12_3478;biotype=protein_coding;description=Transmembrane channel-like protein 2;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0V0ZBD4;locus=RAD54B
 scaffold256s	WormBase_imported	mRNA	5651	24202	.	-	.	ID=transcript:T12_3478.1;Parent=gene:T12_3478;Name=T12_3478.1;info=method:InterPro accession:IPR000330 description:SNF2-related%2C N-terminal domain %0Amethod:InterPro accession:IPR001650 description:Helicase%2C C-terminal %0Amethod:InterPro accession:IPR006689 description:Small GTPase superfamily%2C ARF/SAR type %0Amethod:InterPro accession:IPR012496 description:TMC domain %0Amethod:InterPro accession:IPR014001 description:Helicase superfamily 1/2%2C ATP-binding domain %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR038718 description:SNF2-like%2C N-terminal domain superfamily
+#microexons transcript:T12_3478.1:  65 121 707 276 156 72 8 110 146 145 110 694 123 197 126 358 116 947 117 108 107 1912 146 270 482
 scaffold256s	WormBase_imported	mRNA	5651	9149	.	-	.	ID=transcript:T12_3478.2;Parent=gene:T12_3478;Name=T12_3478.2;info=method:InterPro accession:IPR000330 description:SNF2-related%2C N-terminal domain %0Amethod:InterPro accession:IPR001650 description:Helicase%2C C-terminal %0Amethod:InterPro accession:IPR014001 description:Helicase superfamily 1/2%2C ATP-binding domain %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR038718 description:SNF2-like%2C N-terminal domain superfamily
+#microexons transcript:T12_3478.2:  21 655 1188 146 270 482
 scaffold256s	WormBase_imported	mRNA	9115	24202	.	-	.	ID=transcript:T12_3478.3;Parent=gene:T12_3478;Name=T12_3478.3;info=method:InterPro accession:IPR005225 description:Small GTP-binding protein domain %0Amethod:InterPro accession:IPR006689 description:Small GTPase superfamily%2C ARF/SAR type %0Amethod:InterPro accession:IPR012496 description:TMC domain %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR038900 description:Transmembrane channel-like protein %0Amethod:InterPro accession:IPR041838 description:ADP-ribosylation factor 6
+#microexons transcript:T12_3478.3:  65 121 707 276 156 76 82 72 8 117 146 151 44 145 110 694 123 197 111 126 131 347 116 947 117 104 199 795
 scaffold256s	WormBase_imported	mRNA	9407	24202	.	-	.	ID=transcript:T12_3478.4;Parent=gene:T12_3478;Name=T12_3478.4;info=method:InterPro accession:IPR005225 description:Small GTP-binding protein domain %0Amethod:InterPro accession:IPR006689 description:Small GTPase superfamily%2C ARF/SAR type %0Amethod:InterPro accession:IPR012496 description:TMC domain %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR038900 description:Transmembrane channel-like protein %0Amethod:InterPro accession:IPR041838 description:ADP-ribosylation factor 6
+#microexons transcript:T12_3478.4:  65 121 707 276 156 76 82 72 8 117 146 151 44 145 110 694 123 197 111 126 131 347 116 947 117 104 199 108 35
 scaffold256s	WormBase_imported	mRNA	12653	25597	.	-	.	ID=transcript:T12_3478.5;Parent=gene:T12_3478;Name=T12_3478.5;info=method:InterPro accession:IPR012496 description:TMC domain %0Amethod:InterPro accession:IPR038900 description:Transmembrane channel-like protein
+#microexons transcript:T12_3478.5:  142 10 18-18-15 56 64 707 276 156 76 82 107 117 146 151 44 145 865 129 197 111 612 347 207
 scaffold256s	WormBase_imported	mRNA	12653	25597	.	-	.	ID=transcript:T12_3478.6;Parent=gene:T12_3478;Name=T12_3478.6;info=method:InterPro accession:IPR012496 description:TMC domain %0Amethod:InterPro accession:IPR038900 description:Transmembrane channel-like protein
+#microexons transcript:T12_3478.6:  142 10 18-18-15 56 64 707 276 156 76 82 107 117 354 44 145 110 694 129 197 111 126 131 347 207
 scaffold256s	WormBase_imported	exon	24138	24202	.	-	.	ID=exon:T12_3478.1.1;Parent=transcript:T12_3478.1
 scaffold256s	WormBase_imported	exon	23647	23767	.	-	.	ID=exon:T12_3478.1.2;Parent=transcript:T12_3478.1
 scaffold256s	WormBase_imported	exon	22868	23574	.	-	.	ID=exon:T12_3478.1.3;Parent=transcript:T12_3478.1
@@ -684,6 +705,7 @@ scaffold256s	WormBase_imported	CDS	12740	12859	.	-	0	ID=cds:T12_3478.6;Parent=tr
 scaffold256s	WormBase_imported	three_prime_UTR	12653	12739	.	-	.	Parent=transcript:T12_3478.6
 scaffold827s	WormBase_imported	gene	284	1443	.	+	.	ID=gene:T12_16838;Name=T12_16838;biotype=protein_coding
 scaffold827s	WormBase_imported	mRNA	284	1443	.	+	.	ID=transcript:T12_16838.1;Parent=gene:T12_16838;Name=T12_16838.1
+#microexons transcript:T12_16838.1:  73 101 27-6-9
 scaffold827s	WormBase_imported	exon	284	356	.	+	.	ID=exon:T12_16838.1.1;Parent=transcript:T12_16838.1
 scaffold827s	WormBase_imported	exon	606	706	.	+	.	ID=exon:T12_16838.1.2;Parent=transcript:T12_16838.1
 scaffold827s	WormBase_imported	exon	1172	1198	.	+	.	ID=exon:T12_16838.1.3;Parent=transcript:T12_16838.1

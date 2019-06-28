@@ -1,5 +1,6 @@
 pathogen_EmW_scaffold_01	WormBase_imported	gene	17431818	17441505	.	-	.	ID=gene:EmuJ_001168700;Name=EmuJ_001168700;biotype=protein_coding;description=von Willebrand factor A domain containing protein;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068Y018
 pathogen_EmW_scaffold_01	WormBase_imported	mRNA	17431818	17441505	.	-	.	ID=transcript:EmuJ_001168700.1;Parent=gene:EmuJ_001168700;Name=EmuJ_001168700.1;info=method:InterPro accession:IPR002035 description:von Willebrand factor%2C type A %0Amethod:InterPro accession:IPR013694 description:VIT domain %0Amethod:InterPro accession:IPR036465 description:von Willebrand factor A-like domain superfamily
+#microexons transcript:EmuJ_001168700.1:  246 265 149 220 127 187 134 185 312 21-24-18-18-21-12-18-12-21-12-27-15 60 144 191
 pathogen_EmW_scaffold_01	WormBase_imported	exon	17441260	17441505	.	-	.	ID=exon:EmuJ_001168700.1.1;Parent=transcript:EmuJ_001168700.1
 pathogen_EmW_scaffold_01	WormBase_imported	exon	17440909	17441173	.	-	.	ID=exon:EmuJ_001168700.1.2;Parent=transcript:EmuJ_001168700.1
 pathogen_EmW_scaffold_01	WormBase_imported	exon	17440684	17440832	.	-	.	ID=exon:EmuJ_001168700.1.3;Parent=transcript:EmuJ_001168700.1
@@ -50,6 +51,7 @@ pathogen_EmW_scaffold_01	WormBase_imported	CDS	17432167	17432310	.	-	2	ID=cds:Em
 pathogen_EmW_scaffold_01	WormBase_imported	CDS	17431818	17432008	.	-	2	ID=cds:EmuJ_001168700.1;Parent=transcript:EmuJ_001168700.1
 pathogen_EmW_scaffold_01	WormBase_imported	gene	19171417	19180819	.	-	.	ID=gene:EmuJ_001187100;Name=EmuJ_001187100;biotype=protein_coding;description=Zinc finger protein 91;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068Y1G2
 pathogen_EmW_scaffold_01	WormBase_imported	mRNA	19171417	19180819	.	-	.	ID=transcript:EmuJ_001187100.1;Parent=gene:EmuJ_001187100;Name=EmuJ_001187100.1;info=method:InterPro accession:IPR013087 description:Zinc finger C2H2-type %0Amethod:InterPro accession:IPR036236 description:Zinc finger C2H2 superfamily
+#microexons transcript:EmuJ_001187100.1:  22 414 36 24-27-15 81 87 87 81 90 87 87 87 96 117 75 57 87 87 87 87 51 339 45 60 170
 pathogen_EmW_scaffold_01	WormBase_imported	exon	19180798	19180819	.	-	.	ID=exon:EmuJ_001187100.1.1;Parent=transcript:EmuJ_001187100.1
 pathogen_EmW_scaffold_01	WormBase_imported	exon	19179250	19179663	.	-	.	ID=exon:EmuJ_001187100.1.2;Parent=transcript:EmuJ_001187100.1
 pathogen_EmW_scaffold_01	WormBase_imported	exon	19179132	19179167	.	-	.	ID=exon:EmuJ_001187100.1.3;Parent=transcript:EmuJ_001187100.1
@@ -106,6 +108,7 @@ pathogen_EmW_scaffold_01	WormBase_imported	CDS	19172771	19172830	.	-	2	ID=cds:Em
 pathogen_EmW_scaffold_01	WormBase_imported	CDS	19171417	19171586	.	-	2	ID=cds:EmuJ_001187100.1;Parent=transcript:EmuJ_001187100.1
 pathogen_EmW_scaffold_01	WormBase_imported	gene	19989000	19995395	.	+	.	ID=gene:EmuJ_001201600;Name=EmuJ_001201600;biotype=protein_coding;description=Diagnostic antigen gp50;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068Y0Y0
 pathogen_EmW_scaffold_01	WormBase_imported	mRNA	19989000	19995395	.	+	.	ID=transcript:EmuJ_001201600.1;Parent=gene:EmuJ_001201600;Name=EmuJ_001201600.1
+#microexons transcript:EmuJ_001201600.1:  46 89 109 123 104 79 141 30-18-15-27-15-27 53
 pathogen_EmW_scaffold_01	WormBase_imported	exon	19989000	19989045	.	+	.	ID=exon:EmuJ_001201600.1.1;Parent=transcript:EmuJ_001201600.1
 pathogen_EmW_scaffold_01	WormBase_imported	exon	19989266	19989354	.	+	.	ID=exon:EmuJ_001201600.1.2;Parent=transcript:EmuJ_001201600.1
 pathogen_EmW_scaffold_01	WormBase_imported	exon	19989563	19989671	.	+	.	ID=exon:EmuJ_001201600.1.3;Parent=transcript:EmuJ_001201600.1
@@ -136,6 +139,7 @@ pathogen_EmW_scaffold_01	WormBase_imported	CDS	19994968	19994994	.	+	2	ID=cds:Em
 pathogen_EmW_scaffold_01	WormBase_imported	CDS	19995343	19995395	.	+	2	ID=cds:EmuJ_001201600.1;Parent=transcript:EmuJ_001201600.1
 pathogen_EmW_scaffold_02	WormBase_imported	gene	444263	447650	.	-	.	ID=gene:EmuJ_000734700;Name=EmuJ_000734700;biotype=protein_coding;description=Troponin i;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068YBV2
 pathogen_EmW_scaffold_02	WormBase_imported	mRNA	444263	447650	.	-	.	ID=transcript:EmuJ_000734700.1;Parent=gene:EmuJ_000734700;Name=EmuJ_000734700.1;info=method:InterPro accession:IPR001978 description:Troponin %0Amethod:InterPro accession:IPR038077 description:Troponin domain superfamily
+#microexons transcript:EmuJ_000734700.1:  23 7 15-15-27 42 30 108 121 145 151 72
 pathogen_EmW_scaffold_02	WormBase_imported	exon	447628	447650	.	-	.	ID=exon:EmuJ_000734700.1.1;Parent=transcript:EmuJ_000734700.1
 pathogen_EmW_scaffold_02	WormBase_imported	exon	447245	447251	.	-	.	ID=exon:EmuJ_000734700.1.2;Parent=transcript:EmuJ_000734700.1
 pathogen_EmW_scaffold_02	WormBase_imported	exon	447109	447123	.	-	.	ID=exon:EmuJ_000734700.1.3;Parent=transcript:EmuJ_000734700.1
@@ -162,6 +166,7 @@ pathogen_EmW_scaffold_02	WormBase_imported	CDS	444560	444710	.	-	1	ID=cds:EmuJ_0
 pathogen_EmW_scaffold_02	WormBase_imported	CDS	444263	444334	.	-	0	ID=cds:EmuJ_000734700.1;Parent=transcript:EmuJ_000734700.1
 pathogen_EmW_scaffold_03	WormBase_imported	gene	2795006	2802600	.	-	.	ID=gene:EmuJ_000489200;Name=EmuJ_000489200;biotype=protein_coding
 pathogen_EmW_scaffold_03	WormBase_imported	mRNA	2795006	2802600	.	-	.	ID=transcript:EmuJ_000489200.1;Parent=gene:EmuJ_000489200;Name=EmuJ_000489200.1
+#microexons transcript:EmuJ_000489200.1:  25 99 93 87 69 132 66 33 84 15 48 30 690 27 63 201 51 60 48 60 33 132 30-24-24 39 21 120 30 114 33 33 48 81 69 45 21 57 39 14
 pathogen_EmW_scaffold_03	WormBase_imported	exon	2802576	2802600	.	-	.	ID=exon:EmuJ_000489200.1.1;Parent=transcript:EmuJ_000489200.1
 pathogen_EmW_scaffold_03	WormBase_imported	exon	2802401	2802499	.	-	.	ID=exon:EmuJ_000489200.1.2;Parent=transcript:EmuJ_000489200.1
 pathogen_EmW_scaffold_03	WormBase_imported	exon	2802016	2802108	.	-	.	ID=exon:EmuJ_000489200.1.3;Parent=transcript:EmuJ_000489200.1
@@ -244,6 +249,7 @@ pathogen_EmW_scaffold_03	WormBase_imported	CDS	2795121	2795159	.	-	2	ID=cds:EmuJ
 pathogen_EmW_scaffold_03	WormBase_imported	CDS	2795006	2795019	.	-	2	ID=cds:EmuJ_000489200.1;Parent=transcript:EmuJ_000489200.1
 pathogen_EmW_scaffold_04	WormBase_imported	gene	8366595	8390242	.	+	.	ID=gene:EmuJ_000255900;Name=EmuJ_000255900;biotype=protein_coding;description=Dynein heavy chain;description_source=UniProtKB/TrEMBL;description_source_acc=A0A087W1Z8
 pathogen_EmW_scaffold_04	WormBase_imported	mRNA	8366595	8390242	.	+	.	ID=transcript:EmuJ_000255900.1;Parent=gene:EmuJ_000255900;Name=EmuJ_000255900.1;info=method:InterPro accession:IPR003593 description:AAA+ ATPase domain %0Amethod:InterPro accession:IPR004273 description:Dynein heavy chain region D6 P-loop domain %0Amethod:InterPro accession:IPR013602 description:Dynein heavy chain%2C domain-2 %0Amethod:InterPro accession:IPR024317 description:Dynein heavy chain%2C AAA module D4 %0Amethod:InterPro accession:IPR024743 description:Dynein heavy chain%2C coiled coil stalk %0Amethod:InterPro accession:IPR026983 description:Dynein heavy chain %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR035699 description:Dynein heavy chain%2C hydrolytic ATP-binding dynein motor region %0Amethod:InterPro accession:IPR035706 description:Dynein heavy chain%2C ATP-binding dynein motor region %0Amethod:InterPro accession:IPR041228 description:Dynein heavy chain%2C C-terminal domain %0Amethod:InterPro accession:IPR041466 description:Dynein heavy chain%2C AAA 5 extension domain %0Amethod:InterPro accession:IPR041589 description:Dynein heavy chain 3%2C AAA+ lid domain %0Amethod:InterPro accession:IPR041658 description:Dynein heavy chain AAA lid domain
+#microexons transcript:EmuJ_000255900.1:  30 305 120 37 177 75 407 988 149 616 233 238 231 213 513 132 222 24-12-21-9 54 198 254 198 361 312 414 230 331 878 307 1629 186 138 384 178 104 207
 pathogen_EmW_scaffold_04	WormBase_imported	exon	8366595	8366624	.	+	.	ID=exon:EmuJ_000255900.1.1;Parent=transcript:EmuJ_000255900.1
 pathogen_EmW_scaffold_04	WormBase_imported	exon	8366830	8367134	.	+	.	ID=exon:EmuJ_000255900.1.2;Parent=transcript:EmuJ_000255900.1
 pathogen_EmW_scaffold_04	WormBase_imported	exon	8367402	8367521	.	+	.	ID=exon:EmuJ_000255900.1.3;Parent=transcript:EmuJ_000255900.1
@@ -324,6 +330,7 @@ pathogen_EmW_scaffold_04	WormBase_imported	CDS	8389690	8389793	.	+	2	ID=cds:EmuJ
 pathogen_EmW_scaffold_04	WormBase_imported	CDS	8390036	8390242	.	+	0	ID=cds:EmuJ_000255900.1;Parent=transcript:EmuJ_000255900.1
 pathogen_EmW_scaffold_04	WormBase_imported	gene	10207756	10211616	.	+	.	ID=gene:EmuJ_000120500;Name=EmuJ_000120500;biotype=protein_coding;description=Expressed protein;description_source=UniProtKB/TrEMBL;description_source_acc=A0A087VYY1
 pathogen_EmW_scaffold_04	WormBase_imported	mRNA	10207756	10211616	.	+	.	ID=transcript:EmuJ_000120500.1;Parent=gene:EmuJ_000120500;Name=EmuJ_000120500.1
+#microexons transcript:EmuJ_000120500.1:  28 57 135 24-21-27 153 24 114 24-27-12 42 53
 pathogen_EmW_scaffold_04	WormBase_imported	exon	10207756	10207783	.	+	.	ID=exon:EmuJ_000120500.1.1;Parent=transcript:EmuJ_000120500.1
 pathogen_EmW_scaffold_04	WormBase_imported	exon	10208064	10208120	.	+	.	ID=exon:EmuJ_000120500.1.2;Parent=transcript:EmuJ_000120500.1
 pathogen_EmW_scaffold_04	WormBase_imported	exon	10208210	10208344	.	+	.	ID=exon:EmuJ_000120500.1.3;Parent=transcript:EmuJ_000120500.1
@@ -354,6 +361,7 @@ pathogen_EmW_scaffold_04	WormBase_imported	CDS	10211262	10211303	.	+	2	ID=cds:Em
 pathogen_EmW_scaffold_04	WormBase_imported	CDS	10211564	10211616	.	+	2	ID=cds:EmuJ_000120500.1;Parent=transcript:EmuJ_000120500.1
 pathogen_EmW_scaffold_05	WormBase_imported	gene	11682151	11688711	.	-	.	ID=gene:EmuJ_000679000;Name=EmuJ_000679000;biotype=protein_coding;description=Mitogen-activated protein kinase;description_source=UniProtKB/TrEMBL;description_source_acc=U6HPV5
 pathogen_EmW_scaffold_05	WormBase_imported	mRNA	11682151	11688711	.	-	.	ID=transcript:EmuJ_000679000.1;Parent=gene:EmuJ_000679000;Name=EmuJ_000679000.1;info=method:InterPro accession:IPR000719 description:Protein kinase domain %0Amethod:InterPro accession:IPR003527 description:Mitogen-activated protein (MAP) kinase%2C conserved site %0Amethod:InterPro accession:IPR008271 description:Serine/threonine-protein kinase%2C active site %0Amethod:InterPro accession:IPR011009 description:Protein kinase-like domain superfamily
+#microexons transcript:EmuJ_000679000.1:  53 85 247 264 163 190 51 81 21-21-30 45 222 30
 pathogen_EmW_scaffold_05	WormBase_imported	exon	11688659	11688711	.	-	.	ID=exon:EmuJ_000679000.1.1;Parent=transcript:EmuJ_000679000.1
 pathogen_EmW_scaffold_05	WormBase_imported	exon	11688044	11688128	.	-	.	ID=exon:EmuJ_000679000.1.2;Parent=transcript:EmuJ_000679000.1
 pathogen_EmW_scaffold_05	WormBase_imported	exon	11687678	11687924	.	-	.	ID=exon:EmuJ_000679000.1.3;Parent=transcript:EmuJ_000679000.1
@@ -384,6 +392,7 @@ pathogen_EmW_scaffold_05	WormBase_imported	CDS	11682252	11682473	.	-	0	ID=cds:Em
 pathogen_EmW_scaffold_05	WormBase_imported	CDS	11682151	11682180	.	-	0	ID=cds:EmuJ_000679000.1;Parent=transcript:EmuJ_000679000.1
 pathogen_EmW_scaffold_05	WormBase_imported	gene	11790966	11794450	.	-	.	ID=gene:EmuJ_000566700;Name=EmuJ_000566700;biotype=protein_coding;description=Diagnostic antigen gp50;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068Y7V2
 pathogen_EmW_scaffold_05	WormBase_imported	mRNA	11790966	11794450	.	-	.	ID=transcript:EmuJ_000566700.1;Parent=gene:EmuJ_000566700;Name=EmuJ_000566700.1
+#microexons transcript:EmuJ_000566700.1:  46 89 106 123 104 79 132 30-18-18-27 53
 pathogen_EmW_scaffold_05	WormBase_imported	exon	11794405	11794450	.	-	.	ID=exon:EmuJ_000566700.1.1;Parent=transcript:EmuJ_000566700.1
 pathogen_EmW_scaffold_05	WormBase_imported	exon	11794094	11794182	.	-	.	ID=exon:EmuJ_000566700.1.2;Parent=transcript:EmuJ_000566700.1
 pathogen_EmW_scaffold_05	WormBase_imported	exon	11793777	11793882	.	-	.	ID=exon:EmuJ_000566700.1.3;Parent=transcript:EmuJ_000566700.1
@@ -410,6 +419,7 @@ pathogen_EmW_scaffold_05	WormBase_imported	CDS	11791362	11791388	.	-	2	ID=cds:Em
 pathogen_EmW_scaffold_05	WormBase_imported	CDS	11790966	11791018	.	-	2	ID=cds:EmuJ_000566700.1;Parent=transcript:EmuJ_000566700.1
 pathogen_EmW_scaffold_08	WormBase_imported	gene	3253591	3258793	.	+	.	ID=gene:EmuJ_001120900;Name=EmuJ_001120900;biotype=protein_coding;description=Diagnostic antigen gp50;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068YF78
 pathogen_EmW_scaffold_08	WormBase_imported	mRNA	3253591	3258793	.	+	.	ID=transcript:EmuJ_001120900.1;Parent=gene:EmuJ_001120900;Name=EmuJ_001120900.1
+#microexons transcript:EmuJ_001120900.1:  46 89 106 123 104 79 141 30-18-15-27-27-27-15 34 151
 pathogen_EmW_scaffold_08	WormBase_imported	exon	3253591	3253636	.	+	.	ID=exon:EmuJ_001120900.1.1;Parent=transcript:EmuJ_001120900.1
 pathogen_EmW_scaffold_08	WormBase_imported	exon	3253856	3253944	.	+	.	ID=exon:EmuJ_001120900.1.2;Parent=transcript:EmuJ_001120900.1
 pathogen_EmW_scaffold_08	WormBase_imported	exon	3254156	3254261	.	+	.	ID=exon:EmuJ_001120900.1.3;Parent=transcript:EmuJ_001120900.1
@@ -444,6 +454,7 @@ pathogen_EmW_scaffold_08	WormBase_imported	CDS	3258388	3258421	.	+	2	ID=cds:EmuJ
 pathogen_EmW_scaffold_08	WormBase_imported	CDS	3258643	3258793	.	+	1	ID=cds:EmuJ_001120900.1;Parent=transcript:EmuJ_001120900.1
 pathogen_EmW_scaffold_08	WormBase_imported	gene	3266053	3272015	.	+	.	ID=gene:EmuJ_001120700;Name=EmuJ_001120700;biotype=protein_coding;description=Diagnostic antigen gp50;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068YJJ5
 pathogen_EmW_scaffold_08	WormBase_imported	mRNA	3266053	3272015	.	+	.	ID=transcript:EmuJ_001120700.1;Parent=gene:EmuJ_001120700;Name=EmuJ_001120700.1
+#microexons transcript:EmuJ_001120700.1:  46 89 106 123 104 79 141 30-18-15-27-27-27-27-27-15-27 53
 pathogen_EmW_scaffold_08	WormBase_imported	exon	3266053	3266098	.	+	.	ID=exon:EmuJ_001120700.1.1;Parent=transcript:EmuJ_001120700.1
 pathogen_EmW_scaffold_08	WormBase_imported	exon	3266318	3266406	.	+	.	ID=exon:EmuJ_001120700.1.2;Parent=transcript:EmuJ_001120700.1
 pathogen_EmW_scaffold_08	WormBase_imported	exon	3266618	3266723	.	+	.	ID=exon:EmuJ_001120700.1.3;Parent=transcript:EmuJ_001120700.1
@@ -482,6 +493,7 @@ pathogen_EmW_scaffold_08	WormBase_imported	CDS	3271708	3271734	.	+	2	ID=cds:EmuJ
 pathogen_EmW_scaffold_08	WormBase_imported	CDS	3271963	3272015	.	+	2	ID=cds:EmuJ_001120700.1;Parent=transcript:EmuJ_001120700.1
 pathogen_EmW_scaffold_10	WormBase_imported	gene	882431	886131	.	-	.	ID=gene:EmuJ_000324200;Name=EmuJ_000324200;biotype=protein_coding;description=Diagnostic antigen gp50;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068Y299
 pathogen_EmW_scaffold_10	WormBase_imported	mRNA	882431	886131	.	-	.	ID=transcript:EmuJ_000324200.1;Parent=gene:EmuJ_000324200;Name=EmuJ_000324200.1
+#microexons transcript:EmuJ_000324200.1:  46 92 106 26 89 109 79 141 30-18-27-18-27 50
 pathogen_EmW_scaffold_10	WormBase_imported	exon	886086	886131	.	-	.	ID=exon:EmuJ_000324200.1.1;Parent=transcript:EmuJ_000324200.1
 pathogen_EmW_scaffold_10	WormBase_imported	exon	885877	885968	.	-	.	ID=exon:EmuJ_000324200.1.2;Parent=transcript:EmuJ_000324200.1
 pathogen_EmW_scaffold_10	WormBase_imported	exon	885547	885652	.	-	.	ID=exon:EmuJ_000324200.1.3;Parent=transcript:EmuJ_000324200.1
@@ -512,6 +524,7 @@ pathogen_EmW_scaffold_10	WormBase_imported	CDS	882853	882879	.	-	2	ID=cds:EmuJ_0
 pathogen_EmW_scaffold_10	WormBase_imported	CDS	882431	882480	.	-	2	ID=cds:EmuJ_000324200.1;Parent=transcript:EmuJ_000324200.1
 pathogen_EmW_scaffold_10	WormBase_imported	gene	2122000	2125114	.	+	.	ID=gene:EmuJ_000293700;Name=EmuJ_000293700;biotype=protein_coding;description=Diagnostic antigen gp50;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068Y045
 pathogen_EmW_scaffold_10	WormBase_imported	mRNA	2122000	2125114	.	+	.	ID=transcript:EmuJ_000293700.1;Parent=gene:EmuJ_000293700;Name=EmuJ_000293700.1
+#microexons transcript:EmuJ_000293700.1:  46 92 106 132 104 79 141 30-18-15-27 80
 pathogen_EmW_scaffold_10	WormBase_imported	exon	2122000	2122045	.	+	.	ID=exon:EmuJ_000293700.1.1;Parent=transcript:EmuJ_000293700.1
 pathogen_EmW_scaffold_10	WormBase_imported	exon	2122177	2122268	.	+	.	ID=exon:EmuJ_000293700.1.2;Parent=transcript:EmuJ_000293700.1
 pathogen_EmW_scaffold_10	WormBase_imported	exon	2122448	2122553	.	+	.	ID=exon:EmuJ_000293700.1.3;Parent=transcript:EmuJ_000293700.1
@@ -538,6 +551,7 @@ pathogen_EmW_scaffold_10	WormBase_imported	CDS	2124687	2124713	.	+	2	ID=cds:EmuJ
 pathogen_EmW_scaffold_10	WormBase_imported	CDS	2125035	2125114	.	+	2	ID=cds:EmuJ_000293700.1;Parent=transcript:EmuJ_000293700.1
 pathogen_EMU_contig_0370	WormBase_imported	gene	8514	13077	.	+	.	ID=gene:EmuJ_000681200;Name=EmuJ_000681200;biotype=protein_coding;description=Diagnostic antigen gp50;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068YAR6
 pathogen_EMU_contig_0370	WormBase_imported	mRNA	8514	13077	.	+	.	ID=transcript:EmuJ_000681200.1;Parent=gene:EmuJ_000681200;Name=EmuJ_000681200.1
+#microexons transcript:EmuJ_000681200.1:  46 89 109 123 104 79 141 30-18-18-18-27 53
 pathogen_EMU_contig_0370	WormBase_imported	exon	8514	8559	.	+	.	ID=exon:EmuJ_000681200.1.1;Parent=transcript:EmuJ_000681200.1
 pathogen_EMU_contig_0370	WormBase_imported	exon	9282	9370	.	+	.	ID=exon:EmuJ_000681200.1.2;Parent=transcript:EmuJ_000681200.1
 pathogen_EMU_contig_0370	WormBase_imported	exon	9584	9692	.	+	.	ID=exon:EmuJ_000681200.1.3;Parent=transcript:EmuJ_000681200.1
@@ -566,6 +580,7 @@ pathogen_EMU_contig_0370	WormBase_imported	CDS	12673	12699	.	+	2	ID=cds:EmuJ_000
 pathogen_EMU_contig_0370	WormBase_imported	CDS	13025	13077	.	+	2	ID=cds:EmuJ_000681200.1;Parent=transcript:EmuJ_000681200.1
 pathogen_EMU_contig_1143	WormBase_imported	gene	17995	21056	.	-	.	ID=gene:EmuJ_000515550;Name=EmuJ_000515550;biotype=protein_coding;description=Diagnostic antigen gp50;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068XZK5
 pathogen_EMU_contig_1143	WormBase_imported	mRNA	17995	21056	.	-	.	ID=transcript:EmuJ_000515550.1;Parent=gene:EmuJ_000515550;Name=EmuJ_000515550.1
+#microexons transcript:EmuJ_000515550.1:  46 92 106 132 104 79 141 30-18-18-27 53
 pathogen_EMU_contig_1143	WormBase_imported	exon	21011	21056	.	-	.	ID=exon:EmuJ_000515550.1.1;Parent=transcript:EmuJ_000515550.1
 pathogen_EMU_contig_1143	WormBase_imported	exon	20802	20893	.	-	.	ID=exon:EmuJ_000515550.1.2;Parent=transcript:EmuJ_000515550.1
 pathogen_EMU_contig_1143	WormBase_imported	exon	20475	20580	.	-	.	ID=exon:EmuJ_000515550.1.3;Parent=transcript:EmuJ_000515550.1
@@ -619,6 +634,7 @@ pathogen_EMU_contig_1143	RepeatMasker	repeat_region	29568	29666	303	+	.	Name=rnd
 pathogen_EMU_contig_1143	RepeatMasker	repeat_region	30433	30475	281	+	.	Name=rnd-4_family-254;repeat_class=Unspecified
 pathogen_EMU_contig_0963	WormBase_imported	gene	11233	12852	.	-	.	ID=gene:EmuJ_000049900;Name=EmuJ_000049900;biotype=protein_coding;description=Expressed protein;description_source=UniProtKB/TrEMBL;description_source_acc=A0A087VX26
 pathogen_EMU_contig_0963	WormBase_imported	mRNA	11233	12852	.	-	.	ID=transcript:EmuJ_000049900.1;Parent=gene:EmuJ_000049900;Name=EmuJ_000049900.1
+#microexons transcript:EmuJ_000049900.1:  25 27-18-27-18-27 59
 pathogen_EMU_contig_0963	WormBase_imported	exon	12828	12852	.	-	.	ID=exon:EmuJ_000049900.1.1;Parent=transcript:EmuJ_000049900.1
 pathogen_EMU_contig_0963	WormBase_imported	exon	12499	12525	.	-	.	ID=exon:EmuJ_000049900.1.2;Parent=transcript:EmuJ_000049900.1
 pathogen_EMU_contig_0963	WormBase_imported	exon	12384	12401	.	-	.	ID=exon:EmuJ_000049900.1.3;Parent=transcript:EmuJ_000049900.1
@@ -684,6 +700,7 @@ pathogen_EMU_contig_0911	dust	low_complexity_region	12142	12153	.	-	.
 pathogen_EMU_contig_0911	dust	low_complexity_region	12498	12509	.	-	.	
 pathogen_EMU_contig_0014	WormBase_imported	gene	542	2859	.	-	.	ID=gene:EmuJ_000289600;Name=EmuJ_000289600;biotype=protein_coding;description=Diagnostic antigen gp50;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068XX91
 pathogen_EMU_contig_0014	WormBase_imported	mRNA	542	2859	.	-	.	ID=transcript:EmuJ_000289600.1;Parent=gene:EmuJ_000289600;Name=EmuJ_000289600.1
+#microexons transcript:EmuJ_000289600.1:  12-30-18-18-27-18-27-18-27-15
 pathogen_EMU_contig_0014	WormBase_imported	exon	2848	2859	.	-	.	ID=exon:EmuJ_000289600.1.1;Parent=transcript:EmuJ_000289600.1
 pathogen_EMU_contig_0014	WormBase_imported	exon	2625	2654	.	-	.	ID=exon:EmuJ_000289600.1.2;Parent=transcript:EmuJ_000289600.1
 pathogen_EMU_contig_0014	WormBase_imported	exon	2421	2438	.	-	.	ID=exon:EmuJ_000289600.1.3;Parent=transcript:EmuJ_000289600.1

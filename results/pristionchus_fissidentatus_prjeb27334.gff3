@@ -1,5 +1,6 @@
 scaffold85	WormBase_imported	gene	143220	153297	.	-	.	ID=gene:fissidentatus-mkr-S85-1.32-mRNA-1;Name=fissidentatus-mkr-S85-1.32-mRNA-1;biotype=protein_coding
 scaffold85	WormBase_imported	mRNA	143220	153297	.	-	.	ID=transcript:fissidentatus-mkr-S85-1.32-mRNA-1;Parent=gene:fissidentatus-mkr-S85-1.32-mRNA-1;Name=fissidentatus-mkr-S85-1.32-mRNA-1
+#microexons transcript:fissidentatus-mkr-S85-1.32-mRNA-1:  6-18-12 192 78 68 16 36 72
 scaffold85	WormBase_imported	exon	153292	153297	.	-	.	ID=exon:fissidentatus-mkr-S85-1.32-mRNA-1.1;Parent=transcript:fissidentatus-mkr-S85-1.32-mRNA-1
 scaffold85	WormBase_imported	exon	147311	147328	.	-	.	ID=exon:fissidentatus-mkr-S85-1.32-mRNA-1.2;Parent=transcript:fissidentatus-mkr-S85-1.32-mRNA-1
 scaffold85	WormBase_imported	exon	146941	146952	.	-	.	ID=exon:fissidentatus-mkr-S85-1.32-mRNA-1.3;Parent=transcript:fissidentatus-mkr-S85-1.32-mRNA-1
@@ -20,6 +21,7 @@ scaffold85	WormBase_imported	CDS	145174	145209	.	-	0	ID=cds:fissidentatus-mkr-S8
 scaffold85	WormBase_imported	CDS	143220	143291	.	-	0	ID=cds:fissidentatus-mkr-S85-1.32-mRNA-1;Parent=transcript:fissidentatus-mkr-S85-1.32-mRNA-1
 scaffold370	WormBase_imported	gene	254927	258541	.	-	.	ID=gene:fissidentatus-sn_msk-S370-2.31-mRNA-1;Name=fissidentatus-sn_msk-S370-2.31-mRNA-1;biotype=protein_coding
 scaffold370	WormBase_imported	mRNA	254927	258541	.	-	.	ID=transcript:fissidentatus-sn_msk-S370-2.31-mRNA-1;Parent=gene:fissidentatus-sn_msk-S370-2.31-mRNA-1;Name=fissidentatus-sn_msk-S370-2.31-mRNA-1
+#microexons transcript:fissidentatus-sn_msk-S370-2.31-mRNA-1:  9-15-27-27 75 34 8
 scaffold370	WormBase_imported	exon	258533	258541	.	-	.	ID=exon:fissidentatus-sn_msk-S370-2.31-mRNA-1.1;Parent=transcript:fissidentatus-sn_msk-S370-2.31-mRNA-1
 scaffold370	WormBase_imported	exon	257724	257738	.	-	.	ID=exon:fissidentatus-sn_msk-S370-2.31-mRNA-1.2;Parent=transcript:fissidentatus-sn_msk-S370-2.31-mRNA-1
 scaffold370	WormBase_imported	exon	257592	257618	.	-	.	ID=exon:fissidentatus-sn_msk-S370-2.31-mRNA-1.3;Parent=transcript:fissidentatus-sn_msk-S370-2.31-mRNA-1
@@ -36,6 +38,7 @@ scaffold370	WormBase_imported	CDS	256477	256510	.	-	0	ID=cds:fissidentatus-sn_ms
 scaffold370	WormBase_imported	CDS	254927	254934	.	-	2	ID=cds:fissidentatus-sn_msk-S370-2.31-mRNA-1;Parent=transcript:fissidentatus-sn_msk-S370-2.31-mRNA-1
 scaffold187	WormBase_imported	gene	17936	21540	.	+	.	ID=gene:fissidentatus-sn_msk-S187-0.27-mRNA-1;Name=fissidentatus-sn_msk-S187-0.27-mRNA-1;biotype=protein_coding
 scaffold187	WormBase_imported	mRNA	17936	21540	.	+	.	ID=transcript:fissidentatus-sn_msk-S187-0.27-mRNA-1;Parent=gene:fissidentatus-sn_msk-S187-0.27-mRNA-1;Name=fissidentatus-sn_msk-S187-0.27-mRNA-1
+#microexons transcript:fissidentatus-sn_msk-S187-0.27-mRNA-1:  9-12-12 75 61 14
 scaffold187	WormBase_imported	exon	17936	17944	.	+	.	ID=exon:fissidentatus-sn_msk-S187-0.27-mRNA-1.1;Parent=transcript:fissidentatus-sn_msk-S187-0.27-mRNA-1
 scaffold187	WormBase_imported	exon	18333	18344	.	+	.	ID=exon:fissidentatus-sn_msk-S187-0.27-mRNA-1.2;Parent=transcript:fissidentatus-sn_msk-S187-0.27-mRNA-1
 scaffold187	WormBase_imported	exon	18533	18544	.	+	.	ID=exon:fissidentatus-sn_msk-S187-0.27-mRNA-1.3;Parent=transcript:fissidentatus-sn_msk-S187-0.27-mRNA-1
@@ -50,6 +53,7 @@ scaffold187	WormBase_imported	CDS	21353	21413	.	+	0	ID=cds:fissidentatus-sn_msk-
 scaffold187	WormBase_imported	CDS	21527	21540	.	+	2	ID=cds:fissidentatus-sn_msk-S187-0.27-mRNA-1;Parent=transcript:fissidentatus-sn_msk-S187-0.27-mRNA-1
 scaffold343	WormBase_imported	gene	61957	70912	.	+	.	ID=gene:fissidentatus-sn_msk-S343-0.2-mRNA-1;Name=fissidentatus-sn_msk-S343-0.2-mRNA-1;biotype=protein_coding
 scaffold343	WormBase_imported	mRNA	61957	70912	.	+	.	ID=transcript:fissidentatus-sn_msk-S343-0.2-mRNA-1;Parent=gene:fissidentatus-sn_msk-S343-0.2-mRNA-1;Name=fissidentatus-sn_msk-S343-0.2-mRNA-1
+#microexons transcript:fissidentatus-sn_msk-S343-0.2-mRNA-1:  6-6-30 63 128 13
 scaffold343	WormBase_imported	exon	61957	61962	.	+	.	ID=exon:fissidentatus-sn_msk-S343-0.2-mRNA-1.1;Parent=transcript:fissidentatus-sn_msk-S343-0.2-mRNA-1
 scaffold343	WormBase_imported	exon	62350	62355	.	+	.	ID=exon:fissidentatus-sn_msk-S343-0.2-mRNA-1.2;Parent=transcript:fissidentatus-sn_msk-S343-0.2-mRNA-1
 scaffold343	WormBase_imported	exon	63504	63533	.	+	.	ID=exon:fissidentatus-sn_msk-S343-0.2-mRNA-1.3;Parent=transcript:fissidentatus-sn_msk-S343-0.2-mRNA-1

@@ -1,5 +1,6 @@
 scaffold74	WormBase_imported	gene	529303	552498	.	+	.	ID=gene:japonicus-mkr-S74-5.23-mRNA-2;Name=japonicus-mkr-S74-5.23-mRNA-2;biotype=protein_coding
 scaffold74	WormBase_imported	mRNA	529303	552498	.	+	.	ID=transcript:japonicus-mkr-S74-5.23-mRNA-2;Parent=gene:japonicus-mkr-S74-5.23-mRNA-2;Name=japonicus-mkr-S74-5.23-mRNA-2;info=method:InterPro accession:IPR000742 description:EGF-like domain %0Amethod:InterPro accession:IPR001881 description:EGF-like calcium-binding domain %0Amethod:InterPro accession:IPR004855 description:Transcription factor IIA%2C alpha/beta subunit %0Amethod:InterPro accession:IPR009088 description:Transcription factor IIA%2C beta-barrel %0Amethod:InterPro accession:IPR013032 description:EGF-like%2C conserved site
+#microexons transcript:japonicus-mkr-S74-5.23-mRNA-2:  30 102 123 84 121 74 93 102 99 75 104 167 54 92 85 95 85 98 40 74 135 103 105 104 126 111 84 66 100 80 82 136 98 57 92 108 82 103 25 2178 107 62 69 30-30-30 89 129 126 69 43 77 96 123
 scaffold74	WormBase_imported	exon	529303	529332	.	+	.	ID=exon:japonicus-mkr-S74-5.23-mRNA-2.1;Parent=transcript:japonicus-mkr-S74-5.23-mRNA-2
 scaffold74	WormBase_imported	exon	529905	530006	.	+	.	ID=exon:japonicus-mkr-S74-5.23-mRNA-2.2;Parent=transcript:japonicus-mkr-S74-5.23-mRNA-2
 scaffold74	WormBase_imported	exon	530218	530340	.	+	.	ID=exon:japonicus-mkr-S74-5.23-mRNA-2.3;Parent=transcript:japonicus-mkr-S74-5.23-mRNA-2
@@ -110,6 +111,7 @@ scaffold74	WormBase_imported	CDS	551980	552075	.	+	0	ID=cds:japonicus-mkr-S74-5.
 scaffold74	WormBase_imported	CDS	552376	552498	.	+	0	ID=cds:japonicus-mkr-S74-5.23-mRNA-2;Parent=transcript:japonicus-mkr-S74-5.23-mRNA-2
 scaffold357	WormBase_imported	gene	272216	274821	.	-	.	ID=gene:japonicus-mkr-S357-2.49-mRNA-1;Name=japonicus-mkr-S357-2.49-mRNA-1;biotype=protein_coding
 scaffold357	WormBase_imported	mRNA	272216	274821	.	-	.	ID=transcript:japonicus-mkr-S357-2.49-mRNA-1;Parent=gene:japonicus-mkr-S357-2.49-mRNA-1;Name=japonicus-mkr-S357-2.49-mRNA-1
+#microexons transcript:japonicus-mkr-S357-2.49-mRNA-1:  156 18-18-18 90 81 87 84 70 93 173
 scaffold357	WormBase_imported	exon	274666	274821	.	-	.	ID=exon:japonicus-mkr-S357-2.49-mRNA-1.1;Parent=transcript:japonicus-mkr-S357-2.49-mRNA-1
 scaffold357	WormBase_imported	exon	274528	274545	.	-	.	ID=exon:japonicus-mkr-S357-2.49-mRNA-1.2;Parent=transcript:japonicus-mkr-S357-2.49-mRNA-1
 scaffold357	WormBase_imported	exon	274381	274398	.	-	.	ID=exon:japonicus-mkr-S357-2.49-mRNA-1.3;Parent=transcript:japonicus-mkr-S357-2.49-mRNA-1
@@ -134,6 +136,7 @@ scaffold357	WormBase_imported	CDS	272496	272588	.	-	2	ID=cds:japonicus-mkr-S357-
 scaffold357	WormBase_imported	CDS	272216	272388	.	-	2	ID=cds:japonicus-mkr-S357-2.49-mRNA-1;Parent=transcript:japonicus-mkr-S357-2.49-mRNA-1
 scaffold470	WormBase_imported	gene	536	4519	.	+	.	ID=gene:japonicus-ag_msk-S470-0.48-mRNA-1;Name=japonicus-ag_msk-S470-0.48-mRNA-1;biotype=protein_coding
 scaffold470	WormBase_imported	mRNA	536	4519	.	+	.	ID=transcript:japonicus-ag_msk-S470-0.48-mRNA-1;Parent=gene:japonicus-ag_msk-S470-0.48-mRNA-1;Name=japonicus-ag_msk-S470-0.48-mRNA-1
+#microexons transcript:japonicus-ag_msk-S470-0.48-mRNA-1:  83 115 12-12-12 90 60 115 73 88 91 114 62 63
 scaffold470	WormBase_imported	exon	536	618	.	+	.	ID=exon:japonicus-ag_msk-S470-0.48-mRNA-1.1;Parent=transcript:japonicus-ag_msk-S470-0.48-mRNA-1
 scaffold470	WormBase_imported	exon	1143	1257	.	+	.	ID=exon:japonicus-ag_msk-S470-0.48-mRNA-1.2;Parent=transcript:japonicus-ag_msk-S470-0.48-mRNA-1
 scaffold470	WormBase_imported	exon	1370	1381	.	+	.	ID=exon:japonicus-ag_msk-S470-0.48-mRNA-1.3;Parent=transcript:japonicus-ag_msk-S470-0.48-mRNA-1
@@ -164,6 +167,7 @@ scaffold470	WormBase_imported	CDS	4173	4234	.	+	2	ID=cds:japonicus-ag_msk-S470-0
 scaffold470	WormBase_imported	CDS	4457	4519	.	+	0	ID=cds:japonicus-ag_msk-S470-0.48-mRNA-1;Parent=transcript:japonicus-ag_msk-S470-0.48-mRNA-1
 scaffold663	WormBase_imported	gene	31144	33163	.	-	.	ID=gene:japonicus-mkr-S663-0.20-mRNA-1;Name=japonicus-mkr-S663-0.20-mRNA-1;biotype=protein_coding
 scaffold663	WormBase_imported	mRNA	31144	33163	.	-	.	ID=transcript:japonicus-mkr-S663-0.20-mRNA-1;Parent=gene:japonicus-mkr-S663-0.20-mRNA-1;Name=japonicus-mkr-S663-0.20-mRNA-1
+#microexons transcript:japonicus-mkr-S663-0.20-mRNA-1:  53 75 63 106 30-30-30-30 114
 scaffold663	WormBase_imported	exon	33111	33163	.	-	.	ID=exon:japonicus-mkr-S663-0.20-mRNA-1.1;Parent=transcript:japonicus-mkr-S663-0.20-mRNA-1
 scaffold663	WormBase_imported	exon	32788	32862	.	-	.	ID=exon:japonicus-mkr-S663-0.20-mRNA-1.2;Parent=transcript:japonicus-mkr-S663-0.20-mRNA-1
 scaffold663	WormBase_imported	exon	32387	32449	.	-	.	ID=exon:japonicus-mkr-S663-0.20-mRNA-1.3;Parent=transcript:japonicus-mkr-S663-0.20-mRNA-1

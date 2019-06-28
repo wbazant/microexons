@@ -1,5 +1,6 @@
 SJC_S000159	WormBase_imported	gene	335405	360597	.	-	.	ID=gene:Sjp_0026420;Name=Sjp_0026420;biotype=protein_coding;description=SJCHGC00516 protein;description_source=UniProtKB/TrEMBL;description_source_acc=Q5DDC3
 SJC_S000159	WormBase_imported	mRNA	335405	360597	.	-	.	ID=transcript:Sjp_0026420;Parent=gene:Sjp_0026420;Name=Sjp_0026420;info=method:InterPro accession:IPR001978 description:Troponin %0Amethod:InterPro accession:IPR038077 description:Troponin domain superfamily
+#microexons transcript:Sjp_0026420:  26 13 27-27-30 108 121 101 44 154 102
 SJC_S000159	WormBase_imported	exon	360572	360597	.	-	.	ID=exon:Sjp_0026420.1;Parent=transcript:Sjp_0026420
 SJC_S000159	WormBase_imported	exon	356861	356873	.	-	.	ID=exon:Sjp_0026420.2;Parent=transcript:Sjp_0026420
 SJC_S000159	WormBase_imported	exon	355041	355067	.	-	.	ID=exon:Sjp_0026420.3;Parent=transcript:Sjp_0026420

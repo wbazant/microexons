@@ -1,5 +1,6 @@
 scaffold3s	WormBase_imported	gene	125156	127232	.	+	.	ID=gene:T07_9110;Name=T07_9110;biotype=protein_coding
 scaffold3s	WormBase_imported	mRNA	125156	127232	.	+	.	ID=transcript:T07_9110.1;Parent=gene:T07_9110;Name=T07_9110.1
+#microexons transcript:T07_9110.1:  85 43 46 18-21-6 19 56
 scaffold3s	WormBase_imported	exon	125156	125240	.	+	.	ID=exon:T07_9110.1.1;Parent=transcript:T07_9110.1
 scaffold3s	WormBase_imported	exon	125948	125990	.	+	.	ID=exon:T07_9110.1.2;Parent=transcript:T07_9110.1
 scaffold3s	WormBase_imported	exon	126350	126395	.	+	.	ID=exon:T07_9110.1.3;Parent=transcript:T07_9110.1
@@ -18,7 +19,9 @@ scaffold3s	WormBase_imported	CDS	127096	127114	.	+	0	ID=cds:T07_9110.1;Parent=tr
 scaffold3s	WormBase_imported	CDS	127177	127232	.	+	2	ID=cds:T07_9110.1;Parent=transcript:T07_9110.1
 scaffold6s	WormBase_imported	gene	119680	122560	.	+	.	ID=gene:T07_3489;Name=T07_3489;biotype=protein_coding;description=Enteropeptidase;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0V0SJ54;locus=TMPRSS15
 scaffold6s	WormBase_imported	mRNA	119680	122560	.	+	.	ID=transcript:T07_3489.1;Parent=gene:T07_3489;Name=T07_3489.1;info=method:InterPro accession:IPR001254 description:Serine proteases%2C trypsin domain %0Amethod:InterPro accession:IPR009003 description:Peptidase S1%2C PA clan
+#microexons transcript:T07_3489.1:  48 9 182 391 120 18
 scaffold6s	WormBase_imported	mRNA	119817	122560	.	+	.	ID=transcript:T07_3489.2;Parent=gene:T07_3489;Name=T07_3489.2;info=method:InterPro accession:IPR001254 description:Serine proteases%2C trypsin domain %0Amethod:InterPro accession:IPR009003 description:Peptidase S1%2C PA clan
+#microexons transcript:T07_3489.2:  9-9 182 391 120 18
 scaffold6s	WormBase_imported	exon	119680	119727	.	+	.	ID=exon:T07_3489.1.1;Parent=transcript:T07_3489.1
 scaffold6s	WormBase_imported	exon	119867	119875	.	+	.	ID=exon:T07_3489.1.2;Parent=transcript:T07_3489.1
 scaffold6s	WormBase_imported	exon	120025	120206	.	+	.	ID=exon:T07_3489.1.3;Parent=transcript:T07_3489.1
@@ -45,6 +48,7 @@ scaffold6s	WormBase_imported	CDS	121207	121326	.	+	0	ID=cds:T07_3489.2;Parent=tr
 scaffold6s	WormBase_imported	CDS	122543	122560	.	+	0	ID=cds:T07_3489.2;Parent=transcript:T07_3489.2
 scaffold9s	WormBase_imported	gene	175986	177591	.	+	.	ID=gene:T07_6278;Name=T07_6278;biotype=protein_coding
 scaffold9s	WormBase_imported	mRNA	175986	177591	.	+	.	ID=transcript:T07_6278.1;Parent=gene:T07_6278;Name=T07_6278.1
+#microexons transcript:T07_6278.1:  5 171 169 30-15-18
 scaffold9s	WormBase_imported	exon	175986	175990	.	+	.	ID=exon:T07_6278.1.1;Parent=transcript:T07_6278.1
 scaffold9s	WormBase_imported	exon	176267	176437	.	+	.	ID=exon:T07_6278.1.2;Parent=transcript:T07_6278.1
 scaffold9s	WormBase_imported	exon	176533	176701	.	+	.	ID=exon:T07_6278.1.3;Parent=transcript:T07_6278.1
@@ -59,6 +63,7 @@ scaffold9s	WormBase_imported	CDS	177042	177056	.	+	0	ID=cds:T07_6278.1;Parent=tr
 scaffold9s	WormBase_imported	CDS	177574	177591	.	+	0	ID=cds:T07_6278.1;Parent=transcript:T07_6278.1
 scaffold11s	WormBase_imported	gene	90905	93751	.	+	.	ID=gene:T07_12145;Name=T07_12145;biotype=protein_coding
 scaffold11s	WormBase_imported	mRNA	90905	93751	.	+	.	ID=transcript:T07_12145.1;Parent=gene:T07_12145;Name=T07_12145.1
+#microexons transcript:T07_12145.1:  21-24 82 45 23 6-18-15
 scaffold11s	WormBase_imported	exon	90905	90925	.	+	.	ID=exon:T07_12145.1.1;Parent=transcript:T07_12145.1
 scaffold11s	WormBase_imported	exon	91437	91460	.	+	.	ID=exon:T07_12145.1.2;Parent=transcript:T07_12145.1
 scaffold11s	WormBase_imported	exon	91730	91811	.	+	.	ID=exon:T07_12145.1.3;Parent=transcript:T07_12145.1
@@ -77,6 +82,7 @@ scaffold11s	WormBase_imported	CDS	93251	93268	.	+	0	ID=cds:T07_12145.1;Parent=tr
 scaffold11s	WormBase_imported	CDS	93737	93751	.	+	0	ID=cds:T07_12145.1;Parent=transcript:T07_12145.1
 scaffold73s	WormBase_imported	gene	199147	202106	.	-	.	ID=gene:T07_12481;Name=T07_12481;biotype=protein_coding
 scaffold73s	WormBase_imported	mRNA	199147	202106	.	-	.	ID=transcript:T07_12481.1;Parent=gene:T07_12481;Name=T07_12481.1
+#microexons transcript:T07_12481.1:  27 69 27 40 14 18-12-24
 scaffold73s	WormBase_imported	exon	202080	202106	.	-	.	ID=exon:T07_12481.1.1;Parent=transcript:T07_12481.1
 scaffold73s	WormBase_imported	exon	201662	201730	.	-	.	ID=exon:T07_12481.1.2;Parent=transcript:T07_12481.1
 scaffold73s	WormBase_imported	exon	201132	201158	.	-	.	ID=exon:T07_12481.1.3;Parent=transcript:T07_12481.1
@@ -95,9 +101,13 @@ scaffold73s	WormBase_imported	CDS	199337	199348	.	-	0	ID=cds:T07_12481.1;Parent=
 scaffold73s	WormBase_imported	CDS	199147	199170	.	-	0	ID=cds:T07_12481.1;Parent=transcript:T07_12481.1
 scaffold90s	WormBase_imported	gene	145579	154235	.	+	.	ID=gene:T07_2460;Name=T07_2460;biotype=protein_coding;description=Exocyst complex component 5;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0V0RS09;locus=sec10
 scaffold90s	WormBase_imported	mRNA	145579	154235	.	+	.	ID=transcript:T07_2460.1;Parent=gene:T07_2460;Name=T07_2460.1;info=method:InterPro accession:IPR003195 description:Transcription initiation factor IID%2C subunit 13 %0Amethod:InterPro accession:IPR003280 description:Two pore domain potassium channel %0Amethod:InterPro accession:IPR009072 description:Histone-fold %0Amethod:InterPro accession:IPR009976 description:Exocyst complex component Sec10-like %0Amethod:InterPro accession:IPR013099 description:Potassium channel domain %0Amethod:InterPro accession:IPR033960 description:Exocyst complex component EXOC5/Sec10
+#microexons transcript:T07_2460.1:  19 32 9 38 52 198 45 141 77 133 109 118 87 118 124 161 613 339 436 40 384
 scaffold90s	WormBase_imported	mRNA	145579	149977	.	+	.	ID=transcript:T07_2460.2;Parent=gene:T07_2460;Name=T07_2460.2;info=method:InterPro accession:IPR009976 description:Exocyst complex component Sec10-like %0Amethod:InterPro accession:IPR033960 description:Exocyst complex component EXOC5/Sec10
+#microexons transcript:T07_2460.2:  19 32 9 38 52 234 198 65 139 45 141 77 114 93 133 109 118 87 118 157 161 159 269
 scaffold90s	WormBase_imported	mRNA	145579	149977	.	+	.	ID=transcript:T07_2460.3;Parent=gene:T07_2460;Name=T07_2460.3;info=method:InterPro accession:IPR009976 description:Exocyst complex component Sec10-like %0Amethod:InterPro accession:IPR033960 description:Exocyst complex component EXOC5/Sec10
+#microexons transcript:T07_2460.3:  19 32 9-15-21 234 198 65 139 45 141 77 114 133 109 118 87 118 157 161 159 269
 scaffold90s	WormBase_imported	mRNA	145884	154235	.	+	.	ID=transcript:T07_2460.4;Parent=gene:T07_2460;Name=T07_2460.4;info=method:InterPro accession:IPR009976 description:Exocyst complex component Sec10-like %0Amethod:InterPro accession:IPR033960 description:Exocyst complex component EXOC5/Sec10
+#microexons transcript:T07_2460.4:  21 234 198 65 139 51 141 77 114 133 109 118 87 118 157 161 159 124 613 339 436 40 384
 scaffold90s	WormBase_imported	exon	145579	145597	.	+	.	ID=exon:T07_2460.1.1;Parent=transcript:T07_2460.1
 scaffold90s	WormBase_imported	exon	145661	145692	.	+	.	ID=exon:T07_2460.1.2;Parent=transcript:T07_2460.1
 scaffold90s	WormBase_imported	exon	145759	145767	.	+	.	ID=exon:T07_2460.1.3;Parent=transcript:T07_2460.1
@@ -282,8 +292,11 @@ scaffold90s	WormBase_imported	three_prime_UTR	153373	153412	.	+	.	Parent=transcr
 scaffold90s	WormBase_imported	three_prime_UTR	153852	154235	.	+	.	Parent=transcript:T07_2460.4
 scaffold159s	WormBase_imported	gene	78757	85149	.	+	.	ID=gene:T07_8330;Name=T07_8330;biotype=protein_coding;description=Deoxyribonuclease-2-alpha;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0V0RIX4;locus=DNASE2
 scaffold159s	WormBase_imported	mRNA	78757	85149	.	+	.	ID=transcript:T07_8330.1;Parent=gene:T07_8330;Name=T07_8330.1;info=method:InterPro accession:IPR004947 description:Deoxyribonuclease II
+#microexons transcript:T07_8330.1:  22 207 171 207 242 84 70 171 171 204 227 102 30-12-27
 scaffold159s	WormBase_imported	mRNA	78757	85149	.	+	.	ID=transcript:T07_8330.2;Parent=gene:T07_8330;Name=T07_8330.2;info=method:InterPro accession:IPR004947 description:Deoxyribonuclease II
+#microexons transcript:T07_8330.2:  22 207 171 207 227 84 70 171 171 204 227 30-12-27
 scaffold159s	WormBase_imported	mRNA	78757	85149	.	+	.	ID=transcript:T07_8330.3;Parent=gene:T07_8330;Name=T07_8330.3;info=method:InterPro accession:IPR004947 description:Deoxyribonuclease II
+#microexons transcript:T07_8330.3:  22 207 150 204 227 102 12-27
 scaffold159s	WormBase_imported	exon	78757	78778	.	+	.	ID=exon:T07_8330.1.1;Parent=transcript:T07_8330.1
 scaffold159s	WormBase_imported	exon	79071	79277	.	+	.	ID=exon:T07_8330.1.2;Parent=transcript:T07_8330.1
 scaffold159s	WormBase_imported	exon	79336	79506	.	+	.	ID=exon:T07_8330.1.3;Parent=transcript:T07_8330.1
@@ -360,6 +373,7 @@ scaffold159s	WormBase_imported	CDS	84962	84973	.	+	0	ID=cds:T07_8330.3;Parent=tr
 scaffold159s	WormBase_imported	CDS	85123	85149	.	+	0	ID=cds:T07_8330.3;Parent=transcript:T07_8330.3
 scaffold161s	WormBase_imported	gene	4398	6817	.	-	.	ID=gene:T07_10381;Name=T07_10381;biotype=protein_coding
 scaffold161s	WormBase_imported	mRNA	4398	6817	.	-	.	ID=transcript:T07_10381.1;Parent=gene:T07_10381;Name=T07_10381.1
+#microexons transcript:T07_10381.1:  29 82 15 76 101 6-27-6-9
 scaffold161s	WormBase_imported	exon	6789	6817	.	-	.	ID=exon:T07_10381.1.1;Parent=transcript:T07_10381.1
 scaffold161s	WormBase_imported	exon	6458	6539	.	-	.	ID=exon:T07_10381.1.2;Parent=transcript:T07_10381.1
 scaffold161s	WormBase_imported	exon	5928	5942	.	-	.	ID=exon:T07_10381.1.3;Parent=transcript:T07_10381.1
@@ -380,6 +394,7 @@ scaffold161s	WormBase_imported	CDS	4531	4536	.	-	0	ID=cds:T07_10381.1;Parent=tra
 scaffold161s	WormBase_imported	CDS	4398	4406	.	-	0	ID=cds:T07_10381.1;Parent=transcript:T07_10381.1
 scaffold174s	WormBase_imported	gene	5251	6773	.	-	.	ID=gene:T07_10419;Name=T07_10419;biotype=protein_coding
 scaffold174s	WormBase_imported	mRNA	5251	6773	.	-	.	ID=transcript:T07_10419.1;Parent=gene:T07_10419;Name=T07_10419.1
+#microexons transcript:T07_10419.1:  63 153 75 6-18-15
 scaffold174s	WormBase_imported	exon	6711	6773	.	-	.	ID=exon:T07_10419.1.1;Parent=transcript:T07_10419.1
 scaffold174s	WormBase_imported	exon	6150	6302	.	-	.	ID=exon:T07_10419.1.2;Parent=transcript:T07_10419.1
 scaffold174s	WormBase_imported	exon	5990	6064	.	-	.	ID=exon:T07_10419.1.3;Parent=transcript:T07_10419.1

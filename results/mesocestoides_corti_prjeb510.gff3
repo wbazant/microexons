@@ -1,6 +1,8 @@
 MCOS_scaffold0000005	WormBase_imported	gene	11618	17723	.	+	.	ID=gene:MCU_000117;Name=MCU_000117;biotype=protein_coding;previous_stable_id=MCOS_0000519301
 MCOS_scaffold0000005	WormBase_imported	mRNA	11618	17723	.	+	.	ID=transcript:MCU_000117-RA;Parent=gene:MCU_000117;Name=MCU_000117-RA
+#microexons transcript:MCU_000117-RA:  28 33 78 54 30-24-24 39 18 69 30 150 33 57 81 27-27 48 30 66 42 106
 MCOS_scaffold0000005	WormBase_imported	mRNA	16991	17723	.	+	.	ID=transcript:MCU_000117-RB;Parent=gene:MCU_000117;Name=MCU_000117-RB
+#microexons transcript:MCU_000117-RB:  310 42 106
 MCOS_scaffold0000005	WormBase_imported	exon	11618	11645	.	+	.	ID=exon:MCU_000117-RA.1;Parent=transcript:MCU_000117-RA
 MCOS_scaffold0000005	WormBase_imported	exon	11718	11750	.	+	.	ID=exon:MCU_000117-RA.2;Parent=transcript:MCU_000117-RA
 MCOS_scaffold0000005	WormBase_imported	exon	12031	12108	.	+	.	ID=exon:MCU_000117-RA.3;Parent=transcript:MCU_000117-RA
@@ -56,11 +58,17 @@ MCOS_scaffold0000005	WormBase_imported	three_prime_UTR	17472	17513	.	+	.	Parent=
 MCOS_scaffold0000005	WormBase_imported	three_prime_UTR	17618	17723	.	+	.	Parent=transcript:MCU_000117-RB
 MCOS_scaffold0000029	WormBase_imported	gene	56623	69209	.	-	.	ID=gene:MCU_000809;Name=MCU_000809;biotype=protein_coding;previous_stable_id=MCOS_0000571301
 MCOS_scaffold0000029	WormBase_imported	mRNA	56623	68905	.	-	.	ID=transcript:MCU_000809-RA;Parent=gene:MCU_000809;Name=MCU_000809-RA;info=method:InterPro accession:IPR000306 description:FYVE zinc finger %0Amethod:InterPro accession:IPR003903 description:Ubiquitin interacting motif %0Amethod:InterPro accession:IPR011011 description:Zinc finger%2C FYVE/PHD-type %0Amethod:InterPro accession:IPR013083 description:Zinc finger%2C RING/FYVE/PHD-type %0Amethod:InterPro accession:IPR017455 description:Zinc finger%2C FYVE-related %0Amethod:InterPro accession:IPR024641 description:Hepatocyte growth factor-regulated tyrosine kinase substrate%2C helical domain
+#microexons transcript:MCU_000809-RA:  373 125 40 135 276 268 173 349 1121 384
 MCOS_scaffold0000029	WormBase_imported	mRNA	56623	69104	.	-	.	ID=transcript:MCU_000809-RB;Parent=gene:MCU_000809;Name=MCU_000809-RB;info=method:InterPro accession:IPR000306 description:FYVE zinc finger %0Amethod:InterPro accession:IPR003903 description:Ubiquitin interacting motif %0Amethod:InterPro accession:IPR011011 description:Zinc finger%2C FYVE/PHD-type %0Amethod:InterPro accession:IPR013083 description:Zinc finger%2C RING/FYVE/PHD-type %0Amethod:InterPro accession:IPR017455 description:Zinc finger%2C FYVE-related %0Amethod:InterPro accession:IPR024641 description:Hepatocyte growth factor-regulated tyrosine kinase substrate%2C helical domain
+#microexons transcript:MCU_000809-RB:  41 366 125 40 27 135 276 48 42 268 173 349 1121 384
 MCOS_scaffold0000029	WormBase_imported	mRNA	56623	69209	.	-	.	ID=transcript:MCU_000809-RC;Parent=gene:MCU_000809;Name=MCU_000809-RC;info=method:InterPro accession:IPR000306 description:FYVE zinc finger %0Amethod:InterPro accession:IPR002014 description:VHS domain %0Amethod:InterPro accession:IPR003903 description:Ubiquitin interacting motif %0Amethod:InterPro accession:IPR008942 description:ENTH/VHS %0Amethod:InterPro accession:IPR011011 description:Zinc finger%2C FYVE/PHD-type %0Amethod:InterPro accession:IPR013083 description:Zinc finger%2C RING/FYVE/PHD-type %0Amethod:InterPro accession:IPR017073 description:Ubiquitin binding protein%2C Hrs/VPS27 %0Amethod:InterPro accession:IPR017455 description:Zinc finger%2C FYVE-related %0Amethod:InterPro accession:IPR024641 description:Hepatocyte growth factor-regulated tyrosine kinase substrate%2C helical domain
+#microexons transcript:MCU_000809-RC:  47 85 76 93 240 125 40 18-27-27-27 135 276 48 42 268 173 349 1121 384
 MCOS_scaffold0000029	WormBase_imported	mRNA	56623	69209	.	-	.	ID=transcript:MCU_000809-RD;Parent=gene:MCU_000809;Name=MCU_000809-RD;info=method:InterPro accession:IPR000306 description:FYVE zinc finger %0Amethod:InterPro accession:IPR002014 description:VHS domain %0Amethod:InterPro accession:IPR003903 description:Ubiquitin interacting motif %0Amethod:InterPro accession:IPR008942 description:ENTH/VHS %0Amethod:InterPro accession:IPR011011 description:Zinc finger%2C FYVE/PHD-type %0Amethod:InterPro accession:IPR013083 description:Zinc finger%2C RING/FYVE/PHD-type %0Amethod:InterPro accession:IPR017073 description:Ubiquitin binding protein%2C Hrs/VPS27 %0Amethod:InterPro accession:IPR017455 description:Zinc finger%2C FYVE-related %0Amethod:InterPro accession:IPR024641 description:Hepatocyte growth factor-regulated tyrosine kinase substrate%2C helical domain
+#microexons transcript:MCU_000809-RD:  47 85 76 93 240 125 40 18-27-27-27 135 276 268 173 349 1121 384
 MCOS_scaffold0000029	WormBase_imported	mRNA	56623	69209	.	-	.	ID=transcript:MCU_000809-RE;Parent=gene:MCU_000809;Name=MCU_000809-RE;info=method:InterPro accession:IPR000306 description:FYVE zinc finger %0Amethod:InterPro accession:IPR002014 description:VHS domain %0Amethod:InterPro accession:IPR003903 description:Ubiquitin interacting motif %0Amethod:InterPro accession:IPR008942 description:ENTH/VHS %0Amethod:InterPro accession:IPR011011 description:Zinc finger%2C FYVE/PHD-type %0Amethod:InterPro accession:IPR013083 description:Zinc finger%2C RING/FYVE/PHD-type %0Amethod:InterPro accession:IPR017073 description:Ubiquitin binding protein%2C Hrs/VPS27 %0Amethod:InterPro accession:IPR017455 description:Zinc finger%2C FYVE-related %0Amethod:InterPro accession:IPR024641 description:Hepatocyte growth factor-regulated tyrosine kinase substrate%2C helical domain
+#microexons transcript:MCU_000809-RE:  47 85 76 93 240 125 40 27 135 276 48 42 268 173 349 1121 384
 MCOS_scaffold0000029	WormBase_imported	mRNA	63021	69209	.	-	.	ID=transcript:MCU_000809-RF;Parent=gene:MCU_000809;Name=MCU_000809-RF;info=method:InterPro accession:IPR000306 description:FYVE zinc finger %0Amethod:InterPro accession:IPR002014 description:VHS domain %0Amethod:InterPro accession:IPR008942 description:ENTH/VHS %0Amethod:InterPro accession:IPR011011 description:Zinc finger%2C FYVE/PHD-type %0Amethod:InterPro accession:IPR013083 description:Zinc finger%2C RING/FYVE/PHD-type %0Amethod:InterPro accession:IPR017455 description:Zinc finger%2C FYVE-related
+#microexons transcript:MCU_000809-RF:  47 85 76 93 240 125 40 18-27-27 1143
 MCOS_scaffold0000029	WormBase_imported	exon	68533	68905	.	-	.	ID=exon:MCU_000809-RA.1;Parent=transcript:MCU_000809-RA
 MCOS_scaffold0000029	WormBase_imported	exon	67577	67701	.	-	.	ID=exon:MCU_000809-RA.2;Parent=transcript:MCU_000809-RA
 MCOS_scaffold0000029	WormBase_imported	exon	66405	66444	.	-	.	ID=exon:MCU_000809-RA.3;Parent=transcript:MCU_000809-RA
@@ -255,8 +263,11 @@ MCOS_scaffold0000029	WormBase_imported	CDS	64002	64163	.	-	0	ID=cds:MCU_000809-R
 MCOS_scaffold0000029	WormBase_imported	three_prime_UTR	63021	64001	.	-	.	Parent=transcript:MCU_000809-RF
 MCOS_scaffold0000288	WormBase_imported	gene	17524	23492	.	+	.	ID=gene:MCU_005361;Name=MCU_005361;biotype=protein_coding
 MCOS_scaffold0000288	WormBase_imported	mRNA	17524	20852	.	+	.	ID=transcript:MCU_005361-RA;Parent=gene:MCU_005361;Name=MCU_005361-RA;info=method:InterPro accession:IPR026983 description:Dynein heavy chain %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR041466 description:Dynein heavy chain%2C AAA 5 extension domain
+#microexons transcript:MCU_005361-RA:  66 222 24-12-21 54 198 108
 MCOS_scaffold0000288	WormBase_imported	mRNA	20755	23492	.	+	.	ID=transcript:MCU_005361-RB;Parent=gene:MCU_005361;Name=MCU_005361-RB;info=method:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR041589 description:Dynein heavy chain 3%2C AAA+ lid domain
+#microexons transcript:MCU_005361-RB:  244 198 358 60
 MCOS_scaffold0000288	WormBase_imported	mRNA	22443	23492	.	+	.	ID=transcript:MCU_005361-RC;Parent=gene:MCU_005361;Name=MCU_005361-RC;info=method:InterPro accession:IPR026983 description:Dynein heavy chain
+#microexons transcript:MCU_005361-RC:  434 60
 MCOS_scaffold0000288	WormBase_imported	exon	17524	17589	.	+	.	ID=exon:MCU_005361-RA.1;Parent=transcript:MCU_005361-RA
 MCOS_scaffold0000288	WormBase_imported	exon	18047	18268	.	+	.	ID=exon:MCU_005361-RA.2;Parent=transcript:MCU_005361-RA
 MCOS_scaffold0000288	WormBase_imported	exon	18843	18866	.	+	.	ID=exon:MCU_005361-RA.3;Parent=transcript:MCU_005361-RA
@@ -289,9 +300,13 @@ MCOS_scaffold0000288	WormBase_imported	CDS	22721	22876	.	+	0	ID=cds:MCU_005361-R
 MCOS_scaffold0000288	WormBase_imported	CDS	23433	23492	.	+	0	ID=cds:MCU_005361-RC;Parent=transcript:MCU_005361-RC
 MCOS_scaffold0000448	WormBase_imported	gene	19025	30634	.	-	.	ID=gene:MCU_007601;Name=MCU_007601;biotype=protein_coding
 MCOS_scaffold0000448	WormBase_imported	mRNA	19025	30634	.	-	.	ID=transcript:MCU_007601-RA;Parent=gene:MCU_007601;Name=MCU_007601-RA
+#microexons transcript:MCU_007601-RA:  77 57 132 21-21-27 63 24 51 51 39 51 51 39 21-21 45 67 211
 MCOS_scaffold0000448	WormBase_imported	mRNA	19025	30634	.	-	.	ID=transcript:MCU_007601-RB;Parent=gene:MCU_007601;Name=MCU_007601-RB
+#microexons transcript:MCU_007601-RB:  77 57 132 21-21-27 63 24 51 51 39 51 51 39 21 45 67 211
 MCOS_scaffold0000448	WormBase_imported	mRNA	22627	30634	.	-	.	ID=transcript:MCU_007601-RC;Parent=gene:MCU_007601;Name=MCU_007601-RC
+#microexons transcript:MCU_007601-RC:  77 57 132 21-21-27 63 24 51 51 39 51 51 279
 MCOS_scaffold0000448	WormBase_imported	mRNA	26555	30634	.	-	.	ID=transcript:MCU_007601-RD;Parent=gene:MCU_007601;Name=MCU_007601-RD
+#microexons transcript:MCU_007601-RD:  77 57 132 21-21-27 63 24 51 53
 MCOS_scaffold0000448	WormBase_imported	exon	30558	30634	.	-	.	ID=exon:MCU_007601-RA.1;Parent=transcript:MCU_007601-RA
 MCOS_scaffold0000448	WormBase_imported	exon	30191	30247	.	-	.	ID=exon:MCU_007601-RA.2;Parent=transcript:MCU_007601-RA
 MCOS_scaffold0000448	WormBase_imported	exon	29530	29661	.	-	.	ID=exon:MCU_007601-RA.3;Parent=transcript:MCU_007601-RA

@@ -1,5 +1,6 @@
 D915DFT_Contig144	WormBase_imported	gene	1003	399053	.	+	.	ID=gene:D915_00991;Name=D915_00991;biotype=protein_coding
 D915DFT_Contig144	WormBase_imported	mRNA	1003	399053	.	+	.	ID=transcript:D915_00991;Parent=gene:D915_00991;Name=D915_00991;info=method:InterPro accession:IPR001584 description:Integrase%2C catalytic core %0Amethod:InterPro accession:IPR012337 description:Ribonuclease H-like superfamily %0Amethod:InterPro accession:IPR036397 description:Ribonuclease H superfamily
+#microexons transcript:D915_00991:  51 402 303 43 54 50 60 70 200 21-12-12-12 75
 D915DFT_Contig144	WormBase_imported	exon	1003	1053	.	+	.	ID=exon:D915_00991.1;Parent=transcript:D915_00991
 D915DFT_Contig144	WormBase_imported	exon	57900	58301	.	+	.	ID=exon:D915_00991.2;Parent=transcript:D915_00991
 D915DFT_Contig144	WormBase_imported	exon	58347	58649	.	+	.	ID=exon:D915_00991.3;Parent=transcript:D915_00991
@@ -30,6 +31,7 @@ D915DFT_Contig144	WormBase_imported	CDS	229549	229560	.	+	0	ID=cds:D915_00991;Pa
 D915DFT_Contig144	WormBase_imported	CDS	398979	399053	.	+	0	ID=cds:D915_00991;Parent=transcript:D915_00991
 D915DFT_Contig1046	WormBase_imported	gene	19295	179156	.	+	.	ID=gene:D915_05433;Name=D915_05433;biotype=protein_coding
 D915DFT_Contig1046	WormBase_imported	mRNA	19295	179156	.	+	.	ID=transcript:D915_05433;Parent=gene:D915_05433;Name=D915_05433
+#microexons transcript:D915_05433:  255 15 36 57 21-12-21 36 231 48
 D915DFT_Contig1046	WormBase_imported	exon	19295	19549	.	+	.	ID=exon:D915_05433.1;Parent=transcript:D915_05433
 D915DFT_Contig1046	WormBase_imported	exon	48049	48063	.	+	.	ID=exon:D915_05433.2;Parent=transcript:D915_05433
 D915DFT_Contig1046	WormBase_imported	exon	52288	52323	.	+	.	ID=exon:D915_05433.3;Parent=transcript:D915_05433
@@ -397,6 +399,7 @@ D915DFT_Contig1046	RepeatMasker	repeat_region	230693	231054	1011	-	.
 D915DFT_Contig1046	RepeatMasker	repeat_region	231072	231160	245	+	.	Name=rnd-1_family-374;repeat_class=LINE/RTE-BovB
 D915DFT_Contig3273	WormBase_imported	gene	10087	35415	.	+	.	ID=gene:D915_11374;Name=D915_11374;biotype=protein_coding
 D915DFT_Contig3273	WormBase_imported	mRNA	10087	35415	.	+	.	ID=transcript:D915_11374;Parent=gene:D915_11374;Name=D915_11374
+#microexons transcript:D915_11374:  30-30-30-30-27-30-27
 D915DFT_Contig3273	WormBase_imported	exon	10087	10116	.	+	.	ID=exon:D915_11374.1;Parent=transcript:D915_11374
 D915DFT_Contig3273	WormBase_imported	exon	15748	15777	.	+	.	ID=exon:D915_11374.2;Parent=transcript:D915_11374
 D915DFT_Contig3273	WormBase_imported	exon	24563	24592	.	+	.	ID=exon:D915_11374.3;Parent=transcript:D915_11374

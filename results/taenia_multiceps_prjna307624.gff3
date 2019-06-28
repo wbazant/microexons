@@ -1,5 +1,6 @@
 LG1	WormBase_imported	gene	13120238	13148553	.	+	.	ID=gene:Tm1G000993;Name=Tm1G000993;biotype=protein_coding
 LG1	WormBase_imported	mRNA	13120238	13148553	.	+	.	ID=transcript:Tm1G000993;Parent=gene:Tm1G000993;Name=Tm1G000993;info=method:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily
+#microexons transcript:Tm1G000993:  25 99 93 99 69 132 66 33 84 48 30 606 90 201 51 60 48 60 33 132 30-24-24 39 114 33 33 48 41 54 1683 296 75 91 150 138 279 90 106
 LG1	WormBase_imported	exon	13120238	13120262	.	+	.	ID=exon:Tm1G000993.1;Parent=transcript:Tm1G000993
 LG1	WormBase_imported	exon	13120331	13120429	.	+	.	ID=exon:Tm1G000993.2;Parent=transcript:Tm1G000993
 LG1	WormBase_imported	exon	13120744	13120836	.	+	.	ID=exon:Tm1G000993.3;Parent=transcript:Tm1G000993
@@ -80,6 +81,7 @@ LG1	WormBase_imported	CDS	13141499	13141588	.	+	0	ID=cds:Tm1G000993;Parent=trans
 LG1	WormBase_imported	CDS	13148448	13148553	.	+	0	ID=cds:Tm1G000993;Parent=transcript:Tm1G000993
 LG1	WormBase_imported	gene	18539750	18548823	.	+	.	ID=gene:Tm1G001402;Name=Tm1G001402;biotype=protein_coding
 LG1	WormBase_imported	mRNA	18539750	18548823	.	+	.	ID=transcript:Tm1G001402;Parent=gene:Tm1G001402;Name=Tm1G001402;info=method:InterPro accession:IPR002035 description:von Willebrand factor%2C type A %0Amethod:InterPro accession:IPR013694 description:VIT domain %0Amethod:InterPro accession:IPR036465 description:von Willebrand factor A-like domain superfamily
+#microexons transcript:Tm1G001402:  267 265 149 220 127 187 134 185 315 21-24-18-21-15 262 143 191
 LG1	WormBase_imported	exon	18539750	18540016	.	+	.	ID=exon:Tm1G001402.1;Parent=transcript:Tm1G001402
 LG1	WormBase_imported	exon	18540104	18540368	.	+	.	ID=exon:Tm1G001402.2;Parent=transcript:Tm1G001402
 LG1	WormBase_imported	exon	18540456	18540604	.	+	.	ID=exon:Tm1G001402.3;Parent=transcript:Tm1G001402
@@ -116,6 +118,7 @@ LG1	WormBase_imported	CDS	18548322	18548464	.	+	1	ID=cds:Tm1G001402;Parent=trans
 LG1	WormBase_imported	CDS	18548633	18548823	.	+	2	ID=cds:Tm1G001402;Parent=transcript:Tm1G001402
 LG1	WormBase_imported	gene	50889965	50905368	.	+	.	ID=gene:Tm1G003877;Name=Tm1G003877;biotype=protein_coding
 LG1	WormBase_imported	mRNA	50889965	50905368	.	+	.	ID=transcript:Tm1G003877;Parent=gene:Tm1G003877;Name=Tm1G003877
+#microexons transcript:Tm1G003877:  187 95 214 850 1280 32 45 158 166 42 30-24-24 60 51 198 1547 192 274
 LG1	WormBase_imported	exon	50889965	50890151	.	+	.	ID=exon:Tm1G003877.1;Parent=transcript:Tm1G003877
 LG1	WormBase_imported	exon	50891316	50891410	.	+	.	ID=exon:Tm1G003877.2;Parent=transcript:Tm1G003877
 LG1	WormBase_imported	exon	50891639	50891852	.	+	.	ID=exon:Tm1G003877.3;Parent=transcript:Tm1G003877
@@ -156,6 +159,7 @@ LG1	WormBase_imported	CDS	50904145	50904336	.	+	1	ID=cds:Tm1G003877;Parent=trans
 LG1	WormBase_imported	CDS	50905095	50905368	.	+	1	ID=cds:Tm1G003877;Parent=transcript:Tm1G003877
 LG1	WormBase_imported	gene	55615149	55637661	.	+	.	ID=gene:Tm1G004252;Name=Tm1G004252;biotype=protein_coding
 LG1	WormBase_imported	mRNA	55615149	55637661	.	+	.	ID=transcript:Tm1G004252;Parent=gene:Tm1G004252;Name=Tm1G004252;info=method:InterPro accession:IPR004273 description:Dynein heavy chain region D6 P-loop domain %0Amethod:InterPro accession:IPR013602 description:Dynein heavy chain%2C domain-2 %0Amethod:InterPro accession:IPR024317 description:Dynein heavy chain%2C AAA module D4 %0Amethod:InterPro accession:IPR024743 description:Dynein heavy chain%2C coiled coil stalk %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR035699 description:Dynein heavy chain%2C hydrolytic ATP-binding dynein motor region %0Amethod:InterPro accession:IPR035706 description:Dynein heavy chain%2C ATP-binding dynein motor region %0Amethod:InterPro accession:IPR041228 description:Dynein heavy chain%2C C-terminal domain %0Amethod:InterPro accession:IPR041466 description:Dynein heavy chain%2C AAA 5 extension domain %0Amethod:InterPro accession:IPR041589 description:Dynein heavy chain 3%2C AAA+ lid domain %0Amethod:InterPro accession:IPR041658 description:Dynein heavy chain AAA lid domain
+#microexons transcript:Tm1G004252:  54 305 120 37 177 162 407 988 149 742 233 238 231 213 513 132 222 24-12-21-9 54 198 254 198 361 312 414 230 331 878 307 1629 186 138 384 178 104 207
 LG1	WormBase_imported	exon	55615149	55615202	.	+	.	ID=exon:Tm1G004252.1;Parent=transcript:Tm1G004252
 LG1	WormBase_imported	exon	55615411	55615715	.	+	.	ID=exon:Tm1G004252.2;Parent=transcript:Tm1G004252
 LG1	WormBase_imported	exon	55615929	55616048	.	+	.	ID=exon:Tm1G004252.3;Parent=transcript:Tm1G004252
@@ -236,6 +240,7 @@ LG1	WormBase_imported	CDS	55637183	55637286	.	+	2	ID=cds:Tm1G004252;Parent=trans
 LG1	WormBase_imported	CDS	55637455	55637661	.	+	0	ID=cds:Tm1G004252;Parent=transcript:Tm1G004252
 LG1	WormBase_imported	gene	58449341	58470786	.	+	.	ID=gene:Tm1G004458;Name=Tm1G004458;biotype=protein_coding
 LG1	WormBase_imported	mRNA	58449341	58470786	.	+	.	ID=transcript:Tm1G004458;Parent=gene:Tm1G004458;Name=Tm1G004458
+#microexons transcript:Tm1G004458:  63 9 345 9 42 31 51 21-27 321 39 48 20 168 96 63 30 33 33 14 92 213 63 44 96 135 24 126 24-21-12 45
 LG1	WormBase_imported	exon	58449341	58449403	.	+	.	ID=exon:Tm1G004458.1;Parent=transcript:Tm1G004458
 LG1	WormBase_imported	exon	58450302	58450310	.	+	.	ID=exon:Tm1G004458.2;Parent=transcript:Tm1G004458
 LG1	WormBase_imported	exon	58451149	58451493	.	+	.	ID=exon:Tm1G004458.3;Parent=transcript:Tm1G004458
@@ -302,6 +307,7 @@ LG1	WormBase_imported	CDS	58469350	58469361	.	+	0	ID=cds:Tm1G004458;Parent=trans
 LG1	WormBase_imported	CDS	58470742	58470786	.	+	0	ID=cds:Tm1G004458;Parent=transcript:Tm1G004458
 LG1	WormBase_imported	gene	67205904	67209282	.	-	.	ID=gene:Tm1G004974;Name=Tm1G004974;biotype=protein_coding
 LG1	WormBase_imported	mRNA	67205904	67209282	.	-	.	ID=transcript:Tm1G004974;Parent=gene:Tm1G004974;Name=Tm1G004974;info=method:InterPro accession:IPR001978 description:Troponin %0Amethod:InterPro accession:IPR038077 description:Troponin domain superfamily
+#microexons transcript:Tm1G004974:  130 89 27-27-30 108 121 145 157
 LG1	WormBase_imported	exon	67209153	67209282	.	-	.	ID=exon:Tm1G004974.1;Parent=transcript:Tm1G004974
 LG1	WormBase_imported	exon	67208172	67208260	.	-	.	ID=exon:Tm1G004974.2;Parent=transcript:Tm1G004974
 LG1	WormBase_imported	exon	67207550	67207576	.	-	.	ID=exon:Tm1G004974.3;Parent=transcript:Tm1G004974
@@ -322,6 +328,7 @@ LG1	WormBase_imported	CDS	67206149	67206293	.	-	2	ID=cds:Tm1G004974;Parent=trans
 LG1	WormBase_imported	CDS	67205904	67206060	.	-	1	ID=cds:Tm1G004974;Parent=transcript:Tm1G004974
 LG2	WormBase_imported	gene	19876298	19879131	.	-	.	ID=gene:Tm2G006677;Name=Tm2G006677;biotype=protein_coding
 LG2	WormBase_imported	mRNA	19876298	19879131	.	-	.	ID=transcript:Tm2G006677;Parent=gene:Tm2G006677;Name=Tm2G006677
+#microexons transcript:Tm2G006677:  123 106 132 104 18-24-21
 LG2	WormBase_imported	exon	19879009	19879131	.	-	.	ID=exon:Tm2G006677.1;Parent=transcript:Tm2G006677
 LG2	WormBase_imported	exon	19878686	19878791	.	-	.	ID=exon:Tm2G006677.2;Parent=transcript:Tm2G006677
 LG2	WormBase_imported	exon	19878183	19878314	.	-	.	ID=exon:Tm2G006677.3;Parent=transcript:Tm2G006677
@@ -338,6 +345,7 @@ LG2	WormBase_imported	CDS	19876592	19876615	.	-	0	ID=cds:Tm2G006677;Parent=trans
 LG2	WormBase_imported	CDS	19876298	19876318	.	-	0	ID=cds:Tm2G006677;Parent=transcript:Tm2G006677
 LG3	WormBase_imported	gene	6425901	6431927	.	-	.	ID=gene:Tm3G008185;Name=Tm3G008185;biotype=protein_coding
 LG3	WormBase_imported	mRNA	6425901	6431927	.	-	.	ID=transcript:Tm3G008185;Parent=gene:Tm3G008185;Name=Tm3G008185;info=method:InterPro accession:IPR000719 description:Protein kinase domain %0Amethod:InterPro accession:IPR008271 description:Serine/threonine-protein kinase%2C active site %0Amethod:InterPro accession:IPR011009 description:Protein kinase-like domain superfamily
+#microexons transcript:Tm3G008185:  32 85 247 264 163 163 51 30 51 21-21-21 45
 LG3	WormBase_imported	exon	6431896	6431927	.	-	.	ID=exon:Tm3G008185.1;Parent=transcript:Tm3G008185
 LG3	WormBase_imported	exon	6431343	6431427	.	-	.	ID=exon:Tm3G008185.2;Parent=transcript:Tm3G008185
 LG3	WormBase_imported	exon	6430980	6431226	.	-	.	ID=exon:Tm3G008185.3;Parent=transcript:Tm3G008185
@@ -366,6 +374,7 @@ LG3	WormBase_imported	CDS	6426687	6426707	.	-	0	ID=cds:Tm3G008185;Parent=transcr
 LG3	WormBase_imported	CDS	6425901	6425945	.	-	0	ID=cds:Tm3G008185;Parent=transcript:Tm3G008185
 LG6	WormBase_imported	gene	5588788	5611136	.	-	.	ID=gene:Tm6G012172;Name=Tm6G012172;biotype=protein_coding
 LG6	WormBase_imported	mRNA	5588788	5611136	.	-	.	ID=transcript:Tm6G012172;Parent=gene:Tm6G012172;Name=Tm6G012172
+#microexons transcript:Tm6G012172:  27-18 39 21 39 60 36 39 69 33 33 39 27-30-18-27-30-30 39 39 39 21 39 30 39 24 42 39 24 39 30-30 42 48 42 18-27 39 30 72 39 39 39 30 75 39 39 30 75 39 39 30 72 54 39 39 51 39 21 63 27 72
 LG6	WormBase_imported	exon	5611110	5611136	.	-	.	ID=exon:Tm6G012172.1;Parent=transcript:Tm6G012172
 LG6	WormBase_imported	exon	5610341	5610358	.	-	.	ID=exon:Tm6G012172.2;Parent=transcript:Tm6G012172
 LG6	WormBase_imported	exon	5609738	5609776	.	-	.	ID=exon:Tm6G012172.3;Parent=transcript:Tm6G012172

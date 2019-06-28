@@ -1,5 +1,6 @@
 scf00046	WormBase_imported	gene	67505	128700	.	-	.	ID=gene:csin101250;Name=csin101250;biotype=protein_coding;description=Coronin;description_source=UniProtKB/TrEMBL;description_source_acc=H2KP26;locus=CORO6
 scf00046	WormBase_imported	mRNA	67505	128700	.	-	.	ID=transcript:csin101250;Parent=gene:csin101250;Name=csin101250;info=method:InterPro accession:IPR001680 description:WD40 repeat %0Amethod:InterPro accession:IPR015048 description:Domain of unknown function DUF1899 %0Amethod:InterPro accession:IPR015505 description:Coronin %0Amethod:InterPro accession:IPR015943 description:WD40/YVTN repeat-like-containing domain superfamily %0Amethod:InterPro accession:IPR017986 description:WD40-repeat-containing domain %0Amethod:InterPro accession:IPR019775 description:WD40 repeat%2C conserved site %0Amethod:InterPro accession:IPR036322 description:WD40-repeat-containing domain superfamily
+#microexons transcript:csin101250:  189 259 176 117 105 309 249 21-21-24 168
 scf00046	WormBase_imported	exon	128512	128700	.	-	.	ID=exon:csin101250.1;Parent=transcript:csin101250
 scf00046	WormBase_imported	exon	125491	125749	.	-	.	ID=exon:csin101250.2;Parent=transcript:csin101250
 scf00046	WormBase_imported	exon	114872	115047	.	-	.	ID=exon:csin101250.3;Parent=transcript:csin101250
@@ -24,6 +25,7 @@ scf00046	WormBase_imported	CDS	73868	73891	.	-	0	ID=cds:csin101250;Parent=transc
 scf00046	WormBase_imported	CDS	67505	67672	.	-	0	ID=cds:csin101250;Parent=transcript:csin101250
 scf00599	WormBase_imported	gene	76718	125619	.	+	.	ID=gene:csin108007;Name=csin108007;biotype=protein_coding;description=Calcium/calmodulin-dependent protein kinase (CaM kinase) II;description_source=UniProtKB/TrEMBL;description_source_acc=G7YHH6;locus=CAMK2D
 scf00599	WormBase_imported	mRNA	76718	125619	.	+	.	ID=transcript:csin108007;Parent=gene:csin108007;Name=csin108007;info=method:InterPro accession:IPR000719 description:Protein kinase domain %0Amethod:InterPro accession:IPR008271 description:Serine/threonine-protein kinase%2C active site %0Amethod:InterPro accession:IPR011009 description:Protein kinase-like domain superfamily %0Amethod:InterPro accession:IPR017441 description:Protein kinase%2C ATP binding site
+#microexons transcript:csin108007:  44 95 60 55 66 73 103 84 95 123 84 43 21-30-24 63 84 90 78 24 57 32
 scf00599	WormBase_imported	exon	76718	76761	.	+	.	ID=exon:csin108007.1;Parent=transcript:csin108007
 scf00599	WormBase_imported	exon	76813	76907	.	+	.	ID=exon:csin108007.2;Parent=transcript:csin108007
 scf00599	WormBase_imported	exon	77023	77082	.	+	.	ID=exon:csin108007.3;Parent=transcript:csin108007
@@ -70,6 +72,7 @@ scf00599	WormBase_imported	CDS	122577	122633	.	+	2	ID=cds:csin108007;Parent=tran
 scf00599	WormBase_imported	CDS	125588	125619	.	+	2	ID=cds:csin108007;Parent=transcript:csin108007
 scf00996	WormBase_imported	gene	118261	127585	.	+	.	ID=gene:csin110349;Name=csin110349;biotype=protein_coding
 scf00996	WormBase_imported	mRNA	118261	127585	.	+	.	ID=transcript:csin110349;Parent=gene:csin110349;Name=csin110349
+#microexons transcript:csin110349:  22 30-21-21-30 36 56
 scf00996	WormBase_imported	exon	118261	118282	.	+	.	ID=exon:csin110349.1;Parent=transcript:csin110349
 scf00996	WormBase_imported	exon	120074	120103	.	+	.	ID=exon:csin110349.2;Parent=transcript:csin110349
 scf00996	WormBase_imported	exon	120597	120617	.	+	.	ID=exon:csin110349.3;Parent=transcript:csin110349

@@ -1,5 +1,6 @@
 pathogen_TSM_contig_00053	WormBase_imported	gene	62062	65629	.	-	.	ID=gene:TsM_000469800;Name=TsM_000469800;biotype=protein_coding
 pathogen_TSM_contig_00053	WormBase_imported	mRNA	62062	65629	.	-	.	ID=transcript:TsM_000469800;Parent=gene:TsM_000469800;Name=TsM_000469800
+#microexons transcript:TsM_000469800:  78 115 57 119 21-27 135 24-24-21 39
 pathogen_TSM_contig_00053	WormBase_imported	exon	65552	65629	.	-	.	ID=exon:TsM_000469800.1;Parent=transcript:TsM_000469800
 pathogen_TSM_contig_00053	WormBase_imported	exon	65389	65503	.	-	.	ID=exon:TsM_000469800.2;Parent=transcript:TsM_000469800
 pathogen_TSM_contig_00053	WormBase_imported	exon	65052	65108	.	-	.	ID=exon:TsM_000469800.3;Parent=transcript:TsM_000469800
@@ -24,6 +25,7 @@ pathogen_TSM_contig_00053	WormBase_imported	CDS	63094	63114	.	-	0	ID=cds:TsM_000
 pathogen_TSM_contig_00053	WormBase_imported	CDS	62062	62100	.	-	0	ID=cds:TsM_000469800;Parent=transcript:TsM_000469800
 pathogen_TSM_contig_00331	WormBase_imported	gene	7953	30493	.	+	.	ID=gene:TsM_000518500;Name=TsM_000518500;biotype=protein_coding
 pathogen_TSM_contig_00331	WormBase_imported	mRNA	7953	30493	.	+	.	ID=transcript:TsM_000518500;Parent=gene:TsM_000518500;Name=TsM_000518500
+#microexons transcript:TsM_000518500:  27-18 39 60 36 39 69 33 33 39 30-30 42 18-27-30-30 39 39 21 39 30 39 39 39 24 42 39 24 39 30-30 42 48 42 18-27 39 30 72 39 39 39 30 57 39 39 30 75 39 39 30 72 39 39 39 51 39 63 27 72
 pathogen_TSM_contig_00331	WormBase_imported	exon	7953	7979	.	+	.	ID=exon:TsM_000518500.1;Parent=transcript:TsM_000518500
 pathogen_TSM_contig_00331	WormBase_imported	exon	8745	8762	.	+	.	ID=exon:TsM_000518500.2;Parent=transcript:TsM_000518500
 pathogen_TSM_contig_00331	WormBase_imported	exon	9322	9360	.	+	.	ID=exon:TsM_000518500.3;Parent=transcript:TsM_000518500
@@ -148,6 +150,7 @@ pathogen_TSM_contig_00331	WormBase_imported	CDS	30125	30151	.	+	0	ID=cds:TsM_000
 pathogen_TSM_contig_00331	WormBase_imported	CDS	30422	30493	.	+	0	ID=cds:TsM_000518500;Parent=transcript:TsM_000518500
 pathogen_TSM_contig_00515	WormBase_imported	gene	15116	21816	.	+	.	ID=gene:TsM_001057500;Name=TsM_001057500;biotype=protein_coding
 pathogen_TSM_contig_00515	WormBase_imported	mRNA	15116	21816	.	+	.	ID=transcript:TsM_001057500;Parent=gene:TsM_001057500;Name=TsM_001057500;info=method:InterPro accession:IPR000719 description:Protein kinase domain %0Amethod:InterPro accession:IPR008271 description:Serine/threonine-protein kinase%2C active site %0Amethod:InterPro accession:IPR011009 description:Protein kinase-like domain superfamily
+#microexons transcript:TsM_001057500:  32 85 247 264 163 163 51 30 51 21-21-21 45
 pathogen_TSM_contig_00515	WormBase_imported	exon	15116	15147	.	+	.	ID=exon:TsM_001057500.1;Parent=transcript:TsM_001057500
 pathogen_TSM_contig_00515	WormBase_imported	exon	15649	15733	.	+	.	ID=exon:TsM_001057500.2;Parent=transcript:TsM_001057500
 pathogen_TSM_contig_00515	WormBase_imported	exon	15852	16098	.	+	.	ID=exon:TsM_001057500.3;Parent=transcript:TsM_001057500
@@ -176,6 +179,7 @@ pathogen_TSM_contig_00515	WormBase_imported	CDS	20444	20464	.	+	0	ID=cds:TsM_001
 pathogen_TSM_contig_00515	WormBase_imported	CDS	21772	21816	.	+	0	ID=cds:TsM_001057500;Parent=transcript:TsM_001057500
 pathogen_TSM_contig_00931	WormBase_imported	gene	14055	20188	.	+	.	ID=gene:TsM_000044000;Name=TsM_000044000;biotype=protein_coding
 pathogen_TSM_contig_00931	WormBase_imported	mRNA	14055	20188	.	+	.	ID=transcript:TsM_000044000;Parent=gene:TsM_000044000;Name=TsM_000044000;info=method:InterPro accession:IPR000719 description:Protein kinase domain %0Amethod:InterPro accession:IPR008271 description:Serine/threonine-protein kinase%2C active site %0Amethod:InterPro accession:IPR011009 description:Protein kinase-like domain superfamily
+#microexons transcript:TsM_000044000:  32 85 247 264 163 163 51 51 30-21-21-21 45
 pathogen_TSM_contig_00931	WormBase_imported	exon	14055	14086	.	+	.	ID=exon:TsM_000044000.1;Parent=transcript:TsM_000044000
 pathogen_TSM_contig_00931	WormBase_imported	exon	14592	14676	.	+	.	ID=exon:TsM_000044000.2;Parent=transcript:TsM_000044000
 pathogen_TSM_contig_00931	WormBase_imported	exon	14795	15041	.	+	.	ID=exon:TsM_000044000.3;Parent=transcript:TsM_000044000
@@ -204,6 +208,7 @@ pathogen_TSM_contig_00931	WormBase_imported	CDS	19391	19411	.	+	0	ID=cds:TsM_000
 pathogen_TSM_contig_00931	WormBase_imported	CDS	20144	20188	.	+	0	ID=cds:TsM_000044000;Parent=transcript:TsM_000044000
 pathogen_TSM_contig_01009	WormBase_imported	gene	22939	28622	.	-	.	ID=gene:TsM_000500600;Name=TsM_000500600;biotype=protein_coding
 pathogen_TSM_contig_01009	WormBase_imported	mRNA	22939	28622	.	-	.	ID=transcript:TsM_000500600;Parent=gene:TsM_000500600;Name=TsM_000500600
+#microexons transcript:TsM_000500600:  1273 32 45 158 166 42 30-24-24 60 51 225
 pathogen_TSM_contig_01009	WormBase_imported	exon	27350	28622	.	-	.	ID=exon:TsM_000500600.1;Parent=transcript:TsM_000500600
 pathogen_TSM_contig_01009	WormBase_imported	exon	26797	26828	.	-	.	ID=exon:TsM_000500600.2;Parent=transcript:TsM_000500600
 pathogen_TSM_contig_01009	WormBase_imported	exon	26679	26723	.	-	.	ID=exon:TsM_000500600.3;Parent=transcript:TsM_000500600
@@ -251,6 +256,7 @@ pathogen_TSM_contig_01009	dust	low_complexity_region	24417	24423	.	-	.
 pathogen_TSM_contig_01009	dust	low_complexity_region	26081	26087	.	-	.	
 pathogen_TSM_contig_01356	WormBase_imported	gene	615	8041	.	-	.	ID=gene:TsM_000618900;Name=TsM_000618900;biotype=protein_coding
 pathogen_TSM_contig_01356	WormBase_imported	mRNA	615	8041	.	-	.	ID=transcript:TsM_000618900;Parent=gene:TsM_000618900;Name=TsM_000618900
+#microexons transcript:TsM_000618900:  25 99 93 99 69 132 66 84 15 45 338 30 112 201 51 60 48 60 33 132 30-24-24 39 105 114 26 33 48 81 54 21 48
 pathogen_TSM_contig_01356	WormBase_imported	exon	8017	8041	.	-	.	ID=exon:TsM_000618900.1;Parent=transcript:TsM_000618900
 pathogen_TSM_contig_01356	WormBase_imported	exon	7846	7944	.	-	.	ID=exon:TsM_000618900.2;Parent=transcript:TsM_000618900
 pathogen_TSM_contig_01356	WormBase_imported	exon	7440	7532	.	-	.	ID=exon:TsM_000618900.3;Parent=transcript:TsM_000618900
@@ -319,6 +325,7 @@ pathogen_TSM_contig_01356	WormBase_imported	CDS	780	800	.	-	0	ID=cds:TsM_0006189
 pathogen_TSM_contig_01356	WormBase_imported	CDS	615	662	.	-	0	ID=cds:TsM_000618900;Parent=transcript:TsM_000618900
 pathogen_TSM_contig_02274	WormBase_imported	gene	1347	4662	.	+	.	ID=gene:TsM_000380000;Name=TsM_000380000;biotype=protein_coding;description=Diagnostic protein TSES38; TSES38 diagnostic antigen;description_source=UniProtKB/TrEMBL;description_source_acc=Q6EMR7;locus=tses38
 pathogen_TSM_contig_02274	WormBase_imported	mRNA	1347	4662	.	+	.	ID=transcript:TsM_000380000;Parent=gene:TsM_000380000;Name=TsM_000380000
+#microexons transcript:TsM_000380000:  46 92 106 132 104 79 141 30-18-18-27 44
 pathogen_TSM_contig_02274	WormBase_imported	exon	1347	1392	.	+	.	ID=exon:TsM_000380000.1;Parent=transcript:TsM_000380000
 pathogen_TSM_contig_02274	WormBase_imported	exon	1512	1603	.	+	.	ID=exon:TsM_000380000.2;Parent=transcript:TsM_000380000
 pathogen_TSM_contig_02274	WormBase_imported	exon	1823	1928	.	+	.	ID=exon:TsM_000380000.3;Parent=transcript:TsM_000380000
@@ -348,6 +355,7 @@ pathogen_TSM_contig_02274	dust	low_complexity_region	1993	1999	.	-	.
 pathogen_TSM_contig_02274	RepeatMasker	repeat_region	2523	2641	256	+	.	
 pathogen_TSM_contig_03423	WormBase_imported	gene	82	3648	.	+	.	ID=gene:TsM_000987100;Name=TsM_000987100;biotype=protein_coding
 pathogen_TSM_contig_03423	WormBase_imported	mRNA	82	3648	.	+	.	ID=transcript:TsM_000987100;Parent=gene:TsM_000987100;Name=TsM_000987100
+#microexons transcript:TsM_000987100:  15-24-27 121 929 216
 pathogen_TSM_contig_03423	WormBase_imported	exon	82	96	.	+	.	ID=exon:TsM_000987100.1;Parent=transcript:TsM_000987100
 pathogen_TSM_contig_03423	WormBase_imported	exon	436	459	.	+	.	ID=exon:TsM_000987100.2;Parent=transcript:TsM_000987100
 pathogen_TSM_contig_03423	WormBase_imported	exon	681	707	.	+	.	ID=exon:TsM_000987100.3;Parent=transcript:TsM_000987100

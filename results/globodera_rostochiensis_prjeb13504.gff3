@@ -1,5 +1,6 @@
 GROS_00050	WormBase_imported	gene	161677	162868	.	+	.	ID=gene:GROS_g03513;Name=GROS_g03513;biotype=protein_coding
 GROS_00050	WormBase_imported	mRNA	161677	162868	.	+	.	ID=transcript:GROS_g03513.t1;Parent=gene:GROS_g03513;Name=GROS_g03513.t1
+#microexons transcript:GROS_g03513.t1:  72 52 36 27-30-27 33 36 36 27 26
 GROS_00050	WormBase_imported	exon	161677	161748	.	+	.	ID=exon:GROS_g03513.t1.1;Parent=transcript:GROS_g03513.t1
 GROS_00050	WormBase_imported	exon	161841	161892	.	+	.	ID=exon:GROS_g03513.t1.2;Parent=transcript:GROS_g03513.t1
 GROS_00050	WormBase_imported	exon	161939	161974	.	+	.	ID=exon:GROS_g03513.t1.3;Parent=transcript:GROS_g03513.t1
@@ -24,6 +25,7 @@ GROS_00050	WormBase_imported	CDS	162686	162712	.	+	2	ID=cds:GROS_g03513.t1;Paren
 GROS_00050	WormBase_imported	CDS	162843	162868	.	+	2	ID=cds:GROS_g03513.t1;Parent=transcript:GROS_g03513.t1
 GROS_00099	WormBase_imported	gene	113936	128515	.	-	.	ID=gene:GROS_g05239;Name=GROS_g05239;biotype=protein_coding
 GROS_00099	WormBase_imported	mRNA	113936	128515	.	-	.	ID=transcript:GROS_g05239.t1;Parent=gene:GROS_g05239;Name=GROS_g05239.t1
+#microexons transcript:GROS_g05239.t1:  162 21 442 30-27-21 20 55 27 104
 GROS_00099	WormBase_imported	exon	128354	128515	.	-	.	ID=exon:GROS_g05239.t1.1;Parent=transcript:GROS_g05239.t1
 GROS_00099	WormBase_imported	exon	127241	127261	.	-	.	ID=exon:GROS_g05239.t1.2;Parent=transcript:GROS_g05239.t1
 GROS_00099	WormBase_imported	exon	126636	127077	.	-	.	ID=exon:GROS_g05239.t1.3;Parent=transcript:GROS_g05239.t1
@@ -46,6 +48,7 @@ GROS_00099	WormBase_imported	CDS	124977	125003	.	-	2	ID=cds:GROS_g05239.t1;Paren
 GROS_00099	WormBase_imported	CDS	113936	114039	.	-	2	ID=cds:GROS_g05239.t1;Parent=transcript:GROS_g05239.t1
 GROS_00302	WormBase_imported	gene	7522	8751	.	+	.	ID=gene:GROS_g08926;Name=GROS_g08926;biotype=protein_coding
 GROS_00302	WormBase_imported	mRNA	7522	8751	.	+	.	ID=transcript:GROS_g08926.t1;Parent=gene:GROS_g08926;Name=GROS_g08926.t1
+#microexons transcript:GROS_g08926.t1:  57 30-30-30 126 163 80 150
 GROS_00302	WormBase_imported	exon	7522	7578	.	+	.	ID=exon:GROS_g08926.t1.1;Parent=transcript:GROS_g08926.t1
 GROS_00302	WormBase_imported	exon	7630	7659	.	+	.	ID=exon:GROS_g08926.t1.2;Parent=transcript:GROS_g08926.t1
 GROS_00302	WormBase_imported	exon	7712	7741	.	+	.	ID=exon:GROS_g08926.t1.3;Parent=transcript:GROS_g08926.t1
@@ -64,6 +67,7 @@ GROS_00302	WormBase_imported	CDS	8443	8522	.	+	2	ID=cds:GROS_g08926.t1;Parent=tr
 GROS_00302	WormBase_imported	CDS	8602	8751	.	+	0	ID=cds:GROS_g08926.t1;Parent=transcript:GROS_g08926.t1
 GROS_00852	WormBase_imported	gene	25215	31208	.	-	.	ID=gene:GROS_g12425;Name=GROS_g12425;biotype=protein_coding
 GROS_00852	WormBase_imported	mRNA	25215	31208	.	-	.	ID=transcript:GROS_g12425.t1;Parent=gene:GROS_g12425;Name=GROS_g12425.t1
+#microexons transcript:GROS_g12425.t1:  177 400 767 44 115 198 163 89 179 15 96 21-21-18-21-24-30-30-24 25
 GROS_00852	WormBase_imported	exon	31032	31208	.	-	.	ID=exon:GROS_g12425.t1.1;Parent=transcript:GROS_g12425.t1
 GROS_00852	WormBase_imported	exon	30570	30969	.	-	.	ID=exon:GROS_g12425.t1.2;Parent=transcript:GROS_g12425.t1
 GROS_00852	WormBase_imported	exon	29636	30402	.	-	.	ID=exon:GROS_g12425.t1.3;Parent=transcript:GROS_g12425.t1
@@ -289,6 +293,7 @@ GROS_00852	dust	repeat_region	31573	31663	.	-	.
 GROS_00852	dust	repeat_region	31883	31889	.	-	.	
 GROS_01147	WormBase_imported	gene	2988	3991	.	-	.	ID=gene:GROS_g13138;Name=GROS_g13138;biotype=protein_coding
 GROS_01147	WormBase_imported	mRNA	2988	3991	.	-	.	ID=transcript:GROS_g13138.t1;Parent=gene:GROS_g13138;Name=GROS_g13138.t1
+#microexons transcript:GROS_g13138.t1:  77 33 27-15-27 17 28 199
 GROS_01147	WormBase_imported	exon	3915	3991	.	-	.	ID=exon:GROS_g13138.t1.1;Parent=transcript:GROS_g13138.t1
 GROS_01147	WormBase_imported	exon	3836	3868	.	-	.	ID=exon:GROS_g13138.t1.2;Parent=transcript:GROS_g13138.t1
 GROS_01147	WormBase_imported	exon	3633	3659	.	-	.	ID=exon:GROS_g13138.t1.3;Parent=transcript:GROS_g13138.t1

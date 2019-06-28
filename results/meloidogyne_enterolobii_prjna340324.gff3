@@ -1,5 +1,6 @@
 scaffold6187_cov228	WormBase_imported	gene	7599	8732	.	+	.	ID=gene:scaffold6187_cov228.g9164;Name=scaffold6187_cov228.g9164;biotype=protein_coding
 scaffold6187_cov228	WormBase_imported	mRNA	7599	8732	.	+	.	ID=transcript:scaffold6187_cov228.g9164;Parent=gene:scaffold6187_cov228.g9164;Name=scaffold6187_cov228.g9164
+#microexons transcript:scaffold6187_cov228.g9164:  201 78 30-24-24
 scaffold6187_cov228	WormBase_imported	exon	7599	7799	.	+	.	ID=exon:scaffold6187_cov228.g9164.1;Parent=transcript:scaffold6187_cov228.g9164
 scaffold6187_cov228	WormBase_imported	exon	8446	8523	.	+	.	ID=exon:scaffold6187_cov228.g9164.2;Parent=transcript:scaffold6187_cov228.g9164
 scaffold6187_cov228	WormBase_imported	exon	8567	8596	.	+	.	ID=exon:scaffold6187_cov228.g9164.3;Parent=transcript:scaffold6187_cov228.g9164
@@ -12,6 +13,7 @@ scaffold6187_cov228	WormBase_imported	CDS	8646	8669	.	+	0	ID=cds:scaffold6187_co
 scaffold6187_cov228	WormBase_imported	CDS	8709	8732	.	+	0	ID=cds:scaffold6187_cov228.g9164;Parent=transcript:scaffold6187_cov228.g9164
 scaffold157_cov172	WormBase_imported	gene	7819	9875	.	+	.	ID=gene:scaffold157_cov172.g285;Name=scaffold157_cov172.g285;biotype=protein_coding
 scaffold157_cov172	WormBase_imported	mRNA	7819	9875	.	+	.	ID=transcript:scaffold157_cov172.g285;Parent=gene:scaffold157_cov172.g285;Name=scaffold157_cov172.g285
+#microexons transcript:scaffold157_cov172.g285:  217 165 74 27-12-27-24-27
 scaffold157_cov172	WormBase_imported	exon	7819	8035	.	+	.	ID=exon:scaffold157_cov172.g285.1;Parent=transcript:scaffold157_cov172.g285
 scaffold157_cov172	WormBase_imported	exon	8085	8249	.	+	.	ID=exon:scaffold157_cov172.g285.2;Parent=transcript:scaffold157_cov172.g285
 scaffold157_cov172	WormBase_imported	exon	8508	8581	.	+	.	ID=exon:scaffold157_cov172.g285.3;Parent=transcript:scaffold157_cov172.g285
@@ -30,6 +32,7 @@ scaffold157_cov172	WormBase_imported	CDS	9781	9804	.	+	0	ID=cds:scaffold157_cov1
 scaffold157_cov172	WormBase_imported	CDS	9849	9875	.	+	0	ID=cds:scaffold157_cov172.g285;Parent=transcript:scaffold157_cov172.g285
 scaffold1237_cov146	WormBase_imported	gene	195	962	.	-	.	ID=gene:scaffold1237_cov146.g2077;Name=scaffold1237_cov146.g2077;biotype=protein_coding
 scaffold1237_cov146	WormBase_imported	mRNA	195	962	.	-	.	ID=transcript:scaffold1237_cov146.g2077;Parent=gene:scaffold1237_cov146.g2077;Name=scaffold1237_cov146.g2077
+#microexons transcript:scaffold1237_cov146.g2077:  26 64 21-12-30-9-21-15-12 33 21-15
 scaffold1237_cov146	WormBase_imported	exon	937	962	.	-	.	ID=exon:scaffold1237_cov146.g2077.1;Parent=transcript:scaffold1237_cov146.g2077
 scaffold1237_cov146	WormBase_imported	exon	833	896	.	-	.	ID=exon:scaffold1237_cov146.g2077.2;Parent=transcript:scaffold1237_cov146.g2077
 scaffold1237_cov146	WormBase_imported	exon	770	790	.	-	.	ID=exon:scaffold1237_cov146.g2077.3;Parent=transcript:scaffold1237_cov146.g2077

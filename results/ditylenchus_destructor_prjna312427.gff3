@@ -1,5 +1,6 @@
 scaffold4	WormBase_imported	gene	1300684	1302376	.	+	.	ID=gene:Dd_01385;Name=Dd_01385;biotype=protein_coding
 scaffold4	WormBase_imported	mRNA	1300684	1302376	.	+	.	ID=transcript:Dd_01385;Parent=gene:Dd_01385;Name=Dd_01385
+#microexons transcript:Dd_01385:  6-27-9 377 184
 scaffold4	WormBase_imported	exon	1300684	1300689	.	+	.	ID=exon:Dd_01385.1;Parent=transcript:Dd_01385
 scaffold4	WormBase_imported	exon	1300718	1300744	.	+	.	ID=exon:Dd_01385.2;Parent=transcript:Dd_01385
 scaffold4	WormBase_imported	exon	1300997	1301005	.	+	.	ID=exon:Dd_01385.3;Parent=transcript:Dd_01385
@@ -13,6 +14,7 @@ scaffold4	WormBase_imported	CDS	1302193	1302301	.	+	1	ID=cds:Dd_01385;Parent=tra
 scaffold4	WormBase_imported	three_prime_UTR	1302302	1302376	.	+	.	Parent=transcript:Dd_01385
 scaffold12	WormBase_imported	gene	33581	38994	.	-	.	ID=gene:Dd_03302;Name=Dd_03302;biotype=protein_coding
 scaffold12	WormBase_imported	mRNA	33581	38994	.	-	.	ID=transcript:Dd_03302;Parent=gene:Dd_03302;Name=Dd_03302;info=method:InterPro accession:IPR004274 description:FCP1 homology domain %0Amethod:InterPro accession:IPR023214 description:HAD superfamily %0Amethod:InterPro accession:IPR036412 description:HAD-like superfamily
+#microexons transcript:Dd_03302:  198 233 75 12-18-30 115 137 384 938
 scaffold12	WormBase_imported	exon	38797	38994	.	-	.	ID=exon:Dd_03302.1;Parent=transcript:Dd_03302
 scaffold12	WormBase_imported	exon	37575	37807	.	-	.	ID=exon:Dd_03302.2;Parent=transcript:Dd_03302
 scaffold12	WormBase_imported	exon	36487	36561	.	-	.	ID=exon:Dd_03302.3;Parent=transcript:Dd_03302
@@ -37,6 +39,7 @@ scaffold12	WormBase_imported	CDS	34498	34518	.	-	0	ID=cds:Dd_03302;Parent=transc
 scaffold12	WormBase_imported	three_prime_UTR	33581	34497	.	-	.	Parent=transcript:Dd_03302
 scaffold36	WormBase_imported	gene	375649	378376	.	-	.	ID=gene:Dd_06844;Name=Dd_06844;biotype=protein_coding
 scaffold36	WormBase_imported	mRNA	375649	378376	.	-	.	ID=transcript:Dd_06844;Parent=gene:Dd_06844;Name=Dd_06844;info=method:InterPro accession:IPR003689 description:Zinc/iron permease
+#microexons transcript:Dd_06844:  50 68 36 211 279 102 21-24-27 123 357
 scaffold36	WormBase_imported	exon	378327	378376	.	-	.	ID=exon:Dd_06844.1;Parent=transcript:Dd_06844
 scaffold36	WormBase_imported	exon	378211	378278	.	-	.	ID=exon:Dd_06844.2;Parent=transcript:Dd_06844
 scaffold36	WormBase_imported	exon	378129	378164	.	-	.	ID=exon:Dd_06844.3;Parent=transcript:Dd_06844
@@ -63,6 +66,7 @@ scaffold36	WormBase_imported	CDS	375787	376005	.	-	0	ID=cds:Dd_06844;Parent=tran
 scaffold36	WormBase_imported	three_prime_UTR	375649	375786	.	-	.	Parent=transcript:Dd_06844
 scaffold45	WormBase_imported	gene	78529	97902	.	-	.	ID=gene:Dd_07571;Name=Dd_07571;biotype=protein_coding
 scaffold45	WormBase_imported	mRNA	78529	97902	.	-	.	ID=transcript:Dd_07571;Parent=gene:Dd_07571;Name=Dd_07571;info=method:InterPro accession:IPR001678 description:SAM-dependent methyltransferase RsmB/NOP2-type %0Amethod:InterPro accession:IPR001841 description:Zinc finger%2C RING-type %0Amethod:InterPro accession:IPR003892 description:Ubiquitin system component CUE %0Amethod:InterPro accession:IPR013083 description:Zinc finger%2C RING/FYVE/PHD-type %0Amethod:InterPro accession:IPR018999 description:RNA helicase UPF1%2C UPF2-interacting domain %0Amethod:InterPro accession:IPR023267 description:RNA (C5-cytosine) methyltransferase %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR029063 description:S-adenosyl-L-methionine-dependent methyltransferase %0Amethod:InterPro accession:IPR040812 description:Domain of unknown function DUF5599 %0Amethod:InterPro accession:IPR041677 description:DNA2/NAM7 helicase%2C AAA domain %0Amethod:InterPro accession:IPR041679 description:DNA2/NAM7 helicase-like%2C AAA domain
+#microexons transcript:Dd_07571:  6 147 97 206 117 40 44 174 150 126 54 122 57 199 75 42 40 125 191 180 165 172 23 198 144 152 102 112 106 102 267 149 89 192 308 126 106 95 167 118 24-18-15 64 54 187 135 31 54 233 185 66 59 494
 scaffold45	WormBase_imported	exon	97897	97902	.	-	.	ID=exon:Dd_07571.1;Parent=transcript:Dd_07571
 scaffold45	WormBase_imported	exon	96671	96817	.	-	.	ID=exon:Dd_07571.2;Parent=transcript:Dd_07571
 scaffold45	WormBase_imported	exon	96482	96578	.	-	.	ID=exon:Dd_07571.3;Parent=transcript:Dd_07571
@@ -174,6 +178,7 @@ scaffold45	WormBase_imported	CDS	78597	79022	.	-	0	ID=cds:Dd_07571;Parent=transc
 scaffold45	WormBase_imported	three_prime_UTR	78529	78596	.	-	.	Parent=transcript:Dd_07571
 scaffold54	WormBase_imported	gene	445984	468838	.	-	.	ID=gene:Dd_08210;Name=Dd_08210;biotype=protein_coding
 scaffold54	WormBase_imported	mRNA	445984	468838	.	-	.	ID=transcript:Dd_08210;Parent=gene:Dd_08210;Name=Dd_08210;info=method:InterPro accession:IPR002489 description:Glutamate synthase%2C alpha subunit%2C C-terminal %0Amethod:InterPro accession:IPR002932 description:Glutamate synthase domain %0Amethod:InterPro accession:IPR006005 description:Glutamate synthase%2C NADH/NADPH%2C small subunit 1 %0Amethod:InterPro accession:IPR006982 description:Glutamate synthase%2C central-N %0Amethod:InterPro accession:IPR009051 description:Alpha-helical ferredoxin %0Amethod:InterPro accession:IPR012220 description:Glutamate synthase%2C eukaryotic %0Amethod:InterPro accession:IPR013785 description:Aldolase-type TIM barrel %0Amethod:InterPro accession:IPR017932 description:Glutamine amidotransferase type 2 domain %0Amethod:InterPro accession:IPR023753 description:FAD/NAD(P)-binding domain %0Amethod:InterPro accession:IPR028261 description:Dihydroprymidine dehydrogenase domain II %0Amethod:InterPro accession:IPR029055 description:Nucleophile aminohydrolases%2C N-terminal %0Amethod:InterPro accession:IPR036188 description:FAD/NAD(P)-binding domain superfamily %0Amethod:InterPro accession:IPR036485 description:Glutamate synthase%2C alpha subunit%2C C-terminal domain superfamily
+#microexons transcript:Dd_08210:  160 50 84 131 74 65 42 40 137 155 44 21-27-21 49 49 106 156 212 40 60 106 47 91 164 37 122 87 122 59 95 175 164 219 69 106 315 124 64 144 63 87 106 190 175 144 105 151 176 82 169 106 28 246 47 156 210 89 44 324
 scaffold54	WormBase_imported	exon	468679	468838	.	-	.	ID=exon:Dd_08210.1;Parent=transcript:Dd_08210
 scaffold54	WormBase_imported	exon	468407	468456	.	-	.	ID=exon:Dd_08210.2;Parent=transcript:Dd_08210
 scaffold54	WormBase_imported	exon	468153	468236	.	-	.	ID=exon:Dd_08210.3;Parent=transcript:Dd_08210
@@ -298,6 +303,7 @@ scaffold54	WormBase_imported	CDS	446225	446307	.	-	2	ID=cds:Dd_08210;Parent=tran
 scaffold54	WormBase_imported	three_prime_UTR	445984	446224	.	-	.	Parent=transcript:Dd_08210
 scaffold100	WormBase_imported	gene	142610	148438	.	+	.	ID=gene:Dd_10356;Name=Dd_10356;biotype=protein_coding
 scaffold100	WormBase_imported	mRNA	142610	148438	.	+	.	ID=transcript:Dd_10356;Parent=gene:Dd_10356;Name=Dd_10356;info=method:InterPro accession:IPR006028 description:Gamma-aminobutyric acid A receptor/Glycine receptor alpha %0Amethod:InterPro accession:IPR006029 description:Neurotransmitter-gated ion-channel transmembrane domain %0Amethod:InterPro accession:IPR006201 description:Neurotransmitter-gated ion-channel %0Amethod:InterPro accession:IPR006202 description:Neurotransmitter-gated ion-channel ligand-binding domain %0Amethod:InterPro accession:IPR018000 description:Neurotransmitter-gated ion-channel%2C conserved site %0Amethod:InterPro accession:IPR036719 description:Neurotransmitter-gated ion-channel transmembrane domain superfamily %0Amethod:InterPro accession:IPR036734 description:Neurotransmitter-gated ion-channel ligand-binding domain superfamily
+#microexons transcript:Dd_10356:  136 168 51 140 70 72 24-18-21 102 29 30 85 46 29 46 118 217 62 15 50 106
 scaffold100	WormBase_imported	exon	142610	142745	.	+	.	ID=exon:Dd_10356.1;Parent=transcript:Dd_10356
 scaffold100	WormBase_imported	exon	142796	142963	.	+	.	ID=exon:Dd_10356.2;Parent=transcript:Dd_10356
 scaffold100	WormBase_imported	exon	143043	143093	.	+	.	ID=exon:Dd_10356.3;Parent=transcript:Dd_10356
@@ -346,6 +352,7 @@ scaffold100	WormBase_imported	CDS	148333	148358	.	+	2	ID=cds:Dd_10356;Parent=tra
 scaffold100	WormBase_imported	three_prime_UTR	148359	148438	.	+	.	Parent=transcript:Dd_10356
 scaffold193	WormBase_imported	gene	81466	89373	.	+	.	ID=gene:Dd_12319;Name=Dd_12319;biotype=protein_coding
 scaffold193	WormBase_imported	mRNA	81466	89373	.	+	.	ID=transcript:Dd_12319;Parent=gene:Dd_12319;Name=Dd_12319;info=method:InterPro accession:IPR000990 description:Innexin
+#microexons transcript:Dd_12319:  76 68 70 36 122 39 82 125 174 84 12-15-24 110 65 83 30 433
 scaffold193	WormBase_imported	exon	81466	81541	.	+	.	ID=exon:Dd_12319.1;Parent=transcript:Dd_12319
 scaffold193	WormBase_imported	exon	81595	81662	.	+	.	ID=exon:Dd_12319.2;Parent=transcript:Dd_12319
 scaffold193	WormBase_imported	exon	81720	81789	.	+	.	ID=exon:Dd_12319.3;Parent=transcript:Dd_12319

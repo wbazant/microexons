@@ -1,5 +1,6 @@
 tig00001038	WormBase_imported	gene	75917	79048	.	+	.	ID=gene:tig00001038.g20162;Name=tig00001038.g20162;biotype=protein_coding
 tig00001038	WormBase_imported	mRNA	75917	79048	.	+	.	ID=transcript:tig00001038.g20162.t1;Parent=gene:tig00001038.g20162;Name=tig00001038.g20162.t1;info=method:InterPro accession:IPR001254 description:Serine proteases%2C trypsin domain %0Amethod:InterPro accession:IPR009003 description:Peptidase S1%2C PA clan
+#microexons transcript:tig00001038.g20162.t1:  117 213 93 77 93 33 27-15-27 17 105 113
 tig00001038	WormBase_imported	exon	75917	76033	.	+	.	ID=exon:tig00001038.g20162.t1.1;Parent=transcript:tig00001038.g20162.t1
 tig00001038	WormBase_imported	exon	76076	76288	.	+	.	ID=exon:tig00001038.g20162.t1.2;Parent=transcript:tig00001038.g20162.t1
 tig00001038	WormBase_imported	exon	76678	76770	.	+	.	ID=exon:tig00001038.g20162.t1.3;Parent=transcript:tig00001038.g20162.t1
@@ -26,6 +27,7 @@ tig00001038	WormBase_imported	CDS	78794	78898	.	+	2	ID=cds:tig00001038.g20162.t1
 tig00001038	WormBase_imported	CDS	78936	79048	.	+	2	ID=cds:tig00001038.g20162.t1;Parent=transcript:tig00001038.g20162.t1
 tig00002232	WormBase_imported	gene	29945	30972	.	+	.	ID=gene:tig00002232.g32923;Name=tig00002232.g32923;biotype=protein_coding
 tig00002232	WormBase_imported	mRNA	29945	30972	.	+	.	ID=transcript:tig00002232.g32923.t1;Parent=gene:tig00002232.g32923;Name=tig00002232.g32923.t1
+#microexons transcript:tig00002232.g32923.t1:  86 33 27-15-27 17 105 113
 tig00002232	WormBase_imported	exon	29945	30030	.	+	.	ID=exon:tig00002232.g32923.t1.1;Parent=transcript:tig00002232.g32923.t1
 tig00002232	WormBase_imported	exon	30077	30109	.	+	.	ID=exon:tig00002232.g32923.t1.2;Parent=transcript:tig00002232.g32923.t1
 tig00002232	WormBase_imported	exon	30156	30182	.	+	.	ID=exon:tig00002232.g32923.t1.3;Parent=transcript:tig00002232.g32923.t1

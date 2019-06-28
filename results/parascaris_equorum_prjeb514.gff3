@@ -1,5 +1,6 @@
 PEQ_scaffold0000110	WormBase_imported	gene	14762	25091	.	-	.	ID=gene:PEQ_0001185601;Name=PEQ_0001185601;biotype=protein_coding
 PEQ_scaffold0000110	WormBase_imported	mRNA	14762	25091	.	-	.	ID=transcript:PEQ_0001185601-mRNA-1;Parent=gene:PEQ_0001185601;Name=PEQ_0001185601-mRNA-1
+#microexons transcript:PEQ_0001185601-mRNA-1:  55 182 168 33 132 138 54 106 81 503 156 28 23 24-18-6
 PEQ_scaffold0000110	WormBase_imported	exon	25037	25091	.	-	.	ID=exon:PEQ_0001185601-mRNA-1.1;Parent=transcript:PEQ_0001185601-mRNA-1
 PEQ_scaffold0000110	WormBase_imported	exon	24835	25016	.	-	.	ID=exon:PEQ_0001185601-mRNA-1.2;Parent=transcript:PEQ_0001185601-mRNA-1
 PEQ_scaffold0000110	WormBase_imported	exon	22531	22698	.	-	.	ID=exon:PEQ_0001185601-mRNA-1.3;Parent=transcript:PEQ_0001185601-mRNA-1
@@ -34,6 +35,7 @@ PEQ_scaffold0000110	WormBase_imported	CDS	15020	15037	.	-	0	ID=cds:PEQ_000118560
 PEQ_scaffold0000110	WormBase_imported	CDS	14762	14767	.	-	0	ID=cds:PEQ_0001185601-mRNA-1;Parent=transcript:PEQ_0001185601-mRNA-1
 PEQ_scaffold0000110	WormBase_imported	gene	25207	32044	.	-	.	ID=gene:PEQ_0001185701;Name=PEQ_0001185701;biotype=protein_coding
 PEQ_scaffold0000110	WormBase_imported	mRNA	25207	32044	.	-	.	ID=transcript:PEQ_0001185701-mRNA-1;Parent=gene:PEQ_0001185701;Name=PEQ_0001185701-mRNA-1
+#microexons transcript:PEQ_0001185701-mRNA-1:  32 48 73 72 6-6-27 65
 PEQ_scaffold0000110	WormBase_imported	exon	32013	32044	.	-	.	ID=exon:PEQ_0001185701-mRNA-1.1;Parent=transcript:PEQ_0001185701-mRNA-1
 PEQ_scaffold0000110	WormBase_imported	exon	31791	31838	.	-	.	ID=exon:PEQ_0001185701-mRNA-1.2;Parent=transcript:PEQ_0001185701-mRNA-1
 PEQ_scaffold0000110	WormBase_imported	exon	30832	30904	.	-	.	ID=exon:PEQ_0001185701-mRNA-1.3;Parent=transcript:PEQ_0001185701-mRNA-1
@@ -184,6 +186,7 @@ PEQ_scaffold0000110	dust	low_complexity_region	32105	32229	.	-	.
 PEQ_scaffold0000110	dust	low_complexity_region	32334	32343	.	-	.	
 PEQ_scaffold0000889	WormBase_imported	gene	3949	17619	.	+	.	ID=gene:PEQ_0000967101;Name=PEQ_0000967101;biotype=protein_coding
 PEQ_scaffold0000889	WormBase_imported	mRNA	3949	17619	.	+	.	ID=transcript:PEQ_0000967101-mRNA-1;Parent=gene:PEQ_0000967101;Name=PEQ_0000967101-mRNA-1;info=method:InterPro accession:IPR030364 description:K/Cl co-transporter 3
+#microexons transcript:PEQ_0000967101-mRNA-1:  15-18-12-24 53 88 29 13 47 69 16 39 60 27 48 9 82 26 23 19 6 117 108
 PEQ_scaffold0000889	WormBase_imported	exon	3949	3963	.	+	.	ID=exon:PEQ_0000967101-mRNA-1.1;Parent=transcript:PEQ_0000967101-mRNA-1
 PEQ_scaffold0000889	WormBase_imported	exon	4083	4100	.	+	.	ID=exon:PEQ_0000967101-mRNA-1.2;Parent=transcript:PEQ_0000967101-mRNA-1
 PEQ_scaffold0000889	WormBase_imported	exon	5619	5630	.	+	.	ID=exon:PEQ_0000967101-mRNA-1.3;Parent=transcript:PEQ_0000967101-mRNA-1
@@ -327,6 +330,7 @@ PEQ_scaffold0000890	dust	low_complexity_region	16241	16357	.	-	.
 PEQ_scaffold0000890	dust	low_complexity_region	17040	17132	.	-	.	
 PEQ_scaffold0000909	WormBase_imported	gene	476	17374	.	+	.	ID=gene:PEQ_0001242801;Name=PEQ_0001242801;biotype=protein_coding
 PEQ_scaffold0000909	WormBase_imported	mRNA	476	17374	.	+	.	ID=transcript:PEQ_0001242801-mRNA-1;Parent=gene:PEQ_0001242801;Name=PEQ_0001242801-mRNA-1;info=method:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR002153 description:Transient receptor potential channel%2C canonical %0Amethod:InterPro accession:IPR005821 description:Ion transport domain %0Amethod:InterPro accession:IPR013555 description:Transient receptor ion channel domain %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily
+#microexons transcript:PEQ_0001242801-mRNA-1:  45 190 118 174 91 156 9 93 201 21-15-27 35 200 140 83 8 19 102 9 195 12 7
 PEQ_scaffold0000909	WormBase_imported	exon	476	520	.	+	.	ID=exon:PEQ_0001242801-mRNA-1.1;Parent=transcript:PEQ_0001242801-mRNA-1
 PEQ_scaffold0000909	WormBase_imported	exon	581	770	.	+	.	ID=exon:PEQ_0001242801-mRNA-1.2;Parent=transcript:PEQ_0001242801-mRNA-1
 PEQ_scaffold0000909	WormBase_imported	exon	1357	1474	.	+	.	ID=exon:PEQ_0001242801-mRNA-1.3;Parent=transcript:PEQ_0001242801-mRNA-1
@@ -431,6 +435,7 @@ PEQ_scaffold0000909	dust	low_complexity_region	16832	16909	.	-	.
 PEQ_scaffold0000909	dust	low_complexity_region	17168	17303	.	-	.	
 PEQ_scaffold0001804	WormBase_imported	gene	3115	9643	.	-	.	ID=gene:PEQ_0000834301;Name=PEQ_0000834301;biotype=protein_coding
 PEQ_scaffold0001804	WormBase_imported	mRNA	3115	9643	.	-	.	ID=transcript:PEQ_0000834301-mRNA-1;Parent=gene:PEQ_0000834301;Name=PEQ_0000834301-mRNA-1;info=method:InterPro accession:IPR008806 description:RNA polymerase III Rpc82%2C C -terminal %0Amethod:InterPro accession:IPR036388 description:Winged helix-like DNA-binding domain superfamily %0Amethod:InterPro accession:IPR039748 description:DNA-directed RNA polymerase III subunit RPC3
+#microexons transcript:PEQ_0000834301-mRNA-1:  151 131 181 227 9 61 77 84 6 64 23 12-18-9 87
 PEQ_scaffold0001804	WormBase_imported	exon	9493	9643	.	-	.	ID=exon:PEQ_0000834301-mRNA-1.1;Parent=transcript:PEQ_0000834301-mRNA-1
 PEQ_scaffold0001804	WormBase_imported	exon	9039	9169	.	-	.	ID=exon:PEQ_0000834301-mRNA-1.2;Parent=transcript:PEQ_0000834301-mRNA-1
 PEQ_scaffold0001804	WormBase_imported	exon	8281	8461	.	-	.	ID=exon:PEQ_0000834301-mRNA-1.3;Parent=transcript:PEQ_0000834301-mRNA-1
@@ -538,6 +543,7 @@ PEQ_scaffold0001805	dust	low_complexity_region	12417	12701	.	-	.
 PEQ_scaffold0001805	dust	low_complexity_region	12867	12910	.	-	.	
 PEQ_scaffold0004261	WormBase_imported	gene	1146	8077	.	+	.	ID=gene:PEQ_0000983801;Name=PEQ_0000983801;biotype=protein_coding
 PEQ_scaffold0004261	WormBase_imported	mRNA	1146	8077	.	+	.	ID=transcript:PEQ_0000983801-mRNA-1;Parent=gene:PEQ_0000983801;Name=PEQ_0000983801-mRNA-1;info=method:InterPro accession:IPR006201 description:Neurotransmitter-gated ion-channel %0Amethod:InterPro accession:IPR036719 description:Neurotransmitter-gated ion-channel transmembrane domain superfamily %0Amethod:InterPro accession:IPR036734 description:Neurotransmitter-gated ion-channel ligand-binding domain superfamily
+#microexons transcript:PEQ_0000983801-mRNA-1:  19 82 194 83 23 106 66 21-12-18
 PEQ_scaffold0004261	WormBase_imported	exon	1146	1164	.	+	.	ID=exon:PEQ_0000983801-mRNA-1.1;Parent=transcript:PEQ_0000983801-mRNA-1
 PEQ_scaffold0004261	WormBase_imported	exon	1834	1915	.	+	.	ID=exon:PEQ_0000983801-mRNA-1.2;Parent=transcript:PEQ_0000983801-mRNA-1
 PEQ_scaffold0004261	WormBase_imported	exon	2169	2362	.	+	.	ID=exon:PEQ_0000983801-mRNA-1.3;Parent=transcript:PEQ_0000983801-mRNA-1
@@ -585,6 +591,7 @@ PEQ_scaffold0004261	tandem	tandem_repeat	7753	7779	54	-	.
 PEQ_scaffold0004261	dust	low_complexity_region	8182	8327	.	-	.	
 PEQ_scaffold0004347	WormBase_imported	gene	1203	8447	.	-	.	ID=gene:PEQ_0000942701;Name=PEQ_0000942701;biotype=protein_coding
 PEQ_scaffold0004347	WormBase_imported	mRNA	1203	8447	.	-	.	ID=transcript:PEQ_0000942701-mRNA-1;Parent=gene:PEQ_0000942701;Name=PEQ_0000942701-mRNA-1
+#microexons transcript:PEQ_0000942701-mRNA-1:  67 14 21 84 30 10 53 18 58 42 38 6-15-24
 PEQ_scaffold0004347	WormBase_imported	exon	8381	8447	.	-	.	ID=exon:PEQ_0000942701-mRNA-1.1;Parent=transcript:PEQ_0000942701-mRNA-1
 PEQ_scaffold0004347	WormBase_imported	exon	8341	8354	.	-	.	ID=exon:PEQ_0000942701-mRNA-1.2;Parent=transcript:PEQ_0000942701-mRNA-1
 PEQ_scaffold0004347	WormBase_imported	exon	7920	7940	.	-	.	ID=exon:PEQ_0000942701-mRNA-1.3;Parent=transcript:PEQ_0000942701-mRNA-1
@@ -707,6 +714,7 @@ PEQ_scaffold0004349	dust	low_complexity_region	8065	8142	.	-	.
 PEQ_scaffold0004349	dust	low_complexity_region	8342	8348	.	-	.	
 PEQ_scaffold0005084	WormBase_imported	gene	2321	7140	.	-	.	ID=gene:PEQ_0001207001;Name=PEQ_0001207001;biotype=protein_coding
 PEQ_scaffold0005084	WormBase_imported	mRNA	2321	7140	.	-	.	ID=transcript:PEQ_0001207001-mRNA-1;Parent=gene:PEQ_0001207001;Name=PEQ_0001207001-mRNA-1
+#microexons transcript:PEQ_0001207001-mRNA-1:  27-21-18 35 88 120 17
 PEQ_scaffold0005084	WormBase_imported	exon	7114	7140	.	-	.	ID=exon:PEQ_0001207001-mRNA-1.1;Parent=transcript:PEQ_0001207001-mRNA-1
 PEQ_scaffold0005084	WormBase_imported	exon	6066	6086	.	-	.	ID=exon:PEQ_0001207001-mRNA-1.2;Parent=transcript:PEQ_0001207001-mRNA-1
 PEQ_scaffold0005084	WormBase_imported	exon	3957	3974	.	-	.	ID=exon:PEQ_0001207001-mRNA-1.3;Parent=transcript:PEQ_0001207001-mRNA-1
@@ -747,6 +755,7 @@ PEQ_scaffold0005084	dust	low_complexity_region	7249	7261	.	-	.
 PEQ_scaffold0005084	dust	low_complexity_region	7497	7511	.	-	.	
 PEQ_scaffold0009224	WormBase_imported	gene	68	5077	.	+	.	ID=gene:PEQ_0000857901;Name=PEQ_0000857901;biotype=protein_coding
 PEQ_scaffold0009224	WormBase_imported	mRNA	68	5077	.	+	.	ID=transcript:PEQ_0000857901-mRNA-1;Parent=gene:PEQ_0000857901;Name=PEQ_0000857901-mRNA-1;info=method:InterPro accession:IPR000873 description:AMP-dependent synthetase/ligase %0Amethod:InterPro accession:IPR020845 description:AMP-binding%2C conserved site %0Amethod:InterPro accession:IPR042099 description:AMP-dependent synthetase-like superfamily
+#microexons transcript:PEQ_0000857901-mRNA-1:  13 71 12 193 164 144 69 24-12-6
 PEQ_scaffold0009224	WormBase_imported	exon	68	80	.	+	.	ID=exon:PEQ_0000857901-mRNA-1.1;Parent=transcript:PEQ_0000857901-mRNA-1
 PEQ_scaffold0009224	WormBase_imported	exon	628	698	.	+	.	ID=exon:PEQ_0000857901-mRNA-1.2;Parent=transcript:PEQ_0000857901-mRNA-1
 PEQ_scaffold0009224	WormBase_imported	exon	848	859	.	+	.	ID=exon:PEQ_0000857901-mRNA-1.3;Parent=transcript:PEQ_0000857901-mRNA-1
@@ -806,6 +815,7 @@ PEQ_scaffold0009225	dust	low_complexity_region	4833	4950	.	-	.
 PEQ_scaffold0009225	dust	low_complexity_region	5182	5188	.	-	.	
 PEQ_scaffold0009990	WormBase_imported	gene	551	4816	.	-	.	ID=gene:PEQ_0000760101;Name=PEQ_0000760101;biotype=protein_coding
 PEQ_scaffold0009990	WormBase_imported	mRNA	551	4816	.	-	.	ID=transcript:PEQ_0000760101-mRNA-1;Parent=gene:PEQ_0000760101;Name=PEQ_0000760101-mRNA-1
+#microexons transcript:PEQ_0000760101-mRNA-1:  50 40 6-27-27 23 100 132 99 37 155
 PEQ_scaffold0009990	WormBase_imported	exon	4767	4816	.	-	.	ID=exon:PEQ_0000760101-mRNA-1.1;Parent=transcript:PEQ_0000760101-mRNA-1
 PEQ_scaffold0009990	WormBase_imported	exon	4622	4661	.	-	.	ID=exon:PEQ_0000760101-mRNA-1.2;Parent=transcript:PEQ_0000760101-mRNA-1
 PEQ_scaffold0009990	WormBase_imported	exon	4581	4586	.	-	.	ID=exon:PEQ_0000760101-mRNA-1.3;Parent=transcript:PEQ_0000760101-mRNA-1
@@ -845,6 +855,7 @@ PEQ_scaffold0009990	dust	low_complexity_region	3490	3651	.	-	.
 PEQ_scaffold0009990	dust	low_complexity_region	4354	4423	.	-	.	
 PEQ_scaffold0013082	WormBase_imported	gene	172	3902	.	+	.	ID=gene:PEQ_0000728201;Name=PEQ_0000728201;biotype=protein_coding
 PEQ_scaffold0013082	WormBase_imported	mRNA	172	3902	.	+	.	ID=transcript:PEQ_0000728201-mRNA-1;Parent=gene:PEQ_0000728201;Name=PEQ_0000728201-mRNA-1
+#microexons transcript:PEQ_0000728201-mRNA-1:  125 18-12-6 94 90 52 25 15 164
 PEQ_scaffold0013082	WormBase_imported	exon	172	296	.	+	.	ID=exon:PEQ_0000728201-mRNA-1.1;Parent=transcript:PEQ_0000728201-mRNA-1
 PEQ_scaffold0013082	WormBase_imported	exon	1012	1029	.	+	.	ID=exon:PEQ_0000728201-mRNA-1.2;Parent=transcript:PEQ_0000728201-mRNA-1
 PEQ_scaffold0013082	WormBase_imported	exon	2377	2388	.	+	.	ID=exon:PEQ_0000728201-mRNA-1.3;Parent=transcript:PEQ_0000728201-mRNA-1

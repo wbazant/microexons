@@ -1,5 +1,6 @@
 nDi.2.2.scaf00040	WormBase_imported	gene	67957	69448	.	-	.	ID=gene:nDi.2.2.2.g02900;Name=nDi.2.2.2.g02900;biotype=protein_coding
 nDi.2.2.scaf00040	WormBase_imported	mRNA	67957	69448	.	-	.	ID=transcript:nDi.2.2.2.t02900;Parent=gene:nDi.2.2.2.g02900;Name=nDi.2.2.2.t02900
+#microexons transcript:nDi.2.2.2.t02900:  21-27-9 44 78 25
 nDi.2.2.scaf00040	WormBase_imported	exon	69428	69448	.	-	.	ID=exon:nDi.2.2.2.t02900.1;Parent=transcript:nDi.2.2.2.t02900
 nDi.2.2.scaf00040	WormBase_imported	exon	69146	69172	.	-	.	ID=exon:nDi.2.2.2.t02900.2;Parent=transcript:nDi.2.2.2.t02900
 nDi.2.2.scaf00040	WormBase_imported	exon	69031	69039	.	-	.	ID=exon:nDi.2.2.2.t02900.3;Parent=transcript:nDi.2.2.2.t02900
