@@ -17,35 +17,6 @@ scaffold3s	WormBase_imported	CDS	126711	126731	.	+	0	ID=cds:T07_9110.1;Parent=tr
 scaffold3s	WormBase_imported	CDS	126758	126763	.	+	0	ID=cds:T07_9110.1;Parent=transcript:T07_9110.1
 scaffold3s	WormBase_imported	CDS	127096	127114	.	+	0	ID=cds:T07_9110.1;Parent=transcript:T07_9110.1
 scaffold3s	WormBase_imported	CDS	127177	127232	.	+	2	ID=cds:T07_9110.1;Parent=transcript:T07_9110.1
-scaffold6s	WormBase_imported	gene	119680	122560	.	+	.	ID=gene:T07_3489;Name=T07_3489;biotype=protein_coding;description=Enteropeptidase;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0V0SJ54;locus=TMPRSS15
-scaffold6s	WormBase_imported	mRNA	119680	122560	.	+	.	ID=transcript:T07_3489.1;Parent=gene:T07_3489;Name=T07_3489.1;info=method:InterPro accession:IPR001254 description:Serine proteases%2C trypsin domain %0Amethod:InterPro accession:IPR009003 description:Peptidase S1%2C PA clan
-#microexons transcript:T07_3489.1:  48 9 182 391 120 18
-scaffold6s	WormBase_imported	mRNA	119817	122560	.	+	.	ID=transcript:T07_3489.2;Parent=gene:T07_3489;Name=T07_3489.2;info=method:InterPro accession:IPR001254 description:Serine proteases%2C trypsin domain %0Amethod:InterPro accession:IPR009003 description:Peptidase S1%2C PA clan
-#microexons transcript:T07_3489.2:  9-9 182 391 120 18
-scaffold6s	WormBase_imported	exon	119680	119727	.	+	.	ID=exon:T07_3489.1.1;Parent=transcript:T07_3489.1
-scaffold6s	WormBase_imported	exon	119867	119875	.	+	.	ID=exon:T07_3489.1.2;Parent=transcript:T07_3489.1
-scaffold6s	WormBase_imported	exon	120025	120206	.	+	.	ID=exon:T07_3489.1.3;Parent=transcript:T07_3489.1
-scaffold6s	WormBase_imported	exon	120290	120680	.	+	.	ID=exon:T07_3489.1.4;Parent=transcript:T07_3489.1
-scaffold6s	WormBase_imported	exon	121207	121326	.	+	.	ID=exon:T07_3489.1.5;Parent=transcript:T07_3489.1
-scaffold6s	WormBase_imported	exon	122543	122560	.	+	.	ID=exon:T07_3489.1.6;Parent=transcript:T07_3489.1
-scaffold6s	WormBase_imported	exon	119817	119825	.	+	.	ID=exon:T07_3489.2.1;Parent=transcript:T07_3489.2
-scaffold6s	WormBase_imported	exon	119867	119875	.	+	.	ID=exon:T07_3489.2.2;Parent=transcript:T07_3489.2
-scaffold6s	WormBase_imported	exon	120025	120206	.	+	.	ID=exon:T07_3489.2.3;Parent=transcript:T07_3489.2
-scaffold6s	WormBase_imported	exon	120290	120680	.	+	.	ID=exon:T07_3489.2.4;Parent=transcript:T07_3489.2
-scaffold6s	WormBase_imported	exon	121207	121326	.	+	.	ID=exon:T07_3489.2.5;Parent=transcript:T07_3489.2
-scaffold6s	WormBase_imported	exon	122543	122560	.	+	.	ID=exon:T07_3489.2.6;Parent=transcript:T07_3489.2
-scaffold6s	WormBase_imported	CDS	119680	119727	.	+	0	ID=cds:T07_3489.1;Parent=transcript:T07_3489.1
-scaffold6s	WormBase_imported	CDS	119867	119875	.	+	0	ID=cds:T07_3489.1;Parent=transcript:T07_3489.1
-scaffold6s	WormBase_imported	CDS	120025	120206	.	+	0	ID=cds:T07_3489.1;Parent=transcript:T07_3489.1
-scaffold6s	WormBase_imported	CDS	120290	120680	.	+	1	ID=cds:T07_3489.1;Parent=transcript:T07_3489.1
-scaffold6s	WormBase_imported	CDS	121207	121326	.	+	0	ID=cds:T07_3489.1;Parent=transcript:T07_3489.1
-scaffold6s	WormBase_imported	CDS	122543	122560	.	+	0	ID=cds:T07_3489.1;Parent=transcript:T07_3489.1
-scaffold6s	WormBase_imported	CDS	119817	119825	.	+	0	ID=cds:T07_3489.2;Parent=transcript:T07_3489.2
-scaffold6s	WormBase_imported	CDS	119867	119875	.	+	0	ID=cds:T07_3489.2;Parent=transcript:T07_3489.2
-scaffold6s	WormBase_imported	CDS	120025	120206	.	+	0	ID=cds:T07_3489.2;Parent=transcript:T07_3489.2
-scaffold6s	WormBase_imported	CDS	120290	120680	.	+	1	ID=cds:T07_3489.2;Parent=transcript:T07_3489.2
-scaffold6s	WormBase_imported	CDS	121207	121326	.	+	0	ID=cds:T07_3489.2;Parent=transcript:T07_3489.2
-scaffold6s	WormBase_imported	CDS	122543	122560	.	+	0	ID=cds:T07_3489.2;Parent=transcript:T07_3489.2
 scaffold9s	WormBase_imported	gene	175986	177591	.	+	.	ID=gene:T07_6278;Name=T07_6278;biotype=protein_coding
 scaffold9s	WormBase_imported	mRNA	175986	177591	.	+	.	ID=transcript:T07_6278.1;Parent=gene:T07_6278;Name=T07_6278.1
 #microexons transcript:T07_6278.1:  5 171 169 30-15-18

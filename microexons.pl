@@ -21,7 +21,7 @@ process_gene(@buffer) if @buffer;
 
 sub process_gene {
   my @lines = @_;
-  return unless is_microexon_structure(grep {$_->[2] eq "exon"} @lines);
+  return unless any_transcript_has_microexon_structure(grep {$_->[2] eq "exon"} @lines);
   for my $line (@lines) {
      my @F = @$line;
      print join ("\t", @F);
@@ -43,7 +43,17 @@ sub is_microexon_length {
   my ($length) = @_;
   return $length <= 30 && $length % 3 ==0 ? 1 : 0;
 }
-sub is_microexon_structure {
+sub any_transcript_has_microexon_structure {
+  my @exons = @_;
+  my %exons_by_parent;
+  for my $exon (@exons){
+    my ($parent) = $exon->[8] =~ /Parent=([^;]*)/;
+    push @{$exons_by_parent{$parent}}, $exon;
+  }
+  return grep {is_microexon_structure(@$_)} values %exons_by_parent;
+}
+
+sub is_microexon_structure {  
   my @scores = map {looks_like_microexon(@$_)} @_;
   return scalar @_ >= 5 && largest_running_total(@scores) >=3;
 }

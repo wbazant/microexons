@@ -523,63 +523,6 @@ scaffold_292	WormBase_imported	CDS	13419	13466	.	-	2	ID=cds:Hetgly.G000024249.3;
 scaffold_292	WormBase_imported	CDS	12992	13024	.	-	2	ID=cds:Hetgly.G000024249.3;Parent=transcript:Hetgly.G000024249.3
 scaffold_292	WormBase_imported	CDS	12670	12693	.	-	2	ID=cds:Hetgly.G000024249.3;Parent=transcript:Hetgly.G000024249.3
 scaffold_292	WormBase_imported	CDS	11920	12218	.	-	2	ID=cds:Hetgly.G000024249.3;Parent=transcript:Hetgly.G000024249.3
-scaffold_307	WormBase_imported	gene	21623	26710	.	+	.	ID=gene:Hetgly.G000019793;Name=Hetgly.G000019793;biotype=protein_coding
-scaffold_307	WormBase_imported	mRNA	21623	26660	.	+	.	ID=transcript:Hetgly.G000019793.1;Parent=gene:Hetgly.G000019793;Name=Hetgly.G000019793.1;info=method:InterPro accession:IPR033060 description:Integrator complex subunit 7
-#microexons transcript:Hetgly.G000019793.1:  9-27 128 226 61 116 234 74 67 32 49 249 27
-scaffold_307	WormBase_imported	mRNA	21623	26710	.	+	.	ID=transcript:Hetgly.G000019793.2;Parent=gene:Hetgly.G000019793;Name=Hetgly.G000019793.2;info=method:InterPro accession:IPR033060 description:Integrator complex subunit 7
-#microexons transcript:Hetgly.G000019793.2:  9-27 128 226 61 116 234 74 67 32 49 289 77
-scaffold_307	WormBase_imported	exon	21623	21631	.	+	.	ID=exon:Hetgly.G000019793.1.1;Parent=transcript:Hetgly.G000019793.1
-scaffold_307	WormBase_imported	exon	21682	21708	.	+	.	ID=exon:Hetgly.G000019793.1.2;Parent=transcript:Hetgly.G000019793.1
-scaffold_307	WormBase_imported	exon	21839	21966	.	+	.	ID=exon:Hetgly.G000019793.1.3;Parent=transcript:Hetgly.G000019793.1
-scaffold_307	WormBase_imported	exon	22155	22380	.	+	.	ID=exon:Hetgly.G000019793.1.4;Parent=transcript:Hetgly.G000019793.1
-scaffold_307	WormBase_imported	exon	24968	25028	.	+	.	ID=exon:Hetgly.G000019793.1.5;Parent=transcript:Hetgly.G000019793.1
-scaffold_307	WormBase_imported	exon	25099	25214	.	+	.	ID=exon:Hetgly.G000019793.1.6;Parent=transcript:Hetgly.G000019793.1
-scaffold_307	WormBase_imported	exon	25263	25496	.	+	.	ID=exon:Hetgly.G000019793.1.7;Parent=transcript:Hetgly.G000019793.1
-scaffold_307	WormBase_imported	exon	25570	25643	.	+	.	ID=exon:Hetgly.G000019793.1.8;Parent=transcript:Hetgly.G000019793.1
-scaffold_307	WormBase_imported	exon	25699	25765	.	+	.	ID=exon:Hetgly.G000019793.1.9;Parent=transcript:Hetgly.G000019793.1
-scaffold_307	WormBase_imported	exon	25858	25889	.	+	.	ID=exon:Hetgly.G000019793.1.10;Parent=transcript:Hetgly.G000019793.1
-scaffold_307	WormBase_imported	exon	26072	26120	.	+	.	ID=exon:Hetgly.G000019793.1.11;Parent=transcript:Hetgly.G000019793.1
-scaffold_307	WormBase_imported	exon	26287	26535	.	+	.	ID=exon:Hetgly.G000019793.1.12;Parent=transcript:Hetgly.G000019793.1
-scaffold_307	WormBase_imported	exon	26634	26660	.	+	.	ID=exon:Hetgly.G000019793.1.13;Parent=transcript:Hetgly.G000019793.1
-scaffold_307	WormBase_imported	exon	21623	21631	.	+	.	ID=exon:Hetgly.G000019793.2.1;Parent=transcript:Hetgly.G000019793.2
-scaffold_307	WormBase_imported	exon	21682	21708	.	+	.	ID=exon:Hetgly.G000019793.2.2;Parent=transcript:Hetgly.G000019793.2
-scaffold_307	WormBase_imported	exon	21839	21966	.	+	.	ID=exon:Hetgly.G000019793.2.3;Parent=transcript:Hetgly.G000019793.2
-scaffold_307	WormBase_imported	exon	22155	22380	.	+	.	ID=exon:Hetgly.G000019793.2.4;Parent=transcript:Hetgly.G000019793.2
-scaffold_307	WormBase_imported	exon	24968	25028	.	+	.	ID=exon:Hetgly.G000019793.2.5;Parent=transcript:Hetgly.G000019793.2
-scaffold_307	WormBase_imported	exon	25099	25214	.	+	.	ID=exon:Hetgly.G000019793.2.6;Parent=transcript:Hetgly.G000019793.2
-scaffold_307	WormBase_imported	exon	25263	25496	.	+	.	ID=exon:Hetgly.G000019793.2.7;Parent=transcript:Hetgly.G000019793.2
-scaffold_307	WormBase_imported	exon	25570	25643	.	+	.	ID=exon:Hetgly.G000019793.2.8;Parent=transcript:Hetgly.G000019793.2
-scaffold_307	WormBase_imported	exon	25699	25765	.	+	.	ID=exon:Hetgly.G000019793.2.9;Parent=transcript:Hetgly.G000019793.2
-scaffold_307	WormBase_imported	exon	25858	25889	.	+	.	ID=exon:Hetgly.G000019793.2.10;Parent=transcript:Hetgly.G000019793.2
-scaffold_307	WormBase_imported	exon	26072	26120	.	+	.	ID=exon:Hetgly.G000019793.2.11;Parent=transcript:Hetgly.G000019793.2
-scaffold_307	WormBase_imported	exon	26287	26575	.	+	.	ID=exon:Hetgly.G000019793.2.12;Parent=transcript:Hetgly.G000019793.2
-scaffold_307	WormBase_imported	exon	26634	26710	.	+	.	ID=exon:Hetgly.G000019793.2.13;Parent=transcript:Hetgly.G000019793.2
-scaffold_307	WormBase_imported	CDS	21623	21631	.	+	0	ID=cds:Hetgly.G000019793.1;Parent=transcript:Hetgly.G000019793.1
-scaffold_307	WormBase_imported	CDS	21682	21708	.	+	0	ID=cds:Hetgly.G000019793.1;Parent=transcript:Hetgly.G000019793.1
-scaffold_307	WormBase_imported	CDS	21839	21966	.	+	0	ID=cds:Hetgly.G000019793.1;Parent=transcript:Hetgly.G000019793.1
-scaffold_307	WormBase_imported	CDS	22155	22380	.	+	1	ID=cds:Hetgly.G000019793.1;Parent=transcript:Hetgly.G000019793.1
-scaffold_307	WormBase_imported	CDS	24968	25028	.	+	0	ID=cds:Hetgly.G000019793.1;Parent=transcript:Hetgly.G000019793.1
-scaffold_307	WormBase_imported	CDS	25099	25214	.	+	2	ID=cds:Hetgly.G000019793.1;Parent=transcript:Hetgly.G000019793.1
-scaffold_307	WormBase_imported	CDS	25263	25496	.	+	0	ID=cds:Hetgly.G000019793.1;Parent=transcript:Hetgly.G000019793.1
-scaffold_307	WormBase_imported	CDS	25570	25643	.	+	0	ID=cds:Hetgly.G000019793.1;Parent=transcript:Hetgly.G000019793.1
-scaffold_307	WormBase_imported	CDS	25699	25765	.	+	1	ID=cds:Hetgly.G000019793.1;Parent=transcript:Hetgly.G000019793.1
-scaffold_307	WormBase_imported	CDS	25858	25889	.	+	0	ID=cds:Hetgly.G000019793.1;Parent=transcript:Hetgly.G000019793.1
-scaffold_307	WormBase_imported	CDS	26072	26120	.	+	1	ID=cds:Hetgly.G000019793.1;Parent=transcript:Hetgly.G000019793.1
-scaffold_307	WormBase_imported	CDS	26287	26535	.	+	0	ID=cds:Hetgly.G000019793.1;Parent=transcript:Hetgly.G000019793.1
-scaffold_307	WormBase_imported	CDS	26634	26660	.	+	0	ID=cds:Hetgly.G000019793.1;Parent=transcript:Hetgly.G000019793.1
-scaffold_307	WormBase_imported	CDS	21623	21631	.	+	0	ID=cds:Hetgly.G000019793.2;Parent=transcript:Hetgly.G000019793.2
-scaffold_307	WormBase_imported	CDS	21682	21708	.	+	0	ID=cds:Hetgly.G000019793.2;Parent=transcript:Hetgly.G000019793.2
-scaffold_307	WormBase_imported	CDS	21839	21966	.	+	0	ID=cds:Hetgly.G000019793.2;Parent=transcript:Hetgly.G000019793.2
-scaffold_307	WormBase_imported	CDS	22155	22380	.	+	1	ID=cds:Hetgly.G000019793.2;Parent=transcript:Hetgly.G000019793.2
-scaffold_307	WormBase_imported	CDS	24968	25028	.	+	0	ID=cds:Hetgly.G000019793.2;Parent=transcript:Hetgly.G000019793.2
-scaffold_307	WormBase_imported	CDS	25099	25214	.	+	2	ID=cds:Hetgly.G000019793.2;Parent=transcript:Hetgly.G000019793.2
-scaffold_307	WormBase_imported	CDS	25263	25496	.	+	0	ID=cds:Hetgly.G000019793.2;Parent=transcript:Hetgly.G000019793.2
-scaffold_307	WormBase_imported	CDS	25570	25643	.	+	0	ID=cds:Hetgly.G000019793.2;Parent=transcript:Hetgly.G000019793.2
-scaffold_307	WormBase_imported	CDS	25699	25765	.	+	1	ID=cds:Hetgly.G000019793.2;Parent=transcript:Hetgly.G000019793.2
-scaffold_307	WormBase_imported	CDS	25858	25889	.	+	0	ID=cds:Hetgly.G000019793.2;Parent=transcript:Hetgly.G000019793.2
-scaffold_307	WormBase_imported	CDS	26072	26120	.	+	1	ID=cds:Hetgly.G000019793.2;Parent=transcript:Hetgly.G000019793.2
-scaffold_307	WormBase_imported	CDS	26287	26575	.	+	0	ID=cds:Hetgly.G000019793.2;Parent=transcript:Hetgly.G000019793.2
-scaffold_307	WormBase_imported	CDS	26634	26710	.	+	2	ID=cds:Hetgly.G000019793.2;Parent=transcript:Hetgly.G000019793.2
 scaffold_682	WormBase_imported	gene	8608	11211	.	+	.	ID=gene:Hetgly.G000028940;Name=Hetgly.G000028940;biotype=protein_coding
 scaffold_682	WormBase_imported	mRNA	8608	11211	.	+	.	ID=transcript:Hetgly.G000028940;Parent=gene:Hetgly.G000028940;Name=Hetgly.G000028940
 #microexons transcript:Hetgly.G000028940:  26 206 27-27-27-27 50 204
