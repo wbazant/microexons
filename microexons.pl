@@ -30,7 +30,7 @@ sub process_gene {
        print "#microexons $id: ";
        my $is_ml_previous = 0;
        for my $length (map {$_->[4] - $_->[3] +1} grep {$_->[2] eq "exon" && $_->[8] =~ /Parent=$id/} @lines){
-          my $is_ml = is_microexon_length ($length);
+          my $is_ml =  $length % 3 ==0;
           print $is_ml && $is_ml_previous ?"-":" ";
           print $length;
           $is_ml_previous = $is_ml;
@@ -39,10 +39,7 @@ sub process_gene {
      }
   }
 }
-sub is_microexon_length {
-  my ($length) = @_;
-  return $length <= 30 && $length % 3 ==0 ? 1 : 0;
-}
+
 sub any_transcript_has_microexon_structure {
   my @exons = @_;
   my %exons_by_parent;
@@ -54,32 +51,42 @@ sub any_transcript_has_microexon_structure {
 }
 
 sub is_microexon_structure {  
-  my @scores = map {looks_like_microexon(@$_)} @_;
-  return scalar @_ >= 5 && largest_running_total(@scores) >=3;
+  my @lengths = map {$_->[4] - $_->[3] + 1} @_;
+  my @largest_running_series = largest_running_series(map {$_ % 3 ==0 ? $_ : 0} @lengths);
+  my $largest_running_series_length = scalar @largest_running_series;
+  my $largest_running_series_sum;
+  $largest_running_series_sum += $_ for @largest_running_series;
+  my $largest_running_series_average = $largest_running_series_length > 0 ? $largest_running_series_sum / $largest_running_series_length: 0;
+  my $all_exons = scalar @_;
+  my $largest_running_series_total_under_sixty = grep {$_ && $_ < 60 } @largest_running_series;
+  return $all_exons >= 7 
+    && $largest_running_series_length >= 3 
+    && $largest_running_series_length * 2 >= ($all_exons - 2) 
+    && $largest_running_series_total_under_sixty > 0.8 * $largest_running_series_length;
 }
 
 sub looks_like_microexon {
   my $length = $_[4] - $_[3] + 1;
-  my $result = is_microexon_length($length);
+  my $result = $length % 3 ==0;
   print STDERR "looks_like_microexon: $result .".join("\t", @_)
    if $ENV{MICROEXONS_VERBOSE};
   return $result;
 }
 
-sub largest_running_total {
+sub largest_running_series {
   my @scores = @_;
-  my $max_total = 0;
-  my $current_total = 0;
+  my @max_total;
+  my @current_total;
   for my $s (@scores){
     if($s){
-      $current_total +=$s;
+      push @current_total , $s;
     } else {
-      $max_total = $current_total if $max_total < $current_total;
-      $current_total = 0 ; 
+      @max_total = @current_total if @max_total < @current_total;
+      @current_total = (); 
     }
   }
-  $max_total = $current_total if $max_total < $current_total;
-  print STDERR "largest_running_total: $max_total" . join (",", @scores). "\n"
+  @max_total = @current_total if @max_total < @current_total;
+  print STDERR "largest_running_series: " . scalar @max_total . " " . join (",", @scores). "\n"
    if $ENV{MICROEXONS_VERBOSE};
-  return $max_total;
+  return @max_total;
 }

@@ -1,6 +1,29 @@
+Sp34_Chr5	WormBase_imported	gene	18235160	18236378	.	+	.	ID=gene:Sp34_50344000;Name=Sp34_50344000;biotype=protein_coding
+Sp34_Chr5	WormBase_imported	mRNA	18235160	18236378	.	+	.	ID=transcript:Sp34_50344000.t1;Parent=gene:Sp34_50344000;Name=Sp34_50344000.t1
+#microexons transcript:Sp34_50344000.t1:  208 45-45-42-45-27-45-45-45 74
+Sp34_Chr5	WormBase_imported	exon	18235160	18235367	.	+	.	ID=exon:Sp34_50344000.t1.1;Parent=transcript:Sp34_50344000.t1
+Sp34_Chr5	WormBase_imported	exon	18235410	18235454	.	+	.	ID=exon:Sp34_50344000.t1.2;Parent=transcript:Sp34_50344000.t1
+Sp34_Chr5	WormBase_imported	exon	18235501	18235545	.	+	.	ID=exon:Sp34_50344000.t1.3;Parent=transcript:Sp34_50344000.t1
+Sp34_Chr5	WormBase_imported	exon	18235681	18235722	.	+	.	ID=exon:Sp34_50344000.t1.4;Parent=transcript:Sp34_50344000.t1
+Sp34_Chr5	WormBase_imported	exon	18235769	18235813	.	+	.	ID=exon:Sp34_50344000.t1.5;Parent=transcript:Sp34_50344000.t1
+Sp34_Chr5	WormBase_imported	exon	18235860	18235886	.	+	.	ID=exon:Sp34_50344000.t1.6;Parent=transcript:Sp34_50344000.t1
+Sp34_Chr5	WormBase_imported	exon	18235941	18235985	.	+	.	ID=exon:Sp34_50344000.t1.7;Parent=transcript:Sp34_50344000.t1
+Sp34_Chr5	WormBase_imported	exon	18236032	18236076	.	+	.	ID=exon:Sp34_50344000.t1.8;Parent=transcript:Sp34_50344000.t1
+Sp34_Chr5	WormBase_imported	exon	18236123	18236167	.	+	.	ID=exon:Sp34_50344000.t1.9;Parent=transcript:Sp34_50344000.t1
+Sp34_Chr5	WormBase_imported	exon	18236305	18236378	.	+	.	ID=exon:Sp34_50344000.t1.10;Parent=transcript:Sp34_50344000.t1
+Sp34_Chr5	WormBase_imported	CDS	18235160	18235367	.	+	0	ID=cds:Sp34_50344000.t1;Parent=transcript:Sp34_50344000.t1
+Sp34_Chr5	WormBase_imported	CDS	18235410	18235454	.	+	2	ID=cds:Sp34_50344000.t1;Parent=transcript:Sp34_50344000.t1
+Sp34_Chr5	WormBase_imported	CDS	18235501	18235545	.	+	2	ID=cds:Sp34_50344000.t1;Parent=transcript:Sp34_50344000.t1
+Sp34_Chr5	WormBase_imported	CDS	18235681	18235722	.	+	2	ID=cds:Sp34_50344000.t1;Parent=transcript:Sp34_50344000.t1
+Sp34_Chr5	WormBase_imported	CDS	18235769	18235813	.	+	2	ID=cds:Sp34_50344000.t1;Parent=transcript:Sp34_50344000.t1
+Sp34_Chr5	WormBase_imported	CDS	18235860	18235886	.	+	2	ID=cds:Sp34_50344000.t1;Parent=transcript:Sp34_50344000.t1
+Sp34_Chr5	WormBase_imported	CDS	18235941	18235985	.	+	2	ID=cds:Sp34_50344000.t1;Parent=transcript:Sp34_50344000.t1
+Sp34_Chr5	WormBase_imported	CDS	18236032	18236076	.	+	2	ID=cds:Sp34_50344000.t1;Parent=transcript:Sp34_50344000.t1
+Sp34_Chr5	WormBase_imported	CDS	18236123	18236167	.	+	2	ID=cds:Sp34_50344000.t1;Parent=transcript:Sp34_50344000.t1
+Sp34_Chr5	WormBase_imported	CDS	18236305	18236378	.	+	2	ID=cds:Sp34_50344000.t1;Parent=transcript:Sp34_50344000.t1
 Sp34_Chr5	WormBase_imported	gene	21308730	21317417	.	-	.	ID=gene:Sp34_50395600;Name=Sp34_50395600;biotype=protein_coding
 Sp34_Chr5	WormBase_imported	mRNA	21308730	21317417	.	-	.	ID=transcript:Sp34_50395600.t1;Parent=gene:Sp34_50395600;Name=Sp34_50395600.t1;info=method:InterPro accession:IPR005044 description:Protein of unknown function DUF282%2C Caenorhabditis species
-#microexons transcript:Sp34_50395600.t1:  70 30-30-30-30-30-30 276 27 157 136 71 34
+#microexons transcript:Sp34_50395600.t1:  70 30-30-30-30-30-30-276-27 157 136 71 34
 Sp34_Chr5	WormBase_imported	exon	21317348	21317417	.	-	.	ID=exon:Sp34_50395600.t1.1;Parent=transcript:Sp34_50395600.t1
 Sp34_Chr5	WormBase_imported	exon	21317220	21317249	.	-	.	ID=exon:Sp34_50395600.t1.2;Parent=transcript:Sp34_50395600.t1
 Sp34_Chr5	WormBase_imported	exon	21317108	21317137	.	-	.	ID=exon:Sp34_50395600.t1.3;Parent=transcript:Sp34_50395600.t1
@@ -54,7 +77,7 @@ Sp34_Chr5	WormBase_imported	CDS	21322260	21322416	.	-	2	ID=cds:Sp34_50395800.t1;
 Sp34_Chr5	WormBase_imported	CDS	21321971	21322166	.	-	1	ID=cds:Sp34_50395800.t1;Parent=transcript:Sp34_50395800.t1
 Sp34_Chr5	WormBase_imported	gene	21364888	21370329	.	-	.	ID=gene:Sp34_50396800;Name=Sp34_50396800;biotype=protein_coding
 Sp34_Chr5	WormBase_imported	mRNA	21364888	21370329	.	-	.	ID=transcript:Sp34_50396800.t1;Parent=gene:Sp34_50396800;Name=Sp34_50396800.t1;info=method:InterPro accession:IPR001304 description:C-type lectin-like %0Amethod:InterPro accession:IPR016186 description:C-type lectin-like/link domain superfamily %0Amethod:InterPro accession:IPR016187 description:C-type lectin fold
-#microexons transcript:Sp34_50396800.t1:  94 30-30-30-30-30 204 272
+#microexons transcript:Sp34_50396800.t1:  94 30-30-30-30-30-204 272
 Sp34_Chr5	WormBase_imported	exon	21370236	21370329	.	-	.	ID=exon:Sp34_50396800.t1.1;Parent=transcript:Sp34_50396800.t1
 Sp34_Chr5	WormBase_imported	exon	21369973	21370002	.	-	.	ID=exon:Sp34_50396800.t1.2;Parent=transcript:Sp34_50396800.t1
 Sp34_Chr5	WormBase_imported	exon	21369710	21369739	.	-	.	ID=exon:Sp34_50396800.t1.3;Parent=transcript:Sp34_50396800.t1
@@ -73,7 +96,7 @@ Sp34_Chr5	WormBase_imported	CDS	21365829	21366032	.	-	2	ID=cds:Sp34_50396800.t1;
 Sp34_Chr5	WormBase_imported	CDS	21364888	21365159	.	-	2	ID=cds:Sp34_50396800.t1;Parent=transcript:Sp34_50396800.t1
 Sp34_Chr5	WormBase_imported	gene	21376449	21380855	.	+	.	ID=gene:Sp34_50397000;Name=Sp34_50397000;biotype=protein_coding
 Sp34_Chr5	WormBase_imported	mRNA	21376449	21380855	.	+	.	ID=transcript:Sp34_50397000.t1;Parent=gene:Sp34_50397000;Name=Sp34_50397000.t1;info=method:InterPro accession:IPR001304 description:C-type lectin-like %0Amethod:InterPro accession:IPR016186 description:C-type lectin-like/link domain superfamily %0Amethod:InterPro accession:IPR016187 description:C-type lectin fold
-#microexons transcript:Sp34_50397000.t1:  76 30-30-30-30-30-30-30 204 272
+#microexons transcript:Sp34_50397000.t1:  76 30-30-30-30-30-30-30-204 272
 Sp34_Chr5	WormBase_imported	exon	21376449	21376524	.	+	.	ID=exon:Sp34_50397000.t1.1;Parent=transcript:Sp34_50397000.t1
 Sp34_Chr5	WormBase_imported	exon	21377243	21377272	.	+	.	ID=exon:Sp34_50397000.t1.2;Parent=transcript:Sp34_50397000.t1
 Sp34_Chr5	WormBase_imported	exon	21377486	21377515	.	+	.	ID=exon:Sp34_50397000.t1.3;Parent=transcript:Sp34_50397000.t1
@@ -94,6 +117,50 @@ Sp34_Chr5	WormBase_imported	CDS	21378720	21378749	.	+	2	ID=cds:Sp34_50397000.t1;
 Sp34_Chr5	WormBase_imported	CDS	21379041	21379070	.	+	2	ID=cds:Sp34_50397000.t1;Parent=transcript:Sp34_50397000.t1
 Sp34_Chr5	WormBase_imported	CDS	21380022	21380225	.	+	2	ID=cds:Sp34_50397000.t1;Parent=transcript:Sp34_50397000.t1
 Sp34_Chr5	WormBase_imported	CDS	21380584	21380855	.	+	2	ID=cds:Sp34_50397000.t1;Parent=transcript:Sp34_50397000.t1
+Sp34_Chr1	WormBase_imported	gene	792907	795277	.	+	.	ID=gene:Sp34_10016000;Name=Sp34_10016000;biotype=protein_coding
+Sp34_Chr1	WormBase_imported	mRNA	792907	795277	.	+	.	ID=transcript:Sp34_10016000.t1;Parent=gene:Sp34_10016000;Name=Sp34_10016000.t1
+#microexons transcript:Sp34_10016000.t1:  39-21-48 65 86 80 21
+Sp34_Chr1	WormBase_imported	exon	792907	792945	.	+	.	ID=exon:Sp34_10016000.t1.1;Parent=transcript:Sp34_10016000.t1
+Sp34_Chr1	WormBase_imported	exon	793451	793471	.	+	.	ID=exon:Sp34_10016000.t1.2;Parent=transcript:Sp34_10016000.t1
+Sp34_Chr1	WormBase_imported	exon	794229	794276	.	+	.	ID=exon:Sp34_10016000.t1.3;Parent=transcript:Sp34_10016000.t1
+Sp34_Chr1	WormBase_imported	exon	794328	794392	.	+	.	ID=exon:Sp34_10016000.t1.4;Parent=transcript:Sp34_10016000.t1
+Sp34_Chr1	WormBase_imported	exon	794524	794609	.	+	.	ID=exon:Sp34_10016000.t1.5;Parent=transcript:Sp34_10016000.t1
+Sp34_Chr1	WormBase_imported	exon	794884	794963	.	+	.	ID=exon:Sp34_10016000.t1.6;Parent=transcript:Sp34_10016000.t1
+Sp34_Chr1	WormBase_imported	exon	795257	795277	.	+	.	ID=exon:Sp34_10016000.t1.7;Parent=transcript:Sp34_10016000.t1
+Sp34_Chr1	WormBase_imported	CDS	792907	792945	.	+	0	ID=cds:Sp34_10016000.t1;Parent=transcript:Sp34_10016000.t1
+Sp34_Chr1	WormBase_imported	CDS	793451	793471	.	+	0	ID=cds:Sp34_10016000.t1;Parent=transcript:Sp34_10016000.t1
+Sp34_Chr1	WormBase_imported	CDS	794229	794276	.	+	0	ID=cds:Sp34_10016000.t1;Parent=transcript:Sp34_10016000.t1
+Sp34_Chr1	WormBase_imported	CDS	794328	794392	.	+	0	ID=cds:Sp34_10016000.t1;Parent=transcript:Sp34_10016000.t1
+Sp34_Chr1	WormBase_imported	CDS	794524	794609	.	+	1	ID=cds:Sp34_10016000.t1;Parent=transcript:Sp34_10016000.t1
+Sp34_Chr1	WormBase_imported	CDS	794884	794963	.	+	2	ID=cds:Sp34_10016000.t1;Parent=transcript:Sp34_10016000.t1
+Sp34_Chr1	WormBase_imported	CDS	795257	795277	.	+	0	ID=cds:Sp34_10016000.t1;Parent=transcript:Sp34_10016000.t1
+Sp34_Chr1	WormBase_imported	gene	5946104	5952411	.	-	.	ID=gene:Sp34_10101800;Name=Sp34_10101800;biotype=protein_coding
+Sp34_Chr1	WormBase_imported	mRNA	5946104	5952411	.	-	.	ID=transcript:Sp34_10101800.t1;Parent=gene:Sp34_10101800;Name=Sp34_10101800.t1
+#microexons transcript:Sp34_10101800.t1:  325 108 91 247 88 12 92 57-42-30-36-54
+Sp34_Chr1	WormBase_imported	exon	5952087	5952411	.	-	.	ID=exon:Sp34_10101800.t1.1;Parent=transcript:Sp34_10101800.t1
+Sp34_Chr1	WormBase_imported	exon	5951599	5951706	.	-	.	ID=exon:Sp34_10101800.t1.2;Parent=transcript:Sp34_10101800.t1
+Sp34_Chr1	WormBase_imported	exon	5951132	5951222	.	-	.	ID=exon:Sp34_10101800.t1.3;Parent=transcript:Sp34_10101800.t1
+Sp34_Chr1	WormBase_imported	exon	5950751	5950997	.	-	.	ID=exon:Sp34_10101800.t1.4;Parent=transcript:Sp34_10101800.t1
+Sp34_Chr1	WormBase_imported	exon	5949511	5949598	.	-	.	ID=exon:Sp34_10101800.t1.5;Parent=transcript:Sp34_10101800.t1
+Sp34_Chr1	WormBase_imported	exon	5948474	5948485	.	-	.	ID=exon:Sp34_10101800.t1.6;Parent=transcript:Sp34_10101800.t1
+Sp34_Chr1	WormBase_imported	exon	5948319	5948410	.	-	.	ID=exon:Sp34_10101800.t1.7;Parent=transcript:Sp34_10101800.t1
+Sp34_Chr1	WormBase_imported	exon	5946570	5946626	.	-	.	ID=exon:Sp34_10101800.t1.8;Parent=transcript:Sp34_10101800.t1
+Sp34_Chr1	WormBase_imported	exon	5946472	5946513	.	-	.	ID=exon:Sp34_10101800.t1.9;Parent=transcript:Sp34_10101800.t1
+Sp34_Chr1	WormBase_imported	exon	5946364	5946393	.	-	.	ID=exon:Sp34_10101800.t1.10;Parent=transcript:Sp34_10101800.t1
+Sp34_Chr1	WormBase_imported	exon	5946208	5946243	.	-	.	ID=exon:Sp34_10101800.t1.11;Parent=transcript:Sp34_10101800.t1
+Sp34_Chr1	WormBase_imported	exon	5946104	5946157	.	-	.	ID=exon:Sp34_10101800.t1.12;Parent=transcript:Sp34_10101800.t1
+Sp34_Chr1	WormBase_imported	CDS	5952087	5952411	.	-	0	ID=cds:Sp34_10101800.t1;Parent=transcript:Sp34_10101800.t1
+Sp34_Chr1	WormBase_imported	CDS	5951599	5951706	.	-	2	ID=cds:Sp34_10101800.t1;Parent=transcript:Sp34_10101800.t1
+Sp34_Chr1	WormBase_imported	CDS	5951132	5951222	.	-	2	ID=cds:Sp34_10101800.t1;Parent=transcript:Sp34_10101800.t1
+Sp34_Chr1	WormBase_imported	CDS	5950751	5950997	.	-	1	ID=cds:Sp34_10101800.t1;Parent=transcript:Sp34_10101800.t1
+Sp34_Chr1	WormBase_imported	CDS	5949511	5949598	.	-	0	ID=cds:Sp34_10101800.t1;Parent=transcript:Sp34_10101800.t1
+Sp34_Chr1	WormBase_imported	CDS	5948474	5948485	.	-	2	ID=cds:Sp34_10101800.t1;Parent=transcript:Sp34_10101800.t1
+Sp34_Chr1	WormBase_imported	CDS	5948319	5948410	.	-	2	ID=cds:Sp34_10101800.t1;Parent=transcript:Sp34_10101800.t1
+Sp34_Chr1	WormBase_imported	CDS	5946570	5946626	.	-	0	ID=cds:Sp34_10101800.t1;Parent=transcript:Sp34_10101800.t1
+Sp34_Chr1	WormBase_imported	CDS	5946472	5946513	.	-	0	ID=cds:Sp34_10101800.t1;Parent=transcript:Sp34_10101800.t1
+Sp34_Chr1	WormBase_imported	CDS	5946364	5946393	.	-	0	ID=cds:Sp34_10101800.t1;Parent=transcript:Sp34_10101800.t1
+Sp34_Chr1	WormBase_imported	CDS	5946208	5946243	.	-	0	ID=cds:Sp34_10101800.t1;Parent=transcript:Sp34_10101800.t1
+Sp34_Chr1	WormBase_imported	CDS	5946104	5946157	.	-	0	ID=cds:Sp34_10101800.t1;Parent=transcript:Sp34_10101800.t1
 Sp34_Chr1	WormBase_imported	gene	15451134	15452405	.	+	.	ID=gene:Sp34_10267100;Name=Sp34_10267100;biotype=protein_coding
 Sp34_Chr1	WormBase_imported	mRNA	15451134	15452405	.	+	.	ID=transcript:Sp34_10267100.t1;Parent=gene:Sp34_10267100;Name=Sp34_10267100.t1
 #microexons transcript:Sp34_10267100.t1:  3-12-15 64 89 46 212 6
@@ -113,24 +180,41 @@ Sp34_Chr1	WormBase_imported	CDS	15451898	15451986	.	+	2	ID=cds:Sp34_10267100.t1;
 Sp34_Chr1	WormBase_imported	CDS	15452041	15452086	.	+	0	ID=cds:Sp34_10267100.t1;Parent=transcript:Sp34_10267100.t1
 Sp34_Chr1	WormBase_imported	CDS	15452132	15452343	.	+	2	ID=cds:Sp34_10267100.t1;Parent=transcript:Sp34_10267100.t1
 Sp34_Chr1	WormBase_imported	CDS	15452400	15452405	.	+	0	ID=cds:Sp34_10267100.t1;Parent=transcript:Sp34_10267100.t1
-Sp34_ChrX	WormBase_imported	gene	7028552	7038675	.	+	.	ID=gene:Sp34_X0101200;Name=Sp34_X0101200;biotype=protein_coding
-Sp34_ChrX	WormBase_imported	mRNA	7028552	7038675	.	+	.	ID=transcript:Sp34_X0101200.t1;Parent=gene:Sp34_X0101200;Name=Sp34_X0101200.t1;info=method:InterPro accession:IPR013083 description:Zinc finger%2C RING/FYVE/PHD-type %0Amethod:InterPro accession:IPR027370 description:RING-type zinc-finger%2C LisH dimerisation motif %0Amethod:InterPro accession:IPR027711 description:Rmd5 %0Amethod:InterPro accession:IPR037683 description:Rmd5%2C degenerated RING (dRING) finger
-#microexons transcript:Sp34_X0101200.t1:  370 15-12-18 464 184 223 258 136
-Sp34_ChrX	WormBase_imported	exon	7028552	7028921	.	+	.	ID=exon:Sp34_X0101200.t1.1;Parent=transcript:Sp34_X0101200.t1
-Sp34_ChrX	WormBase_imported	exon	7032710	7032724	.	+	.	ID=exon:Sp34_X0101200.t1.2;Parent=transcript:Sp34_X0101200.t1
-Sp34_ChrX	WormBase_imported	exon	7032774	7032785	.	+	.	ID=exon:Sp34_X0101200.t1.3;Parent=transcript:Sp34_X0101200.t1
-Sp34_ChrX	WormBase_imported	exon	7032836	7032853	.	+	.	ID=exon:Sp34_X0101200.t1.4;Parent=transcript:Sp34_X0101200.t1
-Sp34_ChrX	WormBase_imported	exon	7035187	7035650	.	+	.	ID=exon:Sp34_X0101200.t1.5;Parent=transcript:Sp34_X0101200.t1
-Sp34_ChrX	WormBase_imported	exon	7036234	7036417	.	+	.	ID=exon:Sp34_X0101200.t1.6;Parent=transcript:Sp34_X0101200.t1
-Sp34_ChrX	WormBase_imported	exon	7037383	7037605	.	+	.	ID=exon:Sp34_X0101200.t1.7;Parent=transcript:Sp34_X0101200.t1
-Sp34_ChrX	WormBase_imported	exon	7037663	7037920	.	+	.	ID=exon:Sp34_X0101200.t1.8;Parent=transcript:Sp34_X0101200.t1
-Sp34_ChrX	WormBase_imported	exon	7038540	7038675	.	+	.	ID=exon:Sp34_X0101200.t1.9;Parent=transcript:Sp34_X0101200.t1
-Sp34_ChrX	WormBase_imported	CDS	7028552	7028921	.	+	0	ID=cds:Sp34_X0101200.t1;Parent=transcript:Sp34_X0101200.t1
-Sp34_ChrX	WormBase_imported	CDS	7032710	7032724	.	+	2	ID=cds:Sp34_X0101200.t1;Parent=transcript:Sp34_X0101200.t1
-Sp34_ChrX	WormBase_imported	CDS	7032774	7032785	.	+	2	ID=cds:Sp34_X0101200.t1;Parent=transcript:Sp34_X0101200.t1
-Sp34_ChrX	WormBase_imported	CDS	7032836	7032853	.	+	2	ID=cds:Sp34_X0101200.t1;Parent=transcript:Sp34_X0101200.t1
-Sp34_ChrX	WormBase_imported	CDS	7035187	7035650	.	+	2	ID=cds:Sp34_X0101200.t1;Parent=transcript:Sp34_X0101200.t1
-Sp34_ChrX	WormBase_imported	CDS	7036234	7036417	.	+	0	ID=cds:Sp34_X0101200.t1;Parent=transcript:Sp34_X0101200.t1
-Sp34_ChrX	WormBase_imported	CDS	7037383	7037605	.	+	2	ID=cds:Sp34_X0101200.t1;Parent=transcript:Sp34_X0101200.t1
-Sp34_ChrX	WormBase_imported	CDS	7037663	7037920	.	+	1	ID=cds:Sp34_X0101200.t1;Parent=transcript:Sp34_X0101200.t1
-Sp34_ChrX	WormBase_imported	CDS	7038540	7038675	.	+	1	ID=cds:Sp34_X0101200.t1;Parent=transcript:Sp34_X0101200.t1
+Sp34_Chr2	WormBase_imported	gene	19031676	19034791	.	+	.	ID=gene:Sp34_20325800;Name=Sp34_20325800;biotype=protein_coding
+Sp34_Chr2	WormBase_imported	mRNA	19031676	19034791	.	+	.	ID=transcript:Sp34_20325800.t1;Parent=gene:Sp34_20325800;Name=Sp34_20325800.t1;info=method:InterPro accession:IPR001347 description:Sugar isomerase (SIS) %0Amethod:InterPro accession:IPR005855 description:Glucosamine-fructose-6-phosphate aminotransferase%2C isomerising %0Amethod:InterPro accession:IPR017932 description:Glutamine amidotransferase type 2 domain %0Amethod:InterPro accession:IPR029055 description:Nucleophile aminohydrolases%2C N-terminal %0Amethod:InterPro accession:IPR035466 description:GlmS/AgaS%2C SIS domain 1 %0Amethod:InterPro accession:IPR035490 description:GlmS/FrlB%2C SIS domain 2
+#microexons transcript:Sp34_20325800.t1:  676 39-33-54 281 843-204-45
+Sp34_Chr2	WormBase_imported	exon	19031676	19032351	.	+	.	ID=exon:Sp34_20325800.t1.1;Parent=transcript:Sp34_20325800.t1
+Sp34_Chr2	WormBase_imported	exon	19032425	19032463	.	+	.	ID=exon:Sp34_20325800.t1.2;Parent=transcript:Sp34_20325800.t1
+Sp34_Chr2	WormBase_imported	exon	19032567	19032599	.	+	.	ID=exon:Sp34_20325800.t1.3;Parent=transcript:Sp34_20325800.t1
+Sp34_Chr2	WormBase_imported	exon	19032961	19033014	.	+	.	ID=exon:Sp34_20325800.t1.4;Parent=transcript:Sp34_20325800.t1
+Sp34_Chr2	WormBase_imported	exon	19033282	19033562	.	+	.	ID=exon:Sp34_20325800.t1.5;Parent=transcript:Sp34_20325800.t1
+Sp34_Chr2	WormBase_imported	exon	19033603	19034445	.	+	.	ID=exon:Sp34_20325800.t1.6;Parent=transcript:Sp34_20325800.t1
+Sp34_Chr2	WormBase_imported	exon	19034492	19034695	.	+	.	ID=exon:Sp34_20325800.t1.7;Parent=transcript:Sp34_20325800.t1
+Sp34_Chr2	WormBase_imported	exon	19034747	19034791	.	+	.	ID=exon:Sp34_20325800.t1.8;Parent=transcript:Sp34_20325800.t1
+Sp34_Chr2	WormBase_imported	CDS	19031676	19032351	.	+	0	ID=cds:Sp34_20325800.t1;Parent=transcript:Sp34_20325800.t1
+Sp34_Chr2	WormBase_imported	CDS	19032425	19032463	.	+	2	ID=cds:Sp34_20325800.t1;Parent=transcript:Sp34_20325800.t1
+Sp34_Chr2	WormBase_imported	CDS	19032567	19032599	.	+	2	ID=cds:Sp34_20325800.t1;Parent=transcript:Sp34_20325800.t1
+Sp34_Chr2	WormBase_imported	CDS	19032961	19033014	.	+	2	ID=cds:Sp34_20325800.t1;Parent=transcript:Sp34_20325800.t1
+Sp34_Chr2	WormBase_imported	CDS	19033282	19033562	.	+	2	ID=cds:Sp34_20325800.t1;Parent=transcript:Sp34_20325800.t1
+Sp34_Chr2	WormBase_imported	CDS	19033603	19034445	.	+	0	ID=cds:Sp34_20325800.t1;Parent=transcript:Sp34_20325800.t1
+Sp34_Chr2	WormBase_imported	CDS	19034492	19034695	.	+	0	ID=cds:Sp34_20325800.t1;Parent=transcript:Sp34_20325800.t1
+Sp34_Chr2	WormBase_imported	CDS	19034747	19034791	.	+	0	ID=cds:Sp34_20325800.t1;Parent=transcript:Sp34_20325800.t1
+Sp34_Chr3	WormBase_imported	gene	16111175	16115520	.	-	.	ID=gene:Sp34_30278300;Name=Sp34_30278300;biotype=protein_coding
+Sp34_Chr3	WormBase_imported	mRNA	16111175	16115520	.	-	.	ID=transcript:Sp34_30278300.t1;Parent=gene:Sp34_30278300;Name=Sp34_30278300.t1
+#microexons transcript:Sp34_30278300.t1:  34 33-42-3-51 170 66-84
+Sp34_Chr3	WormBase_imported	exon	16115487	16115520	.	-	.	ID=exon:Sp34_30278300.t1.1;Parent=transcript:Sp34_30278300.t1
+Sp34_Chr3	WormBase_imported	exon	16113978	16114010	.	-	.	ID=exon:Sp34_30278300.t1.2;Parent=transcript:Sp34_30278300.t1
+Sp34_Chr3	WormBase_imported	exon	16112853	16112894	.	-	.	ID=exon:Sp34_30278300.t1.3;Parent=transcript:Sp34_30278300.t1
+Sp34_Chr3	WormBase_imported	exon	16112761	16112763	.	-	.	ID=exon:Sp34_30278300.t1.4;Parent=transcript:Sp34_30278300.t1
+Sp34_Chr3	WormBase_imported	exon	16112286	16112336	.	-	.	ID=exon:Sp34_30278300.t1.5;Parent=transcript:Sp34_30278300.t1
+Sp34_Chr3	WormBase_imported	exon	16112065	16112234	.	-	.	ID=exon:Sp34_30278300.t1.6;Parent=transcript:Sp34_30278300.t1
+Sp34_Chr3	WormBase_imported	exon	16111362	16111427	.	-	.	ID=exon:Sp34_30278300.t1.7;Parent=transcript:Sp34_30278300.t1
+Sp34_Chr3	WormBase_imported	exon	16111175	16111258	.	-	.	ID=exon:Sp34_30278300.t1.8;Parent=transcript:Sp34_30278300.t1
+Sp34_Chr3	WormBase_imported	CDS	16115487	16115520	.	-	0	ID=cds:Sp34_30278300.t1;Parent=transcript:Sp34_30278300.t1
+Sp34_Chr3	WormBase_imported	CDS	16113978	16114010	.	-	2	ID=cds:Sp34_30278300.t1;Parent=transcript:Sp34_30278300.t1
+Sp34_Chr3	WormBase_imported	CDS	16112853	16112894	.	-	2	ID=cds:Sp34_30278300.t1;Parent=transcript:Sp34_30278300.t1
+Sp34_Chr3	WormBase_imported	CDS	16112761	16112763	.	-	2	ID=cds:Sp34_30278300.t1;Parent=transcript:Sp34_30278300.t1
+Sp34_Chr3	WormBase_imported	CDS	16112286	16112336	.	-	2	ID=cds:Sp34_30278300.t1;Parent=transcript:Sp34_30278300.t1
+Sp34_Chr3	WormBase_imported	CDS	16112065	16112234	.	-	2	ID=cds:Sp34_30278300.t1;Parent=transcript:Sp34_30278300.t1
+Sp34_Chr3	WormBase_imported	CDS	16111362	16111427	.	-	0	ID=cds:Sp34_30278300.t1;Parent=transcript:Sp34_30278300.t1
+Sp34_Chr3	WormBase_imported	CDS	16111175	16111258	.	-	0	ID=cds:Sp34_30278300.t1;Parent=transcript:Sp34_30278300.t1

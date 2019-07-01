@@ -1,0 +1,72 @@
+AgR018X	WormBase_imported	gene	1295656	1326631	.	-	.	ID=gene:AgR018X_g099;Name=AgR018X_g099;biotype=protein_coding
+AgR018X	WormBase_imported	mRNA	1295656	1302942	.	-	.	ID=transcript:AgR018X_g099_t01;Parent=gene:AgR018X_g099;Name=AgR018X_g099_t01
+#microexons transcript:AgR018X_g099_t01:  168-42 6562
+AgR018X	WormBase_imported	mRNA	1295656	1318058	.	-	.	ID=transcript:AgR018X_g099_t02;Parent=gene:AgR018X_g099;Name=AgR018X_g099_t02;info=method:InterPro accession:IPR002544 description:FMRFamide-related peptide-like
+#microexons transcript:AgR018X_g099_t02:  103 54-42-42-42-42 6424
+AgR018X	WormBase_imported	mRNA	1295656	1326631	.	-	.	ID=transcript:AgR018X_g099_t03;Parent=gene:AgR018X_g099;Name=AgR018X_g099_t03;info=method:InterPro accession:IPR002544 description:FMRFamide-related peptide-like
+#microexons transcript:AgR018X_g099_t03:  258 76 96-60-42-42-42-42 6424
+AgR018X	WormBase_imported	mRNA	1295656	1326631	.	-	.	ID=transcript:AgR018X_g099_t04;Parent=gene:AgR018X_g099;Name=AgR018X_g099_t04
+#microexons transcript:AgR018X_g099_t04:  258 178 96-60-42-42-42-42 6424
+AgR018X	WormBase_imported	exon	1302775	1302942	.	-	.	ID=exon:AgR018X_g099_t01.1;Parent=transcript:AgR018X_g099_t01
+AgR018X	WormBase_imported	exon	1302527	1302568	.	-	.	ID=exon:AgR018X_g099_t01.2;Parent=transcript:AgR018X_g099_t01
+AgR018X	WormBase_imported	exon	1295656	1302217	.	-	.	ID=exon:AgR018X_g099_t01.3;Parent=transcript:AgR018X_g099_t01
+AgR018X	WormBase_imported	exon	1317956	1318058	.	-	.	ID=exon:AgR018X_g099_t02.1;Parent=transcript:AgR018X_g099_t02
+AgR018X	WormBase_imported	exon	1309592	1309645	.	-	.	ID=exon:AgR018X_g099_t02.2;Parent=transcript:AgR018X_g099_t02
+AgR018X	WormBase_imported	exon	1309317	1309358	.	-	.	ID=exon:AgR018X_g099_t02.3;Parent=transcript:AgR018X_g099_t02
+AgR018X	WormBase_imported	exon	1306531	1306572	.	-	.	ID=exon:AgR018X_g099_t02.4;Parent=transcript:AgR018X_g099_t02
+AgR018X	WormBase_imported	exon	1304032	1304073	.	-	.	ID=exon:AgR018X_g099_t02.5;Parent=transcript:AgR018X_g099_t02
+AgR018X	WormBase_imported	exon	1302527	1302568	.	-	.	ID=exon:AgR018X_g099_t02.6;Parent=transcript:AgR018X_g099_t02
+AgR018X	WormBase_imported	exon	1295656	1302079	.	-	.	ID=exon:AgR018X_g099_t02.7;Parent=transcript:AgR018X_g099_t02
+AgR018X	WormBase_imported	exon	1326374	1326631	.	-	.	ID=exon:AgR018X_g099_t03.1;Parent=transcript:AgR018X_g099_t03
+AgR018X	WormBase_imported	exon	1323311	1323386	.	-	.	ID=exon:AgR018X_g099_t03.2;Parent=transcript:AgR018X_g099_t03
+AgR018X	WormBase_imported	exon	1317956	1318051	.	-	.	ID=exon:AgR018X_g099_t03.3;Parent=transcript:AgR018X_g099_t03
+AgR018X	WormBase_imported	exon	1309592	1309651	.	-	.	ID=exon:AgR018X_g099_t03.4;Parent=transcript:AgR018X_g099_t03
+AgR018X	WormBase_imported	exon	1309317	1309358	.	-	.	ID=exon:AgR018X_g099_t03.5;Parent=transcript:AgR018X_g099_t03
+AgR018X	WormBase_imported	exon	1306531	1306572	.	-	.	ID=exon:AgR018X_g099_t03.6;Parent=transcript:AgR018X_g099_t03
+AgR018X	WormBase_imported	exon	1304032	1304073	.	-	.	ID=exon:AgR018X_g099_t03.7;Parent=transcript:AgR018X_g099_t03
+AgR018X	WormBase_imported	exon	1302527	1302568	.	-	.	ID=exon:AgR018X_g099_t03.8;Parent=transcript:AgR018X_g099_t03
+AgR018X	WormBase_imported	exon	1295656	1302079	.	-	.	ID=exon:AgR018X_g099_t03.9;Parent=transcript:AgR018X_g099_t03
+AgR018X	WormBase_imported	exon	1326374	1326631	.	-	.	ID=exon:AgR018X_g099_t04.1;Parent=transcript:AgR018X_g099_t04
+AgR018X	WormBase_imported	exon	1323209	1323386	.	-	.	ID=exon:AgR018X_g099_t04.2;Parent=transcript:AgR018X_g099_t04
+AgR018X	WormBase_imported	exon	1317956	1318051	.	-	.	ID=exon:AgR018X_g099_t04.3;Parent=transcript:AgR018X_g099_t04
+AgR018X	WormBase_imported	exon	1309592	1309651	.	-	.	ID=exon:AgR018X_g099_t04.4;Parent=transcript:AgR018X_g099_t04
+AgR018X	WormBase_imported	exon	1309317	1309358	.	-	.	ID=exon:AgR018X_g099_t04.5;Parent=transcript:AgR018X_g099_t04
+AgR018X	WormBase_imported	exon	1306531	1306572	.	-	.	ID=exon:AgR018X_g099_t04.6;Parent=transcript:AgR018X_g099_t04
+AgR018X	WormBase_imported	exon	1304032	1304073	.	-	.	ID=exon:AgR018X_g099_t04.7;Parent=transcript:AgR018X_g099_t04
+AgR018X	WormBase_imported	exon	1302527	1302568	.	-	.	ID=exon:AgR018X_g099_t04.8;Parent=transcript:AgR018X_g099_t04
+AgR018X	WormBase_imported	exon	1295656	1302079	.	-	.	ID=exon:AgR018X_g099_t04.9;Parent=transcript:AgR018X_g099_t04
+AgR018X	WormBase_imported	CDS	1302775	1302942	.	-	0	ID=cds:AgR018X_g099_t01;Parent=transcript:AgR018X_g099_t01
+AgR018X	WormBase_imported	CDS	1302527	1302568	.	-	0	ID=cds:AgR018X_g099_t01;Parent=transcript:AgR018X_g099_t01
+AgR018X	WormBase_imported	CDS	1302143	1302217	.	-	0	ID=cds:AgR018X_g099_t01;Parent=transcript:AgR018X_g099_t01
+AgR018X	WormBase_imported	three_prime_UTR	1295656	1302142	.	-	.	Parent=transcript:AgR018X_g099_t01
+AgR018X	WormBase_imported	five_prime_UTR	1318057	1318058	.	-	.	Parent=transcript:AgR018X_g099_t02
+AgR018X	WormBase_imported	CDS	1317956	1318056	.	-	0	ID=cds:AgR018X_g099_t02;Parent=transcript:AgR018X_g099_t02
+AgR018X	WormBase_imported	CDS	1309592	1309645	.	-	1	ID=cds:AgR018X_g099_t02;Parent=transcript:AgR018X_g099_t02
+AgR018X	WormBase_imported	CDS	1309317	1309358	.	-	1	ID=cds:AgR018X_g099_t02;Parent=transcript:AgR018X_g099_t02
+AgR018X	WormBase_imported	CDS	1306531	1306572	.	-	1	ID=cds:AgR018X_g099_t02;Parent=transcript:AgR018X_g099_t02
+AgR018X	WormBase_imported	CDS	1304032	1304073	.	-	1	ID=cds:AgR018X_g099_t02;Parent=transcript:AgR018X_g099_t02
+AgR018X	WormBase_imported	CDS	1302527	1302568	.	-	1	ID=cds:AgR018X_g099_t02;Parent=transcript:AgR018X_g099_t02
+AgR018X	WormBase_imported	CDS	1302028	1302079	.	-	1	ID=cds:AgR018X_g099_t02;Parent=transcript:AgR018X_g099_t02
+AgR018X	WormBase_imported	three_prime_UTR	1295656	1302027	.	-	.	Parent=transcript:AgR018X_g099_t02
+AgR018X	WormBase_imported	five_prime_UTR	1326374	1326631	.	-	.	Parent=transcript:AgR018X_g099_t03
+AgR018X	WormBase_imported	five_prime_UTR	1323346	1323386	.	-	.	Parent=transcript:AgR018X_g099_t03
+AgR018X	WormBase_imported	CDS	1323311	1323345	.	-	0	ID=cds:AgR018X_g099_t03;Parent=transcript:AgR018X_g099_t03
+AgR018X	WormBase_imported	CDS	1317956	1318051	.	-	1	ID=cds:AgR018X_g099_t03;Parent=transcript:AgR018X_g099_t03
+AgR018X	WormBase_imported	CDS	1309592	1309651	.	-	1	ID=cds:AgR018X_g099_t03;Parent=transcript:AgR018X_g099_t03
+AgR018X	WormBase_imported	CDS	1309317	1309358	.	-	1	ID=cds:AgR018X_g099_t03;Parent=transcript:AgR018X_g099_t03
+AgR018X	WormBase_imported	CDS	1306531	1306572	.	-	1	ID=cds:AgR018X_g099_t03;Parent=transcript:AgR018X_g099_t03
+AgR018X	WormBase_imported	CDS	1304032	1304073	.	-	1	ID=cds:AgR018X_g099_t03;Parent=transcript:AgR018X_g099_t03
+AgR018X	WormBase_imported	CDS	1302527	1302568	.	-	1	ID=cds:AgR018X_g099_t03;Parent=transcript:AgR018X_g099_t03
+AgR018X	WormBase_imported	CDS	1302028	1302079	.	-	1	ID=cds:AgR018X_g099_t03;Parent=transcript:AgR018X_g099_t03
+AgR018X	WormBase_imported	three_prime_UTR	1295656	1302027	.	-	.	Parent=transcript:AgR018X_g099_t03
+AgR018X	WormBase_imported	five_prime_UTR	1326374	1326631	.	-	.	Parent=transcript:AgR018X_g099_t04
+AgR018X	WormBase_imported	five_prime_UTR	1323346	1323386	.	-	.	Parent=transcript:AgR018X_g099_t04
+AgR018X	WormBase_imported	CDS	1323209	1323345	.	-	0	ID=cds:AgR018X_g099_t04;Parent=transcript:AgR018X_g099_t04
+AgR018X	WormBase_imported	CDS	1317956	1318051	.	-	1	ID=cds:AgR018X_g099_t04;Parent=transcript:AgR018X_g099_t04
+AgR018X	WormBase_imported	CDS	1309592	1309651	.	-	1	ID=cds:AgR018X_g099_t04;Parent=transcript:AgR018X_g099_t04
+AgR018X	WormBase_imported	CDS	1309317	1309358	.	-	1	ID=cds:AgR018X_g099_t04;Parent=transcript:AgR018X_g099_t04
+AgR018X	WormBase_imported	CDS	1306531	1306572	.	-	1	ID=cds:AgR018X_g099_t04;Parent=transcript:AgR018X_g099_t04
+AgR018X	WormBase_imported	CDS	1304032	1304073	.	-	1	ID=cds:AgR018X_g099_t04;Parent=transcript:AgR018X_g099_t04
+AgR018X	WormBase_imported	CDS	1302527	1302568	.	-	1	ID=cds:AgR018X_g099_t04;Parent=transcript:AgR018X_g099_t04
+AgR018X	WormBase_imported	CDS	1302028	1302079	.	-	1	ID=cds:AgR018X_g099_t04;Parent=transcript:AgR018X_g099_t04
+AgR018X	WormBase_imported	three_prime_UTR	1295656	1302027	.	-	.	Parent=transcript:AgR018X_g099_t04

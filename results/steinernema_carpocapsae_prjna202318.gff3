@@ -1,0 +1,56 @@
+X	WormBase_imported	gene	9373836	9376516	.	+	.	ID=gene:SC.X.g3086;Name=SC.X.g3086;biotype=protein_coding
+X	WormBase_imported	mRNA	9373836	9376516	.	+	.	ID=transcript:SC.X.g3086;Parent=gene:SC.X.g3086;Name=SC.X.g3086;info=method:InterPro accession:IPR003582 description:ShKT domain
+#microexons transcript:SC.X.g3086:  23 692 45-42-42-57-48 158
+X	WormBase_imported	exon	9373836	9373858	.	+	.	ID=exon:SC.X.g3086.1;Parent=transcript:SC.X.g3086
+X	WormBase_imported	exon	9374729	9375420	.	+	.	ID=exon:SC.X.g3086.2;Parent=transcript:SC.X.g3086
+X	WormBase_imported	exon	9375885	9375929	.	+	.	ID=exon:SC.X.g3086.3;Parent=transcript:SC.X.g3086
+X	WormBase_imported	exon	9375974	9376015	.	+	.	ID=exon:SC.X.g3086.4;Parent=transcript:SC.X.g3086
+X	WormBase_imported	exon	9376064	9376105	.	+	.	ID=exon:SC.X.g3086.5;Parent=transcript:SC.X.g3086
+X	WormBase_imported	exon	9376156	9376212	.	+	.	ID=exon:SC.X.g3086.6;Parent=transcript:SC.X.g3086
+X	WormBase_imported	exon	9376261	9376308	.	+	.	ID=exon:SC.X.g3086.7;Parent=transcript:SC.X.g3086
+X	WormBase_imported	exon	9376359	9376516	.	+	.	ID=exon:SC.X.g3086.8;Parent=transcript:SC.X.g3086
+X	WormBase_imported	CDS	9373836	9373858	.	+	0	ID=cds:SC.X.g3086;Parent=transcript:SC.X.g3086
+X	WormBase_imported	CDS	9374729	9375420	.	+	1	ID=cds:SC.X.g3086;Parent=transcript:SC.X.g3086
+X	WormBase_imported	CDS	9375885	9375929	.	+	2	ID=cds:SC.X.g3086;Parent=transcript:SC.X.g3086
+X	WormBase_imported	CDS	9375974	9376015	.	+	2	ID=cds:SC.X.g3086;Parent=transcript:SC.X.g3086
+X	WormBase_imported	CDS	9376064	9376105	.	+	2	ID=cds:SC.X.g3086;Parent=transcript:SC.X.g3086
+X	WormBase_imported	CDS	9376156	9376212	.	+	2	ID=cds:SC.X.g3086;Parent=transcript:SC.X.g3086
+X	WormBase_imported	CDS	9376261	9376308	.	+	2	ID=cds:SC.X.g3086;Parent=transcript:SC.X.g3086
+X	WormBase_imported	CDS	9376359	9376516	.	+	2	ID=cds:SC.X.g3086;Parent=transcript:SC.X.g3086
+scaffold4	WormBase_imported	gene	3272932	3274416	.	-	.	ID=gene:L596_018002;Name=L596_018002;biotype=protein_coding
+scaffold4	WormBase_imported	mRNA	3272932	3273986	.	-	.	ID=transcript:L596_018002.1;Parent=gene:L596_018002;Name=L596_018002.1;info=method:InterPro accession:IPR000253 description:Forkhead-associated (FHA) domain
+#microexons transcript:L596_018002.1:  66 316 57-57-48 209 24
+scaffold4	WormBase_imported	mRNA	3272932	3274416	.	-	.	ID=transcript:L596_018002.2;Parent=gene:L596_018002;Name=L596_018002.2;info=method:InterPro accession:IPR000253 description:Forkhead-associated (FHA) domain
+#microexons transcript:L596_018002.2:  139 22 133 316 57-57-48 209 24
+scaffold4	WormBase_imported	exon	3273921	3273986	.	-	.	ID=exon:L596_018002.1.1;Parent=transcript:L596_018002.1
+scaffold4	WormBase_imported	exon	3273555	3273870	.	-	.	ID=exon:L596_018002.1.2;Parent=transcript:L596_018002.1
+scaffold4	WormBase_imported	exon	3273453	3273509	.	-	.	ID=exon:L596_018002.1.3;Parent=transcript:L596_018002.1
+scaffold4	WormBase_imported	exon	3273351	3273407	.	-	.	ID=exon:L596_018002.1.4;Parent=transcript:L596_018002.1
+scaffold4	WormBase_imported	exon	3273258	3273305	.	-	.	ID=exon:L596_018002.1.5;Parent=transcript:L596_018002.1
+scaffold4	WormBase_imported	exon	3273003	3273211	.	-	.	ID=exon:L596_018002.1.6;Parent=transcript:L596_018002.1
+scaffold4	WormBase_imported	exon	3272932	3272955	.	-	.	ID=exon:L596_018002.1.7;Parent=transcript:L596_018002.1
+scaffold4	WormBase_imported	exon	3274278	3274416	.	-	.	ID=exon:L596_018002.2.1;Parent=transcript:L596_018002.2
+scaffold4	WormBase_imported	exon	3274102	3274123	.	-	.	ID=exon:L596_018002.2.2;Parent=transcript:L596_018002.2
+scaffold4	WormBase_imported	exon	3273921	3274053	.	-	.	ID=exon:L596_018002.2.3;Parent=transcript:L596_018002.2
+scaffold4	WormBase_imported	exon	3273555	3273870	.	-	.	ID=exon:L596_018002.2.4;Parent=transcript:L596_018002.2
+scaffold4	WormBase_imported	exon	3273453	3273509	.	-	.	ID=exon:L596_018002.2.5;Parent=transcript:L596_018002.2
+scaffold4	WormBase_imported	exon	3273351	3273407	.	-	.	ID=exon:L596_018002.2.6;Parent=transcript:L596_018002.2
+scaffold4	WormBase_imported	exon	3273258	3273305	.	-	.	ID=exon:L596_018002.2.7;Parent=transcript:L596_018002.2
+scaffold4	WormBase_imported	exon	3273003	3273211	.	-	.	ID=exon:L596_018002.2.8;Parent=transcript:L596_018002.2
+scaffold4	WormBase_imported	exon	3272932	3272955	.	-	.	ID=exon:L596_018002.2.9;Parent=transcript:L596_018002.2
+scaffold4	WormBase_imported	CDS	3273921	3273986	.	-	0	ID=cds:L596_018002.1;Parent=transcript:L596_018002.1
+scaffold4	WormBase_imported	CDS	3273555	3273870	.	-	0	ID=cds:L596_018002.1;Parent=transcript:L596_018002.1
+scaffold4	WormBase_imported	CDS	3273453	3273509	.	-	2	ID=cds:L596_018002.1;Parent=transcript:L596_018002.1
+scaffold4	WormBase_imported	CDS	3273351	3273407	.	-	2	ID=cds:L596_018002.1;Parent=transcript:L596_018002.1
+scaffold4	WormBase_imported	CDS	3273258	3273305	.	-	2	ID=cds:L596_018002.1;Parent=transcript:L596_018002.1
+scaffold4	WormBase_imported	CDS	3273003	3273211	.	-	2	ID=cds:L596_018002.1;Parent=transcript:L596_018002.1
+scaffold4	WormBase_imported	CDS	3272932	3272955	.	-	0	ID=cds:L596_018002.1;Parent=transcript:L596_018002.1
+scaffold4	WormBase_imported	CDS	3274278	3274416	.	-	0	ID=cds:L596_018002.2;Parent=transcript:L596_018002.2
+scaffold4	WormBase_imported	CDS	3274102	3274123	.	-	2	ID=cds:L596_018002.2;Parent=transcript:L596_018002.2
+scaffold4	WormBase_imported	CDS	3273921	3274053	.	-	1	ID=cds:L596_018002.2;Parent=transcript:L596_018002.2
+scaffold4	WormBase_imported	CDS	3273555	3273870	.	-	0	ID=cds:L596_018002.2;Parent=transcript:L596_018002.2
+scaffold4	WormBase_imported	CDS	3273453	3273509	.	-	2	ID=cds:L596_018002.2;Parent=transcript:L596_018002.2
+scaffold4	WormBase_imported	CDS	3273351	3273407	.	-	2	ID=cds:L596_018002.2;Parent=transcript:L596_018002.2
+scaffold4	WormBase_imported	CDS	3273258	3273305	.	-	2	ID=cds:L596_018002.2;Parent=transcript:L596_018002.2
+scaffold4	WormBase_imported	CDS	3273003	3273211	.	-	2	ID=cds:L596_018002.2;Parent=transcript:L596_018002.2
+scaffold4	WormBase_imported	CDS	3272932	3272955	.	-	0	ID=cds:L596_018002.2;Parent=transcript:L596_018002.2

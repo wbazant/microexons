@@ -1,16 +1,3 @@
-scaffold6187_cov228	WormBase_imported	gene	7599	8732	.	+	.	ID=gene:scaffold6187_cov228.g9164;Name=scaffold6187_cov228.g9164;biotype=protein_coding
-scaffold6187_cov228	WormBase_imported	mRNA	7599	8732	.	+	.	ID=transcript:scaffold6187_cov228.g9164;Parent=gene:scaffold6187_cov228.g9164;Name=scaffold6187_cov228.g9164
-#microexons transcript:scaffold6187_cov228.g9164:  201 78 30-24-24
-scaffold6187_cov228	WormBase_imported	exon	7599	7799	.	+	.	ID=exon:scaffold6187_cov228.g9164.1;Parent=transcript:scaffold6187_cov228.g9164
-scaffold6187_cov228	WormBase_imported	exon	8446	8523	.	+	.	ID=exon:scaffold6187_cov228.g9164.2;Parent=transcript:scaffold6187_cov228.g9164
-scaffold6187_cov228	WormBase_imported	exon	8567	8596	.	+	.	ID=exon:scaffold6187_cov228.g9164.3;Parent=transcript:scaffold6187_cov228.g9164
-scaffold6187_cov228	WormBase_imported	exon	8646	8669	.	+	.	ID=exon:scaffold6187_cov228.g9164.4;Parent=transcript:scaffold6187_cov228.g9164
-scaffold6187_cov228	WormBase_imported	exon	8709	8732	.	+	.	ID=exon:scaffold6187_cov228.g9164.5;Parent=transcript:scaffold6187_cov228.g9164
-scaffold6187_cov228	WormBase_imported	CDS	7599	7799	.	+	0	ID=cds:scaffold6187_cov228.g9164;Parent=transcript:scaffold6187_cov228.g9164
-scaffold6187_cov228	WormBase_imported	CDS	8446	8523	.	+	0	ID=cds:scaffold6187_cov228.g9164;Parent=transcript:scaffold6187_cov228.g9164
-scaffold6187_cov228	WormBase_imported	CDS	8567	8596	.	+	0	ID=cds:scaffold6187_cov228.g9164;Parent=transcript:scaffold6187_cov228.g9164
-scaffold6187_cov228	WormBase_imported	CDS	8646	8669	.	+	0	ID=cds:scaffold6187_cov228.g9164;Parent=transcript:scaffold6187_cov228.g9164
-scaffold6187_cov228	WormBase_imported	CDS	8709	8732	.	+	0	ID=cds:scaffold6187_cov228.g9164;Parent=transcript:scaffold6187_cov228.g9164
 scaffold157_cov172	WormBase_imported	gene	7819	9875	.	+	.	ID=gene:scaffold157_cov172.g285;Name=scaffold157_cov172.g285;biotype=protein_coding
 scaffold157_cov172	WormBase_imported	mRNA	7819	9875	.	+	.	ID=transcript:scaffold157_cov172.g285;Parent=gene:scaffold157_cov172.g285;Name=scaffold157_cov172.g285
 #microexons transcript:scaffold157_cov172.g285:  217 165 74 27-12-27-24-27
@@ -30,9 +17,98 @@ scaffold157_cov172	WormBase_imported	CDS	8698	8709	.	+	0	ID=cds:scaffold157_cov1
 scaffold157_cov172	WormBase_imported	CDS	9701	9727	.	+	0	ID=cds:scaffold157_cov172.g285;Parent=transcript:scaffold157_cov172.g285
 scaffold157_cov172	WormBase_imported	CDS	9781	9804	.	+	0	ID=cds:scaffold157_cov172.g285;Parent=transcript:scaffold157_cov172.g285
 scaffold157_cov172	WormBase_imported	CDS	9849	9875	.	+	0	ID=cds:scaffold157_cov172.g285;Parent=transcript:scaffold157_cov172.g285
+scaffold41156_cov185	WormBase_imported	gene	5951	7710	.	+	.	ID=gene:scaffold41156_cov185.g25284;Name=scaffold41156_cov185.g25284;biotype=protein_coding
+scaffold41156_cov185	WormBase_imported	mRNA	5951	7710	.	+	.	ID=transcript:scaffold41156_cov185.g25284;Parent=gene:scaffold41156_cov185.g25284;Name=scaffold41156_cov185.g25284;info=method:InterPro accession:IPR004932 description:Retrieval of early ER protein Rer1
+#microexons transcript:scaffold41156_cov185.g25284:  57-51-45 100 82 90 29 125
+scaffold41156_cov185	WormBase_imported	exon	5951	6007	.	+	.	ID=exon:scaffold41156_cov185.g25284.1;Parent=transcript:scaffold41156_cov185.g25284
+scaffold41156_cov185	WormBase_imported	exon	6063	6113	.	+	.	ID=exon:scaffold41156_cov185.g25284.2;Parent=transcript:scaffold41156_cov185.g25284
+scaffold41156_cov185	WormBase_imported	exon	6657	6701	.	+	.	ID=exon:scaffold41156_cov185.g25284.3;Parent=transcript:scaffold41156_cov185.g25284
+scaffold41156_cov185	WormBase_imported	exon	6747	6846	.	+	.	ID=exon:scaffold41156_cov185.g25284.4;Parent=transcript:scaffold41156_cov185.g25284
+scaffold41156_cov185	WormBase_imported	exon	6897	6978	.	+	.	ID=exon:scaffold41156_cov185.g25284.5;Parent=transcript:scaffold41156_cov185.g25284
+scaffold41156_cov185	WormBase_imported	exon	7023	7112	.	+	.	ID=exon:scaffold41156_cov185.g25284.6;Parent=transcript:scaffold41156_cov185.g25284
+scaffold41156_cov185	WormBase_imported	exon	7161	7189	.	+	.	ID=exon:scaffold41156_cov185.g25284.7;Parent=transcript:scaffold41156_cov185.g25284
+scaffold41156_cov185	WormBase_imported	exon	7586	7710	.	+	.	ID=exon:scaffold41156_cov185.g25284.8;Parent=transcript:scaffold41156_cov185.g25284
+scaffold41156_cov185	WormBase_imported	CDS	5951	6007	.	+	0	ID=cds:scaffold41156_cov185.g25284;Parent=transcript:scaffold41156_cov185.g25284
+scaffold41156_cov185	WormBase_imported	CDS	6063	6113	.	+	0	ID=cds:scaffold41156_cov185.g25284;Parent=transcript:scaffold41156_cov185.g25284
+scaffold41156_cov185	WormBase_imported	CDS	6657	6701	.	+	0	ID=cds:scaffold41156_cov185.g25284;Parent=transcript:scaffold41156_cov185.g25284
+scaffold41156_cov185	WormBase_imported	CDS	6747	6846	.	+	0	ID=cds:scaffold41156_cov185.g25284;Parent=transcript:scaffold41156_cov185.g25284
+scaffold41156_cov185	WormBase_imported	CDS	6897	6978	.	+	2	ID=cds:scaffold41156_cov185.g25284;Parent=transcript:scaffold41156_cov185.g25284
+scaffold41156_cov185	WormBase_imported	CDS	7023	7112	.	+	1	ID=cds:scaffold41156_cov185.g25284;Parent=transcript:scaffold41156_cov185.g25284
+scaffold41156_cov185	WormBase_imported	CDS	7161	7189	.	+	1	ID=cds:scaffold41156_cov185.g25284;Parent=transcript:scaffold41156_cov185.g25284
+scaffold41156_cov185	WormBase_imported	CDS	7586	7710	.	+	2	ID=cds:scaffold41156_cov185.g25284;Parent=transcript:scaffold41156_cov185.g25284
+scaffold7849_cov330	WormBase_imported	gene	14692	15240	.	+	.	ID=gene:scaffold7849_cov330.g11206;Name=scaffold7849_cov330.g11206;biotype=protein_coding
+scaffold7849_cov330	WormBase_imported	mRNA	14692	15240	.	+	.	ID=transcript:scaffold7849_cov330.g11206;Parent=gene:scaffold7849_cov330.g11206;Name=scaffold7849_cov330.g11206
+#microexons transcript:scaffold7849_cov330.g11206:  4 36-24-18-36-24 125
+scaffold7849_cov330	WormBase_imported	exon	14692	14695	.	+	.	ID=exon:scaffold7849_cov330.g11206.1;Parent=transcript:scaffold7849_cov330.g11206
+scaffold7849_cov330	WormBase_imported	exon	14740	14775	.	+	.	ID=exon:scaffold7849_cov330.g11206.2;Parent=transcript:scaffold7849_cov330.g11206
+scaffold7849_cov330	WormBase_imported	exon	14823	14846	.	+	.	ID=exon:scaffold7849_cov330.g11206.3;Parent=transcript:scaffold7849_cov330.g11206
+scaffold7849_cov330	WormBase_imported	exon	14899	14916	.	+	.	ID=exon:scaffold7849_cov330.g11206.4;Parent=transcript:scaffold7849_cov330.g11206
+scaffold7849_cov330	WormBase_imported	exon	14968	15003	.	+	.	ID=exon:scaffold7849_cov330.g11206.5;Parent=transcript:scaffold7849_cov330.g11206
+scaffold7849_cov330	WormBase_imported	exon	15051	15074	.	+	.	ID=exon:scaffold7849_cov330.g11206.6;Parent=transcript:scaffold7849_cov330.g11206
+scaffold7849_cov330	WormBase_imported	exon	15116	15240	.	+	.	ID=exon:scaffold7849_cov330.g11206.7;Parent=transcript:scaffold7849_cov330.g11206
+scaffold7849_cov330	WormBase_imported	CDS	14692	14695	.	+	0	ID=cds:scaffold7849_cov330.g11206;Parent=transcript:scaffold7849_cov330.g11206
+scaffold7849_cov330	WormBase_imported	CDS	14740	14775	.	+	2	ID=cds:scaffold7849_cov330.g11206;Parent=transcript:scaffold7849_cov330.g11206
+scaffold7849_cov330	WormBase_imported	CDS	14823	14846	.	+	2	ID=cds:scaffold7849_cov330.g11206;Parent=transcript:scaffold7849_cov330.g11206
+scaffold7849_cov330	WormBase_imported	CDS	14899	14916	.	+	2	ID=cds:scaffold7849_cov330.g11206;Parent=transcript:scaffold7849_cov330.g11206
+scaffold7849_cov330	WormBase_imported	CDS	14968	15003	.	+	2	ID=cds:scaffold7849_cov330.g11206;Parent=transcript:scaffold7849_cov330.g11206
+scaffold7849_cov330	WormBase_imported	CDS	15051	15074	.	+	2	ID=cds:scaffold7849_cov330.g11206;Parent=transcript:scaffold7849_cov330.g11206
+scaffold7849_cov330	WormBase_imported	CDS	15116	15240	.	+	2	ID=cds:scaffold7849_cov330.g11206;Parent=transcript:scaffold7849_cov330.g11206
+scaffold8824_cov162	WormBase_imported	gene	819	4437	.	+	.	ID=gene:scaffold8824_cov162.g12247;Name=scaffold8824_cov162.g12247;biotype=protein_coding
+scaffold8824_cov162	WormBase_imported	mRNA	819	4437	.	+	.	ID=transcript:scaffold8824_cov162.g12247;Parent=gene:scaffold8824_cov162.g12247;Name=scaffold8824_cov162.g12247
+#microexons transcript:scaffold8824_cov162.g12247:  105 17 112 57-45-54 82 344
+scaffold8824_cov162	WormBase_imported	exon	819	923	.	+	.	ID=exon:scaffold8824_cov162.g12247.1;Parent=transcript:scaffold8824_cov162.g12247
+scaffold8824_cov162	WormBase_imported	exon	1404	1420	.	+	.	ID=exon:scaffold8824_cov162.g12247.2;Parent=transcript:scaffold8824_cov162.g12247
+scaffold8824_cov162	WormBase_imported	exon	1461	1572	.	+	.	ID=exon:scaffold8824_cov162.g12247.3;Parent=transcript:scaffold8824_cov162.g12247
+scaffold8824_cov162	WormBase_imported	exon	2970	3026	.	+	.	ID=exon:scaffold8824_cov162.g12247.4;Parent=transcript:scaffold8824_cov162.g12247
+scaffold8824_cov162	WormBase_imported	exon	3091	3135	.	+	.	ID=exon:scaffold8824_cov162.g12247.5;Parent=transcript:scaffold8824_cov162.g12247
+scaffold8824_cov162	WormBase_imported	exon	3832	3885	.	+	.	ID=exon:scaffold8824_cov162.g12247.6;Parent=transcript:scaffold8824_cov162.g12247
+scaffold8824_cov162	WormBase_imported	exon	3938	4019	.	+	.	ID=exon:scaffold8824_cov162.g12247.7;Parent=transcript:scaffold8824_cov162.g12247
+scaffold8824_cov162	WormBase_imported	exon	4094	4437	.	+	.	ID=exon:scaffold8824_cov162.g12247.8;Parent=transcript:scaffold8824_cov162.g12247
+scaffold8824_cov162	WormBase_imported	CDS	819	923	.	+	0	ID=cds:scaffold8824_cov162.g12247;Parent=transcript:scaffold8824_cov162.g12247
+scaffold8824_cov162	WormBase_imported	CDS	1404	1420	.	+	0	ID=cds:scaffold8824_cov162.g12247;Parent=transcript:scaffold8824_cov162.g12247
+scaffold8824_cov162	WormBase_imported	CDS	1461	1572	.	+	1	ID=cds:scaffold8824_cov162.g12247;Parent=transcript:scaffold8824_cov162.g12247
+scaffold8824_cov162	WormBase_imported	CDS	2970	3026	.	+	0	ID=cds:scaffold8824_cov162.g12247;Parent=transcript:scaffold8824_cov162.g12247
+scaffold8824_cov162	WormBase_imported	CDS	3091	3135	.	+	0	ID=cds:scaffold8824_cov162.g12247;Parent=transcript:scaffold8824_cov162.g12247
+scaffold8824_cov162	WormBase_imported	CDS	3832	3885	.	+	0	ID=cds:scaffold8824_cov162.g12247;Parent=transcript:scaffold8824_cov162.g12247
+scaffold8824_cov162	WormBase_imported	CDS	3938	4019	.	+	0	ID=cds:scaffold8824_cov162.g12247;Parent=transcript:scaffold8824_cov162.g12247
+scaffold8824_cov162	WormBase_imported	CDS	4094	4437	.	+	2	ID=cds:scaffold8824_cov162.g12247;Parent=transcript:scaffold8824_cov162.g12247
+scaffold13569_cov293	WormBase_imported	gene	1271	3769	.	-	.	ID=gene:scaffold13569_cov293.g16463;Name=scaffold13569_cov293.g16463;biotype=protein_coding
+scaffold13569_cov293	WormBase_imported	mRNA	1271	3769	.	-	.	ID=transcript:scaffold13569_cov293.g16463;Parent=gene:scaffold13569_cov293.g16463;Name=scaffold13569_cov293.g16463
+#microexons transcript:scaffold13569_cov293.g16463:  523 36-39-42 290 54-384
+scaffold13569_cov293	WormBase_imported	exon	3247	3769	.	-	.	ID=exon:scaffold13569_cov293.g16463.1;Parent=transcript:scaffold13569_cov293.g16463
+scaffold13569_cov293	WormBase_imported	exon	2846	2881	.	-	.	ID=exon:scaffold13569_cov293.g16463.2;Parent=transcript:scaffold13569_cov293.g16463
+scaffold13569_cov293	WormBase_imported	exon	2749	2787	.	-	.	ID=exon:scaffold13569_cov293.g16463.3;Parent=transcript:scaffold13569_cov293.g16463
+scaffold13569_cov293	WormBase_imported	exon	2653	2694	.	-	.	ID=exon:scaffold13569_cov293.g16463.4;Parent=transcript:scaffold13569_cov293.g16463
+scaffold13569_cov293	WormBase_imported	exon	1999	2288	.	-	.	ID=exon:scaffold13569_cov293.g16463.5;Parent=transcript:scaffold13569_cov293.g16463
+scaffold13569_cov293	WormBase_imported	exon	1897	1950	.	-	.	ID=exon:scaffold13569_cov293.g16463.6;Parent=transcript:scaffold13569_cov293.g16463
+scaffold13569_cov293	WormBase_imported	exon	1271	1654	.	-	.	ID=exon:scaffold13569_cov293.g16463.7;Parent=transcript:scaffold13569_cov293.g16463
+scaffold13569_cov293	WormBase_imported	CDS	3247	3769	.	-	0	ID=cds:scaffold13569_cov293.g16463;Parent=transcript:scaffold13569_cov293.g16463
+scaffold13569_cov293	WormBase_imported	CDS	2846	2881	.	-	2	ID=cds:scaffold13569_cov293.g16463;Parent=transcript:scaffold13569_cov293.g16463
+scaffold13569_cov293	WormBase_imported	CDS	2749	2787	.	-	2	ID=cds:scaffold13569_cov293.g16463;Parent=transcript:scaffold13569_cov293.g16463
+scaffold13569_cov293	WormBase_imported	CDS	2653	2694	.	-	2	ID=cds:scaffold13569_cov293.g16463;Parent=transcript:scaffold13569_cov293.g16463
+scaffold13569_cov293	WormBase_imported	CDS	1999	2288	.	-	2	ID=cds:scaffold13569_cov293.g16463;Parent=transcript:scaffold13569_cov293.g16463
+scaffold13569_cov293	WormBase_imported	CDS	1897	1950	.	-	0	ID=cds:scaffold13569_cov293.g16463;Parent=transcript:scaffold13569_cov293.g16463
+scaffold13569_cov293	WormBase_imported	CDS	1271	1654	.	-	0	ID=cds:scaffold13569_cov293.g16463;Parent=transcript:scaffold13569_cov293.g16463
+scaffold16319_cov272	WormBase_imported	gene	1379	4220	.	+	.	ID=gene:scaffold16319_cov272.g18439;Name=scaffold16319_cov272.g18439;biotype=protein_coding
+scaffold16319_cov272	WormBase_imported	mRNA	1379	4220	.	+	.	ID=transcript:scaffold16319_cov272.g18439;Parent=gene:scaffold16319_cov272.g18439;Name=scaffold16319_cov272.g18439;info=method:InterPro accession:IPR009030 description:Growth factor receptor cysteine-rich domain superfamily
+#microexons transcript:scaffold16319_cov272.g18439:  329 152 36-39-42 302 384
+scaffold16319_cov272	WormBase_imported	exon	1379	1707	.	+	.	ID=exon:scaffold16319_cov272.g18439.1;Parent=transcript:scaffold16319_cov272.g18439
+scaffold16319_cov272	WormBase_imported	exon	1834	1985	.	+	.	ID=exon:scaffold16319_cov272.g18439.2;Parent=transcript:scaffold16319_cov272.g18439
+scaffold16319_cov272	WormBase_imported	exon	2335	2370	.	+	.	ID=exon:scaffold16319_cov272.g18439.3;Parent=transcript:scaffold16319_cov272.g18439
+scaffold16319_cov272	WormBase_imported	exon	2430	2468	.	+	.	ID=exon:scaffold16319_cov272.g18439.4;Parent=transcript:scaffold16319_cov272.g18439
+scaffold16319_cov272	WormBase_imported	exon	2522	2563	.	+	.	ID=exon:scaffold16319_cov272.g18439.5;Parent=transcript:scaffold16319_cov272.g18439
+scaffold16319_cov272	WormBase_imported	exon	3058	3359	.	+	.	ID=exon:scaffold16319_cov272.g18439.6;Parent=transcript:scaffold16319_cov272.g18439
+scaffold16319_cov272	WormBase_imported	exon	3837	4220	.	+	.	ID=exon:scaffold16319_cov272.g18439.7;Parent=transcript:scaffold16319_cov272.g18439
+scaffold16319_cov272	WormBase_imported	CDS	1379	1707	.	+	0	ID=cds:scaffold16319_cov272.g18439;Parent=transcript:scaffold16319_cov272.g18439
+scaffold16319_cov272	WormBase_imported	CDS	1834	1985	.	+	1	ID=cds:scaffold16319_cov272.g18439;Parent=transcript:scaffold16319_cov272.g18439
+scaffold16319_cov272	WormBase_imported	CDS	2335	2370	.	+	2	ID=cds:scaffold16319_cov272.g18439;Parent=transcript:scaffold16319_cov272.g18439
+scaffold16319_cov272	WormBase_imported	CDS	2430	2468	.	+	2	ID=cds:scaffold16319_cov272.g18439;Parent=transcript:scaffold16319_cov272.g18439
+scaffold16319_cov272	WormBase_imported	CDS	2522	2563	.	+	2	ID=cds:scaffold16319_cov272.g18439;Parent=transcript:scaffold16319_cov272.g18439
+scaffold16319_cov272	WormBase_imported	CDS	3058	3359	.	+	2	ID=cds:scaffold16319_cov272.g18439;Parent=transcript:scaffold16319_cov272.g18439
+scaffold16319_cov272	WormBase_imported	CDS	3837	4220	.	+	0	ID=cds:scaffold16319_cov272.g18439;Parent=transcript:scaffold16319_cov272.g18439
 scaffold1237_cov146	WormBase_imported	gene	195	962	.	-	.	ID=gene:scaffold1237_cov146.g2077;Name=scaffold1237_cov146.g2077;biotype=protein_coding
 scaffold1237_cov146	WormBase_imported	mRNA	195	962	.	-	.	ID=transcript:scaffold1237_cov146.g2077;Parent=gene:scaffold1237_cov146.g2077;Name=scaffold1237_cov146.g2077
-#microexons transcript:scaffold1237_cov146.g2077:  26 64 21-12-30-9-21-15-12 33 21-15
+#microexons transcript:scaffold1237_cov146.g2077:  26 64 21-12-30-9-21-15-12-33-21-15
 scaffold1237_cov146	WormBase_imported	exon	937	962	.	-	.	ID=exon:scaffold1237_cov146.g2077.1;Parent=transcript:scaffold1237_cov146.g2077
 scaffold1237_cov146	WormBase_imported	exon	833	896	.	-	.	ID=exon:scaffold1237_cov146.g2077.2;Parent=transcript:scaffold1237_cov146.g2077
 scaffold1237_cov146	WormBase_imported	exon	770	790	.	-	.	ID=exon:scaffold1237_cov146.g2077.3;Parent=transcript:scaffold1237_cov146.g2077
@@ -57,3 +133,22 @@ scaffold1237_cov146	WormBase_imported	CDS	400	411	.	-	0	ID=cds:scaffold1237_cov1
 scaffold1237_cov146	WormBase_imported	CDS	323	355	.	-	0	ID=cds:scaffold1237_cov146.g2077;Parent=transcript:scaffold1237_cov146.g2077
 scaffold1237_cov146	WormBase_imported	CDS	256	276	.	-	0	ID=cds:scaffold1237_cov146.g2077;Parent=transcript:scaffold1237_cov146.g2077
 scaffold1237_cov146	WormBase_imported	CDS	195	209	.	-	0	ID=cds:scaffold1237_cov146.g2077;Parent=transcript:scaffold1237_cov146.g2077
+scaffold14635_cov205	WormBase_imported	gene	97	1438	.	+	.	ID=gene:scaffold14635_cov205.g17283;Name=scaffold14635_cov205.g17283;biotype=protein_coding
+scaffold14635_cov205	WormBase_imported	mRNA	97	1438	.	+	.	ID=transcript:scaffold14635_cov205.g17283;Parent=gene:scaffold14635_cov205.g17283;Name=scaffold14635_cov205.g17283;info=method:InterPro accession:IPR004241 description:Autophagy protein Atg8 ubiquitin-like %0Amethod:InterPro accession:IPR029071 description:Ubiquitin-like domain superfamily
+#microexons transcript:scaffold14635_cov205.g17283:  58 30 103 57-36-30 179 93
+scaffold14635_cov205	WormBase_imported	exon	97	154	.	+	.	ID=exon:scaffold14635_cov205.g17283.1;Parent=transcript:scaffold14635_cov205.g17283
+scaffold14635_cov205	WormBase_imported	exon	198	227	.	+	.	ID=exon:scaffold14635_cov205.g17283.2;Parent=transcript:scaffold14635_cov205.g17283
+scaffold14635_cov205	WormBase_imported	exon	417	519	.	+	.	ID=exon:scaffold14635_cov205.g17283.3;Parent=transcript:scaffold14635_cov205.g17283
+scaffold14635_cov205	WormBase_imported	exon	664	720	.	+	.	ID=exon:scaffold14635_cov205.g17283.4;Parent=transcript:scaffold14635_cov205.g17283
+scaffold14635_cov205	WormBase_imported	exon	898	933	.	+	.	ID=exon:scaffold14635_cov205.g17283.5;Parent=transcript:scaffold14635_cov205.g17283
+scaffold14635_cov205	WormBase_imported	exon	982	1011	.	+	.	ID=exon:scaffold14635_cov205.g17283.6;Parent=transcript:scaffold14635_cov205.g17283
+scaffold14635_cov205	WormBase_imported	exon	1066	1244	.	+	.	ID=exon:scaffold14635_cov205.g17283.7;Parent=transcript:scaffold14635_cov205.g17283
+scaffold14635_cov205	WormBase_imported	exon	1346	1438	.	+	.	ID=exon:scaffold14635_cov205.g17283.8;Parent=transcript:scaffold14635_cov205.g17283
+scaffold14635_cov205	WormBase_imported	CDS	97	154	.	+	1	ID=cds:scaffold14635_cov205.g17283;Parent=transcript:scaffold14635_cov205.g17283
+scaffold14635_cov205	WormBase_imported	CDS	198	227	.	+	0	ID=cds:scaffold14635_cov205.g17283;Parent=transcript:scaffold14635_cov205.g17283
+scaffold14635_cov205	WormBase_imported	CDS	417	519	.	+	0	ID=cds:scaffold14635_cov205.g17283;Parent=transcript:scaffold14635_cov205.g17283
+scaffold14635_cov205	WormBase_imported	CDS	664	720	.	+	2	ID=cds:scaffold14635_cov205.g17283;Parent=transcript:scaffold14635_cov205.g17283
+scaffold14635_cov205	WormBase_imported	CDS	898	933	.	+	2	ID=cds:scaffold14635_cov205.g17283;Parent=transcript:scaffold14635_cov205.g17283
+scaffold14635_cov205	WormBase_imported	CDS	982	1011	.	+	2	ID=cds:scaffold14635_cov205.g17283;Parent=transcript:scaffold14635_cov205.g17283
+scaffold14635_cov205	WormBase_imported	CDS	1066	1244	.	+	2	ID=cds:scaffold14635_cov205.g17283;Parent=transcript:scaffold14635_cov205.g17283
+scaffold14635_cov205	WormBase_imported	CDS	1346	1438	.	+	0	ID=cds:scaffold14635_cov205.g17283;Parent=transcript:scaffold14635_cov205.g17283

@@ -15,23 +15,26 @@ Contig19_1_1122013	WormBase_imported	CDS	476030	476038	.	+	1	ID=cds:HMEPH_01247-
 Contig19_1_1122013	WormBase_imported	CDS	476784	476889	.	+	1	ID=cds:HMEPH_01247-RA.p1;Parent=transcript:HMEPH_01247-RA.p1
 Contig19_1_1122013	WormBase_imported	CDS	477287	477316	.	+	0	ID=cds:HMEPH_01247-RA.p1;Parent=transcript:HMEPH_01247-RA.p1
 Contig19_1_1122013	WormBase_imported	CDS	479433	479453	.	+	0	ID=cds:HMEPH_01247-RA.p1;Parent=transcript:HMEPH_01247-RA.p1
-Contig89	WormBase_imported	gene	251596	254276	.	+	.	ID=gene:MSTRG.15235;Name=MSTRG.15235;biotype=protein_coding
-Contig89	WormBase_imported	mRNA	251596	254276	.	+	.	ID=transcript:HMEPH_02945-RA.p1;Parent=gene:MSTRG.15235;Name=HMEPH_02945-RA.p1
-#microexons transcript:HMEPH_02945-RA.p1:  87 24-24-15 81 59 58
-Contig89	WormBase_imported	exon	251596	251682	.	+	.	ID=exon:HMEPH_02945-RA.p1.1;Parent=transcript:HMEPH_02945-RA.p1
-Contig89	WormBase_imported	exon	252274	252297	.	+	.	ID=exon:HMEPH_02945-RA.p1.2;Parent=transcript:HMEPH_02945-RA.p1
-Contig89	WormBase_imported	exon	252365	252388	.	+	.	ID=exon:HMEPH_02945-RA.p1.3;Parent=transcript:HMEPH_02945-RA.p1
-Contig89	WormBase_imported	exon	252523	252537	.	+	.	ID=exon:HMEPH_02945-RA.p1.4;Parent=transcript:HMEPH_02945-RA.p1
-Contig89	WormBase_imported	exon	252610	252690	.	+	.	ID=exon:HMEPH_02945-RA.p1.5;Parent=transcript:HMEPH_02945-RA.p1
-Contig89	WormBase_imported	exon	253366	253424	.	+	.	ID=exon:HMEPH_02945-RA.p1.6;Parent=transcript:HMEPH_02945-RA.p1
-Contig89	WormBase_imported	exon	254219	254276	.	+	.	ID=exon:HMEPH_02945-RA.p1.7;Parent=transcript:HMEPH_02945-RA.p1
-Contig89	WormBase_imported	CDS	251596	251682	.	+	0	ID=cds:HMEPH_02945-RA.p1;Parent=transcript:HMEPH_02945-RA.p1
-Contig89	WormBase_imported	CDS	252274	252297	.	+	0	ID=cds:HMEPH_02945-RA.p1;Parent=transcript:HMEPH_02945-RA.p1
-Contig89	WormBase_imported	CDS	252365	252388	.	+	0	ID=cds:HMEPH_02945-RA.p1;Parent=transcript:HMEPH_02945-RA.p1
-Contig89	WormBase_imported	CDS	252523	252537	.	+	0	ID=cds:HMEPH_02945-RA.p1;Parent=transcript:HMEPH_02945-RA.p1
-Contig89	WormBase_imported	CDS	252610	252690	.	+	0	ID=cds:HMEPH_02945-RA.p1;Parent=transcript:HMEPH_02945-RA.p1
-Contig89	WormBase_imported	CDS	253366	253424	.	+	0	ID=cds:HMEPH_02945-RA.p1;Parent=transcript:HMEPH_02945-RA.p1
-Contig89	WormBase_imported	CDS	254219	254276	.	+	1	ID=cds:HMEPH_02945-RA.p1;Parent=transcript:HMEPH_02945-RA.p1
+Contig76	WormBase_imported	gene	247453	248571	.	+	.	ID=gene:MSTRG.13705;Name=MSTRG.13705;biotype=protein_coding
+Contig76	WormBase_imported	mRNA	247453	248571	.	+	.	ID=transcript:HMEPH_03700-RA.p1;Parent=gene:MSTRG.13705;Name=HMEPH_03700-RA.p1
+#microexons transcript:HMEPH_03700-RA.p1:  110 42-33-36-36-36 155 196
+Contig76	WormBase_imported	exon	247453	247562	.	+	.	ID=exon:HMEPH_03700-RA.p1.1;Parent=transcript:HMEPH_03700-RA.p1
+Contig76	WormBase_imported	exon	247607	247648	.	+	.	ID=exon:HMEPH_03700-RA.p1.2;Parent=transcript:HMEPH_03700-RA.p1
+Contig76	WormBase_imported	exon	247693	247725	.	+	.	ID=exon:HMEPH_03700-RA.p1.3;Parent=transcript:HMEPH_03700-RA.p1
+Contig76	WormBase_imported	exon	247935	247970	.	+	.	ID=exon:HMEPH_03700-RA.p1.4;Parent=transcript:HMEPH_03700-RA.p1
+Contig76	WormBase_imported	exon	248017	248052	.	+	.	ID=exon:HMEPH_03700-RA.p1.5;Parent=transcript:HMEPH_03700-RA.p1
+Contig76	WormBase_imported	exon	248099	248134	.	+	.	ID=exon:HMEPH_03700-RA.p1.6;Parent=transcript:HMEPH_03700-RA.p1
+Contig76	WormBase_imported	exon	248181	248335	.	+	.	ID=exon:HMEPH_03700-RA.p1.7;Parent=transcript:HMEPH_03700-RA.p1
+Contig76	WormBase_imported	exon	248376	248571	.	+	.	ID=exon:HMEPH_03700-RA.p1.8;Parent=transcript:HMEPH_03700-RA.p1
+Contig76	WormBase_imported	CDS	247453	247562	.	+	0	ID=cds:HMEPH_03700-RA.p1;Parent=transcript:HMEPH_03700-RA.p1
+Contig76	WormBase_imported	CDS	247607	247648	.	+	1	ID=cds:HMEPH_03700-RA.p1;Parent=transcript:HMEPH_03700-RA.p1
+Contig76	WormBase_imported	CDS	247693	247725	.	+	1	ID=cds:HMEPH_03700-RA.p1;Parent=transcript:HMEPH_03700-RA.p1
+Contig76	WormBase_imported	CDS	247935	247970	.	+	1	ID=cds:HMEPH_03700-RA.p1;Parent=transcript:HMEPH_03700-RA.p1
+Contig76	WormBase_imported	CDS	248017	248052	.	+	1	ID=cds:HMEPH_03700-RA.p1;Parent=transcript:HMEPH_03700-RA.p1
+Contig76	WormBase_imported	CDS	248099	248134	.	+	1	ID=cds:HMEPH_03700-RA.p1;Parent=transcript:HMEPH_03700-RA.p1
+Contig76	WormBase_imported	CDS	248181	248335	.	+	1	ID=cds:HMEPH_03700-RA.p1;Parent=transcript:HMEPH_03700-RA.p1
+Contig76	WormBase_imported	CDS	248376	248455	.	+	2	ID=cds:HMEPH_03700-RA.p1;Parent=transcript:HMEPH_03700-RA.p1
+Contig76	WormBase_imported	three_prime_UTR	248456	248571	.	+	.	Parent=transcript:HMEPH_03700-RA.p1
 Contig19_1122032_1789918	WormBase_imported	gene	357278	363390	.	-	.	ID=gene:MSTRG.5014;Name=MSTRG.5014;biotype=protein_coding
 Contig19_1122032_1789918	WormBase_imported	mRNA	357278	363390	.	-	.	ID=transcript:HMEPH_04151-RA.p1;Parent=gene:MSTRG.5014;Name=HMEPH_04151-RA.p1
 #microexons transcript:HMEPH_04151-RA.p1:  130 44 27-27-27-27-27-27-27 95 46
@@ -59,7 +62,7 @@ Contig19_1122032_1789918	WormBase_imported	CDS	359469	359563	.	-	0	ID=cds:HMEPH_
 Contig19_1122032_1789918	WormBase_imported	CDS	357278	357323	.	-	1	ID=cds:HMEPH_04151-RA.p1;Parent=transcript:HMEPH_04151-RA.p1
 Contig19_1122032_1789918	WormBase_imported	gene	537881	549881	.	-	.	ID=gene:MSTRG.5064;Name=MSTRG.5064;biotype=protein_coding
 Contig19_1122032_1789918	WormBase_imported	mRNA	537881	549881	.	-	.	ID=transcript:HMEPH_04192-RA.p1;Parent=gene:MSTRG.5064;Name=HMEPH_04192-RA.p1
-#microexons transcript:HMEPH_04192-RA.p1:  15 37 20 294 6-24-24-15-6 46 71
+#microexons transcript:HMEPH_04192-RA.p1:  15 37 20 294-6-24-24-15-6 46 71
 Contig19_1122032_1789918	WormBase_imported	exon	549867	549881	.	-	.	ID=exon:HMEPH_04192-RA.p1.1;Parent=transcript:HMEPH_04192-RA.p1
 Contig19_1122032_1789918	WormBase_imported	exon	546182	546218	.	-	.	ID=exon:HMEPH_04192-RA.p1.2;Parent=transcript:HMEPH_04192-RA.p1
 Contig19_1122032_1789918	WormBase_imported	exon	545576	545595	.	-	.	ID=exon:HMEPH_04192-RA.p1.3;Parent=transcript:HMEPH_04192-RA.p1
@@ -84,29 +87,29 @@ Contig19_1122032_1789918	WormBase_imported	CDS	540116	540161	.	-	0	ID=cds:HMEPH_
 Contig19_1122032_1789918	WormBase_imported	CDS	537881	537951	.	-	2	ID=cds:HMEPH_04192-RA.p1;Parent=transcript:HMEPH_04192-RA.p1
 Contig60	WormBase_imported	gene	370942	378555	.	-	.	ID=gene:MSTRG.12401;Name=MSTRG.12401;biotype=protein_coding
 Contig60	WormBase_imported	mRNA	370942	374053	.	-	.	ID=transcript:HMEPH_04863-RA.p1;Parent=gene:MSTRG.12401;Name=HMEPH_04863-RA.p1
-#microexons transcript:HMEPH_04863-RA.p1:  2 234 41 27 33 181 30-30 57 27-27-27 125 27 72 356 125 30 54 54 134 150
+#microexons transcript:HMEPH_04863-RA.p1:  2 234 41 27-33 181 30-30-57-27-27-27 125 27-72 356 125 30-54-54 134 150
 Contig60	WormBase_imported	mRNA	374336	378555	.	-	.	ID=transcript:HMEPH_04864-RA.p1;Parent=gene:MSTRG.12401;Name=HMEPH_04864-RA.p1;info=method:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily
-#microexons transcript:HMEPH_04864-RA.p1:  209 346 192 492 180 45
+#microexons transcript:HMEPH_04864-RA.p1:  209 346 192-492-180-45
 Contig60	WormBase_imported	mRNA	370942	378555	.	-	.	ID=transcript:MSTRG.12401.1.p1;Parent=gene:MSTRG.12401;Name=MSTRG.12401.1.p1;info=method:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily
-#microexons transcript:MSTRG.12401.1.p1:  209 407 155 192 492 180 329 234 41 27 33 181 30-30 57 27-27-27 51 72 27-30 125 30 54 54 134 150
+#microexons transcript:MSTRG.12401.1.p1:  209 407 155 192-492-180 329 234 41 27-33 181 30-30-57-27-27-27-51-72-27-30 125 30-54-54 134 150
 Contig60	WormBase_imported	mRNA	370944	378555	.	-	.	ID=transcript:MSTRG.12401.10.p1;Parent=gene:MSTRG.12401;Name=MSTRG.12401.10.p1;info=method:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily
-#microexons transcript:MSTRG.12401.10.p1:  209 407 155 192 492 180 329 234 41 27 33 181 30-30 57 27-27 72 27-30 54 54 134 148
+#microexons transcript:MSTRG.12401.10.p1:  209 407 155 192-492-180 329 234 41 27-33 181 30-30-57-27-27-72-27-30-54-54 134 148
 Contig60	WormBase_imported	mRNA	370945	378555	.	-	.	ID=transcript:MSTRG.12401.11.p1;Parent=gene:MSTRG.12401;Name=MSTRG.12401.11.p1;info=method:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily
-#microexons transcript:MSTRG.12401.11.p1:  209 407 155 192 492 180 329 234 41 27 33 181 30-30 57 27-27-27 51 27 72 27-30 125 30 54 54 134 147
+#microexons transcript:MSTRG.12401.11.p1:  209 407 155 192-492-180 329 234 41 27-33 181 30-30-57-27-27-27-51-27-72-27-30 125 30-54-54 134 147
 Contig60	WormBase_imported	mRNA	370942	378555	.	-	.	ID=transcript:MSTRG.12401.2.p1;Parent=gene:MSTRG.12401;Name=MSTRG.12401.2.p1;info=method:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily
-#microexons transcript:MSTRG.12401.2.p1:  209 407 155 192 492 180 329 234 41 27 33 27-30 125 30 54 54 134 150
+#microexons transcript:MSTRG.12401.2.p1:  209 407 155 192-492-180 329 234 41 27-33-27-30 125 30-54-54 134 150
 Contig60	WormBase_imported	mRNA	370942	378555	.	-	.	ID=transcript:MSTRG.12401.3.p1;Parent=gene:MSTRG.12401;Name=MSTRG.12401.3.p1;info=method:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily
-#microexons transcript:MSTRG.12401.3.p1:  209 407 155 192 492 180 329 234 41 27 33 181 72 27-30 54 54 134 150
+#microexons transcript:MSTRG.12401.3.p1:  209 407 155 192-492-180 329 234 41 27-33 181 72-27-30-54-54 134 150
 Contig60	WormBase_imported	mRNA	370942	378555	.	-	.	ID=transcript:MSTRG.12401.4.p1;Parent=gene:MSTRG.12401;Name=MSTRG.12401.4.p1;info=method:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily
-#microexons transcript:MSTRG.12401.4.p1:  209 407 155 192 492 180 329 234 41 27 33 181 30-30 57 27-27-27-27-27 72 27-30 54 54 134 150
+#microexons transcript:MSTRG.12401.4.p1:  209 407 155 192-492-180 329 234 41 27-33 181 30-30-57-27-27-27-27-27-72-27-30-54-54 134 150
 Contig60	WormBase_imported	mRNA	370942	378555	.	-	.	ID=transcript:MSTRG.12401.5.p1;Parent=gene:MSTRG.12401;Name=MSTRG.12401.5.p1;info=method:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily
-#microexons transcript:MSTRG.12401.5.p1:  209 407 155 192 492 180 329 234 41 27 33 181 30-30 91 43 27 72 27-30 54 54 134 150
+#microexons transcript:MSTRG.12401.5.p1:  209 407 155 192-492-180 329 234 41 27-33 181 30-30 91 43 27-72-27-30-54-54 134 150
 Contig60	WormBase_imported	mRNA	370942	378555	.	-	.	ID=transcript:MSTRG.12401.6.p1;Parent=gene:MSTRG.12401;Name=MSTRG.12401.6.p1;info=method:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily
-#microexons transcript:MSTRG.12401.6.p1:  209 407 155 192 492 180 329 234 41 27 33 181 30-30 57 27-27-27-27-27 72 27-30 125 30 54 54 134 150
+#microexons transcript:MSTRG.12401.6.p1:  209 407 155 192-492-180 329 234 41 27-33 181 30-30-57-27-27-27-27-27-72-27-30 125 30-54-54 134 150
 Contig60	WormBase_imported	mRNA	370942	378510	.	-	.	ID=transcript:MSTRG.12401.7.p1;Parent=gene:MSTRG.12401;Name=MSTRG.12401.7.p1;info=method:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily
-#microexons transcript:MSTRG.12401.7.p1:  164 407 155 192 492 180 329 234 41 27 33 181 30-30 57 27-27-27 72 27-30 125 30 54 54 134 150
+#microexons transcript:MSTRG.12401.7.p1:  164 407 155 192-492-180 329 234 41 27-33 181 30-30-57-27-27-27-72-27-30 125 30-54-54 134 150
 Contig60	WormBase_imported	mRNA	370942	378555	.	-	.	ID=transcript:MSTRG.12401.8.p1;Parent=gene:MSTRG.12401;Name=MSTRG.12401.8.p1;info=method:InterPro accession:IPR002110 description:Ankyrin repeat %0Amethod:InterPro accession:IPR020683 description:Ankyrin repeat-containing domain %0Amethod:InterPro accession:IPR036770 description:Ankyrin repeat-containing domain superfamily
-#microexons transcript:MSTRG.12401.8.p1:  656 155 192 492 180 329 234 41 27 33 181 30-30 57 27-27-27 125 27 72 27-30 125 30 54 54 134 150
+#microexons transcript:MSTRG.12401.8.p1:  656 155 192-492-180 329 234 41 27-33 181 30-30-57-27-27-27 125 27-72-27-30 125 30-54-54 134 150
 Contig60	WormBase_imported	exon	374052	374053	.	-	.	ID=exon:HMEPH_04863-RA.p1.1;Parent=transcript:HMEPH_04863-RA.p1
 Contig60	WormBase_imported	exon	373745	373978	.	-	.	ID=exon:HMEPH_04863-RA.p1.2;Parent=transcript:HMEPH_04863-RA.p1
 Contig60	WormBase_imported	exon	373657	373697	.	-	.	ID=exon:HMEPH_04863-RA.p1.3;Parent=transcript:HMEPH_04863-RA.p1
@@ -694,7 +697,7 @@ Contig60	WormBase_imported	three_prime_UTR	371137	371270	.	-	.	Parent=transcript
 Contig60	WormBase_imported	three_prime_UTR	370942	371091	.	-	.	Parent=transcript:MSTRG.12401.8.p1
 Contig60	WormBase_imported	gene	493117	498260	.	+	.	ID=gene:MSTRG.12435;Name=MSTRG.12435;biotype=protein_coding
 Contig60	WormBase_imported	mRNA	493730	498260	.	+	.	ID=transcript:HMEPH_04899-RA.p1;Parent=gene:MSTRG.12435;Name=HMEPH_04899-RA.p1
-#microexons transcript:HMEPH_04899-RA.p1:  48 144 13 80 15-15-27
+#microexons transcript:HMEPH_04899-RA.p1:  48-144 13 80 15-15-27
 Contig60	WormBase_imported	mRNA	493117	494854	.	+	.	ID=transcript:MSTRG.12435.1.p1;Parent=gene:MSTRG.12435;Name=MSTRG.12435.1.p1
 #microexons transcript:MSTRG.12435.1.p1:  746 271
 Contig60	WormBase_imported	exon	493730	493777	.	+	.	ID=exon:HMEPH_04899-RA.p1.1;Parent=transcript:HMEPH_04899-RA.p1
@@ -717,9 +720,90 @@ Contig60	WormBase_imported	five_prime_UTR	493117	493118	.	+	.	Parent=transcript:
 Contig60	WormBase_imported	CDS	493119	493460	.	+	0	ID=cds:MSTRG.12435.1.p1;Parent=transcript:MSTRG.12435.1.p1
 Contig60	WormBase_imported	three_prime_UTR	493461	493862	.	+	.	Parent=transcript:MSTRG.12435.1.p1
 Contig60	WormBase_imported	three_prime_UTR	494584	494854	.	+	.	Parent=transcript:MSTRG.12435.1.p1
+Contig64	WormBase_imported	gene	134693	141737	.	-	.	ID=gene:MSTRG.12662;Name=MSTRG.12662;biotype=protein_coding
+Contig64	WormBase_imported	mRNA	136813	141737	.	-	.	ID=transcript:HMEPH_06340-RA.p1;Parent=gene:MSTRG.12662;Name=HMEPH_06340-RA.p1;info=method:InterPro accession:IPR000330 description:SNF2-related%2C N-terminal domain %0Amethod:InterPro accession:IPR001005 description:SANT/Myb domain %0Amethod:InterPro accession:IPR001163 description:LSM domain%2C eukaryotic/archaea-type %0Amethod:InterPro accession:IPR001650 description:Helicase%2C C-terminal %0Amethod:InterPro accession:IPR009057 description:Homeobox-like domain superfamily %0Amethod:InterPro accession:IPR010920 description:LSM domain superfamily %0Amethod:InterPro accession:IPR014001 description:Helicase superfamily 1/2%2C ATP-binding domain %0Amethod:InterPro accession:IPR015194 description:ISWI%2C HAND domain %0Amethod:InterPro accession:IPR015195 description:SLIDE domain %0Amethod:InterPro accession:IPR017884 description:SANT domain %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR029915 description:ISWI family%2C metazoa %0Amethod:InterPro accession:IPR036306 description:ISWI%2C HAND domain superfamily %0Amethod:InterPro accession:IPR038718 description:SNF2-like%2C N-terminal domain superfamily
+#microexons transcript:HMEPH_06340-RA.p1:  224 785 2017 57-57-57 139 347
+Contig64	WormBase_imported	mRNA	134693	141737	.	-	.	ID=transcript:MSTRG.12662.1.p1;Parent=gene:MSTRG.12662;Name=MSTRG.12662.1.p1;info=method:InterPro accession:IPR000330 description:SNF2-related%2C N-terminal domain %0Amethod:InterPro accession:IPR001005 description:SANT/Myb domain %0Amethod:InterPro accession:IPR001650 description:Helicase%2C C-terminal %0Amethod:InterPro accession:IPR009057 description:Homeobox-like domain superfamily %0Amethod:InterPro accession:IPR014001 description:Helicase superfamily 1/2%2C ATP-binding domain %0Amethod:InterPro accession:IPR015194 description:ISWI%2C HAND domain %0Amethod:InterPro accession:IPR015195 description:SLIDE domain %0Amethod:InterPro accession:IPR017884 description:SANT domain %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR029915 description:ISWI family%2C metazoa %0Amethod:InterPro accession:IPR036306 description:ISWI%2C HAND domain superfamily %0Amethod:InterPro accession:IPR038718 description:SNF2-like%2C N-terminal domain superfamily
+#microexons transcript:MSTRG.12662.1.p1:  224 99 785 2357 57-57 139 2467
+Contig64	WormBase_imported	mRNA	134693	141737	.	-	.	ID=transcript:MSTRG.12662.2.p1;Parent=gene:MSTRG.12662;Name=MSTRG.12662.2.p1;info=method:InterPro accession:IPR000330 description:SNF2-related%2C N-terminal domain %0Amethod:InterPro accession:IPR001005 description:SANT/Myb domain %0Amethod:InterPro accession:IPR001650 description:Helicase%2C C-terminal %0Amethod:InterPro accession:IPR009057 description:Homeobox-like domain superfamily %0Amethod:InterPro accession:IPR014001 description:Helicase superfamily 1/2%2C ATP-binding domain %0Amethod:InterPro accession:IPR015194 description:ISWI%2C HAND domain %0Amethod:InterPro accession:IPR015195 description:SLIDE domain %0Amethod:InterPro accession:IPR017884 description:SANT domain %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR029915 description:ISWI family%2C metazoa %0Amethod:InterPro accession:IPR036306 description:ISWI%2C HAND domain superfamily %0Amethod:InterPro accession:IPR038718 description:SNF2-like%2C N-terminal domain superfamily
+#microexons transcript:MSTRG.12662.2.p1:  224 99 785 2457-57-57 2647
+Contig64	WormBase_imported	mRNA	134693	141737	.	-	.	ID=transcript:MSTRG.12662.3.p1;Parent=gene:MSTRG.12662;Name=MSTRG.12662.3.p1;info=method:InterPro accession:IPR000330 description:SNF2-related%2C N-terminal domain %0Amethod:InterPro accession:IPR001005 description:SANT/Myb domain %0Amethod:InterPro accession:IPR001163 description:LSM domain%2C eukaryotic/archaea-type %0Amethod:InterPro accession:IPR001650 description:Helicase%2C C-terminal %0Amethod:InterPro accession:IPR009057 description:Homeobox-like domain superfamily %0Amethod:InterPro accession:IPR010920 description:LSM domain superfamily %0Amethod:InterPro accession:IPR014001 description:Helicase superfamily 1/2%2C ATP-binding domain %0Amethod:InterPro accession:IPR015194 description:ISWI%2C HAND domain %0Amethod:InterPro accession:IPR015195 description:SLIDE domain %0Amethod:InterPro accession:IPR017884 description:SANT domain %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR029915 description:ISWI family%2C metazoa %0Amethod:InterPro accession:IPR036306 description:ISWI%2C HAND domain superfamily %0Amethod:InterPro accession:IPR038718 description:SNF2-like%2C N-terminal domain superfamily
+#microexons transcript:MSTRG.12662.3.p1:  224 99 785 2017 57-57-57 139 2467
+Contig64	WormBase_imported	exon	141514	141737	.	-	.	ID=exon:HMEPH_06340-RA.p1.1;Parent=transcript:HMEPH_06340-RA.p1
+Contig64	WormBase_imported	exon	140200	140984	.	-	.	ID=exon:HMEPH_06340-RA.p1.2;Parent=transcript:HMEPH_06340-RA.p1
+Contig64	WormBase_imported	exon	138142	140158	.	-	.	ID=exon:HMEPH_06340-RA.p1.3;Parent=transcript:HMEPH_06340-RA.p1
+Contig64	WormBase_imported	exon	137702	137758	.	-	.	ID=exon:HMEPH_06340-RA.p1.4;Parent=transcript:HMEPH_06340-RA.p1
+Contig64	WormBase_imported	exon	137497	137553	.	-	.	ID=exon:HMEPH_06340-RA.p1.5;Parent=transcript:HMEPH_06340-RA.p1
+Contig64	WormBase_imported	exon	137390	137446	.	-	.	ID=exon:HMEPH_06340-RA.p1.6;Parent=transcript:HMEPH_06340-RA.p1
+Contig64	WormBase_imported	exon	137201	137339	.	-	.	ID=exon:HMEPH_06340-RA.p1.7;Parent=transcript:HMEPH_06340-RA.p1
+Contig64	WormBase_imported	exon	136813	137159	.	-	.	ID=exon:HMEPH_06340-RA.p1.8;Parent=transcript:HMEPH_06340-RA.p1
+Contig64	WormBase_imported	exon	141514	141737	.	-	.	ID=exon:MSTRG.12662.1.p1.1;Parent=transcript:MSTRG.12662.1.p1
+Contig64	WormBase_imported	exon	141363	141461	.	-	.	ID=exon:MSTRG.12662.1.p1.2;Parent=transcript:MSTRG.12662.1.p1
+Contig64	WormBase_imported	exon	140200	140984	.	-	.	ID=exon:MSTRG.12662.1.p1.3;Parent=transcript:MSTRG.12662.1.p1
+Contig64	WormBase_imported	exon	137802	140158	.	-	.	ID=exon:MSTRG.12662.1.p1.4;Parent=transcript:MSTRG.12662.1.p1
+Contig64	WormBase_imported	exon	137497	137553	.	-	.	ID=exon:MSTRG.12662.1.p1.5;Parent=transcript:MSTRG.12662.1.p1
+Contig64	WormBase_imported	exon	137390	137446	.	-	.	ID=exon:MSTRG.12662.1.p1.6;Parent=transcript:MSTRG.12662.1.p1
+Contig64	WormBase_imported	exon	137201	137339	.	-	.	ID=exon:MSTRG.12662.1.p1.7;Parent=transcript:MSTRG.12662.1.p1
+Contig64	WormBase_imported	exon	134693	137159	.	-	.	ID=exon:MSTRG.12662.1.p1.8;Parent=transcript:MSTRG.12662.1.p1
+Contig64	WormBase_imported	exon	141514	141737	.	-	.	ID=exon:MSTRG.12662.2.p1.1;Parent=transcript:MSTRG.12662.2.p1
+Contig64	WormBase_imported	exon	141363	141461	.	-	.	ID=exon:MSTRG.12662.2.p1.2;Parent=transcript:MSTRG.12662.2.p1
+Contig64	WormBase_imported	exon	140200	140984	.	-	.	ID=exon:MSTRG.12662.2.p1.3;Parent=transcript:MSTRG.12662.2.p1
+Contig64	WormBase_imported	exon	137702	140158	.	-	.	ID=exon:MSTRG.12662.2.p1.4;Parent=transcript:MSTRG.12662.2.p1
+Contig64	WormBase_imported	exon	137497	137553	.	-	.	ID=exon:MSTRG.12662.2.p1.5;Parent=transcript:MSTRG.12662.2.p1
+Contig64	WormBase_imported	exon	137390	137446	.	-	.	ID=exon:MSTRG.12662.2.p1.6;Parent=transcript:MSTRG.12662.2.p1
+Contig64	WormBase_imported	exon	134693	137339	.	-	.	ID=exon:MSTRG.12662.2.p1.7;Parent=transcript:MSTRG.12662.2.p1
+Contig64	WormBase_imported	exon	141514	141737	.	-	.	ID=exon:MSTRG.12662.3.p1.1;Parent=transcript:MSTRG.12662.3.p1
+Contig64	WormBase_imported	exon	141363	141461	.	-	.	ID=exon:MSTRG.12662.3.p1.2;Parent=transcript:MSTRG.12662.3.p1
+Contig64	WormBase_imported	exon	140200	140984	.	-	.	ID=exon:MSTRG.12662.3.p1.3;Parent=transcript:MSTRG.12662.3.p1
+Contig64	WormBase_imported	exon	138142	140158	.	-	.	ID=exon:MSTRG.12662.3.p1.4;Parent=transcript:MSTRG.12662.3.p1
+Contig64	WormBase_imported	exon	137702	137758	.	-	.	ID=exon:MSTRG.12662.3.p1.5;Parent=transcript:MSTRG.12662.3.p1
+Contig64	WormBase_imported	exon	137497	137553	.	-	.	ID=exon:MSTRG.12662.3.p1.6;Parent=transcript:MSTRG.12662.3.p1
+Contig64	WormBase_imported	exon	137390	137446	.	-	.	ID=exon:MSTRG.12662.3.p1.7;Parent=transcript:MSTRG.12662.3.p1
+Contig64	WormBase_imported	exon	137201	137339	.	-	.	ID=exon:MSTRG.12662.3.p1.8;Parent=transcript:MSTRG.12662.3.p1
+Contig64	WormBase_imported	exon	134693	137159	.	-	.	ID=exon:MSTRG.12662.3.p1.9;Parent=transcript:MSTRG.12662.3.p1
+Contig64	WormBase_imported	five_prime_UTR	141716	141737	.	-	.	Parent=transcript:HMEPH_06340-RA.p1
+Contig64	WormBase_imported	CDS	141514	141715	.	-	0	ID=cds:HMEPH_06340-RA.p1;Parent=transcript:HMEPH_06340-RA.p1
+Contig64	WormBase_imported	CDS	140200	140984	.	-	2	ID=cds:HMEPH_06340-RA.p1;Parent=transcript:HMEPH_06340-RA.p1
+Contig64	WormBase_imported	CDS	138142	140158	.	-	0	ID=cds:HMEPH_06340-RA.p1;Parent=transcript:HMEPH_06340-RA.p1
+Contig64	WormBase_imported	CDS	137702	137758	.	-	2	ID=cds:HMEPH_06340-RA.p1;Parent=transcript:HMEPH_06340-RA.p1
+Contig64	WormBase_imported	CDS	137497	137553	.	-	2	ID=cds:HMEPH_06340-RA.p1;Parent=transcript:HMEPH_06340-RA.p1
+Contig64	WormBase_imported	CDS	137390	137446	.	-	2	ID=cds:HMEPH_06340-RA.p1;Parent=transcript:HMEPH_06340-RA.p1
+Contig64	WormBase_imported	CDS	137201	137339	.	-	2	ID=cds:HMEPH_06340-RA.p1;Parent=transcript:HMEPH_06340-RA.p1
+Contig64	WormBase_imported	CDS	136820	137159	.	-	1	ID=cds:HMEPH_06340-RA.p1;Parent=transcript:HMEPH_06340-RA.p1
+Contig64	WormBase_imported	three_prime_UTR	136813	136819	.	-	.	Parent=transcript:HMEPH_06340-RA.p1
+Contig64	WormBase_imported	five_prime_UTR	141716	141737	.	-	.	Parent=transcript:MSTRG.12662.1.p1
+Contig64	WormBase_imported	CDS	141514	141715	.	-	0	ID=cds:MSTRG.12662.1.p1;Parent=transcript:MSTRG.12662.1.p1
+Contig64	WormBase_imported	CDS	141363	141461	.	-	2	ID=cds:MSTRG.12662.1.p1;Parent=transcript:MSTRG.12662.1.p1
+Contig64	WormBase_imported	CDS	140200	140984	.	-	2	ID=cds:MSTRG.12662.1.p1;Parent=transcript:MSTRG.12662.1.p1
+Contig64	WormBase_imported	CDS	138134	140158	.	-	0	ID=cds:MSTRG.12662.1.p1;Parent=transcript:MSTRG.12662.1.p1
+Contig64	WormBase_imported	three_prime_UTR	137802	138133	.	-	.	Parent=transcript:MSTRG.12662.1.p1
+Contig64	WormBase_imported	three_prime_UTR	137497	137553	.	-	.	Parent=transcript:MSTRG.12662.1.p1
+Contig64	WormBase_imported	three_prime_UTR	137390	137446	.	-	.	Parent=transcript:MSTRG.12662.1.p1
+Contig64	WormBase_imported	three_prime_UTR	137201	137339	.	-	.	Parent=transcript:MSTRG.12662.1.p1
+Contig64	WormBase_imported	three_prime_UTR	134693	137159	.	-	.	Parent=transcript:MSTRG.12662.1.p1
+Contig64	WormBase_imported	five_prime_UTR	141716	141737	.	-	.	Parent=transcript:MSTRG.12662.2.p1
+Contig64	WormBase_imported	CDS	141514	141715	.	-	0	ID=cds:MSTRG.12662.2.p1;Parent=transcript:MSTRG.12662.2.p1
+Contig64	WormBase_imported	CDS	141363	141461	.	-	2	ID=cds:MSTRG.12662.2.p1;Parent=transcript:MSTRG.12662.2.p1
+Contig64	WormBase_imported	CDS	140200	140984	.	-	2	ID=cds:MSTRG.12662.2.p1;Parent=transcript:MSTRG.12662.2.p1
+Contig64	WormBase_imported	CDS	138134	140158	.	-	0	ID=cds:MSTRG.12662.2.p1;Parent=transcript:MSTRG.12662.2.p1
+Contig64	WormBase_imported	three_prime_UTR	137702	138133	.	-	.	Parent=transcript:MSTRG.12662.2.p1
+Contig64	WormBase_imported	three_prime_UTR	137497	137553	.	-	.	Parent=transcript:MSTRG.12662.2.p1
+Contig64	WormBase_imported	three_prime_UTR	137390	137446	.	-	.	Parent=transcript:MSTRG.12662.2.p1
+Contig64	WormBase_imported	three_prime_UTR	134693	137339	.	-	.	Parent=transcript:MSTRG.12662.2.p1
+Contig64	WormBase_imported	five_prime_UTR	141716	141737	.	-	.	Parent=transcript:MSTRG.12662.3.p1
+Contig64	WormBase_imported	CDS	141514	141715	.	-	0	ID=cds:MSTRG.12662.3.p1;Parent=transcript:MSTRG.12662.3.p1
+Contig64	WormBase_imported	CDS	141363	141461	.	-	2	ID=cds:MSTRG.12662.3.p1;Parent=transcript:MSTRG.12662.3.p1
+Contig64	WormBase_imported	CDS	140200	140984	.	-	2	ID=cds:MSTRG.12662.3.p1;Parent=transcript:MSTRG.12662.3.p1
+Contig64	WormBase_imported	CDS	138142	140158	.	-	0	ID=cds:MSTRG.12662.3.p1;Parent=transcript:MSTRG.12662.3.p1
+Contig64	WormBase_imported	CDS	137702	137758	.	-	2	ID=cds:MSTRG.12662.3.p1;Parent=transcript:MSTRG.12662.3.p1
+Contig64	WormBase_imported	CDS	137497	137553	.	-	2	ID=cds:MSTRG.12662.3.p1;Parent=transcript:MSTRG.12662.3.p1
+Contig64	WormBase_imported	CDS	137390	137446	.	-	2	ID=cds:MSTRG.12662.3.p1;Parent=transcript:MSTRG.12662.3.p1
+Contig64	WormBase_imported	CDS	137201	137339	.	-	2	ID=cds:MSTRG.12662.3.p1;Parent=transcript:MSTRG.12662.3.p1
+Contig64	WormBase_imported	CDS	136820	137159	.	-	1	ID=cds:MSTRG.12662.3.p1;Parent=transcript:MSTRG.12662.3.p1
+Contig64	WormBase_imported	three_prime_UTR	134693	136819	.	-	.	Parent=transcript:MSTRG.12662.3.p1
 Contig40	WormBase_imported	gene	154214	161966	.	-	.	ID=gene:MSTRG.10537;Name=MSTRG.10537;biotype=protein_coding
 Contig40	WormBase_imported	mRNA	154214	161966	.	-	.	ID=transcript:HMEPH_07362-RA.p1;Parent=gene:MSTRG.10537;Name=HMEPH_07362-RA.p1
-#microexons transcript:HMEPH_07362-RA.p1:  26 34 6-6-6-6-30-18 208 105 557 90 18
+#microexons transcript:HMEPH_07362-RA.p1:  26 34 6-6-6-6-30-18 208 105 557 90-18
 Contig40	WormBase_imported	mRNA	155469	157086	.	-	.	ID=transcript:MSTRG.10537.2.p1;Parent=gene:MSTRG.10537;Name=MSTRG.10537.2.p1
 #microexons transcript:MSTRG.10537.2.p1:  544 105 557 267
 Contig40	WormBase_imported	mRNA	155827	157086	.	-	.	ID=transcript:MSTRG.10537.3.p1;Parent=gene:MSTRG.10537;Name=MSTRG.10537.3.p1
@@ -767,81 +851,34 @@ Contig40	WormBase_imported	five_prime_UTR	156930	157086	.	-	.	Parent=transcript:
 Contig40	WormBase_imported	five_prime_UTR	156420	156750	.	-	.	Parent=transcript:MSTRG.10537.3.p1
 Contig40	WormBase_imported	CDS	156392	156419	.	-	0	ID=cds:MSTRG.10537.3.p1;Parent=transcript:MSTRG.10537.3.p1
 Contig40	WormBase_imported	CDS	155827	156383	.	-	2	ID=cds:MSTRG.10537.3.p1;Parent=transcript:MSTRG.10537.3.p1
-Contig40	WormBase_imported	gene	170312	178665	.	+	.	ID=gene:MSTRG.10543;Name=MSTRG.10543;biotype=protein_coding
-Contig40	WormBase_imported	mRNA	172760	176610	.	+	.	ID=transcript:HMEPH_07366-RA.p1;Parent=gene:MSTRG.10543;Name=HMEPH_07366-RA.p1;info=method:InterPro accession:IPR001757 description:P-type ATPase %0Amethod:InterPro accession:IPR004014 description:Cation-transporting P-type ATPase%2C N-terminal %0Amethod:InterPro accession:IPR006068 description:Cation-transporting P-type ATPase%2C C-terminal %0Amethod:InterPro accession:IPR006413 description:P-type ATPase%2C subfamily IIA%2C PMR1-type %0Amethod:InterPro accession:IPR008250 description:P-type ATPase%2C A domain superfamily %0Amethod:InterPro accession:IPR018303 description:P-type ATPase%2C phosphorylation site %0Amethod:InterPro accession:IPR023214 description:HAD superfamily %0Amethod:InterPro accession:IPR023298 description:P-type ATPase%2C transmembrane domain superfamily %0Amethod:InterPro accession:IPR023299 description:P-type ATPase%2C cytoplasmic domain N %0Amethod:InterPro accession:IPR030336 description:Calcium-transporting ATPase type 2C member 1 %0Amethod:InterPro accession:IPR036412 description:HAD-like superfamily
-#microexons transcript:HMEPH_07366-RA.p1:  86 192 326 247 1209 742 134
-Contig40	WormBase_imported	mRNA	170312	178665	.	+	.	ID=transcript:MSTRG.10543.1.p1;Parent=gene:MSTRG.10543;Name=MSTRG.10543.1.p1;info=method:InterPro accession:IPR001757 description:P-type ATPase %0Amethod:InterPro accession:IPR004014 description:Cation-transporting P-type ATPase%2C N-terminal %0Amethod:InterPro accession:IPR006068 description:Cation-transporting P-type ATPase%2C C-terminal %0Amethod:InterPro accession:IPR006413 description:P-type ATPase%2C subfamily IIA%2C PMR1-type %0Amethod:InterPro accession:IPR008250 description:P-type ATPase%2C A domain superfamily %0Amethod:InterPro accession:IPR018303 description:P-type ATPase%2C phosphorylation site %0Amethod:InterPro accession:IPR023214 description:HAD superfamily %0Amethod:InterPro accession:IPR023298 description:P-type ATPase%2C transmembrane domain superfamily %0Amethod:InterPro accession:IPR023299 description:P-type ATPase%2C cytoplasmic domain N %0Amethod:InterPro accession:IPR030336 description:Calcium-transporting ATPase type 2C member 1 %0Amethod:InterPro accession:IPR036412 description:HAD-like superfamily
-#microexons transcript:MSTRG.10543.1.p1:  275 192 326 265 1209 742 201 86 18-18-18 41 31
-Contig40	WormBase_imported	mRNA	172760	176767	.	+	.	ID=transcript:MSTRG.10543.2.p1;Parent=gene:MSTRG.10543;Name=MSTRG.10543.2.p1;info=method:InterPro accession:IPR001757 description:P-type ATPase %0Amethod:InterPro accession:IPR004014 description:Cation-transporting P-type ATPase%2C N-terminal %0Amethod:InterPro accession:IPR006068 description:Cation-transporting P-type ATPase%2C C-terminal %0Amethod:InterPro accession:IPR006413 description:P-type ATPase%2C subfamily IIA%2C PMR1-type %0Amethod:InterPro accession:IPR008250 description:P-type ATPase%2C A domain superfamily %0Amethod:InterPro accession:IPR018303 description:P-type ATPase%2C phosphorylation site %0Amethod:InterPro accession:IPR023214 description:HAD superfamily %0Amethod:InterPro accession:IPR023298 description:P-type ATPase%2C transmembrane domain superfamily %0Amethod:InterPro accession:IPR023299 description:P-type ATPase%2C cytoplasmic domain N %0Amethod:InterPro accession:IPR030336 description:Calcium-transporting ATPase type 2C member 1 %0Amethod:InterPro accession:IPR036412 description:HAD-like superfamily
-#microexons transcript:MSTRG.10543.2.p1:  86 192 326 265 1209 742 291
-Contig40	WormBase_imported	exon	172760	172845	.	+	.	ID=exon:HMEPH_07366-RA.p1.1;Parent=transcript:HMEPH_07366-RA.p1
-Contig40	WormBase_imported	exon	172926	173117	.	+	.	ID=exon:HMEPH_07366-RA.p1.2;Parent=transcript:HMEPH_07366-RA.p1
-Contig40	WormBase_imported	exon	173408	173733	.	+	.	ID=exon:HMEPH_07366-RA.p1.3;Parent=transcript:HMEPH_07366-RA.p1
-Contig40	WormBase_imported	exon	174116	174362	.	+	.	ID=exon:HMEPH_07366-RA.p1.4;Parent=transcript:HMEPH_07366-RA.p1
-Contig40	WormBase_imported	exon	174408	175616	.	+	.	ID=exon:HMEPH_07366-RA.p1.5;Parent=transcript:HMEPH_07366-RA.p1
-Contig40	WormBase_imported	exon	175691	176432	.	+	.	ID=exon:HMEPH_07366-RA.p1.6;Parent=transcript:HMEPH_07366-RA.p1
-Contig40	WormBase_imported	exon	176477	176610	.	+	.	ID=exon:HMEPH_07366-RA.p1.7;Parent=transcript:HMEPH_07366-RA.p1
-Contig40	WormBase_imported	exon	170312	170586	.	+	.	ID=exon:MSTRG.10543.1.p1.1;Parent=transcript:MSTRG.10543.1.p1
-Contig40	WormBase_imported	exon	172926	173117	.	+	.	ID=exon:MSTRG.10543.1.p1.2;Parent=transcript:MSTRG.10543.1.p1
-Contig40	WormBase_imported	exon	173408	173733	.	+	.	ID=exon:MSTRG.10543.1.p1.3;Parent=transcript:MSTRG.10543.1.p1
-Contig40	WormBase_imported	exon	174098	174362	.	+	.	ID=exon:MSTRG.10543.1.p1.4;Parent=transcript:MSTRG.10543.1.p1
-Contig40	WormBase_imported	exon	174408	175616	.	+	.	ID=exon:MSTRG.10543.1.p1.5;Parent=transcript:MSTRG.10543.1.p1
-Contig40	WormBase_imported	exon	175691	176432	.	+	.	ID=exon:MSTRG.10543.1.p1.6;Parent=transcript:MSTRG.10543.1.p1
-Contig40	WormBase_imported	exon	176477	176677	.	+	.	ID=exon:MSTRG.10543.1.p1.7;Parent=transcript:MSTRG.10543.1.p1
-Contig40	WormBase_imported	exon	177121	177206	.	+	.	ID=exon:MSTRG.10543.1.p1.8;Parent=transcript:MSTRG.10543.1.p1
-Contig40	WormBase_imported	exon	177426	177443	.	+	.	ID=exon:MSTRG.10543.1.p1.9;Parent=transcript:MSTRG.10543.1.p1
-Contig40	WormBase_imported	exon	177576	177593	.	+	.	ID=exon:MSTRG.10543.1.p1.10;Parent=transcript:MSTRG.10543.1.p1
-Contig40	WormBase_imported	exon	177726	177743	.	+	.	ID=exon:MSTRG.10543.1.p1.11;Parent=transcript:MSTRG.10543.1.p1
-Contig40	WormBase_imported	exon	178206	178246	.	+	.	ID=exon:MSTRG.10543.1.p1.12;Parent=transcript:MSTRG.10543.1.p1
-Contig40	WormBase_imported	exon	178635	178665	.	+	.	ID=exon:MSTRG.10543.1.p1.13;Parent=transcript:MSTRG.10543.1.p1
-Contig40	WormBase_imported	exon	172760	172845	.	+	.	ID=exon:MSTRG.10543.2.p1.1;Parent=transcript:MSTRG.10543.2.p1
-Contig40	WormBase_imported	exon	172926	173117	.	+	.	ID=exon:MSTRG.10543.2.p1.2;Parent=transcript:MSTRG.10543.2.p1
-Contig40	WormBase_imported	exon	173408	173733	.	+	.	ID=exon:MSTRG.10543.2.p1.3;Parent=transcript:MSTRG.10543.2.p1
-Contig40	WormBase_imported	exon	174098	174362	.	+	.	ID=exon:MSTRG.10543.2.p1.4;Parent=transcript:MSTRG.10543.2.p1
-Contig40	WormBase_imported	exon	174408	175616	.	+	.	ID=exon:MSTRG.10543.2.p1.5;Parent=transcript:MSTRG.10543.2.p1
-Contig40	WormBase_imported	exon	175691	176432	.	+	.	ID=exon:MSTRG.10543.2.p1.6;Parent=transcript:MSTRG.10543.2.p1
-Contig40	WormBase_imported	exon	176477	176767	.	+	.	ID=exon:MSTRG.10543.2.p1.7;Parent=transcript:MSTRG.10543.2.p1
-Contig40	WormBase_imported	five_prime_UTR	172760	172761	.	+	.	Parent=transcript:HMEPH_07366-RA.p1
-Contig40	WormBase_imported	CDS	172762	172845	.	+	0	ID=cds:HMEPH_07366-RA.p1;Parent=transcript:HMEPH_07366-RA.p1
-Contig40	WormBase_imported	CDS	172926	173117	.	+	0	ID=cds:HMEPH_07366-RA.p1;Parent=transcript:HMEPH_07366-RA.p1
-Contig40	WormBase_imported	CDS	173408	173733	.	+	0	ID=cds:HMEPH_07366-RA.p1;Parent=transcript:HMEPH_07366-RA.p1
-Contig40	WormBase_imported	CDS	174116	174362	.	+	1	ID=cds:HMEPH_07366-RA.p1;Parent=transcript:HMEPH_07366-RA.p1
-Contig40	WormBase_imported	CDS	174408	175616	.	+	0	ID=cds:HMEPH_07366-RA.p1;Parent=transcript:HMEPH_07366-RA.p1
-Contig40	WormBase_imported	CDS	175691	176432	.	+	0	ID=cds:HMEPH_07366-RA.p1;Parent=transcript:HMEPH_07366-RA.p1
-Contig40	WormBase_imported	CDS	176477	176610	.	+	2	ID=cds:HMEPH_07366-RA.p1;Parent=transcript:HMEPH_07366-RA.p1
-Contig40	WormBase_imported	five_prime_UTR	170312	170586	.	+	.	Parent=transcript:MSTRG.10543.1.p1
-Contig40	WormBase_imported	five_prime_UTR	172926	173069	.	+	.	Parent=transcript:MSTRG.10543.1.p1
-Contig40	WormBase_imported	CDS	173070	173117	.	+	0	ID=cds:MSTRG.10543.1.p1;Parent=transcript:MSTRG.10543.1.p1
-Contig40	WormBase_imported	CDS	173408	173733	.	+	0	ID=cds:MSTRG.10543.1.p1;Parent=transcript:MSTRG.10543.1.p1
-Contig40	WormBase_imported	CDS	174098	174362	.	+	1	ID=cds:MSTRG.10543.1.p1;Parent=transcript:MSTRG.10543.1.p1
-Contig40	WormBase_imported	CDS	174408	175616	.	+	0	ID=cds:MSTRG.10543.1.p1;Parent=transcript:MSTRG.10543.1.p1
-Contig40	WormBase_imported	CDS	175691	176432	.	+	0	ID=cds:MSTRG.10543.1.p1;Parent=transcript:MSTRG.10543.1.p1
-Contig40	WormBase_imported	CDS	176477	176610	.	+	2	ID=cds:MSTRG.10543.1.p1;Parent=transcript:MSTRG.10543.1.p1
-Contig40	WormBase_imported	three_prime_UTR	176611	176677	.	+	.	Parent=transcript:MSTRG.10543.1.p1
-Contig40	WormBase_imported	three_prime_UTR	177121	177206	.	+	.	Parent=transcript:MSTRG.10543.1.p1
-Contig40	WormBase_imported	three_prime_UTR	177426	177443	.	+	.	Parent=transcript:MSTRG.10543.1.p1
-Contig40	WormBase_imported	three_prime_UTR	177576	177593	.	+	.	Parent=transcript:MSTRG.10543.1.p1
-Contig40	WormBase_imported	three_prime_UTR	177726	177743	.	+	.	Parent=transcript:MSTRG.10543.1.p1
-Contig40	WormBase_imported	three_prime_UTR	178206	178246	.	+	.	Parent=transcript:MSTRG.10543.1.p1
-Contig40	WormBase_imported	three_prime_UTR	178635	178665	.	+	.	Parent=transcript:MSTRG.10543.1.p1
-Contig40	WormBase_imported	five_prime_UTR	172760	172761	.	+	.	Parent=transcript:MSTRG.10543.2.p1
-Contig40	WormBase_imported	CDS	172762	172845	.	+	0	ID=cds:MSTRG.10543.2.p1;Parent=transcript:MSTRG.10543.2.p1
-Contig40	WormBase_imported	CDS	172926	173117	.	+	0	ID=cds:MSTRG.10543.2.p1;Parent=transcript:MSTRG.10543.2.p1
-Contig40	WormBase_imported	CDS	173408	173733	.	+	0	ID=cds:MSTRG.10543.2.p1;Parent=transcript:MSTRG.10543.2.p1
-Contig40	WormBase_imported	CDS	174098	174362	.	+	1	ID=cds:MSTRG.10543.2.p1;Parent=transcript:MSTRG.10543.2.p1
-Contig40	WormBase_imported	CDS	174408	175616	.	+	0	ID=cds:MSTRG.10543.2.p1;Parent=transcript:MSTRG.10543.2.p1
-Contig40	WormBase_imported	CDS	175691	176432	.	+	0	ID=cds:MSTRG.10543.2.p1;Parent=transcript:MSTRG.10543.2.p1
-Contig40	WormBase_imported	CDS	176477	176610	.	+	2	ID=cds:MSTRG.10543.2.p1;Parent=transcript:MSTRG.10543.2.p1
-Contig40	WormBase_imported	three_prime_UTR	176611	176767	.	+	.	Parent=transcript:MSTRG.10543.2.p1
+Contig80	WormBase_imported	gene	25169	31760	.	-	.	ID=gene:MSTRG.14164;Name=MSTRG.14164;biotype=protein_coding
+Contig80	WormBase_imported	mRNA	25169	31760	.	-	.	ID=transcript:HMEPH_09303-RA.p1;Parent=gene:MSTRG.14164;Name=HMEPH_09303-RA.p1
+#microexons transcript:HMEPH_09303-RA.p1:  142 31 31 31 14 24-51-18
+Contig80	WormBase_imported	exon	31619	31760	.	-	.	ID=exon:HMEPH_09303-RA.p1.1;Parent=transcript:HMEPH_09303-RA.p1
+Contig80	WormBase_imported	exon	29484	29514	.	-	.	ID=exon:HMEPH_09303-RA.p1.2;Parent=transcript:HMEPH_09303-RA.p1
+Contig80	WormBase_imported	exon	29335	29365	.	-	.	ID=exon:HMEPH_09303-RA.p1.3;Parent=transcript:HMEPH_09303-RA.p1
+Contig80	WormBase_imported	exon	29185	29215	.	-	.	ID=exon:HMEPH_09303-RA.p1.4;Parent=transcript:HMEPH_09303-RA.p1
+Contig80	WormBase_imported	exon	28748	28761	.	-	.	ID=exon:HMEPH_09303-RA.p1.5;Parent=transcript:HMEPH_09303-RA.p1
+Contig80	WormBase_imported	exon	28389	28412	.	-	.	ID=exon:HMEPH_09303-RA.p1.6;Parent=transcript:HMEPH_09303-RA.p1
+Contig80	WormBase_imported	exon	27646	27696	.	-	.	ID=exon:HMEPH_09303-RA.p1.7;Parent=transcript:HMEPH_09303-RA.p1
+Contig80	WormBase_imported	exon	25169	25186	.	-	.	ID=exon:HMEPH_09303-RA.p1.8;Parent=transcript:HMEPH_09303-RA.p1
+Contig80	WormBase_imported	CDS	31619	31760	.	-	0	ID=cds:HMEPH_09303-RA.p1;Parent=transcript:HMEPH_09303-RA.p1
+Contig80	WormBase_imported	CDS	29484	29514	.	-	2	ID=cds:HMEPH_09303-RA.p1;Parent=transcript:HMEPH_09303-RA.p1
+Contig80	WormBase_imported	CDS	29335	29365	.	-	1	ID=cds:HMEPH_09303-RA.p1;Parent=transcript:HMEPH_09303-RA.p1
+Contig80	WormBase_imported	CDS	29185	29215	.	-	0	ID=cds:HMEPH_09303-RA.p1;Parent=transcript:HMEPH_09303-RA.p1
+Contig80	WormBase_imported	CDS	28748	28761	.	-	2	ID=cds:HMEPH_09303-RA.p1;Parent=transcript:HMEPH_09303-RA.p1
+Contig80	WormBase_imported	CDS	28389	28412	.	-	0	ID=cds:HMEPH_09303-RA.p1;Parent=transcript:HMEPH_09303-RA.p1
+Contig80	WormBase_imported	CDS	27646	27696	.	-	0	ID=cds:HMEPH_09303-RA.p1;Parent=transcript:HMEPH_09303-RA.p1
+Contig80	WormBase_imported	CDS	25169	25186	.	-	0	ID=cds:HMEPH_09303-RA.p1;Parent=transcript:HMEPH_09303-RA.p1
 Contig45	WormBase_imported	gene	179263	188204	.	+	.	ID=gene:MSTRG.11054;Name=MSTRG.11054;biotype=protein_coding
 Contig45	WormBase_imported	mRNA	179263	181287	.	+	.	ID=transcript:HMEPH_10620-RA.p1;Parent=gene:MSTRG.11054;Name=HMEPH_10620-RA.p1
-#microexons transcript:HMEPH_10620-RA.p1:  167 15-15-15-27 111 24 33
+#microexons transcript:HMEPH_10620-RA.p1:  167 15-15-15-27-111-24-33
 Contig45	WormBase_imported	mRNA	181300	188204	.	+	.	ID=transcript:HMEPH_10621-RA.p1;Parent=gene:MSTRG.11054;Name=HMEPH_10621-RA.p1;info=method:InterPro accession:IPR006028 description:Gamma-aminobutyric acid A receptor/Glycine receptor alpha %0Amethod:InterPro accession:IPR006029 description:Neurotransmitter-gated ion-channel transmembrane domain %0Amethod:InterPro accession:IPR006201 description:Neurotransmitter-gated ion-channel %0Amethod:InterPro accession:IPR006202 description:Neurotransmitter-gated ion-channel ligand-binding domain %0Amethod:InterPro accession:IPR018000 description:Neurotransmitter-gated ion-channel%2C conserved site %0Amethod:InterPro accession:IPR036719 description:Neurotransmitter-gated ion-channel transmembrane domain superfamily %0Amethod:InterPro accession:IPR036734 description:Neurotransmitter-gated ion-channel ligand-binding domain superfamily
-#microexons transcript:HMEPH_10621-RA.p1:  669 240 394 380 84 109 23
+#microexons transcript:HMEPH_10621-RA.p1:  669-240 394 380 84 109 23
 Contig45	WormBase_imported	mRNA	179263	187161	.	+	.	ID=transcript:MSTRG.11054.1.p1;Parent=gene:MSTRG.11054;Name=MSTRG.11054.1.p1;info=method:InterPro accession:IPR006028 description:Gamma-aminobutyric acid A receptor/Glycine receptor alpha %0Amethod:InterPro accession:IPR006029 description:Neurotransmitter-gated ion-channel transmembrane domain %0Amethod:InterPro accession:IPR006201 description:Neurotransmitter-gated ion-channel %0Amethod:InterPro accession:IPR006202 description:Neurotransmitter-gated ion-channel ligand-binding domain %0Amethod:InterPro accession:IPR018000 description:Neurotransmitter-gated ion-channel%2C conserved site %0Amethod:InterPro accession:IPR036719 description:Neurotransmitter-gated ion-channel transmembrane domain superfamily %0Amethod:InterPro accession:IPR036734 description:Neurotransmitter-gated ion-channel ligand-binding domain superfamily
-#microexons transcript:MSTRG.11054.1.p1:  167 15-15-15-27 111 24 714 240 394 380 84 109 251
+#microexons transcript:MSTRG.11054.1.p1:  167 15-15-15-27-111-24-714-240 394 380 84 109 251
 Contig45	WormBase_imported	mRNA	180558	188204	.	+	.	ID=transcript:MSTRG.11054.3.p1;Parent=gene:MSTRG.11054;Name=MSTRG.11054.3.p1;info=method:InterPro accession:IPR006028 description:Gamma-aminobutyric acid A receptor/Glycine receptor alpha %0Amethod:InterPro accession:IPR006029 description:Neurotransmitter-gated ion-channel transmembrane domain %0Amethod:InterPro accession:IPR006201 description:Neurotransmitter-gated ion-channel %0Amethod:InterPro accession:IPR006202 description:Neurotransmitter-gated ion-channel ligand-binding domain %0Amethod:InterPro accession:IPR018000 description:Neurotransmitter-gated ion-channel%2C conserved site %0Amethod:InterPro accession:IPR036719 description:Neurotransmitter-gated ion-channel transmembrane domain superfamily %0Amethod:InterPro accession:IPR036734 description:Neurotransmitter-gated ion-channel ligand-binding domain superfamily
-#microexons transcript:MSTRG.11054.3.p1:  333 714 240 394 380 84 109 23
+#microexons transcript:MSTRG.11054.3.p1:  333-714-240 394 380 84 109 23
 Contig45	WormBase_imported	exon	179263	179429	.	+	.	ID=exon:HMEPH_10620-RA.p1.1;Parent=transcript:HMEPH_10620-RA.p1
 Contig45	WormBase_imported	exon	179716	179730	.	+	.	ID=exon:HMEPH_10620-RA.p1.2;Parent=transcript:HMEPH_10620-RA.p1
 Contig45	WormBase_imported	exon	179784	179798	.	+	.	ID=exon:HMEPH_10620-RA.p1.3;Parent=transcript:HMEPH_10620-RA.p1
@@ -922,9 +959,9 @@ Contig45	WormBase_imported	CDS	185847	185955	.	+	0	ID=cds:MSTRG.11054.3.p1;Paren
 Contig45	WormBase_imported	CDS	188182	188204	.	+	2	ID=cds:MSTRG.11054.3.p1;Parent=transcript:MSTRG.11054.3.p1
 Contig103	WormBase_imported	gene	99131	113540	.	+	.	ID=gene:MSTRG.193;Name=MSTRG.193;biotype=protein_coding
 Contig103	WormBase_imported	mRNA	99186	113540	.	+	.	ID=transcript:HMEPH_11775-RA.p1;Parent=gene:MSTRG.193;Name=HMEPH_11775-RA.p1
-#microexons transcript:HMEPH_11775-RA.p1:  80 255 107 227 167 376 36 563 160 30-6-6-30-6 69 15
+#microexons transcript:HMEPH_11775-RA.p1:  80 255 107 227 167 376 36 563 160 30-6-6-30-6-69-15
 Contig103	WormBase_imported	mRNA	99131	112310	.	+	.	ID=transcript:MSTRG.193.1.p1;Parent=gene:MSTRG.193;Name=MSTRG.193.1.p1;info=method:InterPro accession:IPR003280 description:Two pore domain potassium channel %0Amethod:InterPro accession:IPR013099 description:Potassium channel domain
-#microexons transcript:MSTRG.193.1.p1:  429 107 227 167 376 36 954 81
+#microexons transcript:MSTRG.193.1.p1:  429 107 227 167 376 36-954-81
 Contig103	WormBase_imported	exon	99186	99265	.	+	.	ID=exon:HMEPH_11775-RA.p1.1;Parent=transcript:HMEPH_11775-RA.p1
 Contig103	WormBase_imported	exon	99305	99559	.	+	.	ID=exon:HMEPH_11775-RA.p1.2;Parent=transcript:HMEPH_11775-RA.p1
 Contig103	WormBase_imported	exon	105396	105502	.	+	.	ID=exon:HMEPH_11775-RA.p1.3;Parent=transcript:HMEPH_11775-RA.p1
@@ -976,7 +1013,7 @@ Contig103	WormBase_imported	CDS	111041	111994	.	+	0	ID=cds:MSTRG.193.1.p1;Parent
 Contig103	WormBase_imported	CDS	112230	112310	.	+	0	ID=cds:MSTRG.193.1.p1;Parent=transcript:MSTRG.193.1.p1
 Contig142	WormBase_imported	gene	87077	96047	.	+	.	ID=gene:MSTRG.2917;Name=MSTRG.2917;biotype=protein_coding
 Contig142	WormBase_imported	mRNA	87077	95999	.	+	.	ID=transcript:HMEPH_12671-RA.p1;Parent=gene:MSTRG.2917;Name=HMEPH_12671-RA.p1;info=method:InterPro accession:IPR000719 description:Protein kinase domain %0Amethod:InterPro accession:IPR008271 description:Serine/threonine-protein kinase%2C active site %0Amethod:InterPro accession:IPR011009 description:Protein kinase-like domain superfamily
-#microexons transcript:HMEPH_12671-RA.p1:  39 21-21-21-27 11 49 82 953
+#microexons transcript:HMEPH_12671-RA.p1:  39-21-21-21-27 11 49 82 953
 Contig142	WormBase_imported	mRNA	92714	96047	.	+	.	ID=transcript:MSTRG.2917.2.p1;Parent=gene:MSTRG.2917;Name=MSTRG.2917.2.p1;info=method:InterPro accession:IPR000719 description:Protein kinase domain %0Amethod:InterPro accession:IPR008271 description:Serine/threonine-protein kinase%2C active site %0Amethod:InterPro accession:IPR011009 description:Protein kinase-like domain superfamily %0Amethod:InterPro accession:IPR017441 description:Protein kinase%2C ATP binding site
 #microexons transcript:MSTRG.2917.2.p1:  3 82 1028
 Contig142	WormBase_imported	exon	87077	87115	.	+	.	ID=exon:HMEPH_12671-RA.p1.1;Parent=transcript:HMEPH_12671-RA.p1
@@ -1025,7 +1062,7 @@ Contig285	WormBase_imported	CDS	153713	153739	.	+	1	ID=cds:HMEPH_13404-RA.p1;Par
 Contig285	WormBase_imported	CDS	153778	153808	.	+	1	ID=cds:HMEPH_13404-RA.p1;Parent=transcript:HMEPH_13404-RA.p1
 Contig193_1_155415	WormBase_imported	gene	122095	124116	.	-	.	ID=gene:HMEPH_13436;Name=HMEPH_13436;biotype=protein_coding
 Contig193_1_155415	WormBase_imported	mRNA	122095	124116	.	-	.	ID=transcript:HMEPH_13436-RA.p1;Parent=gene:HMEPH_13436;Name=HMEPH_13436-RA.p1
-#microexons transcript:HMEPH_13436-RA.p1:  67 11 12-12-12 57 57 72
+#microexons transcript:HMEPH_13436-RA.p1:  67 11 12-12-12-57-57-72
 Contig193_1_155415	WormBase_imported	exon	124050	124116	.	-	.	ID=exon:HMEPH_13436-RA.p1.1;Parent=transcript:HMEPH_13436-RA.p1
 Contig193_1_155415	WormBase_imported	exon	123942	123952	.	-	.	ID=exon:HMEPH_13436-RA.p1.2;Parent=transcript:HMEPH_13436-RA.p1
 Contig193_1_155415	WormBase_imported	exon	123862	123873	.	-	.	ID=exon:HMEPH_13436-RA.p1.3;Parent=transcript:HMEPH_13436-RA.p1
@@ -1060,3 +1097,94 @@ Contig126	WormBase_imported	CDS	81620	81649	.	-	0	ID=cds:HMEPH_15037-RA.p1;Paren
 Contig126	WormBase_imported	CDS	81497	81502	.	-	0	ID=cds:HMEPH_15037-RA.p1;Parent=transcript:HMEPH_15037-RA.p1
 Contig126	WormBase_imported	CDS	74173	74264	.	-	0	ID=cds:HMEPH_15037-RA.p1;Parent=transcript:HMEPH_15037-RA.p1
 Contig126	WormBase_imported	CDS	71121	71532	.	-	1	ID=cds:HMEPH_15037-RA.p1;Parent=transcript:HMEPH_15037-RA.p1
+Contig1211	WormBase_imported	gene	17394	30831	.	-	.	ID=gene:MSTRG.1353;Name=MSTRG.1353;biotype=protein_coding
+Contig1211	WormBase_imported	mRNA	21744	24126	.	-	.	ID=transcript:HMEPH_15652-RA.p1;Parent=gene:MSTRG.1353;Name=HMEPH_15652-RA.p1;info=method:InterPro accession:IPR003859 description:Beta-1%2C4-galactosyltransferase %0Amethod:InterPro accession:IPR027791 description:Galactosyltransferase%2C C-terminal %0Amethod:InterPro accession:IPR027995 description:Galactosyltransferase%2C N-terminal %0Amethod:InterPro accession:IPR029044 description:Nucleotide-diphospho-sugar transferases
+#microexons transcript:HMEPH_15652-RA.p1:  138-30 182 282 130 102
+Contig1211	WormBase_imported	mRNA	24253	30831	.	-	.	ID=transcript:HMEPH_15653-RA.p1;Parent=gene:MSTRG.1353;Name=HMEPH_15653-RA.p1
+#microexons transcript:HMEPH_15653-RA.p1:  101 191 77 42-12-21-36
+Contig1211	WormBase_imported	mRNA	17394	24214	.	-	.	ID=transcript:MSTRG.1353.1.p1;Parent=gene:MSTRG.1353;Name=MSTRG.1353.1.p1;info=method:InterPro accession:IPR003859 description:Beta-1%2C4-galactosyltransferase %0Amethod:InterPro accession:IPR027791 description:Galactosyltransferase%2C C-terminal %0Amethod:InterPro accession:IPR027995 description:Galactosyltransferase%2C N-terminal %0Amethod:InterPro accession:IPR029044 description:Nucleotide-diphospho-sugar transferases
+#microexons transcript:MSTRG.1353.1.p1:  349 182 282-222 245 15 127 76
+Contig1211	WormBase_imported	mRNA	21714	30831	.	-	.	ID=transcript:MSTRG.1353.3.p1;Parent=gene:MSTRG.1353;Name=MSTRG.1353.3.p1;info=method:InterPro accession:IPR003859 description:Beta-1%2C4-galactosyltransferase %0Amethod:InterPro accession:IPR027791 description:Galactosyltransferase%2C C-terminal %0Amethod:InterPro accession:IPR027995 description:Galactosyltransferase%2C N-terminal %0Amethod:InterPro accession:IPR029044 description:Nucleotide-diphospho-sugar transferases
+#microexons transcript:MSTRG.1353.3.p1:  101 191 77 42-12-21-300 217 282-222 214
+Contig1211	WormBase_imported	mRNA	21744	24126	.	-	.	ID=transcript:MSTRG.1353.4.p1;Parent=gene:MSTRG.1353;Name=MSTRG.1353.4.p1;info=method:InterPro accession:IPR003859 description:Beta-1%2C4-galactosyltransferase %0Amethod:InterPro accession:IPR027791 description:Galactosyltransferase%2C C-terminal %0Amethod:InterPro accession:IPR027995 description:Galactosyltransferase%2C N-terminal %0Amethod:InterPro accession:IPR029044 description:Nucleotide-diphospho-sugar transferases
+#microexons transcript:MSTRG.1353.4.p1:  138-30 182 282-222 184
+Contig1211	WormBase_imported	exon	23989	24126	.	-	.	ID=exon:HMEPH_15652-RA.p1.1;Parent=transcript:HMEPH_15652-RA.p1
+Contig1211	WormBase_imported	exon	23866	23895	.	-	.	ID=exon:HMEPH_15652-RA.p1.2;Parent=transcript:HMEPH_15652-RA.p1
+Contig1211	WormBase_imported	exon	23679	23860	.	-	.	ID=exon:HMEPH_15652-RA.p1.3;Parent=transcript:HMEPH_15652-RA.p1
+Contig1211	WormBase_imported	exon	23355	23636	.	-	.	ID=exon:HMEPH_15652-RA.p1.4;Parent=transcript:HMEPH_15652-RA.p1
+Contig1211	WormBase_imported	exon	22655	22784	.	-	.	ID=exon:HMEPH_15652-RA.p1.5;Parent=transcript:HMEPH_15652-RA.p1
+Contig1211	WormBase_imported	exon	21744	21845	.	-	.	ID=exon:HMEPH_15652-RA.p1.6;Parent=transcript:HMEPH_15652-RA.p1
+Contig1211	WormBase_imported	exon	30731	30831	.	-	.	ID=exon:HMEPH_15653-RA.p1.1;Parent=transcript:HMEPH_15653-RA.p1
+Contig1211	WormBase_imported	exon	28089	28279	.	-	.	ID=exon:HMEPH_15653-RA.p1.2;Parent=transcript:HMEPH_15653-RA.p1
+Contig1211	WormBase_imported	exon	25678	25754	.	-	.	ID=exon:HMEPH_15653-RA.p1.3;Parent=transcript:HMEPH_15653-RA.p1
+Contig1211	WormBase_imported	exon	25087	25128	.	-	.	ID=exon:HMEPH_15653-RA.p1.4;Parent=transcript:HMEPH_15653-RA.p1
+Contig1211	WormBase_imported	exon	24798	24809	.	-	.	ID=exon:HMEPH_15653-RA.p1.5;Parent=transcript:HMEPH_15653-RA.p1
+Contig1211	WormBase_imported	exon	24610	24630	.	-	.	ID=exon:HMEPH_15653-RA.p1.6;Parent=transcript:HMEPH_15653-RA.p1
+Contig1211	WormBase_imported	exon	24253	24288	.	-	.	ID=exon:HMEPH_15653-RA.p1.7;Parent=transcript:HMEPH_15653-RA.p1
+Contig1211	WormBase_imported	exon	23866	24214	.	-	.	ID=exon:MSTRG.1353.1.p1.1;Parent=transcript:MSTRG.1353.1.p1
+Contig1211	WormBase_imported	exon	23679	23860	.	-	.	ID=exon:MSTRG.1353.1.p1.2;Parent=transcript:MSTRG.1353.1.p1
+Contig1211	WormBase_imported	exon	23355	23636	.	-	.	ID=exon:MSTRG.1353.1.p1.3;Parent=transcript:MSTRG.1353.1.p1
+Contig1211	WormBase_imported	exon	22563	22784	.	-	.	ID=exon:MSTRG.1353.1.p1.4;Parent=transcript:MSTRG.1353.1.p1
+Contig1211	WormBase_imported	exon	21683	21927	.	-	.	ID=exon:MSTRG.1353.1.p1.5;Parent=transcript:MSTRG.1353.1.p1
+Contig1211	WormBase_imported	exon	20709	20723	.	-	.	ID=exon:MSTRG.1353.1.p1.6;Parent=transcript:MSTRG.1353.1.p1
+Contig1211	WormBase_imported	exon	17717	17843	.	-	.	ID=exon:MSTRG.1353.1.p1.7;Parent=transcript:MSTRG.1353.1.p1
+Contig1211	WormBase_imported	exon	17394	17469	.	-	.	ID=exon:MSTRG.1353.1.p1.8;Parent=transcript:MSTRG.1353.1.p1
+Contig1211	WormBase_imported	exon	30731	30831	.	-	.	ID=exon:MSTRG.1353.3.p1.1;Parent=transcript:MSTRG.1353.3.p1
+Contig1211	WormBase_imported	exon	28089	28279	.	-	.	ID=exon:MSTRG.1353.3.p1.2;Parent=transcript:MSTRG.1353.3.p1
+Contig1211	WormBase_imported	exon	25678	25754	.	-	.	ID=exon:MSTRG.1353.3.p1.3;Parent=transcript:MSTRG.1353.3.p1
+Contig1211	WormBase_imported	exon	25087	25128	.	-	.	ID=exon:MSTRG.1353.3.p1.4;Parent=transcript:MSTRG.1353.3.p1
+Contig1211	WormBase_imported	exon	24798	24809	.	-	.	ID=exon:MSTRG.1353.3.p1.5;Parent=transcript:MSTRG.1353.3.p1
+Contig1211	WormBase_imported	exon	24610	24630	.	-	.	ID=exon:MSTRG.1353.3.p1.6;Parent=transcript:MSTRG.1353.3.p1
+Contig1211	WormBase_imported	exon	23989	24288	.	-	.	ID=exon:MSTRG.1353.3.p1.7;Parent=transcript:MSTRG.1353.3.p1
+Contig1211	WormBase_imported	exon	23679	23895	.	-	.	ID=exon:MSTRG.1353.3.p1.8;Parent=transcript:MSTRG.1353.3.p1
+Contig1211	WormBase_imported	exon	23355	23636	.	-	.	ID=exon:MSTRG.1353.3.p1.9;Parent=transcript:MSTRG.1353.3.p1
+Contig1211	WormBase_imported	exon	22563	22784	.	-	.	ID=exon:MSTRG.1353.3.p1.10;Parent=transcript:MSTRG.1353.3.p1
+Contig1211	WormBase_imported	exon	21714	21927	.	-	.	ID=exon:MSTRG.1353.3.p1.11;Parent=transcript:MSTRG.1353.3.p1
+Contig1211	WormBase_imported	exon	23989	24126	.	-	.	ID=exon:MSTRG.1353.4.p1.1;Parent=transcript:MSTRG.1353.4.p1
+Contig1211	WormBase_imported	exon	23866	23895	.	-	.	ID=exon:MSTRG.1353.4.p1.2;Parent=transcript:MSTRG.1353.4.p1
+Contig1211	WormBase_imported	exon	23679	23860	.	-	.	ID=exon:MSTRG.1353.4.p1.3;Parent=transcript:MSTRG.1353.4.p1
+Contig1211	WormBase_imported	exon	23355	23636	.	-	.	ID=exon:MSTRG.1353.4.p1.4;Parent=transcript:MSTRG.1353.4.p1
+Contig1211	WormBase_imported	exon	22563	22784	.	-	.	ID=exon:MSTRG.1353.4.p1.5;Parent=transcript:MSTRG.1353.4.p1
+Contig1211	WormBase_imported	exon	21744	21927	.	-	.	ID=exon:MSTRG.1353.4.p1.6;Parent=transcript:MSTRG.1353.4.p1
+Contig1211	WormBase_imported	CDS	23989	24126	.	-	0	ID=cds:HMEPH_15652-RA.p1;Parent=transcript:HMEPH_15652-RA.p1
+Contig1211	WormBase_imported	CDS	23866	23895	.	-	0	ID=cds:HMEPH_15652-RA.p1;Parent=transcript:HMEPH_15652-RA.p1
+Contig1211	WormBase_imported	CDS	23679	23860	.	-	0	ID=cds:HMEPH_15652-RA.p1;Parent=transcript:HMEPH_15652-RA.p1
+Contig1211	WormBase_imported	CDS	23355	23636	.	-	1	ID=cds:HMEPH_15652-RA.p1;Parent=transcript:HMEPH_15652-RA.p1
+Contig1211	WormBase_imported	CDS	22655	22784	.	-	1	ID=cds:HMEPH_15652-RA.p1;Parent=transcript:HMEPH_15652-RA.p1
+Contig1211	WormBase_imported	CDS	21744	21845	.	-	0	ID=cds:HMEPH_15652-RA.p1;Parent=transcript:HMEPH_15652-RA.p1
+Contig1211	WormBase_imported	CDS	30731	30831	.	-	0	ID=cds:HMEPH_15653-RA.p1;Parent=transcript:HMEPH_15653-RA.p1
+Contig1211	WormBase_imported	CDS	28089	28279	.	-	1	ID=cds:HMEPH_15653-RA.p1;Parent=transcript:HMEPH_15653-RA.p1
+Contig1211	WormBase_imported	CDS	25678	25754	.	-	2	ID=cds:HMEPH_15653-RA.p1;Parent=transcript:HMEPH_15653-RA.p1
+Contig1211	WormBase_imported	CDS	25087	25128	.	-	0	ID=cds:HMEPH_15653-RA.p1;Parent=transcript:HMEPH_15653-RA.p1
+Contig1211	WormBase_imported	CDS	24798	24809	.	-	0	ID=cds:HMEPH_15653-RA.p1;Parent=transcript:HMEPH_15653-RA.p1
+Contig1211	WormBase_imported	CDS	24610	24630	.	-	0	ID=cds:HMEPH_15653-RA.p1;Parent=transcript:HMEPH_15653-RA.p1
+Contig1211	WormBase_imported	CDS	24253	24288	.	-	0	ID=cds:HMEPH_15653-RA.p1;Parent=transcript:HMEPH_15653-RA.p1
+Contig1211	WormBase_imported	five_prime_UTR	23866	24214	.	-	.	Parent=transcript:MSTRG.1353.1.p1
+Contig1211	WormBase_imported	five_prime_UTR	23798	23860	.	-	.	Parent=transcript:MSTRG.1353.1.p1
+Contig1211	WormBase_imported	CDS	23679	23797	.	-	0	ID=cds:MSTRG.1353.1.p1;Parent=transcript:MSTRG.1353.1.p1
+Contig1211	WormBase_imported	CDS	23355	23636	.	-	1	ID=cds:MSTRG.1353.1.p1;Parent=transcript:MSTRG.1353.1.p1
+Contig1211	WormBase_imported	CDS	22563	22784	.	-	1	ID=cds:MSTRG.1353.1.p1;Parent=transcript:MSTRG.1353.1.p1
+Contig1211	WormBase_imported	CDS	21744	21927	.	-	1	ID=cds:MSTRG.1353.1.p1;Parent=transcript:MSTRG.1353.1.p1
+Contig1211	WormBase_imported	three_prime_UTR	21683	21743	.	-	.	Parent=transcript:MSTRG.1353.1.p1
+Contig1211	WormBase_imported	three_prime_UTR	20709	20723	.	-	.	Parent=transcript:MSTRG.1353.1.p1
+Contig1211	WormBase_imported	three_prime_UTR	17717	17843	.	-	.	Parent=transcript:MSTRG.1353.1.p1
+Contig1211	WormBase_imported	three_prime_UTR	17394	17469	.	-	.	Parent=transcript:MSTRG.1353.1.p1
+Contig1211	WormBase_imported	five_prime_UTR	30731	30831	.	-	.	Parent=transcript:MSTRG.1353.3.p1
+Contig1211	WormBase_imported	five_prime_UTR	28089	28279	.	-	.	Parent=transcript:MSTRG.1353.3.p1
+Contig1211	WormBase_imported	five_prime_UTR	25678	25754	.	-	.	Parent=transcript:MSTRG.1353.3.p1
+Contig1211	WormBase_imported	five_prime_UTR	25087	25128	.	-	.	Parent=transcript:MSTRG.1353.3.p1
+Contig1211	WormBase_imported	five_prime_UTR	24798	24809	.	-	.	Parent=transcript:MSTRG.1353.3.p1
+Contig1211	WormBase_imported	five_prime_UTR	24610	24630	.	-	.	Parent=transcript:MSTRG.1353.3.p1
+Contig1211	WormBase_imported	five_prime_UTR	23989	24288	.	-	.	Parent=transcript:MSTRG.1353.3.p1
+Contig1211	WormBase_imported	five_prime_UTR	23798	23895	.	-	.	Parent=transcript:MSTRG.1353.3.p1
+Contig1211	WormBase_imported	CDS	23679	23797	.	-	0	ID=cds:MSTRG.1353.3.p1;Parent=transcript:MSTRG.1353.3.p1
+Contig1211	WormBase_imported	CDS	23355	23636	.	-	1	ID=cds:MSTRG.1353.3.p1;Parent=transcript:MSTRG.1353.3.p1
+Contig1211	WormBase_imported	CDS	22563	22784	.	-	1	ID=cds:MSTRG.1353.3.p1;Parent=transcript:MSTRG.1353.3.p1
+Contig1211	WormBase_imported	CDS	21744	21927	.	-	1	ID=cds:MSTRG.1353.3.p1;Parent=transcript:MSTRG.1353.3.p1
+Contig1211	WormBase_imported	three_prime_UTR	21714	21743	.	-	.	Parent=transcript:MSTRG.1353.3.p1
+Contig1211	WormBase_imported	CDS	23989	24126	.	-	0	ID=cds:MSTRG.1353.4.p1;Parent=transcript:MSTRG.1353.4.p1
+Contig1211	WormBase_imported	CDS	23866	23895	.	-	0	ID=cds:MSTRG.1353.4.p1;Parent=transcript:MSTRG.1353.4.p1
+Contig1211	WormBase_imported	CDS	23679	23860	.	-	0	ID=cds:MSTRG.1353.4.p1;Parent=transcript:MSTRG.1353.4.p1
+Contig1211	WormBase_imported	CDS	23355	23636	.	-	1	ID=cds:MSTRG.1353.4.p1;Parent=transcript:MSTRG.1353.4.p1
+Contig1211	WormBase_imported	CDS	22563	22784	.	-	1	ID=cds:MSTRG.1353.4.p1;Parent=transcript:MSTRG.1353.4.p1
+Contig1211	WormBase_imported	CDS	21744	21927	.	-	1	ID=cds:MSTRG.1353.4.p1;Parent=transcript:MSTRG.1353.4.p1

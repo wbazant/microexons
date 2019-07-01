@@ -1,0 +1,19 @@
+Cang_2012_03_13_00266	WormBase_imported	gene	22155	27306	.	-	.	ID=gene:Cang_2012_03_13_00266.g8145;Name=Cang_2012_03_13_00266.g8145;biotype=protein_coding
+Cang_2012_03_13_00266	WormBase_imported	mRNA	22155	27306	.	-	.	ID=transcript:Cang_2012_03_13_00266.g8145.t1;Parent=gene:Cang_2012_03_13_00266.g8145;Name=Cang_2012_03_13_00266.g8145.t1
+#microexons transcript:Cang_2012_03_13_00266.g8145.t1:  32 42-36-54-51-57-54 25
+Cang_2012_03_13_00266	WormBase_imported	exon	27275	27306	.	-	.	ID=exon:Cang_2012_03_13_00266.g8145.t1.1;Parent=transcript:Cang_2012_03_13_00266.g8145.t1
+Cang_2012_03_13_00266	WormBase_imported	exon	23015	23056	.	-	.	ID=exon:Cang_2012_03_13_00266.g8145.t1.2;Parent=transcript:Cang_2012_03_13_00266.g8145.t1
+Cang_2012_03_13_00266	WormBase_imported	exon	22924	22959	.	-	.	ID=exon:Cang_2012_03_13_00266.g8145.t1.3;Parent=transcript:Cang_2012_03_13_00266.g8145.t1
+Cang_2012_03_13_00266	WormBase_imported	exon	22822	22875	.	-	.	ID=exon:Cang_2012_03_13_00266.g8145.t1.4;Parent=transcript:Cang_2012_03_13_00266.g8145.t1
+Cang_2012_03_13_00266	WormBase_imported	exon	22627	22677	.	-	.	ID=exon:Cang_2012_03_13_00266.g8145.t1.5;Parent=transcript:Cang_2012_03_13_00266.g8145.t1
+Cang_2012_03_13_00266	WormBase_imported	exon	22523	22579	.	-	.	ID=exon:Cang_2012_03_13_00266.g8145.t1.6;Parent=transcript:Cang_2012_03_13_00266.g8145.t1
+Cang_2012_03_13_00266	WormBase_imported	exon	22221	22274	.	-	.	ID=exon:Cang_2012_03_13_00266.g8145.t1.7;Parent=transcript:Cang_2012_03_13_00266.g8145.t1
+Cang_2012_03_13_00266	WormBase_imported	exon	22155	22179	.	-	.	ID=exon:Cang_2012_03_13_00266.g8145.t1.8;Parent=transcript:Cang_2012_03_13_00266.g8145.t1
+Cang_2012_03_13_00266	WormBase_imported	CDS	27275	27306	.	-	0	ID=cds:Cang_2012_03_13_00266.g8145.t1;Parent=transcript:Cang_2012_03_13_00266.g8145.t1
+Cang_2012_03_13_00266	WormBase_imported	CDS	23015	23056	.	-	1	ID=cds:Cang_2012_03_13_00266.g8145.t1;Parent=transcript:Cang_2012_03_13_00266.g8145.t1
+Cang_2012_03_13_00266	WormBase_imported	CDS	22924	22959	.	-	1	ID=cds:Cang_2012_03_13_00266.g8145.t1;Parent=transcript:Cang_2012_03_13_00266.g8145.t1
+Cang_2012_03_13_00266	WormBase_imported	CDS	22822	22875	.	-	1	ID=cds:Cang_2012_03_13_00266.g8145.t1;Parent=transcript:Cang_2012_03_13_00266.g8145.t1
+Cang_2012_03_13_00266	WormBase_imported	CDS	22627	22677	.	-	1	ID=cds:Cang_2012_03_13_00266.g8145.t1;Parent=transcript:Cang_2012_03_13_00266.g8145.t1
+Cang_2012_03_13_00266	WormBase_imported	CDS	22523	22579	.	-	1	ID=cds:Cang_2012_03_13_00266.g8145.t1;Parent=transcript:Cang_2012_03_13_00266.g8145.t1
+Cang_2012_03_13_00266	WormBase_imported	CDS	22221	22274	.	-	1	ID=cds:Cang_2012_03_13_00266.g8145.t1;Parent=transcript:Cang_2012_03_13_00266.g8145.t1
+Cang_2012_03_13_00266	WormBase_imported	CDS	22155	22179	.	-	1	ID=cds:Cang_2012_03_13_00266.g8145.t1;Parent=transcript:Cang_2012_03_13_00266.g8145.t1

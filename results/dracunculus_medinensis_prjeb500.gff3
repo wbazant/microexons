@@ -1,3 +1,20 @@
+DME_scaffold0000001	WormBase_imported	gene	2626351	2628898	.	-	.	ID=gene:DME_0000027601;Name=DME_0000027601;biotype=protein_coding;description=SAGA-associated factor 11;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0N4U121
+DME_scaffold0000001	WormBase_imported	mRNA	2626351	2628898	.	-	.	ID=transcript:DME_0000027601-mRNA-1;Parent=gene:DME_0000027601;Name=DME_0000027601-mRNA-1;info=method:InterPro accession:IPR013246 description:SAGA complex%2C Sgf11 subunit
+#microexons transcript:DME_0000027601-mRNA-1:  118 48-39-42 175 106 111
+DME_scaffold0000001	WormBase_imported	exon	2628781	2628898	.	-	.	ID=exon:DME_0000027601-mRNA-1.1;Parent=transcript:DME_0000027601-mRNA-1
+DME_scaffold0000001	WormBase_imported	exon	2628406	2628453	.	-	.	ID=exon:DME_0000027601-mRNA-1.2;Parent=transcript:DME_0000027601-mRNA-1
+DME_scaffold0000001	WormBase_imported	exon	2628196	2628234	.	-	.	ID=exon:DME_0000027601-mRNA-1.3;Parent=transcript:DME_0000027601-mRNA-1
+DME_scaffold0000001	WormBase_imported	exon	2628010	2628051	.	-	.	ID=exon:DME_0000027601-mRNA-1.4;Parent=transcript:DME_0000027601-mRNA-1
+DME_scaffold0000001	WormBase_imported	exon	2627079	2627253	.	-	.	ID=exon:DME_0000027601-mRNA-1.5;Parent=transcript:DME_0000027601-mRNA-1
+DME_scaffold0000001	WormBase_imported	exon	2626733	2626838	.	-	.	ID=exon:DME_0000027601-mRNA-1.6;Parent=transcript:DME_0000027601-mRNA-1
+DME_scaffold0000001	WormBase_imported	exon	2626351	2626461	.	-	.	ID=exon:DME_0000027601-mRNA-1.7;Parent=transcript:DME_0000027601-mRNA-1
+DME_scaffold0000001	WormBase_imported	CDS	2628781	2628898	.	-	0	ID=cds:DME_0000027601-mRNA-1;Parent=transcript:DME_0000027601-mRNA-1
+DME_scaffold0000001	WormBase_imported	CDS	2628406	2628453	.	-	2	ID=cds:DME_0000027601-mRNA-1;Parent=transcript:DME_0000027601-mRNA-1
+DME_scaffold0000001	WormBase_imported	CDS	2628196	2628234	.	-	2	ID=cds:DME_0000027601-mRNA-1;Parent=transcript:DME_0000027601-mRNA-1
+DME_scaffold0000001	WormBase_imported	CDS	2628010	2628051	.	-	2	ID=cds:DME_0000027601-mRNA-1;Parent=transcript:DME_0000027601-mRNA-1
+DME_scaffold0000001	WormBase_imported	CDS	2627079	2627253	.	-	2	ID=cds:DME_0000027601-mRNA-1;Parent=transcript:DME_0000027601-mRNA-1
+DME_scaffold0000001	WormBase_imported	CDS	2626733	2626838	.	-	1	ID=cds:DME_0000027601-mRNA-1;Parent=transcript:DME_0000027601-mRNA-1
+DME_scaffold0000001	WormBase_imported	CDS	2626351	2626461	.	-	0	ID=cds:DME_0000027601-mRNA-1;Parent=transcript:DME_0000027601-mRNA-1
 DME_scaffold0000011	WormBase_imported	gene	587343	596328	.	+	.	ID=gene:DME_0000324001;Name=DME_0000324001;biotype=protein_coding
 DME_scaffold0000011	WormBase_imported	mRNA	587343	596328	.	+	.	ID=transcript:DME_0000324001-mRNA-1;Parent=gene:DME_0000324001;Name=DME_0000324001-mRNA-1
 #microexons transcript:DME_0000324001-mRNA-1:  52 106 286 9-18-21-15 290 20 11
@@ -21,49 +38,3 @@ DME_scaffold0000011	WormBase_imported	CDS	594641	594655	.	+	0	ID=cds:DME_0000324
 DME_scaffold0000011	WormBase_imported	CDS	595752	596041	.	+	0	ID=cds:DME_0000324001-mRNA-1;Parent=transcript:DME_0000324001-mRNA-1
 DME_scaffold0000011	WormBase_imported	CDS	596223	596242	.	+	1	ID=cds:DME_0000324001-mRNA-1;Parent=transcript:DME_0000324001-mRNA-1
 DME_scaffold0000011	WormBase_imported	CDS	596318	596328	.	+	2	ID=cds:DME_0000324001-mRNA-1;Parent=transcript:DME_0000324001-mRNA-1
-DME_scaffold0000018	WormBase_imported	gene	552698	556372	.	-	.	ID=gene:DME_0000440901;Name=DME_0000440901;biotype=protein_coding
-DME_scaffold0000018	WormBase_imported	mRNA	552698	556372	.	-	.	ID=transcript:DME_0000440901-mRNA-1;Parent=gene:DME_0000440901;Name=DME_0000440901-mRNA-1;info=method:InterPro accession:IPR011032 description:GroES-like superfamily %0Amethod:InterPro accession:IPR013154 description:Alcohol dehydrogenase%2C N-terminal %0Amethod:InterPro accession:IPR020843 description:Polyketide synthase%2C enoylreductase domain %0Amethod:InterPro accession:IPR036291 description:NAD(P)-binding domain superfamily
-#microexons transcript:DME_0000440901-mRNA-1:  285 192 156 140 207 61 141 15-6-9
-DME_scaffold0000018	WormBase_imported	exon	556088	556372	.	-	.	ID=exon:DME_0000440901-mRNA-1.1;Parent=transcript:DME_0000440901-mRNA-1
-DME_scaffold0000018	WormBase_imported	exon	555590	555781	.	-	.	ID=exon:DME_0000440901-mRNA-1.2;Parent=transcript:DME_0000440901-mRNA-1
-DME_scaffold0000018	WormBase_imported	exon	555290	555445	.	-	.	ID=exon:DME_0000440901-mRNA-1.3;Parent=transcript:DME_0000440901-mRNA-1
-DME_scaffold0000018	WormBase_imported	exon	554830	554969	.	-	.	ID=exon:DME_0000440901-mRNA-1.4;Parent=transcript:DME_0000440901-mRNA-1
-DME_scaffold0000018	WormBase_imported	exon	554440	554646	.	-	.	ID=exon:DME_0000440901-mRNA-1.5;Parent=transcript:DME_0000440901-mRNA-1
-DME_scaffold0000018	WormBase_imported	exon	554228	554288	.	-	.	ID=exon:DME_0000440901-mRNA-1.6;Parent=transcript:DME_0000440901-mRNA-1
-DME_scaffold0000018	WormBase_imported	exon	553348	553488	.	-	.	ID=exon:DME_0000440901-mRNA-1.7;Parent=transcript:DME_0000440901-mRNA-1
-DME_scaffold0000018	WormBase_imported	exon	552933	552947	.	-	.	ID=exon:DME_0000440901-mRNA-1.8;Parent=transcript:DME_0000440901-mRNA-1
-DME_scaffold0000018	WormBase_imported	exon	552900	552905	.	-	.	ID=exon:DME_0000440901-mRNA-1.9;Parent=transcript:DME_0000440901-mRNA-1
-DME_scaffold0000018	WormBase_imported	exon	552698	552706	.	-	.	ID=exon:DME_0000440901-mRNA-1.10;Parent=transcript:DME_0000440901-mRNA-1
-DME_scaffold0000018	WormBase_imported	CDS	556088	556372	.	-	0	ID=cds:DME_0000440901-mRNA-1;Parent=transcript:DME_0000440901-mRNA-1
-DME_scaffold0000018	WormBase_imported	CDS	555590	555781	.	-	0	ID=cds:DME_0000440901-mRNA-1;Parent=transcript:DME_0000440901-mRNA-1
-DME_scaffold0000018	WormBase_imported	CDS	555290	555445	.	-	0	ID=cds:DME_0000440901-mRNA-1;Parent=transcript:DME_0000440901-mRNA-1
-DME_scaffold0000018	WormBase_imported	CDS	554830	554969	.	-	0	ID=cds:DME_0000440901-mRNA-1;Parent=transcript:DME_0000440901-mRNA-1
-DME_scaffold0000018	WormBase_imported	CDS	554440	554646	.	-	1	ID=cds:DME_0000440901-mRNA-1;Parent=transcript:DME_0000440901-mRNA-1
-DME_scaffold0000018	WormBase_imported	CDS	554228	554288	.	-	1	ID=cds:DME_0000440901-mRNA-1;Parent=transcript:DME_0000440901-mRNA-1
-DME_scaffold0000018	WormBase_imported	CDS	553348	553488	.	-	0	ID=cds:DME_0000440901-mRNA-1;Parent=transcript:DME_0000440901-mRNA-1
-DME_scaffold0000018	WormBase_imported	CDS	552933	552947	.	-	0	ID=cds:DME_0000440901-mRNA-1;Parent=transcript:DME_0000440901-mRNA-1
-DME_scaffold0000018	WormBase_imported	CDS	552900	552905	.	-	0	ID=cds:DME_0000440901-mRNA-1;Parent=transcript:DME_0000440901-mRNA-1
-DME_scaffold0000018	WormBase_imported	CDS	552698	552706	.	-	0	ID=cds:DME_0000440901-mRNA-1;Parent=transcript:DME_0000440901-mRNA-1
-DME_contig0000221	WormBase_imported	gene	22680	25139	.	+	.	ID=gene:DME_0001047301;Name=DME_0001047301;biotype=protein_coding
-DME_contig0000221	WormBase_imported	mRNA	22680	25139	.	+	.	ID=transcript:DME_0001047301-mRNA-1;Parent=gene:DME_0001047301;Name=DME_0001047301-mRNA-1
-#microexons transcript:DME_0001047301-mRNA-1:  6-6-6 445 125 30 150 69 74 151
-DME_contig0000221	WormBase_imported	exon	22680	22685	.	+	.	ID=exon:DME_0001047301-mRNA-1.1;Parent=transcript:DME_0001047301-mRNA-1
-DME_contig0000221	WormBase_imported	exon	22809	22814	.	+	.	ID=exon:DME_0001047301-mRNA-1.2;Parent=transcript:DME_0001047301-mRNA-1
-DME_contig0000221	WormBase_imported	exon	22850	22855	.	+	.	ID=exon:DME_0001047301-mRNA-1.3;Parent=transcript:DME_0001047301-mRNA-1
-DME_contig0000221	WormBase_imported	exon	23772	24216	.	+	.	ID=exon:DME_0001047301-mRNA-1.4;Parent=transcript:DME_0001047301-mRNA-1
-DME_contig0000221	WormBase_imported	exon	24330	24454	.	+	.	ID=exon:DME_0001047301-mRNA-1.5;Parent=transcript:DME_0001047301-mRNA-1
-DME_contig0000221	WormBase_imported	exon	24531	24560	.	+	.	ID=exon:DME_0001047301-mRNA-1.6;Parent=transcript:DME_0001047301-mRNA-1
-DME_contig0000221	WormBase_imported	exon	24583	24732	.	+	.	ID=exon:DME_0001047301-mRNA-1.7;Parent=transcript:DME_0001047301-mRNA-1
-DME_contig0000221	WormBase_imported	exon	24773	24841	.	+	.	ID=exon:DME_0001047301-mRNA-1.8;Parent=transcript:DME_0001047301-mRNA-1
-DME_contig0000221	WormBase_imported	exon	24887	24960	.	+	.	ID=exon:DME_0001047301-mRNA-1.9;Parent=transcript:DME_0001047301-mRNA-1
-DME_contig0000221	WormBase_imported	exon	24989	25139	.	+	.	ID=exon:DME_0001047301-mRNA-1.10;Parent=transcript:DME_0001047301-mRNA-1
-DME_contig0000221	WormBase_imported	CDS	22680	22685	.	+	0	ID=cds:DME_0001047301-mRNA-1;Parent=transcript:DME_0001047301-mRNA-1
-DME_contig0000221	WormBase_imported	CDS	22809	22814	.	+	0	ID=cds:DME_0001047301-mRNA-1;Parent=transcript:DME_0001047301-mRNA-1
-DME_contig0000221	WormBase_imported	CDS	22850	22855	.	+	0	ID=cds:DME_0001047301-mRNA-1;Parent=transcript:DME_0001047301-mRNA-1
-DME_contig0000221	WormBase_imported	CDS	23772	24216	.	+	0	ID=cds:DME_0001047301-mRNA-1;Parent=transcript:DME_0001047301-mRNA-1
-DME_contig0000221	WormBase_imported	CDS	24330	24454	.	+	2	ID=cds:DME_0001047301-mRNA-1;Parent=transcript:DME_0001047301-mRNA-1
-DME_contig0000221	WormBase_imported	CDS	24531	24560	.	+	0	ID=cds:DME_0001047301-mRNA-1;Parent=transcript:DME_0001047301-mRNA-1
-DME_contig0000221	WormBase_imported	CDS	24583	24732	.	+	0	ID=cds:DME_0001047301-mRNA-1;Parent=transcript:DME_0001047301-mRNA-1
-DME_contig0000221	WormBase_imported	CDS	24773	24841	.	+	0	ID=cds:DME_0001047301-mRNA-1;Parent=transcript:DME_0001047301-mRNA-1
-DME_contig0000221	WormBase_imported	CDS	24887	24960	.	+	0	ID=cds:DME_0001047301-mRNA-1;Parent=transcript:DME_0001047301-mRNA-1
-DME_contig0000221	WormBase_imported	CDS	24989	25139	.	+	1	ID=cds:DME_0001047301-mRNA-1;Parent=transcript:DME_0001047301-mRNA-1

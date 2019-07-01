@@ -1,0 +1,19 @@
+TCLT_contig0000045	WormBase_imported	gene	27950	30061	.	-	.	ID=gene:TCLT_0000057201;Name=TCLT_0000057201;biotype=protein_coding
+TCLT_contig0000045	WormBase_imported	mRNA	27950	30061	.	-	.	ID=transcript:TCLT_0000057201-mRNA-1;Parent=gene:TCLT_0000057201;Name=TCLT_0000057201-mRNA-1;info=method:InterPro accession:IPR024491 description:Selenoprotein SelK/SelG
+#microexons transcript:TCLT_0000057201-mRNA-1:  6-39-57 17 80 7 116 86
+TCLT_contig0000045	WormBase_imported	exon	30056	30061	.	-	.	ID=exon:TCLT_0000057201-mRNA-1.1;Parent=transcript:TCLT_0000057201-mRNA-1
+TCLT_contig0000045	WormBase_imported	exon	29483	29521	.	-	.	ID=exon:TCLT_0000057201-mRNA-1.2;Parent=transcript:TCLT_0000057201-mRNA-1
+TCLT_contig0000045	WormBase_imported	exon	28971	29027	.	-	.	ID=exon:TCLT_0000057201-mRNA-1.3;Parent=transcript:TCLT_0000057201-mRNA-1
+TCLT_contig0000045	WormBase_imported	exon	28940	28956	.	-	.	ID=exon:TCLT_0000057201-mRNA-1.4;Parent=transcript:TCLT_0000057201-mRNA-1
+TCLT_contig0000045	WormBase_imported	exon	28805	28884	.	-	.	ID=exon:TCLT_0000057201-mRNA-1.5;Parent=transcript:TCLT_0000057201-mRNA-1
+TCLT_contig0000045	WormBase_imported	exon	28286	28292	.	-	.	ID=exon:TCLT_0000057201-mRNA-1.6;Parent=transcript:TCLT_0000057201-mRNA-1
+TCLT_contig0000045	WormBase_imported	exon	28128	28243	.	-	.	ID=exon:TCLT_0000057201-mRNA-1.7;Parent=transcript:TCLT_0000057201-mRNA-1
+TCLT_contig0000045	WormBase_imported	exon	27950	28035	.	-	.	ID=exon:TCLT_0000057201-mRNA-1.8;Parent=transcript:TCLT_0000057201-mRNA-1
+TCLT_contig0000045	WormBase_imported	CDS	30056	30061	.	-	0	ID=cds:TCLT_0000057201-mRNA-1;Parent=transcript:TCLT_0000057201-mRNA-1
+TCLT_contig0000045	WormBase_imported	CDS	29483	29521	.	-	0	ID=cds:TCLT_0000057201-mRNA-1;Parent=transcript:TCLT_0000057201-mRNA-1
+TCLT_contig0000045	WormBase_imported	CDS	28971	29027	.	-	0	ID=cds:TCLT_0000057201-mRNA-1;Parent=transcript:TCLT_0000057201-mRNA-1
+TCLT_contig0000045	WormBase_imported	CDS	28940	28956	.	-	0	ID=cds:TCLT_0000057201-mRNA-1;Parent=transcript:TCLT_0000057201-mRNA-1
+TCLT_contig0000045	WormBase_imported	CDS	28805	28884	.	-	1	ID=cds:TCLT_0000057201-mRNA-1;Parent=transcript:TCLT_0000057201-mRNA-1
+TCLT_contig0000045	WormBase_imported	CDS	28286	28292	.	-	2	ID=cds:TCLT_0000057201-mRNA-1;Parent=transcript:TCLT_0000057201-mRNA-1
+TCLT_contig0000045	WormBase_imported	CDS	28128	28243	.	-	1	ID=cds:TCLT_0000057201-mRNA-1;Parent=transcript:TCLT_0000057201-mRNA-1
+TCLT_contig0000045	WormBase_imported	CDS	27950	28035	.	-	2	ID=cds:TCLT_0000057201-mRNA-1;Parent=transcript:TCLT_0000057201-mRNA-1

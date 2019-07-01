@@ -1,0 +1,34 @@
+scaffold_87	WormBase_imported	gene	171092	174932	.	+	.	ID=gene:FL83_12327;Name=FL83_12327;biotype=protein_coding
+scaffold_87	WormBase_imported	mRNA	171092	174932	.	+	.	ID=transcript:FL83_12327;Parent=gene:FL83_12327;Name=FL83_12327
+#microexons transcript:FL83_12327:  18-51-39 85 101 36-33
+scaffold_87	WormBase_imported	exon	171092	171109	.	+	.	ID=exon:FL83_12327.1;Parent=transcript:FL83_12327
+scaffold_87	WormBase_imported	exon	171142	171192	.	+	.	ID=exon:FL83_12327.2;Parent=transcript:FL83_12327
+scaffold_87	WormBase_imported	exon	171674	171712	.	+	.	ID=exon:FL83_12327.3;Parent=transcript:FL83_12327
+scaffold_87	WormBase_imported	exon	172306	172390	.	+	.	ID=exon:FL83_12327.4;Parent=transcript:FL83_12327
+scaffold_87	WormBase_imported	exon	172808	172908	.	+	.	ID=exon:FL83_12327.5;Parent=transcript:FL83_12327
+scaffold_87	WormBase_imported	exon	174754	174789	.	+	.	ID=exon:FL83_12327.6;Parent=transcript:FL83_12327
+scaffold_87	WormBase_imported	exon	174900	174932	.	+	.	ID=exon:FL83_12327.7;Parent=transcript:FL83_12327
+scaffold_87	WormBase_imported	CDS	171092	171109	.	+	0	ID=cds:FL83_12327;Parent=transcript:FL83_12327
+scaffold_87	WormBase_imported	CDS	171142	171192	.	+	0	ID=cds:FL83_12327;Parent=transcript:FL83_12327
+scaffold_87	WormBase_imported	CDS	171674	171712	.	+	0	ID=cds:FL83_12327;Parent=transcript:FL83_12327
+scaffold_87	WormBase_imported	CDS	172306	172390	.	+	0	ID=cds:FL83_12327;Parent=transcript:FL83_12327
+scaffold_87	WormBase_imported	CDS	172808	172908	.	+	2	ID=cds:FL83_12327;Parent=transcript:FL83_12327
+scaffold_87	WormBase_imported	CDS	174754	174789	.	+	0	ID=cds:FL83_12327;Parent=transcript:FL83_12327
+scaffold_87	WormBase_imported	CDS	174900	174932	.	+	0	ID=cds:FL83_12327;Parent=transcript:FL83_12327
+scaffold_177	WormBase_imported	gene	142294	144627	.	-	.	ID=gene:FL83_17540;Name=FL83_17540;biotype=protein_coding
+scaffold_177	WormBase_imported	mRNA	142294	144627	.	-	.	ID=transcript:FL83_17540;Parent=gene:FL83_17540;Name=FL83_17540
+#microexons transcript:FL83_17540:  45-15-48 55 169 162 256
+scaffold_177	WormBase_imported	exon	144583	144627	.	-	.	ID=exon:FL83_17540.1;Parent=transcript:FL83_17540
+scaffold_177	WormBase_imported	exon	143716	143730	.	-	.	ID=exon:FL83_17540.2;Parent=transcript:FL83_17540
+scaffold_177	WormBase_imported	exon	143548	143595	.	-	.	ID=exon:FL83_17540.3;Parent=transcript:FL83_17540
+scaffold_177	WormBase_imported	exon	143427	143481	.	-	.	ID=exon:FL83_17540.4;Parent=transcript:FL83_17540
+scaffold_177	WormBase_imported	exon	143166	143334	.	-	.	ID=exon:FL83_17540.5;Parent=transcript:FL83_17540
+scaffold_177	WormBase_imported	exon	142643	142804	.	-	.	ID=exon:FL83_17540.6;Parent=transcript:FL83_17540
+scaffold_177	WormBase_imported	exon	142294	142549	.	-	.	ID=exon:FL83_17540.7;Parent=transcript:FL83_17540
+scaffold_177	WormBase_imported	CDS	144583	144627	.	-	0	ID=cds:FL83_17540;Parent=transcript:FL83_17540
+scaffold_177	WormBase_imported	CDS	143716	143730	.	-	0	ID=cds:FL83_17540;Parent=transcript:FL83_17540
+scaffold_177	WormBase_imported	CDS	143548	143595	.	-	0	ID=cds:FL83_17540;Parent=transcript:FL83_17540
+scaffold_177	WormBase_imported	CDS	143427	143481	.	-	0	ID=cds:FL83_17540;Parent=transcript:FL83_17540
+scaffold_177	WormBase_imported	CDS	143166	143334	.	-	2	ID=cds:FL83_17540;Parent=transcript:FL83_17540
+scaffold_177	WormBase_imported	CDS	142643	142804	.	-	1	ID=cds:FL83_17540;Parent=transcript:FL83_17540
+scaffold_177	WormBase_imported	CDS	142294	142549	.	-	1	ID=cds:FL83_17540;Parent=transcript:FL83_17540

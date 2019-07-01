@@ -1,0 +1,21 @@
+NBR_contig0000838	WormBase_imported	gene	2221	7188	.	-	.	ID=gene:NBR_0000118901;Name=NBR_0000118901;biotype=protein_coding
+NBR_contig0000838	WormBase_imported	mRNA	2221	7188	.	-	.	ID=transcript:NBR_0000118901-mRNA-1;Parent=gene:NBR_0000118901;Name=NBR_0000118901-mRNA-1;info=method:InterPro accession:IPR040384 description:Feeding circuit activating peptide precursor
+#microexons transcript:NBR_0000118901-mRNA-1:  148 45-48-48-84-33-51 172
+NBR_contig0000838	WormBase_imported	exon	7041	7188	.	-	.	ID=exon:NBR_0000118901-mRNA-1.1;Parent=transcript:NBR_0000118901-mRNA-1
+NBR_contig0000838	WormBase_imported	exon	6584	6628	.	-	.	ID=exon:NBR_0000118901-mRNA-1.2;Parent=transcript:NBR_0000118901-mRNA-1
+NBR_contig0000838	WormBase_imported	exon	6274	6321	.	-	.	ID=exon:NBR_0000118901-mRNA-1.3;Parent=transcript:NBR_0000118901-mRNA-1
+NBR_contig0000838	WormBase_imported	exon	4813	4860	.	-	.	ID=exon:NBR_0000118901-mRNA-1.4;Parent=transcript:NBR_0000118901-mRNA-1
+NBR_contig0000838	WormBase_imported	exon	4470	4553	.	-	.	ID=exon:NBR_0000118901-mRNA-1.5;Parent=transcript:NBR_0000118901-mRNA-1
+NBR_contig0000838	WormBase_imported	exon	3684	3716	.	-	.	ID=exon:NBR_0000118901-mRNA-1.6;Parent=transcript:NBR_0000118901-mRNA-1
+NBR_contig0000838	WormBase_imported	exon	3119	3169	.	-	.	ID=exon:NBR_0000118901-mRNA-1.7;Parent=transcript:NBR_0000118901-mRNA-1
+NBR_contig0000838	WormBase_imported	exon	2221	2392	.	-	.	ID=exon:NBR_0000118901-mRNA-1.8;Parent=transcript:NBR_0000118901-mRNA-1
+NBR_contig0000838	WormBase_imported	five_prime_UTR	7041	7188	.	-	.	Parent=transcript:NBR_0000118901-mRNA-1
+NBR_contig0000838	WormBase_imported	five_prime_UTR	6584	6628	.	-	.	Parent=transcript:NBR_0000118901-mRNA-1
+NBR_contig0000838	WormBase_imported	five_prime_UTR	6277	6321	.	-	.	Parent=transcript:NBR_0000118901-mRNA-1
+NBR_contig0000838	WormBase_imported	CDS	6274	6276	.	-	0	ID=cds:NBR_0000118901-mRNA-1;Parent=transcript:NBR_0000118901-mRNA-1
+NBR_contig0000838	WormBase_imported	CDS	4813	4860	.	-	0	ID=cds:NBR_0000118901-mRNA-1;Parent=transcript:NBR_0000118901-mRNA-1
+NBR_contig0000838	WormBase_imported	CDS	4470	4553	.	-	0	ID=cds:NBR_0000118901-mRNA-1;Parent=transcript:NBR_0000118901-mRNA-1
+NBR_contig0000838	WormBase_imported	CDS	3684	3716	.	-	0	ID=cds:NBR_0000118901-mRNA-1;Parent=transcript:NBR_0000118901-mRNA-1
+NBR_contig0000838	WormBase_imported	CDS	3152	3169	.	-	0	ID=cds:NBR_0000118901-mRNA-1;Parent=transcript:NBR_0000118901-mRNA-1
+NBR_contig0000838	WormBase_imported	three_prime_UTR	3119	3151	.	-	.	Parent=transcript:NBR_0000118901-mRNA-1
+NBR_contig0000838	WormBase_imported	three_prime_UTR	2221	2392	.	-	.	Parent=transcript:NBR_0000118901-mRNA-1

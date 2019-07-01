@@ -5,9 +5,9 @@ for my $species (ProductionMysql->staging->species(@ARGV ? @ARGV : "core_$ENV{PA
   say join "\t", $species, $path
 }
 ' "$@" | while read -r species path ; do
-  echo $species; 
-  zcat $path | grep WormBase_imported | ./microexons.pl > results/$species.gff3
-  grep -c $'\t'gene results/$species.gff3 
-  [ -s results/$species.gff3 ] || rm -v results/$species.gff3
-   echo ""
+  echo " zcat $path | grep WormBase_imported | ./microexons.pl > results/$species.gff3 "
+done | parallel --will-cite --progress  --halt soon,fail=1 --jobs 30 
+
+for result in results/*; do
+  [ -s $result ] || rm $result
 done

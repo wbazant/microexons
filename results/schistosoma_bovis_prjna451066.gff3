@@ -1,0 +1,31 @@
+SBOVIS_1495	WormBase_imported	gene	181547	211806	.	-	.	ID=gene:DC041_0013056;Name=DC041_0013056;biotype=protein_coding
+SBOVIS_1495	WormBase_imported	mRNA	181547	211806	.	-	.	ID=transcript:DC041_0013056;Parent=gene:DC041_0013056;Name=DC041_0013056;info=method:InterPro accession:IPR001978 description:Troponin %0Amethod:InterPro accession:IPR038077 description:Troponin domain superfamily
+#microexons transcript:DC041_0013056:  227 40 57-42-57-42-45-30-111 121 101 44 213 151
+SBOVIS_1495	WormBase_imported	exon	211580	211806	.	-	.	ID=exon:DC041_0013056.1;Parent=transcript:DC041_0013056
+SBOVIS_1495	WormBase_imported	exon	210430	210469	.	-	.	ID=exon:DC041_0013056.2;Parent=transcript:DC041_0013056
+SBOVIS_1495	WormBase_imported	exon	207524	207580	.	-	.	ID=exon:DC041_0013056.3;Parent=transcript:DC041_0013056
+SBOVIS_1495	WormBase_imported	exon	205518	205559	.	-	.	ID=exon:DC041_0013056.4;Parent=transcript:DC041_0013056
+SBOVIS_1495	WormBase_imported	exon	203966	204022	.	-	.	ID=exon:DC041_0013056.5;Parent=transcript:DC041_0013056
+SBOVIS_1495	WormBase_imported	exon	202311	202352	.	-	.	ID=exon:DC041_0013056.6;Parent=transcript:DC041_0013056
+SBOVIS_1495	WormBase_imported	exon	197586	197630	.	-	.	ID=exon:DC041_0013056.7;Parent=transcript:DC041_0013056
+SBOVIS_1495	WormBase_imported	exon	195419	195448	.	-	.	ID=exon:DC041_0013056.8;Parent=transcript:DC041_0013056
+SBOVIS_1495	WormBase_imported	exon	192893	193003	.	-	.	ID=exon:DC041_0013056.9;Parent=transcript:DC041_0013056
+SBOVIS_1495	WormBase_imported	exon	191337	191457	.	-	.	ID=exon:DC041_0013056.10;Parent=transcript:DC041_0013056
+SBOVIS_1495	WormBase_imported	exon	189394	189494	.	-	.	ID=exon:DC041_0013056.11;Parent=transcript:DC041_0013056
+SBOVIS_1495	WormBase_imported	exon	188310	188353	.	-	.	ID=exon:DC041_0013056.12;Parent=transcript:DC041_0013056
+SBOVIS_1495	WormBase_imported	exon	183949	184161	.	-	.	ID=exon:DC041_0013056.13;Parent=transcript:DC041_0013056
+SBOVIS_1495	WormBase_imported	exon	181547	181697	.	-	.	ID=exon:DC041_0013056.14;Parent=transcript:DC041_0013056
+SBOVIS_1495	WormBase_imported	CDS	211580	211806	.	-	0	ID=cds:DC041_0013056;Parent=transcript:DC041_0013056
+SBOVIS_1495	WormBase_imported	CDS	210430	210469	.	-	1	ID=cds:DC041_0013056;Parent=transcript:DC041_0013056
+SBOVIS_1495	WormBase_imported	CDS	207524	207580	.	-	0	ID=cds:DC041_0013056;Parent=transcript:DC041_0013056
+SBOVIS_1495	WormBase_imported	CDS	205518	205559	.	-	0	ID=cds:DC041_0013056;Parent=transcript:DC041_0013056
+SBOVIS_1495	WormBase_imported	CDS	203966	204022	.	-	0	ID=cds:DC041_0013056;Parent=transcript:DC041_0013056
+SBOVIS_1495	WormBase_imported	CDS	202311	202352	.	-	0	ID=cds:DC041_0013056;Parent=transcript:DC041_0013056
+SBOVIS_1495	WormBase_imported	CDS	197586	197630	.	-	0	ID=cds:DC041_0013056;Parent=transcript:DC041_0013056
+SBOVIS_1495	WormBase_imported	CDS	195419	195448	.	-	0	ID=cds:DC041_0013056;Parent=transcript:DC041_0013056
+SBOVIS_1495	WormBase_imported	CDS	192893	193003	.	-	0	ID=cds:DC041_0013056;Parent=transcript:DC041_0013056
+SBOVIS_1495	WormBase_imported	CDS	191337	191457	.	-	0	ID=cds:DC041_0013056;Parent=transcript:DC041_0013056
+SBOVIS_1495	WormBase_imported	CDS	189394	189494	.	-	2	ID=cds:DC041_0013056;Parent=transcript:DC041_0013056
+SBOVIS_1495	WormBase_imported	CDS	188310	188353	.	-	0	ID=cds:DC041_0013056;Parent=transcript:DC041_0013056
+SBOVIS_1495	WormBase_imported	CDS	183949	184161	.	-	1	ID=cds:DC041_0013056;Parent=transcript:DC041_0013056
+SBOVIS_1495	WormBase_imported	CDS	181547	181697	.	-	1	ID=cds:DC041_0013056;Parent=transcript:DC041_0013056

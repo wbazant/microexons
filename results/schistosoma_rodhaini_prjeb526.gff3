@@ -65,22 +65,9 @@ SROB_scaffold0000057	WormBase_imported	CDS	58217	58240	.	-	2	ID=cds:SROB_0000153
 SROB_scaffold0000057	WormBase_imported	CDS	57182	57205	.	-	2	ID=cds:SROB_0000153301-mRNA-1;Parent=transcript:SROB_0000153301-mRNA-1
 SROB_scaffold0000057	WormBase_imported	CDS	56521	56544	.	-	2	ID=cds:SROB_0000153301-mRNA-1;Parent=transcript:SROB_0000153301-mRNA-1
 SROB_scaffold0000057	WormBase_imported	CDS	55931	55965	.	-	2	ID=cds:SROB_0000153301-mRNA-1;Parent=transcript:SROB_0000153301-mRNA-1
-SROB_scaffold0000200	WormBase_imported	gene	3696	7481	.	-	.	ID=gene:SROB_0000203801;Name=SROB_0000203801;biotype=protein_coding
-SROB_scaffold0000200	WormBase_imported	mRNA	3696	7481	.	-	.	ID=transcript:SROB_0000203801-mRNA-1;Parent=gene:SROB_0000203801;Name=SROB_0000203801-mRNA-1
-#microexons transcript:SROB_0000203801-mRNA-1:  204 24-24-21 42
-SROB_scaffold0000200	WormBase_imported	exon	7278	7481	.	-	.	ID=exon:SROB_0000203801-mRNA-1.1;Parent=transcript:SROB_0000203801-mRNA-1
-SROB_scaffold0000200	WormBase_imported	exon	6422	6445	.	-	.	ID=exon:SROB_0000203801-mRNA-1.2;Parent=transcript:SROB_0000203801-mRNA-1
-SROB_scaffold0000200	WormBase_imported	exon	5122	5145	.	-	.	ID=exon:SROB_0000203801-mRNA-1.3;Parent=transcript:SROB_0000203801-mRNA-1
-SROB_scaffold0000200	WormBase_imported	exon	4478	4498	.	-	.	ID=exon:SROB_0000203801-mRNA-1.4;Parent=transcript:SROB_0000203801-mRNA-1
-SROB_scaffold0000200	WormBase_imported	exon	3696	3737	.	-	.	ID=exon:SROB_0000203801-mRNA-1.5;Parent=transcript:SROB_0000203801-mRNA-1
-SROB_scaffold0000200	WormBase_imported	CDS	7278	7481	.	-	0	ID=cds:SROB_0000203801-mRNA-1;Parent=transcript:SROB_0000203801-mRNA-1
-SROB_scaffold0000200	WormBase_imported	CDS	6422	6445	.	-	0	ID=cds:SROB_0000203801-mRNA-1;Parent=transcript:SROB_0000203801-mRNA-1
-SROB_scaffold0000200	WormBase_imported	CDS	5122	5145	.	-	0	ID=cds:SROB_0000203801-mRNA-1;Parent=transcript:SROB_0000203801-mRNA-1
-SROB_scaffold0000200	WormBase_imported	CDS	4478	4498	.	-	0	ID=cds:SROB_0000203801-mRNA-1;Parent=transcript:SROB_0000203801-mRNA-1
-SROB_scaffold0000200	WormBase_imported	CDS	3696	3737	.	-	0	ID=cds:SROB_0000203801-mRNA-1;Parent=transcript:SROB_0000203801-mRNA-1
 SROB_scaffold0000483	WormBase_imported	gene	4819	11169	.	-	.	ID=gene:SROB_0000279601;Name=SROB_0000279601;biotype=protein_coding
 SROB_scaffold0000483	WormBase_imported	mRNA	4819	11169	.	-	.	ID=transcript:SROB_0000279601-mRNA-1;Parent=gene:SROB_0000279601;Name=SROB_0000279601-mRNA-1
-#microexons transcript:SROB_0000279601-mRNA-1:  15 61 24-27 60 30-24-30-24 56
+#microexons transcript:SROB_0000279601-mRNA-1:  15 61 24-27-60-30-24-30-24 56
 SROB_scaffold0000483	WormBase_imported	exon	11155	11169	.	-	.	ID=exon:SROB_0000279601-mRNA-1.1;Parent=transcript:SROB_0000279601-mRNA-1
 SROB_scaffold0000483	WormBase_imported	exon	11041	11101	.	-	.	ID=exon:SROB_0000279601-mRNA-1.2;Parent=transcript:SROB_0000279601-mRNA-1
 SROB_scaffold0000483	WormBase_imported	exon	10621	10644	.	-	.	ID=exon:SROB_0000279601-mRNA-1.3;Parent=transcript:SROB_0000279601-mRNA-1
@@ -102,21 +89,6 @@ SROB_scaffold0000483	WormBase_imported	three_prime_UTR	7044	7067	.	-	.	Parent=tr
 SROB_scaffold0000483	WormBase_imported	three_prime_UTR	5976	6005	.	-	.	Parent=transcript:SROB_0000279601-mRNA-1
 SROB_scaffold0000483	WormBase_imported	three_prime_UTR	5337	5360	.	-	.	Parent=transcript:SROB_0000279601-mRNA-1
 SROB_scaffold0000483	WormBase_imported	three_prime_UTR	4819	4874	.	-	.	Parent=transcript:SROB_0000279601-mRNA-1
-SROB_scaffold0000557	WormBase_imported	gene	17661	44732	.	+	.	ID=gene:SROB_0000297201;Name=SROB_0000297201;biotype=protein_coding
-SROB_scaffold0000557	WormBase_imported	mRNA	17661	44732	.	+	.	ID=transcript:SROB_0000297201-mRNA-1;Parent=gene:SROB_0000297201;Name=SROB_0000297201-mRNA-1
-#microexons transcript:SROB_0000297201-mRNA-1:  97 21-24-24-24 71
-SROB_scaffold0000557	WormBase_imported	exon	17661	17757	.	+	.	ID=exon:SROB_0000297201-mRNA-1.1;Parent=transcript:SROB_0000297201-mRNA-1
-SROB_scaffold0000557	WormBase_imported	exon	37176	37196	.	+	.	ID=exon:SROB_0000297201-mRNA-1.2;Parent=transcript:SROB_0000297201-mRNA-1
-SROB_scaffold0000557	WormBase_imported	exon	38288	38311	.	+	.	ID=exon:SROB_0000297201-mRNA-1.3;Parent=transcript:SROB_0000297201-mRNA-1
-SROB_scaffold0000557	WormBase_imported	exon	39350	39373	.	+	.	ID=exon:SROB_0000297201-mRNA-1.4;Parent=transcript:SROB_0000297201-mRNA-1
-SROB_scaffold0000557	WormBase_imported	exon	41933	41956	.	+	.	ID=exon:SROB_0000297201-mRNA-1.5;Parent=transcript:SROB_0000297201-mRNA-1
-SROB_scaffold0000557	WormBase_imported	exon	44662	44732	.	+	.	ID=exon:SROB_0000297201-mRNA-1.6;Parent=transcript:SROB_0000297201-mRNA-1
-SROB_scaffold0000557	WormBase_imported	CDS	17661	17757	.	+	0	ID=cds:SROB_0000297201-mRNA-1;Parent=transcript:SROB_0000297201-mRNA-1
-SROB_scaffold0000557	WormBase_imported	CDS	37176	37196	.	+	2	ID=cds:SROB_0000297201-mRNA-1;Parent=transcript:SROB_0000297201-mRNA-1
-SROB_scaffold0000557	WormBase_imported	CDS	38288	38311	.	+	2	ID=cds:SROB_0000297201-mRNA-1;Parent=transcript:SROB_0000297201-mRNA-1
-SROB_scaffold0000557	WormBase_imported	CDS	39350	39373	.	+	2	ID=cds:SROB_0000297201-mRNA-1;Parent=transcript:SROB_0000297201-mRNA-1
-SROB_scaffold0000557	WormBase_imported	CDS	41933	41956	.	+	2	ID=cds:SROB_0000297201-mRNA-1;Parent=transcript:SROB_0000297201-mRNA-1
-SROB_scaffold0000557	WormBase_imported	CDS	44662	44732	.	+	2	ID=cds:SROB_0000297201-mRNA-1;Parent=transcript:SROB_0000297201-mRNA-1
 SROB_scaffold0003167	WormBase_imported	gene	306	17983	.	+	.	ID=gene:SROB_0000796601;Name=SROB_0000796601;biotype=protein_coding
 SROB_scaffold0003167	WormBase_imported	mRNA	306	17983	.	+	.	ID=transcript:SROB_0000796601-mRNA-1;Parent=gene:SROB_0000796601;Name=SROB_0000796601-mRNA-1
 #microexons transcript:SROB_0000796601-mRNA-1:  74 15-15-18-18-21-21 19
@@ -136,56 +108,9 @@ SROB_scaffold0003167	WormBase_imported	CDS	10506	10523	.	+	1	ID=cds:SROB_0000796
 SROB_scaffold0003167	WormBase_imported	CDS	14592	14612	.	+	1	ID=cds:SROB_0000796601-mRNA-1;Parent=transcript:SROB_0000796601-mRNA-1
 SROB_scaffold0003167	WormBase_imported	CDS	17048	17068	.	+	1	ID=cds:SROB_0000796601-mRNA-1;Parent=transcript:SROB_0000796601-mRNA-1
 SROB_scaffold0003167	WormBase_imported	CDS	17965	17983	.	+	1	ID=cds:SROB_0000796601-mRNA-1;Parent=transcript:SROB_0000796601-mRNA-1
-SROB_scaffold0007783	WormBase_imported	gene	5332	10492	.	-	.	ID=gene:SROB_0001386901;Name=SROB_0001386901;biotype=protein_coding
-SROB_scaffold0007783	WormBase_imported	mRNA	5332	10492	.	-	.	ID=transcript:SROB_0001386901-mRNA-1;Parent=gene:SROB_0001386901;Name=SROB_0001386901-mRNA-1
-#microexons transcript:SROB_0001386901-mRNA-1:  61 10 6-6-21 4 642 30-18-6-18
-SROB_scaffold0007783	WormBase_imported	exon	10432	10492	.	-	.	ID=exon:SROB_0001386901-mRNA-1.1;Parent=transcript:SROB_0001386901-mRNA-1
-SROB_scaffold0007783	WormBase_imported	exon	9957	9966	.	-	.	ID=exon:SROB_0001386901-mRNA-1.2;Parent=transcript:SROB_0001386901-mRNA-1
-SROB_scaffold0007783	WormBase_imported	exon	9631	9636	.	-	.	ID=exon:SROB_0001386901-mRNA-1.3;Parent=transcript:SROB_0001386901-mRNA-1
-SROB_scaffold0007783	WormBase_imported	exon	9467	9472	.	-	.	ID=exon:SROB_0001386901-mRNA-1.4;Parent=transcript:SROB_0001386901-mRNA-1
-SROB_scaffold0007783	WormBase_imported	exon	8560	8580	.	-	.	ID=exon:SROB_0001386901-mRNA-1.5;Parent=transcript:SROB_0001386901-mRNA-1
-SROB_scaffold0007783	WormBase_imported	exon	8322	8325	.	-	.	ID=exon:SROB_0001386901-mRNA-1.6;Parent=transcript:SROB_0001386901-mRNA-1
-SROB_scaffold0007783	WormBase_imported	exon	7676	8317	.	-	.	ID=exon:SROB_0001386901-mRNA-1.7;Parent=transcript:SROB_0001386901-mRNA-1
-SROB_scaffold0007783	WormBase_imported	exon	7157	7186	.	-	.	ID=exon:SROB_0001386901-mRNA-1.8;Parent=transcript:SROB_0001386901-mRNA-1
-SROB_scaffold0007783	WormBase_imported	exon	6365	6382	.	-	.	ID=exon:SROB_0001386901-mRNA-1.9;Parent=transcript:SROB_0001386901-mRNA-1
-SROB_scaffold0007783	WormBase_imported	exon	5768	5773	.	-	.	ID=exon:SROB_0001386901-mRNA-1.10;Parent=transcript:SROB_0001386901-mRNA-1
-SROB_scaffold0007783	WormBase_imported	exon	5332	5349	.	-	.	ID=exon:SROB_0001386901-mRNA-1.11;Parent=transcript:SROB_0001386901-mRNA-1
-SROB_scaffold0007783	WormBase_imported	five_prime_UTR	10432	10492	.	-	.	Parent=transcript:SROB_0001386901-mRNA-1
-SROB_scaffold0007783	WormBase_imported	five_prime_UTR	9957	9966	.	-	.	Parent=transcript:SROB_0001386901-mRNA-1
-SROB_scaffold0007783	WormBase_imported	five_prime_UTR	9631	9636	.	-	.	Parent=transcript:SROB_0001386901-mRNA-1
-SROB_scaffold0007783	WormBase_imported	five_prime_UTR	9467	9472	.	-	.	Parent=transcript:SROB_0001386901-mRNA-1
-SROB_scaffold0007783	WormBase_imported	five_prime_UTR	8560	8580	.	-	.	Parent=transcript:SROB_0001386901-mRNA-1
-SROB_scaffold0007783	WormBase_imported	five_prime_UTR	8322	8325	.	-	.	Parent=transcript:SROB_0001386901-mRNA-1
-SROB_scaffold0007783	WormBase_imported	five_prime_UTR	7811	8317	.	-	.	Parent=transcript:SROB_0001386901-mRNA-1
-SROB_scaffold0007783	WormBase_imported	CDS	7676	7810	.	-	0	ID=cds:SROB_0001386901-mRNA-1;Parent=transcript:SROB_0001386901-mRNA-1
-SROB_scaffold0007783	WormBase_imported	CDS	7157	7186	.	-	0	ID=cds:SROB_0001386901-mRNA-1;Parent=transcript:SROB_0001386901-mRNA-1
-SROB_scaffold0007783	WormBase_imported	CDS	6365	6382	.	-	0	ID=cds:SROB_0001386901-mRNA-1;Parent=transcript:SROB_0001386901-mRNA-1
-SROB_scaffold0007783	WormBase_imported	CDS	5768	5773	.	-	0	ID=cds:SROB_0001386901-mRNA-1;Parent=transcript:SROB_0001386901-mRNA-1
-SROB_scaffold0007783	WormBase_imported	CDS	5332	5349	.	-	0	ID=cds:SROB_0001386901-mRNA-1;Parent=transcript:SROB_0001386901-mRNA-1
-SROB_scaffold0008178	WormBase_imported	gene	6478	11326	.	-	.	ID=gene:SROB_0001428801;Name=SROB_0001428801;biotype=protein_coding
-SROB_scaffold0008178	WormBase_imported	mRNA	6478	11326	.	-	.	ID=transcript:SROB_0001428801-mRNA-1;Parent=gene:SROB_0001428801;Name=SROB_0001428801-mRNA-1
-#microexons transcript:SROB_0001428801-mRNA-1:  18-15-15 111 393 15-12-30
-SROB_scaffold0008178	WormBase_imported	exon	11309	11326	.	-	.	ID=exon:SROB_0001428801-mRNA-1.1;Parent=transcript:SROB_0001428801-mRNA-1
-SROB_scaffold0008178	WormBase_imported	exon	10654	10668	.	-	.	ID=exon:SROB_0001428801-mRNA-1.2;Parent=transcript:SROB_0001428801-mRNA-1
-SROB_scaffold0008178	WormBase_imported	exon	10521	10535	.	-	.	ID=exon:SROB_0001428801-mRNA-1.3;Parent=transcript:SROB_0001428801-mRNA-1
-SROB_scaffold0008178	WormBase_imported	exon	8836	8946	.	-	.	ID=exon:SROB_0001428801-mRNA-1.4;Parent=transcript:SROB_0001428801-mRNA-1
-SROB_scaffold0008178	WormBase_imported	exon	8438	8830	.	-	.	ID=exon:SROB_0001428801-mRNA-1.5;Parent=transcript:SROB_0001428801-mRNA-1
-SROB_scaffold0008178	WormBase_imported	exon	8124	8138	.	-	.	ID=exon:SROB_0001428801-mRNA-1.6;Parent=transcript:SROB_0001428801-mRNA-1
-SROB_scaffold0008178	WormBase_imported	exon	7578	7589	.	-	.	ID=exon:SROB_0001428801-mRNA-1.7;Parent=transcript:SROB_0001428801-mRNA-1
-SROB_scaffold0008178	WormBase_imported	exon	6478	6507	.	-	.	ID=exon:SROB_0001428801-mRNA-1.8;Parent=transcript:SROB_0001428801-mRNA-1
-SROB_scaffold0008178	WormBase_imported	five_prime_UTR	11309	11326	.	-	.	Parent=transcript:SROB_0001428801-mRNA-1
-SROB_scaffold0008178	WormBase_imported	five_prime_UTR	10654	10668	.	-	.	Parent=transcript:SROB_0001428801-mRNA-1
-SROB_scaffold0008178	WormBase_imported	five_prime_UTR	10521	10535	.	-	.	Parent=transcript:SROB_0001428801-mRNA-1
-SROB_scaffold0008178	WormBase_imported	five_prime_UTR	8920	8946	.	-	.	Parent=transcript:SROB_0001428801-mRNA-1
-SROB_scaffold0008178	WormBase_imported	CDS	8836	8919	.	-	0	ID=cds:SROB_0001428801-mRNA-1;Parent=transcript:SROB_0001428801-mRNA-1
-SROB_scaffold0008178	WormBase_imported	CDS	8816	8830	.	-	0	ID=cds:SROB_0001428801-mRNA-1;Parent=transcript:SROB_0001428801-mRNA-1
-SROB_scaffold0008178	WormBase_imported	three_prime_UTR	8438	8815	.	-	.	Parent=transcript:SROB_0001428801-mRNA-1
-SROB_scaffold0008178	WormBase_imported	three_prime_UTR	8124	8138	.	-	.	Parent=transcript:SROB_0001428801-mRNA-1
-SROB_scaffold0008178	WormBase_imported	three_prime_UTR	7578	7589	.	-	.	Parent=transcript:SROB_0001428801-mRNA-1
-SROB_scaffold0008178	WormBase_imported	three_prime_UTR	6478	6507	.	-	.	Parent=transcript:SROB_0001428801-mRNA-1
 SROB_scaffold0009025	WormBase_imported	gene	2224	11742	.	+	.	ID=gene:SROB_0001514401;Name=SROB_0001514401;biotype=protein_coding
 SROB_scaffold0009025	WormBase_imported	mRNA	2224	11742	.	+	.	ID=transcript:SROB_0001514401-mRNA-1;Parent=gene:SROB_0001514401;Name=SROB_0001514401-mRNA-1
-#microexons transcript:SROB_0001514401-mRNA-1:  23 33 30-21-21-27-18-21-21 23 14
+#microexons transcript:SROB_0001514401-mRNA-1:  23 33-30-21-21-27-18-21-21 23 14
 SROB_scaffold0009025	WormBase_imported	exon	2224	2246	.	+	.	ID=exon:SROB_0001514401-mRNA-1.1;Parent=transcript:SROB_0001514401-mRNA-1
 SROB_scaffold0009025	WormBase_imported	exon	3820	3852	.	+	.	ID=exon:SROB_0001514401-mRNA-1.2;Parent=transcript:SROB_0001514401-mRNA-1
 SROB_scaffold0009025	WormBase_imported	exon	4660	4689	.	+	.	ID=exon:SROB_0001514401-mRNA-1.3;Parent=transcript:SROB_0001514401-mRNA-1

@@ -1,37 +1,6 @@
-scaffold562	WormBase_imported	gene	43061	45070	.	-	.	ID=gene:WR25_03228;Name=WR25_03228;biotype=protein_coding
-scaffold562	WormBase_imported	mRNA	43061	45070	.	-	.	ID=transcript:WR25_03228.1;Parent=gene:WR25_03228;Name=WR25_03228.1;info=method:InterPro accession:IPR002486 description:Nematode cuticle collagen%2C N-terminal
-#microexons transcript:WR25_03228.1:  144 85 68 18-30-9 14 40 109 25 13 57 21 57
-scaffold562	WormBase_imported	exon	44927	45070	.	-	.	ID=exon:WR25_03228.1.1;Parent=transcript:WR25_03228.1
-scaffold562	WormBase_imported	exon	44657	44741	.	-	.	ID=exon:WR25_03228.1.2;Parent=transcript:WR25_03228.1
-scaffold562	WormBase_imported	exon	44538	44605	.	-	.	ID=exon:WR25_03228.1.3;Parent=transcript:WR25_03228.1
-scaffold562	WormBase_imported	exon	44474	44491	.	-	.	ID=exon:WR25_03228.1.4;Parent=transcript:WR25_03228.1
-scaffold562	WormBase_imported	exon	44318	44347	.	-	.	ID=exon:WR25_03228.1.5;Parent=transcript:WR25_03228.1
-scaffold562	WormBase_imported	exon	44266	44274	.	-	.	ID=exon:WR25_03228.1.6;Parent=transcript:WR25_03228.1
-scaffold562	WormBase_imported	exon	43955	43968	.	-	.	ID=exon:WR25_03228.1.7;Parent=transcript:WR25_03228.1
-scaffold562	WormBase_imported	exon	43855	43894	.	-	.	ID=exon:WR25_03228.1.8;Parent=transcript:WR25_03228.1
-scaffold562	WormBase_imported	exon	43700	43808	.	-	.	ID=exon:WR25_03228.1.9;Parent=transcript:WR25_03228.1
-scaffold562	WormBase_imported	exon	43632	43656	.	-	.	ID=exon:WR25_03228.1.10;Parent=transcript:WR25_03228.1
-scaffold562	WormBase_imported	exon	43566	43578	.	-	.	ID=exon:WR25_03228.1.11;Parent=transcript:WR25_03228.1
-scaffold562	WormBase_imported	exon	43465	43521	.	-	.	ID=exon:WR25_03228.1.12;Parent=transcript:WR25_03228.1
-scaffold562	WormBase_imported	exon	43234	43254	.	-	.	ID=exon:WR25_03228.1.13;Parent=transcript:WR25_03228.1
-scaffold562	WormBase_imported	exon	43061	43117	.	-	.	ID=exon:WR25_03228.1.14;Parent=transcript:WR25_03228.1
-scaffold562	WormBase_imported	CDS	44927	45070	.	-	0	ID=cds:WR25_03228.1;Parent=transcript:WR25_03228.1
-scaffold562	WormBase_imported	CDS	44657	44741	.	-	0	ID=cds:WR25_03228.1;Parent=transcript:WR25_03228.1
-scaffold562	WormBase_imported	CDS	44538	44605	.	-	2	ID=cds:WR25_03228.1;Parent=transcript:WR25_03228.1
-scaffold562	WormBase_imported	CDS	44474	44491	.	-	0	ID=cds:WR25_03228.1;Parent=transcript:WR25_03228.1
-scaffold562	WormBase_imported	CDS	44318	44347	.	-	0	ID=cds:WR25_03228.1;Parent=transcript:WR25_03228.1
-scaffold562	WormBase_imported	CDS	44266	44274	.	-	0	ID=cds:WR25_03228.1;Parent=transcript:WR25_03228.1
-scaffold562	WormBase_imported	CDS	43955	43968	.	-	0	ID=cds:WR25_03228.1;Parent=transcript:WR25_03228.1
-scaffold562	WormBase_imported	CDS	43855	43894	.	-	1	ID=cds:WR25_03228.1;Parent=transcript:WR25_03228.1
-scaffold562	WormBase_imported	CDS	43700	43808	.	-	0	ID=cds:WR25_03228.1;Parent=transcript:WR25_03228.1
-scaffold562	WormBase_imported	CDS	43632	43656	.	-	2	ID=cds:WR25_03228.1;Parent=transcript:WR25_03228.1
-scaffold562	WormBase_imported	CDS	43566	43578	.	-	1	ID=cds:WR25_03228.1;Parent=transcript:WR25_03228.1
-scaffold562	WormBase_imported	CDS	43465	43521	.	-	0	ID=cds:WR25_03228.1;Parent=transcript:WR25_03228.1
-scaffold562	WormBase_imported	CDS	43234	43254	.	-	0	ID=cds:WR25_03228.1;Parent=transcript:WR25_03228.1
-scaffold562	WormBase_imported	CDS	43061	43117	.	-	0	ID=cds:WR25_03228.1;Parent=transcript:WR25_03228.1
 scaffold422	WormBase_imported	gene	180588	186634	.	-	.	ID=gene:WR25_15155;Name=WR25_15155;biotype=protein_coding
 scaffold422	WormBase_imported	mRNA	180588	186634	.	-	.	ID=transcript:WR25_15155.1;Parent=gene:WR25_15155;Name=WR25_15155.1
-#microexons transcript:WR25_15155.1:  74 38 30 51 15-30-27 69 57 36 39 33 42 12 42 33 138 23
+#microexons transcript:WR25_15155.1:  74 38 30-51-15-30-27-69-57-36-39-33-42-12-42-33-138 23
 scaffold422	WormBase_imported	exon	186561	186634	.	-	.	ID=exon:WR25_15155.1.1;Parent=transcript:WR25_15155.1
 scaffold422	WormBase_imported	exon	185376	185413	.	-	.	ID=exon:WR25_15155.1.2;Parent=transcript:WR25_15155.1
 scaffold422	WormBase_imported	exon	185292	185321	.	-	.	ID=exon:WR25_15155.1.3;Parent=transcript:WR25_15155.1
@@ -70,9 +39,9 @@ scaffold422	WormBase_imported	CDS	180723	180860	.	-	2	ID=cds:WR25_15155.1;Parent
 scaffold422	WormBase_imported	CDS	180588	180610	.	-	2	ID=cds:WR25_15155.1;Parent=transcript:WR25_15155.1
 scaffold50	WormBase_imported	gene	112343	119437	.	-	.	ID=gene:WR25_20206;Name=WR25_20206;biotype=protein_coding
 scaffold50	WormBase_imported	mRNA	112343	119437	.	-	.	ID=transcript:WR25_20206A.1;Parent=gene:WR25_20206;Name=WR25_20206A.1
-#microexons transcript:WR25_20206A.1:  873 75 38 30 51 15-30-27 69 54 36 33 39 42 9 33 216 23
+#microexons transcript:WR25_20206A.1:  873-75 38 30-51-15-30-27-69-54-36-33-39-42-9-33-216 23
 scaffold50	WormBase_imported	mRNA	112343	116802	.	-	.	ID=transcript:WR25_20206B.1;Parent=gene:WR25_20206;Name=WR25_20206B.1
-#microexons transcript:WR25_20206B.1:  432 15-30-27 69 54 36 33 39 42 9 33 216 23
+#microexons transcript:WR25_20206B.1:  432-15-30-27-69-54-36-33-39-42-9-33-216 23
 scaffold50	WormBase_imported	exon	118565	119437	.	-	.	ID=exon:WR25_20206A.1.1;Parent=transcript:WR25_20206A.1
 scaffold50	WormBase_imported	exon	118080	118154	.	-	.	ID=exon:WR25_20206A.1.2;Parent=transcript:WR25_20206A.1
 scaffold50	WormBase_imported	exon	116888	116925	.	-	.	ID=exon:WR25_20206A.1.3;Parent=transcript:WR25_20206A.1
@@ -139,98 +108,425 @@ scaffold50	WormBase_imported	CDS	113172	113180	.	-	2	ID=cds:WR25_20206B.1;Parent
 scaffold50	WormBase_imported	CDS	113015	113047	.	-	2	ID=cds:WR25_20206B.1;Parent=transcript:WR25_20206B.1
 scaffold50	WormBase_imported	CDS	112471	112686	.	-	2	ID=cds:WR25_20206B.1;Parent=transcript:WR25_20206B.1
 scaffold50	WormBase_imported	CDS	112343	112365	.	-	2	ID=cds:WR25_20206B.1;Parent=transcript:WR25_20206B.1
-scaffold688	WormBase_imported	gene	70402	72645	.	+	.	ID=gene:WR25_26533;Name=WR25_26533;biotype=protein_coding
-scaffold688	WormBase_imported	mRNA	70402	72645	.	+	.	ID=transcript:WR25_26533.1;Parent=gene:WR25_26533;Name=WR25_26533.1;info=method:InterPro accession:IPR008160 description:Collagen triple helix repeat
-#microexons transcript:WR25_26533.1:  132 47 21-27-9-18 28 37 99 37 37 39 22 92 108
-scaffold688	WormBase_imported	exon	70402	70533	.	+	.	ID=exon:WR25_26533.1.1;Parent=transcript:WR25_26533.1
-scaffold688	WormBase_imported	exon	70579	70625	.	+	.	ID=exon:WR25_26533.1.2;Parent=transcript:WR25_26533.1
-scaffold688	WormBase_imported	exon	70675	70695	.	+	.	ID=exon:WR25_26533.1.3;Parent=transcript:WR25_26533.1
-scaffold688	WormBase_imported	exon	70835	70861	.	+	.	ID=exon:WR25_26533.1.4;Parent=transcript:WR25_26533.1
-scaffold688	WormBase_imported	exon	70908	70916	.	+	.	ID=exon:WR25_26533.1.5;Parent=transcript:WR25_26533.1
-scaffold688	WormBase_imported	exon	71092	71109	.	+	.	ID=exon:WR25_26533.1.6;Parent=transcript:WR25_26533.1
-scaffold688	WormBase_imported	exon	71155	71182	.	+	.	ID=exon:WR25_26533.1.7;Parent=transcript:WR25_26533.1
-scaffold688	WormBase_imported	exon	71296	71332	.	+	.	ID=exon:WR25_26533.1.8;Parent=transcript:WR25_26533.1
-scaffold688	WormBase_imported	exon	71378	71476	.	+	.	ID=exon:WR25_26533.1.9;Parent=transcript:WR25_26533.1
-scaffold688	WormBase_imported	exon	71671	71707	.	+	.	ID=exon:WR25_26533.1.10;Parent=transcript:WR25_26533.1
-scaffold688	WormBase_imported	exon	72027	72063	.	+	.	ID=exon:WR25_26533.1.11;Parent=transcript:WR25_26533.1
-scaffold688	WormBase_imported	exon	72104	72142	.	+	.	ID=exon:WR25_26533.1.12;Parent=transcript:WR25_26533.1
-scaffold688	WormBase_imported	exon	72191	72212	.	+	.	ID=exon:WR25_26533.1.13;Parent=transcript:WR25_26533.1
-scaffold688	WormBase_imported	exon	72403	72494	.	+	.	ID=exon:WR25_26533.1.14;Parent=transcript:WR25_26533.1
-scaffold688	WormBase_imported	exon	72538	72645	.	+	.	ID=exon:WR25_26533.1.15;Parent=transcript:WR25_26533.1
-scaffold688	WormBase_imported	CDS	70402	70533	.	+	0	ID=cds:WR25_26533.1;Parent=transcript:WR25_26533.1
-scaffold688	WormBase_imported	CDS	70579	70625	.	+	0	ID=cds:WR25_26533.1;Parent=transcript:WR25_26533.1
-scaffold688	WormBase_imported	CDS	70675	70695	.	+	1	ID=cds:WR25_26533.1;Parent=transcript:WR25_26533.1
-scaffold688	WormBase_imported	CDS	70835	70861	.	+	1	ID=cds:WR25_26533.1;Parent=transcript:WR25_26533.1
-scaffold688	WormBase_imported	CDS	70908	70916	.	+	1	ID=cds:WR25_26533.1;Parent=transcript:WR25_26533.1
-scaffold688	WormBase_imported	CDS	71092	71109	.	+	1	ID=cds:WR25_26533.1;Parent=transcript:WR25_26533.1
-scaffold688	WormBase_imported	CDS	71155	71182	.	+	1	ID=cds:WR25_26533.1;Parent=transcript:WR25_26533.1
-scaffold688	WormBase_imported	CDS	71296	71332	.	+	0	ID=cds:WR25_26533.1;Parent=transcript:WR25_26533.1
-scaffold688	WormBase_imported	CDS	71378	71476	.	+	2	ID=cds:WR25_26533.1;Parent=transcript:WR25_26533.1
-scaffold688	WormBase_imported	CDS	71671	71707	.	+	2	ID=cds:WR25_26533.1;Parent=transcript:WR25_26533.1
-scaffold688	WormBase_imported	CDS	72027	72063	.	+	1	ID=cds:WR25_26533.1;Parent=transcript:WR25_26533.1
-scaffold688	WormBase_imported	CDS	72104	72142	.	+	0	ID=cds:WR25_26533.1;Parent=transcript:WR25_26533.1
-scaffold688	WormBase_imported	CDS	72191	72212	.	+	0	ID=cds:WR25_26533.1;Parent=transcript:WR25_26533.1
-scaffold688	WormBase_imported	CDS	72403	72494	.	+	2	ID=cds:WR25_26533.1;Parent=transcript:WR25_26533.1
-scaffold688	WormBase_imported	CDS	72538	72645	.	+	0	ID=cds:WR25_26533.1;Parent=transcript:WR25_26533.1
-scaffold35	WormBase_imported	gene	61714	64607	.	-	.	ID=gene:WR25_22180;Name=WR25_22180;biotype=protein_coding
-scaffold35	WormBase_imported	mRNA	61714	64607	.	-	.	ID=transcript:WR25_22180.1;Parent=gene:WR25_22180;Name=WR25_22180.1;info=method:InterPro accession:IPR002486 description:Nematode cuticle collagen%2C N-terminal
-#microexons transcript:WR25_22180.1:  144 85 68 18-30-9 14 40 26 25 13 57 21 11 939
-scaffold35	WormBase_imported	exon	64464	64607	.	-	.	ID=exon:WR25_22180.1.1;Parent=transcript:WR25_22180.1
-scaffold35	WormBase_imported	exon	64195	64279	.	-	.	ID=exon:WR25_22180.1.2;Parent=transcript:WR25_22180.1
-scaffold35	WormBase_imported	exon	64076	64143	.	-	.	ID=exon:WR25_22180.1.3;Parent=transcript:WR25_22180.1
-scaffold35	WormBase_imported	exon	64012	64029	.	-	.	ID=exon:WR25_22180.1.4;Parent=transcript:WR25_22180.1
-scaffold35	WormBase_imported	exon	63856	63885	.	-	.	ID=exon:WR25_22180.1.5;Parent=transcript:WR25_22180.1
-scaffold35	WormBase_imported	exon	63800	63808	.	-	.	ID=exon:WR25_22180.1.6;Parent=transcript:WR25_22180.1
-scaffold35	WormBase_imported	exon	63484	63497	.	-	.	ID=exon:WR25_22180.1.7;Parent=transcript:WR25_22180.1
-scaffold35	WormBase_imported	exon	63384	63423	.	-	.	ID=exon:WR25_22180.1.8;Parent=transcript:WR25_22180.1
-scaffold35	WormBase_imported	exon	63227	63252	.	-	.	ID=exon:WR25_22180.1.9;Parent=transcript:WR25_22180.1
-scaffold35	WormBase_imported	exon	63151	63175	.	-	.	ID=exon:WR25_22180.1.10;Parent=transcript:WR25_22180.1
-scaffold35	WormBase_imported	exon	63086	63098	.	-	.	ID=exon:WR25_22180.1.11;Parent=transcript:WR25_22180.1
-scaffold35	WormBase_imported	exon	62985	63041	.	-	.	ID=exon:WR25_22180.1.12;Parent=transcript:WR25_22180.1
-scaffold35	WormBase_imported	exon	62769	62789	.	-	.	ID=exon:WR25_22180.1.13;Parent=transcript:WR25_22180.1
-scaffold35	WormBase_imported	exon	62706	62716	.	-	.	ID=exon:WR25_22180.1.14;Parent=transcript:WR25_22180.1
-scaffold35	WormBase_imported	exon	61714	62652	.	-	.	ID=exon:WR25_22180.1.15;Parent=transcript:WR25_22180.1
-scaffold35	WormBase_imported	CDS	64464	64607	.	-	0	ID=cds:WR25_22180.1;Parent=transcript:WR25_22180.1
-scaffold35	WormBase_imported	CDS	64195	64279	.	-	0	ID=cds:WR25_22180.1;Parent=transcript:WR25_22180.1
-scaffold35	WormBase_imported	CDS	64076	64143	.	-	2	ID=cds:WR25_22180.1;Parent=transcript:WR25_22180.1
-scaffold35	WormBase_imported	CDS	64012	64029	.	-	0	ID=cds:WR25_22180.1;Parent=transcript:WR25_22180.1
-scaffold35	WormBase_imported	CDS	63856	63885	.	-	0	ID=cds:WR25_22180.1;Parent=transcript:WR25_22180.1
-scaffold35	WormBase_imported	CDS	63800	63808	.	-	0	ID=cds:WR25_22180.1;Parent=transcript:WR25_22180.1
-scaffold35	WormBase_imported	CDS	63484	63497	.	-	0	ID=cds:WR25_22180.1;Parent=transcript:WR25_22180.1
-scaffold35	WormBase_imported	CDS	63384	63423	.	-	1	ID=cds:WR25_22180.1;Parent=transcript:WR25_22180.1
-scaffold35	WormBase_imported	CDS	63227	63252	.	-	0	ID=cds:WR25_22180.1;Parent=transcript:WR25_22180.1
-scaffold35	WormBase_imported	CDS	63151	63175	.	-	1	ID=cds:WR25_22180.1;Parent=transcript:WR25_22180.1
-scaffold35	WormBase_imported	CDS	63086	63098	.	-	0	ID=cds:WR25_22180.1;Parent=transcript:WR25_22180.1
-scaffold35	WormBase_imported	CDS	62985	63041	.	-	2	ID=cds:WR25_22180.1;Parent=transcript:WR25_22180.1
-scaffold35	WormBase_imported	CDS	62769	62789	.	-	2	ID=cds:WR25_22180.1;Parent=transcript:WR25_22180.1
-scaffold35	WormBase_imported	CDS	62706	62716	.	-	2	ID=cds:WR25_22180.1;Parent=transcript:WR25_22180.1
-scaffold35	WormBase_imported	CDS	62596	62652	.	-	0	ID=cds:WR25_22180.1;Parent=transcript:WR25_22180.1
-scaffold35	WormBase_imported	three_prime_UTR	61714	62595	.	-	.	Parent=transcript:WR25_22180.1
-scaffold2546	WormBase_imported	gene	23290	26455	.	+	.	ID=gene:WR25_18867;Name=WR25_18867;biotype=protein_coding
-scaffold2546	WormBase_imported	mRNA	23290	26455	.	+	.	ID=transcript:WR25_18867.1;Parent=gene:WR25_18867;Name=WR25_18867.1
-#microexons transcript:WR25_18867.1:  724 164 59 42 44 35 63 30-9-27 31 56
-scaffold2546	WormBase_imported	exon	23290	24013	.	+	.	ID=exon:WR25_18867.1.1;Parent=transcript:WR25_18867.1
-scaffold2546	WormBase_imported	exon	24262	24425	.	+	.	ID=exon:WR25_18867.1.2;Parent=transcript:WR25_18867.1
-scaffold2546	WormBase_imported	exon	24805	24863	.	+	.	ID=exon:WR25_18867.1.3;Parent=transcript:WR25_18867.1
-scaffold2546	WormBase_imported	exon	25096	25137	.	+	.	ID=exon:WR25_18867.1.4;Parent=transcript:WR25_18867.1
-scaffold2546	WormBase_imported	exon	25310	25353	.	+	.	ID=exon:WR25_18867.1.5;Parent=transcript:WR25_18867.1
-scaffold2546	WormBase_imported	exon	25406	25440	.	+	.	ID=exon:WR25_18867.1.6;Parent=transcript:WR25_18867.1
-scaffold2546	WormBase_imported	exon	25674	25736	.	+	.	ID=exon:WR25_18867.1.7;Parent=transcript:WR25_18867.1
-scaffold2546	WormBase_imported	exon	25942	25971	.	+	.	ID=exon:WR25_18867.1.8;Parent=transcript:WR25_18867.1
-scaffold2546	WormBase_imported	exon	26016	26024	.	+	.	ID=exon:WR25_18867.1.9;Parent=transcript:WR25_18867.1
-scaffold2546	WormBase_imported	exon	26169	26195	.	+	.	ID=exon:WR25_18867.1.10;Parent=transcript:WR25_18867.1
-scaffold2546	WormBase_imported	exon	26326	26356	.	+	.	ID=exon:WR25_18867.1.11;Parent=transcript:WR25_18867.1
-scaffold2546	WormBase_imported	exon	26400	26455	.	+	.	ID=exon:WR25_18867.1.12;Parent=transcript:WR25_18867.1
-scaffold2546	WormBase_imported	five_prime_UTR	23290	23898	.	+	.	Parent=transcript:WR25_18867.1
-scaffold2546	WormBase_imported	CDS	23899	24013	.	+	0	ID=cds:WR25_18867.1;Parent=transcript:WR25_18867.1
-scaffold2546	WormBase_imported	CDS	24262	24425	.	+	2	ID=cds:WR25_18867.1;Parent=transcript:WR25_18867.1
-scaffold2546	WormBase_imported	CDS	24805	24863	.	+	0	ID=cds:WR25_18867.1;Parent=transcript:WR25_18867.1
-scaffold2546	WormBase_imported	CDS	25096	25137	.	+	1	ID=cds:WR25_18867.1;Parent=transcript:WR25_18867.1
-scaffold2546	WormBase_imported	CDS	25310	25353	.	+	1	ID=cds:WR25_18867.1;Parent=transcript:WR25_18867.1
-scaffold2546	WormBase_imported	CDS	25406	25440	.	+	2	ID=cds:WR25_18867.1;Parent=transcript:WR25_18867.1
-scaffold2546	WormBase_imported	CDS	25674	25736	.	+	0	ID=cds:WR25_18867.1;Parent=transcript:WR25_18867.1
-scaffold2546	WormBase_imported	CDS	25942	25971	.	+	0	ID=cds:WR25_18867.1;Parent=transcript:WR25_18867.1
-scaffold2546	WormBase_imported	CDS	26016	26024	.	+	0	ID=cds:WR25_18867.1;Parent=transcript:WR25_18867.1
-scaffold2546	WormBase_imported	CDS	26169	26195	.	+	0	ID=cds:WR25_18867.1;Parent=transcript:WR25_18867.1
-scaffold2546	WormBase_imported	CDS	26326	26356	.	+	0	ID=cds:WR25_18867.1;Parent=transcript:WR25_18867.1
-scaffold2546	WormBase_imported	CDS	26400	26455	.	+	2	ID=cds:WR25_18867.1;Parent=transcript:WR25_18867.1
+scaffold1864	WormBase_imported	gene	119468	120415	.	+	.	ID=gene:WR25_01988;Name=WR25_01988;biotype=protein_coding
+scaffold1864	WormBase_imported	mRNA	119468	120415	.	+	.	ID=transcript:WR25_01988B.1;Parent=gene:WR25_01988;Name=WR25_01988B.1
+#microexons transcript:WR25_01988B.1:  137 63-66-48-48-30
+scaffold1864	WormBase_imported	mRNA	119468	120415	.	+	.	ID=transcript:WR25_01988A.1;Parent=gene:WR25_01988;Name=WR25_01988A.1
+#microexons transcript:WR25_01988A.1:  137 51-39-66-48-48-30
+scaffold1864	WormBase_imported	exon	119468	119604	.	+	.	ID=exon:WR25_01988B.1.1;Parent=transcript:WR25_01988B.1
+scaffold1864	WormBase_imported	exon	119648	119710	.	+	.	ID=exon:WR25_01988B.1.2;Parent=transcript:WR25_01988B.1
+scaffold1864	WormBase_imported	exon	120084	120149	.	+	.	ID=exon:WR25_01988B.1.3;Parent=transcript:WR25_01988B.1
+scaffold1864	WormBase_imported	exon	120202	120249	.	+	.	ID=exon:WR25_01988B.1.4;Parent=transcript:WR25_01988B.1
+scaffold1864	WormBase_imported	exon	120294	120341	.	+	.	ID=exon:WR25_01988B.1.5;Parent=transcript:WR25_01988B.1
+scaffold1864	WormBase_imported	exon	120386	120415	.	+	.	ID=exon:WR25_01988B.1.6;Parent=transcript:WR25_01988B.1
+scaffold1864	WormBase_imported	exon	119468	119604	.	+	.	ID=exon:WR25_01988A.1.1;Parent=transcript:WR25_01988A.1
+scaffold1864	WormBase_imported	exon	119886	119936	.	+	.	ID=exon:WR25_01988A.1.2;Parent=transcript:WR25_01988A.1
+scaffold1864	WormBase_imported	exon	119979	120017	.	+	.	ID=exon:WR25_01988A.1.3;Parent=transcript:WR25_01988A.1
+scaffold1864	WormBase_imported	exon	120084	120149	.	+	.	ID=exon:WR25_01988A.1.4;Parent=transcript:WR25_01988A.1
+scaffold1864	WormBase_imported	exon	120202	120249	.	+	.	ID=exon:WR25_01988A.1.5;Parent=transcript:WR25_01988A.1
+scaffold1864	WormBase_imported	exon	120294	120341	.	+	.	ID=exon:WR25_01988A.1.6;Parent=transcript:WR25_01988A.1
+scaffold1864	WormBase_imported	exon	120386	120415	.	+	.	ID=exon:WR25_01988A.1.7;Parent=transcript:WR25_01988A.1
+scaffold1864	WormBase_imported	five_prime_UTR	119468	119469	.	+	.	Parent=transcript:WR25_01988B.1
+scaffold1864	WormBase_imported	CDS	119470	119604	.	+	0	ID=cds:WR25_01988B.1;Parent=transcript:WR25_01988B.1
+scaffold1864	WormBase_imported	CDS	119648	119710	.	+	0	ID=cds:WR25_01988B.1;Parent=transcript:WR25_01988B.1
+scaffold1864	WormBase_imported	CDS	120084	120149	.	+	0	ID=cds:WR25_01988B.1;Parent=transcript:WR25_01988B.1
+scaffold1864	WormBase_imported	CDS	120202	120249	.	+	0	ID=cds:WR25_01988B.1;Parent=transcript:WR25_01988B.1
+scaffold1864	WormBase_imported	CDS	120294	120341	.	+	0	ID=cds:WR25_01988B.1;Parent=transcript:WR25_01988B.1
+scaffold1864	WormBase_imported	CDS	120386	120415	.	+	0	ID=cds:WR25_01988B.1;Parent=transcript:WR25_01988B.1
+scaffold1864	WormBase_imported	five_prime_UTR	119468	119469	.	+	.	Parent=transcript:WR25_01988A.1
+scaffold1864	WormBase_imported	CDS	119470	119604	.	+	0	ID=cds:WR25_01988A.1;Parent=transcript:WR25_01988A.1
+scaffold1864	WormBase_imported	CDS	119886	119936	.	+	0	ID=cds:WR25_01988A.1;Parent=transcript:WR25_01988A.1
+scaffold1864	WormBase_imported	CDS	119979	120017	.	+	0	ID=cds:WR25_01988A.1;Parent=transcript:WR25_01988A.1
+scaffold1864	WormBase_imported	CDS	120084	120149	.	+	0	ID=cds:WR25_01988A.1;Parent=transcript:WR25_01988A.1
+scaffold1864	WormBase_imported	CDS	120202	120249	.	+	0	ID=cds:WR25_01988A.1;Parent=transcript:WR25_01988A.1
+scaffold1864	WormBase_imported	CDS	120294	120341	.	+	0	ID=cds:WR25_01988A.1;Parent=transcript:WR25_01988A.1
+scaffold1864	WormBase_imported	CDS	120386	120415	.	+	0	ID=cds:WR25_01988A.1;Parent=transcript:WR25_01988A.1
+scaffold875	WormBase_imported	gene	11191	15080	.	-	.	ID=gene:WR25_17444;Name=WR25_17444;biotype=protein_coding
+scaffold875	WormBase_imported	mRNA	11191	15080	.	-	.	ID=transcript:WR25_17444A.1;Parent=gene:WR25_17444;Name=WR25_17444A.1;info=method:InterPro accession:IPR036084 description:Serine protease inhibitor-like superfamily
+#microexons transcript:WR25_17444A.1:  845 79 84-27-42-36 167 1415
+scaffold875	WormBase_imported	mRNA	11191	15080	.	-	.	ID=transcript:WR25_17444D.1;Parent=gene:WR25_17444;Name=WR25_17444D.1;info=method:InterPro accession:IPR036084 description:Serine protease inhibitor-like superfamily
+#microexons transcript:WR25_17444D.1:  845 79 158 42-36 167 1415
+scaffold875	WormBase_imported	mRNA	11191	15080	.	-	.	ID=transcript:WR25_17444I.1;Parent=gene:WR25_17444;Name=WR25_17444I.1;info=method:InterPro accession:IPR036084 description:Serine protease inhibitor-like superfamily
+#microexons transcript:WR25_17444I.1:  845 79 158 124 167 1415
+scaffold875	WormBase_imported	mRNA	11191	15080	.	-	.	ID=transcript:WR25_17444C.1;Parent=gene:WR25_17444;Name=WR25_17444C.1;info=method:InterPro accession:IPR036084 description:Serine protease inhibitor-like superfamily
+#microexons transcript:WR25_17444C.1:  845 206 27-42-36 167 1415
+scaffold875	WormBase_imported	mRNA	11191	15080	.	-	.	ID=transcript:WR25_17444J.1;Parent=gene:WR25_17444;Name=WR25_17444J.1;info=method:InterPro accession:IPR036084 description:Serine protease inhibitor-like superfamily
+#microexons transcript:WR25_17444J.1:  845 206 27 124 167 1415
+scaffold875	WormBase_imported	mRNA	11191	15080	.	-	.	ID=transcript:WR25_17444H.1;Parent=gene:WR25_17444;Name=WR25_17444H.1;info=method:InterPro accession:IPR036084 description:Serine protease inhibitor-like superfamily
+#microexons transcript:WR25_17444H.1:  845 280 42-36 167 1415
+scaffold875	WormBase_imported	mRNA	11191	15080	.	-	.	ID=transcript:WR25_17444L.1;Parent=gene:WR25_17444;Name=WR25_17444L.1;info=method:InterPro accession:IPR036084 description:Serine protease inhibitor-like superfamily
+#microexons transcript:WR25_17444L.1:  845 280 124 167 1415
+scaffold875	WormBase_imported	mRNA	11191	15080	.	-	.	ID=transcript:WR25_17444B.1;Parent=gene:WR25_17444;Name=WR25_17444B.1;info=method:InterPro accession:IPR036084 description:Serine protease inhibitor-like superfamily
+#microexons transcript:WR25_17444B.1:  978-84-27-42-36 167 1415
+scaffold875	WormBase_imported	mRNA	11191	15080	.	-	.	ID=transcript:WR25_17444G.1;Parent=gene:WR25_17444;Name=WR25_17444G.1;info=method:InterPro accession:IPR036084 description:Serine protease inhibitor-like superfamily
+#microexons transcript:WR25_17444G.1:  978-84-27 124 167 1415
+scaffold875	WormBase_imported	mRNA	11191	15080	.	-	.	ID=transcript:WR25_17444F.1;Parent=gene:WR25_17444;Name=WR25_17444F.1;info=method:InterPro accession:IPR036084 description:Serine protease inhibitor-like superfamily
+#microexons transcript:WR25_17444F.1:  978 158 42-36 167 1415
+scaffold875	WormBase_imported	mRNA	11191	15080	.	-	.	ID=transcript:WR25_17444E.1;Parent=gene:WR25_17444;Name=WR25_17444E.1;info=method:InterPro accession:IPR036084 description:Serine protease inhibitor-like superfamily
+#microexons transcript:WR25_17444E.1:  1105 27-42-36 167 1415
+scaffold875	WormBase_imported	mRNA	11191	15080	.	-	.	ID=transcript:WR25_17444K.1;Parent=gene:WR25_17444;Name=WR25_17444K.1;info=method:InterPro accession:IPR036084 description:Serine protease inhibitor-like superfamily
+#microexons transcript:WR25_17444K.1:  1179-42-36 167 1415
+scaffold875	WormBase_imported	exon	14236	15080	.	-	.	ID=exon:WR25_17444A.1.1;Parent=transcript:WR25_17444A.1
+scaffold875	WormBase_imported	exon	14103	14181	.	-	.	ID=exon:WR25_17444A.1.2;Parent=transcript:WR25_17444A.1
+scaffold875	WormBase_imported	exon	13976	14059	.	-	.	ID=exon:WR25_17444A.1.3;Parent=transcript:WR25_17444A.1
+scaffold875	WormBase_imported	exon	13902	13928	.	-	.	ID=exon:WR25_17444A.1.4;Parent=transcript:WR25_17444A.1
+scaffold875	WormBase_imported	exon	13174	13215	.	-	.	ID=exon:WR25_17444A.1.5;Parent=transcript:WR25_17444A.1
+scaffold875	WormBase_imported	exon	13092	13127	.	-	.	ID=exon:WR25_17444A.1.6;Parent=transcript:WR25_17444A.1
+scaffold875	WormBase_imported	exon	12875	13041	.	-	.	ID=exon:WR25_17444A.1.7;Parent=transcript:WR25_17444A.1
+scaffold875	WormBase_imported	exon	11191	12605	.	-	.	ID=exon:WR25_17444A.1.8;Parent=transcript:WR25_17444A.1
+scaffold875	WormBase_imported	exon	14236	15080	.	-	.	ID=exon:WR25_17444D.1.1;Parent=transcript:WR25_17444D.1
+scaffold875	WormBase_imported	exon	14103	14181	.	-	.	ID=exon:WR25_17444D.1.2;Parent=transcript:WR25_17444D.1
+scaffold875	WormBase_imported	exon	13902	14059	.	-	.	ID=exon:WR25_17444D.1.3;Parent=transcript:WR25_17444D.1
+scaffold875	WormBase_imported	exon	13174	13215	.	-	.	ID=exon:WR25_17444D.1.4;Parent=transcript:WR25_17444D.1
+scaffold875	WormBase_imported	exon	13092	13127	.	-	.	ID=exon:WR25_17444D.1.5;Parent=transcript:WR25_17444D.1
+scaffold875	WormBase_imported	exon	12875	13041	.	-	.	ID=exon:WR25_17444D.1.6;Parent=transcript:WR25_17444D.1
+scaffold875	WormBase_imported	exon	11191	12605	.	-	.	ID=exon:WR25_17444D.1.7;Parent=transcript:WR25_17444D.1
+scaffold875	WormBase_imported	exon	14236	15080	.	-	.	ID=exon:WR25_17444I.1.1;Parent=transcript:WR25_17444I.1
+scaffold875	WormBase_imported	exon	14103	14181	.	-	.	ID=exon:WR25_17444I.1.2;Parent=transcript:WR25_17444I.1
+scaffold875	WormBase_imported	exon	13902	14059	.	-	.	ID=exon:WR25_17444I.1.3;Parent=transcript:WR25_17444I.1
+scaffold875	WormBase_imported	exon	13092	13215	.	-	.	ID=exon:WR25_17444I.1.4;Parent=transcript:WR25_17444I.1
+scaffold875	WormBase_imported	exon	12875	13041	.	-	.	ID=exon:WR25_17444I.1.5;Parent=transcript:WR25_17444I.1
+scaffold875	WormBase_imported	exon	11191	12605	.	-	.	ID=exon:WR25_17444I.1.6;Parent=transcript:WR25_17444I.1
+scaffold875	WormBase_imported	exon	14236	15080	.	-	.	ID=exon:WR25_17444C.1.1;Parent=transcript:WR25_17444C.1
+scaffold875	WormBase_imported	exon	13976	14181	.	-	.	ID=exon:WR25_17444C.1.2;Parent=transcript:WR25_17444C.1
+scaffold875	WormBase_imported	exon	13902	13928	.	-	.	ID=exon:WR25_17444C.1.3;Parent=transcript:WR25_17444C.1
+scaffold875	WormBase_imported	exon	13174	13215	.	-	.	ID=exon:WR25_17444C.1.4;Parent=transcript:WR25_17444C.1
+scaffold875	WormBase_imported	exon	13092	13127	.	-	.	ID=exon:WR25_17444C.1.5;Parent=transcript:WR25_17444C.1
+scaffold875	WormBase_imported	exon	12875	13041	.	-	.	ID=exon:WR25_17444C.1.6;Parent=transcript:WR25_17444C.1
+scaffold875	WormBase_imported	exon	11191	12605	.	-	.	ID=exon:WR25_17444C.1.7;Parent=transcript:WR25_17444C.1
+scaffold875	WormBase_imported	exon	14236	15080	.	-	.	ID=exon:WR25_17444J.1.1;Parent=transcript:WR25_17444J.1
+scaffold875	WormBase_imported	exon	13976	14181	.	-	.	ID=exon:WR25_17444J.1.2;Parent=transcript:WR25_17444J.1
+scaffold875	WormBase_imported	exon	13902	13928	.	-	.	ID=exon:WR25_17444J.1.3;Parent=transcript:WR25_17444J.1
+scaffold875	WormBase_imported	exon	13092	13215	.	-	.	ID=exon:WR25_17444J.1.4;Parent=transcript:WR25_17444J.1
+scaffold875	WormBase_imported	exon	12875	13041	.	-	.	ID=exon:WR25_17444J.1.5;Parent=transcript:WR25_17444J.1
+scaffold875	WormBase_imported	exon	11191	12605	.	-	.	ID=exon:WR25_17444J.1.6;Parent=transcript:WR25_17444J.1
+scaffold875	WormBase_imported	exon	14236	15080	.	-	.	ID=exon:WR25_17444H.1.1;Parent=transcript:WR25_17444H.1
+scaffold875	WormBase_imported	exon	13902	14181	.	-	.	ID=exon:WR25_17444H.1.2;Parent=transcript:WR25_17444H.1
+scaffold875	WormBase_imported	exon	13174	13215	.	-	.	ID=exon:WR25_17444H.1.3;Parent=transcript:WR25_17444H.1
+scaffold875	WormBase_imported	exon	13092	13127	.	-	.	ID=exon:WR25_17444H.1.4;Parent=transcript:WR25_17444H.1
+scaffold875	WormBase_imported	exon	12875	13041	.	-	.	ID=exon:WR25_17444H.1.5;Parent=transcript:WR25_17444H.1
+scaffold875	WormBase_imported	exon	11191	12605	.	-	.	ID=exon:WR25_17444H.1.6;Parent=transcript:WR25_17444H.1
+scaffold875	WormBase_imported	exon	14236	15080	.	-	.	ID=exon:WR25_17444L.1.1;Parent=transcript:WR25_17444L.1
+scaffold875	WormBase_imported	exon	13902	14181	.	-	.	ID=exon:WR25_17444L.1.2;Parent=transcript:WR25_17444L.1
+scaffold875	WormBase_imported	exon	13092	13215	.	-	.	ID=exon:WR25_17444L.1.3;Parent=transcript:WR25_17444L.1
+scaffold875	WormBase_imported	exon	12875	13041	.	-	.	ID=exon:WR25_17444L.1.4;Parent=transcript:WR25_17444L.1
+scaffold875	WormBase_imported	exon	11191	12605	.	-	.	ID=exon:WR25_17444L.1.5;Parent=transcript:WR25_17444L.1
+scaffold875	WormBase_imported	exon	14103	15080	.	-	.	ID=exon:WR25_17444B.1.1;Parent=transcript:WR25_17444B.1
+scaffold875	WormBase_imported	exon	13976	14059	.	-	.	ID=exon:WR25_17444B.1.2;Parent=transcript:WR25_17444B.1
+scaffold875	WormBase_imported	exon	13902	13928	.	-	.	ID=exon:WR25_17444B.1.3;Parent=transcript:WR25_17444B.1
+scaffold875	WormBase_imported	exon	13174	13215	.	-	.	ID=exon:WR25_17444B.1.4;Parent=transcript:WR25_17444B.1
+scaffold875	WormBase_imported	exon	13092	13127	.	-	.	ID=exon:WR25_17444B.1.5;Parent=transcript:WR25_17444B.1
+scaffold875	WormBase_imported	exon	12875	13041	.	-	.	ID=exon:WR25_17444B.1.6;Parent=transcript:WR25_17444B.1
+scaffold875	WormBase_imported	exon	11191	12605	.	-	.	ID=exon:WR25_17444B.1.7;Parent=transcript:WR25_17444B.1
+scaffold875	WormBase_imported	exon	14103	15080	.	-	.	ID=exon:WR25_17444G.1.1;Parent=transcript:WR25_17444G.1
+scaffold875	WormBase_imported	exon	13976	14059	.	-	.	ID=exon:WR25_17444G.1.2;Parent=transcript:WR25_17444G.1
+scaffold875	WormBase_imported	exon	13902	13928	.	-	.	ID=exon:WR25_17444G.1.3;Parent=transcript:WR25_17444G.1
+scaffold875	WormBase_imported	exon	13092	13215	.	-	.	ID=exon:WR25_17444G.1.4;Parent=transcript:WR25_17444G.1
+scaffold875	WormBase_imported	exon	12875	13041	.	-	.	ID=exon:WR25_17444G.1.5;Parent=transcript:WR25_17444G.1
+scaffold875	WormBase_imported	exon	11191	12605	.	-	.	ID=exon:WR25_17444G.1.6;Parent=transcript:WR25_17444G.1
+scaffold875	WormBase_imported	exon	14103	15080	.	-	.	ID=exon:WR25_17444F.1.1;Parent=transcript:WR25_17444F.1
+scaffold875	WormBase_imported	exon	13902	14059	.	-	.	ID=exon:WR25_17444F.1.2;Parent=transcript:WR25_17444F.1
+scaffold875	WormBase_imported	exon	13174	13215	.	-	.	ID=exon:WR25_17444F.1.3;Parent=transcript:WR25_17444F.1
+scaffold875	WormBase_imported	exon	13092	13127	.	-	.	ID=exon:WR25_17444F.1.4;Parent=transcript:WR25_17444F.1
+scaffold875	WormBase_imported	exon	12875	13041	.	-	.	ID=exon:WR25_17444F.1.5;Parent=transcript:WR25_17444F.1
+scaffold875	WormBase_imported	exon	11191	12605	.	-	.	ID=exon:WR25_17444F.1.6;Parent=transcript:WR25_17444F.1
+scaffold875	WormBase_imported	exon	13976	15080	.	-	.	ID=exon:WR25_17444E.1.1;Parent=transcript:WR25_17444E.1
+scaffold875	WormBase_imported	exon	13902	13928	.	-	.	ID=exon:WR25_17444E.1.2;Parent=transcript:WR25_17444E.1
+scaffold875	WormBase_imported	exon	13174	13215	.	-	.	ID=exon:WR25_17444E.1.3;Parent=transcript:WR25_17444E.1
+scaffold875	WormBase_imported	exon	13092	13127	.	-	.	ID=exon:WR25_17444E.1.4;Parent=transcript:WR25_17444E.1
+scaffold875	WormBase_imported	exon	12875	13041	.	-	.	ID=exon:WR25_17444E.1.5;Parent=transcript:WR25_17444E.1
+scaffold875	WormBase_imported	exon	11191	12605	.	-	.	ID=exon:WR25_17444E.1.6;Parent=transcript:WR25_17444E.1
+scaffold875	WormBase_imported	exon	13902	15080	.	-	.	ID=exon:WR25_17444K.1.1;Parent=transcript:WR25_17444K.1
+scaffold875	WormBase_imported	exon	13174	13215	.	-	.	ID=exon:WR25_17444K.1.2;Parent=transcript:WR25_17444K.1
+scaffold875	WormBase_imported	exon	13092	13127	.	-	.	ID=exon:WR25_17444K.1.3;Parent=transcript:WR25_17444K.1
+scaffold875	WormBase_imported	exon	12875	13041	.	-	.	ID=exon:WR25_17444K.1.4;Parent=transcript:WR25_17444K.1
+scaffold875	WormBase_imported	exon	11191	12605	.	-	.	ID=exon:WR25_17444K.1.5;Parent=transcript:WR25_17444K.1
+scaffold875	WormBase_imported	five_prime_UTR	14254	15080	.	-	.	Parent=transcript:WR25_17444A.1
+scaffold875	WormBase_imported	CDS	14236	14253	.	-	0	ID=cds:WR25_17444A.1;Parent=transcript:WR25_17444A.1
+scaffold875	WormBase_imported	CDS	14103	14181	.	-	0	ID=cds:WR25_17444A.1;Parent=transcript:WR25_17444A.1
+scaffold875	WormBase_imported	CDS	13976	14059	.	-	2	ID=cds:WR25_17444A.1;Parent=transcript:WR25_17444A.1
+scaffold875	WormBase_imported	CDS	13902	13928	.	-	2	ID=cds:WR25_17444A.1;Parent=transcript:WR25_17444A.1
+scaffold875	WormBase_imported	CDS	13174	13215	.	-	2	ID=cds:WR25_17444A.1;Parent=transcript:WR25_17444A.1
+scaffold875	WormBase_imported	CDS	13092	13127	.	-	2	ID=cds:WR25_17444A.1;Parent=transcript:WR25_17444A.1
+scaffold875	WormBase_imported	CDS	12875	13041	.	-	2	ID=cds:WR25_17444A.1;Parent=transcript:WR25_17444A.1
+scaffold875	WormBase_imported	CDS	12495	12605	.	-	0	ID=cds:WR25_17444A.1;Parent=transcript:WR25_17444A.1
+scaffold875	WormBase_imported	three_prime_UTR	11191	12494	.	-	.	Parent=transcript:WR25_17444A.1
+scaffold875	WormBase_imported	five_prime_UTR	14236	15080	.	-	.	Parent=transcript:WR25_17444D.1
+scaffold875	WormBase_imported	five_prime_UTR	14103	14181	.	-	.	Parent=transcript:WR25_17444D.1
+scaffold875	WormBase_imported	five_prime_UTR	13948	14059	.	-	.	Parent=transcript:WR25_17444D.1
+scaffold875	WormBase_imported	CDS	13902	13947	.	-	0	ID=cds:WR25_17444D.1;Parent=transcript:WR25_17444D.1
+scaffold875	WormBase_imported	CDS	13174	13215	.	-	2	ID=cds:WR25_17444D.1;Parent=transcript:WR25_17444D.1
+scaffold875	WormBase_imported	CDS	13092	13127	.	-	2	ID=cds:WR25_17444D.1;Parent=transcript:WR25_17444D.1
+scaffold875	WormBase_imported	CDS	12875	13041	.	-	2	ID=cds:WR25_17444D.1;Parent=transcript:WR25_17444D.1
+scaffold875	WormBase_imported	CDS	12495	12605	.	-	0	ID=cds:WR25_17444D.1;Parent=transcript:WR25_17444D.1
+scaffold875	WormBase_imported	three_prime_UTR	11191	12494	.	-	.	Parent=transcript:WR25_17444D.1
+scaffold875	WormBase_imported	five_prime_UTR	14236	15080	.	-	.	Parent=transcript:WR25_17444I.1
+scaffold875	WormBase_imported	five_prime_UTR	14103	14181	.	-	.	Parent=transcript:WR25_17444I.1
+scaffold875	WormBase_imported	five_prime_UTR	13917	14059	.	-	.	Parent=transcript:WR25_17444I.1
+scaffold875	WormBase_imported	CDS	13902	13916	.	-	0	ID=cds:WR25_17444I.1;Parent=transcript:WR25_17444I.1
+scaffold875	WormBase_imported	CDS	13092	13215	.	-	0	ID=cds:WR25_17444I.1;Parent=transcript:WR25_17444I.1
+scaffold875	WormBase_imported	CDS	12875	13041	.	-	2	ID=cds:WR25_17444I.1;Parent=transcript:WR25_17444I.1
+scaffold875	WormBase_imported	CDS	12495	12605	.	-	0	ID=cds:WR25_17444I.1;Parent=transcript:WR25_17444I.1
+scaffold875	WormBase_imported	three_prime_UTR	11191	12494	.	-	.	Parent=transcript:WR25_17444I.1
+scaffold875	WormBase_imported	five_prime_UTR	14236	15080	.	-	.	Parent=transcript:WR25_17444C.1
+scaffold875	WormBase_imported	five_prime_UTR	14139	14181	.	-	.	Parent=transcript:WR25_17444C.1
+scaffold875	WormBase_imported	CDS	13976	14138	.	-	0	ID=cds:WR25_17444C.1;Parent=transcript:WR25_17444C.1
+scaffold875	WormBase_imported	CDS	13902	13928	.	-	2	ID=cds:WR25_17444C.1;Parent=transcript:WR25_17444C.1
+scaffold875	WormBase_imported	CDS	13174	13215	.	-	2	ID=cds:WR25_17444C.1;Parent=transcript:WR25_17444C.1
+scaffold875	WormBase_imported	CDS	13092	13127	.	-	2	ID=cds:WR25_17444C.1;Parent=transcript:WR25_17444C.1
+scaffold875	WormBase_imported	CDS	12875	13041	.	-	2	ID=cds:WR25_17444C.1;Parent=transcript:WR25_17444C.1
+scaffold875	WormBase_imported	CDS	12495	12605	.	-	0	ID=cds:WR25_17444C.1;Parent=transcript:WR25_17444C.1
+scaffold875	WormBase_imported	three_prime_UTR	11191	12494	.	-	.	Parent=transcript:WR25_17444C.1
+scaffold875	WormBase_imported	five_prime_UTR	14236	15080	.	-	.	Parent=transcript:WR25_17444J.1
+scaffold875	WormBase_imported	five_prime_UTR	13976	14181	.	-	.	Parent=transcript:WR25_17444J.1
+scaffold875	WormBase_imported	five_prime_UTR	13917	13928	.	-	.	Parent=transcript:WR25_17444J.1
+scaffold875	WormBase_imported	CDS	13902	13916	.	-	0	ID=cds:WR25_17444J.1;Parent=transcript:WR25_17444J.1
+scaffold875	WormBase_imported	CDS	13092	13215	.	-	0	ID=cds:WR25_17444J.1;Parent=transcript:WR25_17444J.1
+scaffold875	WormBase_imported	CDS	12875	13041	.	-	2	ID=cds:WR25_17444J.1;Parent=transcript:WR25_17444J.1
+scaffold875	WormBase_imported	CDS	12495	12605	.	-	0	ID=cds:WR25_17444J.1;Parent=transcript:WR25_17444J.1
+scaffold875	WormBase_imported	three_prime_UTR	11191	12494	.	-	.	Parent=transcript:WR25_17444J.1
+scaffold875	WormBase_imported	five_prime_UTR	14236	15080	.	-	.	Parent=transcript:WR25_17444H.1
+scaffold875	WormBase_imported	five_prime_UTR	13948	14181	.	-	.	Parent=transcript:WR25_17444H.1
+scaffold875	WormBase_imported	CDS	13902	13947	.	-	0	ID=cds:WR25_17444H.1;Parent=transcript:WR25_17444H.1
+scaffold875	WormBase_imported	CDS	13174	13215	.	-	2	ID=cds:WR25_17444H.1;Parent=transcript:WR25_17444H.1
+scaffold875	WormBase_imported	CDS	13092	13127	.	-	2	ID=cds:WR25_17444H.1;Parent=transcript:WR25_17444H.1
+scaffold875	WormBase_imported	CDS	12875	13041	.	-	2	ID=cds:WR25_17444H.1;Parent=transcript:WR25_17444H.1
+scaffold875	WormBase_imported	CDS	12495	12605	.	-	0	ID=cds:WR25_17444H.1;Parent=transcript:WR25_17444H.1
+scaffold875	WormBase_imported	three_prime_UTR	11191	12494	.	-	.	Parent=transcript:WR25_17444H.1
+scaffold875	WormBase_imported	five_prime_UTR	14236	15080	.	-	.	Parent=transcript:WR25_17444L.1
+scaffold875	WormBase_imported	five_prime_UTR	13917	14181	.	-	.	Parent=transcript:WR25_17444L.1
+scaffold875	WormBase_imported	CDS	13902	13916	.	-	0	ID=cds:WR25_17444L.1;Parent=transcript:WR25_17444L.1
+scaffold875	WormBase_imported	CDS	13092	13215	.	-	0	ID=cds:WR25_17444L.1;Parent=transcript:WR25_17444L.1
+scaffold875	WormBase_imported	CDS	12875	13041	.	-	2	ID=cds:WR25_17444L.1;Parent=transcript:WR25_17444L.1
+scaffold875	WormBase_imported	CDS	12495	12605	.	-	0	ID=cds:WR25_17444L.1;Parent=transcript:WR25_17444L.1
+scaffold875	WormBase_imported	three_prime_UTR	11191	12494	.	-	.	Parent=transcript:WR25_17444L.1
+scaffold875	WormBase_imported	five_prime_UTR	14107	15080	.	-	.	Parent=transcript:WR25_17444B.1
+scaffold875	WormBase_imported	CDS	14103	14106	.	-	0	ID=cds:WR25_17444B.1;Parent=transcript:WR25_17444B.1
+scaffold875	WormBase_imported	CDS	13976	14059	.	-	2	ID=cds:WR25_17444B.1;Parent=transcript:WR25_17444B.1
+scaffold875	WormBase_imported	CDS	13902	13928	.	-	2	ID=cds:WR25_17444B.1;Parent=transcript:WR25_17444B.1
+scaffold875	WormBase_imported	CDS	13174	13215	.	-	2	ID=cds:WR25_17444B.1;Parent=transcript:WR25_17444B.1
+scaffold875	WormBase_imported	CDS	13092	13127	.	-	2	ID=cds:WR25_17444B.1;Parent=transcript:WR25_17444B.1
+scaffold875	WormBase_imported	CDS	12875	13041	.	-	2	ID=cds:WR25_17444B.1;Parent=transcript:WR25_17444B.1
+scaffold875	WormBase_imported	CDS	12495	12605	.	-	0	ID=cds:WR25_17444B.1;Parent=transcript:WR25_17444B.1
+scaffold875	WormBase_imported	three_prime_UTR	11191	12494	.	-	.	Parent=transcript:WR25_17444B.1
+scaffold875	WormBase_imported	five_prime_UTR	14103	15080	.	-	.	Parent=transcript:WR25_17444G.1
+scaffold875	WormBase_imported	five_prime_UTR	13976	14059	.	-	.	Parent=transcript:WR25_17444G.1
+scaffold875	WormBase_imported	five_prime_UTR	13917	13928	.	-	.	Parent=transcript:WR25_17444G.1
+scaffold875	WormBase_imported	CDS	13902	13916	.	-	0	ID=cds:WR25_17444G.1;Parent=transcript:WR25_17444G.1
+scaffold875	WormBase_imported	CDS	13092	13215	.	-	0	ID=cds:WR25_17444G.1;Parent=transcript:WR25_17444G.1
+scaffold875	WormBase_imported	CDS	12875	13041	.	-	2	ID=cds:WR25_17444G.1;Parent=transcript:WR25_17444G.1
+scaffold875	WormBase_imported	CDS	12495	12605	.	-	0	ID=cds:WR25_17444G.1;Parent=transcript:WR25_17444G.1
+scaffold875	WormBase_imported	three_prime_UTR	11191	12494	.	-	.	Parent=transcript:WR25_17444G.1
+scaffold875	WormBase_imported	five_prime_UTR	14103	15080	.	-	.	Parent=transcript:WR25_17444F.1
+scaffold875	WormBase_imported	five_prime_UTR	13948	14059	.	-	.	Parent=transcript:WR25_17444F.1
+scaffold875	WormBase_imported	CDS	13902	13947	.	-	0	ID=cds:WR25_17444F.1;Parent=transcript:WR25_17444F.1
+scaffold875	WormBase_imported	CDS	13174	13215	.	-	2	ID=cds:WR25_17444F.1;Parent=transcript:WR25_17444F.1
+scaffold875	WormBase_imported	CDS	13092	13127	.	-	2	ID=cds:WR25_17444F.1;Parent=transcript:WR25_17444F.1
+scaffold875	WormBase_imported	CDS	12875	13041	.	-	2	ID=cds:WR25_17444F.1;Parent=transcript:WR25_17444F.1
+scaffold875	WormBase_imported	CDS	12495	12605	.	-	0	ID=cds:WR25_17444F.1;Parent=transcript:WR25_17444F.1
+scaffold875	WormBase_imported	three_prime_UTR	11191	12494	.	-	.	Parent=transcript:WR25_17444F.1
+scaffold875	WormBase_imported	five_prime_UTR	14139	15080	.	-	.	Parent=transcript:WR25_17444E.1
+scaffold875	WormBase_imported	CDS	13976	14138	.	-	0	ID=cds:WR25_17444E.1;Parent=transcript:WR25_17444E.1
+scaffold875	WormBase_imported	CDS	13902	13928	.	-	2	ID=cds:WR25_17444E.1;Parent=transcript:WR25_17444E.1
+scaffold875	WormBase_imported	CDS	13174	13215	.	-	2	ID=cds:WR25_17444E.1;Parent=transcript:WR25_17444E.1
+scaffold875	WormBase_imported	CDS	13092	13127	.	-	2	ID=cds:WR25_17444E.1;Parent=transcript:WR25_17444E.1
+scaffold875	WormBase_imported	CDS	12875	13041	.	-	2	ID=cds:WR25_17444E.1;Parent=transcript:WR25_17444E.1
+scaffold875	WormBase_imported	CDS	12495	12605	.	-	0	ID=cds:WR25_17444E.1;Parent=transcript:WR25_17444E.1
+scaffold875	WormBase_imported	three_prime_UTR	11191	12494	.	-	.	Parent=transcript:WR25_17444E.1
+scaffold875	WormBase_imported	five_prime_UTR	13948	15080	.	-	.	Parent=transcript:WR25_17444K.1
+scaffold875	WormBase_imported	CDS	13902	13947	.	-	0	ID=cds:WR25_17444K.1;Parent=transcript:WR25_17444K.1
+scaffold875	WormBase_imported	CDS	13174	13215	.	-	2	ID=cds:WR25_17444K.1;Parent=transcript:WR25_17444K.1
+scaffold875	WormBase_imported	CDS	13092	13127	.	-	2	ID=cds:WR25_17444K.1;Parent=transcript:WR25_17444K.1
+scaffold875	WormBase_imported	CDS	12875	13041	.	-	2	ID=cds:WR25_17444K.1;Parent=transcript:WR25_17444K.1
+scaffold875	WormBase_imported	CDS	12495	12605	.	-	0	ID=cds:WR25_17444K.1;Parent=transcript:WR25_17444K.1
+scaffold875	WormBase_imported	three_prime_UTR	11191	12494	.	-	.	Parent=transcript:WR25_17444K.1
+scaffold2776	WormBase_imported	gene	448	4320	.	+	.	ID=gene:WR25_17795;Name=WR25_17795;biotype=protein_coding
+scaffold2776	WormBase_imported	mRNA	448	4320	.	+	.	ID=transcript:WR25_17795F.1;Parent=gene:WR25_17795;Name=WR25_17795F.1;info=method:InterPro accession:IPR036084 description:Serine protease inhibitor-like superfamily
+#microexons transcript:WR25_17795F.1:  1105 27-42-36 167 1395
+scaffold2776	WormBase_imported	mRNA	448	4320	.	+	.	ID=transcript:WR25_17795C.1;Parent=gene:WR25_17795;Name=WR25_17795C.1;info=method:InterPro accession:IPR036084 description:Serine protease inhibitor-like superfamily
+#microexons transcript:WR25_17795C.1:  978-84-27-42-36 167 1395
+scaffold2776	WormBase_imported	mRNA	448	4320	.	+	.	ID=transcript:WR25_17795J.1;Parent=gene:WR25_17795;Name=WR25_17795J.1;info=method:InterPro accession:IPR036084 description:Serine protease inhibitor-like superfamily
+#microexons transcript:WR25_17795J.1:  845 280 123 167 1395
+scaffold2776	WormBase_imported	mRNA	448	4320	.	+	.	ID=transcript:WR25_17795G.1;Parent=gene:WR25_17795;Name=WR25_17795G.1;info=method:InterPro accession:IPR036084 description:Serine protease inhibitor-like superfamily
+#microexons transcript:WR25_17795G.1:  845 280 42-36 167 1395
+scaffold2776	WormBase_imported	mRNA	448	4320	.	+	.	ID=transcript:WR25_17795I.1;Parent=gene:WR25_17795;Name=WR25_17795I.1;info=method:InterPro accession:IPR036084 description:Serine protease inhibitor-like superfamily
+#microexons transcript:WR25_17795I.1:  845 206 27-123 167 1395
+scaffold2776	WormBase_imported	mRNA	448	4320	.	+	.	ID=transcript:WR25_17795B.1;Parent=gene:WR25_17795;Name=WR25_17795B.1;info=method:InterPro accession:IPR036084 description:Serine protease inhibitor-like superfamily
+#microexons transcript:WR25_17795B.1:  845 206 27-42-36 167 1395
+scaffold2776	WormBase_imported	mRNA	448	4320	.	+	.	ID=transcript:WR25_17795H.1;Parent=gene:WR25_17795;Name=WR25_17795H.1;info=method:InterPro accession:IPR036084 description:Serine protease inhibitor-like superfamily
+#microexons transcript:WR25_17795H.1:  845 79 158 123 167 1395
+scaffold2776	WormBase_imported	mRNA	448	4320	.	+	.	ID=transcript:WR25_17795E.1;Parent=gene:WR25_17795;Name=WR25_17795E.1;info=method:InterPro accession:IPR036084 description:Serine protease inhibitor-like superfamily
+#microexons transcript:WR25_17795E.1:  845 79 158 42-36 167 1395
+scaffold2776	WormBase_imported	mRNA	448	4320	.	+	.	ID=transcript:WR25_17795D.1;Parent=gene:WR25_17795;Name=WR25_17795D.1;info=method:InterPro accession:IPR036084 description:Serine protease inhibitor-like superfamily
+#microexons transcript:WR25_17795D.1:  845 79 84-27-123 167 1395
+scaffold2776	WormBase_imported	mRNA	448	4320	.	+	.	ID=transcript:WR25_17795A.1;Parent=gene:WR25_17795;Name=WR25_17795A.1;info=method:InterPro accession:IPR036084 description:Serine protease inhibitor-like superfamily
+#microexons transcript:WR25_17795A.1:  845 79 84-27-42-36 167 1395
+scaffold2776	WormBase_imported	exon	448	1552	.	+	.	ID=exon:WR25_17795F.1.1;Parent=transcript:WR25_17795F.1
+scaffold2776	WormBase_imported	exon	1600	1626	.	+	.	ID=exon:WR25_17795F.1.2;Parent=transcript:WR25_17795F.1
+scaffold2776	WormBase_imported	exon	2319	2360	.	+	.	ID=exon:WR25_17795F.1.3;Parent=transcript:WR25_17795F.1
+scaffold2776	WormBase_imported	exon	2406	2441	.	+	.	ID=exon:WR25_17795F.1.4;Parent=transcript:WR25_17795F.1
+scaffold2776	WormBase_imported	exon	2492	2658	.	+	.	ID=exon:WR25_17795F.1.5;Parent=transcript:WR25_17795F.1
+scaffold2776	WormBase_imported	exon	2926	4320	.	+	.	ID=exon:WR25_17795F.1.6;Parent=transcript:WR25_17795F.1
+scaffold2776	WormBase_imported	exon	448	1425	.	+	.	ID=exon:WR25_17795C.1.1;Parent=transcript:WR25_17795C.1
+scaffold2776	WormBase_imported	exon	1469	1552	.	+	.	ID=exon:WR25_17795C.1.2;Parent=transcript:WR25_17795C.1
+scaffold2776	WormBase_imported	exon	1600	1626	.	+	.	ID=exon:WR25_17795C.1.3;Parent=transcript:WR25_17795C.1
+scaffold2776	WormBase_imported	exon	2319	2360	.	+	.	ID=exon:WR25_17795C.1.4;Parent=transcript:WR25_17795C.1
+scaffold2776	WormBase_imported	exon	2406	2441	.	+	.	ID=exon:WR25_17795C.1.5;Parent=transcript:WR25_17795C.1
+scaffold2776	WormBase_imported	exon	2492	2658	.	+	.	ID=exon:WR25_17795C.1.6;Parent=transcript:WR25_17795C.1
+scaffold2776	WormBase_imported	exon	2926	4320	.	+	.	ID=exon:WR25_17795C.1.7;Parent=transcript:WR25_17795C.1
+scaffold2776	WormBase_imported	exon	448	1292	.	+	.	ID=exon:WR25_17795J.1.1;Parent=transcript:WR25_17795J.1
+scaffold2776	WormBase_imported	exon	1347	1626	.	+	.	ID=exon:WR25_17795J.1.2;Parent=transcript:WR25_17795J.1
+scaffold2776	WormBase_imported	exon	2319	2441	.	+	.	ID=exon:WR25_17795J.1.3;Parent=transcript:WR25_17795J.1
+scaffold2776	WormBase_imported	exon	2492	2658	.	+	.	ID=exon:WR25_17795J.1.4;Parent=transcript:WR25_17795J.1
+scaffold2776	WormBase_imported	exon	2926	4320	.	+	.	ID=exon:WR25_17795J.1.5;Parent=transcript:WR25_17795J.1
+scaffold2776	WormBase_imported	exon	448	1292	.	+	.	ID=exon:WR25_17795G.1.1;Parent=transcript:WR25_17795G.1
+scaffold2776	WormBase_imported	exon	1347	1626	.	+	.	ID=exon:WR25_17795G.1.2;Parent=transcript:WR25_17795G.1
+scaffold2776	WormBase_imported	exon	2319	2360	.	+	.	ID=exon:WR25_17795G.1.3;Parent=transcript:WR25_17795G.1
+scaffold2776	WormBase_imported	exon	2406	2441	.	+	.	ID=exon:WR25_17795G.1.4;Parent=transcript:WR25_17795G.1
+scaffold2776	WormBase_imported	exon	2492	2658	.	+	.	ID=exon:WR25_17795G.1.5;Parent=transcript:WR25_17795G.1
+scaffold2776	WormBase_imported	exon	2926	4320	.	+	.	ID=exon:WR25_17795G.1.6;Parent=transcript:WR25_17795G.1
+scaffold2776	WormBase_imported	exon	448	1292	.	+	.	ID=exon:WR25_17795I.1.1;Parent=transcript:WR25_17795I.1
+scaffold2776	WormBase_imported	exon	1347	1552	.	+	.	ID=exon:WR25_17795I.1.2;Parent=transcript:WR25_17795I.1
+scaffold2776	WormBase_imported	exon	1600	1626	.	+	.	ID=exon:WR25_17795I.1.3;Parent=transcript:WR25_17795I.1
+scaffold2776	WormBase_imported	exon	2319	2441	.	+	.	ID=exon:WR25_17795I.1.4;Parent=transcript:WR25_17795I.1
+scaffold2776	WormBase_imported	exon	2492	2658	.	+	.	ID=exon:WR25_17795I.1.5;Parent=transcript:WR25_17795I.1
+scaffold2776	WormBase_imported	exon	2926	4320	.	+	.	ID=exon:WR25_17795I.1.6;Parent=transcript:WR25_17795I.1
+scaffold2776	WormBase_imported	exon	448	1292	.	+	.	ID=exon:WR25_17795B.1.1;Parent=transcript:WR25_17795B.1
+scaffold2776	WormBase_imported	exon	1347	1552	.	+	.	ID=exon:WR25_17795B.1.2;Parent=transcript:WR25_17795B.1
+scaffold2776	WormBase_imported	exon	1600	1626	.	+	.	ID=exon:WR25_17795B.1.3;Parent=transcript:WR25_17795B.1
+scaffold2776	WormBase_imported	exon	2319	2360	.	+	.	ID=exon:WR25_17795B.1.4;Parent=transcript:WR25_17795B.1
+scaffold2776	WormBase_imported	exon	2406	2441	.	+	.	ID=exon:WR25_17795B.1.5;Parent=transcript:WR25_17795B.1
+scaffold2776	WormBase_imported	exon	2492	2658	.	+	.	ID=exon:WR25_17795B.1.6;Parent=transcript:WR25_17795B.1
+scaffold2776	WormBase_imported	exon	2926	4320	.	+	.	ID=exon:WR25_17795B.1.7;Parent=transcript:WR25_17795B.1
+scaffold2776	WormBase_imported	exon	448	1292	.	+	.	ID=exon:WR25_17795H.1.1;Parent=transcript:WR25_17795H.1
+scaffold2776	WormBase_imported	exon	1347	1425	.	+	.	ID=exon:WR25_17795H.1.2;Parent=transcript:WR25_17795H.1
+scaffold2776	WormBase_imported	exon	1469	1626	.	+	.	ID=exon:WR25_17795H.1.3;Parent=transcript:WR25_17795H.1
+scaffold2776	WormBase_imported	exon	2319	2441	.	+	.	ID=exon:WR25_17795H.1.4;Parent=transcript:WR25_17795H.1
+scaffold2776	WormBase_imported	exon	2492	2658	.	+	.	ID=exon:WR25_17795H.1.5;Parent=transcript:WR25_17795H.1
+scaffold2776	WormBase_imported	exon	2926	4320	.	+	.	ID=exon:WR25_17795H.1.6;Parent=transcript:WR25_17795H.1
+scaffold2776	WormBase_imported	exon	448	1292	.	+	.	ID=exon:WR25_17795E.1.1;Parent=transcript:WR25_17795E.1
+scaffold2776	WormBase_imported	exon	1347	1425	.	+	.	ID=exon:WR25_17795E.1.2;Parent=transcript:WR25_17795E.1
+scaffold2776	WormBase_imported	exon	1469	1626	.	+	.	ID=exon:WR25_17795E.1.3;Parent=transcript:WR25_17795E.1
+scaffold2776	WormBase_imported	exon	2319	2360	.	+	.	ID=exon:WR25_17795E.1.4;Parent=transcript:WR25_17795E.1
+scaffold2776	WormBase_imported	exon	2406	2441	.	+	.	ID=exon:WR25_17795E.1.5;Parent=transcript:WR25_17795E.1
+scaffold2776	WormBase_imported	exon	2492	2658	.	+	.	ID=exon:WR25_17795E.1.6;Parent=transcript:WR25_17795E.1
+scaffold2776	WormBase_imported	exon	2926	4320	.	+	.	ID=exon:WR25_17795E.1.7;Parent=transcript:WR25_17795E.1
+scaffold2776	WormBase_imported	exon	448	1292	.	+	.	ID=exon:WR25_17795D.1.1;Parent=transcript:WR25_17795D.1
+scaffold2776	WormBase_imported	exon	1347	1425	.	+	.	ID=exon:WR25_17795D.1.2;Parent=transcript:WR25_17795D.1
+scaffold2776	WormBase_imported	exon	1469	1552	.	+	.	ID=exon:WR25_17795D.1.3;Parent=transcript:WR25_17795D.1
+scaffold2776	WormBase_imported	exon	1600	1626	.	+	.	ID=exon:WR25_17795D.1.4;Parent=transcript:WR25_17795D.1
+scaffold2776	WormBase_imported	exon	2319	2441	.	+	.	ID=exon:WR25_17795D.1.5;Parent=transcript:WR25_17795D.1
+scaffold2776	WormBase_imported	exon	2492	2658	.	+	.	ID=exon:WR25_17795D.1.6;Parent=transcript:WR25_17795D.1
+scaffold2776	WormBase_imported	exon	2926	4320	.	+	.	ID=exon:WR25_17795D.1.7;Parent=transcript:WR25_17795D.1
+scaffold2776	WormBase_imported	exon	448	1292	.	+	.	ID=exon:WR25_17795A.1.1;Parent=transcript:WR25_17795A.1
+scaffold2776	WormBase_imported	exon	1347	1425	.	+	.	ID=exon:WR25_17795A.1.2;Parent=transcript:WR25_17795A.1
+scaffold2776	WormBase_imported	exon	1469	1552	.	+	.	ID=exon:WR25_17795A.1.3;Parent=transcript:WR25_17795A.1
+scaffold2776	WormBase_imported	exon	1600	1626	.	+	.	ID=exon:WR25_17795A.1.4;Parent=transcript:WR25_17795A.1
+scaffold2776	WormBase_imported	exon	2319	2360	.	+	.	ID=exon:WR25_17795A.1.5;Parent=transcript:WR25_17795A.1
+scaffold2776	WormBase_imported	exon	2406	2441	.	+	.	ID=exon:WR25_17795A.1.6;Parent=transcript:WR25_17795A.1
+scaffold2776	WormBase_imported	exon	2492	2658	.	+	.	ID=exon:WR25_17795A.1.7;Parent=transcript:WR25_17795A.1
+scaffold2776	WormBase_imported	exon	2926	4320	.	+	.	ID=exon:WR25_17795A.1.8;Parent=transcript:WR25_17795A.1
+scaffold2776	WormBase_imported	five_prime_UTR	448	1389	.	+	.	Parent=transcript:WR25_17795F.1
+scaffold2776	WormBase_imported	CDS	1390	1552	.	+	0	ID=cds:WR25_17795F.1;Parent=transcript:WR25_17795F.1
+scaffold2776	WormBase_imported	CDS	1600	1626	.	+	2	ID=cds:WR25_17795F.1;Parent=transcript:WR25_17795F.1
+scaffold2776	WormBase_imported	CDS	2319	2360	.	+	2	ID=cds:WR25_17795F.1;Parent=transcript:WR25_17795F.1
+scaffold2776	WormBase_imported	CDS	2406	2441	.	+	2	ID=cds:WR25_17795F.1;Parent=transcript:WR25_17795F.1
+scaffold2776	WormBase_imported	CDS	2492	2658	.	+	2	ID=cds:WR25_17795F.1;Parent=transcript:WR25_17795F.1
+scaffold2776	WormBase_imported	CDS	2926	3030	.	+	0	ID=cds:WR25_17795F.1;Parent=transcript:WR25_17795F.1
+scaffold2776	WormBase_imported	three_prime_UTR	3031	4320	.	+	.	Parent=transcript:WR25_17795F.1
+scaffold2776	WormBase_imported	five_prime_UTR	448	1421	.	+	.	Parent=transcript:WR25_17795C.1
+scaffold2776	WormBase_imported	CDS	1422	1425	.	+	0	ID=cds:WR25_17795C.1;Parent=transcript:WR25_17795C.1
+scaffold2776	WormBase_imported	CDS	1469	1552	.	+	2	ID=cds:WR25_17795C.1;Parent=transcript:WR25_17795C.1
+scaffold2776	WormBase_imported	CDS	1600	1626	.	+	2	ID=cds:WR25_17795C.1;Parent=transcript:WR25_17795C.1
+scaffold2776	WormBase_imported	CDS	2319	2360	.	+	2	ID=cds:WR25_17795C.1;Parent=transcript:WR25_17795C.1
+scaffold2776	WormBase_imported	CDS	2406	2441	.	+	2	ID=cds:WR25_17795C.1;Parent=transcript:WR25_17795C.1
+scaffold2776	WormBase_imported	CDS	2492	2658	.	+	2	ID=cds:WR25_17795C.1;Parent=transcript:WR25_17795C.1
+scaffold2776	WormBase_imported	CDS	2926	3030	.	+	0	ID=cds:WR25_17795C.1;Parent=transcript:WR25_17795C.1
+scaffold2776	WormBase_imported	three_prime_UTR	3031	4320	.	+	.	Parent=transcript:WR25_17795C.1
+scaffold2776	WormBase_imported	five_prime_UTR	448	1292	.	+	.	Parent=transcript:WR25_17795J.1
+scaffold2776	WormBase_imported	five_prime_UTR	1347	1580	.	+	.	Parent=transcript:WR25_17795J.1
+scaffold2776	WormBase_imported	CDS	1581	1626	.	+	0	ID=cds:WR25_17795J.1;Parent=transcript:WR25_17795J.1
+scaffold2776	WormBase_imported	CDS	2319	2441	.	+	2	ID=cds:WR25_17795J.1;Parent=transcript:WR25_17795J.1
+scaffold2776	WormBase_imported	CDS	2492	2658	.	+	2	ID=cds:WR25_17795J.1;Parent=transcript:WR25_17795J.1
+scaffold2776	WormBase_imported	CDS	2926	3030	.	+	0	ID=cds:WR25_17795J.1;Parent=transcript:WR25_17795J.1
+scaffold2776	WormBase_imported	three_prime_UTR	3031	4320	.	+	.	Parent=transcript:WR25_17795J.1
+scaffold2776	WormBase_imported	five_prime_UTR	448	1292	.	+	.	Parent=transcript:WR25_17795G.1
+scaffold2776	WormBase_imported	five_prime_UTR	1347	1580	.	+	.	Parent=transcript:WR25_17795G.1
+scaffold2776	WormBase_imported	CDS	1581	1626	.	+	0	ID=cds:WR25_17795G.1;Parent=transcript:WR25_17795G.1
+scaffold2776	WormBase_imported	CDS	2319	2360	.	+	2	ID=cds:WR25_17795G.1;Parent=transcript:WR25_17795G.1
+scaffold2776	WormBase_imported	CDS	2406	2441	.	+	2	ID=cds:WR25_17795G.1;Parent=transcript:WR25_17795G.1
+scaffold2776	WormBase_imported	CDS	2492	2658	.	+	2	ID=cds:WR25_17795G.1;Parent=transcript:WR25_17795G.1
+scaffold2776	WormBase_imported	CDS	2926	3030	.	+	0	ID=cds:WR25_17795G.1;Parent=transcript:WR25_17795G.1
+scaffold2776	WormBase_imported	three_prime_UTR	3031	4320	.	+	.	Parent=transcript:WR25_17795G.1
+scaffold2776	WormBase_imported	five_prime_UTR	448	1292	.	+	.	Parent=transcript:WR25_17795I.1
+scaffold2776	WormBase_imported	five_prime_UTR	1347	1389	.	+	.	Parent=transcript:WR25_17795I.1
+scaffold2776	WormBase_imported	CDS	1390	1552	.	+	0	ID=cds:WR25_17795I.1;Parent=transcript:WR25_17795I.1
+scaffold2776	WormBase_imported	CDS	1600	1626	.	+	2	ID=cds:WR25_17795I.1;Parent=transcript:WR25_17795I.1
+scaffold2776	WormBase_imported	CDS	2319	2441	.	+	2	ID=cds:WR25_17795I.1;Parent=transcript:WR25_17795I.1
+scaffold2776	WormBase_imported	CDS	2492	2658	.	+	2	ID=cds:WR25_17795I.1;Parent=transcript:WR25_17795I.1
+scaffold2776	WormBase_imported	CDS	2926	3030	.	+	0	ID=cds:WR25_17795I.1;Parent=transcript:WR25_17795I.1
+scaffold2776	WormBase_imported	three_prime_UTR	3031	4320	.	+	.	Parent=transcript:WR25_17795I.1
+scaffold2776	WormBase_imported	five_prime_UTR	448	1292	.	+	.	Parent=transcript:WR25_17795B.1
+scaffold2776	WormBase_imported	five_prime_UTR	1347	1389	.	+	.	Parent=transcript:WR25_17795B.1
+scaffold2776	WormBase_imported	CDS	1390	1552	.	+	0	ID=cds:WR25_17795B.1;Parent=transcript:WR25_17795B.1
+scaffold2776	WormBase_imported	CDS	1600	1626	.	+	2	ID=cds:WR25_17795B.1;Parent=transcript:WR25_17795B.1
+scaffold2776	WormBase_imported	CDS	2319	2360	.	+	2	ID=cds:WR25_17795B.1;Parent=transcript:WR25_17795B.1
+scaffold2776	WormBase_imported	CDS	2406	2441	.	+	2	ID=cds:WR25_17795B.1;Parent=transcript:WR25_17795B.1
+scaffold2776	WormBase_imported	CDS	2492	2658	.	+	2	ID=cds:WR25_17795B.1;Parent=transcript:WR25_17795B.1
+scaffold2776	WormBase_imported	CDS	2926	3030	.	+	0	ID=cds:WR25_17795B.1;Parent=transcript:WR25_17795B.1
+scaffold2776	WormBase_imported	three_prime_UTR	3031	4320	.	+	.	Parent=transcript:WR25_17795B.1
+scaffold2776	WormBase_imported	five_prime_UTR	448	1292	.	+	.	Parent=transcript:WR25_17795H.1
+scaffold2776	WormBase_imported	five_prime_UTR	1347	1425	.	+	.	Parent=transcript:WR25_17795H.1
+scaffold2776	WormBase_imported	five_prime_UTR	1469	1580	.	+	.	Parent=transcript:WR25_17795H.1
+scaffold2776	WormBase_imported	CDS	1581	1626	.	+	0	ID=cds:WR25_17795H.1;Parent=transcript:WR25_17795H.1
+scaffold2776	WormBase_imported	CDS	2319	2441	.	+	2	ID=cds:WR25_17795H.1;Parent=transcript:WR25_17795H.1
+scaffold2776	WormBase_imported	CDS	2492	2658	.	+	2	ID=cds:WR25_17795H.1;Parent=transcript:WR25_17795H.1
+scaffold2776	WormBase_imported	CDS	2926	3030	.	+	0	ID=cds:WR25_17795H.1;Parent=transcript:WR25_17795H.1
+scaffold2776	WormBase_imported	three_prime_UTR	3031	4320	.	+	.	Parent=transcript:WR25_17795H.1
+scaffold2776	WormBase_imported	five_prime_UTR	448	1292	.	+	.	Parent=transcript:WR25_17795E.1
+scaffold2776	WormBase_imported	five_prime_UTR	1347	1425	.	+	.	Parent=transcript:WR25_17795E.1
+scaffold2776	WormBase_imported	five_prime_UTR	1469	1580	.	+	.	Parent=transcript:WR25_17795E.1
+scaffold2776	WormBase_imported	CDS	1581	1626	.	+	0	ID=cds:WR25_17795E.1;Parent=transcript:WR25_17795E.1
+scaffold2776	WormBase_imported	CDS	2319	2360	.	+	2	ID=cds:WR25_17795E.1;Parent=transcript:WR25_17795E.1
+scaffold2776	WormBase_imported	CDS	2406	2441	.	+	2	ID=cds:WR25_17795E.1;Parent=transcript:WR25_17795E.1
+scaffold2776	WormBase_imported	CDS	2492	2658	.	+	2	ID=cds:WR25_17795E.1;Parent=transcript:WR25_17795E.1
+scaffold2776	WormBase_imported	CDS	2926	3030	.	+	0	ID=cds:WR25_17795E.1;Parent=transcript:WR25_17795E.1
+scaffold2776	WormBase_imported	three_prime_UTR	3031	4320	.	+	.	Parent=transcript:WR25_17795E.1
+scaffold2776	WormBase_imported	five_prime_UTR	448	1274	.	+	.	Parent=transcript:WR25_17795D.1
+scaffold2776	WormBase_imported	CDS	1275	1292	.	+	0	ID=cds:WR25_17795D.1;Parent=transcript:WR25_17795D.1
+scaffold2776	WormBase_imported	CDS	1347	1425	.	+	0	ID=cds:WR25_17795D.1;Parent=transcript:WR25_17795D.1
+scaffold2776	WormBase_imported	CDS	1469	1552	.	+	2	ID=cds:WR25_17795D.1;Parent=transcript:WR25_17795D.1
+scaffold2776	WormBase_imported	CDS	1600	1626	.	+	2	ID=cds:WR25_17795D.1;Parent=transcript:WR25_17795D.1
+scaffold2776	WormBase_imported	CDS	2319	2441	.	+	2	ID=cds:WR25_17795D.1;Parent=transcript:WR25_17795D.1
+scaffold2776	WormBase_imported	CDS	2492	2658	.	+	2	ID=cds:WR25_17795D.1;Parent=transcript:WR25_17795D.1
+scaffold2776	WormBase_imported	CDS	2926	3030	.	+	0	ID=cds:WR25_17795D.1;Parent=transcript:WR25_17795D.1
+scaffold2776	WormBase_imported	three_prime_UTR	3031	4320	.	+	.	Parent=transcript:WR25_17795D.1
+scaffold2776	WormBase_imported	five_prime_UTR	448	1274	.	+	.	Parent=transcript:WR25_17795A.1
+scaffold2776	WormBase_imported	CDS	1275	1292	.	+	0	ID=cds:WR25_17795A.1;Parent=transcript:WR25_17795A.1
+scaffold2776	WormBase_imported	CDS	1347	1425	.	+	0	ID=cds:WR25_17795A.1;Parent=transcript:WR25_17795A.1
+scaffold2776	WormBase_imported	CDS	1469	1552	.	+	2	ID=cds:WR25_17795A.1;Parent=transcript:WR25_17795A.1
+scaffold2776	WormBase_imported	CDS	1600	1626	.	+	2	ID=cds:WR25_17795A.1;Parent=transcript:WR25_17795A.1
+scaffold2776	WormBase_imported	CDS	2319	2360	.	+	2	ID=cds:WR25_17795A.1;Parent=transcript:WR25_17795A.1
+scaffold2776	WormBase_imported	CDS	2406	2441	.	+	2	ID=cds:WR25_17795A.1;Parent=transcript:WR25_17795A.1
+scaffold2776	WormBase_imported	CDS	2492	2658	.	+	2	ID=cds:WR25_17795A.1;Parent=transcript:WR25_17795A.1
+scaffold2776	WormBase_imported	CDS	2926	3030	.	+	0	ID=cds:WR25_17795A.1;Parent=transcript:WR25_17795A.1
+scaffold2776	WormBase_imported	three_prime_UTR	3031	4320	.	+	.	Parent=transcript:WR25_17795A.1
+scaffold1036	WormBase_imported	gene	100	863	.	+	.	ID=gene:WR25_18553;Name=WR25_18553;biotype=protein_coding
+scaffold1036	WormBase_imported	mRNA	100	863	.	+	.	ID=transcript:WR25_18553.1;Parent=gene:WR25_18553;Name=WR25_18553.1
+#microexons transcript:WR25_18553.1:  69-51-36-57-57-36-42-54
+scaffold1036	WormBase_imported	exon	100	168	.	+	.	ID=exon:WR25_18553.1.1;Parent=transcript:WR25_18553.1
+scaffold1036	WormBase_imported	exon	225	275	.	+	.	ID=exon:WR25_18553.1.2;Parent=transcript:WR25_18553.1
+scaffold1036	WormBase_imported	exon	324	359	.	+	.	ID=exon:WR25_18553.1.3;Parent=transcript:WR25_18553.1
+scaffold1036	WormBase_imported	exon	406	462	.	+	.	ID=exon:WR25_18553.1.4;Parent=transcript:WR25_18553.1
+scaffold1036	WormBase_imported	exon	519	575	.	+	.	ID=exon:WR25_18553.1.5;Parent=transcript:WR25_18553.1
+scaffold1036	WormBase_imported	exon	623	658	.	+	.	ID=exon:WR25_18553.1.6;Parent=transcript:WR25_18553.1
+scaffold1036	WormBase_imported	exon	721	762	.	+	.	ID=exon:WR25_18553.1.7;Parent=transcript:WR25_18553.1
+scaffold1036	WormBase_imported	exon	810	863	.	+	.	ID=exon:WR25_18553.1.8;Parent=transcript:WR25_18553.1
+scaffold1036	WormBase_imported	CDS	100	168	.	+	0	ID=cds:WR25_18553.1;Parent=transcript:WR25_18553.1
+scaffold1036	WormBase_imported	CDS	225	275	.	+	0	ID=cds:WR25_18553.1;Parent=transcript:WR25_18553.1
+scaffold1036	WormBase_imported	CDS	324	359	.	+	0	ID=cds:WR25_18553.1;Parent=transcript:WR25_18553.1
+scaffold1036	WormBase_imported	CDS	406	462	.	+	0	ID=cds:WR25_18553.1;Parent=transcript:WR25_18553.1
+scaffold1036	WormBase_imported	CDS	519	575	.	+	0	ID=cds:WR25_18553.1;Parent=transcript:WR25_18553.1
+scaffold1036	WormBase_imported	CDS	623	658	.	+	0	ID=cds:WR25_18553.1;Parent=transcript:WR25_18553.1
+scaffold1036	WormBase_imported	CDS	721	762	.	+	0	ID=cds:WR25_18553.1;Parent=transcript:WR25_18553.1
+scaffold1036	WormBase_imported	CDS	810	863	.	+	0	ID=cds:WR25_18553.1;Parent=transcript:WR25_18553.1

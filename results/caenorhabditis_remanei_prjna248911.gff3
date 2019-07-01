@@ -1,0 +1,17 @@
+Contig116	WormBase_imported	gene	136820	147975	.	+	.	ID=gene:FL82_21154;Name=FL82_21154;biotype=protein_coding
+Contig116	WormBase_imported	mRNA	136820	147975	.	+	.	ID=transcript:FL82_21154;Parent=gene:FL82_21154;Name=FL82_21154
+#microexons transcript:FL82_21154:  45-57-9-51 52 32 51
+Contig116	WormBase_imported	exon	136820	136864	.	+	.	ID=exon:FL82_21154.1;Parent=transcript:FL82_21154
+Contig116	WormBase_imported	exon	136887	136943	.	+	.	ID=exon:FL82_21154.2;Parent=transcript:FL82_21154
+Contig116	WormBase_imported	exon	141362	141370	.	+	.	ID=exon:FL82_21154.3;Parent=transcript:FL82_21154
+Contig116	WormBase_imported	exon	141444	141494	.	+	.	ID=exon:FL82_21154.4;Parent=transcript:FL82_21154
+Contig116	WormBase_imported	exon	141613	141664	.	+	.	ID=exon:FL82_21154.5;Parent=transcript:FL82_21154
+Contig116	WormBase_imported	exon	147208	147239	.	+	.	ID=exon:FL82_21154.6;Parent=transcript:FL82_21154
+Contig116	WormBase_imported	exon	147925	147975	.	+	.	ID=exon:FL82_21154.7;Parent=transcript:FL82_21154
+Contig116	WormBase_imported	CDS	136820	136864	.	+	0	ID=cds:FL82_21154;Parent=transcript:FL82_21154
+Contig116	WormBase_imported	CDS	136887	136943	.	+	0	ID=cds:FL82_21154;Parent=transcript:FL82_21154
+Contig116	WormBase_imported	CDS	141362	141370	.	+	0	ID=cds:FL82_21154;Parent=transcript:FL82_21154
+Contig116	WormBase_imported	CDS	141444	141494	.	+	0	ID=cds:FL82_21154;Parent=transcript:FL82_21154
+Contig116	WormBase_imported	CDS	141613	141664	.	+	0	ID=cds:FL82_21154;Parent=transcript:FL82_21154
+Contig116	WormBase_imported	CDS	147208	147239	.	+	2	ID=cds:FL82_21154;Parent=transcript:FL82_21154
+Contig116	WormBase_imported	CDS	147925	147975	.	+	0	ID=cds:FL82_21154;Parent=transcript:FL82_21154

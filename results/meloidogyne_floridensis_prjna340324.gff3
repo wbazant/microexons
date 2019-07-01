@@ -1,0 +1,17 @@
+scf7180000417836	WormBase_imported	gene	522	1597	.	-	.	ID=gene:scf7180000417836.g1828;Name=scf7180000417836.g1828;biotype=protein_coding
+scf7180000417836	WormBase_imported	mRNA	522	1597	.	-	.	ID=transcript:scf7180000417836.g1828;Parent=gene:scf7180000417836.g1828;Name=scf7180000417836.g1828;info=method:InterPro accession:IPR005817 description:Wnt
+#microexons transcript:scf7180000417836.g1828:  127 47 52 125 45-45-57
+scf7180000417836	WormBase_imported	exon	1471	1597	.	-	.	ID=exon:scf7180000417836.g1828.1;Parent=transcript:scf7180000417836.g1828
+scf7180000417836	WormBase_imported	exon	1283	1329	.	-	.	ID=exon:scf7180000417836.g1828.2;Parent=transcript:scf7180000417836.g1828
+scf7180000417836	WormBase_imported	exon	991	1042	.	-	.	ID=exon:scf7180000417836.g1828.3;Parent=transcript:scf7180000417836.g1828
+scf7180000417836	WormBase_imported	exon	819	943	.	-	.	ID=exon:scf7180000417836.g1828.4;Parent=transcript:scf7180000417836.g1828
+scf7180000417836	WormBase_imported	exon	727	771	.	-	.	ID=exon:scf7180000417836.g1828.5;Parent=transcript:scf7180000417836.g1828
+scf7180000417836	WormBase_imported	exon	634	678	.	-	.	ID=exon:scf7180000417836.g1828.6;Parent=transcript:scf7180000417836.g1828
+scf7180000417836	WormBase_imported	exon	522	578	.	-	.	ID=exon:scf7180000417836.g1828.7;Parent=transcript:scf7180000417836.g1828
+scf7180000417836	WormBase_imported	CDS	1471	1597	.	-	0	ID=cds:scf7180000417836.g1828;Parent=transcript:scf7180000417836.g1828
+scf7180000417836	WormBase_imported	CDS	1283	1329	.	-	2	ID=cds:scf7180000417836.g1828;Parent=transcript:scf7180000417836.g1828
+scf7180000417836	WormBase_imported	CDS	991	1042	.	-	0	ID=cds:scf7180000417836.g1828;Parent=transcript:scf7180000417836.g1828
+scf7180000417836	WormBase_imported	CDS	819	943	.	-	2	ID=cds:scf7180000417836.g1828;Parent=transcript:scf7180000417836.g1828
+scf7180000417836	WormBase_imported	CDS	727	771	.	-	0	ID=cds:scf7180000417836.g1828;Parent=transcript:scf7180000417836.g1828
+scf7180000417836	WormBase_imported	CDS	634	678	.	-	0	ID=cds:scf7180000417836.g1828;Parent=transcript:scf7180000417836.g1828
+scf7180000417836	WormBase_imported	CDS	522	578	.	-	0	ID=cds:scf7180000417836.g1828;Parent=transcript:scf7180000417836.g1828

@@ -1,15 +1,36 @@
-nDi.2.2.scaf00040	WormBase_imported	gene	67957	69448	.	-	.	ID=gene:nDi.2.2.2.g02900;Name=nDi.2.2.2.g02900;biotype=protein_coding
-nDi.2.2.scaf00040	WormBase_imported	mRNA	67957	69448	.	-	.	ID=transcript:nDi.2.2.2.t02900;Parent=gene:nDi.2.2.2.g02900;Name=nDi.2.2.2.t02900
-#microexons transcript:nDi.2.2.2.t02900:  21-27-9 44 78 25
-nDi.2.2.scaf00040	WormBase_imported	exon	69428	69448	.	-	.	ID=exon:nDi.2.2.2.t02900.1;Parent=transcript:nDi.2.2.2.t02900
-nDi.2.2.scaf00040	WormBase_imported	exon	69146	69172	.	-	.	ID=exon:nDi.2.2.2.t02900.2;Parent=transcript:nDi.2.2.2.t02900
-nDi.2.2.scaf00040	WormBase_imported	exon	69031	69039	.	-	.	ID=exon:nDi.2.2.2.t02900.3;Parent=transcript:nDi.2.2.2.t02900
-nDi.2.2.scaf00040	WormBase_imported	exon	68888	68931	.	-	.	ID=exon:nDi.2.2.2.t02900.4;Parent=transcript:nDi.2.2.2.t02900
-nDi.2.2.scaf00040	WormBase_imported	exon	68156	68233	.	-	.	ID=exon:nDi.2.2.2.t02900.5;Parent=transcript:nDi.2.2.2.t02900
-nDi.2.2.scaf00040	WormBase_imported	exon	67957	67981	.	-	.	ID=exon:nDi.2.2.2.t02900.6;Parent=transcript:nDi.2.2.2.t02900
-nDi.2.2.scaf00040	WormBase_imported	CDS	69428	69448	.	-	0	ID=cds:nDi.2.2.2.t02900;Parent=transcript:nDi.2.2.2.t02900
-nDi.2.2.scaf00040	WormBase_imported	CDS	69146	69172	.	-	0	ID=cds:nDi.2.2.2.t02900;Parent=transcript:nDi.2.2.2.t02900
-nDi.2.2.scaf00040	WormBase_imported	CDS	69031	69039	.	-	0	ID=cds:nDi.2.2.2.t02900;Parent=transcript:nDi.2.2.2.t02900
-nDi.2.2.scaf00040	WormBase_imported	CDS	68888	68931	.	-	0	ID=cds:nDi.2.2.2.t02900;Parent=transcript:nDi.2.2.2.t02900
-nDi.2.2.scaf00040	WormBase_imported	CDS	68156	68233	.	-	1	ID=cds:nDi.2.2.2.t02900;Parent=transcript:nDi.2.2.2.t02900
-nDi.2.2.scaf00040	WormBase_imported	CDS	67957	67981	.	-	1	ID=cds:nDi.2.2.2.t02900;Parent=transcript:nDi.2.2.2.t02900
+nDi.2.2.scaf00580	WormBase_imported	gene	11613	19385	.	-	.	ID=gene:nDi.2.2.2.g08489;Name=nDi.2.2.2.g08489;biotype=protein_coding
+nDi.2.2.scaf00580	WormBase_imported	mRNA	11613	19385	.	-	.	ID=transcript:nDi.2.2.2.t08489;Parent=gene:nDi.2.2.2.g08489;Name=nDi.2.2.2.t08489;info=method:InterPro accession:IPR003582 description:ShKT domain
+#microexons transcript:nDi.2.2.2.t08489:  82 83 4129 51-39-51 164
+nDi.2.2.scaf00580	WormBase_imported	exon	19304	19385	.	-	.	ID=exon:nDi.2.2.2.t08489.1;Parent=transcript:nDi.2.2.2.t08489
+nDi.2.2.scaf00580	WormBase_imported	exon	18693	18775	.	-	.	ID=exon:nDi.2.2.2.t08489.2;Parent=transcript:nDi.2.2.2.t08489
+nDi.2.2.scaf00580	WormBase_imported	exon	14277	18405	.	-	.	ID=exon:nDi.2.2.2.t08489.3;Parent=transcript:nDi.2.2.2.t08489
+nDi.2.2.scaf00580	WormBase_imported	exon	13545	13595	.	-	.	ID=exon:nDi.2.2.2.t08489.4;Parent=transcript:nDi.2.2.2.t08489
+nDi.2.2.scaf00580	WormBase_imported	exon	13265	13303	.	-	.	ID=exon:nDi.2.2.2.t08489.5;Parent=transcript:nDi.2.2.2.t08489
+nDi.2.2.scaf00580	WormBase_imported	exon	12894	12944	.	-	.	ID=exon:nDi.2.2.2.t08489.6;Parent=transcript:nDi.2.2.2.t08489
+nDi.2.2.scaf00580	WormBase_imported	exon	11613	11776	.	-	.	ID=exon:nDi.2.2.2.t08489.7;Parent=transcript:nDi.2.2.2.t08489
+nDi.2.2.scaf00580	WormBase_imported	CDS	19304	19385	.	-	0	ID=cds:nDi.2.2.2.t08489;Parent=transcript:nDi.2.2.2.t08489
+nDi.2.2.scaf00580	WormBase_imported	CDS	18693	18775	.	-	2	ID=cds:nDi.2.2.2.t08489;Parent=transcript:nDi.2.2.2.t08489
+nDi.2.2.scaf00580	WormBase_imported	CDS	14277	18405	.	-	0	ID=cds:nDi.2.2.2.t08489;Parent=transcript:nDi.2.2.2.t08489
+nDi.2.2.scaf00580	WormBase_imported	CDS	13545	13595	.	-	2	ID=cds:nDi.2.2.2.t08489;Parent=transcript:nDi.2.2.2.t08489
+nDi.2.2.scaf00580	WormBase_imported	CDS	13265	13303	.	-	2	ID=cds:nDi.2.2.2.t08489;Parent=transcript:nDi.2.2.2.t08489
+nDi.2.2.scaf00580	WormBase_imported	CDS	12894	12944	.	-	2	ID=cds:nDi.2.2.2.t08489;Parent=transcript:nDi.2.2.2.t08489
+nDi.2.2.scaf00580	WormBase_imported	CDS	11613	11776	.	-	2	ID=cds:nDi.2.2.2.t08489;Parent=transcript:nDi.2.2.2.t08489
+nDi.2.2.scaf01680	WormBase_imported	gene	1317	4911	.	+	.	ID=gene:nDi.2.2.2.g10526;Name=nDi.2.2.2.g10526;biotype=protein_coding
+nDi.2.2.scaf01680	WormBase_imported	mRNA	1317	4911	.	+	.	ID=transcript:nDi.2.2.2.t10526;Parent=gene:nDi.2.2.2.g10526;Name=nDi.2.2.2.t10526;info=method:InterPro accession:IPR004827 description:Basic-leucine zipper domain %0Amethod:InterPro accession:IPR029855 description:cAMP-dependent transcription factor ATF-5
+#microexons transcript:nDi.2.2.2.t10526:  48-18-33 128 337 78 169 146
+nDi.2.2.scaf01680	WormBase_imported	exon	1317	1364	.	+	.	ID=exon:nDi.2.2.2.t10526.1;Parent=transcript:nDi.2.2.2.t10526
+nDi.2.2.scaf01680	WormBase_imported	exon	2347	2364	.	+	.	ID=exon:nDi.2.2.2.t10526.2;Parent=transcript:nDi.2.2.2.t10526
+nDi.2.2.scaf01680	WormBase_imported	exon	2693	2725	.	+	.	ID=exon:nDi.2.2.2.t10526.3;Parent=transcript:nDi.2.2.2.t10526
+nDi.2.2.scaf01680	WormBase_imported	exon	3021	3148	.	+	.	ID=exon:nDi.2.2.2.t10526.4;Parent=transcript:nDi.2.2.2.t10526
+nDi.2.2.scaf01680	WormBase_imported	exon	3260	3596	.	+	.	ID=exon:nDi.2.2.2.t10526.5;Parent=transcript:nDi.2.2.2.t10526
+nDi.2.2.scaf01680	WormBase_imported	exon	3980	4057	.	+	.	ID=exon:nDi.2.2.2.t10526.6;Parent=transcript:nDi.2.2.2.t10526
+nDi.2.2.scaf01680	WormBase_imported	exon	4398	4566	.	+	.	ID=exon:nDi.2.2.2.t10526.7;Parent=transcript:nDi.2.2.2.t10526
+nDi.2.2.scaf01680	WormBase_imported	exon	4766	4911	.	+	.	ID=exon:nDi.2.2.2.t10526.8;Parent=transcript:nDi.2.2.2.t10526
+nDi.2.2.scaf01680	WormBase_imported	CDS	1317	1364	.	+	0	ID=cds:nDi.2.2.2.t10526;Parent=transcript:nDi.2.2.2.t10526
+nDi.2.2.scaf01680	WormBase_imported	CDS	2347	2364	.	+	0	ID=cds:nDi.2.2.2.t10526;Parent=transcript:nDi.2.2.2.t10526
+nDi.2.2.scaf01680	WormBase_imported	CDS	2693	2725	.	+	0	ID=cds:nDi.2.2.2.t10526;Parent=transcript:nDi.2.2.2.t10526
+nDi.2.2.scaf01680	WormBase_imported	CDS	3021	3148	.	+	0	ID=cds:nDi.2.2.2.t10526;Parent=transcript:nDi.2.2.2.t10526
+nDi.2.2.scaf01680	WormBase_imported	CDS	3260	3596	.	+	1	ID=cds:nDi.2.2.2.t10526;Parent=transcript:nDi.2.2.2.t10526
+nDi.2.2.scaf01680	WormBase_imported	CDS	3980	4057	.	+	0	ID=cds:nDi.2.2.2.t10526;Parent=transcript:nDi.2.2.2.t10526
+nDi.2.2.scaf01680	WormBase_imported	CDS	4398	4566	.	+	0	ID=cds:nDi.2.2.2.t10526;Parent=transcript:nDi.2.2.2.t10526
+nDi.2.2.scaf01680	WormBase_imported	CDS	4766	4911	.	+	2	ID=cds:nDi.2.2.2.t10526;Parent=transcript:nDi.2.2.2.t10526
