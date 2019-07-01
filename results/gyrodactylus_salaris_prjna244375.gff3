@@ -32,99 +32,6 @@ scf7180006953207	WormBase_imported	CDS	57137	57157	.	-	1	ID=cds:snap_masked-scf7
 scf7180006953207	WormBase_imported	CDS	56138	56161	.	-	1	ID=cds:snap_masked-scf7180006953207-processed-gene-0.17-mRNA-1;Parent=transcript:snap_masked-scf7180006953207-processed-gene-0.17-mRNA-1
 scf7180006953207	WormBase_imported	CDS	52974	53000	.	-	1	ID=cds:snap_masked-scf7180006953207-processed-gene-0.17-mRNA-1;Parent=transcript:snap_masked-scf7180006953207-processed-gene-0.17-mRNA-1
 scf7180006953207	WormBase_imported	CDS	52250	52271	.	-	1	ID=cds:snap_masked-scf7180006953207-processed-gene-0.17-mRNA-1;Parent=transcript:snap_masked-scf7180006953207-processed-gene-0.17-mRNA-1
-scf7180006953207	dust	repeat_region	761	818	.	-	.	
-scf7180006953207	dust	repeat_region	1515	1521	.	-	.	
-scf7180006953207	dust	repeat_region	1586	1593	.	-	.	
-scf7180006953207	dust	repeat_region	1833	1839	.	-	.	
-scf7180006953207	dust	repeat_region	3890	3896	.	-	.	
-scf7180006953207	dust	repeat_region	7373	7381	.	-	.	
-scf7180006953207	dust	repeat_region	9286	9293	.	-	.	
-scf7180006953207	dust	repeat_region	9684	9749	.	-	.	
-scf7180006953207	dust	repeat_region	10032	10038	.	-	.	
-scf7180006953207	dust	repeat_region	10049	10062	.	-	.	
-scf7180006953207	dust	repeat_region	11554	11560	.	-	.	
-scf7180006953207	dust	repeat_region	11580	11586	.	-	.	
-scf7180006953207	dust	repeat_region	11672	11679	.	-	.	
-scf7180006953207	dust	repeat_region	12421	12428	.	-	.	
-scf7180006953207	dust	repeat_region	12439	12448	.	-	.	
-scf7180006953207	dust	repeat_region	12897	12974	.	-	.	
-scf7180006953207	dust	repeat_region	13390	13396	.	-	.	
-scf7180006953207	dust	repeat_region	13585	13592	.	-	.	
-scf7180006953207	dust	repeat_region	14042	14131	.	-	.	
-scf7180006953207	dust	repeat_region	14151	14158	.	-	.	
-scf7180006953207	dust	repeat_region	14640	14647	.	-	.	
-scf7180006953207	dust	repeat_region	14849	14877	.	-	.	
-scf7180006953207	dust	repeat_region	15618	15624	.	-	.	
-scf7180006953207	dust	repeat_region	16866	16873	.	-	.	
-scf7180006953207	dust	repeat_region	17451	17490	.	-	.	
-scf7180006953207	trf	tandem_repeat	18409	18449	59	-	.	
-scf7180006953207	dust	repeat_region	18409	18473	.	-	.	
-scf7180006953207	dust	repeat_region	18668	18675	.	-	.	
-scf7180006953207	dust	repeat_region	19637	19704	.	-	.	
-scf7180006953207	dust	repeat_region	20634	20642	.	-	.	
-scf7180006953207	dust	repeat_region	22062	22068	.	-	.	
-scf7180006953207	dust	repeat_region	25981	25988	.	-	.	
-scf7180006953207	dust	repeat_region	26002	26013	.	-	.	
-scf7180006953207	dust	repeat_region	26812	26818	.	-	.	
-scf7180006953207	dust	repeat_region	27733	27739	.	-	.	
-scf7180006953207	dust	repeat_region	28089	28096	.	-	.	
-scf7180006953207	dust	repeat_region	28176	28183	.	-	.	
-scf7180006953207	dust	repeat_region	29576	29583	.	-	.	
-scf7180006953207	dust	repeat_region	30734	30814	.	-	.	
-scf7180006953207	dust	repeat_region	33223	33342	.	-	.	
-scf7180006953207	dust	repeat_region	33833	33839	.	-	.	
-scf7180006953207	dust	repeat_region	34720	34727	.	-	.	
-scf7180006953207	dust	repeat_region	34753	34759	.	-	.	
-scf7180006953207	dust	repeat_region	34848	34854	.	-	.	
-scf7180006953207	dust	repeat_region	35696	35742	.	-	.	
-scf7180006953207	dust	repeat_region	36925	36931	.	-	.	
-scf7180006953207	dust	repeat_region	37099	37105	.	-	.	
-scf7180006953207	dust	repeat_region	37140	37166	.	-	.	
-scf7180006953207	dust	repeat_region	37405	37431	.	-	.	
-scf7180006953207	dust	repeat_region	37501	37507	.	-	.	
-scf7180006953207	dust	repeat_region	38226	38233	.	-	.	
-scf7180006953207	dust	repeat_region	39145	39231	.	-	.	
-scf7180006953207	dust	repeat_region	39384	39459	.	-	.	
-scf7180006953207	dust	repeat_region	40392	40401	.	-	.	
-scf7180006953207	dust	repeat_region	40569	40576	.	-	.	
-scf7180006953207	dust	repeat_region	40603	40609	.	-	.	
-scf7180006953207	dust	repeat_region	41298	41304	.	-	.	
-scf7180006953207	dust	repeat_region	42124	42130	.	-	.	
-scf7180006953207	dust	repeat_region	42440	42446	.	-	.	
-scf7180006953207	dust	repeat_region	43112	43118	.	-	.	
-scf7180006953207	dust	repeat_region	43170	43177	.	-	.	
-scf7180006953207	dust	repeat_region	43272	43278	.	-	.	
-scf7180006953207	dust	repeat_region	43449	43512	.	-	.	
-scf7180006953207	dust	repeat_region	43624	43686	.	-	.	
-scf7180006953207	dust	repeat_region	45056	45086	.	-	.	
-scf7180006953207	dust	repeat_region	45629	45724	.	-	.	
-scf7180006953207	dust	repeat_region	46158	46165	.	-	.	
-scf7180006953207	dust	repeat_region	47523	47531	.	-	.	
-scf7180006953207	dust	repeat_region	48442	48450	.	-	.	
-scf7180006953207	dust	repeat_region	48551	48557	.	-	.	
-scf7180006953207	dust	repeat_region	48754	48760	.	-	.	
-scf7180006953207	dust	repeat_region	48871	48877	.	-	.	
-scf7180006953207	dust	repeat_region	49111	49117	.	-	.	
-scf7180006953207	dust	repeat_region	50013	50020	.	-	.	
-scf7180006953207	dust	repeat_region	50181	50187	.	-	.	
-scf7180006953207	dust	repeat_region	50665	50678	.	-	.	
-scf7180006953207	dust	repeat_region	50719	50725	.	-	.	
-scf7180006953207	repeatmasker	repeat_region	50776	50818	218	-	.	Name=X7B_LINE;repeat_class=LINE/CR1
-scf7180006953207	dust	repeat_region	51838	51897	.	-	.	
-scf7180006953207	trf	tandem_repeat	51866	51902	60	-	.	
-scf7180006953207	dust	repeat_region	52868	52875	.	-	.	
-scf7180006953207	dust	repeat_region	53668	53674	.	-	.	
-scf7180006953207	dust	repeat_region	55003	55009	.	-	.	
-scf7180006953207	dust	repeat_region	55213	55224	.	-	.	
-scf7180006953207	dust	repeat_region	56091	56097	.	-	.	
-scf7180006953207	dust	repeat_region	56231	56237	.	-	.	
-scf7180006953207	dust	repeat_region	56254	56261	.	-	.	
-scf7180006953207	dust	repeat_region	56518	56525	.	-	.	
-scf7180006953207	dust	repeat_region	57234	57240	.	-	.	
-scf7180006953207	dust	repeat_region	57876	57882	.	-	.	
-scf7180006953207	dust	repeat_region	58034	58040	.	-	.	
-scf7180006953207	dust	repeat_region	58442	58448	.	-	.	
-scf7180006953207	trf	tandem_repeat	60414	60460	52	-	.	
 scf7180006948709	WormBase_imported	gene	8063	18641	.	-	.	ID=gene:snap_masked-scf7180006948709-processed-gene-0.20;Name=snap_masked-scf7180006948709-processed-gene-0.20;biotype=protein_coding
 scf7180006948709	WormBase_imported	mRNA	8063	18641	.	-	.	ID=transcript:snap_masked-scf7180006948709-processed-gene-0.20-mRNA-1;Parent=gene:snap_masked-scf7180006948709-processed-gene-0.20;Name=snap_masked-scf7180006948709-processed-gene-0.20-mRNA-1
 #microexons transcript:snap_masked-scf7180006948709-processed-gene-0.20-mRNA-1:  45 81 42 21 351 63 93 54 27 93 9 33 27 45 24-24-21-27 63
@@ -376,77 +283,6 @@ scf7180006950914	WormBase_imported	CDS	38894	38911	.	-	0	ID=cds:snap_masked-scf7
 scf7180006950914	WormBase_imported	CDS	38765	38812	.	-	0	ID=cds:snap_masked-scf7180006950914-processed-gene-0.10-mRNA-1;Parent=transcript:snap_masked-scf7180006950914-processed-gene-0.10-mRNA-1
 scf7180006950914	WormBase_imported	CDS	38346	38366	.	-	0	ID=cds:snap_masked-scf7180006950914-processed-gene-0.10-mRNA-1;Parent=transcript:snap_masked-scf7180006950914-processed-gene-0.10-mRNA-1
 scf7180006950914	WormBase_imported	CDS	37962	38048	.	-	0	ID=cds:snap_masked-scf7180006950914-processed-gene-0.10-mRNA-1;Parent=transcript:snap_masked-scf7180006950914-processed-gene-0.10-mRNA-1
-scf7180006950914	repeatmasker	repeat_region	122	180	268	-	.	Name=tRNA-Arg-AGA;repeat_class=tRNA
-scf7180006950914	dust	repeat_region	318	371	.	-	.	
-scf7180006950914	dust	repeat_region	476	534	.	-	.	
-scf7180006950914	dust	repeat_region	565	571	.	-	.	
-scf7180006950914	dust	repeat_region	616	623	.	-	.	
-scf7180006950914	dust	repeat_region	959	983	.	-	.	
-scf7180006950914	dust	repeat_region	1141	1149	.	-	.	
-scf7180006950914	dust	repeat_region	1363	1404	.	-	.	
-scf7180006950914	dust	repeat_region	1758	1764	.	-	.	
-scf7180006950914	dust	repeat_region	1812	1818	.	-	.	
-scf7180006950914	dust	repeat_region	1900	1906	.	-	.	
-scf7180006950914	dust	repeat_region	3026	3032	.	-	.	
-scf7180006950914	dust	repeat_region	3409	3415	.	-	.	
-scf7180006950914	dust	repeat_region	4109	4117	.	-	.	
-scf7180006950914	dust	repeat_region	4266	4273	.	-	.	
-scf7180006950914	dust	repeat_region	6829	6835	.	-	.	
-scf7180006950914	dust	repeat_region	7074	7081	.	-	.	
-scf7180006950914	dust	repeat_region	7275	7281	.	-	.	
-scf7180006950914	dust	repeat_region	7387	7393	.	-	.	
-scf7180006950914	dust	repeat_region	7396	7402	.	-	.	
-scf7180006950914	dust	repeat_region	7784	7790	.	-	.	
-scf7180006950914	dust	repeat_region	7824	7831	.	-	.	
-scf7180006950914	dust	repeat_region	10736	10742	.	-	.	
-scf7180006950914	dust	repeat_region	11565	11633	.	-	.	
-scf7180006950914	dust	repeat_region	12825	12832	.	-	.	
-scf7180006950914	dust	repeat_region	14177	14183	.	-	.	
-scf7180006950914	dust	repeat_region	16607	16614	.	-	.	
-scf7180006950914	dust	repeat_region	17103	17166	.	-	.	
-scf7180006950914	dust	repeat_region	17249	17256	.	-	.	
-scf7180006950914	dust	repeat_region	17386	17429	.	-	.	
-scf7180006950914	dust	repeat_region	18599	18605	.	-	.	
-scf7180006950914	dust	repeat_region	18916	18922	.	-	.	
-scf7180006950914	dust	repeat_region	19401	19427	.	-	.	
-scf7180006950914	dust	repeat_region	20811	20817	.	-	.	
-scf7180006950914	dust	repeat_region	21449	21456	.	-	.	
-scf7180006950914	dust	repeat_region	22300	22307	.	-	.	
-scf7180006950914	dust	repeat_region	22315	22321	.	-	.	
-scf7180006950914	dust	repeat_region	22406	22413	.	-	.	
-scf7180006950914	dust	repeat_region	22607	22613	.	-	.	
-scf7180006950914	dust	repeat_region	23095	23102	.	-	.	
-scf7180006950914	dust	repeat_region	23152	23210	.	-	.	
-scf7180006950914	dust	repeat_region	23288	23311	.	-	.	
-scf7180006950914	dust	repeat_region	23405	23411	.	-	.	
-scf7180006950914	dust	repeat_region	24000	24006	.	-	.	
-scf7180006950914	dust	repeat_region	24349	24355	.	-	.	
-scf7180006950914	dust	repeat_region	24525	24531	.	-	.	
-scf7180006950914	dust	repeat_region	26126	26133	.	-	.	
-scf7180006950914	dust	repeat_region	26668	26674	.	-	.	
-scf7180006950914	dust	repeat_region	27081	27087	.	-	.	
-scf7180006950914	dust	repeat_region	27966	27972	.	-	.	
-scf7180006950914	dust	repeat_region	28440	28446	.	-	.	
-scf7180006950914	dust	repeat_region	28568	28576	.	-	.	
-scf7180006950914	dust	repeat_region	28826	28832	.	-	.	
-scf7180006950914	dust	repeat_region	29272	29279	.	-	.	
-scf7180006950914	dust	repeat_region	31021	31028	.	-	.	
-scf7180006950914	dust	repeat_region	32952	32958	.	-	.	
-scf7180006950914	dust	repeat_region	33356	33416	.	-	.	
-scf7180006950914	dust	repeat_region	33923	33979	.	-	.	
-scf7180006950914	dust	repeat_region	34415	34421	.	-	.	
-scf7180006950914	dust	repeat_region	35321	35410	.	-	.	
-scf7180006950914	dust	repeat_region	35849	35856	.	-	.	
-scf7180006950914	dust	repeat_region	36768	36785	.	-	.	
-scf7180006950914	trf	tandem_repeat	36872	36917	71	-	.	
-scf7180006950914	dust	repeat_region	36886	36892	.	-	.	
-scf7180006950914	dust	repeat_region	37081	37087	.	-	.	
-scf7180006950914	dust	repeat_region	38697	38703	.	-	.	
-scf7180006950914	dust	repeat_region	38773	38810	.	-	.	
-scf7180006950914	dust	repeat_region	39030	39038	.	-	.	
-scf7180006950914	dust	repeat_region	39172	39178	.	-	.	
-scf7180006950914	dust	repeat_region	39828	39834	.	-	.	
-scf7180006950914	dust	repeat_region	40670	40677	.	-	.	
 scf7180006951284	WormBase_imported	gene	8380	14892	.	-	.	ID=gene:snap_masked-scf7180006951284-processed-gene-0.19;Name=snap_masked-scf7180006951284-processed-gene-0.19;biotype=protein_coding
 scf7180006951284	WormBase_imported	mRNA	8380	14892	.	-	.	ID=transcript:snap_masked-scf7180006951284-processed-gene-0.19-mRNA-1;Parent=gene:snap_masked-scf7180006951284-processed-gene-0.19;Name=snap_masked-scf7180006951284-processed-gene-0.19-mRNA-1
 #microexons transcript:snap_masked-scf7180006951284-processed-gene-0.19-mRNA-1:  38 83 107 9-21-9-24
@@ -491,107 +327,6 @@ scf7180006951321	WormBase_imported	CDS	37738	37761	.	+	1	ID=cds:snap_masked-scf7
 scf7180006951321	WormBase_imported	CDS	38229	38261	.	+	1	ID=cds:snap_masked-scf7180006951321-processed-gene-0.6-mRNA-1;Parent=transcript:snap_masked-scf7180006951321-processed-gene-0.6-mRNA-1
 scf7180006951321	WormBase_imported	CDS	38725	38742	.	+	1	ID=cds:snap_masked-scf7180006951321-processed-gene-0.6-mRNA-1;Parent=transcript:snap_masked-scf7180006951321-processed-gene-0.6-mRNA-1
 scf7180006951321	WormBase_imported	CDS	39357	39654	.	+	1	ID=cds:snap_masked-scf7180006951321-processed-gene-0.6-mRNA-1;Parent=transcript:snap_masked-scf7180006951321-processed-gene-0.6-mRNA-1
-scf7180006951321	dust	repeat_region	154	160	.	-	.	
-scf7180006951321	dust	repeat_region	1201	1207	.	-	.	
-scf7180006951321	dust	repeat_region	1425	1487	.	-	.	
-scf7180006951321	trf	tandem_repeat	1443	1462	40	-	.	
-scf7180006951321	dust	repeat_region	1860	1922	.	-	.	
-scf7180006951321	dust	repeat_region	2028	2086	.	-	.	
-scf7180006951321	trf	tandem_repeat	3197	3225	51	-	.	
-scf7180006951321	dust	repeat_region	3269	3282	.	-	.	
-scf7180006951321	dust	repeat_region	3471	3479	.	-	.	
-scf7180006951321	dust	repeat_region	3497	3503	.	-	.	
-scf7180006951321	dust	repeat_region	3616	3622	.	-	.	
-scf7180006951321	dust	repeat_region	3720	3726	.	-	.	
-scf7180006951321	dust	repeat_region	4296	4309	.	-	.	
-scf7180006951321	dust	repeat_region	4552	4559	.	-	.	
-scf7180006951321	trf	tandem_repeat	4571	4636	58	-	.	
-scf7180006951321	dust	repeat_region	4571	4650	.	-	.	
-scf7180006951321	dust	repeat_region	4792	4799	.	-	.	
-scf7180006951321	dust	repeat_region	5041	5048	.	-	.	
-scf7180006951321	dust	repeat_region	5145	5152	.	-	.	
-scf7180006951321	dust	repeat_region	6571	6578	.	-	.	
-scf7180006951321	dust	repeat_region	7507	7514	.	-	.	
-scf7180006951321	dust	repeat_region	7938	7944	.	-	.	
-scf7180006951321	dust	repeat_region	8801	8808	.	-	.	
-scf7180006951321	dust	repeat_region	9569	9575	.	-	.	
-scf7180006951321	dust	repeat_region	9974	9980	.	-	.	
-scf7180006951321	dust	repeat_region	10000	10006	.	-	.	
-scf7180006951321	dust	repeat_region	10127	10135	.	-	.	
-scf7180006951321	dust	repeat_region	10238	10244	.	-	.	
-scf7180006951321	dust	repeat_region	10304	10310	.	-	.	
-scf7180006951321	dust	repeat_region	10873	10889	.	-	.	
-scf7180006951321	dust	repeat_region	10924	10996	.	-	.	
-scf7180006951321	dust	repeat_region	11048	11054	.	-	.	
-scf7180006951321	dust	repeat_region	11812	11820	.	-	.	
-scf7180006951321	dust	repeat_region	11848	11856	.	-	.	
-scf7180006951321	dust	repeat_region	12714	12790	.	-	.	
-scf7180006951321	dust	repeat_region	12903	12909	.	-	.	
-scf7180006951321	dust	repeat_region	12964	12970	.	-	.	
-scf7180006951321	dust	repeat_region	12987	12994	.	-	.	
-scf7180006951321	dust	repeat_region	13522	13586	.	-	.	
-scf7180006951321	dust	repeat_region	13814	13820	.	-	.	
-scf7180006951321	dust	repeat_region	13985	13991	.	-	.	
-scf7180006951321	dust	repeat_region	15178	15185	.	-	.	
-scf7180006951321	dust	repeat_region	15368	15374	.	-	.	
-scf7180006951321	dust	repeat_region	15433	15439	.	-	.	
-scf7180006951321	dust	repeat_region	15571	15577	.	-	.	
-scf7180006951321	dust	repeat_region	16005	16014	.	-	.	
-scf7180006951321	dust	repeat_region	16276	16283	.	-	.	
-scf7180006951321	dust	repeat_region	16444	16467	.	-	.	
-scf7180006951321	dust	repeat_region	17337	17380	.	-	.	
-scf7180006951321	dust	repeat_region	17502	17508	.	-	.	
-scf7180006951321	dust	repeat_region	17548	17554	.	-	.	
-scf7180006951321	dust	repeat_region	17755	17762	.	-	.	
-scf7180006951321	dust	repeat_region	17829	17836	.	-	.	
-scf7180006951321	dust	repeat_region	17843	17875	.	-	.	
-scf7180006951321	dust	repeat_region	18249	18257	.	-	.	
-scf7180006951321	trf	tandem_repeat	18282	18336	68	-	.	
-scf7180006951321	dust	repeat_region	18606	18612	.	-	.	
-scf7180006951321	dust	repeat_region	18760	18766	.	-	.	
-scf7180006951321	dust	repeat_region	19509	19563	.	-	.	
-scf7180006951321	dust	repeat_region	20350	20408	.	-	.	
-scf7180006951321	trf	tandem_repeat	20375	20407	52	-	.	
-scf7180006951321	dust	repeat_region	20978	20984	.	-	.	
-scf7180006951321	dust	repeat_region	21744	21750	.	-	.	
-scf7180006951321	dust	repeat_region	21879	21886	.	-	.	
-scf7180006951321	dust	repeat_region	22095	22101	.	-	.	
-scf7180006951321	dust	repeat_region	23158	23164	.	-	.	
-scf7180006951321	dust	repeat_region	23226	23233	.	-	.	
-scf7180006951321	dust	repeat_region	23667	23673	.	-	.	
-scf7180006951321	dust	repeat_region	25637	25643	.	-	.	
-scf7180006951321	dust	repeat_region	27045	27103	.	-	.	
-scf7180006951321	dust	repeat_region	27397	27403	.	-	.	
-scf7180006951321	dust	repeat_region	27839	27845	.	-	.	
-scf7180006951321	dust	repeat_region	28261	28280	.	-	.	
-scf7180006951321	dust	repeat_region	28473	28479	.	-	.	
-scf7180006951321	dust	repeat_region	29231	29280	.	-	.	
-scf7180006951321	dust	repeat_region	29414	29420	.	-	.	
-scf7180006951321	dust	repeat_region	30270	30292	.	-	.	
-scf7180006951321	dust	repeat_region	30788	30794	.	-	.	
-scf7180006951321	trf	tandem_repeat	31658	31687	53	-	.	
-scf7180006951321	dust	repeat_region	31784	31790	.	-	.	
-scf7180006951321	dust	repeat_region	31869	31875	.	-	.	
-scf7180006951321	dust	repeat_region	32180	32186	.	-	.	
-scf7180006951321	dust	repeat_region	32216	32223	.	-	.	
-scf7180006951321	dust	repeat_region	32661	32667	.	-	.	
-scf7180006951321	dust	repeat_region	32723	32729	.	-	.	
-scf7180006951321	dust	repeat_region	32763	32771	.	-	.	
-scf7180006951321	dust	repeat_region	33502	33508	.	-	.	
-scf7180006951321	dust	repeat_region	34091	34178	.	-	.	
-scf7180006951321	dust	repeat_region	34289	34295	.	-	.	
-scf7180006951321	dust	repeat_region	35197	35203	.	-	.	
-scf7180006951321	dust	repeat_region	35417	35423	.	-	.	
-scf7180006951321	dust	repeat_region	35470	35476	.	-	.	
-scf7180006951321	dust	repeat_region	35635	35641	.	-	.	
-scf7180006951321	dust	repeat_region	35899	35906	.	-	.	
-scf7180006951321	dust	repeat_region	36728	36735	.	-	.	
-scf7180006951321	dust	repeat_region	36861	36867	.	-	.	
-scf7180006951321	dust	repeat_region	37936	37951	.	-	.	
-scf7180006951321	dust	repeat_region	38365	38371	.	-	.	
-scf7180006951321	dust	repeat_region	38947	38954	.	-	.	
-scf7180006951321	dust	repeat_region	39148	39154	.	-	.	
-scf7180006951321	dust	repeat_region	39752	39809	.	-	.	
 scf7180006953030	WormBase_imported	gene	4758	10347	.	+	.	ID=gene:snap_masked-scf7180006953030-processed-gene-0.24;Name=snap_masked-scf7180006953030-processed-gene-0.24;biotype=protein_coding
 scf7180006953030	WormBase_imported	mRNA	4758	10347	.	+	.	ID=transcript:snap_masked-scf7180006953030-processed-gene-0.24-mRNA-1;Parent=gene:snap_masked-scf7180006953030-processed-gene-0.24;Name=snap_masked-scf7180006953030-processed-gene-0.24-mRNA-1
 #microexons transcript:snap_masked-scf7180006953030-processed-gene-0.24-mRNA-1:  19 50 15-21-18-24-24 39 18-18-12-21-18-18-18-24 72
@@ -860,59 +595,6 @@ scf7180006951025	WormBase_imported	CDS	29085	29158	.	+	2	ID=cds:snap_masked-scf7
 scf7180006951025	WormBase_imported	CDS	29838	29861	.	+	0	ID=cds:snap_masked-scf7180006951025-processed-gene-0.5-mRNA-1;Parent=transcript:snap_masked-scf7180006951025-processed-gene-0.5-mRNA-1
 scf7180006951025	WormBase_imported	CDS	30148	30177	.	+	0	ID=cds:snap_masked-scf7180006951025-processed-gene-0.5-mRNA-1;Parent=transcript:snap_masked-scf7180006951025-processed-gene-0.5-mRNA-1
 scf7180006951025	WormBase_imported	CDS	30765	30809	.	+	0	ID=cds:snap_masked-scf7180006951025-processed-gene-0.5-mRNA-1;Parent=transcript:snap_masked-scf7180006951025-processed-gene-0.5-mRNA-1
-scf7180006951025	dust	repeat_region	269	276	.	-	.	
-scf7180006951025	trf	tandem_repeat	813	842	46	-	.	
-scf7180006951025	dust	repeat_region	1399	1413	.	-	.	
-scf7180006951025	dust	repeat_region	1485	1491	.	-	.	
-scf7180006951025	dust	repeat_region	1809	1895	.	-	.	
-scf7180006951025	dust	repeat_region	2107	2202	.	-	.	
-scf7180006951025	dust	repeat_region	3851	3858	.	-	.	
-scf7180006951025	dust	repeat_region	5032	5094	.	-	.	
-scf7180006951025	dust	repeat_region	5233	5244	.	-	.	
-scf7180006951025	dust	repeat_region	5398	5463	.	-	.	
-scf7180006951025	dust	repeat_region	5522	5529	.	-	.	
-scf7180006951025	dust	repeat_region	5580	5587	.	-	.	
-scf7180006951025	dust	repeat_region	5616	5622	.	-	.	
-scf7180006951025	trf	tandem_repeat	5739	5839	118	-	.	
-scf7180006951025	dust	repeat_region	5859	5921	.	-	.	
-scf7180006951025	dust	repeat_region	6434	6440	.	-	.	
-scf7180006951025	dust	repeat_region	8280	8286	.	-	.	
-scf7180006951025	dust	repeat_region	10250	10257	.	-	.	
-scf7180006951025	dust	repeat_region	10955	10961	.	-	.	
-scf7180006951025	dust	repeat_region	10990	10997	.	-	.	
-scf7180006951025	dust	repeat_region	11519	11525	.	-	.	
-scf7180006951025	dust	repeat_region	11924	11985	.	-	.	
-scf7180006951025	dust	repeat_region	12323	12329	.	-	.	
-scf7180006951025	dust	repeat_region	12469	12530	.	-	.	
-scf7180006951025	dust	repeat_region	13009	13015	.	-	.	
-scf7180006951025	dust	repeat_region	13166	13173	.	-	.	
-scf7180006951025	dust	repeat_region	13451	13457	.	-	.	
-scf7180006951025	dust	repeat_region	14677	14742	.	-	.	
-scf7180006951025	trf	tandem_repeat	14698	14722	50	-	.	
-scf7180006951025	dust	repeat_region	15250	15273	.	-	.	
-scf7180006951025	dust	repeat_region	16665	16673	.	-	.	
-scf7180006951025	dust	repeat_region	16915	16922	.	-	.	
-scf7180006951025	trf	tandem_repeat	18693	18724	50	-	.	
-scf7180006951025	dust	repeat_region	19211	19217	.	-	.	
-scf7180006951025	dust	repeat_region	19829	19835	.	-	.	
-scf7180006951025	dust	repeat_region	20473	20479	.	-	.	
-scf7180006951025	dust	repeat_region	20620	20627	.	-	.	
-scf7180006951025	dust	repeat_region	21487	21493	.	-	.	
-scf7180006951025	dust	repeat_region	23941	23947	.	-	.	
-scf7180006951025	dust	repeat_region	24813	24820	.	-	.	
-scf7180006951025	trf	tandem_repeat	25428	25512	85	-	.	
-scf7180006951025	dust	repeat_region	25981	25987	.	-	.	
-scf7180006951025	dust	repeat_region	26971	26977	.	-	.	
-scf7180006951025	dust	repeat_region	27670	27732	.	-	.	
-scf7180006951025	dust	repeat_region	28643	28696	.	-	.	
-scf7180006951025	dust	repeat_region	28770	28828	.	-	.	
-scf7180006951025	dust	repeat_region	30036	30101	.	-	.	
-scf7180006951025	dust	repeat_region	30592	30598	.	-	.	
-scf7180006951025	dust	repeat_region	30749	30755	.	-	.	
-scf7180006951025	dust	repeat_region	30863	30870	.	-	.	
-scf7180006951025	dust	repeat_region	30932	30939	.	-	.	
-scf7180006951025	dust	repeat_region	30951	30957	.	-	.	
-scf7180006951025	dust	repeat_region	31269	31275	.	-	.	
 scf7180006948294	WormBase_imported	gene	26023	29329	.	-	.	ID=gene:snap_masked-scf7180006948294-processed-gene-0.14;Name=snap_masked-scf7180006948294-processed-gene-0.14;biotype=protein_coding
 scf7180006948294	WormBase_imported	mRNA	26023	29329	.	-	.	ID=transcript:snap_masked-scf7180006948294-processed-gene-0.14-mRNA-1;Parent=gene:snap_masked-scf7180006948294-processed-gene-0.14;Name=snap_masked-scf7180006948294-processed-gene-0.14-mRNA-1
 #microexons transcript:snap_masked-scf7180006948294-processed-gene-0.14-mRNA-1:  7 131 12-27-18 33 109 14 12-6
@@ -936,64 +618,6 @@ scf7180006948294	WormBase_imported	CDS	26911	27019	.	-	0	ID=cds:snap_masked-scf7
 scf7180006948294	WormBase_imported	CDS	26161	26174	.	-	2	ID=cds:snap_masked-scf7180006948294-processed-gene-0.14-mRNA-1;Parent=transcript:snap_masked-scf7180006948294-processed-gene-0.14-mRNA-1
 scf7180006948294	WormBase_imported	CDS	26084	26095	.	-	0	ID=cds:snap_masked-scf7180006948294-processed-gene-0.14-mRNA-1;Parent=transcript:snap_masked-scf7180006948294-processed-gene-0.14-mRNA-1
 scf7180006948294	WormBase_imported	CDS	26023	26028	.	-	0	ID=cds:snap_masked-scf7180006948294-processed-gene-0.14-mRNA-1;Parent=transcript:snap_masked-scf7180006948294-processed-gene-0.14-mRNA-1
-scf7180006948294	trf	tandem_repeat	295	327	52	-	.	
-scf7180006948294	dust	repeat_region	581	587	.	-	.	
-scf7180006948294	dust	repeat_region	1959	1965	.	-	.	
-scf7180006948294	dust	repeat_region	2410	2416	.	-	.	
-scf7180006948294	dust	repeat_region	2677	2683	.	-	.	
-scf7180006948294	dust	repeat_region	2848	2855	.	-	.	
-scf7180006948294	dust	repeat_region	6246	6255	.	-	.	
-scf7180006948294	dust	repeat_region	6504	6515	.	-	.	
-scf7180006948294	dust	repeat_region	7070	7076	.	-	.	
-scf7180006948294	dust	repeat_region	7105	7124	.	-	.	
-scf7180006948294	dust	repeat_region	7837	7900	.	-	.	
-scf7180006948294	dust	repeat_region	7985	7991	.	-	.	
-scf7180006948294	dust	repeat_region	9590	9596	.	-	.	
-scf7180006948294	dust	repeat_region	9804	9810	.	-	.	
-scf7180006948294	dust	repeat_region	10434	10498	.	-	.	
-scf7180006948294	dust	repeat_region	10704	10710	.	-	.	
-scf7180006948294	dust	repeat_region	11256	11262	.	-	.	
-scf7180006948294	dust	repeat_region	11288	11294	.	-	.	
-scf7180006948294	trf	tandem_repeat	11526	11571	55	-	.	
-scf7180006948294	dust	repeat_region	12297	12303	.	-	.	
-scf7180006948294	dust	repeat_region	12499	12505	.	-	.	
-scf7180006948294	dust	repeat_region	12822	12828	.	-	.	
-scf7180006948294	dust	repeat_region	13649	13656	.	-	.	
-scf7180006948294	dust	repeat_region	13774	13783	.	-	.	
-scf7180006948294	dust	repeat_region	14238	14245	.	-	.	
-scf7180006948294	dust	repeat_region	14885	14933	.	-	.	
-scf7180006948294	dust	repeat_region	15111	15117	.	-	.	
-scf7180006948294	dust	repeat_region	15365	15373	.	-	.	
-scf7180006948294	trf	tandem_repeat	15540	15568	51	-	.	
-scf7180006948294	dust	repeat_region	15868	15919	.	-	.	
-scf7180006948294	dust	repeat_region	17279	17285	.	-	.	
-scf7180006948294	dust	repeat_region	17368	17374	.	-	.	
-scf7180006948294	dust	repeat_region	17598	17604	.	-	.	
-scf7180006948294	dust	repeat_region	18426	18432	.	-	.	
-scf7180006948294	dust	repeat_region	18499	18513	.	-	.	
-scf7180006948294	dust	repeat_region	19258	19269	.	-	.	
-scf7180006948294	dust	repeat_region	19422	19428	.	-	.	
-scf7180006948294	dust	repeat_region	20375	20382	.	-	.	
-scf7180006948294	dust	repeat_region	20564	20570	.	-	.	
-scf7180006948294	trf	tandem_repeat	20900	20946	50	-	.	
-scf7180006948294	dust	repeat_region	21946	22022	.	-	.	
-scf7180006948294	dust	repeat_region	22978	22985	.	-	.	
-scf7180006948294	dust	repeat_region	23441	23498	.	-	.	
-scf7180006948294	dust	repeat_region	23746	23752	.	-	.	
-scf7180006948294	dust	repeat_region	23810	23819	.	-	.	
-scf7180006948294	dust	repeat_region	24437	24443	.	-	.	
-scf7180006948294	dust	repeat_region	25040	25095	.	-	.	
-scf7180006948294	dust	repeat_region	25321	25330	.	-	.	
-scf7180006948294	dust	repeat_region	25467	25473	.	-	.	
-scf7180006948294	dust	repeat_region	25657	25663	.	-	.	
-scf7180006948294	dust	repeat_region	26320	26327	.	-	.	
-scf7180006948294	dust	repeat_region	26652	26658	.	-	.	
-scf7180006948294	dust	repeat_region	27304	27318	.	-	.	
-scf7180006948294	dust	repeat_region	28599	28605	.	-	.	
-scf7180006948294	dust	repeat_region	29143	29196	.	-	.	
-scf7180006948294	dust	repeat_region	29833	29839	.	-	.	
-scf7180006948294	dust	repeat_region	30083	30089	.	-	.	
-scf7180006948294	dust	repeat_region	30333	30339	.	-	.	
 scf7180006953186	WormBase_imported	gene	3812	19236	.	-	.	ID=gene:snap_masked-scf7180006953186-processed-gene-0.3;Name=snap_masked-scf7180006953186-processed-gene-0.3;biotype=protein_coding
 scf7180006953186	WormBase_imported	mRNA	3812	19236	.	-	.	ID=transcript:snap_masked-scf7180006953186-processed-gene-0.3-mRNA-1;Parent=gene:snap_masked-scf7180006953186-processed-gene-0.3;Name=snap_masked-scf7180006953186-processed-gene-0.3-mRNA-1;info=method:InterPro accession:IPR000719 description:Protein kinase domain %0Amethod:InterPro accession:IPR008271 description:Serine/threonine-protein kinase%2C active site %0Amethod:InterPro accession:IPR011009 description:Protein kinase-like domain superfamily %0Amethod:InterPro accession:IPR017441 description:Protein kinase%2C ATP binding site
 #microexons transcript:snap_masked-scf7180006953186-processed-gene-0.3-mRNA-1:  5 28 27-18-24-24-15-30-24-27-24-24-24-21 33 15-27 171 179 127 159 15 48 27 171 216
@@ -1201,73 +825,6 @@ scf7180006950887	WormBase_imported	CDS	22493	22525	.	+	0	ID=cds:snap_masked-scf7
 scf7180006950887	WormBase_imported	CDS	23490	23504	.	+	0	ID=cds:snap_masked-scf7180006950887-processed-gene-0.2-mRNA-1;Parent=transcript:snap_masked-scf7180006950887-processed-gene-0.2-mRNA-1
 scf7180006950887	WormBase_imported	CDS	23687	23697	.	+	0	ID=cds:snap_masked-scf7180006950887-processed-gene-0.2-mRNA-1;Parent=transcript:snap_masked-scf7180006950887-processed-gene-0.2-mRNA-1
 scf7180006950887	WormBase_imported	CDS	23783	23798	.	+	1	ID=cds:snap_masked-scf7180006950887-processed-gene-0.2-mRNA-1;Parent=transcript:snap_masked-scf7180006950887-processed-gene-0.2-mRNA-1
-scf7180006950887	dust	repeat_region	647	653	.	-	.	
-scf7180006950887	dust	repeat_region	903	910	.	-	.	
-scf7180006950887	dust	repeat_region	1022	1084	.	-	.	
-scf7180006950887	dust	repeat_region	1441	1449	.	-	.	
-scf7180006950887	dust	repeat_region	1570	1616	.	-	.	
-scf7180006950887	dust	repeat_region	1873	1890	.	-	.	
-scf7180006950887	dust	repeat_region	2044	2050	.	-	.	
-scf7180006950887	dust	repeat_region	2360	2367	.	-	.	
-scf7180006950887	dust	repeat_region	2473	2480	.	-	.	
-scf7180006950887	dust	repeat_region	2805	2818	.	-	.	
-scf7180006950887	dust	repeat_region	3516	3523	.	-	.	
-scf7180006950887	dust	repeat_region	3595	3602	.	-	.	
-scf7180006950887	dust	repeat_region	3772	3797	.	-	.	
-scf7180006950887	dust	repeat_region	3889	3895	.	-	.	
-scf7180006950887	dust	repeat_region	4246	4252	.	-	.	
-scf7180006950887	dust	repeat_region	4445	4451	.	-	.	
-scf7180006950887	dust	repeat_region	4531	4537	.	-	.	
-scf7180006950887	dust	repeat_region	4570	4576	.	-	.	
-scf7180006950887	dust	repeat_region	4797	4803	.	-	.	
-scf7180006950887	dust	repeat_region	5213	5219	.	-	.	
-scf7180006950887	dust	repeat_region	5952	5958	.	-	.	
-scf7180006950887	dust	repeat_region	6569	6635	.	-	.	
-scf7180006950887	dust	repeat_region	6842	6848	.	-	.	
-scf7180006950887	dust	repeat_region	7060	7066	.	-	.	
-scf7180006950887	trf	tandem_repeat	7142	7170	51	-	.	
-scf7180006950887	dust	repeat_region	8373	8382	.	-	.	
-scf7180006950887	dust	repeat_region	8498	8505	.	-	.	
-scf7180006950887	dust	repeat_region	8637	8701	.	-	.	
-scf7180006950887	dust	repeat_region	9329	9335	.	-	.	
-scf7180006950887	dust	repeat_region	9690	9697	.	-	.	
-scf7180006950887	dust	repeat_region	9929	9935	.	-	.	
-scf7180006950887	dust	repeat_region	11030	11037	.	-	.	
-scf7180006950887	dust	repeat_region	11421	11435	.	-	.	
-scf7180006950887	dust	repeat_region	11494	11506	.	-	.	
-scf7180006950887	dust	repeat_region	11730	11736	.	-	.	
-scf7180006950887	dust	repeat_region	12090	12096	.	-	.	
-scf7180006950887	dust	repeat_region	12994	13010	.	-	.	
-scf7180006950887	dust	repeat_region	13222	13228	.	-	.	
-scf7180006950887	dust	repeat_region	13285	13291	.	-	.	
-scf7180006950887	dust	repeat_region	13993	14001	.	-	.	
-scf7180006950887	dust	repeat_region	14071	14077	.	-	.	
-scf7180006950887	dust	repeat_region	14126	14132	.	-	.	
-scf7180006950887	dust	repeat_region	14212	14218	.	-	.	
-scf7180006950887	dust	repeat_region	14278	14284	.	-	.	
-scf7180006950887	dust	repeat_region	14760	14767	.	-	.	
-scf7180006950887	dust	repeat_region	15001	15009	.	-	.	
-scf7180006950887	dust	repeat_region	15591	15597	.	-	.	
-scf7180006950887	dust	repeat_region	15754	15760	.	-	.	
-scf7180006950887	dust	repeat_region	15864	15872	.	-	.	
-scf7180006950887	dust	repeat_region	16511	16522	.	-	.	
-scf7180006950887	dust	repeat_region	19103	19109	.	-	.	
-scf7180006950887	dust	repeat_region	19172	19178	.	-	.	
-scf7180006950887	dust	repeat_region	19697	19704	.	-	.	
-scf7180006950887	dust	repeat_region	19716	19773	.	-	.	
-scf7180006950887	dust	repeat_region	20335	20342	.	-	.	
-scf7180006950887	dust	repeat_region	20416	20422	.	-	.	
-scf7180006950887	trf	tandem_repeat	21108	21148	61	-	.	
-scf7180006950887	dust	repeat_region	21378	21392	.	-	.	
-scf7180006950887	dust	repeat_region	22173	22179	.	-	.	
-scf7180006950887	dust	repeat_region	23124	23130	.	-	.	
-scf7180006950887	dust	repeat_region	23561	23567	.	-	.	
-scf7180006950887	dust	repeat_region	24157	24163	.	-	.	
-scf7180006950887	dust	repeat_region	25493	25499	.	-	.	
-scf7180006950887	dust	repeat_region	25609	25616	.	-	.	
-scf7180006950887	dust	repeat_region	26225	26274	.	-	.	
-scf7180006950887	repeatmasker	repeat_region	26912	26988	192	+	.	Name=X7C_LINE;repeat_class=LINE/CR1
-scf7180006950887	dust	repeat_region	27130	27136	.	-	.	
 scf7180006951918	WormBase_imported	gene	20624	26120	.	+	.	ID=gene:snap_masked-scf7180006951918-processed-gene-0.7;Name=snap_masked-scf7180006951918-processed-gene-0.7;biotype=protein_coding
 scf7180006951918	WormBase_imported	mRNA	20624	26120	.	+	.	ID=transcript:snap_masked-scf7180006951918-processed-gene-0.7-mRNA-1;Parent=gene:snap_masked-scf7180006951918-processed-gene-0.7;Name=snap_masked-scf7180006951918-processed-gene-0.7-mRNA-1
 #microexons transcript:snap_masked-scf7180006951918-processed-gene-0.7-mRNA-1:  72 10 8 6-6-9 22 76 22
@@ -1289,36 +846,6 @@ scf7180006951918	WormBase_imported	CDS	23308	23316	.	+	0	ID=cds:snap_masked-scf7
 scf7180006951918	WormBase_imported	CDS	24114	24135	.	+	0	ID=cds:snap_masked-scf7180006951918-processed-gene-0.7-mRNA-1;Parent=transcript:snap_masked-scf7180006951918-processed-gene-0.7-mRNA-1
 scf7180006951918	WormBase_imported	CDS	24243	24318	.	+	2	ID=cds:snap_masked-scf7180006951918-processed-gene-0.7-mRNA-1;Parent=transcript:snap_masked-scf7180006951918-processed-gene-0.7-mRNA-1
 scf7180006951918	WormBase_imported	CDS	26099	26120	.	+	1	ID=cds:snap_masked-scf7180006951918-processed-gene-0.7-mRNA-1;Parent=transcript:snap_masked-scf7180006951918-processed-gene-0.7-mRNA-1
-scf7180006951918	dust	repeat_region	211	217	.	-	.	
-scf7180006951918	dust	repeat_region	1366	1372	.	-	.	
-scf7180006951918	dust	repeat_region	3518	3524	.	-	.	
-scf7180006951918	dust	repeat_region	3698	3705	.	-	.	
-scf7180006951918	dust	repeat_region	5547	5624	.	-	.	
-scf7180006951918	dust	repeat_region	6466	6473	.	-	.	
-scf7180006951918	dust	repeat_region	10139	10153	.	-	.	
-scf7180006951918	dust	repeat_region	10408	10464	.	-	.	
-scf7180006951918	dust	repeat_region	10870	10878	.	-	.	
-scf7180006951918	dust	repeat_region	12021	12027	.	-	.	
-scf7180006951918	dust	repeat_region	15347	15424	.	-	.	
-scf7180006951918	dust	repeat_region	16232	16243	.	-	.	
-scf7180006951918	dust	repeat_region	16430	16437	.	-	.	
-scf7180006951918	dust	repeat_region	17024	17086	.	-	.	
-scf7180006951918	dust	repeat_region	17411	17417	.	-	.	
-scf7180006951918	dust	repeat_region	17456	17462	.	-	.	
-scf7180006951918	dust	repeat_region	18444	18450	.	-	.	
-scf7180006951918	dust	repeat_region	19563	19569	.	-	.	
-scf7180006951918	dust	repeat_region	21668	21731	.	-	.	
-scf7180006951918	dust	repeat_region	22607	22656	.	-	.	
-scf7180006951918	dust	repeat_region	23219	23225	.	-	.	
-scf7180006951918	dust	repeat_region	23287	23293	.	-	.	
-scf7180006951918	dust	repeat_region	23494	23500	.	-	.	
-scf7180006951918	trf	tandem_repeat	23867	23908	61	-	.	
-scf7180006951918	dust	repeat_region	25543	25549	.	-	.	
-scf7180006951918	dust	repeat_region	26000	26006	.	-	.	
-scf7180006951918	dust	repeat_region	26899	26910	.	-	.	
-scf7180006951918	dust	repeat_region	26914	26929	.	-	.	
-scf7180006951918	dust	repeat_region	27018	27063	.	-	.	
-scf7180006951918	dust	repeat_region	27237	27244	.	-	.	
 scf7180006948543	WormBase_imported	gene	1336	12529	.	+	.	ID=gene:snap_masked-scf7180006948543-processed-gene-0.4;Name=snap_masked-scf7180006948543-processed-gene-0.4;biotype=protein_coding
 scf7180006948543	WormBase_imported	mRNA	1336	12529	.	+	.	ID=transcript:snap_masked-scf7180006948543-processed-gene-0.4-mRNA-1;Parent=gene:snap_masked-scf7180006948543-processed-gene-0.4;Name=snap_masked-scf7180006948543-processed-gene-0.4-mRNA-1
 #microexons transcript:snap_masked-scf7180006948543-processed-gene-0.4-mRNA-1:  307 167 56 82 24-9-6
@@ -1468,46 +995,6 @@ scf7180006951948	WormBase_imported	CDS	16844	16858	.	-	2	ID=cds:snap_masked-scf7
 scf7180006951948	WormBase_imported	CDS	16652	16817	.	-	2	ID=cds:snap_masked-scf7180006951948-processed-gene-0.6-mRNA-1;Parent=transcript:snap_masked-scf7180006951948-processed-gene-0.6-mRNA-1
 scf7180006951948	WormBase_imported	CDS	15501	15543	.	-	1	ID=cds:snap_masked-scf7180006951948-processed-gene-0.6-mRNA-1;Parent=transcript:snap_masked-scf7180006951948-processed-gene-0.6-mRNA-1
 scf7180006951948	WormBase_imported	CDS	14297	14380	.	-	0	ID=cds:snap_masked-scf7180006951948-processed-gene-0.6-mRNA-1;Parent=transcript:snap_masked-scf7180006951948-processed-gene-0.6-mRNA-1
-scf7180006951948	dust	repeat_region	149	198	.	-	.	
-scf7180006951948	dust	repeat_region	515	522	.	-	.	
-scf7180006951948	dust	repeat_region	1206	1287	.	-	.	
-scf7180006951948	dust	repeat_region	2005	2086	.	-	.	
-scf7180006951948	dust	repeat_region	2586	2592	.	-	.	
-scf7180006951948	dust	repeat_region	2716	2722	.	-	.	
-scf7180006951948	dust	repeat_region	3193	3205	.	-	.	
-scf7180006951948	dust	repeat_region	3654	3660	.	-	.	
-scf7180006951948	dust	repeat_region	4972	5011	.	-	.	
-scf7180006951948	dust	repeat_region	5265	5336	.	-	.	
-scf7180006951948	dust	repeat_region	5881	5889	.	-	.	
-scf7180006951948	dust	repeat_region	6346	6352	.	-	.	
-scf7180006951948	dust	repeat_region	6866	6876	.	-	.	
-scf7180006951948	dust	repeat_region	7357	7452	.	-	.	
-scf7180006951948	dust	repeat_region	8377	8383	.	-	.	
-scf7180006951948	dust	repeat_region	8990	8996	.	-	.	
-scf7180006951948	dust	repeat_region	9236	9242	.	-	.	
-scf7180006951948	dust	repeat_region	10900	10964	.	-	.	
-scf7180006951948	dust	repeat_region	12129	12135	.	-	.	
-scf7180006951948	dust	repeat_region	12510	12516	.	-	.	
-scf7180006951948	dust	repeat_region	12770	12781	.	-	.	
-scf7180006951948	dust	repeat_region	12853	12859	.	-	.	
-scf7180006951948	dust	repeat_region	13609	13616	.	-	.	
-scf7180006951948	dust	repeat_region	14209	14215	.	-	.	
-scf7180006951948	dust	repeat_region	14522	14529	.	-	.	
-scf7180006951948	dust	repeat_region	15464	15471	.	-	.	
-scf7180006951948	dust	repeat_region	15746	15752	.	-	.	
-scf7180006951948	dust	repeat_region	15776	15782	.	-	.	
-scf7180006951948	dust	repeat_region	16112	16119	.	-	.	
-scf7180006951948	dust	repeat_region	18594	18600	.	-	.	
-scf7180006951948	dust	repeat_region	18689	18695	.	-	.	
-scf7180006951948	dust	repeat_region	19341	19347	.	-	.	
-scf7180006951948	dust	repeat_region	21164	21170	.	-	.	
-scf7180006951948	dust	repeat_region	21248	21254	.	-	.	
-scf7180006951948	dust	repeat_region	21511	21536	.	-	.	
-scf7180006951948	dust	repeat_region	22249	22255	.	-	.	
-scf7180006951948	dust	repeat_region	22258	22265	.	-	.	
-scf7180006951948	dust	repeat_region	22304	22393	.	-	.	
-scf7180006951948	dust	repeat_region	22750	22756	.	-	.	
-scf7180006951948	dust	repeat_region	23271	23277	.	-	.	
 scf7180006952664	WormBase_imported	gene	6118	9889	.	+	.	ID=gene:snap_masked-scf7180006952664-processed-gene-0.5;Name=snap_masked-scf7180006952664-processed-gene-0.5;biotype=protein_coding
 scf7180006952664	WormBase_imported	mRNA	6118	9889	.	+	.	ID=transcript:snap_masked-scf7180006952664-processed-gene-0.5-mRNA-1;Parent=gene:snap_masked-scf7180006952664-processed-gene-0.5;Name=snap_masked-scf7180006952664-processed-gene-0.5-mRNA-1
 #microexons transcript:snap_masked-scf7180006952664-processed-gene-0.5-mRNA-1:  18 128 79 67 74 9-30-9
@@ -1569,45 +1056,6 @@ scf7180006949593	WormBase_imported	CDS	12526	12544	.	-	0	ID=cds:snap_masked-scf7
 scf7180006949593	WormBase_imported	CDS	12185	12194	.	-	2	ID=cds:snap_masked-scf7180006949593-processed-gene-0.8-mRNA-1;Parent=transcript:snap_masked-scf7180006949593-processed-gene-0.8-mRNA-1
 scf7180006949593	WormBase_imported	CDS	11834	11897	.	-	1	ID=cds:snap_masked-scf7180006949593-processed-gene-0.8-mRNA-1;Parent=transcript:snap_masked-scf7180006949593-processed-gene-0.8-mRNA-1
 scf7180006949593	WormBase_imported	CDS	7701	7721	.	-	0	ID=cds:snap_masked-scf7180006949593-processed-gene-0.8-mRNA-1;Parent=transcript:snap_masked-scf7180006949593-processed-gene-0.8-mRNA-1
-scf7180006949593	dust	repeat_region	535	541	.	-	.	
-scf7180006949593	dust	repeat_region	2410	2416	.	-	.	
-scf7180006949593	dust	repeat_region	2967	2989	.	-	.	
-scf7180006949593	dust	repeat_region	3914	3921	.	-	.	
-scf7180006949593	trf	tandem_repeat	3947	3997	58	-	.	
-scf7180006949593	dust	repeat_region	3947	3981	.	-	.	
-scf7180006949593	dust	repeat_region	4167	4174	.	-	.	
-scf7180006949593	dust	repeat_region	5364	5370	.	-	.	
-scf7180006949593	dust	repeat_region	5606	5625	.	-	.	
-scf7180006949593	dust	repeat_region	6402	6409	.	-	.	
-scf7180006949593	dust	repeat_region	7089	7095	.	-	.	
-scf7180006949593	dust	repeat_region	7179	7185	.	-	.	
-scf7180006949593	dust	repeat_region	7796	7802	.	-	.	
-scf7180006949593	dust	repeat_region	8084	8090	.	-	.	
-scf7180006949593	dust	repeat_region	9026	9107	.	-	.	
-scf7180006949593	trf	tandem_repeat	9036	9096	78	-	.	
-scf7180006949593	dust	repeat_region	9357	9365	.	-	.	
-scf7180006949593	dust	repeat_region	9493	9499	.	-	.	
-scf7180006949593	dust	repeat_region	10126	10132	.	-	.	
-scf7180006949593	repeatmasker	repeat_region	10878	10935	229	+	.	Name=Looper;repeat_class=DNA/PiggyBac
-scf7180006949593	dust	repeat_region	11157	11176	.	-	.	
-scf7180006949593	trf	tandem_repeat	12381	12416	51	-	.	
-scf7180006949593	dust	repeat_region	12513	12519	.	-	.	
-scf7180006949593	dust	repeat_region	12558	12564	.	-	.	
-scf7180006949593	dust	repeat_region	13002	13008	.	-	.	
-scf7180006949593	dust	repeat_region	14010	14047	.	-	.	
-scf7180006949593	dust	repeat_region	14992	15039	.	-	.	
-scf7180006949593	dust	repeat_region	15146	15153	.	-	.	
-scf7180006949593	dust	repeat_region	15319	15326	.	-	.	
-scf7180006949593	dust	repeat_region	15950	15956	.	-	.	
-scf7180006949593	dust	repeat_region	15994	16001	.	-	.	
-scf7180006949593	dust	repeat_region	16356	16362	.	-	.	
-scf7180006949593	dust	repeat_region	18819	18828	.	-	.	
-scf7180006949593	dust	repeat_region	19101	19109	.	-	.	
-scf7180006949593	dust	repeat_region	19701	19747	.	-	.	
-scf7180006949593	trf	tandem_repeat	19941	19960	40	-	.	
-scf7180006949593	dust	repeat_region	20090	20097	.	-	.	
-scf7180006949593	dust	repeat_region	20270	20322	.	-	.	
-scf7180006949593	dust	repeat_region	22493	22499	.	-	.	
 scf7180006949533	WormBase_imported	gene	13465	19022	.	+	.	ID=gene:snap_masked-scf7180006949533-processed-gene-0.9;Name=snap_masked-scf7180006949533-processed-gene-0.9;biotype=protein_coding
 scf7180006949533	WormBase_imported	mRNA	13465	19022	.	+	.	ID=transcript:snap_masked-scf7180006949533-processed-gene-0.9-mRNA-1;Parent=gene:snap_masked-scf7180006949533-processed-gene-0.9;Name=snap_masked-scf7180006949533-processed-gene-0.9-mRNA-1
 #microexons transcript:snap_masked-scf7180006949533-processed-gene-0.9-mRNA-1:  868 26 12-15-27 50 13
@@ -1625,30 +1073,6 @@ scf7180006949533	WormBase_imported	CDS	16092	16106	.	+	0	ID=cds:snap_masked-scf7
 scf7180006949533	WormBase_imported	CDS	16604	16630	.	+	0	ID=cds:snap_masked-scf7180006949533-processed-gene-0.9-mRNA-1;Parent=transcript:snap_masked-scf7180006949533-processed-gene-0.9-mRNA-1
 scf7180006949533	WormBase_imported	CDS	17439	17488	.	+	0	ID=cds:snap_masked-scf7180006949533-processed-gene-0.9-mRNA-1;Parent=transcript:snap_masked-scf7180006949533-processed-gene-0.9-mRNA-1
 scf7180006949533	WormBase_imported	CDS	19010	19022	.	+	1	ID=cds:snap_masked-scf7180006949533-processed-gene-0.9-mRNA-1;Parent=transcript:snap_masked-scf7180006949533-processed-gene-0.9-mRNA-1
-scf7180006949533	dust	repeat_region	1566	1572	.	-	.	
-scf7180006949533	dust	repeat_region	1931	1937	.	-	.	
-scf7180006949533	dust	repeat_region	4059	4065	.	-	.	
-scf7180006949533	dust	repeat_region	4834	4840	.	-	.	
-scf7180006949533	dust	repeat_region	9118	9125	.	-	.	
-scf7180006949533	dust	repeat_region	10876	10897	.	-	.	
-scf7180006949533	dust	repeat_region	10977	10983	.	-	.	
-scf7180006949533	dust	repeat_region	11875	11885	.	-	.	
-scf7180006949533	dust	repeat_region	12175	12243	.	-	.	
-scf7180006949533	dust	repeat_region	12939	12946	.	-	.	
-scf7180006949533	dust	repeat_region	13103	13173	.	-	.	
-scf7180006949533	dust	repeat_region	14403	14411	.	-	.	
-scf7180006949533	dust	repeat_region	14450	14459	.	-	.	
-scf7180006949533	dust	repeat_region	15385	15450	.	-	.	
-scf7180006949533	dust	repeat_region	17494	17558	.	-	.	
-scf7180006949533	dust	repeat_region	18021	18035	.	-	.	
-scf7180006949533	dust	repeat_region	19074	19135	.	-	.	
-scf7180006949533	dust	repeat_region	19214	19220	.	-	.	
-scf7180006949533	dust	repeat_region	19389	19395	.	-	.	
-scf7180006949533	dust	repeat_region	20951	21019	.	-	.	
-scf7180006949533	dust	repeat_region	21142	21148	.	-	.	
-scf7180006949533	dust	repeat_region	21462	21468	.	-	.	
-scf7180006949533	dust	repeat_region	21579	21585	.	-	.	
-scf7180006949533	dust	repeat_region	22057	22066	.	-	.	
 scf7180006950134	WormBase_imported	gene	4921	10536	.	+	.	ID=gene:snap_masked-scf7180006950134-processed-gene-0.5;Name=snap_masked-scf7180006950134-processed-gene-0.5;biotype=protein_coding
 scf7180006950134	WormBase_imported	mRNA	4921	10536	.	+	.	ID=transcript:snap_masked-scf7180006950134-processed-gene-0.5-mRNA-1;Parent=gene:snap_masked-scf7180006950134-processed-gene-0.5;Name=snap_masked-scf7180006950134-processed-gene-0.5-mRNA-1
 #microexons transcript:snap_masked-scf7180006950134-processed-gene-0.5-mRNA-1:  24-15-9-12 231 162 24-24-24 53 149 161 24
@@ -1711,55 +1135,6 @@ scf7180006951939	WormBase_imported	CDS	15681	15707	.	+	2	ID=cds:snap_masked-scf7
 scf7180006951939	WormBase_imported	CDS	16012	16038	.	+	2	ID=cds:snap_masked-scf7180006951939-processed-gene-0.6-mRNA-1;Parent=transcript:snap_masked-scf7180006951939-processed-gene-0.6-mRNA-1
 scf7180006951939	WormBase_imported	CDS	17612	17635	.	+	2	ID=cds:snap_masked-scf7180006951939-processed-gene-0.6-mRNA-1;Parent=transcript:snap_masked-scf7180006951939-processed-gene-0.6-mRNA-1
 scf7180006951939	WormBase_imported	CDS	18493	18533	.	+	2	ID=cds:snap_masked-scf7180006951939-processed-gene-0.6-mRNA-1;Parent=transcript:snap_masked-scf7180006951939-processed-gene-0.6-mRNA-1
-scf7180006951939	cmscan_rfam_12.2	nucleotide_match	222	295	59	+	.	ID=cmscan_rfam_12.2.162;Name=tRNA;Target=tRNA 1 71;Gap=M19 I M10 I M16 I M26 
-scf7180006951939	repeatmasker	repeat_region	224	292	384	+	.	Name=tRNA-Thr-ACA;repeat_class=tRNA
-scf7180006951939	dust	repeat_region	907	914	.	-	.	
-scf7180006951939	dust	repeat_region	1271	1279	.	-	.	
-scf7180006951939	dust	repeat_region	4156	4162	.	-	.	
-scf7180006951939	dust	repeat_region	5336	5342	.	-	.	
-scf7180006951939	dust	repeat_region	5440	5459	.	-	.	
-scf7180006951939	dust	repeat_region	5607	5630	.	-	.	
-scf7180006951939	dust	repeat_region	5728	5840	.	-	.	
-scf7180006951939	dust	repeat_region	6059	6121	.	-	.	
-scf7180006951939	dust	repeat_region	6526	6532	.	-	.	
-scf7180006951939	dust	repeat_region	7016	7022	.	-	.	
-scf7180006951939	dust	repeat_region	7122	7128	.	-	.	
-scf7180006951939	dust	repeat_region	7249	7302	.	-	.	
-scf7180006951939	dust	repeat_region	7413	7427	.	-	.	
-scf7180006951939	dust	repeat_region	7716	7728	.	-	.	
-scf7180006951939	dust	repeat_region	8127	8177	.	-	.	
-scf7180006951939	dust	repeat_region	8268	8384	.	-	.	
-scf7180006951939	trf	tandem_repeat	8297	8343	55	-	.	
-scf7180006951939	dust	repeat_region	8593	8599	.	-	.	
-scf7180006951939	dust	repeat_region	9481	9487	.	-	.	
-scf7180006951939	dust	repeat_region	10824	10830	.	-	.	
-scf7180006951939	dust	repeat_region	10879	10901	.	-	.	
-scf7180006951939	dust	repeat_region	11802	11809	.	-	.	
-scf7180006951939	dust	repeat_region	12286	12292	.	-	.	
-scf7180006951939	trf	tandem_repeat	12416	12454	50	-	.	
-scf7180006951939	dust	repeat_region	12675	12681	.	-	.	
-scf7180006951939	dust	repeat_region	12801	12808	.	-	.	
-scf7180006951939	dust	repeat_region	13232	13238	.	-	.	
-scf7180006951939	dust	repeat_region	13269	13277	.	-	.	
-scf7180006951939	dust	repeat_region	13319	13338	.	-	.	
-scf7180006951939	dust	repeat_region	13442	13489	.	-	.	
-scf7180006951939	dust	repeat_region	13516	13578	.	-	.	
-scf7180006951939	dust	repeat_region	13632	13638	.	-	.	
-scf7180006951939	dust	repeat_region	14265	14271	.	-	.	
-scf7180006951939	dust	repeat_region	14284	14291	.	-	.	
-scf7180006951939	dust	repeat_region	14428	14435	.	-	.	
-scf7180006951939	dust	repeat_region	14620	14626	.	-	.	
-scf7180006951939	dust	repeat_region	15025	15031	.	-	.	
-scf7180006951939	dust	repeat_region	15911	15917	.	-	.	
-scf7180006951939	dust	repeat_region	16906	16912	.	-	.	
-scf7180006951939	dust	repeat_region	17582	17588	.	-	.	
-scf7180006951939	dust	repeat_region	18154	18160	.	-	.	
-scf7180006951939	dust	repeat_region	19069	19075	.	-	.	
-scf7180006951939	dust	repeat_region	19232	19301	.	-	.	
-scf7180006951939	dust	repeat_region	19445	19451	.	-	.	
-scf7180006951939	dust	repeat_region	20966	20972	.	-	.	
-scf7180006951939	dust	repeat_region	21221	21227	.	-	.	
-scf7180006951939	dust	repeat_region	21868	21875	.	-	.	
 scf7180006950277	WormBase_imported	gene	4368	7403	.	+	.	ID=gene:snap_masked-scf7180006950277-processed-gene-0.3;Name=snap_masked-scf7180006950277-processed-gene-0.3;biotype=protein_coding
 scf7180006950277	WormBase_imported	mRNA	4368	7403	.	+	.	ID=transcript:snap_masked-scf7180006950277-processed-gene-0.3-mRNA-1;Parent=gene:snap_masked-scf7180006950277-processed-gene-0.3;Name=snap_masked-scf7180006950277-processed-gene-0.3-mRNA-1
 #microexons transcript:snap_masked-scf7180006950277-processed-gene-0.3-mRNA-1:  61 18-21-15 99 116
@@ -1818,25 +1193,6 @@ scf7180006950277	WormBase_imported	CDS	14675	14734	.	+	2	ID=cds:snap_masked-scf7
 scf7180006950277	WormBase_imported	CDS	15454	15567	.	+	2	ID=cds:snap_masked-scf7180006950277-processed-gene-0.4-mRNA-1;Parent=transcript:snap_masked-scf7180006950277-processed-gene-0.4-mRNA-1
 scf7180006950277	WormBase_imported	CDS	15790	15828	.	+	2	ID=cds:snap_masked-scf7180006950277-processed-gene-0.4-mRNA-1;Parent=transcript:snap_masked-scf7180006950277-processed-gene-0.4-mRNA-1
 scf7180006950277	WormBase_imported	CDS	15916	16010	.	+	2	ID=cds:snap_masked-scf7180006950277-processed-gene-0.4-mRNA-1;Parent=transcript:snap_masked-scf7180006950277-processed-gene-0.4-mRNA-1
-scf7180006950277	trf	tandem_repeat	263	282	40	-	.	
-scf7180006950277	dust	repeat_region	1860	1866	.	-	.	
-scf7180006950277	dust	repeat_region	1961	2044	.	-	.	
-scf7180006950277	trf	tandem_repeat	2007	2044	62	-	.	
-scf7180006950277	dust	repeat_region	3123	3131	.	-	.	
-scf7180006950277	dust	repeat_region	3298	3304	.	-	.	
-scf7180006950277	dust	repeat_region	3548	3555	.	-	.	
-scf7180006950277	dust	repeat_region	4236	4242	.	-	.	
-scf7180006950277	dust	repeat_region	5725	5731	.	-	.	
-scf7180006950277	dust	repeat_region	8217	8224	.	-	.	
-scf7180006950277	dust	repeat_region	10830	10893	.	-	.	
-scf7180006950277	dust	repeat_region	13808	13815	.	-	.	
-scf7180006950277	dust	repeat_region	14645	14651	.	-	.	
-scf7180006950277	trf	tandem_repeat	16330	16390	67	-	.	
-scf7180006950277	trf	tandem_repeat	16362	16385	41	-	.	
-scf7180006950277	dust	repeat_region	18708	18727	.	-	.	
-scf7180006950277	dust	repeat_region	18904	18912	.	-	.	
-scf7180006950277	dust	repeat_region	20049	20055	.	-	.	
-scf7180006950277	dust	repeat_region	21382	21388	.	-	.	
 scf7180006946854	WormBase_imported	gene	2196	20328	.	+	.	ID=gene:snap_masked-scf7180006946854-processed-gene-0.4;Name=snap_masked-scf7180006946854-processed-gene-0.4;biotype=protein_coding
 scf7180006946854	WormBase_imported	mRNA	2196	20328	.	+	.	ID=transcript:snap_masked-scf7180006946854-processed-gene-0.4-mRNA-1;Parent=gene:snap_masked-scf7180006946854-processed-gene-0.4;Name=snap_masked-scf7180006946854-processed-gene-0.4-mRNA-1
 #microexons transcript:snap_masked-scf7180006946854-processed-gene-0.4-mRNA-1:  5 15-24-15-18-21-18-21 48 90 28
@@ -1973,42 +1329,6 @@ scf7180006950188	WormBase_imported	CDS	19096	19131	.	+	0	ID=cds:snap_masked-scf7
 scf7180006950188	WormBase_imported	CDS	19262	19285	.	+	0	ID=cds:snap_masked-scf7180006950188-processed-gene-0.2-mRNA-1;Parent=transcript:snap_masked-scf7180006950188-processed-gene-0.2-mRNA-1
 scf7180006950188	WormBase_imported	CDS	19505	19516	.	+	0	ID=cds:snap_masked-scf7180006950188-processed-gene-0.2-mRNA-1;Parent=transcript:snap_masked-scf7180006950188-processed-gene-0.2-mRNA-1
 scf7180006950188	WormBase_imported	CDS	20655	20696	.	+	0	ID=cds:snap_masked-scf7180006950188-processed-gene-0.2-mRNA-1;Parent=transcript:snap_masked-scf7180006950188-processed-gene-0.2-mRNA-1
-scf7180006950188	dust	repeat_region	15	21	.	-	.	
-scf7180006950188	dust	repeat_region	368	374	.	-	.	
-scf7180006950188	dust	repeat_region	924	930	.	-	.	
-scf7180006950188	dust	repeat_region	1297	1304	.	-	.	
-scf7180006950188	dust	repeat_region	3345	3382	.	-	.	
-scf7180006950188	dust	repeat_region	3821	3828	.	-	.	
-scf7180006950188	dust	repeat_region	4168	4174	.	-	.	
-scf7180006950188	dust	repeat_region	4270	4276	.	-	.	
-scf7180006950188	dust	repeat_region	4556	4563	.	-	.	
-scf7180006950188	dust	repeat_region	4752	4764	.	-	.	
-scf7180006950188	dust	repeat_region	4988	4995	.	-	.	
-scf7180006950188	dust	repeat_region	5742	5748	.	-	.	
-scf7180006950188	dust	repeat_region	6155	6161	.	-	.	
-scf7180006950188	dust	repeat_region	6464	6470	.	-	.	
-scf7180006950188	dust	repeat_region	7544	7551	.	-	.	
-scf7180006950188	dust	repeat_region	8534	8541	.	-	.	
-scf7180006950188	dust	repeat_region	8815	8821	.	-	.	
-scf7180006950188	dust	repeat_region	8992	8999	.	-	.	
-scf7180006950188	dust	repeat_region	11448	11454	.	-	.	
-scf7180006950188	dust	repeat_region	11805	11811	.	-	.	
-scf7180006950188	dust	repeat_region	12027	12033	.	-	.	
-scf7180006950188	dust	repeat_region	12283	12290	.	-	.	
-scf7180006950188	repeatmasker	repeat_region	12588	12655	181	+	.	Name=X9_LINE;repeat_class=LINE/L1
-scf7180006950188	dust	repeat_region	12969	12975	.	-	.	
-scf7180006950188	dust	repeat_region	13398	13404	.	-	.	
-scf7180006950188	dust	repeat_region	13619	13625	.	-	.	
-scf7180006950188	dust	repeat_region	14562	14568	.	-	.	
-scf7180006950188	trf	tandem_repeat	14904	14943	57	-	.	
-scf7180006950188	dust	repeat_region	14904	14943	.	-	.	
-scf7180006950188	dust	repeat_region	14998	15072	.	-	.	
-scf7180006950188	dust	repeat_region	17276	17284	.	-	.	
-scf7180006950188	dust	repeat_region	18023	18030	.	-	.	
-scf7180006950188	dust	repeat_region	18478	18484	.	-	.	
-scf7180006950188	dust	repeat_region	19318	19324	.	-	.	
-scf7180006950188	dust	repeat_region	20055	20061	.	-	.	
-scf7180006950188	dust	repeat_region	20519	20525	.	-	.	
 scf7180006953366	WormBase_imported	gene	1018	20326	.	+	.	ID=gene:snap_masked-scf7180006953366-processed-gene-0.5;Name=snap_masked-scf7180006953366-processed-gene-0.5;biotype=protein_coding
 scf7180006953366	WormBase_imported	mRNA	1018	20326	.	+	.	ID=transcript:snap_masked-scf7180006953366-processed-gene-0.5-mRNA-1;Parent=gene:snap_masked-scf7180006953366-processed-gene-0.5;Name=snap_masked-scf7180006953366-processed-gene-0.5-mRNA-1;info=method:InterPro accession:IPR000719 description:Protein kinase domain %0Amethod:InterPro accession:IPR011009 description:Protein kinase-like domain superfamily %0Amethod:InterPro accession:IPR014847 description:FERM adjacent (FA) %0Amethod:InterPro accession:IPR018980 description:FERM%2C C-terminal PH-like domain
 #microexons transcript:snap_masked-scf7180006953366-processed-gene-0.5-mRNA-1:  9 36 22 8 39 135 303 126 30-18-9-15-15-15 137 75 328
@@ -2208,43 +1528,6 @@ scf7180006947706	WormBase_imported	CDS	12683	12697	.	+	0	ID=cds:snap_masked-scf7
 scf7180006947706	WormBase_imported	CDS	12929	12943	.	+	0	ID=cds:snap_masked-scf7180006947706-processed-gene-0.3-mRNA-1;Parent=transcript:snap_masked-scf7180006947706-processed-gene-0.3-mRNA-1
 scf7180006947706	WormBase_imported	CDS	13010	13027	.	+	0	ID=cds:snap_masked-scf7180006947706-processed-gene-0.3-mRNA-1;Parent=transcript:snap_masked-scf7180006947706-processed-gene-0.3-mRNA-1
 scf7180006947706	WormBase_imported	CDS	13198	13290	.	+	0	ID=cds:snap_masked-scf7180006947706-processed-gene-0.3-mRNA-1;Parent=transcript:snap_masked-scf7180006947706-processed-gene-0.3-mRNA-1
-scf7180006947706	dust	repeat_region	9	15	.	-	.	
-scf7180006947706	dust	repeat_region	660	739	.	-	.	
-scf7180006947706	dust	repeat_region	1972	2044	.	-	.	
-scf7180006947706	dust	repeat_region	3421	3470	.	-	.	
-scf7180006947706	dust	repeat_region	4049	4055	.	-	.	
-scf7180006947706	dust	repeat_region	4719	4727	.	-	.	
-scf7180006947706	dust	repeat_region	5098	5110	.	-	.	
-scf7180006947706	dust	repeat_region	5436	5477	.	-	.	
-scf7180006947706	trf	tandem_repeat	5443	5477	70	-	.	
-scf7180006947706	dust	repeat_region	5560	5566	.	-	.	
-scf7180006947706	dust	repeat_region	5618	5682	.	-	.	
-scf7180006947706	dust	repeat_region	5871	5879	.	-	.	
-scf7180006947706	dust	repeat_region	6153	6161	.	-	.	
-scf7180006947706	dust	repeat_region	6181	6193	.	-	.	
-scf7180006947706	dust	repeat_region	6420	6426	.	-	.	
-scf7180006947706	dust	repeat_region	6482	6489	.	-	.	
-scf7180006947706	dust	repeat_region	6603	6610	.	-	.	
-scf7180006947706	dust	repeat_region	6701	6714	.	-	.	
-scf7180006947706	dust	repeat_region	6775	6782	.	-	.	
-scf7180006947706	dust	repeat_region	7705	7714	.	-	.	
-scf7180006947706	dust	repeat_region	8360	8366	.	-	.	
-scf7180006947706	dust	repeat_region	9778	9840	.	-	.	
-scf7180006947706	dust	repeat_region	10186	10192	.	-	.	
-scf7180006947706	dust	repeat_region	10216	10222	.	-	.	
-scf7180006947706	dust	repeat_region	10303	10309	.	-	.	
-scf7180006947706	dust	repeat_region	11776	11795	.	-	.	
-scf7180006947706	dust	repeat_region	13000	13006	.	-	.	
-scf7180006947706	dust	repeat_region	13071	13082	.	-	.	
-scf7180006947706	dust	repeat_region	13950	14012	.	-	.	
-scf7180006947706	dust	repeat_region	14762	14769	.	-	.	
-scf7180006947706	dust	repeat_region	14844	14851	.	-	.	
-scf7180006947706	dust	repeat_region	14907	14913	.	-	.	
-scf7180006947706	dust	repeat_region	14972	14978	.	-	.	
-scf7180006947706	dust	repeat_region	15041	15099	.	-	.	
-scf7180006947706	dust	repeat_region	16404	16410	.	-	.	
-scf7180006947706	dust	repeat_region	17302	17308	.	-	.	
-scf7180006947706	dust	repeat_region	17498	17512	.	-	.	
 scf7180006950903	WormBase_imported	gene	5279	16127	.	-	.	ID=gene:snap_masked-scf7180006950903-processed-gene-0.2;Name=snap_masked-scf7180006950903-processed-gene-0.2;biotype=protein_coding
 scf7180006950903	WormBase_imported	mRNA	5279	16127	.	-	.	ID=transcript:snap_masked-scf7180006950903-processed-gene-0.2-mRNA-1;Parent=gene:snap_masked-scf7180006950903-processed-gene-0.2;Name=snap_masked-scf7180006950903-processed-gene-0.2-mRNA-1
 #microexons transcript:snap_masked-scf7180006950903-processed-gene-0.2-mRNA-1:  21 33 9 42 21-21-30 39 33 12-30 45 21-21-18-15 66 24-9-9-24-24-12-24-18-12-18-18-6 36
@@ -2308,31 +1591,6 @@ scf7180006950903	WormBase_imported	CDS	8712	8729	.	-	0	ID=cds:snap_masked-scf718
 scf7180006950903	WormBase_imported	CDS	8583	8600	.	-	0	ID=cds:snap_masked-scf7180006950903-processed-gene-0.2-mRNA-1;Parent=transcript:snap_masked-scf7180006950903-processed-gene-0.2-mRNA-1
 scf7180006950903	WormBase_imported	CDS	8498	8503	.	-	0	ID=cds:snap_masked-scf7180006950903-processed-gene-0.2-mRNA-1;Parent=transcript:snap_masked-scf7180006950903-processed-gene-0.2-mRNA-1
 scf7180006950903	WormBase_imported	CDS	5279	5314	.	-	0	ID=cds:snap_masked-scf7180006950903-processed-gene-0.2-mRNA-1;Parent=transcript:snap_masked-scf7180006950903-processed-gene-0.2-mRNA-1
-scf7180006950903	dust	repeat_region	455	461	.	-	.	
-scf7180006950903	dust	repeat_region	1419	1432	.	-	.	
-scf7180006950903	dust	repeat_region	2585	2591	.	-	.	
-scf7180006950903	dust	repeat_region	3383	3394	.	-	.	
-scf7180006950903	dust	repeat_region	4087	4093	.	-	.	
-scf7180006950903	dust	repeat_region	6658	6665	.	-	.	
-scf7180006950903	dust	repeat_region	6930	6943	.	-	.	
-scf7180006950903	dust	repeat_region	8024	8044	.	-	.	
-scf7180006950903	dust	repeat_region	8521	8528	.	-	.	
-scf7180006950903	dust	repeat_region	8948	8954	.	-	.	
-scf7180006950903	dust	repeat_region	8974	8980	.	-	.	
-scf7180006950903	dust	repeat_region	9855	9861	.	-	.	
-scf7180006950903	dust	repeat_region	10029	10036	.	-	.	
-scf7180006950903	dust	repeat_region	10049	10055	.	-	.	
-scf7180006950903	dust	repeat_region	11558	11628	.	-	.	
-scf7180006950903	dust	repeat_region	12100	12107	.	-	.	
-scf7180006950903	dust	repeat_region	12115	12121	.	-	.	
-scf7180006950903	dust	repeat_region	12493	12499	.	-	.	
-scf7180006950903	dust	repeat_region	13564	13570	.	-	.	
-scf7180006950903	dust	repeat_region	14359	14365	.	-	.	
-scf7180006950903	dust	repeat_region	15155	15161	.	-	.	
-scf7180006950903	dust	repeat_region	15393	15399	.	-	.	
-scf7180006950903	dust	repeat_region	15697	15703	.	-	.	
-scf7180006950903	dust	repeat_region	16298	16361	.	-	.	
-scf7180006950903	dust	repeat_region	16525	16538	.	-	.	
 scf7180006953180	WormBase_imported	gene	6464	15584	.	-	.	ID=gene:snap_masked-scf7180006953180-processed-gene-0.6;Name=snap_masked-scf7180006953180-processed-gene-0.6;biotype=protein_coding
 scf7180006953180	WormBase_imported	mRNA	6464	15584	.	-	.	ID=transcript:snap_masked-scf7180006953180-processed-gene-0.6-mRNA-1;Parent=gene:snap_masked-scf7180006953180-processed-gene-0.6;Name=snap_masked-scf7180006953180-processed-gene-0.6-mRNA-1
 #microexons transcript:snap_masked-scf7180006953180-processed-gene-0.6-mRNA-1:  143 15-18 33 30 17 143 31 9 19 33 15-15-15 22 90 34 15 34 15-15-27 17 138 15 42 15 57 238
@@ -2430,33 +1688,6 @@ scf7180006950975	WormBase_imported	CDS	5706	5774	.	-	2	ID=cds:snap_masked-scf718
 scf7180006950975	WormBase_imported	CDS	3554	3628	.	-	2	ID=cds:snap_masked-scf7180006950975-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006950975-processed-gene-0.1-mRNA-1
 scf7180006950975	WormBase_imported	CDS	3036	3092	.	-	2	ID=cds:snap_masked-scf7180006950975-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006950975-processed-gene-0.1-mRNA-1
 scf7180006950975	WormBase_imported	CDS	2891	2955	.	-	2	ID=cds:snap_masked-scf7180006950975-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006950975-processed-gene-0.1-mRNA-1
-scf7180006950975	dust	repeat_region	1	15	.	-	.	
-scf7180006950975	dust	repeat_region	115	121	.	-	.	
-scf7180006950975	dust	repeat_region	165	172	.	-	.	
-scf7180006950975	dust	repeat_region	299	310	.	-	.	
-scf7180006950975	dust	repeat_region	788	794	.	-	.	
-scf7180006950975	dust	repeat_region	1272	1287	.	-	.	
-scf7180006950975	dust	repeat_region	1825	1831	.	-	.	
-scf7180006950975	dust	repeat_region	1938	1949	.	-	.	
-scf7180006950975	dust	repeat_region	2528	2534	.	-	.	
-scf7180006950975	dust	repeat_region	2693	2699	.	-	.	
-scf7180006950975	dust	repeat_region	3660	3666	.	-	.	
-scf7180006950975	dust	repeat_region	3750	3756	.	-	.	
-scf7180006950975	dust	repeat_region	4454	4460	.	-	.	
-scf7180006950975	dust	repeat_region	5471	5528	.	-	.	
-scf7180006950975	dust	repeat_region	8743	8750	.	-	.	
-scf7180006950975	dust	repeat_region	8862	8868	.	-	.	
-scf7180006950975	dust	repeat_region	10145	10151	.	-	.	
-scf7180006950975	dust	repeat_region	10495	10501	.	-	.	
-scf7180006950975	dust	repeat_region	10721	10727	.	-	.	
-scf7180006950975	dust	repeat_region	10932	10938	.	-	.	
-scf7180006950975	dust	repeat_region	11616	11679	.	-	.	
-scf7180006950975	dust	repeat_region	11981	11990	.	-	.	
-scf7180006950975	dust	repeat_region	12413	12419	.	-	.	
-scf7180006950975	dust	repeat_region	13083	13090	.	-	.	
-scf7180006950975	dust	repeat_region	13513	13526	.	-	.	
-scf7180006950975	dust	repeat_region	15869	15876	.	-	.	
-scf7180006950975	dust	repeat_region	16004	16160	.	-	.	
 scf7180006953305	WormBase_imported	gene	190	5024	.	-	.	ID=gene:snap_masked-scf7180006953305-processed-gene-0.5;Name=snap_masked-scf7180006953305-processed-gene-0.5;biotype=protein_coding
 scf7180006953305	WormBase_imported	mRNA	190	5024	.	-	.	ID=transcript:snap_masked-scf7180006953305-processed-gene-0.5-mRNA-1;Parent=gene:snap_masked-scf7180006953305-processed-gene-0.5;Name=snap_masked-scf7180006953305-processed-gene-0.5-mRNA-1
 #microexons transcript:snap_masked-scf7180006953305-processed-gene-0.5-mRNA-1:  6-12-6 10 12 81 45 45 17
@@ -2565,36 +1796,6 @@ scf7180006953266	WormBase_imported	CDS	12069	12083	.	+	0	ID=cds:snap_masked-scf7
 scf7180006953266	WormBase_imported	CDS	13957	14014	.	+	0	ID=cds:snap_masked-scf7180006953266-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006953266-processed-gene-0.1-mRNA-1
 scf7180006953266	WormBase_imported	CDS	14054	14083	.	+	2	ID=cds:snap_masked-scf7180006953266-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006953266-processed-gene-0.1-mRNA-1
 scf7180006953266	WormBase_imported	CDS	14676	14695	.	+	2	ID=cds:snap_masked-scf7180006953266-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006953266-processed-gene-0.1-mRNA-1
-scf7180006953266	cmscan_rfam_12.2	nucleotide_match	8406	8522	46.9	+	.	ID=cmscan_rfam_12.2.203;Name=mir-186;Target=mir-186 1 93;Gap=M48 D34 I9 M18 D M17 
-scf7180006953266	dust	repeat_region	79	86	.	-	.	
-scf7180006953266	dust	repeat_region	976	982	.	-	.	
-scf7180006953266	dust	repeat_region	1151	1159	.	-	.	
-scf7180006953266	dust	repeat_region	2057	2063	.	-	.	
-scf7180006953266	dust	repeat_region	2411	2417	.	-	.	
-scf7180006953266	dust	repeat_region	2488	2496	.	-	.	
-scf7180006953266	dust	repeat_region	2581	2588	.	-	.	
-scf7180006953266	dust	repeat_region	2995	3002	.	-	.	
-scf7180006953266	dust	repeat_region	3971	3979	.	-	.	
-scf7180006953266	dust	repeat_region	4112	4118	.	-	.	
-scf7180006953266	dust	repeat_region	4612	4620	.	-	.	
-scf7180006953266	dust	repeat_region	4628	4634	.	-	.	
-scf7180006953266	dust	repeat_region	5839	5845	.	-	.	
-scf7180006953266	dust	repeat_region	6712	6718	.	-	.	
-scf7180006953266	dust	repeat_region	7325	7331	.	-	.	
-scf7180006953266	dust	repeat_region	8073	8079	.	-	.	
-scf7180006953266	dust	repeat_region	8321	8327	.	-	.	
-scf7180006953266	dust	repeat_region	9799	9819	.	-	.	
-scf7180006953266	dust	repeat_region	10137	10143	.	-	.	
-scf7180006953266	dust	repeat_region	10159	10168	.	-	.	
-scf7180006953266	dust	repeat_region	10645	10695	.	-	.	
-scf7180006953266	dust	repeat_region	11245	11251	.	-	.	
-scf7180006953266	dust	repeat_region	11790	11801	.	-	.	
-scf7180006953266	dust	repeat_region	11854	11860	.	-	.	
-scf7180006953266	dust	repeat_region	12054	12060	.	-	.	
-scf7180006953266	dust	repeat_region	12441	12448	.	-	.	
-scf7180006953266	dust	repeat_region	12657	12724	.	-	.	
-scf7180006953266	dust	repeat_region	13048	13054	.	-	.	
-scf7180006953266	dust	repeat_region	13753	13761	.	-	.	
 scf7180006952974	WormBase_imported	gene	6928	12831	.	+	.	ID=gene:snap_masked-scf7180006952974-processed-gene-0.1;Name=snap_masked-scf7180006952974-processed-gene-0.1;biotype=protein_coding
 scf7180006952974	WormBase_imported	mRNA	6928	12831	.	+	.	ID=transcript:snap_masked-scf7180006952974-processed-gene-0.1-mRNA-1;Parent=gene:snap_masked-scf7180006952974-processed-gene-0.1;Name=snap_masked-scf7180006952974-processed-gene-0.1-mRNA-1;info=method:InterPro accession:IPR003599 description:Immunoglobulin subtype %0Amethod:InterPro accession:IPR007110 description:Immunoglobulin-like domain %0Amethod:InterPro accession:IPR013106 description:Immunoglobulin V-set domain %0Amethod:InterPro accession:IPR013783 description:Immunoglobulin-like fold %0Amethod:InterPro accession:IPR036179 description:Immunoglobulin-like domain superfamily
 #microexons transcript:snap_masked-scf7180006952974-processed-gene-0.1-mRNA-1:  77 103 292 135 119 9-12-21
@@ -2614,29 +1815,6 @@ scf7180006952974	WormBase_imported	CDS	10273	10391	.	+	2	ID=cds:snap_masked-scf7
 scf7180006952974	WormBase_imported	CDS	12295	12303	.	+	0	ID=cds:snap_masked-scf7180006952974-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006952974-processed-gene-0.1-mRNA-1
 scf7180006952974	WormBase_imported	CDS	12384	12395	.	+	0	ID=cds:snap_masked-scf7180006952974-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006952974-processed-gene-0.1-mRNA-1
 scf7180006952974	WormBase_imported	CDS	12811	12831	.	+	0	ID=cds:snap_masked-scf7180006952974-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006952974-processed-gene-0.1-mRNA-1
-scf7180006952974	dust	repeat_region	406	412	.	-	.	
-scf7180006952974	dust	repeat_region	544	559	.	-	.	
-scf7180006952974	dust	repeat_region	2088	2094	.	-	.	
-scf7180006952974	dust	repeat_region	3287	3293	.	-	.	
-scf7180006952974	dust	repeat_region	4149	4155	.	-	.	
-scf7180006952974	dust	repeat_region	4975	4995	.	-	.	
-scf7180006952974	dust	repeat_region	5418	5424	.	-	.	
-scf7180006952974	dust	repeat_region	5798	5810	.	-	.	
-scf7180006952974	dust	repeat_region	5878	5884	.	-	.	
-scf7180006952974	dust	repeat_region	6556	6562	.	-	.	
-scf7180006952974	trf	tandem_repeat	7107	7161	57	-	.	
-scf7180006952974	dust	repeat_region	7365	7429	.	-	.	
-scf7180006952974	dust	repeat_region	8553	8630	.	-	.	
-scf7180006952974	trf	tandem_repeat	8564	8615	67	-	.	
-scf7180006952974	dust	repeat_region	8689	8701	.	-	.	
-scf7180006952974	dust	repeat_region	10480	10487	.	-	.	
-scf7180006952974	dust	repeat_region	11003	11010	.	-	.	
-scf7180006952974	dust	repeat_region	11329	11390	.	-	.	
-scf7180006952974	dust	repeat_region	12645	12698	.	-	.	
-scf7180006952974	dust	repeat_region	13484	13490	.	-	.	
-scf7180006952974	dust	repeat_region	13784	13790	.	-	.	
-scf7180006952974	dust	repeat_region	13899	13906	.	-	.	
-scf7180006952974	dust	repeat_region	14355	14415	.	-	.	
 scf7180006950590	WormBase_imported	gene	461	13739	.	-	.	ID=gene:snap_masked-scf7180006950590-processed-gene-0.2;Name=snap_masked-scf7180006950590-processed-gene-0.2;biotype=protein_coding
 scf7180006950590	WormBase_imported	mRNA	461	13739	.	-	.	ID=transcript:snap_masked-scf7180006950590-processed-gene-0.2-mRNA-1;Parent=gene:snap_masked-scf7180006950590-processed-gene-0.2;Name=snap_masked-scf7180006950590-processed-gene-0.2-mRNA-1;info=method:InterPro accession:IPR011050 description:Pectin lyase fold/virulence factor %0Amethod:InterPro accession:IPR016186 description:C-type lectin-like/link domain superfamily %0Amethod:InterPro accession:IPR016187 description:C-type lectin fold
 #microexons transcript:snap_masked-scf7180006950590-processed-gene-0.2-mRNA-1:  6 193 366 346 241 265 224 94 11 12-6-24-12-9-15-15-15 33 21-21-24-15 54 45 21
@@ -2871,29 +2049,6 @@ scf7180006950414	WormBase_imported	CDS	7969	8010	.	-	2	ID=cds:snap_masked-scf718
 scf7180006950414	WormBase_imported	CDS	7632	7658	.	-	2	ID=cds:snap_masked-scf7180006950414-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006950414-processed-gene-0.1-mRNA-1
 scf7180006950414	WormBase_imported	CDS	7495	7518	.	-	2	ID=cds:snap_masked-scf7180006950414-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006950414-processed-gene-0.1-mRNA-1
 scf7180006950414	WormBase_imported	CDS	663	706	.	-	2	ID=cds:snap_masked-scf7180006950414-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006950414-processed-gene-0.1-mRNA-1
-scf7180006950414	dust	repeat_region	502	516	.	-	.	
-scf7180006950414	dust	repeat_region	785	811	.	-	.	
-scf7180006950414	dust	repeat_region	840	846	.	-	.	
-scf7180006950414	dust	repeat_region	1359	1365	.	-	.	
-scf7180006950414	dust	repeat_region	2012	2019	.	-	.	
-scf7180006950414	dust	repeat_region	2327	2389	.	-	.	
-scf7180006950414	dust	repeat_region	2570	2582	.	-	.	
-scf7180006950414	dust	repeat_region	2596	2608	.	-	.	
-scf7180006950414	dust	repeat_region	2630	2678	.	-	.	
-scf7180006950414	dust	repeat_region	3212	3218	.	-	.	
-scf7180006950414	dust	repeat_region	3627	3634	.	-	.	
-scf7180006950414	dust	repeat_region	4715	4721	.	-	.	
-scf7180006950414	dust	repeat_region	5081	5087	.	-	.	
-scf7180006950414	dust	repeat_region	5133	5139	.	-	.	
-scf7180006950414	dust	repeat_region	6163	6170	.	-	.	
-scf7180006950414	dust	repeat_region	6527	6544	.	-	.	
-scf7180006950414	dust	repeat_region	6896	6902	.	-	.	
-scf7180006950414	dust	repeat_region	7444	7450	.	-	.	
-scf7180006950414	dust	repeat_region	7522	7528	.	-	.	
-scf7180006950414	dust	repeat_region	7990	8054	.	-	.	
-scf7180006950414	dust	repeat_region	8374	8380	.	-	.	
-scf7180006950414	dust	repeat_region	8770	8776	.	-	.	
-scf7180006950414	dust	repeat_region	11798	11861	.	-	.	
 scf7180006947377	WormBase_imported	gene	868	4704	.	+	.	ID=gene:snap_masked-scf7180006947377-processed-gene-0.2;Name=snap_masked-scf7180006947377-processed-gene-0.2;biotype=protein_coding
 scf7180006947377	WormBase_imported	mRNA	868	4704	.	+	.	ID=transcript:snap_masked-scf7180006947377-processed-gene-0.2-mRNA-1;Parent=gene:snap_masked-scf7180006947377-processed-gene-0.2;Name=snap_masked-scf7180006947377-processed-gene-0.2-mRNA-1
 #microexons transcript:snap_masked-scf7180006947377-processed-gene-0.2-mRNA-1:  21 36 9-9 33 15-9-21 39 24-21 33
@@ -2972,22 +2127,6 @@ scf7180006947377	WormBase_imported	CDS	10156	10167	.	+	0	ID=cds:snap_masked-scf7
 scf7180006947377	WormBase_imported	CDS	11394	11408	.	+	0	ID=cds:snap_masked-scf7180006947377-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006947377-processed-gene-0.1-mRNA-1
 scf7180006947377	WormBase_imported	CDS	11524	11547	.	+	0	ID=cds:snap_masked-scf7180006947377-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006947377-processed-gene-0.1-mRNA-1
 scf7180006947377	WormBase_imported	CDS	11766	11783	.	+	0	ID=cds:snap_masked-scf7180006947377-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006947377-processed-gene-0.1-mRNA-1
-scf7180006947377	trf	tandem_repeat	638	704	90	-	.	
-scf7180006947377	dust	repeat_region	647	695	.	-	.	
-scf7180006947377	dust	repeat_region	701	707	.	-	.	
-scf7180006947377	dust	repeat_region	1935	1941	.	-	.	
-scf7180006947377	dust	repeat_region	2280	2287	.	-	.	
-scf7180006947377	dust	repeat_region	2646	2654	.	-	.	
-scf7180006947377	dust	repeat_region	2775	2793	.	-	.	
-scf7180006947377	dust	repeat_region	2939	2945	.	-	.	
-scf7180006947377	dust	repeat_region	4594	4602	.	-	.	
-scf7180006947377	dust	repeat_region	4954	4962	.	-	.	
-scf7180006947377	dust	repeat_region	7517	7523	.	-	.	
-scf7180006947377	dust	repeat_region	8875	8891	.	-	.	
-scf7180006947377	dust	repeat_region	9413	9421	.	-	.	
-scf7180006947377	dust	repeat_region	9601	9607	.	-	.	
-scf7180006947377	dust	repeat_region	10534	10566	.	-	.	
-scf7180006947377	dust	repeat_region	12085	12092	.	-	.	
 scf7180006950848	WormBase_imported	gene	8699	11858	.	+	.	ID=gene:snap_masked-scf7180006950848-processed-gene-0.5;Name=snap_masked-scf7180006950848-processed-gene-0.5;biotype=protein_coding
 scf7180006950848	WormBase_imported	mRNA	8699	11858	.	+	.	ID=transcript:snap_masked-scf7180006950848-processed-gene-0.5-mRNA-1;Parent=gene:snap_masked-scf7180006950848-processed-gene-0.5;Name=snap_masked-scf7180006950848-processed-gene-0.5-mRNA-1
 #microexons transcript:snap_masked-scf7180006950848-processed-gene-0.5-mRNA-1:  276 199 8 24-24-6 28 35 6
@@ -3009,20 +2148,6 @@ scf7180006950848	WormBase_imported	CDS	10563	10568	.	+	0	ID=cds:snap_masked-scf7
 scf7180006950848	WormBase_imported	CDS	10743	10770	.	+	0	ID=cds:snap_masked-scf7180006950848-processed-gene-0.5-mRNA-1;Parent=transcript:snap_masked-scf7180006950848-processed-gene-0.5-mRNA-1
 scf7180006950848	WormBase_imported	CDS	11702	11736	.	+	2	ID=cds:snap_masked-scf7180006950848-processed-gene-0.5-mRNA-1;Parent=transcript:snap_masked-scf7180006950848-processed-gene-0.5-mRNA-1
 scf7180006950848	WormBase_imported	CDS	11853	11858	.	+	0	ID=cds:snap_masked-scf7180006950848-processed-gene-0.5-mRNA-1;Parent=transcript:snap_masked-scf7180006950848-processed-gene-0.5-mRNA-1
-scf7180006950848	dust	repeat_region	81	88	.	-	.	
-scf7180006950848	dust	repeat_region	242	249	.	-	.	
-scf7180006950848	dust	repeat_region	475	536	.	-	.	
-scf7180006950848	trf	tandem_repeat	476	526	53	-	.	
-scf7180006950848	dust	repeat_region	1431	1437	.	-	.	
-scf7180006950848	dust	repeat_region	1590	1600	.	-	.	
-scf7180006950848	dust	repeat_region	3092	3099	.	-	.	
-scf7180006950848	dust	repeat_region	3204	3210	.	-	.	
-scf7180006950848	dust	repeat_region	5226	5304	.	-	.	
-scf7180006950848	dust	repeat_region	5471	5483	.	-	.	
-scf7180006950848	dust	repeat_region	9365	9435	.	-	.	
-scf7180006950848	dust	repeat_region	10469	10475	.	-	.	
-scf7180006950848	dust	repeat_region	10524	10530	.	-	.	
-scf7180006950848	dust	repeat_region	10726	10733	.	-	.	
 scf7180006949648	WormBase_imported	gene	1575	10224	.	+	.	ID=gene:snap_masked-scf7180006949648-processed-gene-0.1;Name=snap_masked-scf7180006949648-processed-gene-0.1;biotype=protein_coding
 scf7180006949648	WormBase_imported	mRNA	1575	10224	.	+	.	ID=transcript:snap_masked-scf7180006949648-processed-gene-0.1-mRNA-1;Parent=gene:snap_masked-scf7180006949648-processed-gene-0.1;Name=snap_masked-scf7180006949648-processed-gene-0.1-mRNA-1
 #microexons transcript:snap_masked-scf7180006949648-processed-gene-0.1-mRNA-1:  6-21-6-6-15-12-27 20 13 15-9-9-15-9-9-30-24-27-15-18-15 19 97 21 19
@@ -3076,33 +2201,6 @@ scf7180006949648	WormBase_imported	CDS	8755	8773	.	+	0	ID=cds:snap_masked-scf718
 scf7180006949648	WormBase_imported	CDS	8888	8984	.	+	2	ID=cds:snap_masked-scf7180006949648-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006949648-processed-gene-0.1-mRNA-1
 scf7180006949648	WormBase_imported	CDS	9935	9955	.	+	1	ID=cds:snap_masked-scf7180006949648-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006949648-processed-gene-0.1-mRNA-1
 scf7180006949648	WormBase_imported	CDS	10206	10224	.	+	1	ID=cds:snap_masked-scf7180006949648-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006949648-processed-gene-0.1-mRNA-1
-scf7180006949648	dust	repeat_region	148	154	.	-	.	
-scf7180006949648	dust	repeat_region	526	533	.	-	.	
-scf7180006949648	dust	repeat_region	666	727	.	-	.	
-scf7180006949648	trf	tandem_repeat	675	725	58	-	.	
-scf7180006949648	dust	repeat_region	1092	1139	.	-	.	
-scf7180006949648	dust	repeat_region	1213	1220	.	-	.	
-scf7180006949648	dust	repeat_region	1543	1549	.	-	.	
-scf7180006949648	dust	repeat_region	3303	3309	.	-	.	
-scf7180006949648	dust	repeat_region	3583	3589	.	-	.	
-scf7180006949648	dust	repeat_region	3659	3666	.	-	.	
-scf7180006949648	dust	repeat_region	3820	3826	.	-	.	
-scf7180006949648	dust	repeat_region	3853	3859	.	-	.	
-scf7180006949648	dust	repeat_region	4173	4179	.	-	.	
-scf7180006949648	dust	repeat_region	4778	4800	.	-	.	
-scf7180006949648	dust	repeat_region	5170	5176	.	-	.	
-scf7180006949648	dust	repeat_region	5388	5394	.	-	.	
-scf7180006949648	dust	repeat_region	5874	5903	.	-	.	
-scf7180006949648	dust	repeat_region	5923	5930	.	-	.	
-scf7180006949648	dust	repeat_region	6218	6224	.	-	.	
-scf7180006949648	dust	repeat_region	6776	6782	.	-	.	
-scf7180006949648	dust	repeat_region	7153	7159	.	-	.	
-scf7180006949648	dust	repeat_region	7561	7567	.	-	.	
-scf7180006949648	dust	repeat_region	8722	8751	.	-	.	
-scf7180006949648	dust	repeat_region	9053	9060	.	-	.	
-scf7180006949648	dust	repeat_region	9369	9375	.	-	.	
-scf7180006949648	dust	repeat_region	9777	9783	.	-	.	
-scf7180006949648	dust	repeat_region	10748	10756	.	-	.	
 scf7180006948537	WormBase_imported	gene	2047	9231	.	-	.	ID=gene:snap_masked-scf7180006948537-processed-gene-0.1;Name=snap_masked-scf7180006948537-processed-gene-0.1;biotype=protein_coding
 scf7180006948537	WormBase_imported	mRNA	2047	9231	.	-	.	ID=transcript:snap_masked-scf7180006948537-processed-gene-0.1-mRNA-1;Parent=gene:snap_masked-scf7180006948537-processed-gene-0.1;Name=snap_masked-scf7180006948537-processed-gene-0.1-mRNA-1;info=method:InterPro accession:IPR029021 description:Protein-tyrosine phosphatase-like
 #microexons transcript:snap_masked-scf7180006948537-processed-gene-0.1-mRNA-1:  54 24-24-18 278 7 89 74 101 248 34
@@ -3165,25 +2263,6 @@ scf7180006947040	WormBase_imported	CDS	5609	5629	.	-	0	ID=cds:snap_masked-scf718
 scf7180006947040	WormBase_imported	CDS	5439	5462	.	-	0	ID=cds:snap_masked-scf7180006947040-processed-gene-0.2-mRNA-1;Parent=transcript:snap_masked-scf7180006947040-processed-gene-0.2-mRNA-1
 scf7180006947040	WormBase_imported	CDS	4067	4105	.	-	0	ID=cds:snap_masked-scf7180006947040-processed-gene-0.2-mRNA-1;Parent=transcript:snap_masked-scf7180006947040-processed-gene-0.2-mRNA-1
 scf7180006947040	WormBase_imported	CDS	3659	3685	.	-	0	ID=cds:snap_masked-scf7180006947040-processed-gene-0.2-mRNA-1;Parent=transcript:snap_masked-scf7180006947040-processed-gene-0.2-mRNA-1
-scf7180006947040	cmscan_rfam_12.2	nucleotide_match	5283	5343	25.1	+	.	ID=cmscan_rfam_12.2.126;Name=ZEB2_AS1_4;Target=ZEB2_AS1_4 20 77;Gap=M18 I4 M24 D M15 
-scf7180006947040	dust	repeat_region	98	167	.	-	.	
-scf7180006947040	dust	repeat_region	301	307	.	-	.	
-scf7180006947040	dust	repeat_region	311	317	.	-	.	
-scf7180006947040	dust	repeat_region	1060	1071	.	-	.	
-scf7180006947040	dust	repeat_region	3718	3724	.	-	.	
-scf7180006947040	dust	repeat_region	4124	4130	.	-	.	
-scf7180006947040	dust	repeat_region	4165	4171	.	-	.	
-scf7180006947040	dust	repeat_region	4572	4579	.	-	.	
-scf7180006947040	dust	repeat_region	5648	5655	.	-	.	
-scf7180006947040	dust	repeat_region	5889	5905	.	-	.	
-scf7180006947040	dust	repeat_region	6825	6848	.	-	.	
-scf7180006947040	dust	repeat_region	7164	7170	.	-	.	
-scf7180006947040	dust	repeat_region	7302	7308	.	-	.	
-scf7180006947040	dust	repeat_region	7760	7767	.	-	.	
-scf7180006947040	dust	repeat_region	8118	8125	.	-	.	
-scf7180006947040	dust	repeat_region	8367	8373	.	-	.	
-scf7180006947040	dust	repeat_region	9419	9425	.	-	.	
-scf7180006947040	dust	repeat_region	10477	10483	.	-	.	
 scf7180006951874	WormBase_imported	gene	1125	7468	.	+	.	ID=gene:snap_masked-scf7180006951874-processed-gene-0.1;Name=snap_masked-scf7180006951874-processed-gene-0.1;biotype=protein_coding
 scf7180006951874	WormBase_imported	mRNA	1125	7468	.	+	.	ID=transcript:snap_masked-scf7180006951874-processed-gene-0.1-mRNA-1;Parent=gene:snap_masked-scf7180006951874-processed-gene-0.1;Name=snap_masked-scf7180006951874-processed-gene-0.1-mRNA-1
 #microexons transcript:snap_masked-scf7180006951874-processed-gene-0.1-mRNA-1:  27-15-12-21-18-21 90 49 9 56 21-21-21-9-6-24-15-15-18
@@ -3225,17 +2304,6 @@ scf7180006951874	WormBase_imported	CDS	6324	6347	.	+	0	ID=cds:snap_masked-scf718
 scf7180006951874	WormBase_imported	CDS	6454	6468	.	+	0	ID=cds:snap_masked-scf7180006951874-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006951874-processed-gene-0.1-mRNA-1
 scf7180006951874	WormBase_imported	CDS	7004	7018	.	+	0	ID=cds:snap_masked-scf7180006951874-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006951874-processed-gene-0.1-mRNA-1
 scf7180006951874	WormBase_imported	CDS	7451	7468	.	+	0	ID=cds:snap_masked-scf7180006951874-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006951874-processed-gene-0.1-mRNA-1
-scf7180006951874	dust	repeat_region	927	933	.	-	.	
-scf7180006951874	dust	repeat_region	1280	1286	.	-	.	
-scf7180006951874	dust	repeat_region	1324	1336	.	-	.	
-scf7180006951874	dust	repeat_region	2929	2954	.	-	.	
-scf7180006951874	dust	repeat_region	5008	5014	.	-	.	
-scf7180006951874	dust	repeat_region	5677	5684	.	-	.	
-scf7180006951874	dust	repeat_region	8030	8036	.	-	.	
-scf7180006951874	dust	repeat_region	8915	8921	.	-	.	
-scf7180006951874	dust	repeat_region	9597	9603	.	-	.	
-scf7180006951874	dust	repeat_region	10017	10023	.	-	.	
-scf7180006951874	dust	repeat_region	10361	10367	.	-	.	
 scf7180006952811	WormBase_imported	gene	508	9625	.	-	.	ID=gene:snap_masked-scf7180006952811-processed-gene-0.2;Name=snap_masked-scf7180006952811-processed-gene-0.2;biotype=protein_coding
 scf7180006952811	WormBase_imported	mRNA	508	9625	.	-	.	ID=transcript:snap_masked-scf7180006952811-processed-gene-0.2-mRNA-1;Parent=gene:snap_masked-scf7180006952811-processed-gene-0.2;Name=snap_masked-scf7180006952811-processed-gene-0.2-mRNA-1
 #microexons transcript:snap_masked-scf7180006952811-processed-gene-0.2-mRNA-1:  18-24-27 111 12-6-6-30
@@ -3255,32 +2323,6 @@ scf7180006952811	WormBase_imported	CDS	4039	4050	.	-	0	ID=cds:snap_masked-scf718
 scf7180006952811	WormBase_imported	CDS	3340	3345	.	-	0	ID=cds:snap_masked-scf7180006952811-processed-gene-0.2-mRNA-1;Parent=transcript:snap_masked-scf7180006952811-processed-gene-0.2-mRNA-1
 scf7180006952811	WormBase_imported	CDS	3009	3014	.	-	0	ID=cds:snap_masked-scf7180006952811-processed-gene-0.2-mRNA-1;Parent=transcript:snap_masked-scf7180006952811-processed-gene-0.2-mRNA-1
 scf7180006952811	WormBase_imported	CDS	508	537	.	-	0	ID=cds:snap_masked-scf7180006952811-processed-gene-0.2-mRNA-1;Parent=transcript:snap_masked-scf7180006952811-processed-gene-0.2-mRNA-1
-scf7180006952811	dust	repeat_region	971	977	.	-	.	
-scf7180006952811	dust	repeat_region	1120	1126	.	-	.	
-scf7180006952811	dust	repeat_region	1255	1261	.	-	.	
-scf7180006952811	dust	repeat_region	1461	1516	.	-	.	
-scf7180006952811	trf	tandem_repeat	1472	1516	76	-	.	
-scf7180006952811	dust	repeat_region	1576	1582	.	-	.	
-scf7180006952811	dust	repeat_region	1634	1640	.	-	.	
-scf7180006952811	dust	repeat_region	1703	1709	.	-	.	
-scf7180006952811	dust	repeat_region	2057	2066	.	-	.	
-scf7180006952811	dust	repeat_region	2903	2910	.	-	.	
-scf7180006952811	dust	repeat_region	3922	3929	.	-	.	
-scf7180006952811	dust	repeat_region	4053	4059	.	-	.	
-scf7180006952811	dust	repeat_region	4075	4081	.	-	.	
-scf7180006952811	dust	repeat_region	4253	4259	.	-	.	
-scf7180006952811	dust	repeat_region	4344	4420	.	-	.	
-scf7180006952811	dust	repeat_region	4870	4936	.	-	.	
-scf7180006952811	dust	repeat_region	5287	5293	.	-	.	
-scf7180006952811	dust	repeat_region	6018	6027	.	-	.	
-scf7180006952811	trf	tandem_repeat	6236	6255	40	-	.	
-scf7180006952811	dust	repeat_region	6394	6402	.	-	.	
-scf7180006952811	dust	repeat_region	7275	7337	.	-	.	
-scf7180006952811	dust	repeat_region	7442	7448	.	-	.	
-scf7180006952811	dust	repeat_region	7505	7511	.	-	.	
-scf7180006952811	dust	repeat_region	7597	7660	.	-	.	
-scf7180006952811	dust	repeat_region	9146	9152	.	-	.	
-scf7180006952811	dust	repeat_region	9920	9961	.	-	.	
 scf7180006951038	WormBase_imported	gene	24	9787	.	-	.	ID=gene:snap_masked-scf7180006951038-processed-gene-0.1;Name=snap_masked-scf7180006951038-processed-gene-0.1;biotype=protein_coding
 scf7180006951038	WormBase_imported	mRNA	24	9787	.	-	.	ID=transcript:snap_masked-scf7180006951038-processed-gene-0.1-mRNA-1;Parent=gene:snap_masked-scf7180006951038-processed-gene-0.1;Name=snap_masked-scf7180006951038-processed-gene-0.1-mRNA-1
 #microexons transcript:snap_masked-scf7180006951038-processed-gene-0.1-mRNA-1:  21 31 9-12-15-12-21-21-9-30-6-18-18-18-9-21-15-12-21-6-6-6-6-12 20 13 9-12
@@ -3341,22 +2383,6 @@ scf7180006951038	WormBase_imported	CDS	464	483	.	-	0	ID=cds:snap_masked-scf71800
 scf7180006951038	WormBase_imported	CDS	316	328	.	-	1	ID=cds:snap_masked-scf7180006951038-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006951038-processed-gene-0.1-mRNA-1
 scf7180006951038	WormBase_imported	CDS	113	121	.	-	0	ID=cds:snap_masked-scf7180006951038-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006951038-processed-gene-0.1-mRNA-1
 scf7180006951038	WormBase_imported	CDS	24	35	.	-	0	ID=cds:snap_masked-scf7180006951038-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006951038-processed-gene-0.1-mRNA-1
-scf7180006951038	dust	repeat_region	454	461	.	-	.	
-scf7180006951038	dust	repeat_region	642	651	.	-	.	
-scf7180006951038	dust	repeat_region	708	715	.	-	.	
-scf7180006951038	dust	repeat_region	2022	2028	.	-	.	
-scf7180006951038	dust	repeat_region	3240	3246	.	-	.	
-scf7180006951038	dust	repeat_region	3316	3379	.	-	.	
-scf7180006951038	dust	repeat_region	3600	3607	.	-	.	
-scf7180006951038	dust	repeat_region	4177	4184	.	-	.	
-scf7180006951038	dust	repeat_region	4330	4336	.	-	.	
-scf7180006951038	dust	repeat_region	4682	4688	.	-	.	
-scf7180006951038	dust	repeat_region	5726	5732	.	-	.	
-scf7180006951038	dust	repeat_region	6604	6610	.	-	.	
-scf7180006951038	dust	repeat_region	7081	7087	.	-	.	
-scf7180006951038	dust	repeat_region	7833	7839	.	-	.	
-scf7180006951038	dust	repeat_region	7923	8014	.	-	.	
-scf7180006951038	dust	repeat_region	9744	9761	.	-	.	
 scf7180006947653	WormBase_imported	gene	1926	9105	.	-	.	ID=gene:snap_masked-scf7180006947653-processed-gene-0.2;Name=snap_masked-scf7180006947653-processed-gene-0.2;biotype=protein_coding
 scf7180006947653	WormBase_imported	mRNA	1926	9105	.	-	.	ID=transcript:snap_masked-scf7180006947653-processed-gene-0.2-mRNA-1;Parent=gene:snap_masked-scf7180006947653-processed-gene-0.2;Name=snap_masked-scf7180006947653-processed-gene-0.2-mRNA-1
 #microexons transcript:snap_masked-scf7180006947653-processed-gene-0.2-mRNA-1:  53 232 12-9-30-24-18-21-21 83 36 36 22
@@ -3409,29 +2435,6 @@ scf7180006951841	WormBase_imported	CDS	5006	5186	.	+	1	ID=cds:snap_masked-scf718
 scf7180006951841	WormBase_imported	CDS	7159	7182	.	+	0	ID=cds:snap_masked-scf7180006951841-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006951841-processed-gene-0.1-mRNA-1
 scf7180006951841	WormBase_imported	CDS	7777	7806	.	+	0	ID=cds:snap_masked-scf7180006951841-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006951841-processed-gene-0.1-mRNA-1
 scf7180006951841	WormBase_imported	CDS	8945	8971	.	+	0	ID=cds:snap_masked-scf7180006951841-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006951841-processed-gene-0.1-mRNA-1
-scf7180006951841	dust	repeat_region	132	138	.	-	.	
-scf7180006951841	dust	repeat_region	896	902	.	-	.	
-scf7180006951841	dust	repeat_region	1394	1401	.	-	.	
-scf7180006951841	dust	repeat_region	2167	2174	.	-	.	
-scf7180006951841	trf	tandem_repeat	2487	2518	50	-	.	
-scf7180006951841	dust	repeat_region	3078	3084	.	-	.	
-scf7180006951841	dust	repeat_region	3687	3693	.	-	.	
-scf7180006951841	dust	repeat_region	3936	3942	.	-	.	
-scf7180006951841	dust	repeat_region	5308	5314	.	-	.	
-scf7180006951841	dust	repeat_region	5665	5677	.	-	.	
-scf7180006951841	dust	repeat_region	5711	5717	.	-	.	
-scf7180006951841	dust	repeat_region	6402	6466	.	-	.	
-scf7180006951841	dust	repeat_region	6690	6698	.	-	.	
-scf7180006951841	dust	repeat_region	7112	7157	.	-	.	
-scf7180006951841	dust	repeat_region	7352	7358	.	-	.	
-scf7180006951841	dust	repeat_region	7489	7535	.	-	.	
-scf7180006951841	dust	repeat_region	7743	7749	.	-	.	
-scf7180006951841	dust	repeat_region	7932	7938	.	-	.	
-scf7180006951841	dust	repeat_region	8491	8498	.	-	.	
-scf7180006951841	dust	repeat_region	8872	8936	.	-	.	
-scf7180006951841	dust	repeat_region	9342	9348	.	-	.	
-scf7180006951841	dust	repeat_region	9358	9366	.	-	.	
-scf7180006951841	dust	repeat_region	9415	9422	.	-	.	
 scf7180006949629	WormBase_imported	gene	3221	5080	.	-	.	ID=gene:snap_masked-scf7180006949629-processed-gene-0.6;Name=snap_masked-scf7180006949629-processed-gene-0.6;biotype=protein_coding
 scf7180006949629	WormBase_imported	mRNA	3221	5080	.	-	.	ID=transcript:snap_masked-scf7180006949629-processed-gene-0.6-mRNA-1;Parent=gene:snap_masked-scf7180006949629-processed-gene-0.6;Name=snap_masked-scf7180006949629-processed-gene-0.6-mRNA-1
 #microexons transcript:snap_masked-scf7180006949629-processed-gene-0.6-mRNA-1:  30-21-21-18-18-18-21 74 22
@@ -3497,25 +2500,6 @@ scf7180006951251	WormBase_imported	CDS	7118	7159	.	+	0	ID=cds:snap_masked-scf718
 scf7180006951251	WormBase_imported	CDS	7237	7257	.	+	0	ID=cds:snap_masked-scf7180006951251-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006951251-processed-gene-0.1-mRNA-1
 scf7180006951251	WormBase_imported	CDS	7337	7357	.	+	0	ID=cds:snap_masked-scf7180006951251-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006951251-processed-gene-0.1-mRNA-1
 scf7180006951251	WormBase_imported	CDS	7857	7904	.	+	0	ID=cds:snap_masked-scf7180006951251-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006951251-processed-gene-0.1-mRNA-1
-scf7180006951251	dust	repeat_region	134	142	.	-	.	
-scf7180006951251	dust	repeat_region	299	306	.	-	.	
-scf7180006951251	dust	repeat_region	492	498	.	-	.	
-scf7180006951251	dust	repeat_region	582	588	.	-	.	
-scf7180006951251	dust	repeat_region	873	896	.	-	.	
-scf7180006951251	dust	repeat_region	1960	1971	.	-	.	
-scf7180006951251	dust	repeat_region	2304	2310	.	-	.	
-scf7180006951251	dust	repeat_region	2655	2715	.	-	.	
-scf7180006951251	dust	repeat_region	3030	3036	.	-	.	
-scf7180006951251	dust	repeat_region	3766	3772	.	-	.	
-scf7180006951251	dust	repeat_region	3799	3805	.	-	.	
-scf7180006951251	dust	repeat_region	4117	4124	.	-	.	
-scf7180006951251	dust	repeat_region	4197	4259	.	-	.	
-scf7180006951251	dust	repeat_region	5530	5536	.	-	.	
-scf7180006951251	dust	repeat_region	6234	6298	.	-	.	
-scf7180006951251	dust	repeat_region	6736	6743	.	-	.	
-scf7180006951251	dust	repeat_region	7404	7410	.	-	.	
-scf7180006951251	dust	repeat_region	7841	7848	.	-	.	
-scf7180006951251	dust	repeat_region	8259	8265	.	-	.	
 scf7180006950350	WormBase_imported	gene	313	7026	.	+	.	ID=gene:snap_masked-scf7180006950350-processed-gene-0.1;Name=snap_masked-scf7180006950350-processed-gene-0.1;biotype=protein_coding
 scf7180006950350	WormBase_imported	mRNA	313	7026	.	+	.	ID=transcript:snap_masked-scf7180006950350-processed-gene-0.1-mRNA-1;Parent=gene:snap_masked-scf7180006950350-processed-gene-0.1;Name=snap_masked-scf7180006950350-processed-gene-0.1-mRNA-1
 #microexons transcript:snap_masked-scf7180006950350-processed-gene-0.1-mRNA-1:  36 27-21-18 34 15-21 36 36 54
@@ -3540,19 +2524,6 @@ scf7180006950350	WormBase_imported	CDS	4686	4706	.	+	0	ID=cds:snap_masked-scf718
 scf7180006950350	WormBase_imported	CDS	6661	6696	.	+	0	ID=cds:snap_masked-scf7180006950350-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006950350-processed-gene-0.1-mRNA-1
 scf7180006950350	WormBase_imported	CDS	6789	6824	.	+	0	ID=cds:snap_masked-scf7180006950350-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006950350-processed-gene-0.1-mRNA-1
 scf7180006950350	WormBase_imported	CDS	6973	7026	.	+	0	ID=cds:snap_masked-scf7180006950350-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006950350-processed-gene-0.1-mRNA-1
-scf7180006950350	dust	repeat_region	25	37	.	-	.	
-scf7180006950350	dust	repeat_region	317	323	.	-	.	
-scf7180006950350	dust	repeat_region	1423	1429	.	-	.	
-scf7180006950350	trf	tandem_repeat	1605	1656	65	-	.	
-scf7180006950350	dust	repeat_region	1606	1670	.	-	.	
-scf7180006950350	dust	repeat_region	2096	2102	.	-	.	
-scf7180006950350	dust	repeat_region	2751	2757	.	-	.	
-scf7180006950350	dust	repeat_region	2807	2813	.	-	.	
-scf7180006950350	dust	repeat_region	4068	4084	.	-	.	
-scf7180006950350	dust	repeat_region	6083	6161	.	-	.	
-scf7180006950350	dust	repeat_region	6522	6586	.	-	.	
-scf7180006950350	dust	repeat_region	6651	6657	.	-	.	
-scf7180006950350	dust	repeat_region	6889	6895	.	-	.	
 scf7180006951847	WormBase_imported	gene	2205	8472	.	+	.	ID=gene:snap_masked-scf7180006951847-processed-gene-0.1;Name=snap_masked-scf7180006951847-processed-gene-0.1;biotype=protein_coding
 scf7180006951847	WormBase_imported	mRNA	2205	8472	.	+	.	ID=transcript:snap_masked-scf7180006951847-processed-gene-0.1-mRNA-1;Parent=gene:snap_masked-scf7180006951847-processed-gene-0.1;Name=snap_masked-scf7180006951847-processed-gene-0.1-mRNA-1
 #microexons transcript:snap_masked-scf7180006951847-processed-gene-0.1-mRNA-1:  17 21-21 31 9-12-15-12-24-21-18-12-18-21-9-12-12-21-21-21-21-9 48
@@ -3602,24 +2573,6 @@ scf7180006951847	WormBase_imported	CDS	7477	7497	.	+	0	ID=cds:snap_masked-scf718
 scf7180006951847	WormBase_imported	CDS	7585	7605	.	+	0	ID=cds:snap_masked-scf7180006951847-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006951847-processed-gene-0.1-mRNA-1
 scf7180006951847	WormBase_imported	CDS	7888	7896	.	+	0	ID=cds:snap_masked-scf7180006951847-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006951847-processed-gene-0.1-mRNA-1
 scf7180006951847	WormBase_imported	CDS	8425	8472	.	+	0	ID=cds:snap_masked-scf7180006951847-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006951847-processed-gene-0.1-mRNA-1
-scf7180006951847	dust	repeat_region	213	219	.	-	.	
-scf7180006951847	dust	repeat_region	647	653	.	-	.	
-scf7180006951847	dust	repeat_region	3136	3142	.	-	.	
-scf7180006951847	dust	repeat_region	3522	3528	.	-	.	
-scf7180006951847	dust	repeat_region	4108	4114	.	-	.	
-scf7180006951847	dust	repeat_region	4771	4777	.	-	.	
-scf7180006951847	dust	repeat_region	5688	5694	.	-	.	
-scf7180006951847	dust	repeat_region	7316	7322	.	-	.	
-scf7180006951847	dust	repeat_region	8370	8376	.	-	.	
-scf7180006952806	dust	repeat_region	426	432	.	-	.	
-scf7180006952806	dust	repeat_region	541	549	.	-	.	
-scf7180006952806	dust	repeat_region	1285	1291	.	-	.	
-scf7180006952806	dust	repeat_region	1902	1909	.	-	.	
-scf7180006952806	trf	tandem_repeat	2549	2581	52	-	.	
-scf7180006952806	dust	repeat_region	3592	3600	.	-	.	
-scf7180006952806	dust	repeat_region	4774	4780	.	-	.	
-scf7180006952806	dust	repeat_region	4858	4864	.	-	.	
-scf7180006952806	dust	repeat_region	7635	7641	.	-	.	
 scf7180006950936	WormBase_imported	gene	363	7264	.	-	.	ID=gene:snap_masked-scf7180006950936-processed-gene-0.2;Name=snap_masked-scf7180006950936-processed-gene-0.2;biotype=protein_coding
 scf7180006950936	WormBase_imported	mRNA	363	7264	.	-	.	ID=transcript:snap_masked-scf7180006950936-processed-gene-0.2-mRNA-1;Parent=gene:snap_masked-scf7180006950936-processed-gene-0.2;Name=snap_masked-scf7180006950936-processed-gene-0.2-mRNA-1
 #microexons transcript:snap_masked-scf7180006950936-processed-gene-0.2-mRNA-1:  21-21-27-21 75 21-9 33 24-24-15-15-12-9-15-12-24-30-21-30 36
@@ -3666,25 +2619,6 @@ scf7180006950936	WormBase_imported	CDS	1845	1874	.	-	0	ID=cds:snap_masked-scf718
 scf7180006950936	WormBase_imported	CDS	955	975	.	-	0	ID=cds:snap_masked-scf7180006950936-processed-gene-0.2-mRNA-1;Parent=transcript:snap_masked-scf7180006950936-processed-gene-0.2-mRNA-1
 scf7180006950936	WormBase_imported	CDS	486	515	.	-	0	ID=cds:snap_masked-scf7180006950936-processed-gene-0.2-mRNA-1;Parent=transcript:snap_masked-scf7180006950936-processed-gene-0.2-mRNA-1
 scf7180006950936	WormBase_imported	CDS	363	398	.	-	0	ID=cds:snap_masked-scf7180006950936-processed-gene-0.2-mRNA-1;Parent=transcript:snap_masked-scf7180006950936-processed-gene-0.2-mRNA-1
-scf7180006950936	dust	repeat_region	89	96	.	-	.	
-scf7180006950936	dust	repeat_region	254	262	.	-	.	
-scf7180006950936	dust	repeat_region	620	681	.	-	.	
-scf7180006950936	trf	tandem_repeat	662	681	40	-	.	
-scf7180006950936	dust	repeat_region	769	775	.	-	.	
-scf7180006950936	dust	repeat_region	832	838	.	-	.	
-scf7180006950936	dust	repeat_region	851	907	.	-	.	
-scf7180006950936	dust	repeat_region	1361	1368	.	-	.	
-scf7180006950936	dust	repeat_region	1589	1595	.	-	.	
-scf7180006950936	dust	repeat_region	1723	1729	.	-	.	
-scf7180006950936	dust	repeat_region	2012	2020	.	-	.	
-scf7180006950936	dust	repeat_region	2383	2389	.	-	.	
-scf7180006950936	dust	repeat_region	2769	2792	.	-	.	
-scf7180006950936	dust	repeat_region	2854	2878	.	-	.	
-scf7180006950936	dust	repeat_region	3086	3143	.	-	.	
-scf7180006950936	dust	repeat_region	4190	4198	.	-	.	
-scf7180006950936	dust	repeat_region	4487	4493	.	-	.	
-scf7180006950936	dust	repeat_region	5657	5663	.	-	.	
-scf7180006950936	dust	repeat_region	7776	7782	.	-	.	
 scf7180006950945	WormBase_imported	gene	1012	7422	.	+	.	ID=gene:snap_masked-scf7180006950945-processed-gene-0.1;Name=snap_masked-scf7180006950945-processed-gene-0.1;biotype=protein_coding
 scf7180006950945	WormBase_imported	mRNA	1012	7422	.	+	.	ID=transcript:snap_masked-scf7180006950945-processed-gene-0.1-mRNA-1;Parent=gene:snap_masked-scf7180006950945-processed-gene-0.1;Name=snap_masked-scf7180006950945-processed-gene-0.1-mRNA-1
 #microexons transcript:snap_masked-scf7180006950945-processed-gene-0.1-mRNA-1:  9-21-21-18-30-21-15-21-21-21-27-21-21-21-15-18-15-21
@@ -3724,54 +2658,6 @@ scf7180006950945	WormBase_imported	CDS	6490	6504	.	+	0	ID=cds:snap_masked-scf718
 scf7180006950945	WormBase_imported	CDS	6537	6554	.	+	0	ID=cds:snap_masked-scf7180006950945-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006950945-processed-gene-0.1-mRNA-1
 scf7180006950945	WormBase_imported	CDS	7098	7112	.	+	0	ID=cds:snap_masked-scf7180006950945-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006950945-processed-gene-0.1-mRNA-1
 scf7180006950945	WormBase_imported	CDS	7402	7422	.	+	0	ID=cds:snap_masked-scf7180006950945-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006950945-processed-gene-0.1-mRNA-1
-scf7180006950945	dust	repeat_region	819	853	.	-	.	
-scf7180006950945	dust	repeat_region	1052	1058	.	-	.	
-scf7180006950945	trf	tandem_repeat	1298	1334	58	-	.	
-scf7180006950945	dust	repeat_region	1301	1307	.	-	.	
-scf7180006950945	dust	repeat_region	1319	1325	.	-	.	
-scf7180006950945	dust	repeat_region	1441	1447	.	-	.	
-scf7180006950945	dust	repeat_region	1513	1577	.	-	.	
-scf7180006950945	dust	repeat_region	1730	1783	.	-	.	
-scf7180006950945	dust	repeat_region	2415	2421	.	-	.	
-scf7180006950945	dust	repeat_region	2572	2578	.	-	.	
-scf7180006950945	dust	repeat_region	2739	2746	.	-	.	
-scf7180006950945	dust	repeat_region	2861	2925	.	-	.	
-scf7180006950945	dust	repeat_region	3073	3079	.	-	.	
-scf7180006950945	dust	repeat_region	3263	3269	.	-	.	
-scf7180006950945	dust	repeat_region	3412	3418	.	-	.	
-scf7180006950945	dust	repeat_region	3878	3885	.	-	.	
-scf7180006950945	dust	repeat_region	3955	3969	.	-	.	
-scf7180006950945	dust	repeat_region	4136	4170	.	-	.	
-scf7180006950945	dust	repeat_region	4222	4228	.	-	.	
-scf7180006950945	dust	repeat_region	4254	4310	.	-	.	
-scf7180006950945	dust	repeat_region	5030	5038	.	-	.	
-scf7180006950945	dust	repeat_region	5214	5221	.	-	.	
-scf7180006950945	dust	repeat_region	5399	5406	.	-	.	
-scf7180006950945	dust	repeat_region	5571	5577	.	-	.	
-scf7180006950945	dust	repeat_region	5716	5725	.	-	.	
-scf7180006950945	dust	repeat_region	5867	5933	.	-	.	
-scf7180006950945	dust	repeat_region	6144	6150	.	-	.	
-scf7180006950945	dust	repeat_region	6246	6252	.	-	.	
-scf7180006950945	dust	repeat_region	6421	6486	.	-	.	
-scf7180006950945	dust	repeat_region	7218	7281	.	-	.	
-scf7180006950945	dust	repeat_region	7717	7724	.	-	.	
-scf7180006950945	dust	repeat_region	7994	8000	.	-	.	
-scf7180006948314	dust	repeat_region	15	44	.	-	.	
-scf7180006948314	dust	repeat_region	778	784	.	-	.	
-scf7180006948314	dust	repeat_region	1268	1274	.	-	.	
-scf7180006948314	dust	repeat_region	1630	1639	.	-	.	
-scf7180006948314	dust	repeat_region	2533	2539	.	-	.	
-scf7180006948314	dust	repeat_region	2675	2681	.	-	.	
-scf7180006948314	dust	repeat_region	3904	3910	.	-	.	
-scf7180006948314	trf	tandem_repeat	3946	3992	52	-	.	
-scf7180006948314	dust	repeat_region	4443	4451	.	-	.	
-scf7180006948314	dust	repeat_region	5700	5706	.	-	.	
-scf7180006948314	dust	repeat_region	6204	6213	.	-	.	
-scf7180006948314	trf	tandem_repeat	6322	6368	73	-	.	
-scf7180006948314	dust	repeat_region	6854	6863	.	-	.	
-scf7180006948314	dust	repeat_region	7092	7098	.	-	.	
-scf7180006948314	dust	repeat_region	7141	7148	.	-	.	
-scf7180006948314	dust	repeat_region	7473	7481	.	-	.	
 scf7180006949071	WormBase_imported	gene	529	7825	.	-	.	ID=gene:snap_masked-scf7180006949071-processed-gene-0.1;Name=snap_masked-scf7180006949071-processed-gene-0.1;biotype=protein_coding
 scf7180006949071	WormBase_imported	mRNA	529	7825	.	-	.	ID=transcript:snap_masked-scf7180006949071-processed-gene-0.1-mRNA-1;Parent=gene:snap_masked-scf7180006949071-processed-gene-0.1;Name=snap_masked-scf7180006949071-processed-gene-0.1-mRNA-1
 #microexons transcript:snap_masked-scf7180006949071-processed-gene-0.1-mRNA-1:  12-15-30-9-21 81 48 9 48 27-21-15 36 24-24-15-21-15-12-9-15-9-12-24-6-24-15-21-21-21-21-24
@@ -3839,20 +2725,6 @@ scf7180006949071	WormBase_imported	CDS	1101	1121	.	-	0	ID=cds:snap_masked-scf718
 scf7180006949071	WormBase_imported	CDS	997	1017	.	-	0	ID=cds:snap_masked-scf7180006949071-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006949071-processed-gene-0.1-mRNA-1
 scf7180006949071	WormBase_imported	CDS	940	960	.	-	0	ID=cds:snap_masked-scf7180006949071-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006949071-processed-gene-0.1-mRNA-1
 scf7180006949071	WormBase_imported	CDS	529	552	.	-	0	ID=cds:snap_masked-scf7180006949071-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006949071-processed-gene-0.1-mRNA-1
-scf7180006949071	dust	repeat_region	1275	1282	.	-	.	
-scf7180006949071	dust	repeat_region	1961	1967	.	-	.	
-scf7180006949071	dust	repeat_region	2345	2351	.	-	.	
-scf7180006949071	dust	repeat_region	2402	2408	.	-	.	
-scf7180006949071	dust	repeat_region	2507	2513	.	-	.	
-scf7180006949071	dust	repeat_region	2840	2846	.	-	.	
-scf7180006949071	dust	repeat_region	3394	3400	.	-	.	
-scf7180006949071	dust	repeat_region	3656	3662	.	-	.	
-scf7180006949071	dust	repeat_region	4808	4834	.	-	.	
-scf7180006949071	trf	tandem_repeat	4811	4831	42	-	.	
-scf7180006949071	dust	repeat_region	5060	5066	.	-	.	
-scf7180006949071	dust	repeat_region	5184	5255	.	-	.	
-scf7180006949071	dust	repeat_region	5816	5858	.	-	.	
-scf7180006949071	dust	repeat_region	6638	6644	.	-	.	
 scf7180006952136	WormBase_imported	gene	850	4616	.	+	.	ID=gene:snap_masked-scf7180006952136-processed-gene-0.1;Name=snap_masked-scf7180006952136-processed-gene-0.1;biotype=protein_coding
 scf7180006952136	WormBase_imported	mRNA	850	4616	.	+	.	ID=transcript:snap_masked-scf7180006952136-processed-gene-0.1-mRNA-1;Parent=gene:snap_masked-scf7180006952136-processed-gene-0.1;Name=snap_masked-scf7180006952136-processed-gene-0.1-mRNA-1
 #microexons transcript:snap_masked-scf7180006952136-processed-gene-0.1-mRNA-1:  21 54 21-15-21-15 36 23 37
@@ -3893,17 +2765,6 @@ scf7180006946947	WormBase_imported	CDS	1687	1725	.	-	0	ID=cds:snap_masked-scf718
 scf7180006946947	WormBase_imported	CDS	1224	1250	.	-	0	ID=cds:snap_masked-scf7180006946947-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006946947-processed-gene-0.1-mRNA-1
 scf7180006946947	WormBase_imported	CDS	661	711	.	-	0	ID=cds:snap_masked-scf7180006946947-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006946947-processed-gene-0.1-mRNA-1
 scf7180006946947	WormBase_imported	CDS	494	580	.	-	0	ID=cds:snap_masked-scf7180006946947-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006946947-processed-gene-0.1-mRNA-1
-scf7180006946947	dust	repeat_region	1037	1043	.	-	.	
-scf7180006946947	dust	repeat_region	1465	1484	.	-	.	
-scf7180006946947	dust	repeat_region	3181	3187	.	-	.	
-scf7180006946947	dust	repeat_region	4134	4147	.	-	.	
-scf7180006946947	dust	repeat_region	4338	4385	.	-	.	
-scf7180006946947	dust	repeat_region	4909	4916	.	-	.	
-scf7180006946947	dust	repeat_region	5241	5248	.	-	.	
-scf7180006946947	dust	repeat_region	5309	5331	.	-	.	
-scf7180006946947	dust	repeat_region	5381	5387	.	-	.	
-scf7180006946947	dust	repeat_region	6053	6060	.	-	.	
-scf7180006946947	dust	repeat_region	6696	6702	.	-	.	
 scf7180006949926	WormBase_imported	gene	928	6653	.	-	.	ID=gene:snap_masked-scf7180006949926-processed-gene-0.2;Name=snap_masked-scf7180006949926-processed-gene-0.2;biotype=protein_coding
 scf7180006949926	WormBase_imported	mRNA	928	6653	.	-	.	ID=transcript:snap_masked-scf7180006949926-processed-gene-0.2-mRNA-1;Parent=gene:snap_masked-scf7180006949926-processed-gene-0.2;Name=snap_masked-scf7180006949926-processed-gene-0.2-mRNA-1
 #microexons transcript:snap_masked-scf7180006949926-processed-gene-0.2-mRNA-1:  213 18-21-24 36 33
@@ -3942,24 +2803,6 @@ scf7180006948938	WormBase_imported	CDS	477	506	.	-	0	ID=cds:snap_masked-scf71800
 scf7180006948938	WormBase_imported	CDS	356	376	.	-	0	ID=cds:snap_masked-scf7180006948938-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006948938-processed-gene-0.1-mRNA-1
 scf7180006948938	WormBase_imported	CDS	184	189	.	-	0	ID=cds:snap_masked-scf7180006948938-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006948938-processed-gene-0.1-mRNA-1
 scf7180006948938	WormBase_imported	three_prime_UTR	166	183	.	-	.	Parent=transcript:snap_masked-scf7180006948938-processed-gene-0.1-mRNA-1
-scf7180006948938	dust	repeat_region	537	543	.	-	.	
-scf7180006948938	dust	repeat_region	683	690	.	-	.	
-scf7180006948938	dust	repeat_region	885	892	.	-	.	
-scf7180006948938	dust	repeat_region	1332	1339	.	-	.	
-scf7180006948938	dust	repeat_region	1342	1350	.	-	.	
-scf7180006948938	dust	repeat_region	1699	1705	.	-	.	
-scf7180006948938	dust	repeat_region	1797	1813	.	-	.	
-scf7180006948938	dust	repeat_region	1841	1847	.	-	.	
-scf7180006948938	dust	repeat_region	2070	2077	.	-	.	
-scf7180006948938	dust	repeat_region	2888	2937	.	-	.	
-scf7180006948938	dust	repeat_region	3103	3109	.	-	.	
-scf7180006948938	dust	repeat_region	3653	3710	.	-	.	
-scf7180006948938	dust	repeat_region	3919	3925	.	-	.	
-scf7180006948938	dust	repeat_region	4149	4156	.	-	.	
-scf7180006948938	dust	repeat_region	5011	5017	.	-	.	
-scf7180006948938	dust	repeat_region	5169	5176	.	-	.	
-scf7180006948938	dust	repeat_region	6195	6201	.	-	.	
-scf7180006948938	dust	repeat_region	6841	6847	.	-	.	
 scf7180006950237	WormBase_imported	gene	2094	6084	.	+	.	ID=gene:snap_masked-scf7180006950237-processed-gene-0.1;Name=snap_masked-scf7180006950237-processed-gene-0.1;biotype=protein_coding
 scf7180006950237	WormBase_imported	mRNA	2094	6084	.	+	.	ID=transcript:snap_masked-scf7180006950237-processed-gene-0.1-mRNA-1;Parent=gene:snap_masked-scf7180006950237-processed-gene-0.1;Name=snap_masked-scf7180006950237-processed-gene-0.1-mRNA-1
 #microexons transcript:snap_masked-scf7180006950237-processed-gene-0.1-mRNA-1:  17 21 157 15-12-21-18-21 57
@@ -3981,30 +2824,6 @@ scf7180006950237	WormBase_imported	CDS	4786	4806	.	+	0	ID=cds:snap_masked-scf718
 scf7180006950237	WormBase_imported	CDS	4880	4897	.	+	0	ID=cds:snap_masked-scf7180006950237-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006950237-processed-gene-0.1-mRNA-1
 scf7180006950237	WormBase_imported	CDS	5405	5425	.	+	0	ID=cds:snap_masked-scf7180006950237-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006950237-processed-gene-0.1-mRNA-1
 scf7180006950237	WormBase_imported	CDS	6028	6084	.	+	0	ID=cds:snap_masked-scf7180006950237-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006950237-processed-gene-0.1-mRNA-1
-scf7180006950237	dust	repeat_region	2418	2424	.	-	.	
-scf7180006950237	dust	repeat_region	3090	3097	.	-	.	
-scf7180006950237	dust	repeat_region	3182	3188	.	-	.	
-scf7180006950237	dust	repeat_region	3259	3265	.	-	.	
-scf7180006950237	dust	repeat_region	3733	3743	.	-	.	
-scf7180006950237	dust	repeat_region	5171	5199	.	-	.	
-scf7180006950237	dust	repeat_region	5230	5236	.	-	.	
-scf7180006950237	dust	repeat_region	5335	5341	.	-	.	
-scf7180006950237	dust	repeat_region	6153	6162	.	-	.	
-scf7180006950237	dust	repeat_region	6519	6525	.	-	.	
-scf7180006950406	dust	repeat_region	319	349	.	-	.	
-scf7180006950406	dust	repeat_region	357	364	.	-	.	
-scf7180006950406	dust	repeat_region	2448	2454	.	-	.	
-scf7180006950406	dust	repeat_region	2886	2892	.	-	.	
-scf7180006950406	dust	repeat_region	2905	2911	.	-	.	
-scf7180006950406	dust	repeat_region	3068	3074	.	-	.	
-scf7180006950406	dust	repeat_region	4186	4192	.	-	.	
-scf7180006950406	dust	repeat_region	5127	5171	.	-	.	
-scf7180006950406	dust	repeat_region	5555	5561	.	-	.	
-scf7180006950406	dust	repeat_region	5914	5920	.	-	.	
-scf7180006950406	trf	tandem_repeat	6223	6246	41	-	.	
-scf7180006950406	dust	repeat_region	6345	6359	.	-	.	
-scf7180006950406	dust	repeat_region	6756	6918	.	-	.	
-scf7180006950406	trf	tandem_repeat	6781	6920	238	-	.	
 scf7180006953205	WormBase_imported	gene	2848	6098	.	-	.	ID=gene:snap_masked-scf7180006953205-processed-gene-0.1;Name=snap_masked-scf7180006953205-processed-gene-0.1;biotype=protein_coding
 scf7180006953205	WormBase_imported	mRNA	2848	6098	.	-	.	ID=transcript:snap_masked-scf7180006953205-processed-gene-0.1-mRNA-1;Parent=gene:snap_masked-scf7180006953205-processed-gene-0.1;Name=snap_masked-scf7180006953205-processed-gene-0.1-mRNA-1
 #microexons transcript:snap_masked-scf7180006953205-processed-gene-0.1-mRNA-1:  31 58 24-27 36 36 24-12-12-27-15-24 19
@@ -4068,22 +2887,6 @@ scf7180006948884	WormBase_imported	CDS	6005	6019	.	+	0	ID=cds:snap_masked-scf718
 scf7180006948884	WormBase_imported	CDS	6519	6533	.	+	0	ID=cds:snap_masked-scf7180006948884-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006948884-processed-gene-0.1-mRNA-1
 scf7180006948884	WormBase_imported	CDS	6612	6623	.	+	0	ID=cds:snap_masked-scf7180006948884-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006948884-processed-gene-0.1-mRNA-1
 scf7180006948884	WormBase_imported	CDS	6754	6810	.	+	0	ID=cds:snap_masked-scf7180006948884-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006948884-processed-gene-0.1-mRNA-1
-scf7180006948884	dust	repeat_region	171	178	.	-	.	
-scf7180006948884	dust	repeat_region	325	336	.	-	.	
-scf7180006948884	dust	repeat_region	1010	1016	.	-	.	
-scf7180006948884	dust	repeat_region	1115	1121	.	-	.	
-scf7180006948884	dust	repeat_region	1605	1611	.	-	.	
-scf7180006948884	dust	repeat_region	1749	1764	.	-	.	
-scf7180006948884	dust	repeat_region	2576	2582	.	-	.	
-scf7180006948884	dust	repeat_region	3261	3268	.	-	.	
-scf7180006948884	dust	repeat_region	3442	3450	.	-	.	
-scf7180006948884	dust	repeat_region	3992	3998	.	-	.	
-scf7180006948884	dust	repeat_region	4427	4433	.	-	.	
-scf7180006948884	dust	repeat_region	4735	4741	.	-	.	
-scf7180006948884	dust	repeat_region	4781	4788	.	-	.	
-scf7180006948884	dust	repeat_region	5090	5096	.	-	.	
-scf7180006948884	dust	repeat_region	5346	5352	.	-	.	
-scf7180006948884	dust	repeat_region	6334	6340	.	-	.	
 scf7180006952922	WormBase_imported	gene	551	4649	.	-	.	ID=gene:snap_masked-scf7180006952922-processed-gene-0.1;Name=snap_masked-scf7180006952922-processed-gene-0.1;biotype=protein_coding
 scf7180006952922	WormBase_imported	mRNA	551	4649	.	-	.	ID=transcript:snap_masked-scf7180006952922-processed-gene-0.1-mRNA-1;Parent=gene:snap_masked-scf7180006952922-processed-gene-0.1;Name=snap_masked-scf7180006952922-processed-gene-0.1-mRNA-1
 #microexons transcript:snap_masked-scf7180006952922-processed-gene-0.1-mRNA-1:  21-21 102 21 56 39 54 9-21-21-21-12 42 15-21-9
@@ -4120,36 +2923,6 @@ scf7180006952922	WormBase_imported	CDS	849	890	.	-	0	ID=cds:snap_masked-scf71800
 scf7180006952922	WormBase_imported	CDS	753	767	.	-	0	ID=cds:snap_masked-scf7180006952922-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006952922-processed-gene-0.1-mRNA-1
 scf7180006952922	WormBase_imported	CDS	654	674	.	-	0	ID=cds:snap_masked-scf7180006952922-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006952922-processed-gene-0.1-mRNA-1
 scf7180006952922	WormBase_imported	CDS	551	559	.	-	0	ID=cds:snap_masked-scf7180006952922-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006952922-processed-gene-0.1-mRNA-1
-scf7180006952922	cmscan_rfam_12.2	nucleotide_match	5070	5163	32.4	+	.	ID=cmscan_rfam_12.2.491;Name=mir-785;Target=mir-785 1 95;Gap=M8 D3 M37 I2 M47 
-scf7180006952922	dust	repeat_region	119	125	.	-	.	
-scf7180006952922	dust	repeat_region	475	481	.	-	.	
-scf7180006952922	dust	repeat_region	736	742	.	-	.	
-scf7180006952922	dust	repeat_region	1015	1021	.	-	.	
-scf7180006952922	dust	repeat_region	1568	1574	.	-	.	
-scf7180006952922	dust	repeat_region	1680	1742	.	-	.	
-scf7180006952922	dust	repeat_region	1830	1891	.	-	.	
-scf7180006952922	trf	tandem_repeat	2308	2331	41	-	.	
-scf7180006952922	dust	repeat_region	2563	2569	.	-	.	
-scf7180006952922	dust	repeat_region	3637	3643	.	-	.	
-scf7180006952922	dust	repeat_region	3791	3797	.	-	.	
-scf7180006952922	dust	repeat_region	4056	4062	.	-	.	
-scf7180006952922	dust	repeat_region	4751	4757	.	-	.	
-scf7180006952922	dust	repeat_region	5028	5034	.	-	.	
-scf7180006952922	dust	repeat_region	5089	5095	.	-	.	
-scf7180006952922	dust	repeat_region	5440	5448	.	-	.	
-scf7180006952922	dust	repeat_region	5797	5803	.	-	.	
-scf7180006950123	dust	repeat_region	679	701	.	-	.	
-scf7180006950123	dust	repeat_region	794	800	.	-	.	
-scf7180006950123	dust	repeat_region	1177	1183	.	-	.	
-scf7180006950123	dust	repeat_region	2977	3013	.	-	.	
-scf7180006950123	dust	repeat_region	5617	5623	.	-	.	
-scf7180006950123	repeatmasker	repeat_region	5951	6009	239	-	.	Name=tRNA-Arg-AGA;repeat_class=tRNA
-scf7180006951503	dust	repeat_region	1812	1820	.	-	.	
-scf7180006951503	trf	tandem_repeat	2589	2620	50	-	.	
-scf7180006951503	dust	repeat_region	3843	3902	.	-	.	
-scf7180006951503	dust	repeat_region	4766	4773	.	-	.	
-scf7180006951503	dust	repeat_region	4931	4937	.	-	.	
-scf7180006951503	dust	repeat_region	5637	5646	.	-	.	
 scf7180006950804	WormBase_imported	gene	891	5997	.	+	.	ID=gene:snap_masked-scf7180006950804-processed-gene-0.1;Name=snap_masked-scf7180006950804-processed-gene-0.1;biotype=protein_coding
 scf7180006950804	WormBase_imported	mRNA	891	5997	.	+	.	ID=transcript:snap_masked-scf7180006950804-processed-gene-0.1-mRNA-1;Parent=gene:snap_masked-scf7180006950804-processed-gene-0.1;Name=snap_masked-scf7180006950804-processed-gene-0.1-mRNA-1
 #microexons transcript:snap_masked-scf7180006950804-processed-gene-0.1-mRNA-1:  63 12-21-18-12-18-21-9-24-12-21-21 39 21-9-15-30 85 11
@@ -4191,15 +2964,6 @@ scf7180006950804	WormBase_imported	CDS	5423	5437	.	+	0	ID=cds:snap_masked-scf718
 scf7180006950804	WormBase_imported	CDS	5650	5679	.	+	0	ID=cds:snap_masked-scf7180006950804-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006950804-processed-gene-0.1-mRNA-1
 scf7180006950804	WormBase_imported	CDS	5813	5897	.	+	0	ID=cds:snap_masked-scf7180006950804-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006950804-processed-gene-0.1-mRNA-1
 scf7180006950804	WormBase_imported	CDS	5987	5997	.	+	2	ID=cds:snap_masked-scf7180006950804-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006950804-processed-gene-0.1-mRNA-1
-scf7180006950804	dust	repeat_region	36	44	.	-	.	
-scf7180006950804	dust	repeat_region	705	714	.	-	.	
-scf7180006950804	dust	repeat_region	1224	1266	.	-	.	
-scf7180006950804	dust	repeat_region	1928	1940	.	-	.	
-scf7180006950804	dust	repeat_region	2188	2194	.	-	.	
-scf7180006950804	dust	repeat_region	2745	2762	.	-	.	
-scf7180006950804	dust	repeat_region	4575	4581	.	-	.	
-scf7180006950804	dust	repeat_region	4872	4878	.	-	.	
-scf7180006950804	dust	repeat_region	5033	5092	.	-	.	
 scf7180006949431	WormBase_imported	gene	383	5216	.	+	.	ID=gene:snap_masked-scf7180006949431-processed-gene-0.1;Name=snap_masked-scf7180006949431-processed-gene-0.1;biotype=protein_coding
 scf7180006949431	WormBase_imported	mRNA	383	5216	.	+	.	ID=transcript:snap_masked-scf7180006949431-processed-gene-0.1-mRNA-1;Parent=gene:snap_masked-scf7180006949431-processed-gene-0.1;Name=snap_masked-scf7180006949431-processed-gene-0.1-mRNA-1
 #microexons transcript:snap_masked-scf7180006949431-processed-gene-0.1-mRNA-1:  21-21-21-15 36 9 33 21-21 105 36 9-21-21 34 47 33 21
@@ -4239,15 +3003,6 @@ scf7180006949431	WormBase_imported	CDS	3985	4018	.	+	0	ID=cds:snap_masked-scf718
 scf7180006949431	WormBase_imported	CDS	4300	4346	.	+	2	ID=cds:snap_masked-scf7180006949431-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006949431-processed-gene-0.1-mRNA-1
 scf7180006949431	WormBase_imported	CDS	4553	4585	.	+	0	ID=cds:snap_masked-scf7180006949431-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006949431-processed-gene-0.1-mRNA-1
 scf7180006949431	WormBase_imported	CDS	5196	5216	.	+	0	ID=cds:snap_masked-scf7180006949431-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006949431-processed-gene-0.1-mRNA-1
-scf7180006949431	dust	repeat_region	106	179	.	-	.	
-scf7180006949431	dust	repeat_region	808	815	.	-	.	
-scf7180006949431	dust	repeat_region	1051	1118	.	-	.	
-scf7180006949431	trf	tandem_repeat	1281	1309	51	-	.	
-scf7180006949431	dust	repeat_region	1480	1486	.	-	.	
-scf7180006949431	dust	repeat_region	1585	1602	.	-	.	
-scf7180006949431	dust	repeat_region	1821	1828	.	-	.	
-scf7180006949431	dust	repeat_region	2408	2414	.	-	.	
-scf7180006949431	dust	repeat_region	3061	3068	.	-	.	
 scf7180006951477	WormBase_imported	gene	1653	2732	.	-	.	ID=gene:snap_masked-scf7180006951477-processed-gene-0.1;Name=snap_masked-scf7180006951477-processed-gene-0.1;biotype=protein_coding
 scf7180006951477	WormBase_imported	mRNA	1653	2732	.	-	.	ID=transcript:snap_masked-scf7180006951477-processed-gene-0.1-mRNA-1;Parent=gene:snap_masked-scf7180006951477-processed-gene-0.1;Name=snap_masked-scf7180006951477-processed-gene-0.1-mRNA-1
 #microexons transcript:snap_masked-scf7180006951477-processed-gene-0.1-mRNA-1:  45 42 39 27-21-9-21
@@ -4288,20 +3043,6 @@ scf7180006949804	WormBase_imported	CDS	3966	3995	.	+	0	ID=cds:snap_masked-scf718
 scf7180006949804	WormBase_imported	CDS	4232	4255	.	+	0	ID=cds:snap_masked-scf7180006949804-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006949804-processed-gene-0.1-mRNA-1
 scf7180006949804	WormBase_imported	CDS	4592	4606	.	+	0	ID=cds:snap_masked-scf7180006949804-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006949804-processed-gene-0.1-mRNA-1
 scf7180006949804	WormBase_imported	CDS	4648	4686	.	+	0	ID=cds:snap_masked-scf7180006949804-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006949804-processed-gene-0.1-mRNA-1
-scf7180006949804	dust	repeat_region	1732	1739	.	-	.	
-scf7180006949804	dust	repeat_region	1950	1956	.	-	.	
-scf7180006949804	dust	repeat_region	2162	2170	.	-	.	
-scf7180006949804	dust	repeat_region	3039	3085	.	-	.	
-scf7180006949804	dust	repeat_region	3153	3169	.	-	.	
-scf7180006949804	dust	repeat_region	4099	4105	.	-	.	
-scf7180006949804	dust	repeat_region	4303	4309	.	-	.	
-scf7180006949804	repeatmasker	repeat_region	4909	4979	184	+	.	Name=OldhAT1;repeat_class=DNA/hAT-Ac
-scf7180006949804	dust	repeat_region	5084	5090	.	-	.	
-scf7180006950843	repeatmasker	repeat_region	293	351	268	+	.	Name=tRNA-Arg-AGA;repeat_class=tRNA
-scf7180006950843	dust	repeat_region	734	742	.	-	.	
-scf7180006950843	dust	repeat_region	1334	1341	.	-	.	
-scf7180006950843	dust	repeat_region	1539	1545	.	-	.	
-scf7180006950843	dust	repeat_region	4556	4602	.	-	.	
 scf7180006949718	WormBase_imported	gene	1301	4518	.	+	.	ID=gene:snap_masked-scf7180006949718-processed-gene-0.1;Name=snap_masked-scf7180006949718-processed-gene-0.1;biotype=protein_coding
 scf7180006949718	WormBase_imported	mRNA	1301	4518	.	+	.	ID=transcript:snap_masked-scf7180006949718-processed-gene-0.1-mRNA-1;Parent=gene:snap_masked-scf7180006949718-processed-gene-0.1;Name=snap_masked-scf7180006949718-processed-gene-0.1-mRNA-1
 #microexons transcript:snap_masked-scf7180006949718-processed-gene-0.1-mRNA-1:  91 78 26 9-15-15 36
@@ -4319,18 +3060,6 @@ scf7180006949718	WormBase_imported	CDS	2514	2522	.	+	0	ID=cds:snap_masked-scf718
 scf7180006949718	WormBase_imported	CDS	3719	3733	.	+	0	ID=cds:snap_masked-scf7180006949718-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006949718-processed-gene-0.1-mRNA-1
 scf7180006949718	WormBase_imported	CDS	3905	3919	.	+	0	ID=cds:snap_masked-scf7180006949718-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006949718-processed-gene-0.1-mRNA-1
 scf7180006949718	WormBase_imported	CDS	4483	4518	.	+	0	ID=cds:snap_masked-scf7180006949718-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006949718-processed-gene-0.1-mRNA-1
-scf7180006949718	dust	repeat_region	12	18	.	-	.	
-scf7180006949718	dust	repeat_region	341	347	.	-	.	
-scf7180006949718	dust	repeat_region	829	835	.	-	.	
-scf7180006949718	dust	repeat_region	897	904	.	-	.	
-scf7180006949718	dust	repeat_region	990	1002	.	-	.	
-scf7180006949718	dust	repeat_region	1281	1288	.	-	.	
-scf7180006949718	dust	repeat_region	1366	1372	.	-	.	
-scf7180006949718	dust	repeat_region	2057	2063	.	-	.	
-scf7180006949718	dust	repeat_region	2503	2509	.	-	.	
-scf7180006949718	dust	repeat_region	2847	2853	.	-	.	
-scf7180006949718	dust	repeat_region	4461	4469	.	-	.	
-scf7180006949718	dust	repeat_region	4651	4662	.	-	.	
 scf7180006947142	WormBase_imported	gene	1416	3949	.	-	.	ID=gene:snap_masked-scf7180006947142-processed-gene-0.1;Name=snap_masked-scf7180006947142-processed-gene-0.1;biotype=protein_coding
 scf7180006947142	WormBase_imported	mRNA	1416	3949	.	-	.	ID=transcript:snap_masked-scf7180006947142-processed-gene-0.1-mRNA-1;Parent=gene:snap_masked-scf7180006947142-processed-gene-0.1;Name=snap_masked-scf7180006947142-processed-gene-0.1-mRNA-1
 #microexons transcript:snap_masked-scf7180006947142-processed-gene-0.1-mRNA-1:  51 12-30-27-21-21 36 15-9 42 21-21
@@ -4359,13 +3088,6 @@ scf7180006947142	WormBase_imported	CDS	1911	1919	.	-	0	ID=cds:snap_masked-scf718
 scf7180006947142	WormBase_imported	CDS	1834	1875	.	-	0	ID=cds:snap_masked-scf7180006947142-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006947142-processed-gene-0.1-mRNA-1
 scf7180006947142	WormBase_imported	CDS	1737	1757	.	-	0	ID=cds:snap_masked-scf7180006947142-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006947142-processed-gene-0.1-mRNA-1
 scf7180006947142	WormBase_imported	CDS	1416	1436	.	-	0	ID=cds:snap_masked-scf7180006947142-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006947142-processed-gene-0.1-mRNA-1
-scf7180006947142	dust	repeat_region	198	205	.	-	.	
-scf7180006947142	dust	repeat_region	208	215	.	-	.	
-scf7180006947142	dust	repeat_region	798	804	.	-	.	
-scf7180006947142	dust	repeat_region	2239	2246	.	-	.	
-scf7180006947142	dust	repeat_region	2857	2863	.	-	.	
-scf7180006947142	dust	repeat_region	3290	3296	.	-	.	
-scf7180006947142	dust	repeat_region	3863	3869	.	-	.	
 scf7180006947760	WormBase_imported	gene	651	4291	.	+	.	ID=gene:snap_masked-scf7180006947760-processed-gene-0.1;Name=snap_masked-scf7180006947760-processed-gene-0.1;biotype=protein_coding
 scf7180006947760	WormBase_imported	mRNA	651	4291	.	+	.	ID=transcript:snap_masked-scf7180006947760-processed-gene-0.1-mRNA-1;Parent=gene:snap_masked-scf7180006947760-processed-gene-0.1;Name=snap_masked-scf7180006947760-processed-gene-0.1-mRNA-1
 #microexons transcript:snap_masked-scf7180006947760-processed-gene-0.1-mRNA-1:  15-21-12 258 18-18-15-12-9
@@ -4388,14 +3110,6 @@ scf7180006947760	WormBase_imported	CDS	3892	3909	.	+	0	ID=cds:snap_masked-scf718
 scf7180006947760	WormBase_imported	CDS	4019	4033	.	+	0	ID=cds:snap_masked-scf7180006947760-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006947760-processed-gene-0.1-mRNA-1
 scf7180006947760	WormBase_imported	CDS	4181	4192	.	+	0	ID=cds:snap_masked-scf7180006947760-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006947760-processed-gene-0.1-mRNA-1
 scf7180006947760	WormBase_imported	CDS	4283	4291	.	+	0	ID=cds:snap_masked-scf7180006947760-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006947760-processed-gene-0.1-mRNA-1
-scf7180006947760	dust	repeat_region	1267	1273	.	-	.	
-scf7180006947760	dust	repeat_region	1739	1745	.	-	.	
-scf7180006947760	dust	repeat_region	2283	2289	.	-	.	
-scf7180006947760	dust	repeat_region	2591	2602	.	-	.	
-scf7180006947760	dust	repeat_region	2690	2702	.	-	.	
-scf7180006947760	dust	repeat_region	2770	2776	.	-	.	
-scf7180006947760	dust	repeat_region	3650	3657	.	-	.	
-scf7180006947760	dust	repeat_region	3968	3974	.	-	.	
 scf7180006953225	WormBase_imported	gene	556	2310	.	-	.	ID=gene:snap_masked-scf7180006953225-processed-gene-0.1;Name=snap_masked-scf7180006953225-processed-gene-0.1;biotype=protein_coding
 scf7180006953225	WormBase_imported	mRNA	556	2310	.	-	.	ID=transcript:snap_masked-scf7180006953225-processed-gene-0.1-mRNA-1;Parent=gene:snap_masked-scf7180006953225-processed-gene-0.1;Name=snap_masked-scf7180006953225-processed-gene-0.1-mRNA-1
 #microexons transcript:snap_masked-scf7180006953225-processed-gene-0.1-mRNA-1:  86 74 26 18-9-6 96
@@ -4413,11 +3127,6 @@ scf7180006953225	WormBase_imported	CDS	1223	1240	.	-	0	ID=cds:snap_masked-scf718
 scf7180006953225	WormBase_imported	CDS	933	941	.	-	0	ID=cds:snap_masked-scf7180006953225-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006953225-processed-gene-0.1-mRNA-1
 scf7180006953225	WormBase_imported	CDS	701	706	.	-	0	ID=cds:snap_masked-scf7180006953225-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006953225-processed-gene-0.1-mRNA-1
 scf7180006953225	WormBase_imported	CDS	556	651	.	-	0	ID=cds:snap_masked-scf7180006953225-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006953225-processed-gene-0.1-mRNA-1
-scf7180006953225	dust	repeat_region	962	969	.	-	.	
-scf7180006953225	dust	repeat_region	1018	1025	.	-	.	
-scf7180006953225	dust	repeat_region	1362	1368	.	-	.	
-scf7180006953225	dust	repeat_region	3014	3021	.	-	.	
-scf7180006953225	dust	repeat_region	3394	3400	.	-	.	
 scf7180006947705	WormBase_imported	gene	240	3260	.	-	.	ID=gene:snap_masked-scf7180006947705-processed-gene-0.1;Name=snap_masked-scf7180006947705-processed-gene-0.1;biotype=protein_coding
 scf7180006947705	WormBase_imported	mRNA	240	3260	.	-	.	ID=transcript:snap_masked-scf7180006947705-processed-gene-0.1-mRNA-1;Parent=gene:snap_masked-scf7180006947705-processed-gene-0.1;Name=snap_masked-scf7180006947705-processed-gene-0.1-mRNA-1
 #microexons transcript:snap_masked-scf7180006947705-processed-gene-0.1-mRNA-1:  16 18-18-18 36 24-27-12-21 35 3
@@ -4445,18 +3154,6 @@ scf7180006947705	WormBase_imported	three_prime_UTR	909	920	.	-	.	Parent=transcri
 scf7180006947705	WormBase_imported	three_prime_UTR	754	774	.	-	.	Parent=transcript:snap_masked-scf7180006947705-processed-gene-0.1-mRNA-1
 scf7180006947705	WormBase_imported	three_prime_UTR	663	697	.	-	.	Parent=transcript:snap_masked-scf7180006947705-processed-gene-0.1-mRNA-1
 scf7180006947705	WormBase_imported	three_prime_UTR	240	242	.	-	.	Parent=transcript:snap_masked-scf7180006947705-processed-gene-0.1-mRNA-1
-scf7180006947705	dust	repeat_region	207	280	.	-	.	
-scf7180006947705	dust	repeat_region	584	590	.	-	.	
-scf7180006947705	dust	repeat_region	795	801	.	-	.	
-scf7180006947705	dust	repeat_region	1013	1019	.	-	.	
-scf7180006947705	dust	repeat_region	1175	1181	.	-	.	
-scf7180006947705	dust	repeat_region	2012	2018	.	-	.	
-scf7180006947705	dust	repeat_region	2276	2283	.	-	.	
-scf7180006947705	dust	repeat_region	2301	2307	.	-	.	
-scf7180006947705	dust	repeat_region	2424	2430	.	-	.	
-scf7180006947705	dust	repeat_region	3077	3083	.	-	.	
-scf7180006947705	dust	repeat_region	3134	3140	.	-	.	
-scf7180006947705	dust	repeat_region	3232	3238	.	-	.	
 scf7180006950479	WormBase_imported	gene	982	2852	.	+	.	ID=gene:snap_masked-scf7180006950479-processed-gene-0.1;Name=snap_masked-scf7180006950479-processed-gene-0.1;biotype=protein_coding
 scf7180006950479	WormBase_imported	mRNA	982	2852	.	+	.	ID=transcript:snap_masked-scf7180006950479-processed-gene-0.1-mRNA-1;Parent=gene:snap_masked-scf7180006950479-processed-gene-0.1;Name=snap_masked-scf7180006950479-processed-gene-0.1-mRNA-1
 #microexons transcript:snap_masked-scf7180006950479-processed-gene-0.1-mRNA-1:  21-15-21 72 42 36 42 24-18
@@ -4479,25 +3176,3 @@ scf7180006950479	WormBase_imported	CDS	1834	1869	.	+	0	ID=cds:snap_masked-scf718
 scf7180006950479	WormBase_imported	CDS	2120	2161	.	+	0	ID=cds:snap_masked-scf7180006950479-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006950479-processed-gene-0.1-mRNA-1
 scf7180006950479	WormBase_imported	CDS	2538	2561	.	+	0	ID=cds:snap_masked-scf7180006950479-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006950479-processed-gene-0.1-mRNA-1
 scf7180006950479	WormBase_imported	CDS	2835	2852	.	+	0	ID=cds:snap_masked-scf7180006950479-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006950479-processed-gene-0.1-mRNA-1
-scf7180006950479	dust	repeat_region	355	361	.	-	.	
-scf7180006950479	dust	repeat_region	484	491	.	-	.	
-scf7180006950479	dust	repeat_region	968	976	.	-	.	
-scf7180006950479	dust	repeat_region	1418	1424	.	-	.	
-scf7180006950479	dust	repeat_region	1764	1826	.	-	.	
-scf7180006950479	dust	repeat_region	1878	1884	.	-	.	
-scf7180006950479	dust	repeat_region	2367	2373	.	-	.	
-scf7180006950479	dust	repeat_region	2686	2712	.	-	.	
-scf7180006950479	dust	repeat_region	2959	2965	.	-	.	
-scf7180006952839	dust	repeat_region	1153	1211	.	-	.	
-scf7180006952839	dust	repeat_region	1692	1705	.	-	.	
-scf7180006952839	dust	repeat_region	2494	2501	.	-	.	
-scf7180006952839	dust	repeat_region	2600	2700	.	-	.	
-scf7180006949526	dust	repeat_region	895	901	.	-	.	
-scf7180006949526	dust	repeat_region	1320	1327	.	-	.	
-scf7180006949526	dust	repeat_region	1361	1368	.	-	.	
-scf7180006949526	dust	repeat_region	2418	2454	.	-	.	
-scf7180006949526	dust	repeat_region	2584	2649	.	-	.	
-scf7180006949526	dust	repeat_region	2846	2852	.	-	.	
-scf7180006949526	dust	repeat_region	2936	2989	.	-	.	
-scf7180006949526	dust	repeat_region	3029	3101	.	-	.	
-scf7180006949526	dust	repeat_region	3208	3214	.	-	.	

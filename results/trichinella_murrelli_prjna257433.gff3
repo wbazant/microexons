@@ -146,20 +146,3 @@ scaffold862s	WormBase_imported	CDS	1257	1277	.	-	2	ID=cds:T05_980.1;Parent=trans
 scaffold862s	WormBase_imported	CDS	899	919	.	-	2	ID=cds:T05_980.1;Parent=transcript:T05_980.1
 scaffold862s	WormBase_imported	CDS	184	204	.	-	2	ID=cds:T05_980.1;Parent=transcript:T05_980.1
 scaffold862s	WormBase_imported	CDS	6	25	.	-	2	ID=cds:T05_980.1;Parent=transcript:T05_980.1
-scaffold862s	trf	tandem_repeat	1	3007	5214	-	.	
-scaffold862s	dust	low_complexity_region	84	98	.	-	.	
-scaffold862s	dust	low_complexity_region	264	276	.	-	.	
-scaffold862s	dust	low_complexity_region	442	455	.	-	.	
-scaffold862s	dust	low_complexity_region	621	634	.	-	.	
-scaffold862s	dust	low_complexity_region	800	813	.	-	.	
-scaffold862s	dust	low_complexity_region	978	992	.	-	.	
-scaffold862s	dust	low_complexity_region	1158	1171	.	-	.	
-scaffold862s	dust	low_complexity_region	1336	1350	.	-	.	
-scaffold862s	dust	low_complexity_region	1516	1529	.	-	.	
-scaffold862s	dust	low_complexity_region	1694	1707	.	-	.	
-scaffold862s	dust	low_complexity_region	1872	1886	.	-	.	
-scaffold862s	dust	low_complexity_region	2051	2064	.	-	.	
-scaffold862s	dust	low_complexity_region	2229	2241	.	-	.	
-scaffold862s	dust	low_complexity_region	2585	2598	.	-	.	
-scaffold862s	dust	low_complexity_region	2764	2778	.	-	.	
-scaffold862s	dust	low_complexity_region	2943	2956	.	-	.	

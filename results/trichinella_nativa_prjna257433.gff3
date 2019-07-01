@@ -146,14 +146,6 @@ scaffold601s	WormBase_imported	CDS	2981	2995	.	+	0	ID=cds:T02_557.1;Parent=trans
 scaffold601s	WormBase_imported	CDS	3180	3191	.	+	0	ID=cds:T02_557.1;Parent=transcript:T02_557.1
 scaffold601s	WormBase_imported	CDS	3608	3807	.	+	0	ID=cds:T02_557.1;Parent=transcript:T02_557.1
 scaffold601s	WormBase_imported	CDS	3867	3933	.	+	1	ID=cds:T02_557.1;Parent=transcript:T02_557.1
-scaffold601s	dust	low_complexity_region	207	294	.	-	.	
-scaffold601s	dust	low_complexity_region	712	784	.	-	.	
-scaffold601s	dust	low_complexity_region	2492	2499	.	-	.	
-scaffold601s	dust	low_complexity_region	3069	3082	.	-	.	
-scaffold601s	dust	low_complexity_region	3276	3282	.	-	.	
-scaffold601s	dust	low_complexity_region	3594	3600	.	-	.	
-scaffold601s	dust	low_complexity_region	3842	3861	.	-	.	
-scaffold601s	trf	tandem_repeat	3842	3861	40	-	.	
 scaffold709s	WormBase_imported	gene	126	2161	.	+	.	ID=gene:T02_1590;Name=T02_1590;biotype=protein_coding
 scaffold709s	WormBase_imported	mRNA	126	2161	.	+	.	ID=transcript:T02_1590.1;Parent=gene:T02_1590;Name=T02_1590.1
 #microexons transcript:T02_1590.1:  28 86 31 27 57 27-30-27-27 55
@@ -178,15 +170,6 @@ scaffold709s	WormBase_imported	CDS	1350	1379	.	+	1	ID=cds:T02_1590.1;Parent=tran
 scaffold709s	WormBase_imported	CDS	1641	1667	.	+	1	ID=cds:T02_1590.1;Parent=transcript:T02_1590.1
 scaffold709s	WormBase_imported	CDS	1817	1843	.	+	1	ID=cds:T02_1590.1;Parent=transcript:T02_1590.1
 scaffold709s	WormBase_imported	CDS	2107	2161	.	+	1	ID=cds:T02_1590.1;Parent=transcript:T02_1590.1
-scaffold709s	trf	tandem_repeat	12	2179	2015	-	.	
-scaffold709s	trf	tandem_repeat	12	2179	1981	-	.	
-scaffold709s	dust	low_complexity_region	102	122	.	-	.	
-scaffold709s	dust	low_complexity_region	682	764	.	-	.	
-scaffold709s	dust	low_complexity_region	1272	1295	.	-	.	
-scaffold711s	dust	low_complexity_region	1278	1335	.	-	.	
-scaffold711s	dust	low_complexity_region	1397	1485	.	-	.	
-scaffold711s	trf	tandem_repeat	1773	1818	55	-	.	
-scaffold711s	dust	low_complexity_region	1774	1841	.	-	.	
 scaffold781s	WormBase_imported	gene	93	1460	.	+	.	ID=gene:T02_11433;Name=T02_11433;biotype=protein_coding
 scaffold781s	WormBase_imported	mRNA	93	1460	.	+	.	ID=transcript:T02_11433.1;Parent=gene:T02_11433;Name=T02_11433.1
 #microexons transcript:T02_11433.1:  78 27-30-27-27 135 66
@@ -204,13 +187,6 @@ scaffold781s	WormBase_imported	CDS	561	587	.	+	0	ID=cds:T02_11433.1;Parent=trans
 scaffold781s	WormBase_imported	CDS	796	822	.	+	0	ID=cds:T02_11433.1;Parent=transcript:T02_11433.1
 scaffold781s	WormBase_imported	CDS	1152	1286	.	+	0	ID=cds:T02_11433.1;Parent=transcript:T02_11433.1
 scaffold781s	WormBase_imported	CDS	1395	1460	.	+	0	ID=cds:T02_11433.1;Parent=transcript:T02_11433.1
-scaffold781s	trf	tandem_repeat	1	1604	1461	-	.	
-scaffold781s	trf	tandem_repeat	1	1611	1706	-	.	
-scaffold781s	trf	tandem_repeat	1	1617	1683	-	.	
-scaffold781s	dust	low_complexity_region	250	313	.	-	.	
-scaffold781s	dust	low_complexity_region	360	380	.	-	.	
-scaffold781s	dust	low_complexity_region	765	799	.	-	.	
-scaffold781s	dust	low_complexity_region	1490	1496	.	-	.	
 scaffold825s	WormBase_imported	gene	99	1285	.	-	.	ID=gene:T02_11226;Name=T02_11226;biotype=protein_coding
 scaffold825s	WormBase_imported	mRNA	99	1285	.	-	.	ID=transcript:T02_11226.1;Parent=gene:T02_11226;Name=T02_11226.1
 #microexons transcript:T02_11226.1:  69 30-30-27 69 27-27
@@ -229,9 +205,3 @@ scaffold825s	WormBase_imported	CDS	812	838	.	-	0	ID=cds:T02_11226.1;Parent=trans
 scaffold825s	WormBase_imported	CDS	693	761	.	-	0	ID=cds:T02_11226.1;Parent=transcript:T02_11226.1
 scaffold825s	WormBase_imported	CDS	521	547	.	-	0	ID=cds:T02_11226.1;Parent=transcript:T02_11226.1
 scaffold825s	WormBase_imported	CDS	99	125	.	-	0	ID=cds:T02_11226.1;Parent=transcript:T02_11226.1
-scaffold825s	trf	tandem_repeat	3	1322	1289	-	.	
-scaffold825s	trf	tandem_repeat	3	1322	1287	-	.	
-scaffold825s	trf	tandem_repeat	5	1322	1095	-	.	
-scaffold825s	trf	tandem_repeat	244	269	52	-	.	
-scaffold825s	dust	low_complexity_region	952	977	.	-	.	
-scaffold825s	dust	low_complexity_region	1299	1321	.	-	.	

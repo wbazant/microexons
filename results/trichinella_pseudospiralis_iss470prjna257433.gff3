@@ -531,33 +531,3 @@ scaffold419s	WormBase_imported	CDS	1774	1800	.	-	0	ID=cds:T4D_7999.1;Parent=tran
 scaffold419s	WormBase_imported	CDS	1579	1602	.	-	0	ID=cds:T4D_7999.1;Parent=transcript:T4D_7999.1
 scaffold419s	WormBase_imported	CDS	1335	1348	.	-	0	ID=cds:T4D_7999.1;Parent=transcript:T4D_7999.1
 scaffold419s	WormBase_imported	CDS	1158	1167	.	-	1	ID=cds:T4D_7999.1;Parent=transcript:T4D_7999.1
-scaffold419s	trf	tandem_repeat	4	3233	3946	-	.	
-scaffold419s	dust	low_complexity_region	86	130	.	-	.	
-scaffold419s	dust	low_complexity_region	267	311	.	-	.	
-scaffold419s	dust	low_complexity_region	455	493	.	-	.	
-scaffold419s	dust	low_complexity_region	526	532	.	-	.	
-scaffold419s	dust	low_complexity_region	629	674	.	-	.	
-scaffold419s	dust	low_complexity_region	707	713	.	-	.	
-scaffold419s	dust	low_complexity_region	810	854	.	-	.	
-scaffold419s	trf	tandem_repeat	830	854	43	-	.	
-scaffold419s	dust	low_complexity_region	1022	1034	.	-	.	
-scaffold419s	dust	low_complexity_region	1172	1217	.	-	.	
-scaffold419s	dust	low_complexity_region	1353	1397	.	-	.	
-scaffold419s	dust	low_complexity_region	1534	1578	.	-	.	
-scaffold419s	trf	tandem_repeat	1554	1578	43	-	.	
-scaffold419s	dust	low_complexity_region	1722	1760	.	-	.	
-scaffold419s	dust	low_complexity_region	1793	1799	.	-	.	
-scaffold419s	dust	low_complexity_region	1897	1941	.	-	.	
-scaffold419s	trf	tandem_repeat	1917	1941	43	-	.	
-scaffold419s	dust	low_complexity_region	2085	2123	.	-	.	
-scaffold419s	trf	tandem_repeat	2098	2121	41	-	.	
-scaffold419s	dust	low_complexity_region	2155	2161	.	-	.	
-scaffold419s	dust	low_complexity_region	2258	2303	.	-	.	
-scaffold419s	dust	low_complexity_region	2440	2484	.	-	.	
-scaffold419s	dust	low_complexity_region	2621	2665	.	-	.	
-scaffold419s	trf	tandem_repeat	2641	2665	43	-	.	
-scaffold419s	dust	low_complexity_region	2802	2845	.	-	.	
-scaffold419s	dust	low_complexity_region	2990	3028	.	-	.	
-scaffold419s	dust	low_complexity_region	3061	3067	.	-	.	
-scaffold419s	dust	low_complexity_region	3165	3209	.	-	.	
-scaffold419s	trf	tandem_repeat	3185	3209	43	-	.	

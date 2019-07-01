@@ -108,5 +108,3 @@ TASK_contig0000910	WormBase_imported	CDS	2936	2959	.	-	0	ID=cds:TASK_0000204701-
 TASK_contig0000910	WormBase_imported	CDS	2806	2865	.	-	0	ID=cds:TASK_0000204701-mRNA-1;Parent=transcript:TASK_0000204701-mRNA-1
 TASK_contig0000910	WormBase_imported	CDS	1947	2144	.	-	0	ID=cds:TASK_0000204701-mRNA-1;Parent=transcript:TASK_0000204701-mRNA-1
 TASK_contig0000910	WormBase_imported	CDS	110	1438	.	-	0	ID=cds:TASK_0000204701-mRNA-1;Parent=transcript:TASK_0000204701-mRNA-1
-TASK_contig0000910	dust	low_complexity_region	2119	2125	.	-	.	
-TASK_contig0000910	dust	low_complexity_region	8298	8304	.	-	.	

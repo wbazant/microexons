@@ -233,27 +233,6 @@ pathogen_TSM_contig_01009	WormBase_imported	CDS	23954	23977	.	-	0	ID=cds:TsM_000
 pathogen_TSM_contig_01009	WormBase_imported	CDS	23824	23883	.	-	0	ID=cds:TsM_000500600;Parent=transcript:TsM_000500600
 pathogen_TSM_contig_01009	WormBase_imported	CDS	23261	23311	.	-	0	ID=cds:TsM_000500600;Parent=transcript:TsM_000500600
 pathogen_TSM_contig_01009	WormBase_imported	CDS	22939	23163	.	-	0	ID=cds:TsM_000500600;Parent=transcript:TsM_000500600
-pathogen_TSM_contig_01009	dust	low_complexity_region	2469	2476	.	-	.	
-pathogen_TSM_contig_01009	RepeatMasker	repeat_region	3797	3880	444	+	.	
-pathogen_TSM_contig_01009	RepeatMasker	repeat_region	3913	4066	688	+	.	
-pathogen_TSM_contig_01009	dust	low_complexity_region	4360	4366	.	-	.	
-pathogen_TSM_contig_01009	RepeatMasker	repeat_region	4513	4615	737	+	.	
-pathogen_TSM_contig_01009	dust	low_complexity_region	4940	4946	.	-	.	
-pathogen_TSM_contig_01009	dust	low_complexity_region	6489	6495	.	-	.	
-pathogen_TSM_contig_01009	dust	low_complexity_region	6794	6800	.	-	.	
-pathogen_TSM_contig_01009	tandem	tandem_repeat	7451	7476	45	-	.	
-pathogen_TSM_contig_01009	dust	low_complexity_region	8455	8462	.	-	.	
-pathogen_TSM_contig_01009	dust	low_complexity_region	8563	8570	.	-	.	
-pathogen_TSM_contig_01009	dust	low_complexity_region	10353	10359	.	-	.	
-pathogen_TSM_contig_01009	dust	low_complexity_region	11833	11854	.	-	.	
-pathogen_TSM_contig_01009	tandem	tandem_repeat	14291	14315	50	-	.	
-pathogen_TSM_contig_01009	dust	low_complexity_region	14371	14378	.	-	.	
-pathogen_TSM_contig_01009	dust	low_complexity_region	15327	15333	.	-	.	
-pathogen_TSM_contig_01009	dust	low_complexity_region	16610	16641	.	-	.	
-pathogen_TSM_contig_01009	tandem	tandem_repeat	16610	16641	43	-	.	
-pathogen_TSM_contig_01009	dust	low_complexity_region	23138	23144	.	-	.	
-pathogen_TSM_contig_01009	dust	low_complexity_region	24417	24423	.	-	.	
-pathogen_TSM_contig_01009	dust	low_complexity_region	26081	26087	.	-	.	
 pathogen_TSM_contig_01356	WormBase_imported	gene	615	8041	.	-	.	ID=gene:TsM_000618900;Name=TsM_000618900;biotype=protein_coding
 pathogen_TSM_contig_01356	WormBase_imported	mRNA	615	8041	.	-	.	ID=transcript:TsM_000618900;Parent=gene:TsM_000618900;Name=TsM_000618900
 #microexons transcript:TsM_000618900:  25 99 93 99 69 132 66 84 15 45 338 30 112 201 51 60 48 60 33 132 30-24-24 39 105 114 26 33 48 81 54 21 48
@@ -350,9 +329,6 @@ pathogen_TSM_contig_02274	WormBase_imported	CDS	3642	3659	.	+	2	ID=cds:TsM_00038
 pathogen_TSM_contig_02274	WormBase_imported	CDS	4000	4017	.	+	2	ID=cds:TsM_000380000;Parent=transcript:TsM_000380000
 pathogen_TSM_contig_02274	WormBase_imported	CDS	4280	4306	.	+	2	ID=cds:TsM_000380000;Parent=transcript:TsM_000380000
 pathogen_TSM_contig_02274	WormBase_imported	CDS	4619	4662	.	+	2	ID=cds:TsM_000380000;Parent=transcript:TsM_000380000
-pathogen_TSM_contig_02274	RepeatMasker	repeat_region	1232	1562	621	+	.	
-pathogen_TSM_contig_02274	dust	low_complexity_region	1993	1999	.	-	.	
-pathogen_TSM_contig_02274	RepeatMasker	repeat_region	2523	2641	256	+	.	
 pathogen_TSM_contig_03423	WormBase_imported	gene	82	3648	.	+	.	ID=gene:TsM_000987100;Name=TsM_000987100;biotype=protein_coding
 pathogen_TSM_contig_03423	WormBase_imported	mRNA	82	3648	.	+	.	ID=transcript:TsM_000987100;Parent=gene:TsM_000987100;Name=TsM_000987100
 #microexons transcript:TsM_000987100:  15-24-27 121 929 216
@@ -368,41 +344,3 @@ pathogen_TSM_contig_03423	WormBase_imported	CDS	681	707	.	+	0	ID=cds:TsM_0009871
 pathogen_TSM_contig_03423	WormBase_imported	CDS	1969	2089	.	+	0	ID=cds:TsM_000987100;Parent=transcript:TsM_000987100
 pathogen_TSM_contig_03423	WormBase_imported	CDS	2449	3377	.	+	2	ID=cds:TsM_000987100;Parent=transcript:TsM_000987100
 pathogen_TSM_contig_03423	WormBase_imported	CDS	3433	3648	.	+	0	ID=cds:TsM_000987100;Parent=transcript:TsM_000987100
-pathogen_TSM_contig_03423	dust	low_complexity_region	414	420	.	-	.	
-pathogen_TSM_contig_03423	dust	low_complexity_region	509	515	.	-	.	
-pathogen_TSM_contig_03423	dust	low_complexity_region	749	755	.	-	.	
-pathogen_TSM_scaffold_03424	RepeatMasker	repeat_region	2	986	6339	+	.	
-pathogen_TSM_scaffold_03424	dust	low_complexity_region	338	459	.	-	.	
-pathogen_TSM_scaffold_03424	tandem	tandem_repeat	915	1058	288	-	.	
-pathogen_TSM_scaffold_03424	RepeatMasker	repeat_region	987	1473	3515	+	.	
-pathogen_TSM_scaffold_03424	RepeatMasker	repeat_region	2018	3286	7465	-	.	
-pathogen_TSM_contig_03425	RepeatMasker	repeat_region	344	1386	1352	+	.	
-pathogen_TSM_contig_03426	RepeatMasker	repeat_region	36	207	919	-	.	
-pathogen_TSM_contig_03426	RepeatMasker	repeat_region	555	865	1057	+	.	
-pathogen_TSM_contig_03427	dust	low_complexity_region	1892	1898	.	-	.	
-pathogen_TSM_scaffold_03428	dust	low_complexity_region	1613	1619	.	-	.	
-pathogen_TSM_scaffold_03428	dust	low_complexity_region	1947	2085	.	-	.	
-pathogen_TSM_scaffold_03428	RepeatMasker	repeat_region	2086	3716	13164	+	.	
-pathogen_TSM_contig_03429	RepeatMasker	repeat_region	964	1652	1145	-	.	
-pathogen_TSM_contig_03429	dust	low_complexity_region	3238	3244	.	-	.	
-pathogen_TSM_contig_03429	RepeatMasker	repeat_region	3597	3707	319	-	.	
-pathogen_TSM_contig_03429	dust	low_complexity_region	3599	3605	.	-	.	
-pathogen_TSM_contig_03430	RepeatMasker	repeat_region	309	3669	24489	-	.	
-pathogen_TSM_contig_03430	dust	low_complexity_region	2095	2102	.	-	.	
-pathogen_TSM_contig_03431	RepeatMasker	repeat_region	236	350	257	-	.	
-pathogen_TSM_contig_03431	RepeatMasker	repeat_region	353	447	513	+	.	
-pathogen_TSM_contig_03431	RepeatMasker	repeat_region	493	645	825	+	.	
-pathogen_TSM_contig_03431	RepeatMasker	repeat_region	645	965	1995	-	.	
-pathogen_TSM_contig_03431	RepeatMasker	repeat_region	746	1057	1911	-	.	
-pathogen_TSM_contig_03431	RepeatMasker	repeat_region	1060	1331	1726	+	.	
-pathogen_TSM_contig_03431	RepeatMasker	repeat_region	1311	1894	3611	-	.	
-pathogen_TSM_contig_03431	RepeatMasker	repeat_region	1896	2052	1013	+	.	
-pathogen_TSM_contig_03431	RepeatMasker	repeat_region	2054	2466	1745	-	.	
-pathogen_TSM_contig_03431	RepeatMasker	repeat_region	2420	2691	1413	-	.	
-pathogen_TSM_contig_03431	RepeatMasker	repeat_region	2696	3201	1978	+	.	
-pathogen_TSM_contig_03432	RepeatMasker	repeat_region	2293	2403	536	-	.	
-pathogen_TSM_contig_03432	dust	low_complexity_region	2638	2644	.	-	.	
-pathogen_TSM_contig_03432	RepeatMasker	repeat_region	3252	3371	253	+	.	
-pathogen_TSM_contig_03432	RepeatMasker	repeat_region	3368	3410	293	-	.	
-pathogen_TSM_contig_03432	RepeatMasker	repeat_region	3378	3526	759	-	.	
-pathogen_TSM_contig_03432	RepeatMasker	repeat_region	3575	3702	778	-	.	

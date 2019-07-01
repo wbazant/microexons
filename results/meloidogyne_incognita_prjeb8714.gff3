@@ -92,20 +92,3 @@ FXSY01007582.1	WormBase_imported	CDS	2120	2136	.	+	1	ID=cds:Minc3s07582g41286;Pa
 FXSY01007582.1	WormBase_imported	CDS	2192	2296	.	+	2	ID=cds:Minc3s07582g41286;Parent=transcript:Minc3s07582g41286
 FXSY01007582.1	WormBase_imported	CDS	2334	2446	.	+	2	ID=cds:Minc3s07582g41286;Parent=transcript:Minc3s07582g41286
 FXSY01007582.1	WormBase_imported	three_prime_UTR	2447	2451	.	+	.	Parent=transcript:Minc3s07582g41286
-FXSY01007582.1	trf	tandem_repeat	1	342	661	-	.	
-FXSY01007582.1	dust	low_complexity_region	418	430	.	-	.	
-FXSY01007582.1	dust	low_complexity_region	444	535	.	-	.	
-FXSY01007582.1	dust	low_complexity_region	603	609	.	-	.	
-FXSY01007582.1	dust	low_complexity_region	672	825	.	-	.	
-FXSY01007582.1	dust	low_complexity_region	865	966	.	-	.	
-FXSY01007582.1	dust	low_complexity_region	1268	1274	.	-	.	
-FXSY01007582.1	dust	low_complexity_region	1346	1423	.	-	.	
-FXSY01007582.1	dust	low_complexity_region	1497	1542	.	-	.	
-FXSY01007582.1	dust	low_complexity_region	1598	1613	.	-	.	
-FXSY01007582.1	dust	low_complexity_region	2064	2118	.	-	.	
-FXSY01007582.1	dust	low_complexity_region	2457	2463	.	-	.	
-FXSY01007582.1	dust	low_complexity_region	2535	2541	.	-	.	
-FXSY01007582.1	trf	tandem_repeat	2635	2679	56	-	.	
-FXSY01007582.1	dust	low_complexity_region	3004	3094	.	-	.	
-FXSY01007582.1	dust	low_complexity_region	3219	3282	.	-	.	
-FXSY01007582.1	dust	low_complexity_region	3761	3769	.	-	.	

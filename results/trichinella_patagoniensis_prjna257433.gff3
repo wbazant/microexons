@@ -717,7 +717,3 @@ scaffold827s	WormBase_imported	CDS	606	706	.	+	2	ID=cds:T12_16838.1;Parent=trans
 scaffold827s	WormBase_imported	CDS	1172	1198	.	+	0	ID=cds:T12_16838.1;Parent=transcript:T12_16838.1
 scaffold827s	WormBase_imported	CDS	1305	1310	.	+	0	ID=cds:T12_16838.1;Parent=transcript:T12_16838.1
 scaffold827s	WormBase_imported	CDS	1435	1443	.	+	0	ID=cds:T12_16838.1;Parent=transcript:T12_16838.1
-scaffold827s	dust	low_complexity_region	94	100	.	-	.	
-scaffold827s	dust	low_complexity_region	221	279	.	-	.	
-scaffold827s	dust	low_complexity_region	879	885	.	-	.	
-scaffold827s	dust	low_complexity_region	1368	1430	.	-	.	

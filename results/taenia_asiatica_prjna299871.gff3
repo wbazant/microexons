@@ -535,51 +535,6 @@ Scaffold00484	WormBase_imported	CDS	28686	29069	.	-	0	ID=cds:TASs00484g10626m000
 Scaffold00484	WormBase_imported	CDS	28030	28207	.	-	0	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
 Scaffold00484	WormBase_imported	CDS	27683	27786	.	-	2	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
 Scaffold00484	WormBase_imported	CDS	27306	27491	.	-	0	ID=cds:TASs00484g10626m00001;Parent=transcript:TASs00484g10626m00001
-Scaffold00484	cmscan_rfam_12.2	nucleotide_match	43027	43212	34.9	-	.	ID=cmscan_rfam_12.2.314;Name=RMST_9;Target=RMST_9 5 190;Gap=M100 D2 M9 D4 M47 I6 M24 
-Scaffold00484	dust	low_complexity_region	214	220	.	-	.	
-Scaffold00484	dust	low_complexity_region	1641	1647	.	-	.	
-Scaffold00484	dust	low_complexity_region	1721	1727	.	-	.	
-Scaffold00484	dust	low_complexity_region	2428	2435	.	-	.	
-Scaffold00484	dust	low_complexity_region	2944	2950	.	-	.	
-Scaffold00484	dust	low_complexity_region	2995	3004	.	-	.	
-Scaffold00484	dust	low_complexity_region	3424	3442	.	-	.	
-Scaffold00484	dust	low_complexity_region	3971	3978	.	-	.	
-Scaffold00484	dust	low_complexity_region	4171	4177	.	-	.	
-Scaffold00484	dust	low_complexity_region	5432	5444	.	-	.	
-Scaffold00484	dust	low_complexity_region	5743	5750	.	-	.	
-Scaffold00484	dust	low_complexity_region	6166	6172	.	-	.	
-Scaffold00484	dust	low_complexity_region	7094	7101	.	-	.	
-Scaffold00484	dust	low_complexity_region	7267	7273	.	-	.	
-Scaffold00484	dust	low_complexity_region	7634	7640	.	-	.	
-Scaffold00484	dust	low_complexity_region	7717	7723	.	-	.	
-Scaffold00484	dust	low_complexity_region	7734	7742	.	-	.	
-Scaffold00484	dust	low_complexity_region	9184	9190	.	-	.	
-Scaffold00484	dust	low_complexity_region	9617	9625	.	-	.	
-Scaffold00484	dust	low_complexity_region	11082	11088	.	-	.	
-Scaffold00484	dust	low_complexity_region	11928	11936	.	-	.	
-Scaffold00484	dust	low_complexity_region	12092	12098	.	-	.	
-Scaffold00484	dust	low_complexity_region	13313	13360	.	-	.	
-Scaffold00484	dust	low_complexity_region	14692	14698	.	-	.	
-Scaffold00484	dust	low_complexity_region	15365	15371	.	-	.	
-Scaffold00484	dust	low_complexity_region	17442	17476	.	-	.	
-Scaffold00484	dust	low_complexity_region	26686	26692	.	-	.	
-Scaffold00484	dust	low_complexity_region	28362	28368	.	-	.	
-Scaffold00484	dust	low_complexity_region	30827	30833	.	-	.	
-Scaffold00484	dust	low_complexity_region	31918	31924	.	-	.	
-Scaffold00484	dust	low_complexity_region	33089	33095	.	-	.	
-Scaffold00484	dust	low_complexity_region	35619	35625	.	-	.	
-Scaffold00484	dust	low_complexity_region	38386	38393	.	-	.	
-Scaffold00484	trf	tandem_repeat	39020	39045	52	-	.	
-Scaffold00484	dust	low_complexity_region	40082	40097	.	-	.	
-Scaffold00484	dust	low_complexity_region	42578	42584	.	-	.	
-Scaffold00484	dust	low_complexity_region	42660	42666	.	-	.	
-Scaffold00484	dust	low_complexity_region	44125	44131	.	-	.	
-Scaffold00484	dust	low_complexity_region	45982	45988	.	-	.	
-Scaffold00484	dust	low_complexity_region	46136	46142	.	-	.	
-Scaffold00484	dust	low_complexity_region	47306	47313	.	-	.	
-Scaffold00484	dust	low_complexity_region	50339	50345	.	-	.	
-Scaffold00484	dust	low_complexity_region	50464	50470	.	-	.	
-Scaffold00484	dust	low_complexity_region	52155	52162	.	-	.	
 Scaffold00490	WormBase_imported	gene	25866	50304	.	-	.	ID=gene:TASs00490g10646;Name=TASs00490g10646;biotype=protein_coding
 Scaffold00490	WormBase_imported	mRNA	25866	50304	.	-	.	ID=transcript:TASs00490g10646m00001;Parent=gene:TASs00490g10646;Name=TASs00490g10646m00001;info=method:InterPro accession:IPR004273 description:Dynein heavy chain region D6 P-loop domain %0Amethod:InterPro accession:IPR013602 description:Dynein heavy chain%2C domain-2 %0Amethod:InterPro accession:IPR024317 description:Dynein heavy chain%2C AAA module D4 %0Amethod:InterPro accession:IPR024743 description:Dynein heavy chain%2C coiled coil stalk %0Amethod:InterPro accession:IPR026983 description:Dynein heavy chain %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR035699 description:Dynein heavy chain%2C hydrolytic ATP-binding dynein motor region %0Amethod:InterPro accession:IPR035706 description:Dynein heavy chain%2C ATP-binding dynein motor region %0Amethod:InterPro accession:IPR041228 description:Dynein heavy chain%2C C-terminal domain %0Amethod:InterPro accession:IPR041466 description:Dynein heavy chain%2C AAA 5 extension domain %0Amethod:InterPro accession:IPR041589 description:Dynein heavy chain 3%2C AAA+ lid domain %0Amethod:InterPro accession:IPR041658 description:Dynein heavy chain AAA lid domain
 #microexons transcript:TASs00490g10646m00001:  70 181 130 106 105 305 120 184 66 177 162 407 988 149 631 233 238 231 213 312 513 132 222 24-12-21-9 54 159 254 198 361 312 321 230 331 878 307 1629 186 138 384 178 104 186
@@ -674,50 +629,6 @@ Scaffold00490	WormBase_imported	CDS	27246	27629	.	-	0	ID=cds:TASs00490g10646m000
 Scaffold00490	WormBase_imported	CDS	26590	26767	.	-	0	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
 Scaffold00490	WormBase_imported	CDS	26243	26346	.	-	2	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
 Scaffold00490	WormBase_imported	CDS	25866	26051	.	-	0	ID=cds:TASs00490g10646m00001;Parent=transcript:TASs00490g10646m00001
-Scaffold00490	cmscan_rfam_12.2	nucleotide_match	41587	41772	34.9	-	.	ID=cmscan_rfam_12.2.239;Name=RMST_9;Target=RMST_9 5 190;Gap=M100 D2 M9 D4 M47 I6 M24 
-Scaffold00490	dust	low_complexity_region	201	207	.	-	.	
-Scaffold00490	dust	low_complexity_region	281	287	.	-	.	
-Scaffold00490	dust	low_complexity_region	988	995	.	-	.	
-Scaffold00490	dust	low_complexity_region	1504	1510	.	-	.	
-Scaffold00490	dust	low_complexity_region	1555	1564	.	-	.	
-Scaffold00490	dust	low_complexity_region	1984	2002	.	-	.	
-Scaffold00490	dust	low_complexity_region	2531	2538	.	-	.	
-Scaffold00490	dust	low_complexity_region	2731	2737	.	-	.	
-Scaffold00490	dust	low_complexity_region	3992	4004	.	-	.	
-Scaffold00490	dust	low_complexity_region	4303	4310	.	-	.	
-Scaffold00490	dust	low_complexity_region	4726	4732	.	-	.	
-Scaffold00490	dust	low_complexity_region	5654	5661	.	-	.	
-Scaffold00490	dust	low_complexity_region	5827	5833	.	-	.	
-Scaffold00490	dust	low_complexity_region	6194	6200	.	-	.	
-Scaffold00490	dust	low_complexity_region	6277	6283	.	-	.	
-Scaffold00490	dust	low_complexity_region	6294	6302	.	-	.	
-Scaffold00490	dust	low_complexity_region	7744	7750	.	-	.	
-Scaffold00490	dust	low_complexity_region	8177	8185	.	-	.	
-Scaffold00490	dust	low_complexity_region	9642	9648	.	-	.	
-Scaffold00490	dust	low_complexity_region	10488	10496	.	-	.	
-Scaffold00490	dust	low_complexity_region	10652	10658	.	-	.	
-Scaffold00490	dust	low_complexity_region	11873	11920	.	-	.	
-Scaffold00490	dust	low_complexity_region	13252	13258	.	-	.	
-Scaffold00490	dust	low_complexity_region	13925	13931	.	-	.	
-Scaffold00490	dust	low_complexity_region	16002	16036	.	-	.	
-Scaffold00490	dust	low_complexity_region	25246	25252	.	-	.	
-Scaffold00490	dust	low_complexity_region	26922	26928	.	-	.	
-Scaffold00490	dust	low_complexity_region	29387	29393	.	-	.	
-Scaffold00490	dust	low_complexity_region	30478	30484	.	-	.	
-Scaffold00490	dust	low_complexity_region	31649	31655	.	-	.	
-Scaffold00490	dust	low_complexity_region	34179	34185	.	-	.	
-Scaffold00490	dust	low_complexity_region	36946	36953	.	-	.	
-Scaffold00490	trf	tandem_repeat	37580	37605	52	-	.	
-Scaffold00490	dust	low_complexity_region	38642	38657	.	-	.	
-Scaffold00490	dust	low_complexity_region	41138	41144	.	-	.	
-Scaffold00490	dust	low_complexity_region	41220	41226	.	-	.	
-Scaffold00490	dust	low_complexity_region	42685	42691	.	-	.	
-Scaffold00490	dust	low_complexity_region	44542	44548	.	-	.	
-Scaffold00490	dust	low_complexity_region	44696	44702	.	-	.	
-Scaffold00490	dust	low_complexity_region	45866	45873	.	-	.	
-Scaffold00490	dust	low_complexity_region	48899	48905	.	-	.	
-Scaffold00490	dust	low_complexity_region	49024	49030	.	-	.	
-Scaffold00490	dust	low_complexity_region	50715	50722	.	-	.	
 Scaffold00492	WormBase_imported	gene	25794	50232	.	-	.	ID=gene:TASs00492g10654;Name=TASs00492g10654;biotype=protein_coding
 Scaffold00492	WormBase_imported	mRNA	25794	50232	.	-	.	ID=transcript:TASs00492g10654m00001;Parent=gene:TASs00492g10654;Name=TASs00492g10654m00001;info=method:InterPro accession:IPR004273 description:Dynein heavy chain region D6 P-loop domain %0Amethod:InterPro accession:IPR013602 description:Dynein heavy chain%2C domain-2 %0Amethod:InterPro accession:IPR024317 description:Dynein heavy chain%2C AAA module D4 %0Amethod:InterPro accession:IPR024743 description:Dynein heavy chain%2C coiled coil stalk %0Amethod:InterPro accession:IPR026983 description:Dynein heavy chain %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR035699 description:Dynein heavy chain%2C hydrolytic ATP-binding dynein motor region %0Amethod:InterPro accession:IPR035706 description:Dynein heavy chain%2C ATP-binding dynein motor region %0Amethod:InterPro accession:IPR041228 description:Dynein heavy chain%2C C-terminal domain %0Amethod:InterPro accession:IPR041466 description:Dynein heavy chain%2C AAA 5 extension domain %0Amethod:InterPro accession:IPR041589 description:Dynein heavy chain 3%2C AAA+ lid domain %0Amethod:InterPro accession:IPR041658 description:Dynein heavy chain AAA lid domain
 #microexons transcript:TASs00492g10654m00001:  70 181 130 106 105 305 120 184 66 177 162 407 988 149 631 233 238 231 213 312 513 132 222 24-12-21-9 54 159 254 198 361 312 321 230 331 878 307 1629 186 138 384 178 104 186
@@ -812,47 +723,3 @@ Scaffold00492	WormBase_imported	CDS	27174	27557	.	-	0	ID=cds:TASs00492g10654m000
 Scaffold00492	WormBase_imported	CDS	26518	26695	.	-	0	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
 Scaffold00492	WormBase_imported	CDS	26171	26274	.	-	2	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
 Scaffold00492	WormBase_imported	CDS	25794	25979	.	-	0	ID=cds:TASs00492g10654m00001;Parent=transcript:TASs00492g10654m00001
-Scaffold00492	cmscan_rfam_12.2	nucleotide_match	41515	41700	34.9	-	.	ID=cmscan_rfam_12.2.254;Name=RMST_9;Target=RMST_9 5 190;Gap=M100 D2 M9 D4 M47 I6 M24 
-Scaffold00492	dust	low_complexity_region	129	135	.	-	.	
-Scaffold00492	dust	low_complexity_region	209	215	.	-	.	
-Scaffold00492	dust	low_complexity_region	916	923	.	-	.	
-Scaffold00492	dust	low_complexity_region	1432	1438	.	-	.	
-Scaffold00492	dust	low_complexity_region	1483	1492	.	-	.	
-Scaffold00492	dust	low_complexity_region	1912	1930	.	-	.	
-Scaffold00492	dust	low_complexity_region	2459	2466	.	-	.	
-Scaffold00492	dust	low_complexity_region	2659	2665	.	-	.	
-Scaffold00492	dust	low_complexity_region	3920	3932	.	-	.	
-Scaffold00492	dust	low_complexity_region	4231	4238	.	-	.	
-Scaffold00492	dust	low_complexity_region	4654	4660	.	-	.	
-Scaffold00492	dust	low_complexity_region	5582	5589	.	-	.	
-Scaffold00492	dust	low_complexity_region	5755	5761	.	-	.	
-Scaffold00492	dust	low_complexity_region	6122	6128	.	-	.	
-Scaffold00492	dust	low_complexity_region	6205	6211	.	-	.	
-Scaffold00492	dust	low_complexity_region	6222	6230	.	-	.	
-Scaffold00492	dust	low_complexity_region	7672	7678	.	-	.	
-Scaffold00492	dust	low_complexity_region	8105	8113	.	-	.	
-Scaffold00492	dust	low_complexity_region	9570	9576	.	-	.	
-Scaffold00492	dust	low_complexity_region	10416	10424	.	-	.	
-Scaffold00492	dust	low_complexity_region	10580	10586	.	-	.	
-Scaffold00492	dust	low_complexity_region	11801	11848	.	-	.	
-Scaffold00492	dust	low_complexity_region	13180	13186	.	-	.	
-Scaffold00492	dust	low_complexity_region	13853	13859	.	-	.	
-Scaffold00492	dust	low_complexity_region	15930	15964	.	-	.	
-Scaffold00492	dust	low_complexity_region	25174	25180	.	-	.	
-Scaffold00492	dust	low_complexity_region	26850	26856	.	-	.	
-Scaffold00492	dust	low_complexity_region	29315	29321	.	-	.	
-Scaffold00492	dust	low_complexity_region	30406	30412	.	-	.	
-Scaffold00492	dust	low_complexity_region	31577	31583	.	-	.	
-Scaffold00492	dust	low_complexity_region	34107	34113	.	-	.	
-Scaffold00492	dust	low_complexity_region	36874	36881	.	-	.	
-Scaffold00492	trf	tandem_repeat	37508	37533	52	-	.	
-Scaffold00492	dust	low_complexity_region	38570	38585	.	-	.	
-Scaffold00492	dust	low_complexity_region	41066	41072	.	-	.	
-Scaffold00492	dust	low_complexity_region	41148	41154	.	-	.	
-Scaffold00492	dust	low_complexity_region	42613	42619	.	-	.	
-Scaffold00492	dust	low_complexity_region	44470	44476	.	-	.	
-Scaffold00492	dust	low_complexity_region	44624	44630	.	-	.	
-Scaffold00492	dust	low_complexity_region	45794	45801	.	-	.	
-Scaffold00492	dust	low_complexity_region	48827	48833	.	-	.	
-Scaffold00492	dust	low_complexity_region	48952	48958	.	-	.	
-Scaffold00492	dust	low_complexity_region	50643	50650	.	-	.	

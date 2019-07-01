@@ -605,33 +605,6 @@ pathogen_EMU_contig_1143	WormBase_imported	CDS	18786	18803	.	-	2	ID=cds:EmuJ_000
 pathogen_EMU_contig_1143	WormBase_imported	CDS	18458	18475	.	-	2	ID=cds:EmuJ_000515550.1;Parent=transcript:EmuJ_000515550.1
 pathogen_EMU_contig_1143	WormBase_imported	CDS	18129	18155	.	-	2	ID=cds:EmuJ_000515550.1;Parent=transcript:EmuJ_000515550.1
 pathogen_EMU_contig_1143	WormBase_imported	CDS	17995	18047	.	-	2	ID=cds:EmuJ_000515550.1;Parent=transcript:EmuJ_000515550.1
-pathogen_EMU_contig_1143	RepeatMasker	repeat_region	1	388	3643	+	.	Name=rnd-5_family-432;repeat_class=Unspecified
-pathogen_EMU_contig_1143	RepeatMasker	repeat_region	2789	5781	27829	-	.	Name=rnd-5_family-432;repeat_class=Unspecified
-pathogen_EMU_contig_1143	dust	low_complexity_region	5385	5391	.	-	.	
-pathogen_EMU_contig_1143	RepeatMasker	repeat_region	5782	6201	1509	-	.	Name=rnd-1_family-101;repeat_class=Unspecified
-pathogen_EMU_contig_1143	RepeatMasker	repeat_region	6044	6448	1560	-	.	Name=rnd-1_family-138;repeat_class=Unspecified
-pathogen_EMU_contig_1143	RepeatMasker	repeat_region	6187	6478	1728	-	.	Name=rnd-1_family-193;repeat_class=Unspecified
-pathogen_EMU_contig_1143	RepeatMasker	repeat_region	6264	6614	2562	-	.	Name=rnd-1_family-203;repeat_class=Unspecified
-pathogen_EMU_contig_1143	RepeatMasker	repeat_region	7663	7855	1018	+	.	Name=rnd-1_family-204;repeat_class=Unspecified
-pathogen_EMU_contig_1143	RepeatMasker	repeat_region	7856	8010	897	+	.	Name=rnd-1_family-204;repeat_class=Unspecified
-pathogen_EMU_contig_1143	RepeatMasker	repeat_region	8281	8713	2016	-	.	Name=rnd-1_family-164;repeat_class=Unspecified
-pathogen_EMU_contig_1143	RepeatMasker	repeat_region	8721	9021	858	-	.	Name=rnd-1_family-164;repeat_class=Unspecified
-pathogen_EMU_contig_1143	trf	tandem_repeat	8878	8915	62	-	.	
-pathogen_EMU_contig_1143	RepeatMasker	repeat_region	9092	9144	255	-	.	Name=rnd-1_family-164;repeat_class=Unspecified
-pathogen_EMU_contig_1143	RepeatMasker	repeat_region	9146	12876	33558	+	.	Name=rnd-5_family-815;repeat_class=Unspecified
-pathogen_EMU_contig_1143	RepeatMasker	repeat_region	14778	14879	367	-	.	Name=rnd-5_family-432;repeat_class=Unspecified
-pathogen_EMU_contig_1143	RepeatMasker	repeat_region	15585	15923	721	-	.	Name=rnd-5_family-432;repeat_class=Unspecified
-pathogen_EMU_contig_1143	RepeatMasker	repeat_region	16256	16346	329	-	.	Name=rnd-1_family-101;repeat_class=Unspecified
-pathogen_EMU_contig_1143	RepeatMasker	repeat_region	16424	17135	5494	-	.	Name=rnd-1_family-138;repeat_class=Unspecified
-pathogen_EMU_contig_1143	RepeatMasker	repeat_region	17311	17553	2184	+	.	Name=rnd-5_family-815;repeat_class=Unspecified
-pathogen_EMU_contig_1143	RepeatMasker	repeat_region	18973	19074	367	-	.	Name=rnd-5_family-432;repeat_class=Unspecified
-pathogen_EMU_contig_1143	RepeatMasker	repeat_region	19780	20118	721	-	.	Name=rnd-5_family-432;repeat_class=Unspecified
-pathogen_EMU_contig_1143	RepeatMasker	repeat_region	20451	20541	329	-	.	Name=rnd-1_family-101;repeat_class=Unspecified
-pathogen_EMU_contig_1143	RepeatMasker	repeat_region	20619	21330	5509	-	.	Name=rnd-1_family-138;repeat_class=Unspecified
-pathogen_EMU_contig_1143	RepeatMasker	repeat_region	21506	21748	2204	+	.	Name=rnd-5_family-815;repeat_class=Unspecified
-pathogen_EMU_contig_1143	dust	low_complexity_region	29565	29571	.	-	.	
-pathogen_EMU_contig_1143	RepeatMasker	repeat_region	29568	29666	303	+	.	Name=rnd-5_family-432;repeat_class=Unspecified
-pathogen_EMU_contig_1143	RepeatMasker	repeat_region	30433	30475	281	+	.	Name=rnd-4_family-254;repeat_class=Unspecified
 pathogen_EMU_contig_0963	WormBase_imported	gene	11233	12852	.	-	.	ID=gene:EmuJ_000049900;Name=EmuJ_000049900;biotype=protein_coding;description=Expressed protein;description_source=UniProtKB/TrEMBL;description_source_acc=A0A087VX26
 pathogen_EMU_contig_0963	WormBase_imported	mRNA	11233	12852	.	-	.	ID=transcript:EmuJ_000049900.1;Parent=gene:EmuJ_000049900;Name=EmuJ_000049900.1
 #microexons transcript:EmuJ_000049900.1:  25 27-18-27-18-27 59
@@ -649,55 +622,6 @@ pathogen_EMU_contig_0963	WormBase_imported	CDS	12017	12043	.	-	2	ID=cds:EmuJ_000
 pathogen_EMU_contig_0963	WormBase_imported	CDS	11918	11935	.	-	2	ID=cds:EmuJ_000049900.1;Parent=transcript:EmuJ_000049900.1
 pathogen_EMU_contig_0963	WormBase_imported	CDS	11595	11621	.	-	2	ID=cds:EmuJ_000049900.1;Parent=transcript:EmuJ_000049900.1
 pathogen_EMU_contig_0963	WormBase_imported	CDS	11233	11291	.	-	2	ID=cds:EmuJ_000049900.1;Parent=transcript:EmuJ_000049900.1
-pathogen_EMU_contig_0963	RepeatMasker	repeat_region	1	625	5887	+	.	Name=rnd-5_family-815;repeat_class=Unspecified
-pathogen_EMU_contig_0963	dust	low_complexity_region	697	703	.	-	.	
-pathogen_EMU_contig_0963	RepeatMasker	repeat_region	1236	1477	541	-	.	Name=rnd-1_family-22;repeat_class=Unspecified
-pathogen_EMU_contig_0963	RepeatMasker	repeat_region	3058	3181	262	-	.	Name=rnd-1_family-138;repeat_class=Unspecified
-pathogen_EMU_contig_0963	RepeatMasker	repeat_region	5196	6690	13924	+	.	Name=rnd-5_family-432;repeat_class=Unspecified
-pathogen_EMU_contig_0963	dust	low_complexity_region	5880	5886	.	-	.	
-pathogen_EMU_contig_0963	RepeatMasker	repeat_region	6678	9250	23245	+	.	Name=rnd-5_family-432;repeat_class=Unspecified
-pathogen_EMU_contig_0963	dust	low_complexity_region	7927	7957	.	-	.	
-pathogen_EMU_contig_0963	trf	tandem_repeat	7927	7957	62	-	.	
-pathogen_EMU_contig_0963	RepeatMasker	repeat_region	10381	10423	280	+	.	Name=rnd-4_family-254;repeat_class=Unspecified
-pathogen_EMU_contig_0963	RepeatMasker	repeat_region	10688	10801	232	+	.	Name=rnd-4_family-254;repeat_class=Unspecified
-pathogen_EMU_contig_0963	RepeatMasker	repeat_region	10706	10801	273	-	.	Name=rnd-1_family-6;repeat_class=Unspecified
-pathogen_EMU_contig_0911	trf	tandem_repeat	4	13068	25794	-	.	
-pathogen_EMU_contig_0911	dust	low_complexity_region	6	17	.	-	.	
-pathogen_EMU_contig_0911	dust	low_complexity_region	363	374	.	-	.	
-pathogen_EMU_contig_0911	dust	low_complexity_region	720	731	.	-	.	
-pathogen_EMU_contig_0911	dust	low_complexity_region	1077	1088	.	-	.	
-pathogen_EMU_contig_0911	dust	low_complexity_region	1434	1445	.	-	.	
-pathogen_EMU_contig_0911	dust	low_complexity_region	1791	1802	.	-	.	
-pathogen_EMU_contig_0911	dust	low_complexity_region	2148	2159	.	-	.	
-pathogen_EMU_contig_0911	dust	low_complexity_region	2505	2516	.	-	.	
-pathogen_EMU_contig_0911	dust	low_complexity_region	2860	2871	.	-	.	
-pathogen_EMU_contig_0911	dust	low_complexity_region	3217	3228	.	-	.	
-pathogen_EMU_contig_0911	dust	low_complexity_region	3574	3585	.	-	.	
-pathogen_EMU_contig_0911	dust	low_complexity_region	3931	3942	.	-	.	
-pathogen_EMU_contig_0911	dust	low_complexity_region	4288	4299	.	-	.	
-pathogen_EMU_contig_0911	dust	low_complexity_region	4645	4656	.	-	.	
-pathogen_EMU_contig_0911	dust	low_complexity_region	5002	5013	.	-	.	
-pathogen_EMU_contig_0911	dust	low_complexity_region	5359	5370	.	-	.	
-pathogen_EMU_contig_0911	dust	low_complexity_region	5716	5727	.	-	.	
-pathogen_EMU_contig_0911	dust	low_complexity_region	6073	6084	.	-	.	
-pathogen_EMU_contig_0911	dust	low_complexity_region	6430	6441	.	-	.	
-pathogen_EMU_contig_0911	dust	low_complexity_region	6787	6798	.	-	.	
-pathogen_EMU_contig_0911	dust	low_complexity_region	7144	7155	.	-	.	
-pathogen_EMU_contig_0911	dust	low_complexity_region	7501	7512	.	-	.	
-pathogen_EMU_contig_0911	dust	low_complexity_region	7858	7869	.	-	.	
-pathogen_EMU_contig_0911	dust	low_complexity_region	8215	8226	.	-	.	
-pathogen_EMU_contig_0911	dust	low_complexity_region	8572	8583	.	-	.	
-pathogen_EMU_contig_0911	dust	low_complexity_region	8929	8940	.	-	.	
-pathogen_EMU_contig_0911	dust	low_complexity_region	9286	9297	.	-	.	
-pathogen_EMU_contig_0911	dust	low_complexity_region	9643	9654	.	-	.	
-pathogen_EMU_contig_0911	dust	low_complexity_region	10000	10011	.	-	.	
-pathogen_EMU_contig_0911	dust	low_complexity_region	10357	10368	.	-	.	
-pathogen_EMU_contig_0911	dust	low_complexity_region	10714	10725	.	-	.	
-pathogen_EMU_contig_0911	dust	low_complexity_region	11071	11082	.	-	.	
-pathogen_EMU_contig_0911	dust	low_complexity_region	11428	11439	.	-	.	
-pathogen_EMU_contig_0911	dust	low_complexity_region	11785	11796	.	-	.	
-pathogen_EMU_contig_0911	dust	low_complexity_region	12142	12153	.	-	.	
-pathogen_EMU_contig_0911	dust	low_complexity_region	12498	12509	.	-	.	
 pathogen_EMU_contig_0014	WormBase_imported	gene	542	2859	.	-	.	ID=gene:EmuJ_000289600;Name=EmuJ_000289600;biotype=protein_coding;description=Diagnostic antigen gp50;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068XX91
 pathogen_EMU_contig_0014	WormBase_imported	mRNA	542	2859	.	-	.	ID=transcript:EmuJ_000289600.1;Parent=gene:EmuJ_000289600;Name=EmuJ_000289600.1
 #microexons transcript:EmuJ_000289600.1:  12-30-18-18-27-18-27-18-27-15
@@ -721,13 +645,3 @@ pathogen_EMU_contig_0014	WormBase_imported	CDS	1282	1308	.	-	0	ID=cds:EmuJ_00028
 pathogen_EMU_contig_0014	WormBase_imported	CDS	1183	1200	.	-	0	ID=cds:EmuJ_000289600.1;Parent=transcript:EmuJ_000289600.1
 pathogen_EMU_contig_0014	WormBase_imported	CDS	860	886	.	-	0	ID=cds:EmuJ_000289600.1;Parent=transcript:EmuJ_000289600.1
 pathogen_EMU_contig_0014	WormBase_imported	CDS	542	556	.	-	0	ID=cds:EmuJ_000289600.1;Parent=transcript:EmuJ_000289600.1
-pathogen_EMU_contig_0014	RepeatMasker	repeat_region	2608	2709	367	-	.	Name=rnd-5_family-432;repeat_class=Unspecified
-pathogen_EMU_contig_0014	RepeatMasker	repeat_region	3359	3409	398	-	.	Name=rnd-5_family-432;repeat_class=Unspecified
-pathogen_EMU_contig_0521	RepeatMasker	repeat_region	8	78	477	-	.	Name=rnd-1_family-25;repeat_class=Unspecified
-pathogen_EMU_contig_0521	RepeatMasker	repeat_region	79	2857	25768	-	.	Name=rnd-5_family-1973;repeat_class=Unspecified
-pathogen_EMU_contig_0521	dust	low_complexity_region	134	157	.	-	.	
-pathogen_EMU_contig_0521	trf	tandem_repeat	134	157	48	-	.	
-pathogen_EMU_contig_0521	dust	low_complexity_region	638	644	.	-	.	
-pathogen_EMU_contig_0521	RepeatMasker	repeat_region	2854	4497	12474	+	.	Name=rnd-5_family-453;repeat_class=Unspecified
-pathogen_EMU_contig_0521	dust	low_complexity_region	4345	4372	.	-	.	
-pathogen_EMU_contig_0521	trf	tandem_repeat	4345	4372	56	-	.	

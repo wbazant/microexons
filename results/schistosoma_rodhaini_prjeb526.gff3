@@ -162,31 +162,6 @@ SROB_scaffold0007783	WormBase_imported	CDS	7157	7186	.	-	0	ID=cds:SROB_000138690
 SROB_scaffold0007783	WormBase_imported	CDS	6365	6382	.	-	0	ID=cds:SROB_0001386901-mRNA-1;Parent=transcript:SROB_0001386901-mRNA-1
 SROB_scaffold0007783	WormBase_imported	CDS	5768	5773	.	-	0	ID=cds:SROB_0001386901-mRNA-1;Parent=transcript:SROB_0001386901-mRNA-1
 SROB_scaffold0007783	WormBase_imported	CDS	5332	5349	.	-	0	ID=cds:SROB_0001386901-mRNA-1;Parent=transcript:SROB_0001386901-mRNA-1
-SROB_scaffold0007783	cmscan_rfam_12.2	nucleotide_match	11396	11440	40.3	+	.	ID=cmscan_rfam_12.2.31286;Name=Hammerhead_1;Target=Hammerhead_1 1 46;Gap=M19 D M26 
-SROB_scaffold0007783	dust	low_complexity_region	1081	1112	.	-	.	
-SROB_scaffold0007783	dust	low_complexity_region	1776	1783	.	-	.	
-SROB_scaffold0007783	dust	low_complexity_region	2419	2427	.	-	.	
-SROB_scaffold0007783	RepeatMasker	repeat_region	2693	2993	1920	+	.	
-SROB_scaffold0007783	RepeatMasker	repeat_region	2926	3099	1160	-	.	
-SROB_scaffold0007783	dust	low_complexity_region	3085	3144	.	-	.	
-SROB_scaffold0007783	RepeatMasker	repeat_region	3139	3308	474	+	.	
-SROB_scaffold0007783	RepeatMasker	repeat_region	3158	3694	433	-	.	
-SROB_scaffold0007783	dust	low_complexity_region	3309	3516	.	-	.	
-SROB_scaffold0007783	RepeatMasker	repeat_region	3517	3864	2335	-	.	
-SROB_scaffold0007783	dust	low_complexity_region	4164	4175	.	-	.	
-SROB_scaffold0007783	dust	low_complexity_region	5934	6193	.	-	.	
-SROB_scaffold0007783	dust	low_complexity_region	6783	6808	.	-	.	
-SROB_scaffold0007783	RepeatMasker	repeat_region	7552	7619	289	-	.	
-SROB_scaffold0007783	dust	low_complexity_region	7855	8030	.	-	.	
-SROB_scaffold0007783	RepeatMasker	repeat_region	8426	8463	228	+	.	
-SROB_scaffold0007783	dust	low_complexity_region	8649	8656	.	-	.	
-SROB_scaffold0007783	dust	low_complexity_region	11088	11101	.	-	.	
-SROB_scaffold0007783	RepeatMasker	repeat_region	11787	12006	419	-	.	
-SROB_scaffold0007783	RepeatMasker	repeat_region	11981	12054	298	-	.	
-SROB_scaffold0007783	dust	low_complexity_region	12348	12431	.	-	.	
-SROB_scaffold0007783	dust	low_complexity_region	12805	12823	.	-	.	
-SROB_scaffold0007783	dust	low_complexity_region	13431	13546	.	-	.	
-SROB_scaffold0007783	RepeatMasker	repeat_region	13666	13701	271	+	.	
 SROB_scaffold0008178	WormBase_imported	gene	6478	11326	.	-	.	ID=gene:SROB_0001428801;Name=SROB_0001428801;biotype=protein_coding
 SROB_scaffold0008178	WormBase_imported	mRNA	6478	11326	.	-	.	ID=transcript:SROB_0001428801-mRNA-1;Parent=gene:SROB_0001428801;Name=SROB_0001428801-mRNA-1
 #microexons transcript:SROB_0001428801-mRNA-1:  18-15-15 111 393 15-12-30
@@ -208,29 +183,6 @@ SROB_scaffold0008178	WormBase_imported	three_prime_UTR	8438	8815	.	-	.	Parent=tr
 SROB_scaffold0008178	WormBase_imported	three_prime_UTR	8124	8138	.	-	.	Parent=transcript:SROB_0001428801-mRNA-1
 SROB_scaffold0008178	WormBase_imported	three_prime_UTR	7578	7589	.	-	.	Parent=transcript:SROB_0001428801-mRNA-1
 SROB_scaffold0008178	WormBase_imported	three_prime_UTR	6478	6507	.	-	.	Parent=transcript:SROB_0001428801-mRNA-1
-SROB_scaffold0008178	RepeatMasker	repeat_region	96	265	1312	+	.	
-SROB_scaffold0008178	dust	low_complexity_region	151	157	.	-	.	
-SROB_scaffold0008178	tandem	tandem_repeat	267	286	40	-	.	
-SROB_scaffold0008178	RepeatMasker	repeat_region	368	514	797	+	.	
-SROB_scaffold0008178	RepeatMasker	repeat_region	516	666	779	-	.	
-SROB_scaffold0008178	dust	low_complexity_region	674	683	.	-	.	
-SROB_scaffold0008178	RepeatMasker	repeat_region	1182	1284	543	-	.	
-SROB_scaffold0008178	RepeatMasker	repeat_region	1394	1570	798	+	.	
-SROB_scaffold0008178	dust	low_complexity_region	1756	1762	.	-	.	
-SROB_scaffold0008178	dust	low_complexity_region	3969	4009	.	-	.	
-SROB_scaffold0008178	dust	low_complexity_region	4414	4549	.	-	.	
-SROB_scaffold0008178	RepeatMasker	repeat_region	5729	5894	650	+	.	
-SROB_scaffold0008178	dust	low_complexity_region	6201	6215	.	-	.	
-SROB_scaffold0008178	dust	low_complexity_region	6642	6648	.	-	.	
-SROB_scaffold0008178	dust	low_complexity_region	8473	8797	.	-	.	
-SROB_scaffold0008178	dust	low_complexity_region	8860	8867	.	-	.	
-SROB_scaffold0008178	dust	low_complexity_region	9738	9749	.	-	.	
-SROB_scaffold0008178	dust	low_complexity_region	9922	10005	.	-	.	
-SROB_scaffold0008178	dust	low_complexity_region	11649	11797	.	-	.	
-SROB_scaffold0008178	dust	low_complexity_region	11907	11916	.	-	.	
-SROB_scaffold0008178	dust	low_complexity_region	12041	12321	.	-	.	
-SROB_scaffold0008178	RepeatMasker	repeat_region	12334	12380	306	-	.	
-SROB_scaffold0008178	dust	low_complexity_region	12623	12816	.	-	.	
 SROB_scaffold0009025	WormBase_imported	gene	2224	11742	.	+	.	ID=gene:SROB_0001514401;Name=SROB_0001514401;biotype=protein_coding
 SROB_scaffold0009025	WormBase_imported	mRNA	2224	11742	.	+	.	ID=transcript:SROB_0001514401-mRNA-1;Parent=gene:SROB_0001514401;Name=SROB_0001514401-mRNA-1
 #microexons transcript:SROB_0001514401-mRNA-1:  23 33 30-21-21-27-18-21-21 23 14
@@ -257,43 +209,6 @@ SROB_scaffold0009025	WormBase_imported	CDS	9406	9426	.	+	1	ID=cds:SROB_000151440
 SROB_scaffold0009025	WormBase_imported	CDS	9924	9944	.	+	1	ID=cds:SROB_0001514401-mRNA-1;Parent=transcript:SROB_0001514401-mRNA-1
 SROB_scaffold0009025	WormBase_imported	CDS	10927	10949	.	+	1	ID=cds:SROB_0001514401-mRNA-1;Parent=transcript:SROB_0001514401-mRNA-1
 SROB_scaffold0009025	WormBase_imported	CDS	11729	11742	.	+	2	ID=cds:SROB_0001514401-mRNA-1;Parent=transcript:SROB_0001514401-mRNA-1
-SROB_scaffold0009025	cmscan_rfam_12.2	nucleotide_match	1770	1815	36.6	-	.	ID=cmscan_rfam_12.2.32505;Name=Hammerhead_1;Target=Hammerhead_1 1 46;Gap=M46 
-SROB_scaffold0009025	cmscan_rfam_12.2	nucleotide_match	2457	2502	28.4	+	.	ID=cmscan_rfam_12.2.32509;Name=Hammerhead_1;Target=Hammerhead_1 1 46;Gap=M46 
-SROB_scaffold0009025	cmscan_rfam_12.2	nucleotide_match	7247	7321	32	-	.	ID=cmscan_rfam_12.2.32507;Name=Hammerhead_HH9;Target=Hammerhead_HH9 1 77;Gap=M47 D3 M13 I M14 
-SROB_scaffold0009025	cmscan_rfam_12.2	nucleotide_match	7265	7309	49.2	-	.	ID=cmscan_rfam_12.2.32503;Name=Hammerhead_1;Target=Hammerhead_1 1 46;Gap=M19 D M26 
-SROB_scaffold0009025	cmscan_rfam_12.2	nucleotide_match	7424	7468	39.6	+	.	ID=cmscan_rfam_12.2.32504;Name=Hammerhead_1;Target=Hammerhead_1 1 46;Gap=M19 D M26 
-SROB_scaffold0009025	cmscan_rfam_12.2	nucleotide_match	8285	8358	28.8	+	.	ID=cmscan_rfam_12.2.32508;Name=Hammerhead_HH9;Target=Hammerhead_HH9 1 77;Gap=M44 D4 I7 M26 
-SROB_scaffold0009025	cmscan_rfam_12.2	nucleotide_match	11953	12027	34.2	-	.	ID=cmscan_rfam_12.2.32506;Name=Hammerhead_HH9;Target=Hammerhead_HH9 1 77;Gap=M47 D3 M13 I M14 
-SROB_scaffold0009025	cmscan_rfam_12.2	nucleotide_match	11971	12015	52.5	-	.	ID=cmscan_rfam_12.2.32502;Name=Hammerhead_1;Target=Hammerhead_1 1 46;Gap=M19 D M26 
-SROB_scaffold0009025	dust	low_complexity_region	54	72	.	-	.	
-SROB_scaffold0009025	dust	low_complexity_region	90	172	.	-	.	
-SROB_scaffold0009025	dust	low_complexity_region	272	287	.	-	.	
-SROB_scaffold0009025	dust	low_complexity_region	443	449	.	-	.	
-SROB_scaffold0009025	dust	low_complexity_region	541	717	.	-	.	
-SROB_scaffold0009025	RepeatMasker	repeat_region	1078	1128	289	+	.	
-SROB_scaffold0009025	dust	low_complexity_region	1130	1249	.	-	.	
-SROB_scaffold0009025	RepeatMasker	repeat_region	1312	1493	374	+	.	
-SROB_scaffold0009025	dust	low_complexity_region	1616	1622	.	-	.	
-SROB_scaffold0009025	RepeatMasker	repeat_region	1722	1777	227	+	.	
-SROB_scaffold0009025	RepeatMasker	repeat_region	1784	1941	303	-	.	
-SROB_scaffold0009025	RepeatMasker	repeat_region	2073	2131	315	+	.	
-SROB_scaffold0009025	dust	low_complexity_region	2278	2284	.	-	.	
-SROB_scaffold0009025	RepeatMasker	repeat_region	2495	2545	242	-	.	
-SROB_scaffold0009025	dust	low_complexity_region	2630	2636	.	-	.	
-SROB_scaffold0009025	dust	low_complexity_region	2885	2891	.	-	.	
-SROB_scaffold0009025	dust	low_complexity_region	3388	3395	.	-	.	
-SROB_scaffold0009025	RepeatMasker	repeat_region	4270	4401	289	+	.	
-SROB_scaffold0009025	dust	low_complexity_region	4534	4540	.	-	.	
-SROB_scaffold0009025	dust	low_complexity_region	6552	6558	.	-	.	
-SROB_scaffold0009025	dust	low_complexity_region	6781	6797	.	-	.	
-SROB_scaffold0009025	dust	low_complexity_region	6922	6928	.	-	.	
-SROB_scaffold0009025	dust	low_complexity_region	7148	7167	.	-	.	
-SROB_scaffold0009025	RepeatMasker	repeat_region	7168	7216	258	-	.	
-SROB_scaffold0009025	RepeatMasker	repeat_region	7168	7311	231	-	.	
-SROB_scaffold0009025	dust	low_complexity_region	7496	7505	.	-	.	
-SROB_scaffold0009025	RepeatMasker	repeat_region	8098	8168	486	+	.	
-SROB_scaffold0009025	RepeatMasker	repeat_region	8131	8366	243	+	.	
-SROB_scaffold0009025	dust	low_complexity_region	11220	11227	.	-	.	
 SROB_scaffold0010935	WormBase_imported	gene	2752	9248	.	-	.	ID=gene:SROB_0001679401;Name=SROB_0001679401;biotype=protein_coding
 SROB_scaffold0010935	WormBase_imported	mRNA	2752	9248	.	-	.	ID=transcript:SROB_0001679401-mRNA-1;Parent=gene:SROB_0001679401;Name=SROB_0001679401-mRNA-1
 #microexons transcript:SROB_0001679401-mRNA-1:  8 9-18-15-15-15 16 42
@@ -313,82 +228,3 @@ SROB_scaffold0010935	WormBase_imported	CDS	7271	7285	.	-	1	ID=cds:SROB_000167940
 SROB_scaffold0010935	WormBase_imported	CDS	4045	4059	.	-	1	ID=cds:SROB_0001679401-mRNA-1;Parent=transcript:SROB_0001679401-mRNA-1
 SROB_scaffold0010935	WormBase_imported	CDS	3391	3406	.	-	1	ID=cds:SROB_0001679401-mRNA-1;Parent=transcript:SROB_0001679401-mRNA-1
 SROB_scaffold0010935	WormBase_imported	CDS	2752	2793	.	-	0	ID=cds:SROB_0001679401-mRNA-1;Parent=transcript:SROB_0001679401-mRNA-1
-SROB_scaffold0010935	cmscan_rfam_12.2	nucleotide_match	9689	9739	26.7	+	.	ID=cmscan_rfam_12.2.53642;Name=Hammerhead_HH9;Target=Hammerhead_HH9 10 63;Gap=M38 D3 M13 
-SROB_scaffold0010935	cmscan_rfam_12.2	nucleotide_match	9692	9736	52.6	+	.	ID=cmscan_rfam_12.2.53641;Name=Hammerhead_1;Target=Hammerhead_1 1 46;Gap=M19 D M26 
-SROB_scaffold0010935	dust	low_complexity_region	298	478	.	-	.	
-SROB_scaffold0010935	dust	low_complexity_region	659	703	.	-	.	
-SROB_scaffold0010935	RepeatMasker	repeat_region	752	1214	1759	+	.	
-SROB_scaffold0010935	dust	low_complexity_region	925	976	.	-	.	
-SROB_scaffold0010935	dust	low_complexity_region	1002	1010	.	-	.	
-SROB_scaffold0010935	RepeatMasker	repeat_region	1836	1909	381	+	.	
-SROB_scaffold0010935	RepeatMasker	repeat_region	1866	1980	473	+	.	
-SROB_scaffold0010935	RepeatMasker	repeat_region	1894	1984	618	+	.	
-SROB_scaffold0010935	dust	low_complexity_region	3343	3391	.	-	.	
-SROB_scaffold0010935	dust	low_complexity_region	3434	3442	.	-	.	
-SROB_scaffold0010935	dust	low_complexity_region	3605	3611	.	-	.	
-SROB_scaffold0010935	RepeatMasker	repeat_region	5946	6028	379	-	.	
-SROB_scaffold0010935	RepeatMasker	repeat_region	6054	6240	685	+	.	
-SROB_scaffold0010935	RepeatMasker	repeat_region	6498	6566	363	-	.	
-SROB_scaffold0010935	RepeatMasker	repeat_region	6570	6632	276	-	.	
-SROB_scaffold0010935	tandem	tandem_repeat	6650	6669	40	-	.	
-SROB_scaffold0010935	dust	low_complexity_region	6921	6955	.	-	.	
-SROB_scaffold0010935	RepeatMasker	repeat_region	9772	9844	582	+	.	
-SROB_scaffold0010936	dust	low_complexity_region	171	177	.	-	.	
-SROB_scaffold0010936	dust	low_complexity_region	391	457	.	-	.	
-SROB_scaffold0010936	dust	low_complexity_region	1485	1491	.	-	.	
-SROB_scaffold0010936	dust	low_complexity_region	1946	1957	.	-	.	
-SROB_scaffold0010936	dust	low_complexity_region	2285	2307	.	-	.	
-SROB_scaffold0010936	RepeatMasker	repeat_region	2968	3501	1434	-	.	
-SROB_scaffold0010936	dust	low_complexity_region	3259	3291	.	-	.	
-SROB_scaffold0010936	RepeatMasker	repeat_region	3506	3664	669	+	.	
-SROB_scaffold0010936	dust	low_complexity_region	3837	3844	.	-	.	
-SROB_scaffold0010936	RepeatMasker	repeat_region	3867	4046	392	-	.	
-SROB_scaffold0010936	RepeatMasker	repeat_region	3873	4002	472	-	.	
-SROB_scaffold0010936	dust	low_complexity_region	3958	3965	.	-	.	
-SROB_scaffold0010936	RepeatMasker	repeat_region	4015	4082	318	-	.	
-SROB_scaffold0010936	dust	low_complexity_region	4124	4174	.	-	.	
-SROB_scaffold0010936	RepeatMasker	repeat_region	4175	4394	621	-	.	
-SROB_scaffold0010936	RepeatMasker	repeat_region	4218	4448	888	-	.	
-SROB_scaffold0010936	dust	low_complexity_region	4726	4741	.	-	.	
-SROB_scaffold0010936	dust	low_complexity_region	5139	5149	.	-	.	
-SROB_scaffold0010936	dust	low_complexity_region	5313	5323	.	-	.	
-SROB_scaffold0010936	RepeatMasker	repeat_region	5456	5492	238	-	.	
-SROB_scaffold0010936	dust	low_complexity_region	5620	5629	.	-	.	
-SROB_scaffold0010936	RepeatMasker	repeat_region	5894	6140	912	+	.	
-SROB_scaffold0010936	RepeatMasker	repeat_region	6137	6281	809	-	.	
-SROB_scaffold0010936	tandem	tandem_repeat	6211	6242	50	-	.	
-SROB_scaffold0010936	RepeatMasker	repeat_region	6322	6406	511	-	.	
-SROB_scaffold0010936	RepeatMasker	repeat_region	6415	6597	1200	+	.	
-SROB_scaffold0010936	RepeatMasker	repeat_region	6668	6806	485	+	.	
-SROB_scaffold0010936	RepeatMasker	repeat_region	6743	6827	395	-	.	
-SROB_scaffold0010936	dust	low_complexity_region	7011	7017	.	-	.	
-SROB_scaffold0010936	RepeatMasker	repeat_region	7072	7126	305	-	.	
-SROB_scaffold0010936	dust	low_complexity_region	7311	7350	.	-	.	
-SROB_scaffold0010936	RepeatMasker	repeat_region	7361	7742	1806	-	.	
-SROB_scaffold0010936	RepeatMasker	repeat_region	9248	9380	231	-	.	
-SROB_scaffold0010937	RepeatMasker	repeat_region	2	76	497	-	.	
-SROB_scaffold0010937	dust	low_complexity_region	78	84	.	-	.	
-SROB_scaffold0010937	dust	low_complexity_region	189	195	.	-	.	
-SROB_scaffold0010937	RepeatMasker	repeat_region	192	236	237	+	.	
-SROB_scaffold0010937	RepeatMasker	repeat_region	475	899	1264	-	.	
-SROB_scaffold0010937	dust	low_complexity_region	728	781	.	-	.	
-SROB_scaffold0010937	dust	low_complexity_region	1531	1567	.	-	.	
-SROB_scaffold0010937	dust	low_complexity_region	2021	2078	.	-	.	
-SROB_scaffold0010937	dust	low_complexity_region	2253	2259	.	-	.	
-SROB_scaffold0010937	RepeatMasker	repeat_region	2768	3048	836	-	.	
-SROB_scaffold0010937	dust	low_complexity_region	2887	2907	.	-	.	
-SROB_scaffold0010937	RepeatMasker	repeat_region	3055	3182	707	-	.	
-SROB_scaffold0010937	RepeatMasker	repeat_region	3230	3618	942	+	.	
-SROB_scaffold0010937	dust	low_complexity_region	3349	3367	.	-	.	
-SROB_scaffold0010937	dust	low_complexity_region	3759	3765	.	-	.	
-SROB_scaffold0010937	dust	low_complexity_region	3970	4013	.	-	.	
-SROB_scaffold0010937	dust	low_complexity_region	4982	5064	.	-	.	
-SROB_scaffold0010937	dust	low_complexity_region	6369	6409	.	-	.	
-SROB_scaffold0010937	RepeatMasker	repeat_region	6422	6627	717	+	.	
-SROB_scaffold0010937	RepeatMasker	repeat_region	6597	6858	911	+	.	
-SROB_scaffold0010937	dust	low_complexity_region	7066	7072	.	-	.	
-SROB_scaffold0010937	dust	low_complexity_region	8030	8085	.	-	.	
-SROB_scaffold0010937	dust	low_complexity_region	8188	8195	.	-	.	
-SROB_scaffold0010937	dust	low_complexity_region	8866	8875	.	-	.	
-SROB_scaffold0010937	dust	low_complexity_region	9431	9487	.	-	.	
-SROB_scaffold0010937	dust	low_complexity_region	9706	9715	.	-	.	

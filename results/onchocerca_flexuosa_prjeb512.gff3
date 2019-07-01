@@ -12,11 +12,3 @@ OFLC_contig0007885	WormBase_imported	CDS	929	934	.	-	0	ID=cds:OFLC_0000750201-mR
 OFLC_contig0007885	WormBase_imported	CDS	525	836	.	-	0	ID=cds:OFLC_0000750201-mRNA-1;Parent=transcript:OFLC_0000750201-mRNA-1
 OFLC_contig0007885	WormBase_imported	CDS	8	220	.	-	0	ID=cds:OFLC_0000750201-mRNA-1;Parent=transcript:OFLC_0000750201-mRNA-1
 OFLC_contig0007885	WormBase_imported	three_prime_UTR	6	7	.	-	.	Parent=transcript:OFLC_0000750201-mRNA-1
-OFLC_contig0007885	dust	low_complexity_region	13	61	.	-	.	
-OFLC_contig0007885	dust	low_complexity_region	226	235	.	-	.	
-OFLC_contig0007885	dust	low_complexity_region	898	904	.	-	.	
-OFLC_contig0007885	dust	low_complexity_region	1015	1021	.	-	.	
-OFLC_contig0007885	dust	low_complexity_region	1451	1457	.	-	.	
-OFLC_contig0007885	dust	low_complexity_region	1469	1476	.	-	.	
-OFLC_contig0007885	tandem	tandem_repeat	1950	1992	86	-	.	
-OFLC_contig0007885	dust	low_complexity_region	1950	1992	.	-	.	

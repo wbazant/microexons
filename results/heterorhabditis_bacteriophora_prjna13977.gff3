@@ -579,106 +579,6 @@ Scaffold874	WormBase_imported	CDS	56552	56670	.	+	1	ID=cds:Hba_05513;Parent=tran
 Scaffold874	WormBase_imported	CDS	57057	57122	.	+	2	ID=cds:Hba_05513;Parent=transcript:Hba_05513
 Scaffold874	WormBase_imported	CDS	57205	57375	.	+	2	ID=cds:Hba_05513;Parent=transcript:Hba_05513
 Scaffold874	WormBase_imported	CDS	58848	58900	.	+	2	ID=cds:Hba_05513;Parent=transcript:Hba_05513
-Scaffold874	cmscan_rfam_12.2	nucleotide_match	51240	51311	36.8	+	.	ID=cmscan_rfam_12.2.212;Name=tRNA-Sec;Target=tRNA-Sec 1 91;Gap=M8 D2 M38 I16 M18 D M8 
-Scaffold874	cmscan_rfam_12.2	nucleotide_match	51240	51312	66	+	.	ID=cmscan_rfam_12.2.211;Name=tRNA;Target=tRNA 1 71;Gap=M19 I M26 I M26 
-Scaffold874	RepeatMasker	repeat_region	189	785	848	+	.	Name=rnd-1_family-261;repeat_class=LTR/Pao
-Scaffold874	RepeatMasker	repeat_region	1684	2651	2365	+	.	Name=rnd-1_family-239;repeat_class=LTR/Pao
-Scaffold874	RepeatMasker	repeat_region	3326	3582	2061	-	.	
-Scaffold874	dust	low_complexity_region	3380	3422	.	-	.	
-Scaffold874	RepeatMasker	repeat_region	3434	3733	2325	+	.	
-Scaffold874	RepeatMasker	repeat_region	4960	5101	812	-	.	
-Scaffold874	RepeatMasker	repeat_region	5090	5440	1669	-	.	
-Scaffold874	dust	low_complexity_region	5441	6060	.	-	.	
-Scaffold874	RepeatMasker	repeat_region	6061	6555	2302	+	.	
-Scaffold874	RepeatMasker	repeat_region	6549	6649	308	+	.	
-Scaffold874	dust	low_complexity_region	7083	7089	.	-	.	
-Scaffold874	dust	low_complexity_region	7153	7190	.	-	.	
-Scaffold874	dust	low_complexity_region	7488	7496	.	-	.	
-Scaffold874	tandem	tandem_repeat	9451	9472	44	-	.	
-Scaffold874	dust	low_complexity_region	9451	9472	.	-	.	
-Scaffold874	dust	low_complexity_region	10595	10601	.	-	.	
-Scaffold874	dust	low_complexity_region	11528	11534	.	-	.	
-Scaffold874	dust	low_complexity_region	12065	12085	.	-	.	
-Scaffold874	dust	low_complexity_region	12271	12278	.	-	.	
-Scaffold874	dust	low_complexity_region	14040	14047	.	-	.	
-Scaffold874	dust	low_complexity_region	14239	14245	.	-	.	
-Scaffold874	dust	low_complexity_region	14651	14658	.	-	.	
-Scaffold874	dust	low_complexity_region	15395	15458	.	-	.	
-Scaffold874	tandem	tandem_repeat	15438	15457	40	-	.	
-Scaffold874	dust	low_complexity_region	15872	15879	.	-	.	
-Scaffold874	dust	low_complexity_region	16063	16080	.	-	.	
-Scaffold874	dust	low_complexity_region	17273	17280	.	-	.	
-Scaffold874	dust	low_complexity_region	18249	18255	.	-	.	
-Scaffold874	dust	low_complexity_region	18392	18438	.	-	.	
-Scaffold874	dust	low_complexity_region	18506	18520	.	-	.	
-Scaffold874	dust	low_complexity_region	18546	18552	.	-	.	
-Scaffold874	dust	low_complexity_region	20958	20964	.	-	.	
-Scaffold874	dust	low_complexity_region	22127	22167	.	-	.	
-Scaffold874	dust	low_complexity_region	22691	22699	.	-	.	
-Scaffold874	dust	low_complexity_region	23325	23332	.	-	.	
-Scaffold874	dust	low_complexity_region	24256	24311	.	-	.	
-Scaffold874	dust	low_complexity_region	24499	24506	.	-	.	
-Scaffold874	dust	low_complexity_region	25447	25453	.	-	.	
-Scaffold874	dust	low_complexity_region	25883	25889	.	-	.	
-Scaffold874	dust	low_complexity_region	26753	26818	.	-	.	
-Scaffold874	dust	low_complexity_region	27466	27472	.	-	.	
-Scaffold874	dust	low_complexity_region	27822	27828	.	-	.	
-Scaffold874	tandem	tandem_repeat	28346	28378	52	-	.	
-Scaffold874	dust	low_complexity_region	28438	28456	.	-	.	
-Scaffold874	dust	low_complexity_region	30829	30844	.	-	.	
-Scaffold874	dust	low_complexity_region	31324	31330	.	-	.	
-Scaffold874	dust	low_complexity_region	31419	31425	.	-	.	
-Scaffold874	dust	low_complexity_region	33077	33142	.	-	.	
-Scaffold874	dust	low_complexity_region	33742	33808	.	-	.	
-Scaffold874	dust	low_complexity_region	33909	33915	.	-	.	
-Scaffold874	dust	low_complexity_region	34637	34643	.	-	.	
-Scaffold874	dust	low_complexity_region	34949	35022	.	-	.	
-Scaffold874	dust	low_complexity_region	35428	35434	.	-	.	
-Scaffold874	dust	low_complexity_region	36309	36316	.	-	.	
-Scaffold874	dust	low_complexity_region	36625	36631	.	-	.	
-Scaffold874	dust	low_complexity_region	37203	37282	.	-	.	
-Scaffold874	dust	low_complexity_region	37740	37805	.	-	.	
-Scaffold874	dust	low_complexity_region	41922	41982	.	-	.	
-Scaffold874	dust	low_complexity_region	42369	42375	.	-	.	
-Scaffold874	dust	low_complexity_region	43121	43127	.	-	.	
-Scaffold874	dust	low_complexity_region	44988	44994	.	-	.	
-Scaffold874	dust	low_complexity_region	45159	45218	.	-	.	
-Scaffold874	dust	low_complexity_region	45837	45843	.	-	.	
-Scaffold874	dust	low_complexity_region	46434	46491	.	-	.	
-Scaffold874	dust	low_complexity_region	48932	48939	.	-	.	
-Scaffold874	dust	low_complexity_region	49152	49158	.	-	.	
-Scaffold874	dust	low_complexity_region	49481	49539	.	-	.	
-Scaffold874	dust	low_complexity_region	50541	50623	.	-	.	
-Scaffold874	dust	low_complexity_region	50749	50806	.	-	.	
-Scaffold874	dust	low_complexity_region	51149	51205	.	-	.	
-Scaffold874	dust	low_complexity_region	51503	51510	.	-	.	
-Scaffold874	dust	low_complexity_region	51991	51997	.	-	.	
-Scaffold874	dust	low_complexity_region	52032	52038	.	-	.	
-Scaffold874	dust	low_complexity_region	52202	52256	.	-	.	
-Scaffold874	dust	low_complexity_region	53372	53378	.	-	.	
-Scaffold874	tandem	tandem_repeat	54206	54243	76	-	.	
-Scaffold874	dust	low_complexity_region	54206	54243	.	-	.	
-Scaffold874	dust	low_complexity_region	54636	54642	.	-	.	
-Scaffold874	dust	low_complexity_region	55297	55360	.	-	.	
-Scaffold874	dust	low_complexity_region	55432	55438	.	-	.	
-Scaffold874	RepeatMasker	repeat_region	55541	57125	11048	-	.	Name=rnd-1_family-4;repeat_class=DNA/TcMar-Tc1
-Scaffold874	dust	low_complexity_region	55575	55591	.	-	.	
-Scaffold874	dust	low_complexity_region	55619	55625	.	-	.	
-Scaffold874	dust	low_complexity_region	56880	56887	.	-	.	
-Scaffold874	dust	low_complexity_region	56974	56980	.	-	.	
-Scaffold874	dust	low_complexity_region	57074	57095	.	-	.	
-Scaffold874	dust	low_complexity_region	58832	58839	.	-	.	
-Scaffold874	RepeatMasker	repeat_region	59029	59471	3002	-	.	Name=rnd-1_family-69;repeat_class=DNA/TcMar-Mariner
-Scaffold874	RepeatMasker	repeat_region	59444	59967	2880	-	.	Name=rnd-1_family-69;repeat_class=DNA/TcMar-Mariner
-Scaffold874	RepeatMasker	repeat_region	60015	60238	656	-	.	
-Scaffold874	RepeatMasker	repeat_region	60104	60304	531	+	.	
-Scaffold874	RepeatMasker	repeat_region	60373	60448	322	+	.	Name=rnd-1_family-145;repeat_class=DNA/TcMar-Tc1
-Scaffold874	RepeatMasker	repeat_region	60476	60709	919	-	.	Name=rnd-3_family-4;repeat_class=DNA/TcMar-Tc1
-Scaffold874	dust	low_complexity_region	60515	60523	.	-	.	
-Scaffold874	RepeatMasker	repeat_region	60772	60859	264	+	.	
-Scaffold874	RepeatMasker	repeat_region	60876	61390	3733	-	.	Name=rnd-1_family-4;repeat_class=DNA/TcMar-Tc1
-Scaffold874	dust	low_complexity_region	60909	60925	.	-	.	
-Scaffold874	dust	low_complexity_region	60953	60959	.	-	.	
 Scaffold1181	WormBase_imported	gene	51547	54557	.	+	.	ID=gene:Hba_10865;Name=Hba_10865;biotype=protein_coding
 Scaffold1181	WormBase_imported	mRNA	51547	54557	.	+	.	ID=transcript:Hba_10865;Parent=gene:Hba_10865;Name=Hba_10865
 #microexons transcript:Hba_10865:  138 24-6-3-3-15-30 75 3-9 186
@@ -736,73 +636,6 @@ Scaffold1238	WormBase_imported	CDS	52234	52262	.	+	2	ID=cds:Hba_12093;Parent=tra
 Scaffold1238	WormBase_imported	CDS	52308	52310	.	+	0	ID=cds:Hba_12093;Parent=transcript:Hba_12093
 Scaffold1238	WormBase_imported	CDS	52569	52574	.	+	0	ID=cds:Hba_12093;Parent=transcript:Hba_12093
 Scaffold1238	WormBase_imported	CDS	52621	52638	.	+	0	ID=cds:Hba_12093;Parent=transcript:Hba_12093
-Scaffold1238	RepeatMasker	repeat_region	1	807	5493	-	.	
-Scaffold1238	RepeatMasker	repeat_region	96	3021	18040	+	.	
-Scaffold1238	dust	low_complexity_region	339	345	.	-	.	
-Scaffold1238	tandem	tandem_repeat	1822	1887	83	-	.	
-Scaffold1238	dust	low_complexity_region	2672	2678	.	-	.	
-Scaffold1238	dust	low_complexity_region	3244	3252	.	-	.	
-Scaffold1238	dust	low_complexity_region	3782	3794	.	-	.	
-Scaffold1238	dust	low_complexity_region	3965	3971	.	-	.	
-Scaffold1238	dust	low_complexity_region	6074	6144	.	-	.	
-Scaffold1238	dust	low_complexity_region	6538	6566	.	-	.	
-Scaffold1238	dust	low_complexity_region	7082	7088	.	-	.	
-Scaffold1238	dust	low_complexity_region	7199	7217	.	-	.	
-Scaffold1238	dust	low_complexity_region	7814	7820	.	-	.	
-Scaffold1238	dust	low_complexity_region	8476	8482	.	-	.	
-Scaffold1238	dust	low_complexity_region	9949	9955	.	-	.	
-Scaffold1238	dust	low_complexity_region	10010	10018	.	-	.	
-Scaffold1238	tandem	tandem_repeat	10623	10652	46	-	.	
-Scaffold1238	dust	low_complexity_region	10623	10642	.	-	.	
-Scaffold1238	dust	low_complexity_region	12153	12159	.	-	.	
-Scaffold1238	dust	low_complexity_region	12753	12760	.	-	.	
-Scaffold1238	dust	low_complexity_region	13953	13959	.	-	.	
-Scaffold1238	dust	low_complexity_region	15277	15285	.	-	.	
-Scaffold1238	dust	low_complexity_region	16046	16058	.	-	.	
-Scaffold1238	dust	low_complexity_region	16167	16173	.	-	.	
-Scaffold1238	dust	low_complexity_region	16235	16285	.	-	.	
-Scaffold1238	dust	low_complexity_region	16798	16827	.	-	.	
-Scaffold1238	dust	low_complexity_region	18627	18651	.	-	.	
-Scaffold1238	dust	low_complexity_region	19847	19856	.	-	.	
-Scaffold1238	dust	low_complexity_region	20347	20354	.	-	.	
-Scaffold1238	dust	low_complexity_region	21114	21120	.	-	.	
-Scaffold1238	dust	low_complexity_region	22102	22110	.	-	.	
-Scaffold1238	dust	low_complexity_region	22321	22327	.	-	.	
-Scaffold1238	dust	low_complexity_region	23390	23398	.	-	.	
-Scaffold1238	dust	low_complexity_region	23900	23906	.	-	.	
-Scaffold1238	dust	low_complexity_region	25477	25484	.	-	.	
-Scaffold1238	tandem	tandem_repeat	25533	25563	55	-	.	
-Scaffold1238	dust	low_complexity_region	25533	25563	.	-	.	
-Scaffold1238	dust	low_complexity_region	25585	25592	.	-	.	
-Scaffold1238	dust	low_complexity_region	25962	25970	.	-	.	
-Scaffold1238	dust	low_complexity_region	26851	26857	.	-	.	
-Scaffold1238	dust	low_complexity_region	28117	28124	.	-	.	
-Scaffold1238	dust	low_complexity_region	29532	29584	.	-	.	
-Scaffold1238	RepeatMasker	repeat_region	30163	31737	11024	-	.	Name=rnd-1_family-18;repeat_class=DNA/TcMar-Tc1
-Scaffold1238	tandem	tandem_repeat	31266	31285	40	-	.	
-Scaffold1238	dust	low_complexity_region	33035	33095	.	-	.	
-Scaffold1238	dust	low_complexity_region	33851	33857	.	-	.	
-Scaffold1238	dust	low_complexity_region	34214	34268	.	-	.	
-Scaffold1238	dust	low_complexity_region	35397	35404	.	-	.	
-Scaffold1238	dust	low_complexity_region	37356	37363	.	-	.	
-Scaffold1238	dust	low_complexity_region	37756	37762	.	-	.	
-Scaffold1238	dust	low_complexity_region	38695	38701	.	-	.	
-Scaffold1238	dust	low_complexity_region	39544	39550	.	-	.	
-Scaffold1238	dust	low_complexity_region	39647	39677	.	-	.	
-Scaffold1238	dust	low_complexity_region	40535	40541	.	-	.	
-Scaffold1238	dust	low_complexity_region	41018	41026	.	-	.	
-Scaffold1238	dust	low_complexity_region	41290	41353	.	-	.	
-Scaffold1238	dust	low_complexity_region	41620	41628	.	-	.	
-Scaffold1238	dust	low_complexity_region	41798	41817	.	-	.	
-Scaffold1238	tandem	tandem_repeat	42841	42862	44	-	.	
-Scaffold1238	dust	low_complexity_region	42841	42862	.	-	.	
-Scaffold1238	dust	low_complexity_region	43216	43288	.	-	.	
-Scaffold1238	dust	low_complexity_region	44841	44847	.	-	.	
-Scaffold1238	dust	low_complexity_region	46038	46082	.	-	.	
-Scaffold1238	dust	low_complexity_region	46336	46363	.	-	.	
-Scaffold1238	RepeatMasker	repeat_region	48303	48595	2599	-	.	
-Scaffold1238	RepeatMasker	repeat_region	50856	51876	654	+	.	Name=rnd-1_family-239;repeat_class=LTR/Pao
-Scaffold1238	RepeatMasker	repeat_region	52251	52540	491	+	.	Name=rnd-1_family-162;repeat_class=LTR/Pao
 Scaffold1032	WormBase_imported	gene	4165	4850	.	-	.	ID=gene:Hba_07529;Name=Hba_07529;biotype=protein_coding
 Scaffold1032	WormBase_imported	mRNA	4165	4850	.	-	.	ID=transcript:Hba_07529;Parent=gene:Hba_07529;Name=Hba_07529;info=method:InterPro accession:IPR038717 description:Tc1-like transposase%2C DDE domain
 #microexons transcript:Hba_07529:  77 145 24-6-21 132
@@ -1110,35 +943,6 @@ Scaffold998	WormBase_imported	CDS	16748	16756	.	+	0	ID=cds:Hba_06784;Parent=tran
 Scaffold998	WormBase_imported	CDS	16943	16966	.	+	0	ID=cds:Hba_06784;Parent=transcript:Hba_06784
 Scaffold998	WormBase_imported	CDS	16989	17014	.	+	0	ID=cds:Hba_06784;Parent=transcript:Hba_06784
 Scaffold998	WormBase_imported	CDS	17561	17563	.	+	1	ID=cds:Hba_06784;Parent=transcript:Hba_06784
-Scaffold998	dust	low_complexity_region	191	197	.	-	.	
-Scaffold998	RepeatMasker	repeat_region	389	1775	9539	-	.	Name=rnd-1_family-4;repeat_class=DNA/TcMar-Tc1
-Scaffold998	dust	low_complexity_region	1246	1253	.	-	.	
-Scaffold998	RepeatMasker	repeat_region	1753	1786	289	-	.	Name=rnd-4_family-114;repeat_class=DNA/TcMar-Tc1
-Scaffold998	RepeatMasker	repeat_region	1781	1879	436	-	.	
-Scaffold998	RepeatMasker	repeat_region	1848	2077	1014	-	.	
-Scaffold998	dust	low_complexity_region	2298	2304	.	-	.	
-Scaffold998	tandem	tandem_repeat	2464	2487	48	-	.	
-Scaffold998	dust	low_complexity_region	2464	2487	.	-	.	
-Scaffold998	dust	low_complexity_region	2788	2796	.	-	.	
-Scaffold998	dust	low_complexity_region	3151	3220	.	-	.	
-Scaffold998	RepeatMasker	repeat_region	3505	3543	263	+	.	Name=rnd-3_family-20;repeat_class=DNA/TcMar-Tc1
-Scaffold998	RepeatMasker	repeat_region	3521	4728	8501	+	.	Name=rnd-1_family-4;repeat_class=DNA/TcMar-Tc1
-Scaffold998	dust	low_complexity_region	4043	4050	.	-	.	
-Scaffold998	RepeatMasker	repeat_region	4701	4737	286	-	.	Name=rnd-4_family-114;repeat_class=DNA/TcMar-Tc1
-Scaffold998	tandem	tandem_repeat	6811	6837	54	-	.	
-Scaffold998	dust	low_complexity_region	6811	6837	.	-	.	
-Scaffold998	dust	low_complexity_region	7109	7115	.	-	.	
-Scaffold998	dust	low_complexity_region	7611	7623	.	-	.	
-Scaffold998	dust	low_complexity_region	7759	7765	.	-	.	
-Scaffold998	dust	low_complexity_region	8268	8274	.	-	.	
-Scaffold998	dust	low_complexity_region	8979	8985	.	-	.	
-Scaffold998	dust	low_complexity_region	9772	9835	.	-	.	
-Scaffold998	tandem	tandem_repeat	10627	10662	51	-	.	
-Scaffold998	dust	low_complexity_region	10660	10666	.	-	.	
-Scaffold998	dust	low_complexity_region	12650	12693	.	-	.	
-Scaffold998	RepeatMasker	repeat_region	14985	15190	1389	+	.	
-Scaffold998	dust	low_complexity_region	15659	15665	.	-	.	
-Scaffold998	RepeatMasker	repeat_region	16725	17668	2666	+	.	Name=rnd-4_family-95;repeat_class=LTR/Gypsy
 Scaffold686	WormBase_imported	gene	12645	15806	.	+	.	ID=gene:Hba_04052;Name=Hba_04052;biotype=protein_coding
 Scaffold686	WormBase_imported	mRNA	12645	15806	.	+	.	ID=transcript:Hba_04052;Parent=gene:Hba_04052;Name=Hba_04052
 #microexons transcript:Hba_04052:  24-3-21 62 4 30 241 100 105 6 105 212 58 14 125 29
@@ -1174,28 +978,6 @@ Scaffold686	WormBase_imported	CDS	15141	15198	.	+	2	ID=cds:Hba_04052;Parent=tran
 Scaffold686	WormBase_imported	CDS	15411	15424	.	+	1	ID=cds:Hba_04052;Parent=transcript:Hba_04052
 Scaffold686	WormBase_imported	CDS	15477	15601	.	+	2	ID=cds:Hba_04052;Parent=transcript:Hba_04052
 Scaffold686	WormBase_imported	CDS	15778	15806	.	+	0	ID=cds:Hba_04052;Parent=transcript:Hba_04052
-Scaffold686	dust	low_complexity_region	326	343	.	-	.	
-Scaffold686	dust	low_complexity_region	346	355	.	-	.	
-Scaffold686	RepeatMasker	repeat_region	1939	2207	2112	+	.	
-Scaffold686	RepeatMasker	repeat_region	2213	2410	1562	-	.	
-Scaffold686	dust	low_complexity_region	2641	2677	.	-	.	
-Scaffold686	dust	low_complexity_region	3963	3969	.	-	.	
-Scaffold686	dust	low_complexity_region	4463	4469	.	-	.	
-Scaffold686	dust	low_complexity_region	5081	5089	.	-	.	
-Scaffold686	dust	low_complexity_region	5925	5931	.	-	.	
-Scaffold686	dust	low_complexity_region	7697	7715	.	-	.	
-Scaffold686	dust	low_complexity_region	7829	7876	.	-	.	
-Scaffold686	dust	low_complexity_region	7899	7905	.	-	.	
-Scaffold686	dust	low_complexity_region	8588	8596	.	-	.	
-Scaffold686	dust	low_complexity_region	9691	9700	.	-	.	
-Scaffold686	dust	low_complexity_region	10907	10913	.	-	.	
-Scaffold686	dust	low_complexity_region	11329	11336	.	-	.	
-Scaffold686	dust	low_complexity_region	12388	12452	.	-	.	
-Scaffold686	dust	low_complexity_region	12512	12519	.	-	.	
-Scaffold686	RepeatMasker	repeat_region	13440	13637	1562	+	.	
-Scaffold686	RepeatMasker	repeat_region	13643	13911	2112	-	.	
-Scaffold686	dust	low_complexity_region	15491	15500	.	-	.	
-Scaffold686	dust	low_complexity_region	15503	15520	.	-	.	
 Scaffold987	WormBase_imported	gene	13263	14848	.	+	.	ID=gene:Hba_06257;Name=Hba_06257;biotype=protein_coding
 Scaffold987	WormBase_imported	mRNA	13263	14848	.	+	.	ID=transcript:Hba_06257;Parent=gene:Hba_06257;Name=Hba_06257
 #microexons transcript:Hba_06257:  9-3-27-15 102 18 8 54 56 52 31 9-24
@@ -1436,24 +1218,6 @@ Scaffold875	WormBase_imported	CDS	8564	8645	.	+	0	ID=cds:Hba_05519;Parent=transc
 Scaffold875	WormBase_imported	CDS	8762	8820	.	+	2	ID=cds:Hba_05519;Parent=transcript:Hba_05519
 Scaffold875	WormBase_imported	CDS	8881	8929	.	+	0	ID=cds:Hba_05519;Parent=transcript:Hba_05519
 Scaffold875	WormBase_imported	CDS	8956	8976	.	+	2	ID=cds:Hba_05519;Parent=transcript:Hba_05519
-Scaffold875	tandem	tandem_repeat	36	150	160	-	.	
-Scaffold875	tandem	tandem_repeat	72	918	1547	-	.	
-Scaffold875	tandem	tandem_repeat	447	536	132	-	.	
-Scaffold875	tandem	tandem_repeat	455	1539	1944	-	.	
-Scaffold875	tandem	tandem_repeat	455	534	139	-	.	
-Scaffold875	tandem	tandem_repeat	839	990	248	-	.	
-Scaffold875	tandem	tandem_repeat	1295	1442	268	-	.	
-Scaffold875	tandem	tandem_repeat	1295	1442	296	-	.	
-Scaffold875	dust	low_complexity_region	1588	1594	.	-	.	
-Scaffold875	tandem	tandem_repeat	2626	2656	44	-	.	
-Scaffold875	dust	low_complexity_region	2626	2656	.	-	.	
-Scaffold875	dust	low_complexity_region	2741	2747	.	-	.	
-Scaffold875	dust	low_complexity_region	4061	4068	.	-	.	
-Scaffold875	dust	low_complexity_region	4769	4847	.	-	.	
-Scaffold875	dust	low_complexity_region	6816	6822	.	-	.	
-Scaffold875	dust	low_complexity_region	7723	7729	.	-	.	
-Scaffold875	dust	low_complexity_region	8527	8534	.	-	.	
-Scaffold875	RepeatMasker	repeat_region	8659	9048	2452	-	.	
 Scaffold724	WormBase_imported	gene	7131	8143	.	+	.	ID=gene:Hba_04363;Name=Hba_04363;biotype=protein_coding
 Scaffold724	WormBase_imported	mRNA	7131	8143	.	+	.	ID=transcript:Hba_04363;Parent=gene:Hba_04363;Name=Hba_04363
 #microexons transcript:Hba_04363:  26 51 85 18-6-12
@@ -1469,28 +1233,6 @@ Scaffold724	WormBase_imported	CDS	7486	7570	.	+	1	ID=cds:Hba_04363;Parent=transc
 Scaffold724	WormBase_imported	CDS	7889	7906	.	+	0	ID=cds:Hba_04363;Parent=transcript:Hba_04363
 Scaffold724	WormBase_imported	CDS	8102	8107	.	+	0	ID=cds:Hba_04363;Parent=transcript:Hba_04363
 Scaffold724	WormBase_imported	CDS	8132	8143	.	+	0	ID=cds:Hba_04363;Parent=transcript:Hba_04363
-Scaffold724	RepeatMasker	repeat_region	1	446	3214	-	.	Name=rnd-1_family-135;repeat_class=LTR/Pao
-Scaffold724	dust	low_complexity_region	45	136	.	-	.	
-Scaffold724	tandem	tandem_repeat	86	133	54	-	.	
-Scaffold724	tandem	tandem_repeat	86	120	63	-	.	
-Scaffold724	tandem	tandem_repeat	97	126	44	-	.	
-Scaffold724	RepeatMasker	repeat_region	1067	1338	1981	+	.	
-Scaffold724	RepeatMasker	repeat_region	1868	3118	8971	-	.	Name=rnd-1_family-30;repeat_class=DNA/TcMar-Mariner
-Scaffold724	dust	low_complexity_region	1895	1901	.	-	.	
-Scaffold724	dust	low_complexity_region	3119	3691	.	-	.	
-Scaffold724	RepeatMasker	repeat_region	3695	4140	2810	-	.	
-Scaffold724	dust	low_complexity_region	3749	3755	.	-	.	
-Scaffold724	RepeatMasker	repeat_region	4142	4810	5402	-	.	Name=rnd-1_family-122;repeat_class=LTR/Pao
-Scaffold724	RepeatMasker	repeat_region	4813	5468	4586	-	.	
-Scaffold724	dust	low_complexity_region	5028	5065	.	-	.	
-Scaffold724	dust	low_complexity_region	5448	5455	.	-	.	
-Scaffold724	RepeatMasker	repeat_region	5581	5806	826	+	.	
-Scaffold724	dust	low_complexity_region	5590	5596	.	-	.	
-Scaffold724	RepeatMasker	repeat_region	5806	6062	1912	+	.	
-Scaffold724	RepeatMasker	repeat_region	5896	6208	2552	-	.	
-Scaffold724	dust	low_complexity_region	6740	6746	.	-	.	
-Scaffold724	RepeatMasker	repeat_region	6768	6872	364	+	.	
-Scaffold724	RepeatMasker	repeat_region	7789	8007	475	-	.	
 Scaffold134	WormBase_imported	gene	2392	3472	.	+	.	ID=gene:Hba_01316;Name=Hba_01316;biotype=protein_coding
 Scaffold134	WormBase_imported	mRNA	2392	3472	.	+	.	ID=transcript:Hba_01316;Parent=gene:Hba_01316;Name=Hba_01316
 #microexons transcript:Hba_01316:  98 26 36 86 99 9-3-24 123
@@ -1647,12 +1389,6 @@ Scaffold865	WormBase_imported	CDS	2515	2526	.	+	2	ID=cds:Hba_05437;Parent=transc
 Scaffold865	WormBase_imported	CDS	2552	2554	.	+	2	ID=cds:Hba_05437;Parent=transcript:Hba_05437
 Scaffold865	WormBase_imported	CDS	2569	2586	.	+	2	ID=cds:Hba_05437;Parent=transcript:Hba_05437
 Scaffold865	WormBase_imported	CDS	2597	2686	.	+	2	ID=cds:Hba_05437;Parent=transcript:Hba_05437
-Scaffold865	RepeatMasker	repeat_region	1	349	2046	-	.	
-Scaffold865	RepeatMasker	repeat_region	355	661	1779	+	.	
-Scaffold865	dust	low_complexity_region	712	718	.	-	.	
-Scaffold865	RepeatMasker	repeat_region	1351	1839	3048	+	.	
-Scaffold865	dust	low_complexity_region	1719	1726	.	-	.	
-Scaffold865	dust	low_complexity_region	2056	2079	.	-	.	
 Scaffold910	WormBase_imported	gene	1431	2005	.	+	.	ID=gene:Hba_05648;Name=Hba_05648;biotype=protein_coding
 Scaffold910	WormBase_imported	mRNA	1431	2005	.	+	.	ID=transcript:Hba_05648;Parent=gene:Hba_05648;Name=Hba_05648
 #microexons transcript:Hba_05648:  17 17 7 6-3-6-12 137 3 40 6 31
@@ -1680,9 +1416,6 @@ Scaffold910	WormBase_imported	CDS	1859	1861	.	+	2	ID=cds:Hba_05648;Parent=transc
 Scaffold910	WormBase_imported	CDS	1877	1916	.	+	2	ID=cds:Hba_05648;Parent=transcript:Hba_05648
 Scaffold910	WormBase_imported	CDS	1952	1957	.	+	1	ID=cds:Hba_05648;Parent=transcript:Hba_05648
 Scaffold910	WormBase_imported	CDS	1975	2005	.	+	1	ID=cds:Hba_05648;Parent=transcript:Hba_05648
-Scaffold910	cmscan_rfam_12.2	nucleotide_match	325	474	107	+	.	ID=cmscan_rfam_12.2.500;Name=5_8S_rRNA;Target=5_8S_rRNA 1 154;Gap=M79 D2 M28 D2 M43 
-Scaffold910	cmscan_rfam_12.2	nucleotide_match	709	2007	995.8	+	.	ID=cmscan_rfam_12.2.499;Name=LSU_rRNA_eukarya;Target=LSU_rRNA_eukarya 1 1276;Gap=M111 I M23 I M22 I M4 D M4 I3 M36 I5 M30 D2 M233 I5 M42 I M62 D13 M45 D M9 I2 M62 I M10 I M19 I15 M21 I4 M244 I2 M108 I M6 D2 M94 D M71 I2125 
-Scaffold910	RepeatMasker	repeat_region	1	2007	18738	+	.	Name=rnd-1_family-165;repeat_class=rRNA
 Scaffold399	WormBase_imported	gene	620	1657	.	+	.	ID=gene:Hba_02874;Name=Hba_02874;biotype=protein_coding
 Scaffold399	WormBase_imported	mRNA	620	1657	.	+	.	ID=transcript:Hba_02874;Parent=gene:Hba_02874;Name=Hba_02874
 #microexons transcript:Hba_02874:  19 3 73 31 42 7 8 42 113 49 2 10 31 17 26 6-3-6 178
@@ -1724,9 +1457,6 @@ Scaffold399	WormBase_imported	CDS	1395	1400	.	+	1	ID=cds:Hba_02874;Parent=transc
 Scaffold399	WormBase_imported	CDS	1424	1426	.	+	1	ID=cds:Hba_02874;Parent=transcript:Hba_02874
 Scaffold399	WormBase_imported	CDS	1459	1464	.	+	1	ID=cds:Hba_02874;Parent=transcript:Hba_02874
 Scaffold399	WormBase_imported	CDS	1480	1657	.	+	1	ID=cds:Hba_02874;Parent=transcript:Hba_02874
-Scaffold399	cmscan_rfam_12.2	nucleotide_match	144	293	107	+	.	ID=cmscan_rfam_12.2.509;Name=5_8S_rRNA;Target=5_8S_rRNA 1 154;Gap=M79 D2 M28 D2 M43 
-Scaffold399	cmscan_rfam_12.2	nucleotide_match	528	1679	806	+	.	ID=cmscan_rfam_12.2.508;Name=LSU_rRNA_eukarya;Target=LSU_rRNA_eukarya 1 1129;Gap=M111 I M23 I M22 I M6 D M2 I3 M7 D I M28 I5 M30 D M3 D M230 I5 M42 I M62 D13 M45 D M9 I2 M50 I M12 I M10 I M19 I14 M21 I4 M222 D M21 I2 M108 I M6 D2 M19 I2272 
-Scaffold399	RepeatMasker	repeat_region	1	1679	15585	+	.	Name=rnd-1_family-165;repeat_class=rRNA
 Scaffold776	WormBase_imported	gene	539	1121	.	+	.	ID=gene:Hba_04722;Name=Hba_04722;biotype=protein_coding
 Scaffold776	WormBase_imported	mRNA	539	1121	.	+	.	ID=transcript:Hba_04722;Parent=gene:Hba_04722;Name=Hba_04722
 #microexons transcript:Hba_04722:  74 20 55 30-12-3 60 49 39
@@ -1791,10 +1521,6 @@ Scaffold1365	WormBase_imported	CDS	811	813	.	+	1	ID=cds:Hba_21681;Parent=transcr
 Scaffold1365	WormBase_imported	CDS	904	906	.	+	1	ID=cds:Hba_21681;Parent=transcript:Hba_21681
 Scaffold1365	WormBase_imported	CDS	955	956	.	+	1	ID=cds:Hba_21681;Parent=transcript:Hba_21681
 Scaffold1365	WormBase_imported	CDS	1197	1221	.	+	2	ID=cds:Hba_21681;Parent=transcript:Hba_21681
-Scaffold1365	RepeatMasker	repeat_region	1	288	2269	-	.	
-Scaffold1365	RepeatMasker	repeat_region	192	350	443	+	.	Name=rnd-1_family-194;repeat_class=LTR/Pao
-Scaffold1365	dust	low_complexity_region	1186	1193	.	-	.	
-Scaffold770	RepeatMasker	repeat_region	1114	1227	791	+	.	Name=rnd-4_family-95;repeat_class=LTR/Gypsy
 Scaffold437	WormBase_imported	gene	898	1114	.	+	.	ID=gene:Hba_02915;Name=Hba_02915;biotype=protein_coding
 Scaffold437	WormBase_imported	mRNA	898	1114	.	+	.	ID=transcript:Hba_02915;Parent=gene:Hba_02915;Name=Hba_02915
 #microexons transcript:Hba_02915:  58 8 3-9-6-18
@@ -1810,8 +1536,6 @@ Scaffold437	WormBase_imported	CDS	990	992	.	+	0	ID=cds:Hba_02915;Parent=transcri
 Scaffold437	WormBase_imported	CDS	1025	1033	.	+	0	ID=cds:Hba_02915;Parent=transcript:Hba_02915
 Scaffold437	WormBase_imported	CDS	1076	1081	.	+	0	ID=cds:Hba_02915;Parent=transcript:Hba_02915
 Scaffold437	WormBase_imported	CDS	1097	1114	.	+	0	ID=cds:Hba_02915;Parent=transcript:Hba_02915
-Scaffold437	cmscan_rfam_12.2	nucleotide_match	147	1143	683.8	+	.	ID=cmscan_rfam_12.2.573;Name=LSU_rRNA_eukarya;Target=LSU_rRNA_eukarya 1 976;Gap=M111 I M23 I M22 I M4 D M4 I4 M7 D M28 I5 M30 D M D2 M231 I5 M42 I M62 D13 M45 D M9 I2 M62 I M10 I M19 I14 M21 I4 M226 I2425 
-Scaffold437	RepeatMasker	repeat_region	1	1143	10651	+	.	Name=rnd-1_family-165;repeat_class=rRNA
 Scaffold541	WormBase_imported	gene	484	994	.	+	.	ID=gene:Hba_03032;Name=Hba_03032;biotype=protein_coding
 Scaffold541	WormBase_imported	mRNA	484	994	.	+	.	ID=transcript:Hba_03032;Parent=gene:Hba_03032;Name=Hba_03032
 #microexons transcript:Hba_03032:  68 3-3-3 1 5 2 2 6-9-15

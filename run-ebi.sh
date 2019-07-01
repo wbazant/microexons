@@ -6,7 +6,7 @@ for my $species (ProductionMysql->staging->species(@ARGV ? @ARGV : "core_$ENV{PA
 }
 ' "$@" | while read -r species path ; do
   echo $species; 
-  zcat $path | ./microexons.pl > results/$species.gff3
+  zcat $path | grep WormBase_imported | ./microexons.pl > results/$species.gff3
   grep -c $'\t'gene results/$species.gff3 
   [ -s results/$species.gff3 ] || rm -v results/$species.gff3
    echo ""

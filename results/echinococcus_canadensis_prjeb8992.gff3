@@ -121,23 +121,3 @@ E.canG7_contigs_3727	WormBase_imported	CDS	12763	12780	.	-	2	ID=cds:maker-E.canG
 E.canG7_contigs_3727	WormBase_imported	CDS	12609	12635	.	-	2	ID=cds:maker-E.canG7_contigs_3727-pred_gff_cdna2genome-gene-0.23-mRNA-1;Parent=transcript:maker-E.canG7_contigs_3727-pred_gff_cdna2genome-gene-0.23-mRNA-1
 E.canG7_contigs_3727	WormBase_imported	CDS	12214	12266	.	-	2	ID=cds:maker-E.canG7_contigs_3727-pred_gff_cdna2genome-gene-0.23-mRNA-1;Parent=transcript:maker-E.canG7_contigs_3727-pred_gff_cdna2genome-gene-0.23-mRNA-1
 E.canG7_contigs_3727	WormBase_imported	three_prime_UTR	12168	12213	.	-	.	Parent=transcript:maker-E.canG7_contigs_3727-pred_gff_cdna2genome-gene-0.23-mRNA-1
-E.canG7_contigs_3727	trf	tandem_repeat	60	99	80	-	.	
-E.canG7_contigs_3727	dust	low_complexity_region	60	99	.	-	.	
-E.canG7_contigs_3727	dust	low_complexity_region	2916	2922	.	-	.	
-E.canG7_contigs_3727	dust	low_complexity_region	8626	8632	.	-	.	
-E.canG7_contigs_3727	dust	low_complexity_region	10111	10117	.	-	.	
-E.canG7_contigs_3727	dust	low_complexity_region	12269	12280	.	-	.	
-E.canG7_contigs_3727	dust	low_complexity_region	17208	17215	.	-	.	
-E.canG7_contigs_3727	dust	low_complexity_region	17338	17353	.	-	.	
-E.canG7_contigs_3727	dust	low_complexity_region	17481	17487	.	-	.	
-E.canG7_contigs_3727	dust	low_complexity_region	17492	17498	.	-	.	
-E.canG7_contigs_3727	dust	low_complexity_region	19339	19345	.	-	.	
-E.canG7_contigs_3727	dust	low_complexity_region	22781	22787	.	-	.	
-E.canG7_contigs_3727	dust	low_complexity_region	23358	23364	.	-	.	
-E.canG7_contigs_3727	dust	low_complexity_region	24909	24916	.	-	.	
-E.canG7_contigs_3727	dust	low_complexity_region	24983	24989	.	-	.	
-E.canG7_contigs_3727	dust	low_complexity_region	25137	25143	.	-	.	
-E.canG7_contigs_3727	dust	low_complexity_region	27086	27148	.	-	.	
-E.canG7_contigs_3727	trf	tandem_repeat	27107	27142	40	-	.	
-E.canG7_contigs_3727	dust	low_complexity_region	31600	31607	.	-	.	
-E.canG7_contigs_3727	dust	low_complexity_region	31653	31706	.	-	.	
