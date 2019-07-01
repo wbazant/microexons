@@ -11,3 +11,5 @@ done | parallel --will-cite --progress  --halt soon,fail=1 --jobs 30
 for result in results/*; do
   [ -s $result ] || rm $result
 done
+
+grep \#microexons results/* | perl -nE 'my @F = split ":"; $F[0]=~s{results/(.*).gff3}{$1}; $F[3] =~s/^\s*//; print join "\t", @F[0,2,3];' > all-structures.tsv
