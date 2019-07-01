@@ -1,4 +1,7 @@
 #!/usr/bin/bash
+
+echo "species        excess proportion of modular exons      excess proportion of short modular exons"
+  > exon_lengths_imbalance.tsv
 perl -MSpeciesFtp -MProductionMysql -E '
 for my $species (ProductionMysql->staging->species(@ARGV ? @ARGV : "core_$ENV{PARASITE_VERSION}")){
   my $path = SpeciesFtp->current_staging->path_to($species, "annotations.gff3");
@@ -6,4 +9,4 @@ for my $species (ProductionMysql->staging->species(@ARGV ? @ARGV : "core_$ENV{PA
 }
 ' "$@" | while read -r species path ; do
   echo $species $( zcat $path | grep WormBase_imported | ./exon_lengths.pl i)
-done | sort -rg -k3,3 > exon_lengths_imbalance.tsv
+done | sort -rg -k3,3 >> exon_lengths_imbalance.tsv
