@@ -1,0 +1,25 @@
+Contig3	WormBase_imported	gene	2805466	2807360	.	+	.	ID=gene:FL81_04599;Name=FL81_04599;biotype=protein_coding
+Contig3	WormBase_imported	mRNA	2805466	2807360	.	+	.	ID=transcript:FL81_04599;Parent=gene:FL81_04599;Name=FL81_04599;info=method:InterPro accession:IPR003677 description:Domain of unknown function DUF148
+#microexons transcript:FL81_04599:  134 126-42-54-54-54 394 54-252-312
+Contig3	WormBase_imported	exon	2805466	2805599	.	+	.	ID=exon:FL81_04599.1;Parent=transcript:FL81_04599
+Contig3	WormBase_imported	exon	2805647	2805772	.	+	.	ID=exon:FL81_04599.2;Parent=transcript:FL81_04599
+Contig3	WormBase_imported	exon	2805821	2805862	.	+	.	ID=exon:FL81_04599.3;Parent=transcript:FL81_04599
+Contig3	WormBase_imported	exon	2805910	2805963	.	+	.	ID=exon:FL81_04599.4;Parent=transcript:FL81_04599
+Contig3	WormBase_imported	exon	2806009	2806062	.	+	.	ID=exon:FL81_04599.5;Parent=transcript:FL81_04599
+Contig3	WormBase_imported	exon	2806107	2806160	.	+	.	ID=exon:FL81_04599.6;Parent=transcript:FL81_04599
+Contig3	WormBase_imported	exon	2806207	2806600	.	+	.	ID=exon:FL81_04599.7;Parent=transcript:FL81_04599
+Contig3	WormBase_imported	exon	2806648	2806701	.	+	.	ID=exon:FL81_04599.8;Parent=transcript:FL81_04599
+Contig3	WormBase_imported	exon	2806749	2807000	.	+	.	ID=exon:FL81_04599.9;Parent=transcript:FL81_04599
+Contig3	WormBase_imported	exon	2807049	2807360	.	+	.	ID=exon:FL81_04599.10;Parent=transcript:FL81_04599
+Contig3	WormBase_imported	five_prime_UTR	2805466	2805516	.	+	.	Parent=transcript:FL81_04599
+Contig3	WormBase_imported	CDS	2805517	2805599	.	+	0	ID=cds:FL81_04599;Parent=transcript:FL81_04599
+Contig3	WormBase_imported	CDS	2805647	2805772	.	+	1	ID=cds:FL81_04599;Parent=transcript:FL81_04599
+Contig3	WormBase_imported	CDS	2805821	2805862	.	+	1	ID=cds:FL81_04599;Parent=transcript:FL81_04599
+Contig3	WormBase_imported	CDS	2805910	2805963	.	+	1	ID=cds:FL81_04599;Parent=transcript:FL81_04599
+Contig3	WormBase_imported	CDS	2806009	2806062	.	+	1	ID=cds:FL81_04599;Parent=transcript:FL81_04599
+Contig3	WormBase_imported	CDS	2806107	2806160	.	+	1	ID=cds:FL81_04599;Parent=transcript:FL81_04599
+Contig3	WormBase_imported	CDS	2806207	2806600	.	+	1	ID=cds:FL81_04599;Parent=transcript:FL81_04599
+Contig3	WormBase_imported	CDS	2806648	2806701	.	+	0	ID=cds:FL81_04599;Parent=transcript:FL81_04599
+Contig3	WormBase_imported	CDS	2806749	2807000	.	+	0	ID=cds:FL81_04599;Parent=transcript:FL81_04599
+Contig3	WormBase_imported	CDS	2807049	2807336	.	+	0	ID=cds:FL81_04599;Parent=transcript:FL81_04599
+Contig3	WormBase_imported	three_prime_UTR	2807337	2807360	.	+	.	Parent=transcript:FL81_04599

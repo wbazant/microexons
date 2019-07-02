@@ -50,19 +50,15 @@ sub any_transcript_has_microexon_structure {
   return grep {is_microexon_structure(@$_)} values %exons_by_parent;
 }
 
-sub is_microexon_structure {  
-  my @lengths = map {$_->[4] - $_->[3] + 1} @_;
-  my @largest_running_series = largest_running_series(map {$_ % 3 ==0 ? $_ : 0} @lengths);
-  my $largest_running_series_length = scalar @largest_running_series;
-  my $largest_running_series_sum;
-  $largest_running_series_sum += $_ for @largest_running_series;
-  my $largest_running_series_average = $largest_running_series_length > 0 ? $largest_running_series_sum / $largest_running_series_length: 0;
+sub is_microexon_structure {
+  my @scores = map {
+    my $length = $_->[4] - $_->[3] + 1;
+    ($length % 3 ==0  && $length < 60 ) ? 1 : 0
+  } @_;
+  my $scores_count = grep {$_ } @scores;
   my $all_exons = scalar @_;
-  my $largest_running_series_total_under_sixty = grep {$_ && $_ < 60 } @largest_running_series;
-  return $all_exons >= 7 
-    && $largest_running_series_length >= 3 
-    && $largest_running_series_length * 2 >= ($all_exons - 2) 
-    && $largest_running_series_total_under_sixty > 0.8 * $largest_running_series_length;
+  my @series = longest_running_series(@scores);
+  return $all_exons >= 7 && $scores_count >= 0.5 * $all_exons && scalar @series >= 4;
 }
 
 sub looks_like_microexon {
@@ -73,7 +69,7 @@ sub looks_like_microexon {
   return $result;
 }
 
-sub largest_running_series {
+sub longest_running_series {
   my @scores = @_;
   my @max_total;
   my @current_total;

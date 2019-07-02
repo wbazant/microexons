@@ -19,30 +19,3 @@ HDID_scaffold0000339	WormBase_imported	CDS	29346	29402	.	-	0	ID=cds:HDID_0000911
 HDID_scaffold0000339	WormBase_imported	CDS	27903	27950	.	-	0	ID=cds:HDID_0000911401-mRNA-1;Parent=transcript:HDID_0000911401-mRNA-1
 HDID_scaffold0000339	WormBase_imported	CDS	27781	27831	.	-	0	ID=cds:HDID_0000911401-mRNA-1;Parent=transcript:HDID_0000911401-mRNA-1
 HDID_scaffold0000339	WormBase_imported	CDS	27654	27707	.	-	0	ID=cds:HDID_0000911401-mRNA-1;Parent=transcript:HDID_0000911401-mRNA-1
-HDID_contig0000595	WormBase_imported	gene	20613	26613	.	+	.	ID=gene:HDID_0000243801;Name=HDID_0000243801;biotype=protein_coding
-HDID_contig0000595	WormBase_imported	mRNA	20613	26613	.	+	.	ID=transcript:HDID_0000243801-mRNA-1;Parent=gene:HDID_0000243801;Name=HDID_0000243801-mRNA-1;info=method:InterPro accession:IPR001841 description:Zinc finger%2C RING-type %0Amethod:InterPro accession:IPR013083 description:Zinc finger%2C RING/FYVE/PHD-type %0Amethod:InterPro accession:IPR017907 description:Zinc finger%2C RING-type%2C conserved site %0Amethod:InterPro accession:IPR018957 description:Zinc finger%2C C3HC4 RING-type
-#microexons transcript:HDID_0000243801-mRNA-1:  62 238 246-222 23 81-42-45-54-30-57 13
-HDID_contig0000595	WormBase_imported	exon	20613	20674	.	+	.	ID=exon:HDID_0000243801-mRNA-1.1;Parent=transcript:HDID_0000243801-mRNA-1
-HDID_contig0000595	WormBase_imported	exon	20855	21092	.	+	.	ID=exon:HDID_0000243801-mRNA-1.2;Parent=transcript:HDID_0000243801-mRNA-1
-HDID_contig0000595	WormBase_imported	exon	21157	21402	.	+	.	ID=exon:HDID_0000243801-mRNA-1.3;Parent=transcript:HDID_0000243801-mRNA-1
-HDID_contig0000595	WormBase_imported	exon	21440	21661	.	+	.	ID=exon:HDID_0000243801-mRNA-1.4;Parent=transcript:HDID_0000243801-mRNA-1
-HDID_contig0000595	WormBase_imported	exon	21762	21784	.	+	.	ID=exon:HDID_0000243801-mRNA-1.5;Parent=transcript:HDID_0000243801-mRNA-1
-HDID_contig0000595	WormBase_imported	exon	22032	22112	.	+	.	ID=exon:HDID_0000243801-mRNA-1.6;Parent=transcript:HDID_0000243801-mRNA-1
-HDID_contig0000595	WormBase_imported	exon	22708	22749	.	+	.	ID=exon:HDID_0000243801-mRNA-1.7;Parent=transcript:HDID_0000243801-mRNA-1
-HDID_contig0000595	WormBase_imported	exon	24639	24683	.	+	.	ID=exon:HDID_0000243801-mRNA-1.8;Parent=transcript:HDID_0000243801-mRNA-1
-HDID_contig0000595	WormBase_imported	exon	26082	26135	.	+	.	ID=exon:HDID_0000243801-mRNA-1.9;Parent=transcript:HDID_0000243801-mRNA-1
-HDID_contig0000595	WormBase_imported	exon	26209	26238	.	+	.	ID=exon:HDID_0000243801-mRNA-1.10;Parent=transcript:HDID_0000243801-mRNA-1
-HDID_contig0000595	WormBase_imported	exon	26508	26564	.	+	.	ID=exon:HDID_0000243801-mRNA-1.11;Parent=transcript:HDID_0000243801-mRNA-1
-HDID_contig0000595	WormBase_imported	exon	26601	26613	.	+	.	ID=exon:HDID_0000243801-mRNA-1.12;Parent=transcript:HDID_0000243801-mRNA-1
-HDID_contig0000595	WormBase_imported	CDS	20613	20674	.	+	0	ID=cds:HDID_0000243801-mRNA-1;Parent=transcript:HDID_0000243801-mRNA-1
-HDID_contig0000595	WormBase_imported	CDS	20855	21092	.	+	1	ID=cds:HDID_0000243801-mRNA-1;Parent=transcript:HDID_0000243801-mRNA-1
-HDID_contig0000595	WormBase_imported	CDS	21157	21402	.	+	0	ID=cds:HDID_0000243801-mRNA-1;Parent=transcript:HDID_0000243801-mRNA-1
-HDID_contig0000595	WormBase_imported	CDS	21440	21661	.	+	0	ID=cds:HDID_0000243801-mRNA-1;Parent=transcript:HDID_0000243801-mRNA-1
-HDID_contig0000595	WormBase_imported	CDS	21762	21784	.	+	0	ID=cds:HDID_0000243801-mRNA-1;Parent=transcript:HDID_0000243801-mRNA-1
-HDID_contig0000595	WormBase_imported	CDS	22032	22112	.	+	1	ID=cds:HDID_0000243801-mRNA-1;Parent=transcript:HDID_0000243801-mRNA-1
-HDID_contig0000595	WormBase_imported	CDS	22708	22749	.	+	1	ID=cds:HDID_0000243801-mRNA-1;Parent=transcript:HDID_0000243801-mRNA-1
-HDID_contig0000595	WormBase_imported	CDS	24639	24683	.	+	1	ID=cds:HDID_0000243801-mRNA-1;Parent=transcript:HDID_0000243801-mRNA-1
-HDID_contig0000595	WormBase_imported	CDS	26082	26135	.	+	1	ID=cds:HDID_0000243801-mRNA-1;Parent=transcript:HDID_0000243801-mRNA-1
-HDID_contig0000595	WormBase_imported	CDS	26209	26238	.	+	1	ID=cds:HDID_0000243801-mRNA-1;Parent=transcript:HDID_0000243801-mRNA-1
-HDID_contig0000595	WormBase_imported	CDS	26508	26564	.	+	1	ID=cds:HDID_0000243801-mRNA-1;Parent=transcript:HDID_0000243801-mRNA-1
-HDID_contig0000595	WormBase_imported	CDS	26601	26613	.	+	1	ID=cds:HDID_0000243801-mRNA-1;Parent=transcript:HDID_0000243801-mRNA-1

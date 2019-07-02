@@ -97,27 +97,6 @@ C471857	WormBase_imported	CDS	92710	92754	.	+	0	ID=cds:maker-C471857-snap-gene-0
 C471857	WormBase_imported	CDS	93322	93366	.	+	0	ID=cds:maker-C471857-snap-gene-0.28-mRNA-1;Parent=transcript:maker-C471857-snap-gene-0.28-mRNA-1
 C471857	WormBase_imported	CDS	93451	93498	.	+	0	ID=cds:maker-C471857-snap-gene-0.28-mRNA-1;Parent=transcript:maker-C471857-snap-gene-0.28-mRNA-1
 C471857	WormBase_imported	CDS	93552	93620	.	+	0	ID=cds:maker-C471857-snap-gene-0.28-mRNA-1;Parent=transcript:maker-C471857-snap-gene-0.28-mRNA-1
-scaffold5938	WormBase_imported	gene	37289	39766	.	-	.	ID=gene:snap-scaffold5938-abinit-gene-0.10;Name=snap-scaffold5938-abinit-gene-0.10;biotype=protein_coding
-scaffold5938	WormBase_imported	mRNA	37289	39766	.	-	.	ID=transcript:snap-scaffold5938-abinit-gene-0.10-mRNA-1;Parent=gene:snap-scaffold5938-abinit-gene-0.10;Name=snap-scaffold5938-abinit-gene-0.10-mRNA-1;info=method:InterPro accession:IPR004600 description:TFIIH subunit Tfb4/GTF2H3 %0Amethod:InterPro accession:IPR036465 description:von Willebrand factor A-like domain superfamily
-#microexons transcript:snap-scaffold5938-abinit-gene-0.10-mRNA-1:  148 111 161 54-57-57 116 339
-scaffold5938	WormBase_imported	exon	39619	39766	.	-	.	ID=exon:snap-scaffold5938-abinit-gene-0.10-mRNA-1.1;Parent=transcript:snap-scaffold5938-abinit-gene-0.10-mRNA-1
-scaffold5938	WormBase_imported	exon	39380	39490	.	-	.	ID=exon:snap-scaffold5938-abinit-gene-0.10-mRNA-1.2;Parent=transcript:snap-scaffold5938-abinit-gene-0.10-mRNA-1
-scaffold5938	WormBase_imported	exon	38667	38827	.	-	.	ID=exon:snap-scaffold5938-abinit-gene-0.10-mRNA-1.3;Parent=transcript:snap-scaffold5938-abinit-gene-0.10-mRNA-1
-scaffold5938	WormBase_imported	exon	38310	38363	.	-	.	ID=exon:snap-scaffold5938-abinit-gene-0.10-mRNA-1.4;Parent=transcript:snap-scaffold5938-abinit-gene-0.10-mRNA-1
-scaffold5938	WormBase_imported	exon	38219	38275	.	-	.	ID=exon:snap-scaffold5938-abinit-gene-0.10-mRNA-1.5;Parent=transcript:snap-scaffold5938-abinit-gene-0.10-mRNA-1
-scaffold5938	WormBase_imported	exon	37912	37968	.	-	.	ID=exon:snap-scaffold5938-abinit-gene-0.10-mRNA-1.6;Parent=transcript:snap-scaffold5938-abinit-gene-0.10-mRNA-1
-scaffold5938	WormBase_imported	exon	37692	37807	.	-	.	ID=exon:snap-scaffold5938-abinit-gene-0.10-mRNA-1.7;Parent=transcript:snap-scaffold5938-abinit-gene-0.10-mRNA-1
-scaffold5938	WormBase_imported	exon	37289	37627	.	-	.	ID=exon:snap-scaffold5938-abinit-gene-0.10-mRNA-1.8;Parent=transcript:snap-scaffold5938-abinit-gene-0.10-mRNA-1
-scaffold5938	WormBase_imported	five_prime_UTR	39719	39766	.	-	.	Parent=transcript:snap-scaffold5938-abinit-gene-0.10-mRNA-1
-scaffold5938	WormBase_imported	CDS	39619	39718	.	-	0	ID=cds:snap-scaffold5938-abinit-gene-0.10-mRNA-1;Parent=transcript:snap-scaffold5938-abinit-gene-0.10-mRNA-1
-scaffold5938	WormBase_imported	CDS	39380	39490	.	-	2	ID=cds:snap-scaffold5938-abinit-gene-0.10-mRNA-1;Parent=transcript:snap-scaffold5938-abinit-gene-0.10-mRNA-1
-scaffold5938	WormBase_imported	CDS	38667	38827	.	-	2	ID=cds:snap-scaffold5938-abinit-gene-0.10-mRNA-1;Parent=transcript:snap-scaffold5938-abinit-gene-0.10-mRNA-1
-scaffold5938	WormBase_imported	CDS	38310	38363	.	-	0	ID=cds:snap-scaffold5938-abinit-gene-0.10-mRNA-1;Parent=transcript:snap-scaffold5938-abinit-gene-0.10-mRNA-1
-scaffold5938	WormBase_imported	CDS	38219	38275	.	-	0	ID=cds:snap-scaffold5938-abinit-gene-0.10-mRNA-1;Parent=transcript:snap-scaffold5938-abinit-gene-0.10-mRNA-1
-scaffold5938	WormBase_imported	CDS	37912	37968	.	-	0	ID=cds:snap-scaffold5938-abinit-gene-0.10-mRNA-1;Parent=transcript:snap-scaffold5938-abinit-gene-0.10-mRNA-1
-scaffold5938	WormBase_imported	CDS	37692	37807	.	-	0	ID=cds:snap-scaffold5938-abinit-gene-0.10-mRNA-1;Parent=transcript:snap-scaffold5938-abinit-gene-0.10-mRNA-1
-scaffold5938	WormBase_imported	CDS	37567	37627	.	-	1	ID=cds:snap-scaffold5938-abinit-gene-0.10-mRNA-1;Parent=transcript:snap-scaffold5938-abinit-gene-0.10-mRNA-1
-scaffold5938	WormBase_imported	three_prime_UTR	37289	37566	.	-	.	Parent=transcript:snap-scaffold5938-abinit-gene-0.10-mRNA-1
 scaffold4269	WormBase_imported	gene	34044	39905	.	+	.	ID=gene:maker-scaffold4269-snap-gene-0.22;Name=maker-scaffold4269-snap-gene-0.22;biotype=protein_coding
 scaffold4269	WormBase_imported	mRNA	34044	39905	.	+	.	ID=transcript:maker-scaffold4269-snap-gene-0.22-mRNA-1;Parent=gene:maker-scaffold4269-snap-gene-0.22;Name=maker-scaffold4269-snap-gene-0.22-mRNA-1
 #microexons transcript:maker-scaffold4269-snap-gene-0.22-mRNA-1:  71 60-132 170 114 146 140 48-48-48-48-48-48-48-48-48-48-48-39 46
@@ -252,24 +231,6 @@ scaffold19433	WormBase_imported	CDS	43744	43797	.	-	1	ID=cds:maker-scaffold19433
 scaffold19433	WormBase_imported	CDS	43297	43400	.	-	1	ID=cds:maker-scaffold19433-snap-gene-0.20-mRNA-1;Parent=transcript:maker-scaffold19433-snap-gene-0.20-mRNA-1
 scaffold19433	WormBase_imported	CDS	42143	42261	.	-	2	ID=cds:maker-scaffold19433-snap-gene-0.20-mRNA-1;Parent=transcript:maker-scaffold19433-snap-gene-0.20-mRNA-1
 scaffold19433	WormBase_imported	three_prime_UTR	42082	42142	.	-	.	Parent=transcript:maker-scaffold19433-snap-gene-0.20-mRNA-1
-scaffold1426	WormBase_imported	gene	45131	49063	.	+	.	ID=gene:snap-scaffold1426-abinit-gene-0.11;Name=snap-scaffold1426-abinit-gene-0.11;biotype=protein_coding
-scaffold1426	WormBase_imported	mRNA	45131	49063	.	+	.	ID=transcript:snap-scaffold1426-abinit-gene-0.11-mRNA-1;Parent=gene:snap-scaffold1426-abinit-gene-0.11;Name=snap-scaffold1426-abinit-gene-0.11-mRNA-1
-#microexons transcript:snap-scaffold1426-abinit-gene-0.11-mRNA-1:  125 110 57-57-57 134 96
-scaffold1426	WormBase_imported	exon	45131	45255	.	+	.	ID=exon:snap-scaffold1426-abinit-gene-0.11-mRNA-1.1;Parent=transcript:snap-scaffold1426-abinit-gene-0.11-mRNA-1
-scaffold1426	WormBase_imported	exon	45400	45509	.	+	.	ID=exon:snap-scaffold1426-abinit-gene-0.11-mRNA-1.2;Parent=transcript:snap-scaffold1426-abinit-gene-0.11-mRNA-1
-scaffold1426	WormBase_imported	exon	46150	46206	.	+	.	ID=exon:snap-scaffold1426-abinit-gene-0.11-mRNA-1.3;Parent=transcript:snap-scaffold1426-abinit-gene-0.11-mRNA-1
-scaffold1426	WormBase_imported	exon	47201	47257	.	+	.	ID=exon:snap-scaffold1426-abinit-gene-0.11-mRNA-1.4;Parent=transcript:snap-scaffold1426-abinit-gene-0.11-mRNA-1
-scaffold1426	WormBase_imported	exon	48387	48443	.	+	.	ID=exon:snap-scaffold1426-abinit-gene-0.11-mRNA-1.5;Parent=transcript:snap-scaffold1426-abinit-gene-0.11-mRNA-1
-scaffold1426	WormBase_imported	exon	48655	48788	.	+	.	ID=exon:snap-scaffold1426-abinit-gene-0.11-mRNA-1.6;Parent=transcript:snap-scaffold1426-abinit-gene-0.11-mRNA-1
-scaffold1426	WormBase_imported	exon	48968	49063	.	+	.	ID=exon:snap-scaffold1426-abinit-gene-0.11-mRNA-1.7;Parent=transcript:snap-scaffold1426-abinit-gene-0.11-mRNA-1
-scaffold1426	WormBase_imported	five_prime_UTR	45131	45255	.	+	.	Parent=transcript:snap-scaffold1426-abinit-gene-0.11-mRNA-1
-scaffold1426	WormBase_imported	five_prime_UTR	45400	45403	.	+	.	Parent=transcript:snap-scaffold1426-abinit-gene-0.11-mRNA-1
-scaffold1426	WormBase_imported	CDS	45404	45509	.	+	0	ID=cds:snap-scaffold1426-abinit-gene-0.11-mRNA-1;Parent=transcript:snap-scaffold1426-abinit-gene-0.11-mRNA-1
-scaffold1426	WormBase_imported	CDS	46150	46206	.	+	2	ID=cds:snap-scaffold1426-abinit-gene-0.11-mRNA-1;Parent=transcript:snap-scaffold1426-abinit-gene-0.11-mRNA-1
-scaffold1426	WormBase_imported	CDS	47201	47257	.	+	2	ID=cds:snap-scaffold1426-abinit-gene-0.11-mRNA-1;Parent=transcript:snap-scaffold1426-abinit-gene-0.11-mRNA-1
-scaffold1426	WormBase_imported	CDS	48387	48443	.	+	2	ID=cds:snap-scaffold1426-abinit-gene-0.11-mRNA-1;Parent=transcript:snap-scaffold1426-abinit-gene-0.11-mRNA-1
-scaffold1426	WormBase_imported	CDS	48655	48788	.	+	2	ID=cds:snap-scaffold1426-abinit-gene-0.11-mRNA-1;Parent=transcript:snap-scaffold1426-abinit-gene-0.11-mRNA-1
-scaffold1426	WormBase_imported	CDS	48968	49063	.	+	0	ID=cds:snap-scaffold1426-abinit-gene-0.11-mRNA-1;Parent=transcript:snap-scaffold1426-abinit-gene-0.11-mRNA-1
 scaffold18805	WormBase_imported	gene	1088	6208	.	-	.	ID=gene:maker-scaffold18805-augustus-gene-0.11;Name=maker-scaffold18805-augustus-gene-0.11;biotype=protein_coding
 scaffold18805	WormBase_imported	mRNA	1089	6208	.	-	.	ID=transcript:maker-scaffold18805-augustus-gene-0.11-mRNA-1;Parent=gene:maker-scaffold18805-augustus-gene-0.11;Name=maker-scaffold18805-augustus-gene-0.11-mRNA-1
 #microexons transcript:maker-scaffold18805-augustus-gene-0.11-mRNA-1:  73 39-39-36 59 49 33-39-33-30-39-42-36 35
@@ -497,3 +458,30 @@ scaffold10351	WormBase_imported	CDS	5658	5702	.	+	2	ID=cds:maker-scaffold10351-s
 scaffold10351	WormBase_imported	CDS	6514	6576	.	+	2	ID=cds:maker-scaffold10351-snap-gene-0.2-mRNA-1;Parent=transcript:maker-scaffold10351-snap-gene-0.2-mRNA-1
 scaffold10351	WormBase_imported	CDS	6740	6753	.	+	2	ID=cds:maker-scaffold10351-snap-gene-0.2-mRNA-1;Parent=transcript:maker-scaffold10351-snap-gene-0.2-mRNA-1
 scaffold10351	WormBase_imported	three_prime_UTR	6754	6867	.	+	.	Parent=transcript:maker-scaffold10351-snap-gene-0.2-mRNA-1
+C452207	WormBase_imported	gene	1329	6853	.	+	.	ID=gene:maker-C452207-snap-gene-0.3;Name=maker-C452207-snap-gene-0.3;biotype=protein_coding
+C452207	WormBase_imported	mRNA	1329	6853	.	+	.	ID=transcript:maker-C452207-snap-gene-0.3-mRNA-1;Parent=gene:maker-C452207-snap-gene-0.3;Name=maker-C452207-snap-gene-0.3-mRNA-1
+#microexons transcript:maker-C452207-snap-gene-0.3-mRNA-1:  27 68 45-51-63-75-57-54-54-54-54 37
+C452207	WormBase_imported	exon	1329	1355	.	+	.	ID=exon:maker-C452207-snap-gene-0.3-mRNA-1.1;Parent=transcript:maker-C452207-snap-gene-0.3-mRNA-1
+C452207	WormBase_imported	exon	2755	2822	.	+	.	ID=exon:maker-C452207-snap-gene-0.3-mRNA-1.2;Parent=transcript:maker-C452207-snap-gene-0.3-mRNA-1
+C452207	WormBase_imported	exon	2943	2987	.	+	.	ID=exon:maker-C452207-snap-gene-0.3-mRNA-1.3;Parent=transcript:maker-C452207-snap-gene-0.3-mRNA-1
+C452207	WormBase_imported	exon	4147	4197	.	+	.	ID=exon:maker-C452207-snap-gene-0.3-mRNA-1.4;Parent=transcript:maker-C452207-snap-gene-0.3-mRNA-1
+C452207	WormBase_imported	exon	4587	4649	.	+	.	ID=exon:maker-C452207-snap-gene-0.3-mRNA-1.5;Parent=transcript:maker-C452207-snap-gene-0.3-mRNA-1
+C452207	WormBase_imported	exon	5136	5210	.	+	.	ID=exon:maker-C452207-snap-gene-0.3-mRNA-1.6;Parent=transcript:maker-C452207-snap-gene-0.3-mRNA-1
+C452207	WormBase_imported	exon	5488	5544	.	+	.	ID=exon:maker-C452207-snap-gene-0.3-mRNA-1.7;Parent=transcript:maker-C452207-snap-gene-0.3-mRNA-1
+C452207	WormBase_imported	exon	6385	6438	.	+	.	ID=exon:maker-C452207-snap-gene-0.3-mRNA-1.8;Parent=transcript:maker-C452207-snap-gene-0.3-mRNA-1
+C452207	WormBase_imported	exon	6496	6549	.	+	.	ID=exon:maker-C452207-snap-gene-0.3-mRNA-1.9;Parent=transcript:maker-C452207-snap-gene-0.3-mRNA-1
+C452207	WormBase_imported	exon	6601	6654	.	+	.	ID=exon:maker-C452207-snap-gene-0.3-mRNA-1.10;Parent=transcript:maker-C452207-snap-gene-0.3-mRNA-1
+C452207	WormBase_imported	exon	6712	6765	.	+	.	ID=exon:maker-C452207-snap-gene-0.3-mRNA-1.11;Parent=transcript:maker-C452207-snap-gene-0.3-mRNA-1
+C452207	WormBase_imported	exon	6817	6853	.	+	.	ID=exon:maker-C452207-snap-gene-0.3-mRNA-1.12;Parent=transcript:maker-C452207-snap-gene-0.3-mRNA-1
+C452207	WormBase_imported	CDS	1329	1355	.	+	0	ID=cds:maker-C452207-snap-gene-0.3-mRNA-1;Parent=transcript:maker-C452207-snap-gene-0.3-mRNA-1
+C452207	WormBase_imported	CDS	2755	2822	.	+	0	ID=cds:maker-C452207-snap-gene-0.3-mRNA-1;Parent=transcript:maker-C452207-snap-gene-0.3-mRNA-1
+C452207	WormBase_imported	CDS	2943	2987	.	+	1	ID=cds:maker-C452207-snap-gene-0.3-mRNA-1;Parent=transcript:maker-C452207-snap-gene-0.3-mRNA-1
+C452207	WormBase_imported	CDS	4147	4197	.	+	1	ID=cds:maker-C452207-snap-gene-0.3-mRNA-1;Parent=transcript:maker-C452207-snap-gene-0.3-mRNA-1
+C452207	WormBase_imported	CDS	4587	4649	.	+	1	ID=cds:maker-C452207-snap-gene-0.3-mRNA-1;Parent=transcript:maker-C452207-snap-gene-0.3-mRNA-1
+C452207	WormBase_imported	CDS	5136	5210	.	+	1	ID=cds:maker-C452207-snap-gene-0.3-mRNA-1;Parent=transcript:maker-C452207-snap-gene-0.3-mRNA-1
+C452207	WormBase_imported	CDS	5488	5544	.	+	1	ID=cds:maker-C452207-snap-gene-0.3-mRNA-1;Parent=transcript:maker-C452207-snap-gene-0.3-mRNA-1
+C452207	WormBase_imported	CDS	6385	6438	.	+	1	ID=cds:maker-C452207-snap-gene-0.3-mRNA-1;Parent=transcript:maker-C452207-snap-gene-0.3-mRNA-1
+C452207	WormBase_imported	CDS	6496	6549	.	+	1	ID=cds:maker-C452207-snap-gene-0.3-mRNA-1;Parent=transcript:maker-C452207-snap-gene-0.3-mRNA-1
+C452207	WormBase_imported	CDS	6601	6654	.	+	1	ID=cds:maker-C452207-snap-gene-0.3-mRNA-1;Parent=transcript:maker-C452207-snap-gene-0.3-mRNA-1
+C452207	WormBase_imported	CDS	6712	6765	.	+	1	ID=cds:maker-C452207-snap-gene-0.3-mRNA-1;Parent=transcript:maker-C452207-snap-gene-0.3-mRNA-1
+C452207	WormBase_imported	CDS	6817	6853	.	+	1	ID=cds:maker-C452207-snap-gene-0.3-mRNA-1;Parent=transcript:maker-C452207-snap-gene-0.3-mRNA-1

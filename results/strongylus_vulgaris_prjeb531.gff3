@@ -1,0 +1,19 @@
+SVUK_scaffold0018477	WormBase_imported	gene	160	1604	.	-	.	ID=gene:SVUK_0001657601;Name=SVUK_0001657601;biotype=protein_coding
+SVUK_scaffold0018477	WormBase_imported	mRNA	160	1604	.	-	.	ID=transcript:SVUK_0001657601-mRNA-1;Parent=gene:SVUK_0001657601;Name=SVUK_0001657601-mRNA-1
+#microexons transcript:SVUK_0001657601-mRNA-1:  51 175 114-45-54-54-48 59
+SVUK_scaffold0018477	WormBase_imported	exon	1554	1604	.	-	.	ID=exon:SVUK_0001657601-mRNA-1.1;Parent=transcript:SVUK_0001657601-mRNA-1
+SVUK_scaffold0018477	WormBase_imported	exon	1278	1452	.	-	.	ID=exon:SVUK_0001657601-mRNA-1.2;Parent=transcript:SVUK_0001657601-mRNA-1
+SVUK_scaffold0018477	WormBase_imported	exon	891	1004	.	-	.	ID=exon:SVUK_0001657601-mRNA-1.3;Parent=transcript:SVUK_0001657601-mRNA-1
+SVUK_scaffold0018477	WormBase_imported	exon	784	828	.	-	.	ID=exon:SVUK_0001657601-mRNA-1.4;Parent=transcript:SVUK_0001657601-mRNA-1
+SVUK_scaffold0018477	WormBase_imported	exon	678	731	.	-	.	ID=exon:SVUK_0001657601-mRNA-1.5;Parent=transcript:SVUK_0001657601-mRNA-1
+SVUK_scaffold0018477	WormBase_imported	exon	570	623	.	-	.	ID=exon:SVUK_0001657601-mRNA-1.6;Parent=transcript:SVUK_0001657601-mRNA-1
+SVUK_scaffold0018477	WormBase_imported	exon	273	320	.	-	.	ID=exon:SVUK_0001657601-mRNA-1.7;Parent=transcript:SVUK_0001657601-mRNA-1
+SVUK_scaffold0018477	WormBase_imported	exon	160	218	.	-	.	ID=exon:SVUK_0001657601-mRNA-1.8;Parent=transcript:SVUK_0001657601-mRNA-1
+SVUK_scaffold0018477	WormBase_imported	CDS	1554	1604	.	-	0	ID=cds:SVUK_0001657601-mRNA-1;Parent=transcript:SVUK_0001657601-mRNA-1
+SVUK_scaffold0018477	WormBase_imported	CDS	1278	1452	.	-	0	ID=cds:SVUK_0001657601-mRNA-1;Parent=transcript:SVUK_0001657601-mRNA-1
+SVUK_scaffold0018477	WormBase_imported	CDS	891	1004	.	-	2	ID=cds:SVUK_0001657601-mRNA-1;Parent=transcript:SVUK_0001657601-mRNA-1
+SVUK_scaffold0018477	WormBase_imported	CDS	784	828	.	-	2	ID=cds:SVUK_0001657601-mRNA-1;Parent=transcript:SVUK_0001657601-mRNA-1
+SVUK_scaffold0018477	WormBase_imported	CDS	678	731	.	-	2	ID=cds:SVUK_0001657601-mRNA-1;Parent=transcript:SVUK_0001657601-mRNA-1
+SVUK_scaffold0018477	WormBase_imported	CDS	570	623	.	-	2	ID=cds:SVUK_0001657601-mRNA-1;Parent=transcript:SVUK_0001657601-mRNA-1
+SVUK_scaffold0018477	WormBase_imported	CDS	273	320	.	-	2	ID=cds:SVUK_0001657601-mRNA-1;Parent=transcript:SVUK_0001657601-mRNA-1
+SVUK_scaffold0018477	WormBase_imported	CDS	160	218	.	-	2	ID=cds:SVUK_0001657601-mRNA-1;Parent=transcript:SVUK_0001657601-mRNA-1

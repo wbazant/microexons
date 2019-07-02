@@ -146,25 +146,6 @@ scf00360	WormBase_imported	CDS	274581	274619	.	+	2	ID=cds:csin105887;Parent=tran
 scf00360	WormBase_imported	CDS	277205	277228	.	+	2	ID=cds:csin105887;Parent=transcript:csin105887
 scf00360	WormBase_imported	CDS	277750	277788	.	+	2	ID=cds:csin105887;Parent=transcript:csin105887
 scf00360	WormBase_imported	CDS	277893	277930	.	+	2	ID=cds:csin105887;Parent=transcript:csin105887
-scf00421	WormBase_imported	gene	133954	154076	.	+	.	ID=gene:csin106483;Name=csin106483;biotype=protein_coding;description=CUB domain-containing protein 2;description_source=UniProtKB/TrEMBL;description_source_acc=H2KTW1
-scf00421	WormBase_imported	mRNA	133954	154076	.	+	.	ID=transcript:csin106483;Parent=gene:csin106483;Name=csin106483;info=method:InterPro accession:IPR000859 description:CUB domain %0Amethod:InterPro accession:IPR035914 description:Spermadhesin%2C CUB domain superfamily
-#microexons transcript:csin106483:  40 146 202 36-45-39 143 204
-scf00421	WormBase_imported	exon	133954	133993	.	+	.	ID=exon:csin106483.1;Parent=transcript:csin106483
-scf00421	WormBase_imported	exon	149083	149228	.	+	.	ID=exon:csin106483.2;Parent=transcript:csin106483
-scf00421	WormBase_imported	exon	150316	150517	.	+	.	ID=exon:csin106483.3;Parent=transcript:csin106483
-scf00421	WormBase_imported	exon	150971	151006	.	+	.	ID=exon:csin106483.4;Parent=transcript:csin106483
-scf00421	WormBase_imported	exon	151295	151339	.	+	.	ID=exon:csin106483.5;Parent=transcript:csin106483
-scf00421	WormBase_imported	exon	151839	151877	.	+	.	ID=exon:csin106483.6;Parent=transcript:csin106483
-scf00421	WormBase_imported	exon	152804	152946	.	+	.	ID=exon:csin106483.7;Parent=transcript:csin106483
-scf00421	WormBase_imported	exon	153873	154076	.	+	.	ID=exon:csin106483.8;Parent=transcript:csin106483
-scf00421	WormBase_imported	CDS	133954	133993	.	+	0	ID=cds:csin106483;Parent=transcript:csin106483
-scf00421	WormBase_imported	CDS	149083	149228	.	+	2	ID=cds:csin106483;Parent=transcript:csin106483
-scf00421	WormBase_imported	CDS	150316	150517	.	+	0	ID=cds:csin106483;Parent=transcript:csin106483
-scf00421	WormBase_imported	CDS	150971	151006	.	+	2	ID=cds:csin106483;Parent=transcript:csin106483
-scf00421	WormBase_imported	CDS	151295	151339	.	+	2	ID=cds:csin106483;Parent=transcript:csin106483
-scf00421	WormBase_imported	CDS	151839	151877	.	+	2	ID=cds:csin106483;Parent=transcript:csin106483
-scf00421	WormBase_imported	CDS	152804	152946	.	+	2	ID=cds:csin106483;Parent=transcript:csin106483
-scf00421	WormBase_imported	CDS	153873	154076	.	+	0	ID=cds:csin106483;Parent=transcript:csin106483
 scf00996	WormBase_imported	gene	118261	127585	.	+	.	ID=gene:csin110349;Name=csin110349;biotype=protein_coding
 scf00996	WormBase_imported	mRNA	118261	127585	.	+	.	ID=transcript:csin110349;Parent=gene:csin110349;Name=csin110349
 #microexons transcript:csin110349:  22 30-21-21-30-36 56
@@ -182,25 +163,6 @@ scf00996	WormBase_imported	CDS	123199	123219	.	+	2	ID=cds:csin110349;Parent=tran
 scf00996	WormBase_imported	CDS	125705	125734	.	+	2	ID=cds:csin110349;Parent=transcript:csin110349
 scf00996	WormBase_imported	CDS	127002	127037	.	+	2	ID=cds:csin110349;Parent=transcript:csin110349
 scf00996	WormBase_imported	CDS	127530	127585	.	+	2	ID=cds:csin110349;Parent=transcript:csin110349
-scf01051	WormBase_imported	gene	121816	138301	.	+	.	ID=gene:csin110587;Name=csin110587;biotype=protein_coding;description=Cubilin;description_source=UniProtKB/TrEMBL;description_source_acc=G7YKW4
-scf01051	WormBase_imported	mRNA	121816	138301	.	+	.	ID=transcript:csin110587;Parent=gene:csin110587;Name=csin110587;info=method:InterPro accession:IPR000859 description:CUB domain %0Amethod:InterPro accession:IPR035914 description:Spermadhesin%2C CUB domain superfamily
-#microexons transcript:csin110587:  58 149 202 36-36-36 70 25
-scf01051	WormBase_imported	exon	121816	121873	.	+	.	ID=exon:csin110587.1;Parent=transcript:csin110587
-scf01051	WormBase_imported	exon	123255	123403	.	+	.	ID=exon:csin110587.2;Parent=transcript:csin110587
-scf01051	WormBase_imported	exon	124097	124298	.	+	.	ID=exon:csin110587.3;Parent=transcript:csin110587
-scf01051	WormBase_imported	exon	125351	125386	.	+	.	ID=exon:csin110587.4;Parent=transcript:csin110587
-scf01051	WormBase_imported	exon	127751	127786	.	+	.	ID=exon:csin110587.5;Parent=transcript:csin110587
-scf01051	WormBase_imported	exon	131433	131468	.	+	.	ID=exon:csin110587.6;Parent=transcript:csin110587
-scf01051	WormBase_imported	exon	135972	136041	.	+	.	ID=exon:csin110587.7;Parent=transcript:csin110587
-scf01051	WormBase_imported	exon	138277	138301	.	+	.	ID=exon:csin110587.8;Parent=transcript:csin110587
-scf01051	WormBase_imported	CDS	121816	121873	.	+	0	ID=cds:csin110587;Parent=transcript:csin110587
-scf01051	WormBase_imported	CDS	123255	123403	.	+	2	ID=cds:csin110587;Parent=transcript:csin110587
-scf01051	WormBase_imported	CDS	124097	124298	.	+	0	ID=cds:csin110587;Parent=transcript:csin110587
-scf01051	WormBase_imported	CDS	125351	125386	.	+	2	ID=cds:csin110587;Parent=transcript:csin110587
-scf01051	WormBase_imported	CDS	127751	127786	.	+	2	ID=cds:csin110587;Parent=transcript:csin110587
-scf01051	WormBase_imported	CDS	131433	131468	.	+	2	ID=cds:csin110587;Parent=transcript:csin110587
-scf01051	WormBase_imported	CDS	135972	136041	.	+	2	ID=cds:csin110587;Parent=transcript:csin110587
-scf01051	WormBase_imported	CDS	138277	138301	.	+	1	ID=cds:csin110587;Parent=transcript:csin110587
 scf01703	WormBase_imported	gene	12384	23874	.	+	.	ID=gene:csin112419;Name=csin112419;biotype=protein_coding
 scf01703	WormBase_imported	mRNA	12384	23874	.	+	.	ID=transcript:csin112419;Parent=gene:csin112419;Name=csin112419
 #microexons transcript:csin112419:  34 33-33-33-21 67 19

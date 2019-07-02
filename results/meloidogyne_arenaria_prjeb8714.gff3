@@ -18,45 +18,116 @@ M.Arenaria_Scaff1	WormBase_imported	CDS	89283	89299	.	-	1	ID=cds:M.Arenaria_Scaf
 M.Arenaria_Scaff1	WormBase_imported	CDS	89120	89224	.	-	2	ID=cds:M.Arenaria_Scaff1g000032;Parent=transcript:M.Arenaria_Scaff1g000032
 M.Arenaria_Scaff1	WormBase_imported	CDS	88966	89078	.	-	2	ID=cds:M.Arenaria_Scaff1g000032;Parent=transcript:M.Arenaria_Scaff1g000032
 M.Arenaria_Scaff1	WormBase_imported	three_prime_UTR	88919	88965	.	-	.	Parent=transcript:M.Arenaria_Scaff1g000032
-M.Arenaria_Scaff485	WormBase_imported	gene	25025	27299	.	+	.	ID=gene:M.Arenaria_Scaff485g010543;Name=M.Arenaria_Scaff485g010543;biotype=protein_coding
-M.Arenaria_Scaff485	WormBase_imported	mRNA	25025	27299	.	+	.	ID=transcript:M.Arenaria_Scaff485g010543;Parent=gene:M.Arenaria_Scaff485g010543;Name=M.Arenaria_Scaff485g010543;info=method:InterPro accession:IPR003914 description:Rabaptin %0Amethod:InterPro accession:IPR015390 description:Rabaptin%2C GTPase-Rab5 binding domain
-#microexons transcript:M.Arenaria_Scaff485g010543:  36-48-42 22 107 152 121 296
-M.Arenaria_Scaff485	WormBase_imported	exon	25025	25060	.	+	.	ID=exon:M.Arenaria_Scaff485g010543.1;Parent=transcript:M.Arenaria_Scaff485g010543
-M.Arenaria_Scaff485	WormBase_imported	exon	25111	25158	.	+	.	ID=exon:M.Arenaria_Scaff485g010543.2;Parent=transcript:M.Arenaria_Scaff485g010543
-M.Arenaria_Scaff485	WormBase_imported	exon	25615	25656	.	+	.	ID=exon:M.Arenaria_Scaff485g010543.3;Parent=transcript:M.Arenaria_Scaff485g010543
-M.Arenaria_Scaff485	WormBase_imported	exon	25704	25725	.	+	.	ID=exon:M.Arenaria_Scaff485g010543.4;Parent=transcript:M.Arenaria_Scaff485g010543
-M.Arenaria_Scaff485	WormBase_imported	exon	25770	25876	.	+	.	ID=exon:M.Arenaria_Scaff485g010543.5;Parent=transcript:M.Arenaria_Scaff485g010543
-M.Arenaria_Scaff485	WormBase_imported	exon	26210	26361	.	+	.	ID=exon:M.Arenaria_Scaff485g010543.6;Parent=transcript:M.Arenaria_Scaff485g010543
-M.Arenaria_Scaff485	WormBase_imported	exon	26412	26532	.	+	.	ID=exon:M.Arenaria_Scaff485g010543.7;Parent=transcript:M.Arenaria_Scaff485g010543
-M.Arenaria_Scaff485	WormBase_imported	exon	27004	27299	.	+	.	ID=exon:M.Arenaria_Scaff485g010543.8;Parent=transcript:M.Arenaria_Scaff485g010543
-M.Arenaria_Scaff485	WormBase_imported	CDS	25025	25060	.	+	0	ID=cds:M.Arenaria_Scaff485g010543;Parent=transcript:M.Arenaria_Scaff485g010543
-M.Arenaria_Scaff485	WormBase_imported	CDS	25111	25158	.	+	0	ID=cds:M.Arenaria_Scaff485g010543;Parent=transcript:M.Arenaria_Scaff485g010543
-M.Arenaria_Scaff485	WormBase_imported	CDS	25615	25656	.	+	0	ID=cds:M.Arenaria_Scaff485g010543;Parent=transcript:M.Arenaria_Scaff485g010543
-M.Arenaria_Scaff485	WormBase_imported	CDS	25704	25725	.	+	0	ID=cds:M.Arenaria_Scaff485g010543;Parent=transcript:M.Arenaria_Scaff485g010543
-M.Arenaria_Scaff485	WormBase_imported	CDS	25770	25876	.	+	2	ID=cds:M.Arenaria_Scaff485g010543;Parent=transcript:M.Arenaria_Scaff485g010543
-M.Arenaria_Scaff485	WormBase_imported	CDS	26210	26361	.	+	0	ID=cds:M.Arenaria_Scaff485g010543;Parent=transcript:M.Arenaria_Scaff485g010543
-M.Arenaria_Scaff485	WormBase_imported	CDS	26412	26532	.	+	1	ID=cds:M.Arenaria_Scaff485g010543;Parent=transcript:M.Arenaria_Scaff485g010543
-M.Arenaria_Scaff485	WormBase_imported	CDS	27004	27117	.	+	0	ID=cds:M.Arenaria_Scaff485g010543;Parent=transcript:M.Arenaria_Scaff485g010543
-M.Arenaria_Scaff485	WormBase_imported	three_prime_UTR	27118	27299	.	+	.	Parent=transcript:M.Arenaria_Scaff485g010543
-M.Arenaria_Scaff1722	WormBase_imported	gene	18025	20468	.	+	.	ID=gene:M.Arenaria_Scaff1722g026289;Name=M.Arenaria_Scaff1722g026289;biotype=protein_coding
-M.Arenaria_Scaff1722	WormBase_imported	mRNA	18025	20468	.	+	.	ID=transcript:M.Arenaria_Scaff1722g026289;Parent=gene:M.Arenaria_Scaff1722g026289;Name=M.Arenaria_Scaff1722g026289;info=method:InterPro accession:IPR003914 description:Rabaptin %0Amethod:InterPro accession:IPR015390 description:Rabaptin%2C GTPase-Rab5 binding domain
-#microexons transcript:M.Arenaria_Scaff1722g026289:  36-48-42 22 107 152 121 114
-M.Arenaria_Scaff1722	WormBase_imported	exon	18025	18060	.	+	.	ID=exon:M.Arenaria_Scaff1722g026289.1;Parent=transcript:M.Arenaria_Scaff1722g026289
-M.Arenaria_Scaff1722	WormBase_imported	exon	18111	18158	.	+	.	ID=exon:M.Arenaria_Scaff1722g026289.2;Parent=transcript:M.Arenaria_Scaff1722g026289
-M.Arenaria_Scaff1722	WormBase_imported	exon	18625	18666	.	+	.	ID=exon:M.Arenaria_Scaff1722g026289.3;Parent=transcript:M.Arenaria_Scaff1722g026289
-M.Arenaria_Scaff1722	WormBase_imported	exon	18714	18735	.	+	.	ID=exon:M.Arenaria_Scaff1722g026289.4;Parent=transcript:M.Arenaria_Scaff1722g026289
-M.Arenaria_Scaff1722	WormBase_imported	exon	18779	18885	.	+	.	ID=exon:M.Arenaria_Scaff1722g026289.5;Parent=transcript:M.Arenaria_Scaff1722g026289
-M.Arenaria_Scaff1722	WormBase_imported	exon	19657	19808	.	+	.	ID=exon:M.Arenaria_Scaff1722g026289.6;Parent=transcript:M.Arenaria_Scaff1722g026289
-M.Arenaria_Scaff1722	WormBase_imported	exon	19857	19977	.	+	.	ID=exon:M.Arenaria_Scaff1722g026289.7;Parent=transcript:M.Arenaria_Scaff1722g026289
-M.Arenaria_Scaff1722	WormBase_imported	exon	20355	20468	.	+	.	ID=exon:M.Arenaria_Scaff1722g026289.8;Parent=transcript:M.Arenaria_Scaff1722g026289
-M.Arenaria_Scaff1722	WormBase_imported	CDS	18025	18060	.	+	0	ID=cds:M.Arenaria_Scaff1722g026289;Parent=transcript:M.Arenaria_Scaff1722g026289
-M.Arenaria_Scaff1722	WormBase_imported	CDS	18111	18158	.	+	0	ID=cds:M.Arenaria_Scaff1722g026289;Parent=transcript:M.Arenaria_Scaff1722g026289
-M.Arenaria_Scaff1722	WormBase_imported	CDS	18625	18666	.	+	0	ID=cds:M.Arenaria_Scaff1722g026289;Parent=transcript:M.Arenaria_Scaff1722g026289
-M.Arenaria_Scaff1722	WormBase_imported	CDS	18714	18735	.	+	0	ID=cds:M.Arenaria_Scaff1722g026289;Parent=transcript:M.Arenaria_Scaff1722g026289
-M.Arenaria_Scaff1722	WormBase_imported	CDS	18779	18885	.	+	2	ID=cds:M.Arenaria_Scaff1722g026289;Parent=transcript:M.Arenaria_Scaff1722g026289
-M.Arenaria_Scaff1722	WormBase_imported	CDS	19657	19808	.	+	0	ID=cds:M.Arenaria_Scaff1722g026289;Parent=transcript:M.Arenaria_Scaff1722g026289
-M.Arenaria_Scaff1722	WormBase_imported	CDS	19857	19977	.	+	1	ID=cds:M.Arenaria_Scaff1722g026289;Parent=transcript:M.Arenaria_Scaff1722g026289
-M.Arenaria_Scaff1722	WormBase_imported	CDS	20355	20468	.	+	0	ID=cds:M.Arenaria_Scaff1722g026289;Parent=transcript:M.Arenaria_Scaff1722g026289
+M.Arenaria_Scaff507	WormBase_imported	gene	39481	41342	.	+	.	ID=gene:M.Arenaria_Scaff507g010915;Name=M.Arenaria_Scaff507g010915;biotype=protein_coding
+M.Arenaria_Scaff507	WormBase_imported	mRNA	39481	41342	.	+	.	ID=transcript:M.Arenaria_Scaff507g010915;Parent=gene:M.Arenaria_Scaff507g010915;Name=M.Arenaria_Scaff507g010915
+#microexons transcript:M.Arenaria_Scaff507g010915:  34 288-51-51-39-51 17
+M.Arenaria_Scaff507	WormBase_imported	exon	39481	39514	.	+	.	ID=exon:M.Arenaria_Scaff507g010915.1;Parent=transcript:M.Arenaria_Scaff507g010915
+M.Arenaria_Scaff507	WormBase_imported	exon	39797	40084	.	+	.	ID=exon:M.Arenaria_Scaff507g010915.2;Parent=transcript:M.Arenaria_Scaff507g010915
+M.Arenaria_Scaff507	WormBase_imported	exon	40526	40576	.	+	.	ID=exon:M.Arenaria_Scaff507g010915.3;Parent=transcript:M.Arenaria_Scaff507g010915
+M.Arenaria_Scaff507	WormBase_imported	exon	40623	40673	.	+	.	ID=exon:M.Arenaria_Scaff507g010915.4;Parent=transcript:M.Arenaria_Scaff507g010915
+M.Arenaria_Scaff507	WormBase_imported	exon	41158	41196	.	+	.	ID=exon:M.Arenaria_Scaff507g010915.5;Parent=transcript:M.Arenaria_Scaff507g010915
+M.Arenaria_Scaff507	WormBase_imported	exon	41239	41289	.	+	.	ID=exon:M.Arenaria_Scaff507g010915.6;Parent=transcript:M.Arenaria_Scaff507g010915
+M.Arenaria_Scaff507	WormBase_imported	exon	41326	41342	.	+	.	ID=exon:M.Arenaria_Scaff507g010915.7;Parent=transcript:M.Arenaria_Scaff507g010915
+M.Arenaria_Scaff507	WormBase_imported	CDS	39481	39514	.	+	0	ID=cds:M.Arenaria_Scaff507g010915;Parent=transcript:M.Arenaria_Scaff507g010915
+M.Arenaria_Scaff507	WormBase_imported	CDS	39797	40084	.	+	2	ID=cds:M.Arenaria_Scaff507g010915;Parent=transcript:M.Arenaria_Scaff507g010915
+M.Arenaria_Scaff507	WormBase_imported	CDS	40526	40576	.	+	2	ID=cds:M.Arenaria_Scaff507g010915;Parent=transcript:M.Arenaria_Scaff507g010915
+M.Arenaria_Scaff507	WormBase_imported	CDS	40623	40673	.	+	2	ID=cds:M.Arenaria_Scaff507g010915;Parent=transcript:M.Arenaria_Scaff507g010915
+M.Arenaria_Scaff507	WormBase_imported	CDS	41158	41196	.	+	2	ID=cds:M.Arenaria_Scaff507g010915;Parent=transcript:M.Arenaria_Scaff507g010915
+M.Arenaria_Scaff507	WormBase_imported	CDS	41239	41289	.	+	2	ID=cds:M.Arenaria_Scaff507g010915;Parent=transcript:M.Arenaria_Scaff507g010915
+M.Arenaria_Scaff507	WormBase_imported	CDS	41326	41342	.	+	2	ID=cds:M.Arenaria_Scaff507g010915;Parent=transcript:M.Arenaria_Scaff507g010915
+M.Arenaria_Scaff518	WormBase_imported	gene	29216	29977	.	-	.	ID=gene:M.Arenaria_Scaff518g011090;Name=M.Arenaria_Scaff518g011090;biotype=protein_coding
+M.Arenaria_Scaff518	WormBase_imported	mRNA	29216	29977	.	-	.	ID=transcript:M.Arenaria_Scaff518g011090;Parent=gene:M.Arenaria_Scaff518g011090;Name=M.Arenaria_Scaff518g011090;info=method:InterPro accession:IPR006689 description:Small GTPase superfamily%2C ARF/SAR type %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase
+#microexons transcript:M.Arenaria_Scaff518g011090:  90-57-45-24-48-69-75
+M.Arenaria_Scaff518	WormBase_imported	exon	29888	29977	.	-	.	ID=exon:M.Arenaria_Scaff518g011090.1;Parent=transcript:M.Arenaria_Scaff518g011090
+M.Arenaria_Scaff518	WormBase_imported	exon	29783	29839	.	-	.	ID=exon:M.Arenaria_Scaff518g011090.2;Parent=transcript:M.Arenaria_Scaff518g011090
+M.Arenaria_Scaff518	WormBase_imported	exon	29695	29739	.	-	.	ID=exon:M.Arenaria_Scaff518g011090.3;Parent=transcript:M.Arenaria_Scaff518g011090
+M.Arenaria_Scaff518	WormBase_imported	exon	29612	29635	.	-	.	ID=exon:M.Arenaria_Scaff518g011090.4;Parent=transcript:M.Arenaria_Scaff518g011090
+M.Arenaria_Scaff518	WormBase_imported	exon	29521	29568	.	-	.	ID=exon:M.Arenaria_Scaff518g011090.5;Parent=transcript:M.Arenaria_Scaff518g011090
+M.Arenaria_Scaff518	WormBase_imported	exon	29340	29408	.	-	.	ID=exon:M.Arenaria_Scaff518g011090.6;Parent=transcript:M.Arenaria_Scaff518g011090
+M.Arenaria_Scaff518	WormBase_imported	exon	29216	29290	.	-	.	ID=exon:M.Arenaria_Scaff518g011090.7;Parent=transcript:M.Arenaria_Scaff518g011090
+M.Arenaria_Scaff518	WormBase_imported	CDS	29888	29977	.	-	0	ID=cds:M.Arenaria_Scaff518g011090;Parent=transcript:M.Arenaria_Scaff518g011090
+M.Arenaria_Scaff518	WormBase_imported	CDS	29783	29839	.	-	0	ID=cds:M.Arenaria_Scaff518g011090;Parent=transcript:M.Arenaria_Scaff518g011090
+M.Arenaria_Scaff518	WormBase_imported	CDS	29695	29739	.	-	0	ID=cds:M.Arenaria_Scaff518g011090;Parent=transcript:M.Arenaria_Scaff518g011090
+M.Arenaria_Scaff518	WormBase_imported	CDS	29612	29635	.	-	0	ID=cds:M.Arenaria_Scaff518g011090;Parent=transcript:M.Arenaria_Scaff518g011090
+M.Arenaria_Scaff518	WormBase_imported	CDS	29521	29568	.	-	0	ID=cds:M.Arenaria_Scaff518g011090;Parent=transcript:M.Arenaria_Scaff518g011090
+M.Arenaria_Scaff518	WormBase_imported	CDS	29340	29408	.	-	0	ID=cds:M.Arenaria_Scaff518g011090;Parent=transcript:M.Arenaria_Scaff518g011090
+M.Arenaria_Scaff518	WormBase_imported	CDS	29216	29290	.	-	0	ID=cds:M.Arenaria_Scaff518g011090;Parent=transcript:M.Arenaria_Scaff518g011090
+M.Arenaria_Scaff563	WormBase_imported	gene	14622	16298	.	-	.	ID=gene:M.Arenaria_Scaff563g011801;Name=M.Arenaria_Scaff563g011801;biotype=protein_coding
+M.Arenaria_Scaff563	WormBase_imported	mRNA	14622	16298	.	-	.	ID=transcript:M.Arenaria_Scaff563g011801;Parent=gene:M.Arenaria_Scaff563g011801;Name=M.Arenaria_Scaff563g011801
+#microexons transcript:M.Arenaria_Scaff563g011801:  3 212 90-27-18-36-24 100
+M.Arenaria_Scaff563	WormBase_imported	exon	16296	16298	.	-	.	ID=exon:M.Arenaria_Scaff563g011801.1;Parent=transcript:M.Arenaria_Scaff563g011801
+M.Arenaria_Scaff563	WormBase_imported	exon	15695	15906	.	-	.	ID=exon:M.Arenaria_Scaff563g011801.2;Parent=transcript:M.Arenaria_Scaff563g011801
+M.Arenaria_Scaff563	WormBase_imported	exon	15491	15580	.	-	.	ID=exon:M.Arenaria_Scaff563g011801.3;Parent=transcript:M.Arenaria_Scaff563g011801
+M.Arenaria_Scaff563	WormBase_imported	exon	15023	15049	.	-	.	ID=exon:M.Arenaria_Scaff563g011801.4;Parent=transcript:M.Arenaria_Scaff563g011801
+M.Arenaria_Scaff563	WormBase_imported	exon	14953	14970	.	-	.	ID=exon:M.Arenaria_Scaff563g011801.5;Parent=transcript:M.Arenaria_Scaff563g011801
+M.Arenaria_Scaff563	WormBase_imported	exon	14866	14901	.	-	.	ID=exon:M.Arenaria_Scaff563g011801.6;Parent=transcript:M.Arenaria_Scaff563g011801
+M.Arenaria_Scaff563	WormBase_imported	exon	14790	14813	.	-	.	ID=exon:M.Arenaria_Scaff563g011801.7;Parent=transcript:M.Arenaria_Scaff563g011801
+M.Arenaria_Scaff563	WormBase_imported	exon	14622	14721	.	-	.	ID=exon:M.Arenaria_Scaff563g011801.8;Parent=transcript:M.Arenaria_Scaff563g011801
+M.Arenaria_Scaff563	WormBase_imported	CDS	16296	16298	.	-	0	ID=cds:M.Arenaria_Scaff563g011801;Parent=transcript:M.Arenaria_Scaff563g011801
+M.Arenaria_Scaff563	WormBase_imported	CDS	15695	15906	.	-	0	ID=cds:M.Arenaria_Scaff563g011801;Parent=transcript:M.Arenaria_Scaff563g011801
+M.Arenaria_Scaff563	WormBase_imported	CDS	15491	15580	.	-	1	ID=cds:M.Arenaria_Scaff563g011801;Parent=transcript:M.Arenaria_Scaff563g011801
+M.Arenaria_Scaff563	WormBase_imported	CDS	15023	15049	.	-	1	ID=cds:M.Arenaria_Scaff563g011801;Parent=transcript:M.Arenaria_Scaff563g011801
+M.Arenaria_Scaff563	WormBase_imported	CDS	14953	14970	.	-	1	ID=cds:M.Arenaria_Scaff563g011801;Parent=transcript:M.Arenaria_Scaff563g011801
+M.Arenaria_Scaff563	WormBase_imported	CDS	14866	14901	.	-	1	ID=cds:M.Arenaria_Scaff563g011801;Parent=transcript:M.Arenaria_Scaff563g011801
+M.Arenaria_Scaff563	WormBase_imported	CDS	14790	14813	.	-	1	ID=cds:M.Arenaria_Scaff563g011801;Parent=transcript:M.Arenaria_Scaff563g011801
+M.Arenaria_Scaff563	WormBase_imported	CDS	14622	14721	.	-	1	ID=cds:M.Arenaria_Scaff563g011801;Parent=transcript:M.Arenaria_Scaff563g011801
+M.Arenaria_Scaff1552	WormBase_imported	gene	4304	8429	.	-	.	ID=gene:M.Arenaria_Scaff1552g024452;Name=M.Arenaria_Scaff1552g024452;biotype=protein_coding
+M.Arenaria_Scaff1552	WormBase_imported	mRNA	4304	8429	.	-	.	ID=transcript:M.Arenaria_Scaff1552g024452;Parent=gene:M.Arenaria_Scaff1552g024452;Name=M.Arenaria_Scaff1552g024452;info=method:InterPro accession:IPR001841 description:Zinc finger%2C RING-type %0Amethod:InterPro accession:IPR013083 description:Zinc finger%2C RING/FYVE/PHD-type
+#microexons transcript:M.Arenaria_Scaff1552g024452:  21 160 96-72-51-51-51-51-51-51-51 134 169 255-48-375
+M.Arenaria_Scaff1552	WormBase_imported	exon	8409	8429	.	-	.	ID=exon:M.Arenaria_Scaff1552g024452.1;Parent=transcript:M.Arenaria_Scaff1552g024452
+M.Arenaria_Scaff1552	WormBase_imported	exon	8004	8163	.	-	.	ID=exon:M.Arenaria_Scaff1552g024452.2;Parent=transcript:M.Arenaria_Scaff1552g024452
+M.Arenaria_Scaff1552	WormBase_imported	exon	7790	7885	.	-	.	ID=exon:M.Arenaria_Scaff1552g024452.3;Parent=transcript:M.Arenaria_Scaff1552g024452
+M.Arenaria_Scaff1552	WormBase_imported	exon	7604	7675	.	-	.	ID=exon:M.Arenaria_Scaff1552g024452.4;Parent=transcript:M.Arenaria_Scaff1552g024452
+M.Arenaria_Scaff1552	WormBase_imported	exon	7461	7511	.	-	.	ID=exon:M.Arenaria_Scaff1552g024452.5;Parent=transcript:M.Arenaria_Scaff1552g024452
+M.Arenaria_Scaff1552	WormBase_imported	exon	7350	7400	.	-	.	ID=exon:M.Arenaria_Scaff1552g024452.6;Parent=transcript:M.Arenaria_Scaff1552g024452
+M.Arenaria_Scaff1552	WormBase_imported	exon	7230	7280	.	-	.	ID=exon:M.Arenaria_Scaff1552g024452.7;Parent=transcript:M.Arenaria_Scaff1552g024452
+M.Arenaria_Scaff1552	WormBase_imported	exon	7099	7149	.	-	.	ID=exon:M.Arenaria_Scaff1552g024452.8;Parent=transcript:M.Arenaria_Scaff1552g024452
+M.Arenaria_Scaff1552	WormBase_imported	exon	6957	7007	.	-	.	ID=exon:M.Arenaria_Scaff1552g024452.9;Parent=transcript:M.Arenaria_Scaff1552g024452
+M.Arenaria_Scaff1552	WormBase_imported	exon	6830	6880	.	-	.	ID=exon:M.Arenaria_Scaff1552g024452.10;Parent=transcript:M.Arenaria_Scaff1552g024452
+M.Arenaria_Scaff1552	WormBase_imported	exon	6694	6744	.	-	.	ID=exon:M.Arenaria_Scaff1552g024452.11;Parent=transcript:M.Arenaria_Scaff1552g024452
+M.Arenaria_Scaff1552	WormBase_imported	exon	6361	6494	.	-	.	ID=exon:M.Arenaria_Scaff1552g024452.12;Parent=transcript:M.Arenaria_Scaff1552g024452
+M.Arenaria_Scaff1552	WormBase_imported	exon	6096	6264	.	-	.	ID=exon:M.Arenaria_Scaff1552g024452.13;Parent=transcript:M.Arenaria_Scaff1552g024452
+M.Arenaria_Scaff1552	WormBase_imported	exon	5794	6048	.	-	.	ID=exon:M.Arenaria_Scaff1552g024452.14;Parent=transcript:M.Arenaria_Scaff1552g024452
+M.Arenaria_Scaff1552	WormBase_imported	exon	4718	4765	.	-	.	ID=exon:M.Arenaria_Scaff1552g024452.15;Parent=transcript:M.Arenaria_Scaff1552g024452
+M.Arenaria_Scaff1552	WormBase_imported	exon	4304	4678	.	-	.	ID=exon:M.Arenaria_Scaff1552g024452.16;Parent=transcript:M.Arenaria_Scaff1552g024452
+M.Arenaria_Scaff1552	WormBase_imported	five_prime_UTR	8409	8429	.	-	.	Parent=transcript:M.Arenaria_Scaff1552g024452
+M.Arenaria_Scaff1552	WormBase_imported	five_prime_UTR	8142	8163	.	-	.	Parent=transcript:M.Arenaria_Scaff1552g024452
+M.Arenaria_Scaff1552	WormBase_imported	CDS	8004	8141	.	-	0	ID=cds:M.Arenaria_Scaff1552g024452;Parent=transcript:M.Arenaria_Scaff1552g024452
+M.Arenaria_Scaff1552	WormBase_imported	CDS	7790	7885	.	-	0	ID=cds:M.Arenaria_Scaff1552g024452;Parent=transcript:M.Arenaria_Scaff1552g024452
+M.Arenaria_Scaff1552	WormBase_imported	CDS	7604	7675	.	-	0	ID=cds:M.Arenaria_Scaff1552g024452;Parent=transcript:M.Arenaria_Scaff1552g024452
+M.Arenaria_Scaff1552	WormBase_imported	CDS	7461	7511	.	-	0	ID=cds:M.Arenaria_Scaff1552g024452;Parent=transcript:M.Arenaria_Scaff1552g024452
+M.Arenaria_Scaff1552	WormBase_imported	CDS	7350	7400	.	-	0	ID=cds:M.Arenaria_Scaff1552g024452;Parent=transcript:M.Arenaria_Scaff1552g024452
+M.Arenaria_Scaff1552	WormBase_imported	CDS	7230	7280	.	-	0	ID=cds:M.Arenaria_Scaff1552g024452;Parent=transcript:M.Arenaria_Scaff1552g024452
+M.Arenaria_Scaff1552	WormBase_imported	CDS	7099	7149	.	-	0	ID=cds:M.Arenaria_Scaff1552g024452;Parent=transcript:M.Arenaria_Scaff1552g024452
+M.Arenaria_Scaff1552	WormBase_imported	CDS	6957	7007	.	-	0	ID=cds:M.Arenaria_Scaff1552g024452;Parent=transcript:M.Arenaria_Scaff1552g024452
+M.Arenaria_Scaff1552	WormBase_imported	CDS	6830	6880	.	-	0	ID=cds:M.Arenaria_Scaff1552g024452;Parent=transcript:M.Arenaria_Scaff1552g024452
+M.Arenaria_Scaff1552	WormBase_imported	CDS	6694	6744	.	-	0	ID=cds:M.Arenaria_Scaff1552g024452;Parent=transcript:M.Arenaria_Scaff1552g024452
+M.Arenaria_Scaff1552	WormBase_imported	CDS	6361	6494	.	-	0	ID=cds:M.Arenaria_Scaff1552g024452;Parent=transcript:M.Arenaria_Scaff1552g024452
+M.Arenaria_Scaff1552	WormBase_imported	CDS	6096	6264	.	-	1	ID=cds:M.Arenaria_Scaff1552g024452;Parent=transcript:M.Arenaria_Scaff1552g024452
+M.Arenaria_Scaff1552	WormBase_imported	CDS	5794	6048	.	-	0	ID=cds:M.Arenaria_Scaff1552g024452;Parent=transcript:M.Arenaria_Scaff1552g024452
+M.Arenaria_Scaff1552	WormBase_imported	CDS	4718	4765	.	-	0	ID=cds:M.Arenaria_Scaff1552g024452;Parent=transcript:M.Arenaria_Scaff1552g024452
+M.Arenaria_Scaff1552	WormBase_imported	CDS	4304	4678	.	-	0	ID=cds:M.Arenaria_Scaff1552g024452;Parent=transcript:M.Arenaria_Scaff1552g024452
+M.Arenaria_Scaff2466	WormBase_imported	gene	21299	22172	.	+	.	ID=gene:M.Arenaria_Scaff2466g033500;Name=M.Arenaria_Scaff2466g033500;biotype=protein_coding
+M.Arenaria_Scaff2466	WormBase_imported	mRNA	21299	22172	.	+	.	ID=transcript:M.Arenaria_Scaff2466g033500;Parent=gene:M.Arenaria_Scaff2466g033500;Name=M.Arenaria_Scaff2466g033500
+#microexons transcript:M.Arenaria_Scaff2466g033500:  10 60-39-36-51-39-36-78 158
+M.Arenaria_Scaff2466	WormBase_imported	exon	21299	21308	.	+	.	ID=exon:M.Arenaria_Scaff2466g033500.1;Parent=transcript:M.Arenaria_Scaff2466g033500
+M.Arenaria_Scaff2466	WormBase_imported	exon	21357	21416	.	+	.	ID=exon:M.Arenaria_Scaff2466g033500.2;Parent=transcript:M.Arenaria_Scaff2466g033500
+M.Arenaria_Scaff2466	WormBase_imported	exon	21460	21498	.	+	.	ID=exon:M.Arenaria_Scaff2466g033500.3;Parent=transcript:M.Arenaria_Scaff2466g033500
+M.Arenaria_Scaff2466	WormBase_imported	exon	21543	21578	.	+	.	ID=exon:M.Arenaria_Scaff2466g033500.4;Parent=transcript:M.Arenaria_Scaff2466g033500
+M.Arenaria_Scaff2466	WormBase_imported	exon	21618	21668	.	+	.	ID=exon:M.Arenaria_Scaff2466g033500.5;Parent=transcript:M.Arenaria_Scaff2466g033500
+M.Arenaria_Scaff2466	WormBase_imported	exon	21719	21757	.	+	.	ID=exon:M.Arenaria_Scaff2466g033500.6;Parent=transcript:M.Arenaria_Scaff2466g033500
+M.Arenaria_Scaff2466	WormBase_imported	exon	21807	21842	.	+	.	ID=exon:M.Arenaria_Scaff2466g033500.7;Parent=transcript:M.Arenaria_Scaff2466g033500
+M.Arenaria_Scaff2466	WormBase_imported	exon	21878	21955	.	+	.	ID=exon:M.Arenaria_Scaff2466g033500.8;Parent=transcript:M.Arenaria_Scaff2466g033500
+M.Arenaria_Scaff2466	WormBase_imported	exon	22015	22172	.	+	.	ID=exon:M.Arenaria_Scaff2466g033500.9;Parent=transcript:M.Arenaria_Scaff2466g033500
+M.Arenaria_Scaff2466	WormBase_imported	CDS	21299	21308	.	+	0	ID=cds:M.Arenaria_Scaff2466g033500;Parent=transcript:M.Arenaria_Scaff2466g033500
+M.Arenaria_Scaff2466	WormBase_imported	CDS	21357	21416	.	+	2	ID=cds:M.Arenaria_Scaff2466g033500;Parent=transcript:M.Arenaria_Scaff2466g033500
+M.Arenaria_Scaff2466	WormBase_imported	CDS	21460	21498	.	+	2	ID=cds:M.Arenaria_Scaff2466g033500;Parent=transcript:M.Arenaria_Scaff2466g033500
+M.Arenaria_Scaff2466	WormBase_imported	CDS	21543	21578	.	+	2	ID=cds:M.Arenaria_Scaff2466g033500;Parent=transcript:M.Arenaria_Scaff2466g033500
+M.Arenaria_Scaff2466	WormBase_imported	CDS	21618	21668	.	+	2	ID=cds:M.Arenaria_Scaff2466g033500;Parent=transcript:M.Arenaria_Scaff2466g033500
+M.Arenaria_Scaff2466	WormBase_imported	CDS	21719	21757	.	+	2	ID=cds:M.Arenaria_Scaff2466g033500;Parent=transcript:M.Arenaria_Scaff2466g033500
+M.Arenaria_Scaff2466	WormBase_imported	CDS	21807	21842	.	+	2	ID=cds:M.Arenaria_Scaff2466g033500;Parent=transcript:M.Arenaria_Scaff2466g033500
+M.Arenaria_Scaff2466	WormBase_imported	CDS	21878	21955	.	+	2	ID=cds:M.Arenaria_Scaff2466g033500;Parent=transcript:M.Arenaria_Scaff2466g033500
+M.Arenaria_Scaff2466	WormBase_imported	CDS	22015	22172	.	+	2	ID=cds:M.Arenaria_Scaff2466g033500;Parent=transcript:M.Arenaria_Scaff2466g033500
 M.Arenaria_Scaff3244	WormBase_imported	gene	8859	10377	.	+	.	ID=gene:M.Arenaria_Scaff3244g040001;Name=M.Arenaria_Scaff3244g040001;biotype=protein_coding
 M.Arenaria_Scaff3244	WormBase_imported	mRNA	8859	10377	.	+	.	ID=transcript:M.Arenaria_Scaff3244g040001;Parent=gene:M.Arenaria_Scaff3244g040001;Name=M.Arenaria_Scaff3244g040001
 #microexons transcript:M.Arenaria_Scaff3244g040001:  83 33-27-15-15-27 17 105 113
@@ -78,43 +149,23 @@ M.Arenaria_Scaff3244	WormBase_imported	CDS	9960	9986	.	+	1	ID=cds:M.Arenaria_Sca
 M.Arenaria_Scaff3244	WormBase_imported	CDS	10043	10059	.	+	1	ID=cds:M.Arenaria_Scaff3244g040001;Parent=transcript:M.Arenaria_Scaff3244g040001
 M.Arenaria_Scaff3244	WormBase_imported	CDS	10118	10222	.	+	2	ID=cds:M.Arenaria_Scaff3244g040001;Parent=transcript:M.Arenaria_Scaff3244g040001
 M.Arenaria_Scaff3244	WormBase_imported	CDS	10265	10377	.	+	2	ID=cds:M.Arenaria_Scaff3244g040001;Parent=transcript:M.Arenaria_Scaff3244g040001
-M.Arenaria_Scaff3927	WormBase_imported	gene	2475	4034	.	+	.	ID=gene:M.Arenaria_Scaff3927g044870;Name=M.Arenaria_Scaff3927g044870;biotype=protein_coding
-M.Arenaria_Scaff3927	WormBase_imported	mRNA	2475	4034	.	+	.	ID=transcript:M.Arenaria_Scaff3927g044870;Parent=gene:M.Arenaria_Scaff3927g044870;Name=M.Arenaria_Scaff3927g044870;info=method:InterPro accession:IPR000615 description:Bestrophin %0Amethod:InterPro accession:IPR021134 description:Bestrophin/UPF0187
-#microexons transcript:M.Arenaria_Scaff3927g044870:  22 229 94 36-51-57 215 73
-M.Arenaria_Scaff3927	WormBase_imported	exon	2475	2496	.	+	.	ID=exon:M.Arenaria_Scaff3927g044870.1;Parent=transcript:M.Arenaria_Scaff3927g044870
-M.Arenaria_Scaff3927	WormBase_imported	exon	2703	2931	.	+	.	ID=exon:M.Arenaria_Scaff3927g044870.2;Parent=transcript:M.Arenaria_Scaff3927g044870
-M.Arenaria_Scaff3927	WormBase_imported	exon	2978	3071	.	+	.	ID=exon:M.Arenaria_Scaff3927g044870.3;Parent=transcript:M.Arenaria_Scaff3927g044870
-M.Arenaria_Scaff3927	WormBase_imported	exon	3120	3155	.	+	.	ID=exon:M.Arenaria_Scaff3927g044870.4;Parent=transcript:M.Arenaria_Scaff3927g044870
-M.Arenaria_Scaff3927	WormBase_imported	exon	3428	3478	.	+	.	ID=exon:M.Arenaria_Scaff3927g044870.5;Parent=transcript:M.Arenaria_Scaff3927g044870
-M.Arenaria_Scaff3927	WormBase_imported	exon	3522	3578	.	+	.	ID=exon:M.Arenaria_Scaff3927g044870.6;Parent=transcript:M.Arenaria_Scaff3927g044870
-M.Arenaria_Scaff3927	WormBase_imported	exon	3671	3885	.	+	.	ID=exon:M.Arenaria_Scaff3927g044870.7;Parent=transcript:M.Arenaria_Scaff3927g044870
-M.Arenaria_Scaff3927	WormBase_imported	exon	3962	4034	.	+	.	ID=exon:M.Arenaria_Scaff3927g044870.8;Parent=transcript:M.Arenaria_Scaff3927g044870
-M.Arenaria_Scaff3927	WormBase_imported	CDS	2475	2496	.	+	0	ID=cds:M.Arenaria_Scaff3927g044870;Parent=transcript:M.Arenaria_Scaff3927g044870
-M.Arenaria_Scaff3927	WormBase_imported	CDS	2703	2931	.	+	2	ID=cds:M.Arenaria_Scaff3927g044870;Parent=transcript:M.Arenaria_Scaff3927g044870
-M.Arenaria_Scaff3927	WormBase_imported	CDS	2978	3071	.	+	1	ID=cds:M.Arenaria_Scaff3927g044870;Parent=transcript:M.Arenaria_Scaff3927g044870
-M.Arenaria_Scaff3927	WormBase_imported	CDS	3120	3155	.	+	0	ID=cds:M.Arenaria_Scaff3927g044870;Parent=transcript:M.Arenaria_Scaff3927g044870
-M.Arenaria_Scaff3927	WormBase_imported	CDS	3428	3478	.	+	0	ID=cds:M.Arenaria_Scaff3927g044870;Parent=transcript:M.Arenaria_Scaff3927g044870
-M.Arenaria_Scaff3927	WormBase_imported	CDS	3522	3578	.	+	0	ID=cds:M.Arenaria_Scaff3927g044870;Parent=transcript:M.Arenaria_Scaff3927g044870
-M.Arenaria_Scaff3927	WormBase_imported	CDS	3671	3885	.	+	0	ID=cds:M.Arenaria_Scaff3927g044870;Parent=transcript:M.Arenaria_Scaff3927g044870
-M.Arenaria_Scaff3927	WormBase_imported	CDS	3962	4034	.	+	1	ID=cds:M.Arenaria_Scaff3927g044870;Parent=transcript:M.Arenaria_Scaff3927g044870
-M.Arenaria_Scaff4199	WormBase_imported	gene	1321	2646	.	+	.	ID=gene:M.Arenaria_Scaff4199g046644;Name=M.Arenaria_Scaff4199g046644;biotype=protein_coding
-M.Arenaria_Scaff4199	WormBase_imported	mRNA	1321	2646	.	+	.	ID=transcript:M.Arenaria_Scaff4199g046644;Parent=gene:M.Arenaria_Scaff4199g046644;Name=M.Arenaria_Scaff4199g046644;info=method:InterPro accession:IPR002544 description:FMRFamide-related peptide-like
-#microexons transcript:M.Arenaria_Scaff4199g046644:  111 118 44 30-45-30 331
-M.Arenaria_Scaff4199	WormBase_imported	exon	1321	1431	.	+	.	ID=exon:M.Arenaria_Scaff4199g046644.1;Parent=transcript:M.Arenaria_Scaff4199g046644
-M.Arenaria_Scaff4199	WormBase_imported	exon	1482	1599	.	+	.	ID=exon:M.Arenaria_Scaff4199g046644.2;Parent=transcript:M.Arenaria_Scaff4199g046644
-M.Arenaria_Scaff4199	WormBase_imported	exon	1646	1689	.	+	.	ID=exon:M.Arenaria_Scaff4199g046644.3;Parent=transcript:M.Arenaria_Scaff4199g046644
-M.Arenaria_Scaff4199	WormBase_imported	exon	1744	1773	.	+	.	ID=exon:M.Arenaria_Scaff4199g046644.4;Parent=transcript:M.Arenaria_Scaff4199g046644
-M.Arenaria_Scaff4199	WormBase_imported	exon	2129	2173	.	+	.	ID=exon:M.Arenaria_Scaff4199g046644.5;Parent=transcript:M.Arenaria_Scaff4199g046644
-M.Arenaria_Scaff4199	WormBase_imported	exon	2231	2260	.	+	.	ID=exon:M.Arenaria_Scaff4199g046644.6;Parent=transcript:M.Arenaria_Scaff4199g046644
-M.Arenaria_Scaff4199	WormBase_imported	exon	2316	2646	.	+	.	ID=exon:M.Arenaria_Scaff4199g046644.7;Parent=transcript:M.Arenaria_Scaff4199g046644
-M.Arenaria_Scaff4199	WormBase_imported	CDS	1321	1431	.	+	0	ID=cds:M.Arenaria_Scaff4199g046644;Parent=transcript:M.Arenaria_Scaff4199g046644
-M.Arenaria_Scaff4199	WormBase_imported	CDS	1482	1599	.	+	0	ID=cds:M.Arenaria_Scaff4199g046644;Parent=transcript:M.Arenaria_Scaff4199g046644
-M.Arenaria_Scaff4199	WormBase_imported	CDS	1646	1689	.	+	2	ID=cds:M.Arenaria_Scaff4199g046644;Parent=transcript:M.Arenaria_Scaff4199g046644
-M.Arenaria_Scaff4199	WormBase_imported	CDS	1744	1773	.	+	0	ID=cds:M.Arenaria_Scaff4199g046644;Parent=transcript:M.Arenaria_Scaff4199g046644
-M.Arenaria_Scaff4199	WormBase_imported	CDS	2129	2173	.	+	0	ID=cds:M.Arenaria_Scaff4199g046644;Parent=transcript:M.Arenaria_Scaff4199g046644
-M.Arenaria_Scaff4199	WormBase_imported	CDS	2231	2260	.	+	0	ID=cds:M.Arenaria_Scaff4199g046644;Parent=transcript:M.Arenaria_Scaff4199g046644
-M.Arenaria_Scaff4199	WormBase_imported	CDS	2316	2369	.	+	0	ID=cds:M.Arenaria_Scaff4199g046644;Parent=transcript:M.Arenaria_Scaff4199g046644
-M.Arenaria_Scaff4199	WormBase_imported	three_prime_UTR	2370	2646	.	+	.	Parent=transcript:M.Arenaria_Scaff4199g046644
+M.Arenaria_Scaff3616	WormBase_imported	gene	17591	18810	.	-	.	ID=gene:M.Arenaria_Scaff3616g042731;Name=M.Arenaria_Scaff3616g042731;biotype=protein_coding
+M.Arenaria_Scaff3616	WormBase_imported	mRNA	17591	18810	.	-	.	ID=transcript:M.Arenaria_Scaff3616g042731;Parent=gene:M.Arenaria_Scaff3616g042731;Name=M.Arenaria_Scaff3616g042731
+#microexons transcript:M.Arenaria_Scaff3616g042731:  110 99-33-18-36-24 100
+M.Arenaria_Scaff3616	WormBase_imported	exon	18701	18810	.	-	.	ID=exon:M.Arenaria_Scaff3616g042731.1;Parent=transcript:M.Arenaria_Scaff3616g042731
+M.Arenaria_Scaff3616	WormBase_imported	exon	18479	18577	.	-	.	ID=exon:M.Arenaria_Scaff3616g042731.2;Parent=transcript:M.Arenaria_Scaff3616g042731
+M.Arenaria_Scaff3616	WormBase_imported	exon	17984	18016	.	-	.	ID=exon:M.Arenaria_Scaff3616g042731.3;Parent=transcript:M.Arenaria_Scaff3616g042731
+M.Arenaria_Scaff3616	WormBase_imported	exon	17913	17930	.	-	.	ID=exon:M.Arenaria_Scaff3616g042731.4;Parent=transcript:M.Arenaria_Scaff3616g042731
+M.Arenaria_Scaff3616	WormBase_imported	exon	17827	17862	.	-	.	ID=exon:M.Arenaria_Scaff3616g042731.5;Parent=transcript:M.Arenaria_Scaff3616g042731
+M.Arenaria_Scaff3616	WormBase_imported	exon	17755	17778	.	-	.	ID=exon:M.Arenaria_Scaff3616g042731.6;Parent=transcript:M.Arenaria_Scaff3616g042731
+M.Arenaria_Scaff3616	WormBase_imported	exon	17591	17690	.	-	.	ID=exon:M.Arenaria_Scaff3616g042731.7;Parent=transcript:M.Arenaria_Scaff3616g042731
+M.Arenaria_Scaff3616	WormBase_imported	CDS	18701	18810	.	-	0	ID=cds:M.Arenaria_Scaff3616g042731;Parent=transcript:M.Arenaria_Scaff3616g042731
+M.Arenaria_Scaff3616	WormBase_imported	CDS	18479	18577	.	-	1	ID=cds:M.Arenaria_Scaff3616g042731;Parent=transcript:M.Arenaria_Scaff3616g042731
+M.Arenaria_Scaff3616	WormBase_imported	CDS	17984	18016	.	-	1	ID=cds:M.Arenaria_Scaff3616g042731;Parent=transcript:M.Arenaria_Scaff3616g042731
+M.Arenaria_Scaff3616	WormBase_imported	CDS	17913	17930	.	-	1	ID=cds:M.Arenaria_Scaff3616g042731;Parent=transcript:M.Arenaria_Scaff3616g042731
+M.Arenaria_Scaff3616	WormBase_imported	CDS	17827	17862	.	-	1	ID=cds:M.Arenaria_Scaff3616g042731;Parent=transcript:M.Arenaria_Scaff3616g042731
+M.Arenaria_Scaff3616	WormBase_imported	CDS	17755	17778	.	-	1	ID=cds:M.Arenaria_Scaff3616g042731;Parent=transcript:M.Arenaria_Scaff3616g042731
+M.Arenaria_Scaff3616	WormBase_imported	CDS	17591	17690	.	-	1	ID=cds:M.Arenaria_Scaff3616g042731;Parent=transcript:M.Arenaria_Scaff3616g042731
 M.Arenaria_Scaff4486	WormBase_imported	gene	4595	6318	.	+	.	ID=gene:M.Arenaria_Scaff4486g048447;Name=M.Arenaria_Scaff4486g048447;biotype=protein_coding
 M.Arenaria_Scaff4486	WormBase_imported	mRNA	4595	6318	.	+	.	ID=transcript:M.Arenaria_Scaff4486g048447;Parent=gene:M.Arenaria_Scaff4486g048447;Name=M.Arenaria_Scaff4486g048447
 #microexons transcript:M.Arenaria_Scaff4486g048447:  102 64 39-33-48-42 110
@@ -132,6 +183,55 @@ M.Arenaria_Scaff4486	WormBase_imported	CDS	5439	5471	.	+	2	ID=cds:M.Arenaria_Sca
 M.Arenaria_Scaff4486	WormBase_imported	CDS	5519	5566	.	+	2	ID=cds:M.Arenaria_Scaff4486g048447;Parent=transcript:M.Arenaria_Scaff4486g048447
 M.Arenaria_Scaff4486	WormBase_imported	CDS	6122	6163	.	+	2	ID=cds:M.Arenaria_Scaff4486g048447;Parent=transcript:M.Arenaria_Scaff4486g048447
 M.Arenaria_Scaff4486	WormBase_imported	CDS	6209	6318	.	+	2	ID=cds:M.Arenaria_Scaff4486g048447;Parent=transcript:M.Arenaria_Scaff4486g048447
+M.Arenaria_Scaff4885	WormBase_imported	gene	8939	10628	.	+	.	ID=gene:M.Arenaria_Scaff4885g050822;Name=M.Arenaria_Scaff4885g050822;biotype=protein_coding
+M.Arenaria_Scaff4885	WormBase_imported	mRNA	8939	10628	.	+	.	ID=transcript:M.Arenaria_Scaff4885g050822;Parent=gene:M.Arenaria_Scaff4885g050822;Name=M.Arenaria_Scaff4885g050822;info=method:InterPro accession:IPR001279 description:Metallo-beta-lactamase %0Amethod:InterPro accession:IPR036866 description:Ribonuclease Z/Hydroxyacylglutathione hydrolase-like %0Amethod:InterPro accession:IPR039344 description:Metallo-beta-lactamase domain-containing protein 1
+#microexons transcript:M.Arenaria_Scaff4885g050822:  126 133 32 30-33-18-51-84-18-51-96
+M.Arenaria_Scaff4885	WormBase_imported	exon	8939	9064	.	+	.	ID=exon:M.Arenaria_Scaff4885g050822.1;Parent=transcript:M.Arenaria_Scaff4885g050822
+M.Arenaria_Scaff4885	WormBase_imported	exon	9323	9455	.	+	.	ID=exon:M.Arenaria_Scaff4885g050822.2;Parent=transcript:M.Arenaria_Scaff4885g050822
+M.Arenaria_Scaff4885	WormBase_imported	exon	9499	9530	.	+	.	ID=exon:M.Arenaria_Scaff4885g050822.3;Parent=transcript:M.Arenaria_Scaff4885g050822
+M.Arenaria_Scaff4885	WormBase_imported	exon	9578	9607	.	+	.	ID=exon:M.Arenaria_Scaff4885g050822.4;Parent=transcript:M.Arenaria_Scaff4885g050822
+M.Arenaria_Scaff4885	WormBase_imported	exon	9687	9719	.	+	.	ID=exon:M.Arenaria_Scaff4885g050822.5;Parent=transcript:M.Arenaria_Scaff4885g050822
+M.Arenaria_Scaff4885	WormBase_imported	exon	9928	9945	.	+	.	ID=exon:M.Arenaria_Scaff4885g050822.6;Parent=transcript:M.Arenaria_Scaff4885g050822
+M.Arenaria_Scaff4885	WormBase_imported	exon	10014	10064	.	+	.	ID=exon:M.Arenaria_Scaff4885g050822.7;Parent=transcript:M.Arenaria_Scaff4885g050822
+M.Arenaria_Scaff4885	WormBase_imported	exon	10119	10202	.	+	.	ID=exon:M.Arenaria_Scaff4885g050822.8;Parent=transcript:M.Arenaria_Scaff4885g050822
+M.Arenaria_Scaff4885	WormBase_imported	exon	10342	10359	.	+	.	ID=exon:M.Arenaria_Scaff4885g050822.9;Parent=transcript:M.Arenaria_Scaff4885g050822
+M.Arenaria_Scaff4885	WormBase_imported	exon	10428	10478	.	+	.	ID=exon:M.Arenaria_Scaff4885g050822.10;Parent=transcript:M.Arenaria_Scaff4885g050822
+M.Arenaria_Scaff4885	WormBase_imported	exon	10533	10628	.	+	.	ID=exon:M.Arenaria_Scaff4885g050822.11;Parent=transcript:M.Arenaria_Scaff4885g050822
+M.Arenaria_Scaff4885	WormBase_imported	CDS	8939	9064	.	+	0	ID=cds:M.Arenaria_Scaff4885g050822;Parent=transcript:M.Arenaria_Scaff4885g050822
+M.Arenaria_Scaff4885	WormBase_imported	CDS	9323	9455	.	+	0	ID=cds:M.Arenaria_Scaff4885g050822;Parent=transcript:M.Arenaria_Scaff4885g050822
+M.Arenaria_Scaff4885	WormBase_imported	CDS	9499	9530	.	+	2	ID=cds:M.Arenaria_Scaff4885g050822;Parent=transcript:M.Arenaria_Scaff4885g050822
+M.Arenaria_Scaff4885	WormBase_imported	CDS	9578	9607	.	+	0	ID=cds:M.Arenaria_Scaff4885g050822;Parent=transcript:M.Arenaria_Scaff4885g050822
+M.Arenaria_Scaff4885	WormBase_imported	CDS	9687	9719	.	+	0	ID=cds:M.Arenaria_Scaff4885g050822;Parent=transcript:M.Arenaria_Scaff4885g050822
+M.Arenaria_Scaff4885	WormBase_imported	CDS	9928	9945	.	+	0	ID=cds:M.Arenaria_Scaff4885g050822;Parent=transcript:M.Arenaria_Scaff4885g050822
+M.Arenaria_Scaff4885	WormBase_imported	CDS	10014	10064	.	+	0	ID=cds:M.Arenaria_Scaff4885g050822;Parent=transcript:M.Arenaria_Scaff4885g050822
+M.Arenaria_Scaff4885	WormBase_imported	CDS	10119	10202	.	+	0	ID=cds:M.Arenaria_Scaff4885g050822;Parent=transcript:M.Arenaria_Scaff4885g050822
+M.Arenaria_Scaff4885	WormBase_imported	CDS	10342	10359	.	+	0	ID=cds:M.Arenaria_Scaff4885g050822;Parent=transcript:M.Arenaria_Scaff4885g050822
+M.Arenaria_Scaff4885	WormBase_imported	CDS	10428	10478	.	+	0	ID=cds:M.Arenaria_Scaff4885g050822;Parent=transcript:M.Arenaria_Scaff4885g050822
+M.Arenaria_Scaff4885	WormBase_imported	CDS	10533	10628	.	+	0	ID=cds:M.Arenaria_Scaff4885g050822;Parent=transcript:M.Arenaria_Scaff4885g050822
+M.Arenaria_Scaff5627	WormBase_imported	gene	11137	12648	.	+	.	ID=gene:M.Arenaria_Scaff5627g054870;Name=M.Arenaria_Scaff5627g054870;biotype=protein_coding
+M.Arenaria_Scaff5627	WormBase_imported	mRNA	11137	12648	.	+	.	ID=transcript:M.Arenaria_Scaff5627g054870;Parent=gene:M.Arenaria_Scaff5627g054870;Name=M.Arenaria_Scaff5627g054870;info=method:InterPro accession:IPR005225 description:Small GTP-binding protein domain %0Amethod:InterPro accession:IPR006689 description:Small GTPase superfamily%2C ARF/SAR type %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase
+#microexons transcript:M.Arenaria_Scaff5627g054870:  3-66 95 94 57-45-24-48-69 119
+M.Arenaria_Scaff5627	WormBase_imported	exon	11137	11139	.	+	.	ID=exon:M.Arenaria_Scaff5627g054870.1;Parent=transcript:M.Arenaria_Scaff5627g054870
+M.Arenaria_Scaff5627	WormBase_imported	exon	11189	11254	.	+	.	ID=exon:M.Arenaria_Scaff5627g054870.2;Parent=transcript:M.Arenaria_Scaff5627g054870
+M.Arenaria_Scaff5627	WormBase_imported	exon	11300	11394	.	+	.	ID=exon:M.Arenaria_Scaff5627g054870.3;Parent=transcript:M.Arenaria_Scaff5627g054870
+M.Arenaria_Scaff5627	WormBase_imported	exon	11846	11939	.	+	.	ID=exon:M.Arenaria_Scaff5627g054870.4;Parent=transcript:M.Arenaria_Scaff5627g054870
+M.Arenaria_Scaff5627	WormBase_imported	exon	11982	12038	.	+	.	ID=exon:M.Arenaria_Scaff5627g054870.5;Parent=transcript:M.Arenaria_Scaff5627g054870
+M.Arenaria_Scaff5627	WormBase_imported	exon	12081	12125	.	+	.	ID=exon:M.Arenaria_Scaff5627g054870.6;Parent=transcript:M.Arenaria_Scaff5627g054870
+M.Arenaria_Scaff5627	WormBase_imported	exon	12185	12208	.	+	.	ID=exon:M.Arenaria_Scaff5627g054870.7;Parent=transcript:M.Arenaria_Scaff5627g054870
+M.Arenaria_Scaff5627	WormBase_imported	exon	12252	12299	.	+	.	ID=exon:M.Arenaria_Scaff5627g054870.8;Parent=transcript:M.Arenaria_Scaff5627g054870
+M.Arenaria_Scaff5627	WormBase_imported	exon	12412	12480	.	+	.	ID=exon:M.Arenaria_Scaff5627g054870.9;Parent=transcript:M.Arenaria_Scaff5627g054870
+M.Arenaria_Scaff5627	WormBase_imported	exon	12530	12648	.	+	.	ID=exon:M.Arenaria_Scaff5627g054870.10;Parent=transcript:M.Arenaria_Scaff5627g054870
+M.Arenaria_Scaff5627	WormBase_imported	CDS	11137	11139	.	+	0	ID=cds:M.Arenaria_Scaff5627g054870;Parent=transcript:M.Arenaria_Scaff5627g054870
+M.Arenaria_Scaff5627	WormBase_imported	CDS	11189	11254	.	+	0	ID=cds:M.Arenaria_Scaff5627g054870;Parent=transcript:M.Arenaria_Scaff5627g054870
+M.Arenaria_Scaff5627	WormBase_imported	CDS	11300	11394	.	+	0	ID=cds:M.Arenaria_Scaff5627g054870;Parent=transcript:M.Arenaria_Scaff5627g054870
+M.Arenaria_Scaff5627	WormBase_imported	CDS	11846	11939	.	+	1	ID=cds:M.Arenaria_Scaff5627g054870;Parent=transcript:M.Arenaria_Scaff5627g054870
+M.Arenaria_Scaff5627	WormBase_imported	CDS	11982	12038	.	+	0	ID=cds:M.Arenaria_Scaff5627g054870;Parent=transcript:M.Arenaria_Scaff5627g054870
+M.Arenaria_Scaff5627	WormBase_imported	CDS	12081	12125	.	+	0	ID=cds:M.Arenaria_Scaff5627g054870;Parent=transcript:M.Arenaria_Scaff5627g054870
+M.Arenaria_Scaff5627	WormBase_imported	CDS	12185	12208	.	+	0	ID=cds:M.Arenaria_Scaff5627g054870;Parent=transcript:M.Arenaria_Scaff5627g054870
+M.Arenaria_Scaff5627	WormBase_imported	CDS	12252	12299	.	+	0	ID=cds:M.Arenaria_Scaff5627g054870;Parent=transcript:M.Arenaria_Scaff5627g054870
+M.Arenaria_Scaff5627	WormBase_imported	CDS	12412	12480	.	+	0	ID=cds:M.Arenaria_Scaff5627g054870;Parent=transcript:M.Arenaria_Scaff5627g054870
+M.Arenaria_Scaff5627	WormBase_imported	CDS	12530	12604	.	+	0	ID=cds:M.Arenaria_Scaff5627g054870;Parent=transcript:M.Arenaria_Scaff5627g054870
+M.Arenaria_Scaff5627	WormBase_imported	three_prime_UTR	12605	12648	.	+	.	Parent=transcript:M.Arenaria_Scaff5627g054870
 M.Arenaria_Scaff5731	WormBase_imported	gene	3203	6587	.	+	.	ID=gene:M.Arenaria_Scaff5731g055394;Name=M.Arenaria_Scaff5731g055394;biotype=protein_coding
 M.Arenaria_Scaff5731	WormBase_imported	mRNA	3203	6587	.	+	.	ID=transcript:M.Arenaria_Scaff5731g055394;Parent=gene:M.Arenaria_Scaff5731g055394;Name=M.Arenaria_Scaff5731g055394;info=method:InterPro accession:IPR013087 description:Zinc finger C2H2-type
 #microexons transcript:M.Arenaria_Scaff5731g055394:  25 236 46 337 51-51-51-51-39-51-81
@@ -177,6 +277,30 @@ M.Arenaria_Scaff5748	WormBase_imported	CDS	11739	11777	.	-	1	ID=cds:M.Arenaria_S
 M.Arenaria_Scaff5748	WormBase_imported	CDS	11615	11659	.	-	1	ID=cds:M.Arenaria_Scaff5748g055497;Parent=transcript:M.Arenaria_Scaff5748g055497
 M.Arenaria_Scaff5748	WormBase_imported	CDS	11483	11521	.	-	1	ID=cds:M.Arenaria_Scaff5748g055497;Parent=transcript:M.Arenaria_Scaff5748g055497
 M.Arenaria_Scaff5748	WormBase_imported	CDS	11020	11080	.	-	1	ID=cds:M.Arenaria_Scaff5748g055497;Parent=transcript:M.Arenaria_Scaff5748g055497
+M.Arenaria_Scaff5772	WormBase_imported	gene	11526	12926	.	+	.	ID=gene:M.Arenaria_Scaff5772g055611;Name=M.Arenaria_Scaff5772g055611;biotype=protein_coding
+M.Arenaria_Scaff5772	WormBase_imported	mRNA	11526	12926	.	+	.	ID=transcript:M.Arenaria_Scaff5772g055611;Parent=gene:M.Arenaria_Scaff5772g055611;Name=M.Arenaria_Scaff5772g055611;info=method:InterPro accession:IPR005225 description:Small GTP-binding protein domain %0Amethod:InterPro accession:IPR006689 description:Small GTPase superfamily%2C ARF/SAR type %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase
+#microexons transcript:M.Arenaria_Scaff5772g055611:  3-66 95 94 57-45-24-48-69 116
+M.Arenaria_Scaff5772	WormBase_imported	exon	11526	11528	.	+	.	ID=exon:M.Arenaria_Scaff5772g055611.1;Parent=transcript:M.Arenaria_Scaff5772g055611
+M.Arenaria_Scaff5772	WormBase_imported	exon	11578	11643	.	+	.	ID=exon:M.Arenaria_Scaff5772g055611.2;Parent=transcript:M.Arenaria_Scaff5772g055611
+M.Arenaria_Scaff5772	WormBase_imported	exon	11687	11781	.	+	.	ID=exon:M.Arenaria_Scaff5772g055611.3;Parent=transcript:M.Arenaria_Scaff5772g055611
+M.Arenaria_Scaff5772	WormBase_imported	exon	12119	12212	.	+	.	ID=exon:M.Arenaria_Scaff5772g055611.4;Parent=transcript:M.Arenaria_Scaff5772g055611
+M.Arenaria_Scaff5772	WormBase_imported	exon	12257	12313	.	+	.	ID=exon:M.Arenaria_Scaff5772g055611.5;Parent=transcript:M.Arenaria_Scaff5772g055611
+M.Arenaria_Scaff5772	WormBase_imported	exon	12360	12404	.	+	.	ID=exon:M.Arenaria_Scaff5772g055611.6;Parent=transcript:M.Arenaria_Scaff5772g055611
+M.Arenaria_Scaff5772	WormBase_imported	exon	12463	12486	.	+	.	ID=exon:M.Arenaria_Scaff5772g055611.7;Parent=transcript:M.Arenaria_Scaff5772g055611
+M.Arenaria_Scaff5772	WormBase_imported	exon	12534	12581	.	+	.	ID=exon:M.Arenaria_Scaff5772g055611.8;Parent=transcript:M.Arenaria_Scaff5772g055611
+M.Arenaria_Scaff5772	WormBase_imported	exon	12693	12761	.	+	.	ID=exon:M.Arenaria_Scaff5772g055611.9;Parent=transcript:M.Arenaria_Scaff5772g055611
+M.Arenaria_Scaff5772	WormBase_imported	exon	12811	12926	.	+	.	ID=exon:M.Arenaria_Scaff5772g055611.10;Parent=transcript:M.Arenaria_Scaff5772g055611
+M.Arenaria_Scaff5772	WormBase_imported	CDS	11526	11528	.	+	0	ID=cds:M.Arenaria_Scaff5772g055611;Parent=transcript:M.Arenaria_Scaff5772g055611
+M.Arenaria_Scaff5772	WormBase_imported	CDS	11578	11643	.	+	0	ID=cds:M.Arenaria_Scaff5772g055611;Parent=transcript:M.Arenaria_Scaff5772g055611
+M.Arenaria_Scaff5772	WormBase_imported	CDS	11687	11781	.	+	0	ID=cds:M.Arenaria_Scaff5772g055611;Parent=transcript:M.Arenaria_Scaff5772g055611
+M.Arenaria_Scaff5772	WormBase_imported	CDS	12119	12212	.	+	1	ID=cds:M.Arenaria_Scaff5772g055611;Parent=transcript:M.Arenaria_Scaff5772g055611
+M.Arenaria_Scaff5772	WormBase_imported	CDS	12257	12313	.	+	0	ID=cds:M.Arenaria_Scaff5772g055611;Parent=transcript:M.Arenaria_Scaff5772g055611
+M.Arenaria_Scaff5772	WormBase_imported	CDS	12360	12404	.	+	0	ID=cds:M.Arenaria_Scaff5772g055611;Parent=transcript:M.Arenaria_Scaff5772g055611
+M.Arenaria_Scaff5772	WormBase_imported	CDS	12463	12486	.	+	0	ID=cds:M.Arenaria_Scaff5772g055611;Parent=transcript:M.Arenaria_Scaff5772g055611
+M.Arenaria_Scaff5772	WormBase_imported	CDS	12534	12581	.	+	0	ID=cds:M.Arenaria_Scaff5772g055611;Parent=transcript:M.Arenaria_Scaff5772g055611
+M.Arenaria_Scaff5772	WormBase_imported	CDS	12693	12761	.	+	0	ID=cds:M.Arenaria_Scaff5772g055611;Parent=transcript:M.Arenaria_Scaff5772g055611
+M.Arenaria_Scaff5772	WormBase_imported	CDS	12811	12885	.	+	0	ID=cds:M.Arenaria_Scaff5772g055611;Parent=transcript:M.Arenaria_Scaff5772g055611
+M.Arenaria_Scaff5772	WormBase_imported	three_prime_UTR	12886	12926	.	+	.	Parent=transcript:M.Arenaria_Scaff5772g055611
 M.Arenaria_Scaff6096	WormBase_imported	gene	8301	9769	.	-	.	ID=gene:M.Arenaria_Scaff6096g057188;Name=M.Arenaria_Scaff6096g057188;biotype=protein_coding
 M.Arenaria_Scaff6096	WormBase_imported	mRNA	8301	9769	.	-	.	ID=transcript:M.Arenaria_Scaff6096g057188;Parent=gene:M.Arenaria_Scaff6096g057188;Name=M.Arenaria_Scaff6096g057188;info=method:InterPro accession:IPR005225 description:Small GTP-binding protein domain %0Amethod:InterPro accession:IPR006689 description:Small GTPase superfamily%2C ARF/SAR type %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase
 #microexons transcript:M.Arenaria_Scaff6096g057188:  3-66 95 94 57-45-24-48 55 38
@@ -200,36 +324,6 @@ M.Arenaria_Scaff6096	WormBase_imported	CDS	8667	8690	.	-	0	ID=cds:M.Arenaria_Sca
 M.Arenaria_Scaff6096	WormBase_imported	CDS	8572	8619	.	-	0	ID=cds:M.Arenaria_Scaff6096g057188;Parent=transcript:M.Arenaria_Scaff6096g057188
 M.Arenaria_Scaff6096	WormBase_imported	CDS	8404	8458	.	-	0	ID=cds:M.Arenaria_Scaff6096g057188;Parent=transcript:M.Arenaria_Scaff6096g057188
 M.Arenaria_Scaff6096	WormBase_imported	CDS	8301	8338	.	-	2	ID=cds:M.Arenaria_Scaff6096g057188;Parent=transcript:M.Arenaria_Scaff6096g057188
-M.Arenaria_Scaff6639	WormBase_imported	gene	4455	7813	.	+	.	ID=gene:M.Arenaria_Scaff6639g059718;Name=M.Arenaria_Scaff6639g059718;biotype=protein_coding
-M.Arenaria_Scaff6639	WormBase_imported	mRNA	4455	7813	.	+	.	ID=transcript:M.Arenaria_Scaff6639g059718;Parent=gene:M.Arenaria_Scaff6639g059718;Name=M.Arenaria_Scaff6639g059718;info=method:InterPro accession:IPR002044 description:Carbohydrate binding module family 20 %0Amethod:InterPro accession:IPR013783 description:Immunoglobulin-like fold %0Amethod:InterPro accession:IPR013784 description:Carbohydrate-binding-like fold
-#microexons transcript:M.Arenaria_Scaff6639g059718:  137 130 207 211 50 42-51-39-54-63-42 184 30
-M.Arenaria_Scaff6639	WormBase_imported	exon	4455	4591	.	+	.	ID=exon:M.Arenaria_Scaff6639g059718.1;Parent=transcript:M.Arenaria_Scaff6639g059718
-M.Arenaria_Scaff6639	WormBase_imported	exon	4633	4762	.	+	.	ID=exon:M.Arenaria_Scaff6639g059718.2;Parent=transcript:M.Arenaria_Scaff6639g059718
-M.Arenaria_Scaff6639	WormBase_imported	exon	5431	5637	.	+	.	ID=exon:M.Arenaria_Scaff6639g059718.3;Parent=transcript:M.Arenaria_Scaff6639g059718
-M.Arenaria_Scaff6639	WormBase_imported	exon	6111	6321	.	+	.	ID=exon:M.Arenaria_Scaff6639g059718.4;Parent=transcript:M.Arenaria_Scaff6639g059718
-M.Arenaria_Scaff6639	WormBase_imported	exon	6395	6444	.	+	.	ID=exon:M.Arenaria_Scaff6639g059718.5;Parent=transcript:M.Arenaria_Scaff6639g059718
-M.Arenaria_Scaff6639	WormBase_imported	exon	6591	6632	.	+	.	ID=exon:M.Arenaria_Scaff6639g059718.6;Parent=transcript:M.Arenaria_Scaff6639g059718
-M.Arenaria_Scaff6639	WormBase_imported	exon	6674	6724	.	+	.	ID=exon:M.Arenaria_Scaff6639g059718.7;Parent=transcript:M.Arenaria_Scaff6639g059718
-M.Arenaria_Scaff6639	WormBase_imported	exon	6912	6950	.	+	.	ID=exon:M.Arenaria_Scaff6639g059718.8;Parent=transcript:M.Arenaria_Scaff6639g059718
-M.Arenaria_Scaff6639	WormBase_imported	exon	6993	7046	.	+	.	ID=exon:M.Arenaria_Scaff6639g059718.9;Parent=transcript:M.Arenaria_Scaff6639g059718
-M.Arenaria_Scaff6639	WormBase_imported	exon	7145	7207	.	+	.	ID=exon:M.Arenaria_Scaff6639g059718.10;Parent=transcript:M.Arenaria_Scaff6639g059718
-M.Arenaria_Scaff6639	WormBase_imported	exon	7250	7291	.	+	.	ID=exon:M.Arenaria_Scaff6639g059718.11;Parent=transcript:M.Arenaria_Scaff6639g059718
-M.Arenaria_Scaff6639	WormBase_imported	exon	7559	7742	.	+	.	ID=exon:M.Arenaria_Scaff6639g059718.12;Parent=transcript:M.Arenaria_Scaff6639g059718
-M.Arenaria_Scaff6639	WormBase_imported	exon	7784	7813	.	+	.	ID=exon:M.Arenaria_Scaff6639g059718.13;Parent=transcript:M.Arenaria_Scaff6639g059718
-M.Arenaria_Scaff6639	WormBase_imported	CDS	4455	4591	.	+	0	ID=cds:M.Arenaria_Scaff6639g059718;Parent=transcript:M.Arenaria_Scaff6639g059718
-M.Arenaria_Scaff6639	WormBase_imported	CDS	4633	4762	.	+	1	ID=cds:M.Arenaria_Scaff6639g059718;Parent=transcript:M.Arenaria_Scaff6639g059718
-M.Arenaria_Scaff6639	WormBase_imported	CDS	5431	5637	.	+	0	ID=cds:M.Arenaria_Scaff6639g059718;Parent=transcript:M.Arenaria_Scaff6639g059718
-M.Arenaria_Scaff6639	WormBase_imported	CDS	6111	6321	.	+	0	ID=cds:M.Arenaria_Scaff6639g059718;Parent=transcript:M.Arenaria_Scaff6639g059718
-M.Arenaria_Scaff6639	WormBase_imported	CDS	6395	6444	.	+	2	ID=cds:M.Arenaria_Scaff6639g059718;Parent=transcript:M.Arenaria_Scaff6639g059718
-M.Arenaria_Scaff6639	WormBase_imported	CDS	6591	6632	.	+	0	ID=cds:M.Arenaria_Scaff6639g059718;Parent=transcript:M.Arenaria_Scaff6639g059718
-M.Arenaria_Scaff6639	WormBase_imported	CDS	6674	6724	.	+	0	ID=cds:M.Arenaria_Scaff6639g059718;Parent=transcript:M.Arenaria_Scaff6639g059718
-M.Arenaria_Scaff6639	WormBase_imported	CDS	6912	6950	.	+	0	ID=cds:M.Arenaria_Scaff6639g059718;Parent=transcript:M.Arenaria_Scaff6639g059718
-M.Arenaria_Scaff6639	WormBase_imported	CDS	6993	7046	.	+	0	ID=cds:M.Arenaria_Scaff6639g059718;Parent=transcript:M.Arenaria_Scaff6639g059718
-M.Arenaria_Scaff6639	WormBase_imported	CDS	7145	7207	.	+	0	ID=cds:M.Arenaria_Scaff6639g059718;Parent=transcript:M.Arenaria_Scaff6639g059718
-M.Arenaria_Scaff6639	WormBase_imported	CDS	7250	7291	.	+	0	ID=cds:M.Arenaria_Scaff6639g059718;Parent=transcript:M.Arenaria_Scaff6639g059718
-M.Arenaria_Scaff6639	WormBase_imported	CDS	7559	7742	.	+	0	ID=cds:M.Arenaria_Scaff6639g059718;Parent=transcript:M.Arenaria_Scaff6639g059718
-M.Arenaria_Scaff6639	WormBase_imported	CDS	7784	7791	.	+	2	ID=cds:M.Arenaria_Scaff6639g059718;Parent=transcript:M.Arenaria_Scaff6639g059718
-M.Arenaria_Scaff6639	WormBase_imported	three_prime_UTR	7792	7813	.	+	.	Parent=transcript:M.Arenaria_Scaff6639g059718
 M.Arenaria_Scaff7135	WormBase_imported	gene	1385	2384	.	+	.	ID=gene:M.Arenaria_Scaff7135g061986;Name=M.Arenaria_Scaff7135g061986;biotype=protein_coding
 M.Arenaria_Scaff7135	WormBase_imported	mRNA	1385	2384	.	+	.	ID=transcript:M.Arenaria_Scaff7135g061986;Parent=gene:M.Arenaria_Scaff7135g061986;Name=M.Arenaria_Scaff7135g061986
 #microexons transcript:M.Arenaria_Scaff7135g061986:  83 33-27-15-27 17 105 95
@@ -249,26 +343,23 @@ M.Arenaria_Scaff7135	WormBase_imported	CDS	1990	2016	.	+	1	ID=cds:M.Arenaria_Sca
 M.Arenaria_Scaff7135	WormBase_imported	CDS	2072	2088	.	+	1	ID=cds:M.Arenaria_Scaff7135g061986;Parent=transcript:M.Arenaria_Scaff7135g061986
 M.Arenaria_Scaff7135	WormBase_imported	CDS	2144	2248	.	+	2	ID=cds:M.Arenaria_Scaff7135g061986;Parent=transcript:M.Arenaria_Scaff7135g061986
 M.Arenaria_Scaff7135	WormBase_imported	CDS	2290	2384	.	+	2	ID=cds:M.Arenaria_Scaff7135g061986;Parent=transcript:M.Arenaria_Scaff7135g061986
-M.Arenaria_Scaff9380	WormBase_imported	gene	6065	8212	.	-	.	ID=gene:M.Arenaria_Scaff9380g070586;Name=M.Arenaria_Scaff9380g070586;biotype=protein_coding
-M.Arenaria_Scaff9380	WormBase_imported	mRNA	6065	8212	.	-	.	ID=transcript:M.Arenaria_Scaff9380g070586;Parent=gene:M.Arenaria_Scaff9380g070586;Name=M.Arenaria_Scaff9380g070586;info=method:InterPro accession:IPR003914 description:Rabaptin %0Amethod:InterPro accession:IPR015390 description:Rabaptin%2C GTPase-Rab5 binding domain
-#microexons transcript:M.Arenaria_Scaff9380g070586:  36-48-42 22 107 152 121 185
-M.Arenaria_Scaff9380	WormBase_imported	exon	8177	8212	.	-	.	ID=exon:M.Arenaria_Scaff9380g070586.1;Parent=transcript:M.Arenaria_Scaff9380g070586
-M.Arenaria_Scaff9380	WormBase_imported	exon	8079	8126	.	-	.	ID=exon:M.Arenaria_Scaff9380g070586.2;Parent=transcript:M.Arenaria_Scaff9380g070586
-M.Arenaria_Scaff9380	WormBase_imported	exon	7574	7615	.	-	.	ID=exon:M.Arenaria_Scaff9380g070586.3;Parent=transcript:M.Arenaria_Scaff9380g070586
-M.Arenaria_Scaff9380	WormBase_imported	exon	7504	7525	.	-	.	ID=exon:M.Arenaria_Scaff9380g070586.4;Parent=transcript:M.Arenaria_Scaff9380g070586
-M.Arenaria_Scaff9380	WormBase_imported	exon	7354	7460	.	-	.	ID=exon:M.Arenaria_Scaff9380g070586.5;Parent=transcript:M.Arenaria_Scaff9380g070586
-M.Arenaria_Scaff9380	WormBase_imported	exon	6869	7020	.	-	.	ID=exon:M.Arenaria_Scaff9380g070586.6;Parent=transcript:M.Arenaria_Scaff9380g070586
-M.Arenaria_Scaff9380	WormBase_imported	exon	6704	6824	.	-	.	ID=exon:M.Arenaria_Scaff9380g070586.7;Parent=transcript:M.Arenaria_Scaff9380g070586
-M.Arenaria_Scaff9380	WormBase_imported	exon	6065	6249	.	-	.	ID=exon:M.Arenaria_Scaff9380g070586.8;Parent=transcript:M.Arenaria_Scaff9380g070586
-M.Arenaria_Scaff9380	WormBase_imported	CDS	8177	8212	.	-	0	ID=cds:M.Arenaria_Scaff9380g070586;Parent=transcript:M.Arenaria_Scaff9380g070586
-M.Arenaria_Scaff9380	WormBase_imported	CDS	8079	8126	.	-	0	ID=cds:M.Arenaria_Scaff9380g070586;Parent=transcript:M.Arenaria_Scaff9380g070586
-M.Arenaria_Scaff9380	WormBase_imported	CDS	7574	7615	.	-	0	ID=cds:M.Arenaria_Scaff9380g070586;Parent=transcript:M.Arenaria_Scaff9380g070586
-M.Arenaria_Scaff9380	WormBase_imported	CDS	7504	7525	.	-	0	ID=cds:M.Arenaria_Scaff9380g070586;Parent=transcript:M.Arenaria_Scaff9380g070586
-M.Arenaria_Scaff9380	WormBase_imported	CDS	7354	7460	.	-	2	ID=cds:M.Arenaria_Scaff9380g070586;Parent=transcript:M.Arenaria_Scaff9380g070586
-M.Arenaria_Scaff9380	WormBase_imported	CDS	6869	7020	.	-	0	ID=cds:M.Arenaria_Scaff9380g070586;Parent=transcript:M.Arenaria_Scaff9380g070586
-M.Arenaria_Scaff9380	WormBase_imported	CDS	6704	6824	.	-	1	ID=cds:M.Arenaria_Scaff9380g070586;Parent=transcript:M.Arenaria_Scaff9380g070586
-M.Arenaria_Scaff9380	WormBase_imported	CDS	6136	6249	.	-	0	ID=cds:M.Arenaria_Scaff9380g070586;Parent=transcript:M.Arenaria_Scaff9380g070586
-M.Arenaria_Scaff9380	WormBase_imported	three_prime_UTR	6065	6135	.	-	.	Parent=transcript:M.Arenaria_Scaff9380g070586
+M.Arenaria_Scaff8156	WormBase_imported	gene	7511	9450	.	-	.	ID=gene:M.Arenaria_Scaff8156g066161;Name=M.Arenaria_Scaff8156g066161;biotype=protein_coding
+M.Arenaria_Scaff8156	WormBase_imported	mRNA	7511	9450	.	-	.	ID=transcript:M.Arenaria_Scaff8156g066161;Parent=gene:M.Arenaria_Scaff8156g066161;Name=M.Arenaria_Scaff8156g066161
+#microexons transcript:M.Arenaria_Scaff8156g066161:  235 45-57-33-45-66 17
+M.Arenaria_Scaff8156	WormBase_imported	exon	9216	9450	.	-	.	ID=exon:M.Arenaria_Scaff8156g066161.1;Parent=transcript:M.Arenaria_Scaff8156g066161
+M.Arenaria_Scaff8156	WormBase_imported	exon	8780	8824	.	-	.	ID=exon:M.Arenaria_Scaff8156g066161.2;Parent=transcript:M.Arenaria_Scaff8156g066161
+M.Arenaria_Scaff8156	WormBase_imported	exon	8598	8654	.	-	.	ID=exon:M.Arenaria_Scaff8156g066161.3;Parent=transcript:M.Arenaria_Scaff8156g066161
+M.Arenaria_Scaff8156	WormBase_imported	exon	8059	8091	.	-	.	ID=exon:M.Arenaria_Scaff8156g066161.4;Parent=transcript:M.Arenaria_Scaff8156g066161
+M.Arenaria_Scaff8156	WormBase_imported	exon	7810	7854	.	-	.	ID=exon:M.Arenaria_Scaff8156g066161.5;Parent=transcript:M.Arenaria_Scaff8156g066161
+M.Arenaria_Scaff8156	WormBase_imported	exon	7598	7663	.	-	.	ID=exon:M.Arenaria_Scaff8156g066161.6;Parent=transcript:M.Arenaria_Scaff8156g066161
+M.Arenaria_Scaff8156	WormBase_imported	exon	7511	7527	.	-	.	ID=exon:M.Arenaria_Scaff8156g066161.7;Parent=transcript:M.Arenaria_Scaff8156g066161
+M.Arenaria_Scaff8156	WormBase_imported	CDS	9216	9450	.	-	0	ID=cds:M.Arenaria_Scaff8156g066161;Parent=transcript:M.Arenaria_Scaff8156g066161
+M.Arenaria_Scaff8156	WormBase_imported	CDS	8780	8824	.	-	2	ID=cds:M.Arenaria_Scaff8156g066161;Parent=transcript:M.Arenaria_Scaff8156g066161
+M.Arenaria_Scaff8156	WormBase_imported	CDS	8598	8654	.	-	2	ID=cds:M.Arenaria_Scaff8156g066161;Parent=transcript:M.Arenaria_Scaff8156g066161
+M.Arenaria_Scaff8156	WormBase_imported	CDS	8059	8091	.	-	2	ID=cds:M.Arenaria_Scaff8156g066161;Parent=transcript:M.Arenaria_Scaff8156g066161
+M.Arenaria_Scaff8156	WormBase_imported	CDS	7810	7854	.	-	2	ID=cds:M.Arenaria_Scaff8156g066161;Parent=transcript:M.Arenaria_Scaff8156g066161
+M.Arenaria_Scaff8156	WormBase_imported	CDS	7598	7663	.	-	2	ID=cds:M.Arenaria_Scaff8156g066161;Parent=transcript:M.Arenaria_Scaff8156g066161
+M.Arenaria_Scaff8156	WormBase_imported	CDS	7511	7527	.	-	2	ID=cds:M.Arenaria_Scaff8156g066161;Parent=transcript:M.Arenaria_Scaff8156g066161
 M.Arenaria_Scaff9480	WormBase_imported	gene	2579	6120	.	+	.	ID=gene:M.Arenaria_Scaff9480g070910;Name=M.Arenaria_Scaff9480g070910;biotype=protein_coding
 M.Arenaria_Scaff9480	WormBase_imported	mRNA	2579	6120	.	+	.	ID=transcript:M.Arenaria_Scaff9480g070910;Parent=gene:M.Arenaria_Scaff9480g070910;Name=M.Arenaria_Scaff9480g070910;info=method:InterPro accession:IPR019545 description:DM13 domain
 #microexons transcript:M.Arenaria_Scaff9480g070910:  11 361 103 134 166 533 128 52 54-51-39-42-54-51-39-36
@@ -304,76 +395,42 @@ M.Arenaria_Scaff9480	WormBase_imported	CDS	5741	5794	.	+	0	ID=cds:M.Arenaria_Sca
 M.Arenaria_Scaff9480	WormBase_imported	CDS	5896	5946	.	+	0	ID=cds:M.Arenaria_Scaff9480g070910;Parent=transcript:M.Arenaria_Scaff9480g070910
 M.Arenaria_Scaff9480	WormBase_imported	CDS	6005	6043	.	+	0	ID=cds:M.Arenaria_Scaff9480g070910;Parent=transcript:M.Arenaria_Scaff9480g070910
 M.Arenaria_Scaff9480	WormBase_imported	CDS	6085	6120	.	+	0	ID=cds:M.Arenaria_Scaff9480g070910;Parent=transcript:M.Arenaria_Scaff9480g070910
-M.Arenaria_Scaff9587	WormBase_imported	gene	3246	4386	.	-	.	ID=gene:M.Arenaria_Scaff9587g071268;Name=M.Arenaria_Scaff9587g071268;biotype=protein_coding
-M.Arenaria_Scaff9587	WormBase_imported	mRNA	3246	4386	.	-	.	ID=transcript:M.Arenaria_Scaff9587g071268;Parent=gene:M.Arenaria_Scaff9587g071268;Name=M.Arenaria_Scaff9587g071268
-#microexons transcript:M.Arenaria_Scaff9587g071268:  194 194 166 51-42-42 175
-M.Arenaria_Scaff9587	WormBase_imported	exon	4193	4386	.	-	.	ID=exon:M.Arenaria_Scaff9587g071268.1;Parent=transcript:M.Arenaria_Scaff9587g071268
-M.Arenaria_Scaff9587	WormBase_imported	exon	3942	4135	.	-	.	ID=exon:M.Arenaria_Scaff9587g071268.2;Parent=transcript:M.Arenaria_Scaff9587g071268
-M.Arenaria_Scaff9587	WormBase_imported	exon	3728	3893	.	-	.	ID=exon:M.Arenaria_Scaff9587g071268.3;Parent=transcript:M.Arenaria_Scaff9587g071268
-M.Arenaria_Scaff9587	WormBase_imported	exon	3636	3686	.	-	.	ID=exon:M.Arenaria_Scaff9587g071268.4;Parent=transcript:M.Arenaria_Scaff9587g071268
-M.Arenaria_Scaff9587	WormBase_imported	exon	3549	3590	.	-	.	ID=exon:M.Arenaria_Scaff9587g071268.5;Parent=transcript:M.Arenaria_Scaff9587g071268
-M.Arenaria_Scaff9587	WormBase_imported	exon	3466	3507	.	-	.	ID=exon:M.Arenaria_Scaff9587g071268.6;Parent=transcript:M.Arenaria_Scaff9587g071268
-M.Arenaria_Scaff9587	WormBase_imported	exon	3246	3420	.	-	.	ID=exon:M.Arenaria_Scaff9587g071268.7;Parent=transcript:M.Arenaria_Scaff9587g071268
-M.Arenaria_Scaff9587	WormBase_imported	five_prime_UTR	4313	4386	.	-	.	Parent=transcript:M.Arenaria_Scaff9587g071268
-M.Arenaria_Scaff9587	WormBase_imported	CDS	4193	4312	.	-	0	ID=cds:M.Arenaria_Scaff9587g071268;Parent=transcript:M.Arenaria_Scaff9587g071268
-M.Arenaria_Scaff9587	WormBase_imported	CDS	3942	4135	.	-	0	ID=cds:M.Arenaria_Scaff9587g071268;Parent=transcript:M.Arenaria_Scaff9587g071268
-M.Arenaria_Scaff9587	WormBase_imported	CDS	3728	3893	.	-	1	ID=cds:M.Arenaria_Scaff9587g071268;Parent=transcript:M.Arenaria_Scaff9587g071268
-M.Arenaria_Scaff9587	WormBase_imported	CDS	3636	3686	.	-	0	ID=cds:M.Arenaria_Scaff9587g071268;Parent=transcript:M.Arenaria_Scaff9587g071268
-M.Arenaria_Scaff9587	WormBase_imported	CDS	3549	3590	.	-	0	ID=cds:M.Arenaria_Scaff9587g071268;Parent=transcript:M.Arenaria_Scaff9587g071268
-M.Arenaria_Scaff9587	WormBase_imported	CDS	3466	3507	.	-	0	ID=cds:M.Arenaria_Scaff9587g071268;Parent=transcript:M.Arenaria_Scaff9587g071268
-M.Arenaria_Scaff9587	WormBase_imported	CDS	3388	3420	.	-	0	ID=cds:M.Arenaria_Scaff9587g071268;Parent=transcript:M.Arenaria_Scaff9587g071268
-M.Arenaria_Scaff9587	WormBase_imported	three_prime_UTR	3246	3387	.	-	.	Parent=transcript:M.Arenaria_Scaff9587g071268
-M.Arenaria_Scaff10199	WormBase_imported	gene	5307	7017	.	+	.	ID=gene:M.Arenaria_Scaff10199g073253;Name=M.Arenaria_Scaff10199g073253;biotype=protein_coding
-M.Arenaria_Scaff10199	WormBase_imported	mRNA	5307	7017	.	+	.	ID=transcript:M.Arenaria_Scaff10199g073253;Parent=gene:M.Arenaria_Scaff10199g073253;Name=M.Arenaria_Scaff10199g073253
-#microexons transcript:M.Arenaria_Scaff10199g073253:  95 36-48-39 26 30 47
-M.Arenaria_Scaff10199	WormBase_imported	exon	5307	5401	.	+	.	ID=exon:M.Arenaria_Scaff10199g073253.1;Parent=transcript:M.Arenaria_Scaff10199g073253
-M.Arenaria_Scaff10199	WormBase_imported	exon	5457	5492	.	+	.	ID=exon:M.Arenaria_Scaff10199g073253.2;Parent=transcript:M.Arenaria_Scaff10199g073253
-M.Arenaria_Scaff10199	WormBase_imported	exon	5686	5733	.	+	.	ID=exon:M.Arenaria_Scaff10199g073253.3;Parent=transcript:M.Arenaria_Scaff10199g073253
-M.Arenaria_Scaff10199	WormBase_imported	exon	5851	5889	.	+	.	ID=exon:M.Arenaria_Scaff10199g073253.4;Parent=transcript:M.Arenaria_Scaff10199g073253
-M.Arenaria_Scaff10199	WormBase_imported	exon	6448	6473	.	+	.	ID=exon:M.Arenaria_Scaff10199g073253.5;Parent=transcript:M.Arenaria_Scaff10199g073253
-M.Arenaria_Scaff10199	WormBase_imported	exon	6893	6922	.	+	.	ID=exon:M.Arenaria_Scaff10199g073253.6;Parent=transcript:M.Arenaria_Scaff10199g073253
-M.Arenaria_Scaff10199	WormBase_imported	exon	6971	7017	.	+	.	ID=exon:M.Arenaria_Scaff10199g073253.7;Parent=transcript:M.Arenaria_Scaff10199g073253
-M.Arenaria_Scaff10199	WormBase_imported	CDS	5307	5401	.	+	0	ID=cds:M.Arenaria_Scaff10199g073253;Parent=transcript:M.Arenaria_Scaff10199g073253
-M.Arenaria_Scaff10199	WormBase_imported	CDS	5457	5492	.	+	1	ID=cds:M.Arenaria_Scaff10199g073253;Parent=transcript:M.Arenaria_Scaff10199g073253
-M.Arenaria_Scaff10199	WormBase_imported	CDS	5686	5733	.	+	1	ID=cds:M.Arenaria_Scaff10199g073253;Parent=transcript:M.Arenaria_Scaff10199g073253
-M.Arenaria_Scaff10199	WormBase_imported	CDS	5851	5889	.	+	1	ID=cds:M.Arenaria_Scaff10199g073253;Parent=transcript:M.Arenaria_Scaff10199g073253
-M.Arenaria_Scaff10199	WormBase_imported	CDS	6448	6473	.	+	1	ID=cds:M.Arenaria_Scaff10199g073253;Parent=transcript:M.Arenaria_Scaff10199g073253
-M.Arenaria_Scaff10199	WormBase_imported	CDS	6893	6922	.	+	2	ID=cds:M.Arenaria_Scaff10199g073253;Parent=transcript:M.Arenaria_Scaff10199g073253
-M.Arenaria_Scaff10199	WormBase_imported	CDS	6971	7017	.	+	2	ID=cds:M.Arenaria_Scaff10199g073253;Parent=transcript:M.Arenaria_Scaff10199g073253
-M.Arenaria_Scaff16898	WormBase_imported	gene	372	2484	.	+	.	ID=gene:M.Arenaria_Scaff16898g089431;Name=M.Arenaria_Scaff16898g089431;biotype=protein_coding
-M.Arenaria_Scaff16898	WormBase_imported	mRNA	372	2484	.	+	.	ID=transcript:M.Arenaria_Scaff16898g089431;Parent=gene:M.Arenaria_Scaff16898g089431;Name=M.Arenaria_Scaff16898g089431;info=method:InterPro accession:IPR000615 description:Bestrophin %0Amethod:InterPro accession:IPR021134 description:Bestrophin/UPF0187
-#microexons transcript:M.Arenaria_Scaff16898g089431:  215 229 94 36-51-57 215 231
-M.Arenaria_Scaff16898	WormBase_imported	exon	372	586	.	+	.	ID=exon:M.Arenaria_Scaff16898g089431.1;Parent=transcript:M.Arenaria_Scaff16898g089431
-M.Arenaria_Scaff16898	WormBase_imported	exon	895	1123	.	+	.	ID=exon:M.Arenaria_Scaff16898g089431.2;Parent=transcript:M.Arenaria_Scaff16898g089431
-M.Arenaria_Scaff16898	WormBase_imported	exon	1172	1265	.	+	.	ID=exon:M.Arenaria_Scaff16898g089431.3;Parent=transcript:M.Arenaria_Scaff16898g089431
-M.Arenaria_Scaff16898	WormBase_imported	exon	1314	1349	.	+	.	ID=exon:M.Arenaria_Scaff16898g089431.4;Parent=transcript:M.Arenaria_Scaff16898g089431
-M.Arenaria_Scaff16898	WormBase_imported	exon	1732	1782	.	+	.	ID=exon:M.Arenaria_Scaff16898g089431.5;Parent=transcript:M.Arenaria_Scaff16898g089431
-M.Arenaria_Scaff16898	WormBase_imported	exon	1826	1882	.	+	.	ID=exon:M.Arenaria_Scaff16898g089431.6;Parent=transcript:M.Arenaria_Scaff16898g089431
-M.Arenaria_Scaff16898	WormBase_imported	exon	1973	2187	.	+	.	ID=exon:M.Arenaria_Scaff16898g089431.7;Parent=transcript:M.Arenaria_Scaff16898g089431
-M.Arenaria_Scaff16898	WormBase_imported	exon	2254	2484	.	+	.	ID=exon:M.Arenaria_Scaff16898g089431.8;Parent=transcript:M.Arenaria_Scaff16898g089431
-M.Arenaria_Scaff16898	WormBase_imported	CDS	372	586	.	+	1	ID=cds:M.Arenaria_Scaff16898g089431;Parent=transcript:M.Arenaria_Scaff16898g089431
-M.Arenaria_Scaff16898	WormBase_imported	CDS	895	1123	.	+	1	ID=cds:M.Arenaria_Scaff16898g089431;Parent=transcript:M.Arenaria_Scaff16898g089431
-M.Arenaria_Scaff16898	WormBase_imported	CDS	1172	1265	.	+	0	ID=cds:M.Arenaria_Scaff16898g089431;Parent=transcript:M.Arenaria_Scaff16898g089431
-M.Arenaria_Scaff16898	WormBase_imported	CDS	1314	1349	.	+	2	ID=cds:M.Arenaria_Scaff16898g089431;Parent=transcript:M.Arenaria_Scaff16898g089431
-M.Arenaria_Scaff16898	WormBase_imported	CDS	1732	1782	.	+	2	ID=cds:M.Arenaria_Scaff16898g089431;Parent=transcript:M.Arenaria_Scaff16898g089431
-M.Arenaria_Scaff16898	WormBase_imported	CDS	1826	1882	.	+	2	ID=cds:M.Arenaria_Scaff16898g089431;Parent=transcript:M.Arenaria_Scaff16898g089431
-M.Arenaria_Scaff16898	WormBase_imported	CDS	1973	2187	.	+	2	ID=cds:M.Arenaria_Scaff16898g089431;Parent=transcript:M.Arenaria_Scaff16898g089431
-M.Arenaria_Scaff16898	WormBase_imported	CDS	2254	2326	.	+	0	ID=cds:M.Arenaria_Scaff16898g089431;Parent=transcript:M.Arenaria_Scaff16898g089431
-M.Arenaria_Scaff16898	WormBase_imported	three_prime_UTR	2327	2484	.	+	.	Parent=transcript:M.Arenaria_Scaff16898g089431
-M.Arenaria_Scaff19492	WormBase_imported	gene	1268	2340	.	+	.	ID=gene:M.Arenaria_Scaff19492g093920;Name=M.Arenaria_Scaff19492g093920;biotype=protein_coding
-M.Arenaria_Scaff19492	WormBase_imported	mRNA	1268	2340	.	+	.	ID=transcript:M.Arenaria_Scaff19492g093920;Parent=gene:M.Arenaria_Scaff19492g093920;Name=M.Arenaria_Scaff19492g093920;info=method:InterPro accession:IPR005817 description:Wnt
-#microexons transcript:M.Arenaria_Scaff19492g093920:  127 47 52 125 45-45-57
-M.Arenaria_Scaff19492	WormBase_imported	exon	1268	1394	.	+	.	ID=exon:M.Arenaria_Scaff19492g093920.1;Parent=transcript:M.Arenaria_Scaff19492g093920
-M.Arenaria_Scaff19492	WormBase_imported	exon	1536	1582	.	+	.	ID=exon:M.Arenaria_Scaff19492g093920.2;Parent=transcript:M.Arenaria_Scaff19492g093920
-M.Arenaria_Scaff19492	WormBase_imported	exon	1823	1874	.	+	.	ID=exon:M.Arenaria_Scaff19492g093920.3;Parent=transcript:M.Arenaria_Scaff19492g093920
-M.Arenaria_Scaff19492	WormBase_imported	exon	1922	2046	.	+	.	ID=exon:M.Arenaria_Scaff19492g093920.4;Parent=transcript:M.Arenaria_Scaff19492g093920
-M.Arenaria_Scaff19492	WormBase_imported	exon	2094	2138	.	+	.	ID=exon:M.Arenaria_Scaff19492g093920.5;Parent=transcript:M.Arenaria_Scaff19492g093920
-M.Arenaria_Scaff19492	WormBase_imported	exon	2187	2231	.	+	.	ID=exon:M.Arenaria_Scaff19492g093920.6;Parent=transcript:M.Arenaria_Scaff19492g093920
-M.Arenaria_Scaff19492	WormBase_imported	exon	2284	2340	.	+	.	ID=exon:M.Arenaria_Scaff19492g093920.7;Parent=transcript:M.Arenaria_Scaff19492g093920
-M.Arenaria_Scaff19492	WormBase_imported	CDS	1268	1394	.	+	0	ID=cds:M.Arenaria_Scaff19492g093920;Parent=transcript:M.Arenaria_Scaff19492g093920
-M.Arenaria_Scaff19492	WormBase_imported	CDS	1536	1582	.	+	2	ID=cds:M.Arenaria_Scaff19492g093920;Parent=transcript:M.Arenaria_Scaff19492g093920
-M.Arenaria_Scaff19492	WormBase_imported	CDS	1823	1874	.	+	0	ID=cds:M.Arenaria_Scaff19492g093920;Parent=transcript:M.Arenaria_Scaff19492g093920
-M.Arenaria_Scaff19492	WormBase_imported	CDS	1922	2046	.	+	2	ID=cds:M.Arenaria_Scaff19492g093920;Parent=transcript:M.Arenaria_Scaff19492g093920
-M.Arenaria_Scaff19492	WormBase_imported	CDS	2094	2138	.	+	0	ID=cds:M.Arenaria_Scaff19492g093920;Parent=transcript:M.Arenaria_Scaff19492g093920
-M.Arenaria_Scaff19492	WormBase_imported	CDS	2187	2231	.	+	0	ID=cds:M.Arenaria_Scaff19492g093920;Parent=transcript:M.Arenaria_Scaff19492g093920
-M.Arenaria_Scaff19492	WormBase_imported	CDS	2284	2340	.	+	0	ID=cds:M.Arenaria_Scaff19492g093920;Parent=transcript:M.Arenaria_Scaff19492g093920
+M.Arenaria_Scaff9891	WormBase_imported	gene	4713	6453	.	-	.	ID=gene:M.Arenaria_Scaff9891g072268;Name=M.Arenaria_Scaff9891g072268;biotype=protein_coding
+M.Arenaria_Scaff9891	WormBase_imported	mRNA	4713	6453	.	-	.	ID=transcript:M.Arenaria_Scaff9891g072268;Parent=gene:M.Arenaria_Scaff9891g072268;Name=M.Arenaria_Scaff9891g072268
+#microexons transcript:M.Arenaria_Scaff9891g072268:  3 110 90-27-18-36-24-144
+M.Arenaria_Scaff9891	WormBase_imported	exon	6451	6453	.	-	.	ID=exon:M.Arenaria_Scaff9891g072268.1;Parent=transcript:M.Arenaria_Scaff9891g072268
+M.Arenaria_Scaff9891	WormBase_imported	exon	5853	5962	.	-	.	ID=exon:M.Arenaria_Scaff9891g072268.2;Parent=transcript:M.Arenaria_Scaff9891g072268
+M.Arenaria_Scaff9891	WormBase_imported	exon	5636	5725	.	-	.	ID=exon:M.Arenaria_Scaff9891g072268.3;Parent=transcript:M.Arenaria_Scaff9891g072268
+M.Arenaria_Scaff9891	WormBase_imported	exon	5159	5185	.	-	.	ID=exon:M.Arenaria_Scaff9891g072268.4;Parent=transcript:M.Arenaria_Scaff9891g072268
+M.Arenaria_Scaff9891	WormBase_imported	exon	5091	5108	.	-	.	ID=exon:M.Arenaria_Scaff9891g072268.5;Parent=transcript:M.Arenaria_Scaff9891g072268
+M.Arenaria_Scaff9891	WormBase_imported	exon	5000	5035	.	-	.	ID=exon:M.Arenaria_Scaff9891g072268.6;Parent=transcript:M.Arenaria_Scaff9891g072268
+M.Arenaria_Scaff9891	WormBase_imported	exon	4928	4951	.	-	.	ID=exon:M.Arenaria_Scaff9891g072268.7;Parent=transcript:M.Arenaria_Scaff9891g072268
+M.Arenaria_Scaff9891	WormBase_imported	exon	4713	4856	.	-	.	ID=exon:M.Arenaria_Scaff9891g072268.8;Parent=transcript:M.Arenaria_Scaff9891g072268
+M.Arenaria_Scaff9891	WormBase_imported	CDS	6451	6453	.	-	0	ID=cds:M.Arenaria_Scaff9891g072268;Parent=transcript:M.Arenaria_Scaff9891g072268
+M.Arenaria_Scaff9891	WormBase_imported	CDS	5853	5962	.	-	0	ID=cds:M.Arenaria_Scaff9891g072268;Parent=transcript:M.Arenaria_Scaff9891g072268
+M.Arenaria_Scaff9891	WormBase_imported	CDS	5636	5725	.	-	1	ID=cds:M.Arenaria_Scaff9891g072268;Parent=transcript:M.Arenaria_Scaff9891g072268
+M.Arenaria_Scaff9891	WormBase_imported	CDS	5159	5185	.	-	1	ID=cds:M.Arenaria_Scaff9891g072268;Parent=transcript:M.Arenaria_Scaff9891g072268
+M.Arenaria_Scaff9891	WormBase_imported	CDS	5091	5108	.	-	1	ID=cds:M.Arenaria_Scaff9891g072268;Parent=transcript:M.Arenaria_Scaff9891g072268
+M.Arenaria_Scaff9891	WormBase_imported	CDS	5000	5035	.	-	1	ID=cds:M.Arenaria_Scaff9891g072268;Parent=transcript:M.Arenaria_Scaff9891g072268
+M.Arenaria_Scaff9891	WormBase_imported	CDS	4928	4951	.	-	1	ID=cds:M.Arenaria_Scaff9891g072268;Parent=transcript:M.Arenaria_Scaff9891g072268
+M.Arenaria_Scaff9891	WormBase_imported	CDS	4757	4856	.	-	1	ID=cds:M.Arenaria_Scaff9891g072268;Parent=transcript:M.Arenaria_Scaff9891g072268
+M.Arenaria_Scaff9891	WormBase_imported	three_prime_UTR	4713	4756	.	-	.	Parent=transcript:M.Arenaria_Scaff9891g072268
+M.Arenaria_Scaff16554	WormBase_imported	gene	2450	4222	.	+	.	ID=gene:M.Arenaria_Scaff16554g088803;Name=M.Arenaria_Scaff16554g088803;biotype=protein_coding
+M.Arenaria_Scaff16554	WormBase_imported	mRNA	2450	4222	.	+	.	ID=transcript:M.Arenaria_Scaff16554g088803;Parent=gene:M.Arenaria_Scaff16554g088803;Name=M.Arenaria_Scaff16554g088803
+#microexons transcript:M.Arenaria_Scaff16554g088803:  3 110 99-27-18-36-24 100
+M.Arenaria_Scaff16554	WormBase_imported	exon	2450	2452	.	+	.	ID=exon:M.Arenaria_Scaff16554g088803.1;Parent=transcript:M.Arenaria_Scaff16554g088803
+M.Arenaria_Scaff16554	WormBase_imported	exon	3021	3130	.	+	.	ID=exon:M.Arenaria_Scaff16554g088803.2;Parent=transcript:M.Arenaria_Scaff16554g088803
+M.Arenaria_Scaff16554	WormBase_imported	exon	3252	3350	.	+	.	ID=exon:M.Arenaria_Scaff16554g088803.3;Parent=transcript:M.Arenaria_Scaff16554g088803
+M.Arenaria_Scaff16554	WormBase_imported	exon	3797	3823	.	+	.	ID=exon:M.Arenaria_Scaff16554g088803.4;Parent=transcript:M.Arenaria_Scaff16554g088803
+M.Arenaria_Scaff16554	WormBase_imported	exon	3876	3893	.	+	.	ID=exon:M.Arenaria_Scaff16554g088803.5;Parent=transcript:M.Arenaria_Scaff16554g088803
+M.Arenaria_Scaff16554	WormBase_imported	exon	3945	3980	.	+	.	ID=exon:M.Arenaria_Scaff16554g088803.6;Parent=transcript:M.Arenaria_Scaff16554g088803
+M.Arenaria_Scaff16554	WormBase_imported	exon	4031	4054	.	+	.	ID=exon:M.Arenaria_Scaff16554g088803.7;Parent=transcript:M.Arenaria_Scaff16554g088803
+M.Arenaria_Scaff16554	WormBase_imported	exon	4123	4222	.	+	.	ID=exon:M.Arenaria_Scaff16554g088803.8;Parent=transcript:M.Arenaria_Scaff16554g088803
+M.Arenaria_Scaff16554	WormBase_imported	CDS	2450	2452	.	+	0	ID=cds:M.Arenaria_Scaff16554g088803;Parent=transcript:M.Arenaria_Scaff16554g088803
+M.Arenaria_Scaff16554	WormBase_imported	CDS	3021	3130	.	+	0	ID=cds:M.Arenaria_Scaff16554g088803;Parent=transcript:M.Arenaria_Scaff16554g088803
+M.Arenaria_Scaff16554	WormBase_imported	CDS	3252	3350	.	+	1	ID=cds:M.Arenaria_Scaff16554g088803;Parent=transcript:M.Arenaria_Scaff16554g088803
+M.Arenaria_Scaff16554	WormBase_imported	CDS	3797	3823	.	+	1	ID=cds:M.Arenaria_Scaff16554g088803;Parent=transcript:M.Arenaria_Scaff16554g088803
+M.Arenaria_Scaff16554	WormBase_imported	CDS	3876	3893	.	+	1	ID=cds:M.Arenaria_Scaff16554g088803;Parent=transcript:M.Arenaria_Scaff16554g088803
+M.Arenaria_Scaff16554	WormBase_imported	CDS	3945	3980	.	+	1	ID=cds:M.Arenaria_Scaff16554g088803;Parent=transcript:M.Arenaria_Scaff16554g088803
+M.Arenaria_Scaff16554	WormBase_imported	CDS	4031	4054	.	+	1	ID=cds:M.Arenaria_Scaff16554g088803;Parent=transcript:M.Arenaria_Scaff16554g088803
+M.Arenaria_Scaff16554	WormBase_imported	CDS	4123	4222	.	+	1	ID=cds:M.Arenaria_Scaff16554g088803;Parent=transcript:M.Arenaria_Scaff16554g088803

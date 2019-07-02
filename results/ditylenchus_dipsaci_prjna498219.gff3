@@ -1,72 +1,3 @@
-Scaffold_4	WormBase_imported	gene	1429873	1431074	.	+	.	ID=gene:jg14455;Name=jg14455;biotype=protein_coding
-Scaffold_4	WormBase_imported	mRNA	1429873	1431074	.	+	.	ID=transcript:jg14455;Parent=gene:jg14455;Name=jg14455;info=method:InterPro accession:IPR013087 description:Zinc finger C2H2-type %0Amethod:InterPro accession:IPR036236 description:Zinc finger C2H2 superfamily
-#microexons transcript:jg14455:  43 285 127 18-12-3 40
-Scaffold_4	WormBase_imported	exon	1429873	1429915	.	+	.	ID=exon:jg14455.1;Parent=transcript:jg14455
-Scaffold_4	WormBase_imported	exon	1429973	1430257	.	+	.	ID=exon:jg14455.2;Parent=transcript:jg14455
-Scaffold_4	WormBase_imported	exon	1430633	1430759	.	+	.	ID=exon:jg14455.3;Parent=transcript:jg14455
-Scaffold_4	WormBase_imported	exon	1430864	1430881	.	+	.	ID=exon:jg14455.4;Parent=transcript:jg14455
-Scaffold_4	WormBase_imported	exon	1430933	1430944	.	+	.	ID=exon:jg14455.5;Parent=transcript:jg14455
-Scaffold_4	WormBase_imported	exon	1430985	1430987	.	+	.	ID=exon:jg14455.6;Parent=transcript:jg14455
-Scaffold_4	WormBase_imported	exon	1431035	1431074	.	+	.	ID=exon:jg14455.7;Parent=transcript:jg14455
-Scaffold_4	WormBase_imported	CDS	1429873	1429915	.	+	0	ID=cds:jg14455;Parent=transcript:jg14455
-Scaffold_4	WormBase_imported	CDS	1429973	1430257	.	+	2	ID=cds:jg14455;Parent=transcript:jg14455
-Scaffold_4	WormBase_imported	CDS	1430633	1430759	.	+	2	ID=cds:jg14455;Parent=transcript:jg14455
-Scaffold_4	WormBase_imported	CDS	1430864	1430881	.	+	1	ID=cds:jg14455;Parent=transcript:jg14455
-Scaffold_4	WormBase_imported	CDS	1430933	1430944	.	+	1	ID=cds:jg14455;Parent=transcript:jg14455
-Scaffold_4	WormBase_imported	CDS	1430985	1430987	.	+	1	ID=cds:jg14455;Parent=transcript:jg14455
-Scaffold_4	WormBase_imported	CDS	1431035	1431074	.	+	1	ID=cds:jg14455;Parent=transcript:jg14455
-Scaffold_501	WormBase_imported	gene	128792	129401	.	+	.	ID=gene:jg17613;Name=jg17613;biotype=protein_coding
-Scaffold_501	WormBase_imported	mRNA	128792	129401	.	+	.	ID=transcript:jg17613;Parent=gene:jg17613;Name=jg17613;info=method:InterPro accession:IPR018450 description:Romo1/Mgr2
-#microexons transcript:jg17613:  43 42-24-12 37 80 38
-Scaffold_501	WormBase_imported	exon	128792	128834	.	+	.	ID=exon:jg17613.1;Parent=transcript:jg17613
-Scaffold_501	WormBase_imported	exon	128896	128937	.	+	.	ID=exon:jg17613.2;Parent=transcript:jg17613
-Scaffold_501	WormBase_imported	exon	128999	129022	.	+	.	ID=exon:jg17613.3;Parent=transcript:jg17613
-Scaffold_501	WormBase_imported	exon	129082	129093	.	+	.	ID=exon:jg17613.4;Parent=transcript:jg17613
-Scaffold_501	WormBase_imported	exon	129147	129183	.	+	.	ID=exon:jg17613.5;Parent=transcript:jg17613
-Scaffold_501	WormBase_imported	exon	129234	129313	.	+	.	ID=exon:jg17613.6;Parent=transcript:jg17613
-Scaffold_501	WormBase_imported	exon	129364	129401	.	+	.	ID=exon:jg17613.7;Parent=transcript:jg17613
-Scaffold_501	WormBase_imported	CDS	128792	128834	.	+	0	ID=cds:jg17613;Parent=transcript:jg17613
-Scaffold_501	WormBase_imported	CDS	128896	128937	.	+	2	ID=cds:jg17613;Parent=transcript:jg17613
-Scaffold_501	WormBase_imported	CDS	128999	129022	.	+	2	ID=cds:jg17613;Parent=transcript:jg17613
-Scaffold_501	WormBase_imported	CDS	129082	129093	.	+	2	ID=cds:jg17613;Parent=transcript:jg17613
-Scaffold_501	WormBase_imported	CDS	129147	129183	.	+	2	ID=cds:jg17613;Parent=transcript:jg17613
-Scaffold_501	WormBase_imported	CDS	129234	129313	.	+	1	ID=cds:jg17613;Parent=transcript:jg17613
-Scaffold_501	WormBase_imported	CDS	129364	129401	.	+	2	ID=cds:jg17613;Parent=transcript:jg17613
-Scaffold_501	WormBase_imported	gene	200283	204052	.	-	.	ID=gene:jg17626;Name=jg17626;biotype=protein_coding
-Scaffold_501	WormBase_imported	mRNA	200283	204052	.	-	.	ID=transcript:jg17626;Parent=gene:jg17626;Name=jg17626;info=method:InterPro accession:IPR004821 description:Cytidyltransferase-like domain %0Amethod:InterPro accession:IPR014729 description:Rossmann-like alpha/beta/alpha sandwich fold
-#microexons transcript:jg17626:  131 79 13 30-120 23 42-24-6-27-33-201-15 31 107 144
-Scaffold_501	WormBase_imported	exon	203922	204052	.	-	.	ID=exon:jg17626.1;Parent=transcript:jg17626
-Scaffold_501	WormBase_imported	exon	203794	203872	.	-	.	ID=exon:jg17626.2;Parent=transcript:jg17626
-Scaffold_501	WormBase_imported	exon	203731	203743	.	-	.	ID=exon:jg17626.3;Parent=transcript:jg17626
-Scaffold_501	WormBase_imported	exon	203646	203675	.	-	.	ID=exon:jg17626.4;Parent=transcript:jg17626
-Scaffold_501	WormBase_imported	exon	203479	203598	.	-	.	ID=exon:jg17626.5;Parent=transcript:jg17626
-Scaffold_501	WormBase_imported	exon	203398	203420	.	-	.	ID=exon:jg17626.6;Parent=transcript:jg17626
-Scaffold_501	WormBase_imported	exon	203301	203342	.	-	.	ID=exon:jg17626.7;Parent=transcript:jg17626
-Scaffold_501	WormBase_imported	exon	203227	203250	.	-	.	ID=exon:jg17626.8;Parent=transcript:jg17626
-Scaffold_501	WormBase_imported	exon	203161	203166	.	-	.	ID=exon:jg17626.9;Parent=transcript:jg17626
-Scaffold_501	WormBase_imported	exon	201132	201158	.	-	.	ID=exon:jg17626.10;Parent=transcript:jg17626
-Scaffold_501	WormBase_imported	exon	201045	201077	.	-	.	ID=exon:jg17626.11;Parent=transcript:jg17626
-Scaffold_501	WormBase_imported	exon	200790	200990	.	-	.	ID=exon:jg17626.12;Parent=transcript:jg17626
-Scaffold_501	WormBase_imported	exon	200725	200739	.	-	.	ID=exon:jg17626.13;Parent=transcript:jg17626
-Scaffold_501	WormBase_imported	exon	200642	200672	.	-	.	ID=exon:jg17626.14;Parent=transcript:jg17626
-Scaffold_501	WormBase_imported	exon	200484	200590	.	-	.	ID=exon:jg17626.15;Parent=transcript:jg17626
-Scaffold_501	WormBase_imported	exon	200283	200426	.	-	.	ID=exon:jg17626.16;Parent=transcript:jg17626
-Scaffold_501	WormBase_imported	CDS	203922	204052	.	-	0	ID=cds:jg17626;Parent=transcript:jg17626
-Scaffold_501	WormBase_imported	CDS	203794	203872	.	-	1	ID=cds:jg17626;Parent=transcript:jg17626
-Scaffold_501	WormBase_imported	CDS	203731	203743	.	-	0	ID=cds:jg17626;Parent=transcript:jg17626
-Scaffold_501	WormBase_imported	CDS	203646	203675	.	-	2	ID=cds:jg17626;Parent=transcript:jg17626
-Scaffold_501	WormBase_imported	CDS	203479	203598	.	-	2	ID=cds:jg17626;Parent=transcript:jg17626
-Scaffold_501	WormBase_imported	CDS	203398	203420	.	-	2	ID=cds:jg17626;Parent=transcript:jg17626
-Scaffold_501	WormBase_imported	CDS	203301	203342	.	-	0	ID=cds:jg17626;Parent=transcript:jg17626
-Scaffold_501	WormBase_imported	CDS	203227	203250	.	-	0	ID=cds:jg17626;Parent=transcript:jg17626
-Scaffold_501	WormBase_imported	CDS	203161	203166	.	-	0	ID=cds:jg17626;Parent=transcript:jg17626
-Scaffold_501	WormBase_imported	CDS	201132	201158	.	-	0	ID=cds:jg17626;Parent=transcript:jg17626
-Scaffold_501	WormBase_imported	CDS	201045	201077	.	-	0	ID=cds:jg17626;Parent=transcript:jg17626
-Scaffold_501	WormBase_imported	CDS	200790	200990	.	-	0	ID=cds:jg17626;Parent=transcript:jg17626
-Scaffold_501	WormBase_imported	CDS	200725	200739	.	-	0	ID=cds:jg17626;Parent=transcript:jg17626
-Scaffold_501	WormBase_imported	CDS	200642	200672	.	-	0	ID=cds:jg17626;Parent=transcript:jg17626
-Scaffold_501	WormBase_imported	CDS	200484	200590	.	-	2	ID=cds:jg17626;Parent=transcript:jg17626
-Scaffold_501	WormBase_imported	CDS	200283	200426	.	-	0	ID=cds:jg17626;Parent=transcript:jg17626
 Scaffold_870	WormBase_imported	gene	253966	257095	.	-	.	ID=gene:jg10248;Name=jg10248;biotype=protein_coding
 Scaffold_870	WormBase_imported	mRNA	253966	257095	.	-	.	ID=transcript:jg10248;Parent=gene:jg10248;Name=jg10248
 #microexons transcript:jg10248:  49 45-48-12-45 125 78
@@ -84,6 +15,25 @@ Scaffold_870	WormBase_imported	CDS	255203	255214	.	-	2	ID=cds:jg10248;Parent=tra
 Scaffold_870	WormBase_imported	CDS	254716	254760	.	-	2	ID=cds:jg10248;Parent=transcript:jg10248
 Scaffold_870	WormBase_imported	CDS	254542	254666	.	-	2	ID=cds:jg10248;Parent=transcript:jg10248
 Scaffold_870	WormBase_imported	CDS	253966	254043	.	-	0	ID=cds:jg10248;Parent=transcript:jg10248
+Scaffold_1378	WormBase_imported	gene	540018	543012	.	+	.	ID=gene:jg25904;Name=jg25904;biotype=protein_coding
+Scaffold_1378	WormBase_imported	mRNA	540018	543012	.	+	.	ID=transcript:jg25904;Parent=gene:jg25904;Name=jg25904
+#microexons transcript:jg25904:  160 18-48-39-21-144 200 162
+Scaffold_1378	WormBase_imported	exon	540018	540177	.	+	.	ID=exon:jg25904.1;Parent=transcript:jg25904
+Scaffold_1378	WormBase_imported	exon	540318	540335	.	+	.	ID=exon:jg25904.2;Parent=transcript:jg25904
+Scaffold_1378	WormBase_imported	exon	540394	540441	.	+	.	ID=exon:jg25904.3;Parent=transcript:jg25904
+Scaffold_1378	WormBase_imported	exon	542163	542201	.	+	.	ID=exon:jg25904.4;Parent=transcript:jg25904
+Scaffold_1378	WormBase_imported	exon	542255	542275	.	+	.	ID=exon:jg25904.5;Parent=transcript:jg25904
+Scaffold_1378	WormBase_imported	exon	542324	542467	.	+	.	ID=exon:jg25904.6;Parent=transcript:jg25904
+Scaffold_1378	WormBase_imported	exon	542562	542761	.	+	.	ID=exon:jg25904.7;Parent=transcript:jg25904
+Scaffold_1378	WormBase_imported	exon	542851	543012	.	+	.	ID=exon:jg25904.8;Parent=transcript:jg25904
+Scaffold_1378	WormBase_imported	CDS	540018	540177	.	+	0	ID=cds:jg25904;Parent=transcript:jg25904
+Scaffold_1378	WormBase_imported	CDS	540318	540335	.	+	2	ID=cds:jg25904;Parent=transcript:jg25904
+Scaffold_1378	WormBase_imported	CDS	540394	540441	.	+	2	ID=cds:jg25904;Parent=transcript:jg25904
+Scaffold_1378	WormBase_imported	CDS	542163	542201	.	+	2	ID=cds:jg25904;Parent=transcript:jg25904
+Scaffold_1378	WormBase_imported	CDS	542255	542275	.	+	2	ID=cds:jg25904;Parent=transcript:jg25904
+Scaffold_1378	WormBase_imported	CDS	542324	542467	.	+	2	ID=cds:jg25904;Parent=transcript:jg25904
+Scaffold_1378	WormBase_imported	CDS	542562	542761	.	+	2	ID=cds:jg25904;Parent=transcript:jg25904
+Scaffold_1378	WormBase_imported	CDS	542851	543012	.	+	0	ID=cds:jg25904;Parent=transcript:jg25904
 Scaffold_881	WormBase_imported	gene	519894	522629	.	-	.	ID=gene:jg10872;Name=jg10872;biotype=protein_coding
 Scaffold_881	WormBase_imported	mRNA	519894	522629	.	-	.	ID=transcript:jg10872;Parent=gene:jg10872;Name=jg10872;info=method:InterPro accession:IPR002544 description:FMRFamide-related peptide-like
 #microexons transcript:jg10872:  128 42-42-42-42-42-42-42 13
@@ -143,23 +93,6 @@ Scaffold_899	WormBase_imported	CDS	570476	570514	.	-	0	ID=cds:jg7382;Parent=tran
 Scaffold_899	WormBase_imported	CDS	570412	570426	.	-	0	ID=cds:jg7382;Parent=transcript:jg7382
 Scaffold_899	WormBase_imported	CDS	570339	570362	.	-	0	ID=cds:jg7382;Parent=transcript:jg7382
 Scaffold_899	WormBase_imported	CDS	570092	570121	.	-	0	ID=cds:jg7382;Parent=transcript:jg7382
-Scaffold_515	WormBase_imported	gene	503807	504657	.	-	.	ID=gene:jg7846;Name=jg7846;biotype=protein_coding
-Scaffold_515	WormBase_imported	mRNA	503807	504657	.	-	.	ID=transcript:jg7846;Parent=gene:jg7846;Name=jg7846;info=method:InterPro accession:IPR024166 description:Ribosomal RNA assembly KRR1 %0Amethod:InterPro accession:IPR036612 description:K Homology domain%2C type 1 superfamily %0Amethod:InterPro accession:IPR041174 description:Krr1%2C KH1 domain
-#microexons transcript:jg7846:  112 8 85 125 15-3-30
-Scaffold_515	WormBase_imported	exon	504546	504657	.	-	.	ID=exon:jg7846.1;Parent=transcript:jg7846
-Scaffold_515	WormBase_imported	exon	504485	504492	.	-	.	ID=exon:jg7846.2;Parent=transcript:jg7846
-Scaffold_515	WormBase_imported	exon	504359	504443	.	-	.	ID=exon:jg7846.3;Parent=transcript:jg7846
-Scaffold_515	WormBase_imported	exon	504181	504305	.	-	.	ID=exon:jg7846.4;Parent=transcript:jg7846
-Scaffold_515	WormBase_imported	exon	503956	503970	.	-	.	ID=exon:jg7846.5;Parent=transcript:jg7846
-Scaffold_515	WormBase_imported	exon	503889	503891	.	-	.	ID=exon:jg7846.6;Parent=transcript:jg7846
-Scaffold_515	WormBase_imported	exon	503807	503836	.	-	.	ID=exon:jg7846.7;Parent=transcript:jg7846
-Scaffold_515	WormBase_imported	CDS	504546	504657	.	-	0	ID=cds:jg7846;Parent=transcript:jg7846
-Scaffold_515	WormBase_imported	CDS	504485	504492	.	-	2	ID=cds:jg7846;Parent=transcript:jg7846
-Scaffold_515	WormBase_imported	CDS	504359	504443	.	-	0	ID=cds:jg7846;Parent=transcript:jg7846
-Scaffold_515	WormBase_imported	CDS	504181	504305	.	-	2	ID=cds:jg7846;Parent=transcript:jg7846
-Scaffold_515	WormBase_imported	CDS	503956	503970	.	-	0	ID=cds:jg7846;Parent=transcript:jg7846
-Scaffold_515	WormBase_imported	CDS	503889	503891	.	-	0	ID=cds:jg7846;Parent=transcript:jg7846
-Scaffold_515	WormBase_imported	CDS	503807	503836	.	-	0	ID=cds:jg7846;Parent=transcript:jg7846
 Scaffold_900	WormBase_imported	gene	164180	168486	.	-	.	ID=gene:jg13816;Name=jg13816;biotype=protein_coding
 Scaffold_900	WormBase_imported	mRNA	164180	168486	.	-	.	ID=transcript:jg13816.1;Parent=gene:jg13816;Name=jg13816.1;info=method:InterPro accession:IPR002156 description:Ribonuclease H domain %0Amethod:InterPro accession:IPR012337 description:Ribonuclease H-like superfamily %0Amethod:InterPro accession:IPR036397 description:Ribonuclease H superfamily
 #microexons transcript:jg13816.1:  64 48-27-48-27-36-42-60-27-54-54 176 119 87-54 85 135-129
@@ -237,56 +170,48 @@ Scaffold_900	WormBase_imported	CDS	165567	165620	.	-	1	ID=cds:jg13816.2;Parent=t
 Scaffold_900	WormBase_imported	CDS	165441	165525	.	-	1	ID=cds:jg13816.2;Parent=transcript:jg13816.2
 Scaffold_900	WormBase_imported	CDS	164367	164501	.	-	0	ID=cds:jg13816.2;Parent=transcript:jg13816.2
 Scaffold_900	WormBase_imported	CDS	164180	164308	.	-	0	ID=cds:jg13816.2;Parent=transcript:jg13816.2
-Scaffold_935	WormBase_imported	gene	255103	271073	.	+	.	ID=gene:jg16332;Name=jg16332;biotype=protein_coding
-Scaffold_935	WormBase_imported	mRNA	255103	271073	.	+	.	ID=transcript:jg16332;Parent=gene:jg16332;Name=jg16332;info=method:InterPro accession:IPR007829 description:TM2 domain
-#microexons transcript:jg16332:  179 26 13 80 21-39-42 38
-Scaffold_935	WormBase_imported	exon	255103	255281	.	+	.	ID=exon:jg16332.1;Parent=transcript:jg16332
-Scaffold_935	WormBase_imported	exon	256880	256905	.	+	.	ID=exon:jg16332.2;Parent=transcript:jg16332
-Scaffold_935	WormBase_imported	exon	256994	257006	.	+	.	ID=exon:jg16332.3;Parent=transcript:jg16332
-Scaffold_935	WormBase_imported	exon	265592	265671	.	+	.	ID=exon:jg16332.4;Parent=transcript:jg16332
-Scaffold_935	WormBase_imported	exon	265718	265738	.	+	.	ID=exon:jg16332.5;Parent=transcript:jg16332
-Scaffold_935	WormBase_imported	exon	266124	266162	.	+	.	ID=exon:jg16332.6;Parent=transcript:jg16332
-Scaffold_935	WormBase_imported	exon	266213	266254	.	+	.	ID=exon:jg16332.7;Parent=transcript:jg16332
-Scaffold_935	WormBase_imported	exon	271036	271073	.	+	.	ID=exon:jg16332.8;Parent=transcript:jg16332
-Scaffold_935	WormBase_imported	CDS	255103	255281	.	+	0	ID=cds:jg16332;Parent=transcript:jg16332
-Scaffold_935	WormBase_imported	CDS	256880	256905	.	+	1	ID=cds:jg16332;Parent=transcript:jg16332
-Scaffold_935	WormBase_imported	CDS	256994	257006	.	+	2	ID=cds:jg16332;Parent=transcript:jg16332
-Scaffold_935	WormBase_imported	CDS	265592	265671	.	+	1	ID=cds:jg16332;Parent=transcript:jg16332
-Scaffold_935	WormBase_imported	CDS	265718	265738	.	+	2	ID=cds:jg16332;Parent=transcript:jg16332
-Scaffold_935	WormBase_imported	CDS	266124	266162	.	+	2	ID=cds:jg16332;Parent=transcript:jg16332
-Scaffold_935	WormBase_imported	CDS	266213	266254	.	+	2	ID=cds:jg16332;Parent=transcript:jg16332
-Scaffold_935	WormBase_imported	CDS	271036	271073	.	+	2	ID=cds:jg16332;Parent=transcript:jg16332
-Scaffold_974	WormBase_imported	gene	10373	11081	.	-	.	ID=gene:jg19877;Name=jg19877;biotype=protein_coding
-Scaffold_974	WormBase_imported	mRNA	10373	11081	.	-	.	ID=transcript:jg19877.1;Parent=gene:jg19877;Name=jg19877.1;info=method:InterPro accession:IPR002164 description:Nucleosome assembly protein (NAP) %0Amethod:InterPro accession:IPR037231 description:NAP-like superfamily
-#microexons transcript:jg19877.1:  75 94 72 20 120-48
-Scaffold_974	WormBase_imported	mRNA	10373	11081	.	-	.	ID=transcript:jg19877.2;Parent=gene:jg19877;Name=jg19877.2;info=method:InterPro accession:IPR002164 description:Nucleosome assembly protein (NAP) %0Amethod:InterPro accession:IPR037231 description:NAP-like superfamily
-#microexons transcript:jg19877.2:  75 94 72 20 45-39-48
-Scaffold_974	WormBase_imported	exon	11007	11081	.	-	.	ID=exon:jg19877.1.1;Parent=transcript:jg19877.1
-Scaffold_974	WormBase_imported	exon	10863	10956	.	-	.	ID=exon:jg19877.1.2;Parent=transcript:jg19877.1
-Scaffold_974	WormBase_imported	exon	10740	10811	.	-	.	ID=exon:jg19877.1.3;Parent=transcript:jg19877.1
-Scaffold_974	WormBase_imported	exon	10674	10693	.	-	.	ID=exon:jg19877.1.4;Parent=transcript:jg19877.1
-Scaffold_974	WormBase_imported	exon	10494	10613	.	-	.	ID=exon:jg19877.1.5;Parent=transcript:jg19877.1
-Scaffold_974	WormBase_imported	exon	10373	10420	.	-	.	ID=exon:jg19877.1.6;Parent=transcript:jg19877.1
-Scaffold_974	WormBase_imported	exon	11007	11081	.	-	.	ID=exon:jg19877.2.1;Parent=transcript:jg19877.2
-Scaffold_974	WormBase_imported	exon	10863	10956	.	-	.	ID=exon:jg19877.2.2;Parent=transcript:jg19877.2
-Scaffold_974	WormBase_imported	exon	10740	10811	.	-	.	ID=exon:jg19877.2.3;Parent=transcript:jg19877.2
-Scaffold_974	WormBase_imported	exon	10674	10693	.	-	.	ID=exon:jg19877.2.4;Parent=transcript:jg19877.2
-Scaffold_974	WormBase_imported	exon	10569	10613	.	-	.	ID=exon:jg19877.2.5;Parent=transcript:jg19877.2
-Scaffold_974	WormBase_imported	exon	10477	10515	.	-	.	ID=exon:jg19877.2.6;Parent=transcript:jg19877.2
-Scaffold_974	WormBase_imported	exon	10373	10420	.	-	.	ID=exon:jg19877.2.7;Parent=transcript:jg19877.2
-Scaffold_974	WormBase_imported	CDS	11007	11081	.	-	0	ID=cds:jg19877.1;Parent=transcript:jg19877.1
-Scaffold_974	WormBase_imported	CDS	10863	10956	.	-	0	ID=cds:jg19877.1;Parent=transcript:jg19877.1
-Scaffold_974	WormBase_imported	CDS	10740	10811	.	-	2	ID=cds:jg19877.1;Parent=transcript:jg19877.1
-Scaffold_974	WormBase_imported	CDS	10674	10693	.	-	2	ID=cds:jg19877.1;Parent=transcript:jg19877.1
-Scaffold_974	WormBase_imported	CDS	10494	10613	.	-	0	ID=cds:jg19877.1;Parent=transcript:jg19877.1
-Scaffold_974	WormBase_imported	CDS	10373	10420	.	-	0	ID=cds:jg19877.1;Parent=transcript:jg19877.1
-Scaffold_974	WormBase_imported	CDS	11007	11081	.	-	0	ID=cds:jg19877.2;Parent=transcript:jg19877.2
-Scaffold_974	WormBase_imported	CDS	10863	10956	.	-	0	ID=cds:jg19877.2;Parent=transcript:jg19877.2
-Scaffold_974	WormBase_imported	CDS	10740	10811	.	-	2	ID=cds:jg19877.2;Parent=transcript:jg19877.2
-Scaffold_974	WormBase_imported	CDS	10674	10693	.	-	2	ID=cds:jg19877.2;Parent=transcript:jg19877.2
-Scaffold_974	WormBase_imported	CDS	10569	10613	.	-	0	ID=cds:jg19877.2;Parent=transcript:jg19877.2
-Scaffold_974	WormBase_imported	CDS	10477	10515	.	-	0	ID=cds:jg19877.2;Parent=transcript:jg19877.2
-Scaffold_974	WormBase_imported	CDS	10373	10420	.	-	0	ID=cds:jg19877.2;Parent=transcript:jg19877.2
+Scaffold_915	WormBase_imported	gene	174896	177558	.	+	.	ID=gene:jg5751;Name=jg5751;biotype=protein_coding
+Scaffold_915	WormBase_imported	mRNA	174896	177558	.	+	.	ID=transcript:jg5751;Parent=gene:jg5751;Name=jg5751
+#microexons transcript:jg5751:  160 18-48-39-21-144-255 161
+Scaffold_915	WormBase_imported	exon	174896	175055	.	+	.	ID=exon:jg5751.1;Parent=transcript:jg5751
+Scaffold_915	WormBase_imported	exon	175196	175213	.	+	.	ID=exon:jg5751.2;Parent=transcript:jg5751
+Scaffold_915	WormBase_imported	exon	175271	175318	.	+	.	ID=exon:jg5751.3;Parent=transcript:jg5751
+Scaffold_915	WormBase_imported	exon	176700	176738	.	+	.	ID=exon:jg5751.4;Parent=transcript:jg5751
+Scaffold_915	WormBase_imported	exon	176792	176812	.	+	.	ID=exon:jg5751.5;Parent=transcript:jg5751
+Scaffold_915	WormBase_imported	exon	176861	177004	.	+	.	ID=exon:jg5751.6;Parent=transcript:jg5751
+Scaffold_915	WormBase_imported	exon	177100	177354	.	+	.	ID=exon:jg5751.7;Parent=transcript:jg5751
+Scaffold_915	WormBase_imported	exon	177398	177558	.	+	.	ID=exon:jg5751.8;Parent=transcript:jg5751
+Scaffold_915	WormBase_imported	CDS	174896	175055	.	+	0	ID=cds:jg5751;Parent=transcript:jg5751
+Scaffold_915	WormBase_imported	CDS	175196	175213	.	+	2	ID=cds:jg5751;Parent=transcript:jg5751
+Scaffold_915	WormBase_imported	CDS	175271	175318	.	+	2	ID=cds:jg5751;Parent=transcript:jg5751
+Scaffold_915	WormBase_imported	CDS	176700	176738	.	+	2	ID=cds:jg5751;Parent=transcript:jg5751
+Scaffold_915	WormBase_imported	CDS	176792	176812	.	+	2	ID=cds:jg5751;Parent=transcript:jg5751
+Scaffold_915	WormBase_imported	CDS	176861	177004	.	+	2	ID=cds:jg5751;Parent=transcript:jg5751
+Scaffold_915	WormBase_imported	CDS	177100	177354	.	+	2	ID=cds:jg5751;Parent=transcript:jg5751
+Scaffold_915	WormBase_imported	CDS	177398	177558	.	+	2	ID=cds:jg5751;Parent=transcript:jg5751
+Scaffold_269	WormBase_imported	gene	54462	56447	.	+	.	ID=gene:jg2525;Name=jg2525;biotype=protein_coding
+Scaffold_269	WormBase_imported	mRNA	54462	56447	.	+	.	ID=transcript:jg2525;Parent=gene:jg2525;Name=jg2525;info=method:InterPro accession:IPR013947 description:Mediator complex%2C subunit Med14
+#microexons transcript:jg2525:  143 261-57-18-54-3 49 42 181 23
+Scaffold_269	WormBase_imported	exon	54462	54604	.	+	.	ID=exon:jg2525.1;Parent=transcript:jg2525
+Scaffold_269	WormBase_imported	exon	54652	54912	.	+	.	ID=exon:jg2525.2;Parent=transcript:jg2525
+Scaffold_269	WormBase_imported	exon	54966	55022	.	+	.	ID=exon:jg2525.3;Parent=transcript:jg2525
+Scaffold_269	WormBase_imported	exon	55066	55083	.	+	.	ID=exon:jg2525.4;Parent=transcript:jg2525
+Scaffold_269	WormBase_imported	exon	55139	55192	.	+	.	ID=exon:jg2525.5;Parent=transcript:jg2525
+Scaffold_269	WormBase_imported	exon	55766	55768	.	+	.	ID=exon:jg2525.6;Parent=transcript:jg2525
+Scaffold_269	WormBase_imported	exon	55839	55887	.	+	.	ID=exon:jg2525.7;Parent=transcript:jg2525
+Scaffold_269	WormBase_imported	exon	55944	55985	.	+	.	ID=exon:jg2525.8;Parent=transcript:jg2525
+Scaffold_269	WormBase_imported	exon	56198	56378	.	+	.	ID=exon:jg2525.9;Parent=transcript:jg2525
+Scaffold_269	WormBase_imported	exon	56425	56447	.	+	.	ID=exon:jg2525.10;Parent=transcript:jg2525
+Scaffold_269	WormBase_imported	CDS	54462	54604	.	+	0	ID=cds:jg2525;Parent=transcript:jg2525
+Scaffold_269	WormBase_imported	CDS	54652	54912	.	+	1	ID=cds:jg2525;Parent=transcript:jg2525
+Scaffold_269	WormBase_imported	CDS	54966	55022	.	+	1	ID=cds:jg2525;Parent=transcript:jg2525
+Scaffold_269	WormBase_imported	CDS	55066	55083	.	+	1	ID=cds:jg2525;Parent=transcript:jg2525
+Scaffold_269	WormBase_imported	CDS	55139	55192	.	+	1	ID=cds:jg2525;Parent=transcript:jg2525
+Scaffold_269	WormBase_imported	CDS	55766	55768	.	+	1	ID=cds:jg2525;Parent=transcript:jg2525
+Scaffold_269	WormBase_imported	CDS	55839	55887	.	+	1	ID=cds:jg2525;Parent=transcript:jg2525
+Scaffold_269	WormBase_imported	CDS	55944	55985	.	+	0	ID=cds:jg2525;Parent=transcript:jg2525
+Scaffold_269	WormBase_imported	CDS	56198	56378	.	+	0	ID=cds:jg2525;Parent=transcript:jg2525
+Scaffold_269	WormBase_imported	CDS	56425	56447	.	+	2	ID=cds:jg2525;Parent=transcript:jg2525
 Scaffold_38	WormBase_imported	gene	232246	237187	.	+	.	ID=gene:jg13388;Name=jg13388;biotype=protein_coding
 Scaffold_38	WormBase_imported	mRNA	232246	237187	.	+	.	ID=transcript:jg13388;Parent=gene:jg13388;Name=jg13388
 #microexons transcript:jg13388:  36-48-51-51-42-39-48-51-63-12 80 167 20
@@ -349,64 +274,63 @@ Scaffold_982	WormBase_imported	CDS	157565	157626	.	+	2	ID=cds:jg17482;Parent=tra
 Scaffold_982	WormBase_imported	CDS	157676	157726	.	+	0	ID=cds:jg17482;Parent=transcript:jg17482
 Scaffold_982	WormBase_imported	CDS	157802	157825	.	+	0	ID=cds:jg17482;Parent=transcript:jg17482
 Scaffold_982	WormBase_imported	CDS	157876	157968	.	+	0	ID=cds:jg17482;Parent=transcript:jg17482
-Scaffold_982	WormBase_imported	gene	200305	205281	.	+	.	ID=gene:jg17487;Name=jg17487;biotype=protein_coding
-Scaffold_982	WormBase_imported	mRNA	200305	205281	.	+	.	ID=transcript:jg17487;Parent=gene:jg17487;Name=jg17487;info=method:InterPro accession:IPR013780 description:Glycosyl hydrolase%2C all-beta
-#microexons transcript:jg17487:  41 53 204 22 46 24-45-21-24
-Scaffold_982	WormBase_imported	exon	200305	200345	.	+	.	ID=exon:jg17487.1;Parent=transcript:jg17487
-Scaffold_982	WormBase_imported	exon	204433	204485	.	+	.	ID=exon:jg17487.2;Parent=transcript:jg17487
-Scaffold_982	WormBase_imported	exon	204536	204739	.	+	.	ID=exon:jg17487.3;Parent=transcript:jg17487
-Scaffold_982	WormBase_imported	exon	204792	204813	.	+	.	ID=exon:jg17487.4;Parent=transcript:jg17487
-Scaffold_982	WormBase_imported	exon	204912	204957	.	+	.	ID=exon:jg17487.5;Parent=transcript:jg17487
-Scaffold_982	WormBase_imported	exon	205011	205034	.	+	.	ID=exon:jg17487.6;Parent=transcript:jg17487
-Scaffold_982	WormBase_imported	exon	205088	205132	.	+	.	ID=exon:jg17487.7;Parent=transcript:jg17487
-Scaffold_982	WormBase_imported	exon	205178	205198	.	+	.	ID=exon:jg17487.8;Parent=transcript:jg17487
-Scaffold_982	WormBase_imported	exon	205258	205281	.	+	.	ID=exon:jg17487.9;Parent=transcript:jg17487
-Scaffold_982	WormBase_imported	CDS	200305	200345	.	+	0	ID=cds:jg17487;Parent=transcript:jg17487
-Scaffold_982	WormBase_imported	CDS	204433	204485	.	+	1	ID=cds:jg17487;Parent=transcript:jg17487
-Scaffold_982	WormBase_imported	CDS	204536	204739	.	+	2	ID=cds:jg17487;Parent=transcript:jg17487
-Scaffold_982	WormBase_imported	CDS	204792	204813	.	+	2	ID=cds:jg17487;Parent=transcript:jg17487
-Scaffold_982	WormBase_imported	CDS	204912	204957	.	+	1	ID=cds:jg17487;Parent=transcript:jg17487
-Scaffold_982	WormBase_imported	CDS	205011	205034	.	+	0	ID=cds:jg17487;Parent=transcript:jg17487
-Scaffold_982	WormBase_imported	CDS	205088	205132	.	+	0	ID=cds:jg17487;Parent=transcript:jg17487
-Scaffold_982	WormBase_imported	CDS	205178	205198	.	+	0	ID=cds:jg17487;Parent=transcript:jg17487
-Scaffold_982	WormBase_imported	CDS	205258	205281	.	+	0	ID=cds:jg17487;Parent=transcript:jg17487
-Scaffold_1075	WormBase_imported	gene	222394	228378	.	+	.	ID=gene:jg25731;Name=jg25731;biotype=protein_coding
-Scaffold_1075	WormBase_imported	mRNA	222394	228378	.	+	.	ID=transcript:jg25731.1;Parent=gene:jg25731;Name=jg25731.1
-#microexons transcript:jg25731.1:  34 57-48-33-30 70 44 53 183
-Scaffold_1075	WormBase_imported	mRNA	222394	228378	.	+	.	ID=transcript:jg25731.2;Parent=gene:jg25731;Name=jg25731.2
-#microexons transcript:jg25731.2:  34 57-48-33-153 53 183
-Scaffold_1075	WormBase_imported	exon	222394	222427	.	+	.	ID=exon:jg25731.1.1;Parent=transcript:jg25731.1
-Scaffold_1075	WormBase_imported	exon	222489	222545	.	+	.	ID=exon:jg25731.1.2;Parent=transcript:jg25731.1
-Scaffold_1075	WormBase_imported	exon	222603	222650	.	+	.	ID=exon:jg25731.1.3;Parent=transcript:jg25731.1
-Scaffold_1075	WormBase_imported	exon	222810	222842	.	+	.	ID=exon:jg25731.1.4;Parent=transcript:jg25731.1
-Scaffold_1075	WormBase_imported	exon	226002	226031	.	+	.	ID=exon:jg25731.1.5;Parent=transcript:jg25731.1
-Scaffold_1075	WormBase_imported	exon	226085	226154	.	+	.	ID=exon:jg25731.1.6;Parent=transcript:jg25731.1
-Scaffold_1075	WormBase_imported	exon	226203	226246	.	+	.	ID=exon:jg25731.1.7;Parent=transcript:jg25731.1
-Scaffold_1075	WormBase_imported	exon	226293	226345	.	+	.	ID=exon:jg25731.1.8;Parent=transcript:jg25731.1
-Scaffold_1075	WormBase_imported	exon	228196	228378	.	+	.	ID=exon:jg25731.1.9;Parent=transcript:jg25731.1
-Scaffold_1075	WormBase_imported	exon	222394	222427	.	+	.	ID=exon:jg25731.2.1;Parent=transcript:jg25731.2
-Scaffold_1075	WormBase_imported	exon	222489	222545	.	+	.	ID=exon:jg25731.2.2;Parent=transcript:jg25731.2
-Scaffold_1075	WormBase_imported	exon	222603	222650	.	+	.	ID=exon:jg25731.2.3;Parent=transcript:jg25731.2
-Scaffold_1075	WormBase_imported	exon	222810	222842	.	+	.	ID=exon:jg25731.2.4;Parent=transcript:jg25731.2
-Scaffold_1075	WormBase_imported	exon	226002	226154	.	+	.	ID=exon:jg25731.2.5;Parent=transcript:jg25731.2
-Scaffold_1075	WormBase_imported	exon	226293	226345	.	+	.	ID=exon:jg25731.2.6;Parent=transcript:jg25731.2
-Scaffold_1075	WormBase_imported	exon	228196	228378	.	+	.	ID=exon:jg25731.2.7;Parent=transcript:jg25731.2
-Scaffold_1075	WormBase_imported	CDS	222394	222427	.	+	0	ID=cds:jg25731.1;Parent=transcript:jg25731.1
-Scaffold_1075	WormBase_imported	CDS	222489	222545	.	+	2	ID=cds:jg25731.1;Parent=transcript:jg25731.1
-Scaffold_1075	WormBase_imported	CDS	222603	222650	.	+	2	ID=cds:jg25731.1;Parent=transcript:jg25731.1
-Scaffold_1075	WormBase_imported	CDS	222810	222842	.	+	2	ID=cds:jg25731.1;Parent=transcript:jg25731.1
-Scaffold_1075	WormBase_imported	CDS	226002	226031	.	+	2	ID=cds:jg25731.1;Parent=transcript:jg25731.1
-Scaffold_1075	WormBase_imported	CDS	226085	226154	.	+	2	ID=cds:jg25731.1;Parent=transcript:jg25731.1
-Scaffold_1075	WormBase_imported	CDS	226203	226246	.	+	1	ID=cds:jg25731.1;Parent=transcript:jg25731.1
-Scaffold_1075	WormBase_imported	CDS	226293	226345	.	+	2	ID=cds:jg25731.1;Parent=transcript:jg25731.1
-Scaffold_1075	WormBase_imported	CDS	228196	228378	.	+	0	ID=cds:jg25731.1;Parent=transcript:jg25731.1
-Scaffold_1075	WormBase_imported	CDS	222394	222427	.	+	0	ID=cds:jg25731.2;Parent=transcript:jg25731.2
-Scaffold_1075	WormBase_imported	CDS	222489	222545	.	+	2	ID=cds:jg25731.2;Parent=transcript:jg25731.2
-Scaffold_1075	WormBase_imported	CDS	222603	222650	.	+	2	ID=cds:jg25731.2;Parent=transcript:jg25731.2
-Scaffold_1075	WormBase_imported	CDS	222810	222842	.	+	2	ID=cds:jg25731.2;Parent=transcript:jg25731.2
-Scaffold_1075	WormBase_imported	CDS	226002	226154	.	+	2	ID=cds:jg25731.2;Parent=transcript:jg25731.2
-Scaffold_1075	WormBase_imported	CDS	226293	226345	.	+	2	ID=cds:jg25731.2;Parent=transcript:jg25731.2
-Scaffold_1075	WormBase_imported	CDS	228196	228378	.	+	0	ID=cds:jg25731.2;Parent=transcript:jg25731.2
+Scaffold_1060	WormBase_imported	gene	58854	59744	.	+	.	ID=gene:jg3045;Name=jg3045;biotype=protein_coding
+Scaffold_1060	WormBase_imported	mRNA	58854	59744	.	+	.	ID=transcript:jg3045;Parent=gene:jg3045;Name=jg3045;info=method:InterPro accession:IPR002075 description:Nuclear transport factor 2 %0Amethod:InterPro accession:IPR018222 description:Nuclear transport factor 2%2C eukaryote %0Amethod:InterPro accession:IPR032710 description:NTF2-like domain superfamily
+#microexons transcript:jg3045:  58 56 21-9-57-42-114
+Scaffold_1060	WormBase_imported	exon	58854	58911	.	+	.	ID=exon:jg3045.1;Parent=transcript:jg3045
+Scaffold_1060	WormBase_imported	exon	58965	59020	.	+	.	ID=exon:jg3045.2;Parent=transcript:jg3045
+Scaffold_1060	WormBase_imported	exon	59107	59127	.	+	.	ID=exon:jg3045.3;Parent=transcript:jg3045
+Scaffold_1060	WormBase_imported	exon	59171	59179	.	+	.	ID=exon:jg3045.4;Parent=transcript:jg3045
+Scaffold_1060	WormBase_imported	exon	59433	59489	.	+	.	ID=exon:jg3045.5;Parent=transcript:jg3045
+Scaffold_1060	WormBase_imported	exon	59537	59578	.	+	.	ID=exon:jg3045.6;Parent=transcript:jg3045
+Scaffold_1060	WormBase_imported	exon	59631	59744	.	+	.	ID=exon:jg3045.7;Parent=transcript:jg3045
+Scaffold_1060	WormBase_imported	CDS	58854	58911	.	+	0	ID=cds:jg3045;Parent=transcript:jg3045
+Scaffold_1060	WormBase_imported	CDS	58965	59020	.	+	2	ID=cds:jg3045;Parent=transcript:jg3045
+Scaffold_1060	WormBase_imported	CDS	59107	59127	.	+	0	ID=cds:jg3045;Parent=transcript:jg3045
+Scaffold_1060	WormBase_imported	CDS	59171	59179	.	+	0	ID=cds:jg3045;Parent=transcript:jg3045
+Scaffold_1060	WormBase_imported	CDS	59433	59489	.	+	0	ID=cds:jg3045;Parent=transcript:jg3045
+Scaffold_1060	WormBase_imported	CDS	59537	59578	.	+	0	ID=cds:jg3045;Parent=transcript:jg3045
+Scaffold_1060	WormBase_imported	CDS	59631	59744	.	+	0	ID=cds:jg3045;Parent=transcript:jg3045
+Scaffold_631	WormBase_imported	gene	274658	276276	.	-	.	ID=gene:jg7729;Name=jg7729;biotype=protein_coding
+Scaffold_631	WormBase_imported	mRNA	274658	276276	.	-	.	ID=transcript:jg7729;Parent=gene:jg7729;Name=jg7729;info=method:InterPro accession:IPR000209 description:Peptidase S8/S53 domain %0Amethod:InterPro accession:IPR023827 description:Peptidase S8%2C subtilisin%2C  Asp-active site %0Amethod:InterPro accession:IPR036852 description:Peptidase S8/S53 domain superfamily
+#microexons transcript:jg7729:  8 115 24-24-48-3-120-45-63
+Scaffold_631	WormBase_imported	exon	276269	276276	.	-	.	ID=exon:jg7729.1;Parent=transcript:jg7729
+Scaffold_631	WormBase_imported	exon	275383	275497	.	-	.	ID=exon:jg7729.2;Parent=transcript:jg7729
+Scaffold_631	WormBase_imported	exon	275315	275338	.	-	.	ID=exon:jg7729.3;Parent=transcript:jg7729
+Scaffold_631	WormBase_imported	exon	275203	275226	.	-	.	ID=exon:jg7729.4;Parent=transcript:jg7729
+Scaffold_631	WormBase_imported	exon	275098	275145	.	-	.	ID=exon:jg7729.5;Parent=transcript:jg7729
+Scaffold_631	WormBase_imported	exon	275021	275023	.	-	.	ID=exon:jg7729.6;Parent=transcript:jg7729
+Scaffold_631	WormBase_imported	exon	274857	274976	.	-	.	ID=exon:jg7729.7;Parent=transcript:jg7729
+Scaffold_631	WormBase_imported	exon	274764	274808	.	-	.	ID=exon:jg7729.8;Parent=transcript:jg7729
+Scaffold_631	WormBase_imported	exon	274658	274720	.	-	.	ID=exon:jg7729.9;Parent=transcript:jg7729
+Scaffold_631	WormBase_imported	CDS	276269	276276	.	-	0	ID=cds:jg7729;Parent=transcript:jg7729
+Scaffold_631	WormBase_imported	CDS	275383	275497	.	-	1	ID=cds:jg7729;Parent=transcript:jg7729
+Scaffold_631	WormBase_imported	CDS	275315	275338	.	-	0	ID=cds:jg7729;Parent=transcript:jg7729
+Scaffold_631	WormBase_imported	CDS	275203	275226	.	-	0	ID=cds:jg7729;Parent=transcript:jg7729
+Scaffold_631	WormBase_imported	CDS	275098	275145	.	-	0	ID=cds:jg7729;Parent=transcript:jg7729
+Scaffold_631	WormBase_imported	CDS	275021	275023	.	-	0	ID=cds:jg7729;Parent=transcript:jg7729
+Scaffold_631	WormBase_imported	CDS	274857	274976	.	-	0	ID=cds:jg7729;Parent=transcript:jg7729
+Scaffold_631	WormBase_imported	CDS	274764	274808	.	-	0	ID=cds:jg7729;Parent=transcript:jg7729
+Scaffold_631	WormBase_imported	CDS	274658	274720	.	-	0	ID=cds:jg7729;Parent=transcript:jg7729
+Scaffold_1038	WormBase_imported	gene	90682	94071	.	-	.	ID=gene:jg16358;Name=jg16358;biotype=protein_coding
+Scaffold_1038	WormBase_imported	mRNA	90682	94071	.	-	.	ID=transcript:jg16358;Parent=gene:jg16358;Name=jg16358;info=method:InterPro accession:IPR003598 description:Immunoglobulin subtype 2 %0Amethod:InterPro accession:IPR013783 description:Immunoglobulin-like fold %0Amethod:InterPro accession:IPR036179 description:Immunoglobulin-like domain superfamily
+#microexons transcript:jg16358:  60-45-36-45-18 37 72 41
+Scaffold_1038	WormBase_imported	exon	94012	94071	.	-	.	ID=exon:jg16358.1;Parent=transcript:jg16358
+Scaffold_1038	WormBase_imported	exon	93926	93970	.	-	.	ID=exon:jg16358.2;Parent=transcript:jg16358
+Scaffold_1038	WormBase_imported	exon	91903	91938	.	-	.	ID=exon:jg16358.3;Parent=transcript:jg16358
+Scaffold_1038	WormBase_imported	exon	91812	91856	.	-	.	ID=exon:jg16358.4;Parent=transcript:jg16358
+Scaffold_1038	WormBase_imported	exon	91745	91762	.	-	.	ID=exon:jg16358.5;Parent=transcript:jg16358
+Scaffold_1038	WormBase_imported	exon	91664	91700	.	-	.	ID=exon:jg16358.6;Parent=transcript:jg16358
+Scaffold_1038	WormBase_imported	exon	91545	91616	.	-	.	ID=exon:jg16358.7;Parent=transcript:jg16358
+Scaffold_1038	WormBase_imported	exon	90682	90722	.	-	.	ID=exon:jg16358.8;Parent=transcript:jg16358
+Scaffold_1038	WormBase_imported	CDS	94012	94071	.	-	0	ID=cds:jg16358;Parent=transcript:jg16358
+Scaffold_1038	WormBase_imported	CDS	93926	93970	.	-	0	ID=cds:jg16358;Parent=transcript:jg16358
+Scaffold_1038	WormBase_imported	CDS	91903	91938	.	-	0	ID=cds:jg16358;Parent=transcript:jg16358
+Scaffold_1038	WormBase_imported	CDS	91812	91856	.	-	0	ID=cds:jg16358;Parent=transcript:jg16358
+Scaffold_1038	WormBase_imported	CDS	91745	91762	.	-	0	ID=cds:jg16358;Parent=transcript:jg16358
+Scaffold_1038	WormBase_imported	CDS	91664	91700	.	-	0	ID=cds:jg16358;Parent=transcript:jg16358
+Scaffold_1038	WormBase_imported	CDS	91545	91616	.	-	2	ID=cds:jg16358;Parent=transcript:jg16358
+Scaffold_1038	WormBase_imported	CDS	90682	90722	.	-	2	ID=cds:jg16358;Parent=transcript:jg16358
 Scaffold_2048	WormBase_imported	gene	141249	143101	.	+	.	ID=gene:jg24642;Name=jg24642;biotype=protein_coding
 Scaffold_2048	WormBase_imported	mRNA	141249	143101	.	+	.	ID=transcript:jg24642.1;Parent=gene:jg24642;Name=jg24642.1
 #microexons transcript:jg24642.1:  180 202 54-207-54-36-54-51-36-27-54-36-54-30 41
@@ -472,6 +396,25 @@ Scaffold_2048	WormBase_imported	CDS	142779	142808	.	+	2	ID=cds:jg24642.2;Parent=
 Scaffold_2048	WormBase_imported	CDS	142867	142920	.	+	2	ID=cds:jg24642.2;Parent=transcript:jg24642.2
 Scaffold_2048	WormBase_imported	CDS	142968	142997	.	+	2	ID=cds:jg24642.2;Parent=transcript:jg24642.2
 Scaffold_2048	WormBase_imported	CDS	143061	143101	.	+	2	ID=cds:jg24642.2;Parent=transcript:jg24642.2
+Scaffold_1084	WormBase_imported	gene	50325	53824	.	-	.	ID=gene:jg9835;Name=jg9835;biotype=protein_coding
+Scaffold_1084	WormBase_imported	mRNA	50325	53824	.	-	.	ID=transcript:jg9835;Parent=gene:jg9835;Name=jg9835;info=method:InterPro accession:IPR006029 description:Neurotransmitter-gated ion-channel transmembrane domain %0Amethod:InterPro accession:IPR006201 description:Neurotransmitter-gated ion-channel %0Amethod:InterPro accession:IPR036719 description:Neurotransmitter-gated ion-channel transmembrane domain superfamily
+#microexons transcript:jg9835:  9-24-54-51-147 118 145 82
+Scaffold_1084	WormBase_imported	exon	53816	53824	.	-	.	ID=exon:jg9835.1;Parent=transcript:jg9835
+Scaffold_1084	WormBase_imported	exon	53743	53766	.	-	.	ID=exon:jg9835.2;Parent=transcript:jg9835
+Scaffold_1084	WormBase_imported	exon	53270	53323	.	-	.	ID=exon:jg9835.3;Parent=transcript:jg9835
+Scaffold_1084	WormBase_imported	exon	53170	53220	.	-	.	ID=exon:jg9835.4;Parent=transcript:jg9835
+Scaffold_1084	WormBase_imported	exon	52511	52657	.	-	.	ID=exon:jg9835.5;Parent=transcript:jg9835
+Scaffold_1084	WormBase_imported	exon	52211	52328	.	-	.	ID=exon:jg9835.6;Parent=transcript:jg9835
+Scaffold_1084	WormBase_imported	exon	50832	50976	.	-	.	ID=exon:jg9835.7;Parent=transcript:jg9835
+Scaffold_1084	WormBase_imported	exon	50325	50406	.	-	.	ID=exon:jg9835.8;Parent=transcript:jg9835
+Scaffold_1084	WormBase_imported	CDS	53816	53824	.	-	0	ID=cds:jg9835;Parent=transcript:jg9835
+Scaffold_1084	WormBase_imported	CDS	53743	53766	.	-	0	ID=cds:jg9835;Parent=transcript:jg9835
+Scaffold_1084	WormBase_imported	CDS	53270	53323	.	-	0	ID=cds:jg9835;Parent=transcript:jg9835
+Scaffold_1084	WormBase_imported	CDS	53170	53220	.	-	0	ID=cds:jg9835;Parent=transcript:jg9835
+Scaffold_1084	WormBase_imported	CDS	52511	52657	.	-	0	ID=cds:jg9835;Parent=transcript:jg9835
+Scaffold_1084	WormBase_imported	CDS	52211	52328	.	-	0	ID=cds:jg9835;Parent=transcript:jg9835
+Scaffold_1084	WormBase_imported	CDS	50832	50976	.	-	2	ID=cds:jg9835;Parent=transcript:jg9835
+Scaffold_1084	WormBase_imported	CDS	50325	50406	.	-	1	ID=cds:jg9835;Parent=transcript:jg9835
 Scaffold_1051	WormBase_imported	gene	130755	132076	.	-	.	ID=gene:jg21157;Name=jg21157;biotype=protein_coding
 Scaffold_1051	WormBase_imported	mRNA	130755	131987	.	-	.	ID=transcript:jg21157.1;Parent=gene:jg21157;Name=jg21157.1
 #microexons transcript:jg21157.1:  36-51-48-51-48-51-48-51-39-51-48-24-93
@@ -576,25 +519,31 @@ Scaffold_26	WormBase_imported	CDS	112383	112394	.	+	1	ID=cds:jg19451;Parent=tran
 Scaffold_26	WormBase_imported	CDS	112440	112484	.	+	1	ID=cds:jg19451;Parent=transcript:jg19451
 Scaffold_26	WormBase_imported	CDS	112540	112578	.	+	1	ID=cds:jg19451;Parent=transcript:jg19451
 Scaffold_26	WormBase_imported	CDS	112628	112730	.	+	1	ID=cds:jg19451;Parent=transcript:jg19451
-Scaffold_2059	WormBase_imported	gene	53311	54456	.	+	.	ID=gene:jg15687;Name=jg15687;biotype=protein_coding
-Scaffold_2059	WormBase_imported	mRNA	53311	54456	.	+	.	ID=transcript:jg15687;Parent=gene:jg15687;Name=jg15687;info=method:InterPro accession:IPR004911 description:Gamma interferon inducible lysosomal thiol reductase GILT
-#microexons transcript:jg15687:  156 136 30-15-24 172 53 143
-Scaffold_2059	WormBase_imported	exon	53311	53466	.	+	.	ID=exon:jg15687.1;Parent=transcript:jg15687
-Scaffold_2059	WormBase_imported	exon	53532	53667	.	+	.	ID=exon:jg15687.2;Parent=transcript:jg15687
-Scaffold_2059	WormBase_imported	exon	53733	53762	.	+	.	ID=exon:jg15687.3;Parent=transcript:jg15687
-Scaffold_2059	WormBase_imported	exon	53819	53833	.	+	.	ID=exon:jg15687.4;Parent=transcript:jg15687
-Scaffold_2059	WormBase_imported	exon	53899	53922	.	+	.	ID=exon:jg15687.5;Parent=transcript:jg15687
-Scaffold_2059	WormBase_imported	exon	53992	54163	.	+	.	ID=exon:jg15687.6;Parent=transcript:jg15687
-Scaffold_2059	WormBase_imported	exon	54215	54267	.	+	.	ID=exon:jg15687.7;Parent=transcript:jg15687
-Scaffold_2059	WormBase_imported	exon	54314	54456	.	+	.	ID=exon:jg15687.8;Parent=transcript:jg15687
-Scaffold_2059	WormBase_imported	CDS	53311	53466	.	+	0	ID=cds:jg15687;Parent=transcript:jg15687
-Scaffold_2059	WormBase_imported	CDS	53532	53667	.	+	0	ID=cds:jg15687;Parent=transcript:jg15687
-Scaffold_2059	WormBase_imported	CDS	53733	53762	.	+	2	ID=cds:jg15687;Parent=transcript:jg15687
-Scaffold_2059	WormBase_imported	CDS	53819	53833	.	+	2	ID=cds:jg15687;Parent=transcript:jg15687
-Scaffold_2059	WormBase_imported	CDS	53899	53922	.	+	2	ID=cds:jg15687;Parent=transcript:jg15687
-Scaffold_2059	WormBase_imported	CDS	53992	54163	.	+	2	ID=cds:jg15687;Parent=transcript:jg15687
-Scaffold_2059	WormBase_imported	CDS	54215	54267	.	+	1	ID=cds:jg15687;Parent=transcript:jg15687
-Scaffold_2059	WormBase_imported	CDS	54314	54456	.	+	2	ID=cds:jg15687;Parent=transcript:jg15687
+Scaffold_1494	WormBase_imported	gene	3120	14277	.	+	.	ID=gene:jg14631;Name=jg14631;biotype=protein_coding
+Scaffold_1494	WormBase_imported	mRNA	3120	14277	.	+	.	ID=transcript:jg14631;Parent=gene:jg14631;Name=jg14631
+#microexons transcript:jg14631:  24-48-48 17 43 39-51-39-24-63-249
+Scaffold_1494	WormBase_imported	exon	3120	3143	.	+	.	ID=exon:jg14631.1;Parent=transcript:jg14631
+Scaffold_1494	WormBase_imported	exon	3197	3244	.	+	.	ID=exon:jg14631.2;Parent=transcript:jg14631
+Scaffold_1494	WormBase_imported	exon	3331	3378	.	+	.	ID=exon:jg14631.3;Parent=transcript:jg14631
+Scaffold_1494	WormBase_imported	exon	3424	3440	.	+	.	ID=exon:jg14631.4;Parent=transcript:jg14631
+Scaffold_1494	WormBase_imported	exon	3497	3539	.	+	.	ID=exon:jg14631.5;Parent=transcript:jg14631
+Scaffold_1494	WormBase_imported	exon	3593	3631	.	+	.	ID=exon:jg14631.6;Parent=transcript:jg14631
+Scaffold_1494	WormBase_imported	exon	3679	3729	.	+	.	ID=exon:jg14631.7;Parent=transcript:jg14631
+Scaffold_1494	WormBase_imported	exon	3954	3992	.	+	.	ID=exon:jg14631.8;Parent=transcript:jg14631
+Scaffold_1494	WormBase_imported	exon	4038	4061	.	+	.	ID=exon:jg14631.9;Parent=transcript:jg14631
+Scaffold_1494	WormBase_imported	exon	4111	4173	.	+	.	ID=exon:jg14631.10;Parent=transcript:jg14631
+Scaffold_1494	WormBase_imported	exon	14029	14277	.	+	.	ID=exon:jg14631.11;Parent=transcript:jg14631
+Scaffold_1494	WormBase_imported	CDS	3120	3143	.	+	0	ID=cds:jg14631;Parent=transcript:jg14631
+Scaffold_1494	WormBase_imported	CDS	3197	3244	.	+	0	ID=cds:jg14631;Parent=transcript:jg14631
+Scaffold_1494	WormBase_imported	CDS	3331	3378	.	+	0	ID=cds:jg14631;Parent=transcript:jg14631
+Scaffold_1494	WormBase_imported	CDS	3424	3440	.	+	0	ID=cds:jg14631;Parent=transcript:jg14631
+Scaffold_1494	WormBase_imported	CDS	3497	3539	.	+	1	ID=cds:jg14631;Parent=transcript:jg14631
+Scaffold_1494	WormBase_imported	CDS	3593	3631	.	+	0	ID=cds:jg14631;Parent=transcript:jg14631
+Scaffold_1494	WormBase_imported	CDS	3679	3729	.	+	0	ID=cds:jg14631;Parent=transcript:jg14631
+Scaffold_1494	WormBase_imported	CDS	3954	3992	.	+	0	ID=cds:jg14631;Parent=transcript:jg14631
+Scaffold_1494	WormBase_imported	CDS	4038	4061	.	+	0	ID=cds:jg14631;Parent=transcript:jg14631
+Scaffold_1494	WormBase_imported	CDS	4111	4173	.	+	0	ID=cds:jg14631;Parent=transcript:jg14631
+Scaffold_1494	WormBase_imported	CDS	14029	14277	.	+	0	ID=cds:jg14631;Parent=transcript:jg14631
 Scaffold_1665	WormBase_imported	gene	106630	115397	.	+	.	ID=gene:jg19765;Name=jg19765;biotype=protein_coding
 Scaffold_1665	WormBase_imported	mRNA	106630	115397	.	+	.	ID=transcript:jg19765;Parent=gene:jg19765;Name=jg19765
 #microexons transcript:jg19765:  17 137 36-18-36-57-105-39 116
@@ -641,78 +590,44 @@ Scaffold_1520	WormBase_imported	CDS	17094	17132	.	-	2	ID=cds:jg735;Parent=transc
 Scaffold_1520	WormBase_imported	CDS	15785	15835	.	-	2	ID=cds:jg735;Parent=transcript:jg735
 Scaffold_1520	WormBase_imported	CDS	13593	13606	.	-	2	ID=cds:jg735;Parent=transcript:jg735
 Scaffold_1520	WormBase_imported	CDS	13231	13539	.	-	0	ID=cds:jg735;Parent=transcript:jg735
-Scaffold_1466	WormBase_imported	gene	15170	21237	.	+	.	ID=gene:jg2727;Name=jg2727;biotype=protein_coding
-Scaffold_1466	WormBase_imported	mRNA	15170	21237	.	+	.	ID=transcript:jg2727;Parent=gene:jg2727;Name=jg2727;info=method:InterPro accession:IPR026508 description:Transmembrane protein 164
-#microexons transcript:jg2727:  45 305 71 41 24-51-45
-Scaffold_1466	WormBase_imported	exon	15170	15214	.	+	.	ID=exon:jg2727.1;Parent=transcript:jg2727
-Scaffold_1466	WormBase_imported	exon	17503	17807	.	+	.	ID=exon:jg2727.2;Parent=transcript:jg2727
-Scaffold_1466	WormBase_imported	exon	18070	18140	.	+	.	ID=exon:jg2727.3;Parent=transcript:jg2727
-Scaffold_1466	WormBase_imported	exon	18179	18219	.	+	.	ID=exon:jg2727.4;Parent=transcript:jg2727
-Scaffold_1466	WormBase_imported	exon	21013	21036	.	+	.	ID=exon:jg2727.5;Parent=transcript:jg2727
-Scaffold_1466	WormBase_imported	exon	21090	21140	.	+	.	ID=exon:jg2727.6;Parent=transcript:jg2727
-Scaffold_1466	WormBase_imported	exon	21193	21237	.	+	.	ID=exon:jg2727.7;Parent=transcript:jg2727
-Scaffold_1466	WormBase_imported	CDS	15170	15214	.	+	0	ID=cds:jg2727;Parent=transcript:jg2727
-Scaffold_1466	WormBase_imported	CDS	17503	17807	.	+	0	ID=cds:jg2727;Parent=transcript:jg2727
-Scaffold_1466	WormBase_imported	CDS	18070	18140	.	+	1	ID=cds:jg2727;Parent=transcript:jg2727
-Scaffold_1466	WormBase_imported	CDS	18179	18219	.	+	2	ID=cds:jg2727;Parent=transcript:jg2727
-Scaffold_1466	WormBase_imported	CDS	21013	21036	.	+	0	ID=cds:jg2727;Parent=transcript:jg2727
-Scaffold_1466	WormBase_imported	CDS	21090	21140	.	+	0	ID=cds:jg2727;Parent=transcript:jg2727
-Scaffold_1466	WormBase_imported	CDS	21193	21237	.	+	0	ID=cds:jg2727;Parent=transcript:jg2727
-Scaffold_2097	WormBase_imported	gene	49497	50783	.	+	.	ID=gene:jg8270;Name=jg8270;biotype=protein_coding
-Scaffold_2097	WormBase_imported	mRNA	49497	50783	.	+	.	ID=transcript:jg8270.1;Parent=gene:jg8270;Name=jg8270.1
-#microexons transcript:jg8270.1:  4 61 13 70 33 196 246 136
-Scaffold_2097	WormBase_imported	mRNA	49504	50783	.	+	.	ID=transcript:jg8270.2;Parent=gene:jg8270;Name=jg8270.2
-#microexons transcript:jg8270.2:  18-6-24 70 33 196 246 136
-Scaffold_2097	WormBase_imported	mRNA	49520	50783	.	+	.	ID=transcript:jg8270.3;Parent=gene:jg8270;Name=jg8270.3
-#microexons transcript:jg8270.3:  23 111 13 70 33 196 246 136
-Scaffold_2097	WormBase_imported	exon	49497	49500	.	+	.	ID=exon:jg8270.1.1;Parent=transcript:jg8270.1
-Scaffold_2097	WormBase_imported	exon	49681	49741	.	+	.	ID=exon:jg8270.1.2;Parent=transcript:jg8270.1
-Scaffold_2097	WormBase_imported	exon	49780	49792	.	+	.	ID=exon:jg8270.1.3;Parent=transcript:jg8270.1
-Scaffold_2097	WormBase_imported	exon	49837	49906	.	+	.	ID=exon:jg8270.1.4;Parent=transcript:jg8270.1
-Scaffold_2097	WormBase_imported	exon	49956	49988	.	+	.	ID=exon:jg8270.1.5;Parent=transcript:jg8270.1
-Scaffold_2097	WormBase_imported	exon	50030	50225	.	+	.	ID=exon:jg8270.1.6;Parent=transcript:jg8270.1
-Scaffold_2097	WormBase_imported	exon	50360	50605	.	+	.	ID=exon:jg8270.1.7;Parent=transcript:jg8270.1
-Scaffold_2097	WormBase_imported	exon	50648	50783	.	+	.	ID=exon:jg8270.1.8;Parent=transcript:jg8270.1
-Scaffold_2097	WormBase_imported	exon	49504	49521	.	+	.	ID=exon:jg8270.2.1;Parent=transcript:jg8270.2
-Scaffold_2097	WormBase_imported	exon	49571	49576	.	+	.	ID=exon:jg8270.2.2;Parent=transcript:jg8270.2
-Scaffold_2097	WormBase_imported	exon	49769	49792	.	+	.	ID=exon:jg8270.2.3;Parent=transcript:jg8270.2
-Scaffold_2097	WormBase_imported	exon	49837	49906	.	+	.	ID=exon:jg8270.2.4;Parent=transcript:jg8270.2
-Scaffold_2097	WormBase_imported	exon	49956	49988	.	+	.	ID=exon:jg8270.2.5;Parent=transcript:jg8270.2
-Scaffold_2097	WormBase_imported	exon	50030	50225	.	+	.	ID=exon:jg8270.2.6;Parent=transcript:jg8270.2
-Scaffold_2097	WormBase_imported	exon	50360	50605	.	+	.	ID=exon:jg8270.2.7;Parent=transcript:jg8270.2
-Scaffold_2097	WormBase_imported	exon	50648	50783	.	+	.	ID=exon:jg8270.2.8;Parent=transcript:jg8270.2
-Scaffold_2097	WormBase_imported	exon	49520	49542	.	+	.	ID=exon:jg8270.3.1;Parent=transcript:jg8270.3
-Scaffold_2097	WormBase_imported	exon	49587	49697	.	+	.	ID=exon:jg8270.3.2;Parent=transcript:jg8270.3
-Scaffold_2097	WormBase_imported	exon	49780	49792	.	+	.	ID=exon:jg8270.3.3;Parent=transcript:jg8270.3
-Scaffold_2097	WormBase_imported	exon	49837	49906	.	+	.	ID=exon:jg8270.3.4;Parent=transcript:jg8270.3
-Scaffold_2097	WormBase_imported	exon	49956	49988	.	+	.	ID=exon:jg8270.3.5;Parent=transcript:jg8270.3
-Scaffold_2097	WormBase_imported	exon	50030	50225	.	+	.	ID=exon:jg8270.3.6;Parent=transcript:jg8270.3
-Scaffold_2097	WormBase_imported	exon	50360	50605	.	+	.	ID=exon:jg8270.3.7;Parent=transcript:jg8270.3
-Scaffold_2097	WormBase_imported	exon	50648	50783	.	+	.	ID=exon:jg8270.3.8;Parent=transcript:jg8270.3
-Scaffold_2097	WormBase_imported	CDS	49497	49500	.	+	0	ID=cds:jg8270.1;Parent=transcript:jg8270.1
-Scaffold_2097	WormBase_imported	CDS	49681	49741	.	+	2	ID=cds:jg8270.1;Parent=transcript:jg8270.1
-Scaffold_2097	WormBase_imported	CDS	49780	49792	.	+	1	ID=cds:jg8270.1;Parent=transcript:jg8270.1
-Scaffold_2097	WormBase_imported	CDS	49837	49906	.	+	0	ID=cds:jg8270.1;Parent=transcript:jg8270.1
-Scaffold_2097	WormBase_imported	CDS	49956	49988	.	+	2	ID=cds:jg8270.1;Parent=transcript:jg8270.1
-Scaffold_2097	WormBase_imported	CDS	50030	50225	.	+	2	ID=cds:jg8270.1;Parent=transcript:jg8270.1
-Scaffold_2097	WormBase_imported	CDS	50360	50605	.	+	1	ID=cds:jg8270.1;Parent=transcript:jg8270.1
-Scaffold_2097	WormBase_imported	CDS	50648	50783	.	+	1	ID=cds:jg8270.1;Parent=transcript:jg8270.1
-Scaffold_2097	WormBase_imported	CDS	49504	49521	.	+	0	ID=cds:jg8270.2;Parent=transcript:jg8270.2
-Scaffold_2097	WormBase_imported	CDS	49571	49576	.	+	0	ID=cds:jg8270.2;Parent=transcript:jg8270.2
-Scaffold_2097	WormBase_imported	CDS	49769	49792	.	+	0	ID=cds:jg8270.2;Parent=transcript:jg8270.2
-Scaffold_2097	WormBase_imported	CDS	49837	49906	.	+	0	ID=cds:jg8270.2;Parent=transcript:jg8270.2
-Scaffold_2097	WormBase_imported	CDS	49956	49988	.	+	2	ID=cds:jg8270.2;Parent=transcript:jg8270.2
-Scaffold_2097	WormBase_imported	CDS	50030	50225	.	+	2	ID=cds:jg8270.2;Parent=transcript:jg8270.2
-Scaffold_2097	WormBase_imported	CDS	50360	50605	.	+	1	ID=cds:jg8270.2;Parent=transcript:jg8270.2
-Scaffold_2097	WormBase_imported	CDS	50648	50783	.	+	1	ID=cds:jg8270.2;Parent=transcript:jg8270.2
-Scaffold_2097	WormBase_imported	CDS	49520	49542	.	+	0	ID=cds:jg8270.3;Parent=transcript:jg8270.3
-Scaffold_2097	WormBase_imported	CDS	49587	49697	.	+	1	ID=cds:jg8270.3;Parent=transcript:jg8270.3
-Scaffold_2097	WormBase_imported	CDS	49780	49792	.	+	1	ID=cds:jg8270.3;Parent=transcript:jg8270.3
-Scaffold_2097	WormBase_imported	CDS	49837	49906	.	+	0	ID=cds:jg8270.3;Parent=transcript:jg8270.3
-Scaffold_2097	WormBase_imported	CDS	49956	49988	.	+	2	ID=cds:jg8270.3;Parent=transcript:jg8270.3
-Scaffold_2097	WormBase_imported	CDS	50030	50225	.	+	2	ID=cds:jg8270.3;Parent=transcript:jg8270.3
-Scaffold_2097	WormBase_imported	CDS	50360	50605	.	+	1	ID=cds:jg8270.3;Parent=transcript:jg8270.3
-Scaffold_2097	WormBase_imported	CDS	50648	50783	.	+	1	ID=cds:jg8270.3;Parent=transcript:jg8270.3
+Scaffold_323	WormBase_imported	gene	55482	56629	.	+	.	ID=gene:jg21770;Name=jg21770;biotype=protein_coding
+Scaffold_323	WormBase_imported	mRNA	55482	56629	.	+	.	ID=transcript:jg21770;Parent=gene:jg21770;Name=jg21770
+#microexons transcript:jg21770:  150-54-33-57-57-57-120-252
+Scaffold_323	WormBase_imported	exon	55482	55631	.	+	.	ID=exon:jg21770.1;Parent=transcript:jg21770
+Scaffold_323	WormBase_imported	exon	55681	55734	.	+	.	ID=exon:jg21770.2;Parent=transcript:jg21770
+Scaffold_323	WormBase_imported	exon	55789	55821	.	+	.	ID=exon:jg21770.3;Parent=transcript:jg21770
+Scaffold_323	WormBase_imported	exon	55876	55932	.	+	.	ID=exon:jg21770.4;Parent=transcript:jg21770
+Scaffold_323	WormBase_imported	exon	55988	56044	.	+	.	ID=exon:jg21770.5;Parent=transcript:jg21770
+Scaffold_323	WormBase_imported	exon	56098	56154	.	+	.	ID=exon:jg21770.6;Parent=transcript:jg21770
+Scaffold_323	WormBase_imported	exon	56201	56320	.	+	.	ID=exon:jg21770.7;Parent=transcript:jg21770
+Scaffold_323	WormBase_imported	exon	56378	56629	.	+	.	ID=exon:jg21770.8;Parent=transcript:jg21770
+Scaffold_323	WormBase_imported	CDS	55482	55631	.	+	0	ID=cds:jg21770;Parent=transcript:jg21770
+Scaffold_323	WormBase_imported	CDS	55681	55734	.	+	0	ID=cds:jg21770;Parent=transcript:jg21770
+Scaffold_323	WormBase_imported	CDS	55789	55821	.	+	0	ID=cds:jg21770;Parent=transcript:jg21770
+Scaffold_323	WormBase_imported	CDS	55876	55932	.	+	0	ID=cds:jg21770;Parent=transcript:jg21770
+Scaffold_323	WormBase_imported	CDS	55988	56044	.	+	0	ID=cds:jg21770;Parent=transcript:jg21770
+Scaffold_323	WormBase_imported	CDS	56098	56154	.	+	0	ID=cds:jg21770;Parent=transcript:jg21770
+Scaffold_323	WormBase_imported	CDS	56201	56320	.	+	0	ID=cds:jg21770;Parent=transcript:jg21770
+Scaffold_323	WormBase_imported	CDS	56378	56629	.	+	0	ID=cds:jg21770;Parent=transcript:jg21770
+Scaffold_1991	WormBase_imported	gene	8123	9138	.	-	.	ID=gene:jg853;Name=jg853;biotype=protein_coding
+Scaffold_1991	WormBase_imported	mRNA	8123	9138	.	-	.	ID=transcript:jg853;Parent=gene:jg853;Name=jg853
+#microexons transcript:jg853:  158 49 72-57-57-57-36-159
+Scaffold_1991	WormBase_imported	exon	8981	9138	.	-	.	ID=exon:jg853.1;Parent=transcript:jg853
+Scaffold_1991	WormBase_imported	exon	8878	8926	.	-	.	ID=exon:jg853.2;Parent=transcript:jg853
+Scaffold_1991	WormBase_imported	exon	8760	8831	.	-	.	ID=exon:jg853.3;Parent=transcript:jg853
+Scaffold_1991	WormBase_imported	exon	8649	8705	.	-	.	ID=exon:jg853.4;Parent=transcript:jg853
+Scaffold_1991	WormBase_imported	exon	8539	8595	.	-	.	ID=exon:jg853.5;Parent=transcript:jg853
+Scaffold_1991	WormBase_imported	exon	8428	8484	.	-	.	ID=exon:jg853.6;Parent=transcript:jg853
+Scaffold_1991	WormBase_imported	exon	8339	8374	.	-	.	ID=exon:jg853.7;Parent=transcript:jg853
+Scaffold_1991	WormBase_imported	exon	8123	8281	.	-	.	ID=exon:jg853.8;Parent=transcript:jg853
+Scaffold_1991	WormBase_imported	CDS	8981	9138	.	-	0	ID=cds:jg853;Parent=transcript:jg853
+Scaffold_1991	WormBase_imported	CDS	8878	8926	.	-	1	ID=cds:jg853;Parent=transcript:jg853
+Scaffold_1991	WormBase_imported	CDS	8760	8831	.	-	0	ID=cds:jg853;Parent=transcript:jg853
+Scaffold_1991	WormBase_imported	CDS	8649	8705	.	-	0	ID=cds:jg853;Parent=transcript:jg853
+Scaffold_1991	WormBase_imported	CDS	8539	8595	.	-	0	ID=cds:jg853;Parent=transcript:jg853
+Scaffold_1991	WormBase_imported	CDS	8428	8484	.	-	0	ID=cds:jg853;Parent=transcript:jg853
+Scaffold_1991	WormBase_imported	CDS	8339	8374	.	-	0	ID=cds:jg853;Parent=transcript:jg853
+Scaffold_1991	WormBase_imported	CDS	8123	8281	.	-	0	ID=cds:jg853;Parent=transcript:jg853
 Scaffold_1991	WormBase_imported	gene	63016	65206	.	-	.	ID=gene:jg857;Name=jg857;biotype=protein_coding
 Scaffold_1991	WormBase_imported	mRNA	63016	65206	.	-	.	ID=transcript:jg857;Parent=gene:jg857;Name=jg857
 #microexons transcript:jg857:  4 83 57-57-57-57-57-36 158 52 201
@@ -738,6 +653,44 @@ Scaffold_1991	WormBase_imported	CDS	63643	63678	.	-	0	ID=cds:jg857;Parent=transc
 Scaffold_1991	WormBase_imported	CDS	63434	63591	.	-	0	ID=cds:jg857;Parent=transcript:jg857
 Scaffold_1991	WormBase_imported	CDS	63269	63320	.	-	1	ID=cds:jg857;Parent=transcript:jg857
 Scaffold_1991	WormBase_imported	CDS	63016	63216	.	-	0	ID=cds:jg857;Parent=transcript:jg857
+Scaffold_1590	WormBase_imported	gene	26552	27503	.	+	.	ID=gene:jg22676;Name=jg22676;biotype=protein_coding
+Scaffold_1590	WormBase_imported	mRNA	26552	27503	.	+	.	ID=transcript:jg22676;Parent=gene:jg22676;Name=jg22676
+#microexons transcript:jg22676:  60-207-45-33-57-57-57-51
+Scaffold_1590	WormBase_imported	exon	26552	26611	.	+	.	ID=exon:jg22676.1;Parent=transcript:jg22676
+Scaffold_1590	WormBase_imported	exon	26676	26882	.	+	.	ID=exon:jg22676.2;Parent=transcript:jg22676
+Scaffold_1590	WormBase_imported	exon	26932	26976	.	+	.	ID=exon:jg22676.3;Parent=transcript:jg22676
+Scaffold_1590	WormBase_imported	exon	27039	27071	.	+	.	ID=exon:jg22676.4;Parent=transcript:jg22676
+Scaffold_1590	WormBase_imported	exon	27126	27182	.	+	.	ID=exon:jg22676.5;Parent=transcript:jg22676
+Scaffold_1590	WormBase_imported	exon	27238	27294	.	+	.	ID=exon:jg22676.6;Parent=transcript:jg22676
+Scaffold_1590	WormBase_imported	exon	27348	27404	.	+	.	ID=exon:jg22676.7;Parent=transcript:jg22676
+Scaffold_1590	WormBase_imported	exon	27453	27503	.	+	.	ID=exon:jg22676.8;Parent=transcript:jg22676
+Scaffold_1590	WormBase_imported	CDS	26552	26611	.	+	0	ID=cds:jg22676;Parent=transcript:jg22676
+Scaffold_1590	WormBase_imported	CDS	26676	26882	.	+	0	ID=cds:jg22676;Parent=transcript:jg22676
+Scaffold_1590	WormBase_imported	CDS	26932	26976	.	+	0	ID=cds:jg22676;Parent=transcript:jg22676
+Scaffold_1590	WormBase_imported	CDS	27039	27071	.	+	0	ID=cds:jg22676;Parent=transcript:jg22676
+Scaffold_1590	WormBase_imported	CDS	27126	27182	.	+	0	ID=cds:jg22676;Parent=transcript:jg22676
+Scaffold_1590	WormBase_imported	CDS	27238	27294	.	+	0	ID=cds:jg22676;Parent=transcript:jg22676
+Scaffold_1590	WormBase_imported	CDS	27348	27404	.	+	0	ID=cds:jg22676;Parent=transcript:jg22676
+Scaffold_1590	WormBase_imported	CDS	27453	27503	.	+	0	ID=cds:jg22676;Parent=transcript:jg22676
+Scaffold_1590	WormBase_imported	gene	38522	39616	.	+	.	ID=gene:jg22678;Name=jg22678;biotype=protein_coding
+Scaffold_1590	WormBase_imported	mRNA	38522	39616	.	+	.	ID=transcript:jg22678;Parent=gene:jg22678;Name=jg22678
+#microexons transcript:jg22678:  180-54-33-57-57-57-120-168
+Scaffold_1590	WormBase_imported	exon	38522	38701	.	+	.	ID=exon:jg22678.1;Parent=transcript:jg22678
+Scaffold_1590	WormBase_imported	exon	38751	38804	.	+	.	ID=exon:jg22678.2;Parent=transcript:jg22678
+Scaffold_1590	WormBase_imported	exon	38859	38891	.	+	.	ID=exon:jg22678.3;Parent=transcript:jg22678
+Scaffold_1590	WormBase_imported	exon	38946	39002	.	+	.	ID=exon:jg22678.4;Parent=transcript:jg22678
+Scaffold_1590	WormBase_imported	exon	39058	39114	.	+	.	ID=exon:jg22678.5;Parent=transcript:jg22678
+Scaffold_1590	WormBase_imported	exon	39168	39224	.	+	.	ID=exon:jg22678.6;Parent=transcript:jg22678
+Scaffold_1590	WormBase_imported	exon	39272	39391	.	+	.	ID=exon:jg22678.7;Parent=transcript:jg22678
+Scaffold_1590	WormBase_imported	exon	39449	39616	.	+	.	ID=exon:jg22678.8;Parent=transcript:jg22678
+Scaffold_1590	WormBase_imported	CDS	38522	38701	.	+	0	ID=cds:jg22678;Parent=transcript:jg22678
+Scaffold_1590	WormBase_imported	CDS	38751	38804	.	+	0	ID=cds:jg22678;Parent=transcript:jg22678
+Scaffold_1590	WormBase_imported	CDS	38859	38891	.	+	0	ID=cds:jg22678;Parent=transcript:jg22678
+Scaffold_1590	WormBase_imported	CDS	38946	39002	.	+	0	ID=cds:jg22678;Parent=transcript:jg22678
+Scaffold_1590	WormBase_imported	CDS	39058	39114	.	+	0	ID=cds:jg22678;Parent=transcript:jg22678
+Scaffold_1590	WormBase_imported	CDS	39168	39224	.	+	0	ID=cds:jg22678;Parent=transcript:jg22678
+Scaffold_1590	WormBase_imported	CDS	39272	39391	.	+	0	ID=cds:jg22678;Parent=transcript:jg22678
+Scaffold_1590	WormBase_imported	CDS	39449	39616	.	+	0	ID=cds:jg22678;Parent=transcript:jg22678
 Scaffold_1791	WormBase_imported	gene	8660	10401	.	-	.	ID=gene:jg7901;Name=jg7901;biotype=protein_coding
 Scaffold_1791	WormBase_imported	mRNA	8660	10401	.	-	.	ID=transcript:jg7901;Parent=gene:jg7901;Name=jg7901
 #microexons transcript:jg7901:  16 54-54-54-54-54 50

@@ -38,25 +38,6 @@ OESDENDFT_Contig1245	WormBase_imported	CDS	26829	26867	.	+	0	ID=cds:OESDEN_05929
 OESDENDFT_Contig1245	WormBase_imported	CDS	27533	27577	.	+	0	ID=cds:OESDEN_05929;Parent=transcript:OESDEN_05929
 OESDENDFT_Contig1245	WormBase_imported	CDS	31197	31241	.	+	0	ID=cds:OESDEN_05929;Parent=transcript:OESDEN_05929
 OESDENDFT_Contig1245	WormBase_imported	CDS	31498	31536	.	+	0	ID=cds:OESDEN_05929;Parent=transcript:OESDEN_05929
-OESDENDFT_Contig1514	WormBase_imported	gene	21838	25117	.	+	.	ID=gene:OESDEN_06534;Name=OESDEN_06534;biotype=protein_coding
-OESDENDFT_Contig1514	WormBase_imported	mRNA	21838	25117	.	+	.	ID=transcript:OESDEN_06534;Parent=gene:OESDEN_06534;Name=OESDEN_06534
-#microexons transcript:OESDEN_06534:  49 51-42-48 98 154 161 129
-OESDENDFT_Contig1514	WormBase_imported	exon	21838	21886	.	+	.	ID=exon:OESDEN_06534.1;Parent=transcript:OESDEN_06534
-OESDENDFT_Contig1514	WormBase_imported	exon	21998	22048	.	+	.	ID=exon:OESDEN_06534.2;Parent=transcript:OESDEN_06534
-OESDENDFT_Contig1514	WormBase_imported	exon	22167	22208	.	+	.	ID=exon:OESDEN_06534.3;Parent=transcript:OESDEN_06534
-OESDENDFT_Contig1514	WormBase_imported	exon	22334	22381	.	+	.	ID=exon:OESDEN_06534.4;Parent=transcript:OESDEN_06534
-OESDENDFT_Contig1514	WormBase_imported	exon	22540	22637	.	+	.	ID=exon:OESDEN_06534.5;Parent=transcript:OESDEN_06534
-OESDENDFT_Contig1514	WormBase_imported	exon	24558	24711	.	+	.	ID=exon:OESDEN_06534.6;Parent=transcript:OESDEN_06534
-OESDENDFT_Contig1514	WormBase_imported	exon	24770	24930	.	+	.	ID=exon:OESDEN_06534.7;Parent=transcript:OESDEN_06534
-OESDENDFT_Contig1514	WormBase_imported	exon	24989	25117	.	+	.	ID=exon:OESDEN_06534.8;Parent=transcript:OESDEN_06534
-OESDENDFT_Contig1514	WormBase_imported	CDS	21838	21886	.	+	0	ID=cds:OESDEN_06534;Parent=transcript:OESDEN_06534
-OESDENDFT_Contig1514	WormBase_imported	CDS	21998	22048	.	+	2	ID=cds:OESDEN_06534;Parent=transcript:OESDEN_06534
-OESDENDFT_Contig1514	WormBase_imported	CDS	22167	22208	.	+	2	ID=cds:OESDEN_06534;Parent=transcript:OESDEN_06534
-OESDENDFT_Contig1514	WormBase_imported	CDS	22334	22381	.	+	2	ID=cds:OESDEN_06534;Parent=transcript:OESDEN_06534
-OESDENDFT_Contig1514	WormBase_imported	CDS	22540	22637	.	+	2	ID=cds:OESDEN_06534;Parent=transcript:OESDEN_06534
-OESDENDFT_Contig1514	WormBase_imported	CDS	24558	24711	.	+	0	ID=cds:OESDEN_06534;Parent=transcript:OESDEN_06534
-OESDENDFT_Contig1514	WormBase_imported	CDS	24770	24930	.	+	2	ID=cds:OESDEN_06534;Parent=transcript:OESDEN_06534
-OESDENDFT_Contig1514	WormBase_imported	CDS	24989	25117	.	+	0	ID=cds:OESDEN_06534;Parent=transcript:OESDEN_06534
 OESDENDFT_Contig3395	WormBase_imported	gene	10162	13202	.	-	.	ID=gene:OESDEN_09296;Name=OESDEN_09296;biotype=protein_coding
 OESDENDFT_Contig3395	WormBase_imported	mRNA	10162	13202	.	-	.	ID=transcript:OESDEN_09296;Parent=gene:OESDEN_09296;Name=OESDEN_09296
 #microexons transcript:OESDEN_09296:  66-57-45-42-42-33 16 134 156
@@ -78,3 +59,26 @@ OESDENDFT_Contig3395	WormBase_imported	CDS	11070	11102	.	-	0	ID=cds:OESDEN_09296
 OESDENDFT_Contig3395	WormBase_imported	CDS	10996	11011	.	-	0	ID=cds:OESDEN_09296;Parent=transcript:OESDEN_09296
 OESDENDFT_Contig3395	WormBase_imported	CDS	10762	10895	.	-	2	ID=cds:OESDEN_09296;Parent=transcript:OESDEN_09296
 OESDENDFT_Contig3395	WormBase_imported	CDS	10162	10317	.	-	0	ID=cds:OESDEN_09296;Parent=transcript:OESDEN_09296
+OESDENDFT_Contig7473	WormBase_imported	gene	1324	7570	.	+	.	ID=gene:OESDEN_12235;Name=OESDEN_12235;biotype=protein_coding
+OESDENDFT_Contig7473	WormBase_imported	mRNA	1324	7570	.	+	.	ID=transcript:OESDEN_12235;Parent=gene:OESDEN_12235;Name=OESDEN_12235
+#microexons transcript:OESDEN_12235:  90-81-42-42-81-42-42-42-42-69
+OESDENDFT_Contig7473	WormBase_imported	exon	1324	1413	.	+	.	ID=exon:OESDEN_12235.1;Parent=transcript:OESDEN_12235
+OESDENDFT_Contig7473	WormBase_imported	exon	4482	4562	.	+	.	ID=exon:OESDEN_12235.2;Parent=transcript:OESDEN_12235
+OESDENDFT_Contig7473	WormBase_imported	exon	4617	4658	.	+	.	ID=exon:OESDEN_12235.3;Parent=transcript:OESDEN_12235
+OESDENDFT_Contig7473	WormBase_imported	exon	4719	4760	.	+	.	ID=exon:OESDEN_12235.4;Parent=transcript:OESDEN_12235
+OESDENDFT_Contig7473	WormBase_imported	exon	5167	5247	.	+	.	ID=exon:OESDEN_12235.5;Parent=transcript:OESDEN_12235
+OESDENDFT_Contig7473	WormBase_imported	exon	5647	5688	.	+	.	ID=exon:OESDEN_12235.6;Parent=transcript:OESDEN_12235
+OESDENDFT_Contig7473	WormBase_imported	exon	5759	5800	.	+	.	ID=exon:OESDEN_12235.7;Parent=transcript:OESDEN_12235
+OESDENDFT_Contig7473	WormBase_imported	exon	5960	6001	.	+	.	ID=exon:OESDEN_12235.8;Parent=transcript:OESDEN_12235
+OESDENDFT_Contig7473	WormBase_imported	exon	6058	6099	.	+	.	ID=exon:OESDEN_12235.9;Parent=transcript:OESDEN_12235
+OESDENDFT_Contig7473	WormBase_imported	exon	7502	7570	.	+	.	ID=exon:OESDEN_12235.10;Parent=transcript:OESDEN_12235
+OESDENDFT_Contig7473	WormBase_imported	CDS	1324	1413	.	+	0	ID=cds:OESDEN_12235;Parent=transcript:OESDEN_12235
+OESDENDFT_Contig7473	WormBase_imported	CDS	4482	4562	.	+	0	ID=cds:OESDEN_12235;Parent=transcript:OESDEN_12235
+OESDENDFT_Contig7473	WormBase_imported	CDS	4617	4658	.	+	0	ID=cds:OESDEN_12235;Parent=transcript:OESDEN_12235
+OESDENDFT_Contig7473	WormBase_imported	CDS	4719	4760	.	+	0	ID=cds:OESDEN_12235;Parent=transcript:OESDEN_12235
+OESDENDFT_Contig7473	WormBase_imported	CDS	5167	5247	.	+	0	ID=cds:OESDEN_12235;Parent=transcript:OESDEN_12235
+OESDENDFT_Contig7473	WormBase_imported	CDS	5647	5688	.	+	0	ID=cds:OESDEN_12235;Parent=transcript:OESDEN_12235
+OESDENDFT_Contig7473	WormBase_imported	CDS	5759	5800	.	+	0	ID=cds:OESDEN_12235;Parent=transcript:OESDEN_12235
+OESDENDFT_Contig7473	WormBase_imported	CDS	5960	6001	.	+	0	ID=cds:OESDEN_12235;Parent=transcript:OESDEN_12235
+OESDENDFT_Contig7473	WormBase_imported	CDS	6058	6099	.	+	0	ID=cds:OESDEN_12235;Parent=transcript:OESDEN_12235
+OESDENDFT_Contig7473	WormBase_imported	CDS	7502	7570	.	+	0	ID=cds:OESDEN_12235;Parent=transcript:OESDEN_12235

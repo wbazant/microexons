@@ -1,0 +1,20 @@
+SSLN_scaffold0001247	WormBase_imported	gene	45799	59039	.	-	.	ID=gene:SSLN_0000599401;Name=SSLN_0000599401;biotype=protein_coding
+SSLN_scaffold0001247	WormBase_imported	mRNA	45799	59039	.	-	.	ID=transcript:SSLN_0000599401-mRNA-1;Parent=gene:SSLN_0000599401;Name=SSLN_0000599401-mRNA-1;info=method:InterPro accession:IPR000217 description:Tubulin %0Amethod:InterPro accession:IPR002967 description:Delta tubulin %0Amethod:InterPro accession:IPR008280 description:Tubulin/FtsZ%2C C-terminal %0Amethod:InterPro accession:IPR018316 description:Tubulin/FtsZ%2C 2-layer sandwich domain %0Amethod:InterPro accession:IPR023123 description:Tubulin%2C C-terminal %0Amethod:InterPro accession:IPR036525 description:Tubulin/FtsZ%2C GTPase domain superfamily %0Amethod:InterPro accession:IPR037103 description:Tubulin/FtsZ%2C C-terminal domain superfamily
+#microexons transcript:SSLN_0000599401-mRNA-1:  245 304 209 246-30-27-24-33
+SSLN_scaffold0001247	WormBase_imported	exon	58795	59039	.	-	.	ID=exon:SSLN_0000599401-mRNA-1.1;Parent=transcript:SSLN_0000599401-mRNA-1
+SSLN_scaffold0001247	WormBase_imported	exon	57472	57775	.	-	.	ID=exon:SSLN_0000599401-mRNA-1.2;Parent=transcript:SSLN_0000599401-mRNA-1
+SSLN_scaffold0001247	WormBase_imported	exon	55149	55357	.	-	.	ID=exon:SSLN_0000599401-mRNA-1.3;Parent=transcript:SSLN_0000599401-mRNA-1
+SSLN_scaffold0001247	WormBase_imported	exon	51494	51739	.	-	.	ID=exon:SSLN_0000599401-mRNA-1.4;Parent=transcript:SSLN_0000599401-mRNA-1
+SSLN_scaffold0001247	WormBase_imported	exon	50740	50769	.	-	.	ID=exon:SSLN_0000599401-mRNA-1.5;Parent=transcript:SSLN_0000599401-mRNA-1
+SSLN_scaffold0001247	WormBase_imported	exon	48795	48821	.	-	.	ID=exon:SSLN_0000599401-mRNA-1.6;Parent=transcript:SSLN_0000599401-mRNA-1
+SSLN_scaffold0001247	WormBase_imported	exon	47957	47980	.	-	.	ID=exon:SSLN_0000599401-mRNA-1.7;Parent=transcript:SSLN_0000599401-mRNA-1
+SSLN_scaffold0001247	WormBase_imported	exon	45799	45831	.	-	.	ID=exon:SSLN_0000599401-mRNA-1.8;Parent=transcript:SSLN_0000599401-mRNA-1
+SSLN_scaffold0001247	WormBase_imported	five_prime_UTR	59038	59039	.	-	.	Parent=transcript:SSLN_0000599401-mRNA-1
+SSLN_scaffold0001247	WormBase_imported	CDS	58795	59037	.	-	0	ID=cds:SSLN_0000599401-mRNA-1;Parent=transcript:SSLN_0000599401-mRNA-1
+SSLN_scaffold0001247	WormBase_imported	CDS	57472	57775	.	-	0	ID=cds:SSLN_0000599401-mRNA-1;Parent=transcript:SSLN_0000599401-mRNA-1
+SSLN_scaffold0001247	WormBase_imported	CDS	55149	55357	.	-	2	ID=cds:SSLN_0000599401-mRNA-1;Parent=transcript:SSLN_0000599401-mRNA-1
+SSLN_scaffold0001247	WormBase_imported	CDS	51494	51739	.	-	0	ID=cds:SSLN_0000599401-mRNA-1;Parent=transcript:SSLN_0000599401-mRNA-1
+SSLN_scaffold0001247	WormBase_imported	CDS	50740	50769	.	-	0	ID=cds:SSLN_0000599401-mRNA-1;Parent=transcript:SSLN_0000599401-mRNA-1
+SSLN_scaffold0001247	WormBase_imported	CDS	48795	48821	.	-	0	ID=cds:SSLN_0000599401-mRNA-1;Parent=transcript:SSLN_0000599401-mRNA-1
+SSLN_scaffold0001247	WormBase_imported	CDS	47957	47980	.	-	0	ID=cds:SSLN_0000599401-mRNA-1;Parent=transcript:SSLN_0000599401-mRNA-1
+SSLN_scaffold0001247	WormBase_imported	CDS	45799	45831	.	-	0	ID=cds:SSLN_0000599401-mRNA-1;Parent=transcript:SSLN_0000599401-mRNA-1

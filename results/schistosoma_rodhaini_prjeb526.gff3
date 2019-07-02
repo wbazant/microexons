@@ -108,6 +108,32 @@ SROB_scaffold0003167	WormBase_imported	CDS	10506	10523	.	+	1	ID=cds:SROB_0000796
 SROB_scaffold0003167	WormBase_imported	CDS	14592	14612	.	+	1	ID=cds:SROB_0000796601-mRNA-1;Parent=transcript:SROB_0000796601-mRNA-1
 SROB_scaffold0003167	WormBase_imported	CDS	17048	17068	.	+	1	ID=cds:SROB_0000796601-mRNA-1;Parent=transcript:SROB_0000796601-mRNA-1
 SROB_scaffold0003167	WormBase_imported	CDS	17965	17983	.	+	1	ID=cds:SROB_0000796601-mRNA-1;Parent=transcript:SROB_0000796601-mRNA-1
+SROB_scaffold0007783	WormBase_imported	gene	5332	10492	.	-	.	ID=gene:SROB_0001386901;Name=SROB_0001386901;biotype=protein_coding
+SROB_scaffold0007783	WormBase_imported	mRNA	5332	10492	.	-	.	ID=transcript:SROB_0001386901-mRNA-1;Parent=gene:SROB_0001386901;Name=SROB_0001386901-mRNA-1
+#microexons transcript:SROB_0001386901-mRNA-1:  61 10 6-6-21 4 642-30-18-6-18
+SROB_scaffold0007783	WormBase_imported	exon	10432	10492	.	-	.	ID=exon:SROB_0001386901-mRNA-1.1;Parent=transcript:SROB_0001386901-mRNA-1
+SROB_scaffold0007783	WormBase_imported	exon	9957	9966	.	-	.	ID=exon:SROB_0001386901-mRNA-1.2;Parent=transcript:SROB_0001386901-mRNA-1
+SROB_scaffold0007783	WormBase_imported	exon	9631	9636	.	-	.	ID=exon:SROB_0001386901-mRNA-1.3;Parent=transcript:SROB_0001386901-mRNA-1
+SROB_scaffold0007783	WormBase_imported	exon	9467	9472	.	-	.	ID=exon:SROB_0001386901-mRNA-1.4;Parent=transcript:SROB_0001386901-mRNA-1
+SROB_scaffold0007783	WormBase_imported	exon	8560	8580	.	-	.	ID=exon:SROB_0001386901-mRNA-1.5;Parent=transcript:SROB_0001386901-mRNA-1
+SROB_scaffold0007783	WormBase_imported	exon	8322	8325	.	-	.	ID=exon:SROB_0001386901-mRNA-1.6;Parent=transcript:SROB_0001386901-mRNA-1
+SROB_scaffold0007783	WormBase_imported	exon	7676	8317	.	-	.	ID=exon:SROB_0001386901-mRNA-1.7;Parent=transcript:SROB_0001386901-mRNA-1
+SROB_scaffold0007783	WormBase_imported	exon	7157	7186	.	-	.	ID=exon:SROB_0001386901-mRNA-1.8;Parent=transcript:SROB_0001386901-mRNA-1
+SROB_scaffold0007783	WormBase_imported	exon	6365	6382	.	-	.	ID=exon:SROB_0001386901-mRNA-1.9;Parent=transcript:SROB_0001386901-mRNA-1
+SROB_scaffold0007783	WormBase_imported	exon	5768	5773	.	-	.	ID=exon:SROB_0001386901-mRNA-1.10;Parent=transcript:SROB_0001386901-mRNA-1
+SROB_scaffold0007783	WormBase_imported	exon	5332	5349	.	-	.	ID=exon:SROB_0001386901-mRNA-1.11;Parent=transcript:SROB_0001386901-mRNA-1
+SROB_scaffold0007783	WormBase_imported	five_prime_UTR	10432	10492	.	-	.	Parent=transcript:SROB_0001386901-mRNA-1
+SROB_scaffold0007783	WormBase_imported	five_prime_UTR	9957	9966	.	-	.	Parent=transcript:SROB_0001386901-mRNA-1
+SROB_scaffold0007783	WormBase_imported	five_prime_UTR	9631	9636	.	-	.	Parent=transcript:SROB_0001386901-mRNA-1
+SROB_scaffold0007783	WormBase_imported	five_prime_UTR	9467	9472	.	-	.	Parent=transcript:SROB_0001386901-mRNA-1
+SROB_scaffold0007783	WormBase_imported	five_prime_UTR	8560	8580	.	-	.	Parent=transcript:SROB_0001386901-mRNA-1
+SROB_scaffold0007783	WormBase_imported	five_prime_UTR	8322	8325	.	-	.	Parent=transcript:SROB_0001386901-mRNA-1
+SROB_scaffold0007783	WormBase_imported	five_prime_UTR	7811	8317	.	-	.	Parent=transcript:SROB_0001386901-mRNA-1
+SROB_scaffold0007783	WormBase_imported	CDS	7676	7810	.	-	0	ID=cds:SROB_0001386901-mRNA-1;Parent=transcript:SROB_0001386901-mRNA-1
+SROB_scaffold0007783	WormBase_imported	CDS	7157	7186	.	-	0	ID=cds:SROB_0001386901-mRNA-1;Parent=transcript:SROB_0001386901-mRNA-1
+SROB_scaffold0007783	WormBase_imported	CDS	6365	6382	.	-	0	ID=cds:SROB_0001386901-mRNA-1;Parent=transcript:SROB_0001386901-mRNA-1
+SROB_scaffold0007783	WormBase_imported	CDS	5768	5773	.	-	0	ID=cds:SROB_0001386901-mRNA-1;Parent=transcript:SROB_0001386901-mRNA-1
+SROB_scaffold0007783	WormBase_imported	CDS	5332	5349	.	-	0	ID=cds:SROB_0001386901-mRNA-1;Parent=transcript:SROB_0001386901-mRNA-1
 SROB_scaffold0009025	WormBase_imported	gene	2224	11742	.	+	.	ID=gene:SROB_0001514401;Name=SROB_0001514401;biotype=protein_coding
 SROB_scaffold0009025	WormBase_imported	mRNA	2224	11742	.	+	.	ID=transcript:SROB_0001514401-mRNA-1;Parent=gene:SROB_0001514401;Name=SROB_0001514401-mRNA-1
 #microexons transcript:SROB_0001514401-mRNA-1:  23 33-30-21-21-27-18-21-21 23 14

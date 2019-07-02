@@ -21,6 +21,25 @@ KI657592	WormBase_imported	CDS	195489	195522	.	-	0	ID=cds:NECAME_06048;Parent=tr
 KI657592	WormBase_imported	CDS	193047	193141	.	-	2	ID=cds:NECAME_06048;Parent=transcript:NECAME_06048
 KI657592	WormBase_imported	CDS	192760	192864	.	-	0	ID=cds:NECAME_06048;Parent=transcript:NECAME_06048
 KI657592	WormBase_imported	CDS	192627	192695	.	-	0	ID=cds:NECAME_06048;Parent=transcript:NECAME_06048
+KI657604	WormBase_imported	gene	80091	83894	.	+	.	ID=gene:NECAME_06063;Name=NECAME_06063;biotype=protein_coding
+KI657604	WormBase_imported	mRNA	80091	83894	.	+	.	ID=transcript:NECAME_06063;Parent=gene:NECAME_06063;Name=NECAME_06063
+#microexons transcript:NECAME_06063:  42 85 200 69-57-30-33-27
+KI657604	WormBase_imported	exon	80091	80132	.	+	.	ID=exon:NECAME_06063.1;Parent=transcript:NECAME_06063
+KI657604	WormBase_imported	exon	81435	81519	.	+	.	ID=exon:NECAME_06063.2;Parent=transcript:NECAME_06063
+KI657604	WormBase_imported	exon	81585	81784	.	+	.	ID=exon:NECAME_06063.3;Parent=transcript:NECAME_06063
+KI657604	WormBase_imported	exon	81869	81937	.	+	.	ID=exon:NECAME_06063.4;Parent=transcript:NECAME_06063
+KI657604	WormBase_imported	exon	83495	83551	.	+	.	ID=exon:NECAME_06063.5;Parent=transcript:NECAME_06063
+KI657604	WormBase_imported	exon	83668	83697	.	+	.	ID=exon:NECAME_06063.6;Parent=transcript:NECAME_06063
+KI657604	WormBase_imported	exon	83778	83810	.	+	.	ID=exon:NECAME_06063.7;Parent=transcript:NECAME_06063
+KI657604	WormBase_imported	exon	83868	83894	.	+	.	ID=exon:NECAME_06063.8;Parent=transcript:NECAME_06063
+KI657604	WormBase_imported	CDS	80091	80132	.	+	0	ID=cds:NECAME_06063;Parent=transcript:NECAME_06063
+KI657604	WormBase_imported	CDS	81435	81519	.	+	0	ID=cds:NECAME_06063;Parent=transcript:NECAME_06063
+KI657604	WormBase_imported	CDS	81585	81784	.	+	2	ID=cds:NECAME_06063;Parent=transcript:NECAME_06063
+KI657604	WormBase_imported	CDS	81869	81937	.	+	0	ID=cds:NECAME_06063;Parent=transcript:NECAME_06063
+KI657604	WormBase_imported	CDS	83495	83551	.	+	0	ID=cds:NECAME_06063;Parent=transcript:NECAME_06063
+KI657604	WormBase_imported	CDS	83668	83697	.	+	0	ID=cds:NECAME_06063;Parent=transcript:NECAME_06063
+KI657604	WormBase_imported	CDS	83778	83810	.	+	0	ID=cds:NECAME_06063;Parent=transcript:NECAME_06063
+KI657604	WormBase_imported	CDS	83868	83894	.	+	0	ID=cds:NECAME_06063;Parent=transcript:NECAME_06063
 KI657988	WormBase_imported	gene	131044	147794	.	+	.	ID=gene:NECAME_06976;Name=NECAME_06976;biotype=protein_coding
 KI657988	WormBase_imported	mRNA	131044	147794	.	+	.	ID=transcript:NECAME_06976;Parent=gene:NECAME_06976;Name=NECAME_06976
 #microexons transcript:NECAME_06976:  14 151 42-36-24-39-33
@@ -76,3 +95,28 @@ KI658779	WormBase_imported	CDS	139411	139458	.	+	0	ID=cds:NECAME_08610;Parent=tr
 KI658779	WormBase_imported	CDS	140355	140448	.	+	0	ID=cds:NECAME_08610;Parent=transcript:NECAME_08610
 KI658779	WormBase_imported	CDS	142126	142180	.	+	2	ID=cds:NECAME_08610;Parent=transcript:NECAME_08610
 KI658779	WormBase_imported	CDS	143945	144212	.	+	1	ID=cds:NECAME_08610;Parent=transcript:NECAME_08610
+KI666720	WormBase_imported	gene	40690	52622	.	-	.	ID=gene:NECAME_14080;Name=NECAME_14080;biotype=protein_coding
+KI666720	WormBase_imported	mRNA	40690	52622	.	-	.	ID=transcript:NECAME_14080;Parent=gene:NECAME_14080;Name=NECAME_14080
+#microexons transcript:NECAME_14080:  73 87-45-54-45-54-39-78-57 119 75
+KI666720	WormBase_imported	exon	52550	52622	.	-	.	ID=exon:NECAME_14080.1;Parent=transcript:NECAME_14080
+KI666720	WormBase_imported	exon	52187	52273	.	-	.	ID=exon:NECAME_14080.2;Parent=transcript:NECAME_14080
+KI666720	WormBase_imported	exon	51937	51981	.	-	.	ID=exon:NECAME_14080.3;Parent=transcript:NECAME_14080
+KI666720	WormBase_imported	exon	51367	51420	.	-	.	ID=exon:NECAME_14080.4;Parent=transcript:NECAME_14080
+KI666720	WormBase_imported	exon	47490	47534	.	-	.	ID=exon:NECAME_14080.5;Parent=transcript:NECAME_14080
+KI666720	WormBase_imported	exon	46863	46916	.	-	.	ID=exon:NECAME_14080.6;Parent=transcript:NECAME_14080
+KI666720	WormBase_imported	exon	46118	46156	.	-	.	ID=exon:NECAME_14080.7;Parent=transcript:NECAME_14080
+KI666720	WormBase_imported	exon	45542	45619	.	-	.	ID=exon:NECAME_14080.8;Parent=transcript:NECAME_14080
+KI666720	WormBase_imported	exon	43432	43488	.	-	.	ID=exon:NECAME_14080.9;Parent=transcript:NECAME_14080
+KI666720	WormBase_imported	exon	42326	42444	.	-	.	ID=exon:NECAME_14080.10;Parent=transcript:NECAME_14080
+KI666720	WormBase_imported	exon	40690	40764	.	-	.	ID=exon:NECAME_14080.11;Parent=transcript:NECAME_14080
+KI666720	WormBase_imported	CDS	52550	52622	.	-	0	ID=cds:NECAME_14080;Parent=transcript:NECAME_14080
+KI666720	WormBase_imported	CDS	52187	52273	.	-	2	ID=cds:NECAME_14080;Parent=transcript:NECAME_14080
+KI666720	WormBase_imported	CDS	51937	51981	.	-	2	ID=cds:NECAME_14080;Parent=transcript:NECAME_14080
+KI666720	WormBase_imported	CDS	51367	51420	.	-	2	ID=cds:NECAME_14080;Parent=transcript:NECAME_14080
+KI666720	WormBase_imported	CDS	47490	47534	.	-	2	ID=cds:NECAME_14080;Parent=transcript:NECAME_14080
+KI666720	WormBase_imported	CDS	46863	46916	.	-	2	ID=cds:NECAME_14080;Parent=transcript:NECAME_14080
+KI666720	WormBase_imported	CDS	46118	46156	.	-	2	ID=cds:NECAME_14080;Parent=transcript:NECAME_14080
+KI666720	WormBase_imported	CDS	45542	45619	.	-	2	ID=cds:NECAME_14080;Parent=transcript:NECAME_14080
+KI666720	WormBase_imported	CDS	43432	43488	.	-	2	ID=cds:NECAME_14080;Parent=transcript:NECAME_14080
+KI666720	WormBase_imported	CDS	42326	42444	.	-	2	ID=cds:NECAME_14080;Parent=transcript:NECAME_14080
+KI666720	WormBase_imported	CDS	40690	40764	.	-	0	ID=cds:NECAME_14080;Parent=transcript:NECAME_14080

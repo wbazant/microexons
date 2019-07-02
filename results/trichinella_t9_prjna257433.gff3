@@ -1,3 +1,20 @@
+scaffold4s	WormBase_imported	gene	309331	312320	.	-	.	ID=gene:T09_4513;Name=T09_4513;biotype=protein_coding
+scaffold4s	WormBase_imported	mRNA	309331	312320	.	-	.	ID=transcript:T09_4513.1;Parent=gene:T09_4513;Name=T09_4513.1
+#microexons transcript:T09_4513.1:  12-27-24-54-63 133 17
+scaffold4s	WormBase_imported	exon	312309	312320	.	-	.	ID=exon:T09_4513.1.1;Parent=transcript:T09_4513.1
+scaffold4s	WormBase_imported	exon	311756	311782	.	-	.	ID=exon:T09_4513.1.2;Parent=transcript:T09_4513.1
+scaffold4s	WormBase_imported	exon	311104	311127	.	-	.	ID=exon:T09_4513.1.3;Parent=transcript:T09_4513.1
+scaffold4s	WormBase_imported	exon	310998	311051	.	-	.	ID=exon:T09_4513.1.4;Parent=transcript:T09_4513.1
+scaffold4s	WormBase_imported	exon	310896	310958	.	-	.	ID=exon:T09_4513.1.5;Parent=transcript:T09_4513.1
+scaffold4s	WormBase_imported	exon	309690	309822	.	-	.	ID=exon:T09_4513.1.6;Parent=transcript:T09_4513.1
+scaffold4s	WormBase_imported	exon	309331	309347	.	-	.	ID=exon:T09_4513.1.7;Parent=transcript:T09_4513.1
+scaffold4s	WormBase_imported	CDS	312309	312320	.	-	0	ID=cds:T09_4513.1;Parent=transcript:T09_4513.1
+scaffold4s	WormBase_imported	CDS	311756	311782	.	-	0	ID=cds:T09_4513.1;Parent=transcript:T09_4513.1
+scaffold4s	WormBase_imported	CDS	311104	311127	.	-	0	ID=cds:T09_4513.1;Parent=transcript:T09_4513.1
+scaffold4s	WormBase_imported	CDS	310998	311051	.	-	0	ID=cds:T09_4513.1;Parent=transcript:T09_4513.1
+scaffold4s	WormBase_imported	CDS	310896	310958	.	-	0	ID=cds:T09_4513.1;Parent=transcript:T09_4513.1
+scaffold4s	WormBase_imported	CDS	309690	309822	.	-	0	ID=cds:T09_4513.1;Parent=transcript:T09_4513.1
+scaffold4s	WormBase_imported	CDS	309331	309347	.	-	2	ID=cds:T09_4513.1;Parent=transcript:T09_4513.1
 scaffold7s	WormBase_imported	gene	167727	171159	.	-	.	ID=gene:T09_5487;Name=T09_5487;biotype=protein_coding
 scaffold7s	WormBase_imported	mRNA	167727	171159	.	-	.	ID=transcript:T09_5487.1;Parent=gene:T09_5487;Name=T09_5487.1
 #microexons transcript:T09_5487.1:  63 730 72 128 27-33-36-39-42-51-48-114
@@ -48,78 +65,29 @@ scaffold11s	WormBase_imported	CDS	288572	288628	.	+	2	ID=cds:T09_2268.1;Parent=t
 scaffold11s	WormBase_imported	CDS	288694	288811	.	+	2	ID=cds:T09_2268.1;Parent=transcript:T09_2268.1
 scaffold11s	WormBase_imported	CDS	289593	289629	.	+	1	ID=cds:T09_2268.1;Parent=transcript:T09_2268.1
 scaffold11s	WormBase_imported	CDS	289725	289901	.	+	0	ID=cds:T09_2268.1;Parent=transcript:T09_2268.1
-scaffold36s	WormBase_imported	gene	172869	174949	.	-	.	ID=gene:T09_683;Name=T09_683;biotype=protein_coding;description=TM2 domain-containing protein Y66D12A.21;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0V0VGR6
-scaffold36s	WormBase_imported	mRNA	172869	174949	.	-	.	ID=transcript:T09_683.1;Parent=gene:T09_683;Name=T09_683.1;info=method:InterPro accession:IPR007829 description:TM2 domain
-#microexons transcript:T09_683.1:  675 82 92 8 54-6-24
-scaffold36s	WormBase_imported	exon	174275	174949	.	-	.	ID=exon:T09_683.1.1;Parent=transcript:T09_683.1
-scaffold36s	WormBase_imported	exon	174034	174115	.	-	.	ID=exon:T09_683.1.2;Parent=transcript:T09_683.1
-scaffold36s	WormBase_imported	exon	173831	173922	.	-	.	ID=exon:T09_683.1.3;Parent=transcript:T09_683.1
-scaffold36s	WormBase_imported	exon	173703	173710	.	-	.	ID=exon:T09_683.1.4;Parent=transcript:T09_683.1
-scaffold36s	WormBase_imported	exon	173590	173643	.	-	.	ID=exon:T09_683.1.5;Parent=transcript:T09_683.1
-scaffold36s	WormBase_imported	exon	173192	173197	.	-	.	ID=exon:T09_683.1.6;Parent=transcript:T09_683.1
-scaffold36s	WormBase_imported	exon	172869	172892	.	-	.	ID=exon:T09_683.1.7;Parent=transcript:T09_683.1
-scaffold36s	WormBase_imported	five_prime_UTR	174522	174949	.	-	.	Parent=transcript:T09_683.1
-scaffold36s	WormBase_imported	CDS	174275	174521	.	-	0	ID=cds:T09_683.1;Parent=transcript:T09_683.1
-scaffold36s	WormBase_imported	CDS	174034	174115	.	-	2	ID=cds:T09_683.1;Parent=transcript:T09_683.1
-scaffold36s	WormBase_imported	CDS	173831	173922	.	-	1	ID=cds:T09_683.1;Parent=transcript:T09_683.1
-scaffold36s	WormBase_imported	CDS	173703	173710	.	-	2	ID=cds:T09_683.1;Parent=transcript:T09_683.1
-scaffold36s	WormBase_imported	CDS	173590	173643	.	-	0	ID=cds:T09_683.1;Parent=transcript:T09_683.1
-scaffold36s	WormBase_imported	CDS	173192	173197	.	-	0	ID=cds:T09_683.1;Parent=transcript:T09_683.1
-scaffold36s	WormBase_imported	CDS	172869	172892	.	-	0	ID=cds:T09_683.1;Parent=transcript:T09_683.1
-scaffold49s	WormBase_imported	gene	246332	249733	.	+	.	ID=gene:T09_12182;Name=T09_12182;biotype=protein_coding
-scaffold49s	WormBase_imported	mRNA	246332	249733	.	+	.	ID=transcript:T09_12182.1;Parent=gene:T09_12182;Name=T09_12182.1
-#microexons transcript:T09_12182.1:  39-39-51 193 56 128 49
-scaffold49s	WormBase_imported	exon	246332	246370	.	+	.	ID=exon:T09_12182.1.1;Parent=transcript:T09_12182.1
-scaffold49s	WormBase_imported	exon	247981	248019	.	+	.	ID=exon:T09_12182.1.2;Parent=transcript:T09_12182.1
-scaffold49s	WormBase_imported	exon	248840	248890	.	+	.	ID=exon:T09_12182.1.3;Parent=transcript:T09_12182.1
-scaffold49s	WormBase_imported	exon	248962	249154	.	+	.	ID=exon:T09_12182.1.4;Parent=transcript:T09_12182.1
-scaffold49s	WormBase_imported	exon	249250	249305	.	+	.	ID=exon:T09_12182.1.5;Parent=transcript:T09_12182.1
-scaffold49s	WormBase_imported	exon	249316	249443	.	+	.	ID=exon:T09_12182.1.6;Parent=transcript:T09_12182.1
-scaffold49s	WormBase_imported	exon	249685	249733	.	+	.	ID=exon:T09_12182.1.7;Parent=transcript:T09_12182.1
-scaffold49s	WormBase_imported	CDS	246332	246370	.	+	0	ID=cds:T09_12182.1;Parent=transcript:T09_12182.1
-scaffold49s	WormBase_imported	CDS	247981	248019	.	+	0	ID=cds:T09_12182.1;Parent=transcript:T09_12182.1
-scaffold49s	WormBase_imported	CDS	248840	248890	.	+	0	ID=cds:T09_12182.1;Parent=transcript:T09_12182.1
-scaffold49s	WormBase_imported	CDS	248962	249154	.	+	0	ID=cds:T09_12182.1;Parent=transcript:T09_12182.1
-scaffold49s	WormBase_imported	CDS	249250	249305	.	+	2	ID=cds:T09_12182.1;Parent=transcript:T09_12182.1
-scaffold49s	WormBase_imported	CDS	249316	249443	.	+	0	ID=cds:T09_12182.1;Parent=transcript:T09_12182.1
-scaffold49s	WormBase_imported	CDS	249685	249733	.	+	1	ID=cds:T09_12182.1;Parent=transcript:T09_12182.1
-scaffold66s	WormBase_imported	gene	208522	209841	.	-	.	ID=gene:T09_13873;Name=T09_13873;biotype=protein_coding
-scaffold66s	WormBase_imported	mRNA	208522	209841	.	-	.	ID=transcript:T09_13873.1;Parent=gene:T09_13873;Name=T09_13873.1
-#microexons transcript:T09_13873.1:  250 26 105 34 50 51-15-54
-scaffold66s	WormBase_imported	exon	209592	209841	.	-	.	ID=exon:T09_13873.1.1;Parent=transcript:T09_13873.1
-scaffold66s	WormBase_imported	exon	209495	209520	.	-	.	ID=exon:T09_13873.1.2;Parent=transcript:T09_13873.1
-scaffold66s	WormBase_imported	exon	209279	209383	.	-	.	ID=exon:T09_13873.1.3;Parent=transcript:T09_13873.1
-scaffold66s	WormBase_imported	exon	209159	209192	.	-	.	ID=exon:T09_13873.1.4;Parent=transcript:T09_13873.1
-scaffold66s	WormBase_imported	exon	208907	208956	.	-	.	ID=exon:T09_13873.1.5;Parent=transcript:T09_13873.1
-scaffold66s	WormBase_imported	exon	208822	208872	.	-	.	ID=exon:T09_13873.1.6;Parent=transcript:T09_13873.1
-scaffold66s	WormBase_imported	exon	208673	208687	.	-	.	ID=exon:T09_13873.1.7;Parent=transcript:T09_13873.1
-scaffold66s	WormBase_imported	exon	208522	208575	.	-	.	ID=exon:T09_13873.1.8;Parent=transcript:T09_13873.1
-scaffold66s	WormBase_imported	CDS	209592	209841	.	-	0	ID=cds:T09_13873.1;Parent=transcript:T09_13873.1
-scaffold66s	WormBase_imported	CDS	209495	209520	.	-	2	ID=cds:T09_13873.1;Parent=transcript:T09_13873.1
-scaffold66s	WormBase_imported	CDS	209279	209383	.	-	0	ID=cds:T09_13873.1;Parent=transcript:T09_13873.1
-scaffold66s	WormBase_imported	CDS	209159	209192	.	-	0	ID=cds:T09_13873.1;Parent=transcript:T09_13873.1
-scaffold66s	WormBase_imported	CDS	208907	208956	.	-	2	ID=cds:T09_13873.1;Parent=transcript:T09_13873.1
-scaffold66s	WormBase_imported	CDS	208822	208872	.	-	0	ID=cds:T09_13873.1;Parent=transcript:T09_13873.1
-scaffold66s	WormBase_imported	CDS	208673	208687	.	-	0	ID=cds:T09_13873.1;Parent=transcript:T09_13873.1
-scaffold66s	WormBase_imported	CDS	208522	208575	.	-	0	ID=cds:T09_13873.1;Parent=transcript:T09_13873.1
-scaffold108s	WormBase_imported	gene	62988	65517	.	+	.	ID=gene:T09_3593;Name=T09_3593;biotype=protein_coding
-scaffold108s	WormBase_imported	mRNA	62988	65517	.	+	.	ID=transcript:T09_3593.1;Parent=gene:T09_3593;Name=T09_3593.1
-#microexons transcript:T09_3593.1:  100 28 25 89 18-18-9
-scaffold108s	WormBase_imported	exon	62988	63087	.	+	.	ID=exon:T09_3593.1.1;Parent=transcript:T09_3593.1
-scaffold108s	WormBase_imported	exon	63284	63311	.	+	.	ID=exon:T09_3593.1.2;Parent=transcript:T09_3593.1
-scaffold108s	WormBase_imported	exon	63401	63425	.	+	.	ID=exon:T09_3593.1.3;Parent=transcript:T09_3593.1
-scaffold108s	WormBase_imported	exon	64250	64338	.	+	.	ID=exon:T09_3593.1.4;Parent=transcript:T09_3593.1
-scaffold108s	WormBase_imported	exon	64503	64520	.	+	.	ID=exon:T09_3593.1.5;Parent=transcript:T09_3593.1
-scaffold108s	WormBase_imported	exon	64609	64626	.	+	.	ID=exon:T09_3593.1.6;Parent=transcript:T09_3593.1
-scaffold108s	WormBase_imported	exon	65509	65517	.	+	.	ID=exon:T09_3593.1.7;Parent=transcript:T09_3593.1
-scaffold108s	WormBase_imported	five_prime_UTR	62988	63070	.	+	.	Parent=transcript:T09_3593.1
-scaffold108s	WormBase_imported	CDS	63071	63087	.	+	0	ID=cds:T09_3593.1;Parent=transcript:T09_3593.1
-scaffold108s	WormBase_imported	CDS	63284	63311	.	+	1	ID=cds:T09_3593.1;Parent=transcript:T09_3593.1
-scaffold108s	WormBase_imported	CDS	63401	63425	.	+	0	ID=cds:T09_3593.1;Parent=transcript:T09_3593.1
-scaffold108s	WormBase_imported	CDS	64250	64338	.	+	2	ID=cds:T09_3593.1;Parent=transcript:T09_3593.1
-scaffold108s	WormBase_imported	CDS	64503	64520	.	+	0	ID=cds:T09_3593.1;Parent=transcript:T09_3593.1
-scaffold108s	WormBase_imported	CDS	64609	64626	.	+	0	ID=cds:T09_3593.1;Parent=transcript:T09_3593.1
-scaffold108s	WormBase_imported	CDS	65509	65517	.	+	0	ID=cds:T09_3593.1;Parent=transcript:T09_3593.1
+scaffold13s	WormBase_imported	gene	380479	382806	.	+	.	ID=gene:T09_9002;Name=T09_9002;biotype=protein_coding
+scaffold13s	WormBase_imported	mRNA	380479	382806	.	+	.	ID=transcript:T09_9002.1;Parent=gene:T09_9002;Name=T09_9002.1
+#microexons transcript:T09_9002.1:  77 36-39-36-45-57-63-135 88
+scaffold13s	WormBase_imported	exon	380479	380555	.	+	.	ID=exon:T09_9002.1.1;Parent=transcript:T09_9002.1
+scaffold13s	WormBase_imported	exon	380894	380929	.	+	.	ID=exon:T09_9002.1.2;Parent=transcript:T09_9002.1
+scaffold13s	WormBase_imported	exon	381169	381207	.	+	.	ID=exon:T09_9002.1.3;Parent=transcript:T09_9002.1
+scaffold13s	WormBase_imported	exon	381377	381412	.	+	.	ID=exon:T09_9002.1.4;Parent=transcript:T09_9002.1
+scaffold13s	WormBase_imported	exon	381538	381582	.	+	.	ID=exon:T09_9002.1.5;Parent=transcript:T09_9002.1
+scaffold13s	WormBase_imported	exon	381827	381883	.	+	.	ID=exon:T09_9002.1.6;Parent=transcript:T09_9002.1
+scaffold13s	WormBase_imported	exon	382104	382166	.	+	.	ID=exon:T09_9002.1.7;Parent=transcript:T09_9002.1
+scaffold13s	WormBase_imported	exon	382236	382370	.	+	.	ID=exon:T09_9002.1.8;Parent=transcript:T09_9002.1
+scaffold13s	WormBase_imported	exon	382719	382806	.	+	.	ID=exon:T09_9002.1.9;Parent=transcript:T09_9002.1
+scaffold13s	WormBase_imported	five_prime_UTR	380479	380510	.	+	.	Parent=transcript:T09_9002.1
+scaffold13s	WormBase_imported	CDS	380511	380555	.	+	0	ID=cds:T09_9002.1;Parent=transcript:T09_9002.1
+scaffold13s	WormBase_imported	CDS	380894	380929	.	+	0	ID=cds:T09_9002.1;Parent=transcript:T09_9002.1
+scaffold13s	WormBase_imported	CDS	381169	381207	.	+	0	ID=cds:T09_9002.1;Parent=transcript:T09_9002.1
+scaffold13s	WormBase_imported	CDS	381377	381412	.	+	0	ID=cds:T09_9002.1;Parent=transcript:T09_9002.1
+scaffold13s	WormBase_imported	CDS	381538	381582	.	+	0	ID=cds:T09_9002.1;Parent=transcript:T09_9002.1
+scaffold13s	WormBase_imported	CDS	381827	381883	.	+	0	ID=cds:T09_9002.1;Parent=transcript:T09_9002.1
+scaffold13s	WormBase_imported	CDS	382104	382166	.	+	0	ID=cds:T09_9002.1;Parent=transcript:T09_9002.1
+scaffold13s	WormBase_imported	CDS	382236	382370	.	+	0	ID=cds:T09_9002.1;Parent=transcript:T09_9002.1
+scaffold13s	WormBase_imported	CDS	382719	382760	.	+	0	ID=cds:T09_9002.1;Parent=transcript:T09_9002.1
+scaffold13s	WormBase_imported	three_prime_UTR	382761	382806	.	+	.	Parent=transcript:T09_9002.1
 scaffold128s	WormBase_imported	gene	56094	61642	.	+	.	ID=gene:T09_978;Name=T09_978;biotype=protein_coding
 scaffold128s	WormBase_imported	mRNA	56094	61642	.	+	.	ID=transcript:T09_978.1;Parent=gene:T09_978;Name=T09_978.1
 #microexons transcript:T09_978.1:  65 88 151 41 34 51-15-48-48 118 61 30
@@ -193,22 +161,3 @@ scaffold128s	WormBase_imported	CDS	61173	61220	.	+	2	ID=cds:T09_978.3;Parent=tra
 scaffold128s	WormBase_imported	CDS	61280	61397	.	+	2	ID=cds:T09_978.3;Parent=transcript:T09_978.3
 scaffold128s	WormBase_imported	CDS	61472	61532	.	+	1	ID=cds:T09_978.3;Parent=transcript:T09_978.3
 scaffold128s	WormBase_imported	CDS	61613	61642	.	+	0	ID=cds:T09_978.3;Parent=transcript:T09_978.3
-scaffold176s	WormBase_imported	gene	50310	52504	.	+	.	ID=gene:T09_7801;Name=T09_7801;biotype=protein_coding
-scaffold176s	WormBase_imported	mRNA	50310	52504	.	+	.	ID=transcript:T09_7801.1;Parent=gene:T09_7801;Name=T09_7801.1
-#microexons transcript:T09_7801.1:  28 8 44 15 34 18-42-15
-scaffold176s	WormBase_imported	exon	50310	50337	.	+	.	ID=exon:T09_7801.1.1;Parent=transcript:T09_7801.1
-scaffold176s	WormBase_imported	exon	50597	50604	.	+	.	ID=exon:T09_7801.1.2;Parent=transcript:T09_7801.1
-scaffold176s	WormBase_imported	exon	50984	51027	.	+	.	ID=exon:T09_7801.1.3;Parent=transcript:T09_7801.1
-scaffold176s	WormBase_imported	exon	51235	51249	.	+	.	ID=exon:T09_7801.1.4;Parent=transcript:T09_7801.1
-scaffold176s	WormBase_imported	exon	51396	51429	.	+	.	ID=exon:T09_7801.1.5;Parent=transcript:T09_7801.1
-scaffold176s	WormBase_imported	exon	51774	51791	.	+	.	ID=exon:T09_7801.1.6;Parent=transcript:T09_7801.1
-scaffold176s	WormBase_imported	exon	52371	52412	.	+	.	ID=exon:T09_7801.1.7;Parent=transcript:T09_7801.1
-scaffold176s	WormBase_imported	exon	52490	52504	.	+	.	ID=exon:T09_7801.1.8;Parent=transcript:T09_7801.1
-scaffold176s	WormBase_imported	CDS	50310	50337	.	+	0	ID=cds:T09_7801.1;Parent=transcript:T09_7801.1
-scaffold176s	WormBase_imported	CDS	50597	50604	.	+	2	ID=cds:T09_7801.1;Parent=transcript:T09_7801.1
-scaffold176s	WormBase_imported	CDS	50984	51027	.	+	0	ID=cds:T09_7801.1;Parent=transcript:T09_7801.1
-scaffold176s	WormBase_imported	CDS	51235	51249	.	+	1	ID=cds:T09_7801.1;Parent=transcript:T09_7801.1
-scaffold176s	WormBase_imported	CDS	51396	51429	.	+	1	ID=cds:T09_7801.1;Parent=transcript:T09_7801.1
-scaffold176s	WormBase_imported	CDS	51774	51791	.	+	0	ID=cds:T09_7801.1;Parent=transcript:T09_7801.1
-scaffold176s	WormBase_imported	CDS	52371	52412	.	+	0	ID=cds:T09_7801.1;Parent=transcript:T09_7801.1
-scaffold176s	WormBase_imported	CDS	52490	52504	.	+	0	ID=cds:T09_7801.1;Parent=transcript:T09_7801.1

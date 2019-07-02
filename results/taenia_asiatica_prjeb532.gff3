@@ -1,22 +1,3 @@
-TASK_contig0000086	WormBase_imported	gene	37872	41952	.	-	.	ID=gene:TASK_0000061401;Name=TASK_0000061401;biotype=protein_coding
-TASK_contig0000086	WormBase_imported	mRNA	37872	41952	.	-	.	ID=transcript:TASK_0000061401-mRNA-1;Parent=gene:TASK_0000061401;Name=TASK_0000061401-mRNA-1;info=method:InterPro accession:IPR028235 description:Dynein assembly factor 3%2C C-terminal domain %0Amethod:InterPro accession:IPR039304 description:Dynein assembly factor 3%2C axonemal
-#microexons transcript:TASK_0000061401-mRNA-1:  173 94 379 54-54-48 226 130
-TASK_contig0000086	WormBase_imported	exon	41780	41952	.	-	.	ID=exon:TASK_0000061401-mRNA-1.1;Parent=transcript:TASK_0000061401-mRNA-1
-TASK_contig0000086	WormBase_imported	exon	41612	41705	.	-	.	ID=exon:TASK_0000061401-mRNA-1.2;Parent=transcript:TASK_0000061401-mRNA-1
-TASK_contig0000086	WormBase_imported	exon	40871	41249	.	-	.	ID=exon:TASK_0000061401-mRNA-1.3;Parent=transcript:TASK_0000061401-mRNA-1
-TASK_contig0000086	WormBase_imported	exon	40279	40332	.	-	.	ID=exon:TASK_0000061401-mRNA-1.4;Parent=transcript:TASK_0000061401-mRNA-1
-TASK_contig0000086	WormBase_imported	exon	40188	40241	.	-	.	ID=exon:TASK_0000061401-mRNA-1.5;Parent=transcript:TASK_0000061401-mRNA-1
-TASK_contig0000086	WormBase_imported	exon	39867	39914	.	-	.	ID=exon:TASK_0000061401-mRNA-1.6;Parent=transcript:TASK_0000061401-mRNA-1
-TASK_contig0000086	WormBase_imported	exon	38075	38300	.	-	.	ID=exon:TASK_0000061401-mRNA-1.7;Parent=transcript:TASK_0000061401-mRNA-1
-TASK_contig0000086	WormBase_imported	exon	37872	38001	.	-	.	ID=exon:TASK_0000061401-mRNA-1.8;Parent=transcript:TASK_0000061401-mRNA-1
-TASK_contig0000086	WormBase_imported	CDS	41780	41952	.	-	0	ID=cds:TASK_0000061401-mRNA-1;Parent=transcript:TASK_0000061401-mRNA-1
-TASK_contig0000086	WormBase_imported	CDS	41612	41705	.	-	1	ID=cds:TASK_0000061401-mRNA-1;Parent=transcript:TASK_0000061401-mRNA-1
-TASK_contig0000086	WormBase_imported	CDS	40871	41249	.	-	0	ID=cds:TASK_0000061401-mRNA-1;Parent=transcript:TASK_0000061401-mRNA-1
-TASK_contig0000086	WormBase_imported	CDS	40279	40332	.	-	2	ID=cds:TASK_0000061401-mRNA-1;Parent=transcript:TASK_0000061401-mRNA-1
-TASK_contig0000086	WormBase_imported	CDS	40188	40241	.	-	2	ID=cds:TASK_0000061401-mRNA-1;Parent=transcript:TASK_0000061401-mRNA-1
-TASK_contig0000086	WormBase_imported	CDS	39867	39914	.	-	2	ID=cds:TASK_0000061401-mRNA-1;Parent=transcript:TASK_0000061401-mRNA-1
-TASK_contig0000086	WormBase_imported	CDS	38075	38300	.	-	2	ID=cds:TASK_0000061401-mRNA-1;Parent=transcript:TASK_0000061401-mRNA-1
-TASK_contig0000086	WormBase_imported	CDS	37872	38001	.	-	1	ID=cds:TASK_0000061401-mRNA-1;Parent=transcript:TASK_0000061401-mRNA-1
 TASK_scaffold0000436	WormBase_imported	gene	35586	42110	.	-	.	ID=gene:TASK_0000809801;Name=TASK_0000809801;biotype=protein_coding
 TASK_scaffold0000436	WormBase_imported	mRNA	35586	42110	.	-	.	ID=transcript:TASK_0000809801-mRNA-1;Parent=gene:TASK_0000809801;Name=TASK_0000809801-mRNA-1
 #microexons transcript:TASK_0000809801-mRNA-1:  61 51-51-45-39-51-90-99-45-51-45-51 158

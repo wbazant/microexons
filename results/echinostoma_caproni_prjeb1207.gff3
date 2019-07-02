@@ -1,3 +1,33 @@
+ECPE_scaffold0000356	WormBase_imported	gene	30872	60567	.	-	.	ID=gene:ECPE_0000260401;Name=ECPE_0000260401;biotype=protein_coding
+ECPE_scaffold0000356	WormBase_imported	mRNA	30872	60567	.	-	.	ID=transcript:ECPE_0000260401-mRNA-1;Parent=gene:ECPE_0000260401;Name=ECPE_0000260401-mRNA-1
+#microexons transcript:ECPE_0000260401-mRNA-1:  34 24-30-57-57-48-63-63-66-33-51-63 68
+ECPE_scaffold0000356	WormBase_imported	exon	60534	60567	.	-	.	ID=exon:ECPE_0000260401-mRNA-1.1;Parent=transcript:ECPE_0000260401-mRNA-1
+ECPE_scaffold0000356	WormBase_imported	exon	59782	59805	.	-	.	ID=exon:ECPE_0000260401-mRNA-1.2;Parent=transcript:ECPE_0000260401-mRNA-1
+ECPE_scaffold0000356	WormBase_imported	exon	58143	58172	.	-	.	ID=exon:ECPE_0000260401-mRNA-1.3;Parent=transcript:ECPE_0000260401-mRNA-1
+ECPE_scaffold0000356	WormBase_imported	exon	53483	53539	.	-	.	ID=exon:ECPE_0000260401-mRNA-1.4;Parent=transcript:ECPE_0000260401-mRNA-1
+ECPE_scaffold0000356	WormBase_imported	exon	52891	52947	.	-	.	ID=exon:ECPE_0000260401-mRNA-1.5;Parent=transcript:ECPE_0000260401-mRNA-1
+ECPE_scaffold0000356	WormBase_imported	exon	50595	50642	.	-	.	ID=exon:ECPE_0000260401-mRNA-1.6;Parent=transcript:ECPE_0000260401-mRNA-1
+ECPE_scaffold0000356	WormBase_imported	exon	48209	48271	.	-	.	ID=exon:ECPE_0000260401-mRNA-1.7;Parent=transcript:ECPE_0000260401-mRNA-1
+ECPE_scaffold0000356	WormBase_imported	exon	46735	46797	.	-	.	ID=exon:ECPE_0000260401-mRNA-1.8;Parent=transcript:ECPE_0000260401-mRNA-1
+ECPE_scaffold0000356	WormBase_imported	exon	44436	44501	.	-	.	ID=exon:ECPE_0000260401-mRNA-1.9;Parent=transcript:ECPE_0000260401-mRNA-1
+ECPE_scaffold0000356	WormBase_imported	exon	43766	43798	.	-	.	ID=exon:ECPE_0000260401-mRNA-1.10;Parent=transcript:ECPE_0000260401-mRNA-1
+ECPE_scaffold0000356	WormBase_imported	exon	35047	35097	.	-	.	ID=exon:ECPE_0000260401-mRNA-1.11;Parent=transcript:ECPE_0000260401-mRNA-1
+ECPE_scaffold0000356	WormBase_imported	exon	34168	34230	.	-	.	ID=exon:ECPE_0000260401-mRNA-1.12;Parent=transcript:ECPE_0000260401-mRNA-1
+ECPE_scaffold0000356	WormBase_imported	exon	30872	30939	.	-	.	ID=exon:ECPE_0000260401-mRNA-1.13;Parent=transcript:ECPE_0000260401-mRNA-1
+ECPE_scaffold0000356	WormBase_imported	five_prime_UTR	60534	60567	.	-	.	Parent=transcript:ECPE_0000260401-mRNA-1
+ECPE_scaffold0000356	WormBase_imported	five_prime_UTR	59782	59805	.	-	.	Parent=transcript:ECPE_0000260401-mRNA-1
+ECPE_scaffold0000356	WormBase_imported	five_prime_UTR	58143	58172	.	-	.	Parent=transcript:ECPE_0000260401-mRNA-1
+ECPE_scaffold0000356	WormBase_imported	five_prime_UTR	53499	53539	.	-	.	Parent=transcript:ECPE_0000260401-mRNA-1
+ECPE_scaffold0000356	WormBase_imported	CDS	53483	53498	.	-	0	ID=cds:ECPE_0000260401-mRNA-1;Parent=transcript:ECPE_0000260401-mRNA-1
+ECPE_scaffold0000356	WormBase_imported	CDS	52891	52947	.	-	2	ID=cds:ECPE_0000260401-mRNA-1;Parent=transcript:ECPE_0000260401-mRNA-1
+ECPE_scaffold0000356	WormBase_imported	CDS	50595	50642	.	-	2	ID=cds:ECPE_0000260401-mRNA-1;Parent=transcript:ECPE_0000260401-mRNA-1
+ECPE_scaffold0000356	WormBase_imported	CDS	48209	48271	.	-	2	ID=cds:ECPE_0000260401-mRNA-1;Parent=transcript:ECPE_0000260401-mRNA-1
+ECPE_scaffold0000356	WormBase_imported	CDS	46735	46797	.	-	2	ID=cds:ECPE_0000260401-mRNA-1;Parent=transcript:ECPE_0000260401-mRNA-1
+ECPE_scaffold0000356	WormBase_imported	CDS	44436	44501	.	-	2	ID=cds:ECPE_0000260401-mRNA-1;Parent=transcript:ECPE_0000260401-mRNA-1
+ECPE_scaffold0000356	WormBase_imported	CDS	43766	43798	.	-	2	ID=cds:ECPE_0000260401-mRNA-1;Parent=transcript:ECPE_0000260401-mRNA-1
+ECPE_scaffold0000356	WormBase_imported	CDS	35047	35097	.	-	2	ID=cds:ECPE_0000260401-mRNA-1;Parent=transcript:ECPE_0000260401-mRNA-1
+ECPE_scaffold0000356	WormBase_imported	CDS	34168	34230	.	-	2	ID=cds:ECPE_0000260401-mRNA-1;Parent=transcript:ECPE_0000260401-mRNA-1
+ECPE_scaffold0000356	WormBase_imported	CDS	30872	30939	.	-	2	ID=cds:ECPE_0000260401-mRNA-1;Parent=transcript:ECPE_0000260401-mRNA-1
 ECPE_scaffold0000632	WormBase_imported	gene	60111	75978	.	+	.	ID=gene:ECPE_0000298401;Name=ECPE_0000298401;biotype=protein_coding
 ECPE_scaffold0000632	WormBase_imported	mRNA	60111	75978	.	+	.	ID=transcript:ECPE_0000298401-mRNA-1;Parent=gene:ECPE_0000298401;Name=ECPE_0000298401-mRNA-1
 #microexons transcript:ECPE_0000298401-mRNA-1:  7 51-51-51-51-51-51-51-51-51-51-51-51 62

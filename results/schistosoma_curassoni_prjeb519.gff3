@@ -1,0 +1,20 @@
+SCUD_scaffold0002898	WormBase_imported	gene	3671	19368	.	+	.	ID=gene:SCUD_0001241101;Name=SCUD_0001241101;biotype=protein_coding
+SCUD_scaffold0002898	WormBase_imported	mRNA	3671	19368	.	+	.	ID=transcript:SCUD_0001241101-mRNA-1;Parent=gene:SCUD_0001241101;Name=SCUD_0001241101-mRNA-1
+#microexons transcript:SCUD_0001241101-mRNA-1:  57-42-45-30-111 44 130 123
+SCUD_scaffold0002898	WormBase_imported	exon	3671	3727	.	+	.	ID=exon:SCUD_0001241101-mRNA-1.1;Parent=transcript:SCUD_0001241101-mRNA-1
+SCUD_scaffold0002898	WormBase_imported	exon	5340	5381	.	+	.	ID=exon:SCUD_0001241101-mRNA-1.2;Parent=transcript:SCUD_0001241101-mRNA-1
+SCUD_scaffold0002898	WormBase_imported	exon	9762	9806	.	+	.	ID=exon:SCUD_0001241101-mRNA-1.3;Parent=transcript:SCUD_0001241101-mRNA-1
+SCUD_scaffold0002898	WormBase_imported	exon	11233	11262	.	+	.	ID=exon:SCUD_0001241101-mRNA-1.4;Parent=transcript:SCUD_0001241101-mRNA-1
+SCUD_scaffold0002898	WormBase_imported	exon	13774	13884	.	+	.	ID=exon:SCUD_0001241101-mRNA-1.5;Parent=transcript:SCUD_0001241101-mRNA-1
+SCUD_scaffold0002898	WormBase_imported	exon	18410	18453	.	+	.	ID=exon:SCUD_0001241101-mRNA-1.6;Parent=transcript:SCUD_0001241101-mRNA-1
+SCUD_scaffold0002898	WormBase_imported	exon	19011	19140	.	+	.	ID=exon:SCUD_0001241101-mRNA-1.7;Parent=transcript:SCUD_0001241101-mRNA-1
+SCUD_scaffold0002898	WormBase_imported	exon	19246	19368	.	+	.	ID=exon:SCUD_0001241101-mRNA-1.8;Parent=transcript:SCUD_0001241101-mRNA-1
+SCUD_scaffold0002898	WormBase_imported	five_prime_UTR	3671	3682	.	+	.	Parent=transcript:SCUD_0001241101-mRNA-1
+SCUD_scaffold0002898	WormBase_imported	CDS	3683	3727	.	+	0	ID=cds:SCUD_0001241101-mRNA-1;Parent=transcript:SCUD_0001241101-mRNA-1
+SCUD_scaffold0002898	WormBase_imported	CDS	5340	5381	.	+	0	ID=cds:SCUD_0001241101-mRNA-1;Parent=transcript:SCUD_0001241101-mRNA-1
+SCUD_scaffold0002898	WormBase_imported	CDS	9762	9806	.	+	0	ID=cds:SCUD_0001241101-mRNA-1;Parent=transcript:SCUD_0001241101-mRNA-1
+SCUD_scaffold0002898	WormBase_imported	CDS	11233	11262	.	+	0	ID=cds:SCUD_0001241101-mRNA-1;Parent=transcript:SCUD_0001241101-mRNA-1
+SCUD_scaffold0002898	WormBase_imported	CDS	13774	13884	.	+	0	ID=cds:SCUD_0001241101-mRNA-1;Parent=transcript:SCUD_0001241101-mRNA-1
+SCUD_scaffold0002898	WormBase_imported	CDS	18410	18453	.	+	0	ID=cds:SCUD_0001241101-mRNA-1;Parent=transcript:SCUD_0001241101-mRNA-1
+SCUD_scaffold0002898	WormBase_imported	CDS	19011	19140	.	+	1	ID=cds:SCUD_0001241101-mRNA-1;Parent=transcript:SCUD_0001241101-mRNA-1
+SCUD_scaffold0002898	WormBase_imported	CDS	19246	19368	.	+	0	ID=cds:SCUD_0001241101-mRNA-1;Parent=transcript:SCUD_0001241101-mRNA-1

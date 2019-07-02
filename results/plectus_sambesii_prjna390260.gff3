@@ -230,25 +230,6 @@ PSAMB.scaffold573size46772	WormBase_imported	CDS	8386	8493	.	-	0	ID=cds:PSAMB.sc
 PSAMB.scaffold573size46772	WormBase_imported	CDS	7465	7623	.	-	0	ID=cds:PSAMB.scaffold573size46772.g7050.t4;Parent=transcript:PSAMB.scaffold573size46772.g7050.t4
 PSAMB.scaffold573size46772	WormBase_imported	CDS	7386	7411	.	-	0	ID=cds:PSAMB.scaffold573size46772.g7050.t4;Parent=transcript:PSAMB.scaffold573size46772.g7050.t4
 PSAMB.scaffold573size46772	WormBase_imported	CDS	5089	6007	.	-	1	ID=cds:PSAMB.scaffold573size46772.g7050.t4;Parent=transcript:PSAMB.scaffold573size46772.g7050.t4
-PSAMB.scaffold2929size20519	WormBase_imported	gene	11156	14937	.	-	.	ID=gene:PSAMB.scaffold2929size20519.g19648;Name=PSAMB.scaffold2929size20519.g19648;biotype=protein_coding
-PSAMB.scaffold2929size20519	WormBase_imported	mRNA	11156	14937	.	-	.	ID=transcript:PSAMB.scaffold2929size20519.g19648.t1;Parent=gene:PSAMB.scaffold2929size20519.g19648;Name=PSAMB.scaffold2929size20519.g19648.t1
-#microexons transcript:PSAMB.scaffold2929size20519.g19648.t1:  120 181 36-45-45 50 298 248
-PSAMB.scaffold2929size20519	WormBase_imported	exon	14818	14937	.	-	.	ID=exon:PSAMB.scaffold2929size20519.g19648.t1.1;Parent=transcript:PSAMB.scaffold2929size20519.g19648.t1
-PSAMB.scaffold2929size20519	WormBase_imported	exon	13552	13732	.	-	.	ID=exon:PSAMB.scaffold2929size20519.g19648.t1.2;Parent=transcript:PSAMB.scaffold2929size20519.g19648.t1
-PSAMB.scaffold2929size20519	WormBase_imported	exon	12847	12882	.	-	.	ID=exon:PSAMB.scaffold2929size20519.g19648.t1.3;Parent=transcript:PSAMB.scaffold2929size20519.g19648.t1
-PSAMB.scaffold2929size20519	WormBase_imported	exon	12748	12792	.	-	.	ID=exon:PSAMB.scaffold2929size20519.g19648.t1.4;Parent=transcript:PSAMB.scaffold2929size20519.g19648.t1
-PSAMB.scaffold2929size20519	WormBase_imported	exon	12654	12698	.	-	.	ID=exon:PSAMB.scaffold2929size20519.g19648.t1.5;Parent=transcript:PSAMB.scaffold2929size20519.g19648.t1
-PSAMB.scaffold2929size20519	WormBase_imported	exon	12552	12601	.	-	.	ID=exon:PSAMB.scaffold2929size20519.g19648.t1.6;Parent=transcript:PSAMB.scaffold2929size20519.g19648.t1
-PSAMB.scaffold2929size20519	WormBase_imported	exon	11572	11869	.	-	.	ID=exon:PSAMB.scaffold2929size20519.g19648.t1.7;Parent=transcript:PSAMB.scaffold2929size20519.g19648.t1
-PSAMB.scaffold2929size20519	WormBase_imported	exon	11156	11403	.	-	.	ID=exon:PSAMB.scaffold2929size20519.g19648.t1.8;Parent=transcript:PSAMB.scaffold2929size20519.g19648.t1
-PSAMB.scaffold2929size20519	WormBase_imported	CDS	14818	14937	.	-	0	ID=cds:PSAMB.scaffold2929size20519.g19648.t1;Parent=transcript:PSAMB.scaffold2929size20519.g19648.t1
-PSAMB.scaffold2929size20519	WormBase_imported	CDS	13552	13732	.	-	0	ID=cds:PSAMB.scaffold2929size20519.g19648.t1;Parent=transcript:PSAMB.scaffold2929size20519.g19648.t1
-PSAMB.scaffold2929size20519	WormBase_imported	CDS	12847	12882	.	-	2	ID=cds:PSAMB.scaffold2929size20519.g19648.t1;Parent=transcript:PSAMB.scaffold2929size20519.g19648.t1
-PSAMB.scaffold2929size20519	WormBase_imported	CDS	12748	12792	.	-	2	ID=cds:PSAMB.scaffold2929size20519.g19648.t1;Parent=transcript:PSAMB.scaffold2929size20519.g19648.t1
-PSAMB.scaffold2929size20519	WormBase_imported	CDS	12654	12698	.	-	2	ID=cds:PSAMB.scaffold2929size20519.g19648.t1;Parent=transcript:PSAMB.scaffold2929size20519.g19648.t1
-PSAMB.scaffold2929size20519	WormBase_imported	CDS	12552	12601	.	-	2	ID=cds:PSAMB.scaffold2929size20519.g19648.t1;Parent=transcript:PSAMB.scaffold2929size20519.g19648.t1
-PSAMB.scaffold2929size20519	WormBase_imported	CDS	11572	11869	.	-	0	ID=cds:PSAMB.scaffold2929size20519.g19648.t1;Parent=transcript:PSAMB.scaffold2929size20519.g19648.t1
-PSAMB.scaffold2929size20519	WormBase_imported	CDS	11156	11403	.	-	2	ID=cds:PSAMB.scaffold2929size20519.g19648.t1;Parent=transcript:PSAMB.scaffold2929size20519.g19648.t1
 PSAMB.scaffold3025size19970	WormBase_imported	gene	8150	11097	.	+	.	ID=gene:PSAMB.scaffold3025size19970.g20059;Name=PSAMB.scaffold3025size19970.g20059;biotype=protein_coding
 PSAMB.scaffold3025size19970	WormBase_imported	mRNA	8150	11097	.	+	.	ID=transcript:PSAMB.scaffold3025size19970.g20059.t1;Parent=gene:PSAMB.scaffold3025size19970.g20059;Name=PSAMB.scaffold3025size19970.g20059.t1
 #microexons transcript:PSAMB.scaffold3025size19970.g20059.t1:  65 33-45-51-45-39-54-90 19
@@ -304,22 +285,42 @@ PSAMB.scaffold3025size19970	WormBase_imported	CDS	9718	9762	.	+	1	ID=cds:PSAMB.s
 PSAMB.scaffold3025size19970	WormBase_imported	CDS	10082	10120	.	+	1	ID=cds:PSAMB.scaffold3025size19970.g20059.t3;Parent=transcript:PSAMB.scaffold3025size19970.g20059.t3
 PSAMB.scaffold3025size19970	WormBase_imported	CDS	10663	10752	.	+	1	ID=cds:PSAMB.scaffold3025size19970.g20059.t3;Parent=transcript:PSAMB.scaffold3025size19970.g20059.t3
 PSAMB.scaffold3025size19970	WormBase_imported	CDS	11079	11097	.	+	1	ID=cds:PSAMB.scaffold3025size19970.g20059.t3;Parent=transcript:PSAMB.scaffold3025size19970.g20059.t3
-PSAMB.scaffold5254size12190	WormBase_imported	gene	8027	11824	.	-	.	ID=gene:PSAMB.scaffold5254size12190.g26182;Name=PSAMB.scaffold5254size12190.g26182;biotype=protein_coding
-PSAMB.scaffold5254size12190	WormBase_imported	mRNA	8027	11824	.	-	.	ID=transcript:PSAMB.scaffold5254size12190.g26182.t1;Parent=gene:PSAMB.scaffold5254size12190.g26182;Name=PSAMB.scaffold5254size12190.g26182.t1
-#microexons transcript:PSAMB.scaffold5254size12190.g26182.t1:  120 181 36-45-45 50 298 248
-PSAMB.scaffold5254size12190	WormBase_imported	exon	11705	11824	.	-	.	ID=exon:PSAMB.scaffold5254size12190.g26182.t1.1;Parent=transcript:PSAMB.scaffold5254size12190.g26182.t1
-PSAMB.scaffold5254size12190	WormBase_imported	exon	10438	10618	.	-	.	ID=exon:PSAMB.scaffold5254size12190.g26182.t1.2;Parent=transcript:PSAMB.scaffold5254size12190.g26182.t1
-PSAMB.scaffold5254size12190	WormBase_imported	exon	9717	9752	.	-	.	ID=exon:PSAMB.scaffold5254size12190.g26182.t1.3;Parent=transcript:PSAMB.scaffold5254size12190.g26182.t1
-PSAMB.scaffold5254size12190	WormBase_imported	exon	9618	9662	.	-	.	ID=exon:PSAMB.scaffold5254size12190.g26182.t1.4;Parent=transcript:PSAMB.scaffold5254size12190.g26182.t1
-PSAMB.scaffold5254size12190	WormBase_imported	exon	9524	9568	.	-	.	ID=exon:PSAMB.scaffold5254size12190.g26182.t1.5;Parent=transcript:PSAMB.scaffold5254size12190.g26182.t1
-PSAMB.scaffold5254size12190	WormBase_imported	exon	9422	9471	.	-	.	ID=exon:PSAMB.scaffold5254size12190.g26182.t1.6;Parent=transcript:PSAMB.scaffold5254size12190.g26182.t1
-PSAMB.scaffold5254size12190	WormBase_imported	exon	8443	8740	.	-	.	ID=exon:PSAMB.scaffold5254size12190.g26182.t1.7;Parent=transcript:PSAMB.scaffold5254size12190.g26182.t1
-PSAMB.scaffold5254size12190	WormBase_imported	exon	8027	8274	.	-	.	ID=exon:PSAMB.scaffold5254size12190.g26182.t1.8;Parent=transcript:PSAMB.scaffold5254size12190.g26182.t1
-PSAMB.scaffold5254size12190	WormBase_imported	CDS	11705	11824	.	-	0	ID=cds:PSAMB.scaffold5254size12190.g26182.t1;Parent=transcript:PSAMB.scaffold5254size12190.g26182.t1
-PSAMB.scaffold5254size12190	WormBase_imported	CDS	10438	10618	.	-	0	ID=cds:PSAMB.scaffold5254size12190.g26182.t1;Parent=transcript:PSAMB.scaffold5254size12190.g26182.t1
-PSAMB.scaffold5254size12190	WormBase_imported	CDS	9717	9752	.	-	2	ID=cds:PSAMB.scaffold5254size12190.g26182.t1;Parent=transcript:PSAMB.scaffold5254size12190.g26182.t1
-PSAMB.scaffold5254size12190	WormBase_imported	CDS	9618	9662	.	-	2	ID=cds:PSAMB.scaffold5254size12190.g26182.t1;Parent=transcript:PSAMB.scaffold5254size12190.g26182.t1
-PSAMB.scaffold5254size12190	WormBase_imported	CDS	9524	9568	.	-	2	ID=cds:PSAMB.scaffold5254size12190.g26182.t1;Parent=transcript:PSAMB.scaffold5254size12190.g26182.t1
-PSAMB.scaffold5254size12190	WormBase_imported	CDS	9422	9471	.	-	2	ID=cds:PSAMB.scaffold5254size12190.g26182.t1;Parent=transcript:PSAMB.scaffold5254size12190.g26182.t1
-PSAMB.scaffold5254size12190	WormBase_imported	CDS	8443	8740	.	-	0	ID=cds:PSAMB.scaffold5254size12190.g26182.t1;Parent=transcript:PSAMB.scaffold5254size12190.g26182.t1
-PSAMB.scaffold5254size12190	WormBase_imported	CDS	8027	8274	.	-	2	ID=cds:PSAMB.scaffold5254size12190.g26182.t1;Parent=transcript:PSAMB.scaffold5254size12190.g26182.t1
+PSAMB.scaffold7910size6902	WormBase_imported	gene	147	4068	.	+	.	ID=gene:PSAMB.scaffold7910size6902.g30696;Name=PSAMB.scaffold7910size6902.g30696;biotype=protein_coding
+PSAMB.scaffold7910size6902	WormBase_imported	mRNA	147	4068	.	+	.	ID=transcript:PSAMB.scaffold7910size6902.g30696.t1;Parent=gene:PSAMB.scaffold7910size6902.g30696;Name=PSAMB.scaffold7910size6902.g30696.t1;info=method:InterPro accession:IPR010515 description:Collagenase NC10/endostatin %0Amethod:InterPro accession:IPR016186 description:C-type lectin-like/link domain superfamily %0Amethod:InterPro accession:IPR016187 description:C-type lectin fold
+#microexons transcript:PSAMB.scaffold7910size6902.g30696.t1:  129-42-48-27-57 305 184 72
+PSAMB.scaffold7910size6902	WormBase_imported	mRNA	147	4068	.	+	.	ID=transcript:PSAMB.scaffold7910size6902.g30696.t2;Parent=gene:PSAMB.scaffold7910size6902.g30696;Name=PSAMB.scaffold7910size6902.g30696.t2;info=method:InterPro accession:IPR010515 description:Collagenase NC10/endostatin %0Amethod:InterPro accession:IPR016186 description:C-type lectin-like/link domain superfamily %0Amethod:InterPro accession:IPR016187 description:C-type lectin fold
+#microexons transcript:PSAMB.scaffold7910size6902.g30696.t2:  129-42-48-27-105-57 305 184 72
+PSAMB.scaffold7910size6902	WormBase_imported	exon	147	275	.	+	.	ID=exon:PSAMB.scaffold7910size6902.g30696.t1.1;Parent=transcript:PSAMB.scaffold7910size6902.g30696.t1
+PSAMB.scaffold7910size6902	WormBase_imported	exon	498	539	.	+	.	ID=exon:PSAMB.scaffold7910size6902.g30696.t1.2;Parent=transcript:PSAMB.scaffold7910size6902.g30696.t1
+PSAMB.scaffold7910size6902	WormBase_imported	exon	1123	1170	.	+	.	ID=exon:PSAMB.scaffold7910size6902.g30696.t1.3;Parent=transcript:PSAMB.scaffold7910size6902.g30696.t1
+PSAMB.scaffold7910size6902	WormBase_imported	exon	1266	1292	.	+	.	ID=exon:PSAMB.scaffold7910size6902.g30696.t1.4;Parent=transcript:PSAMB.scaffold7910size6902.g30696.t1
+PSAMB.scaffold7910size6902	WormBase_imported	exon	2087	2143	.	+	.	ID=exon:PSAMB.scaffold7910size6902.g30696.t1.5;Parent=transcript:PSAMB.scaffold7910size6902.g30696.t1
+PSAMB.scaffold7910size6902	WormBase_imported	exon	2524	2828	.	+	.	ID=exon:PSAMB.scaffold7910size6902.g30696.t1.6;Parent=transcript:PSAMB.scaffold7910size6902.g30696.t1
+PSAMB.scaffold7910size6902	WormBase_imported	exon	3219	3402	.	+	.	ID=exon:PSAMB.scaffold7910size6902.g30696.t1.7;Parent=transcript:PSAMB.scaffold7910size6902.g30696.t1
+PSAMB.scaffold7910size6902	WormBase_imported	exon	3997	4068	.	+	.	ID=exon:PSAMB.scaffold7910size6902.g30696.t1.8;Parent=transcript:PSAMB.scaffold7910size6902.g30696.t1
+PSAMB.scaffold7910size6902	WormBase_imported	exon	147	275	.	+	.	ID=exon:PSAMB.scaffold7910size6902.g30696.t2.1;Parent=transcript:PSAMB.scaffold7910size6902.g30696.t2
+PSAMB.scaffold7910size6902	WormBase_imported	exon	498	539	.	+	.	ID=exon:PSAMB.scaffold7910size6902.g30696.t2.2;Parent=transcript:PSAMB.scaffold7910size6902.g30696.t2
+PSAMB.scaffold7910size6902	WormBase_imported	exon	1123	1170	.	+	.	ID=exon:PSAMB.scaffold7910size6902.g30696.t2.3;Parent=transcript:PSAMB.scaffold7910size6902.g30696.t2
+PSAMB.scaffold7910size6902	WormBase_imported	exon	1266	1292	.	+	.	ID=exon:PSAMB.scaffold7910size6902.g30696.t2.4;Parent=transcript:PSAMB.scaffold7910size6902.g30696.t2
+PSAMB.scaffold7910size6902	WormBase_imported	exon	1411	1515	.	+	.	ID=exon:PSAMB.scaffold7910size6902.g30696.t2.5;Parent=transcript:PSAMB.scaffold7910size6902.g30696.t2
+PSAMB.scaffold7910size6902	WormBase_imported	exon	2087	2143	.	+	.	ID=exon:PSAMB.scaffold7910size6902.g30696.t2.6;Parent=transcript:PSAMB.scaffold7910size6902.g30696.t2
+PSAMB.scaffold7910size6902	WormBase_imported	exon	2524	2828	.	+	.	ID=exon:PSAMB.scaffold7910size6902.g30696.t2.7;Parent=transcript:PSAMB.scaffold7910size6902.g30696.t2
+PSAMB.scaffold7910size6902	WormBase_imported	exon	3219	3402	.	+	.	ID=exon:PSAMB.scaffold7910size6902.g30696.t2.8;Parent=transcript:PSAMB.scaffold7910size6902.g30696.t2
+PSAMB.scaffold7910size6902	WormBase_imported	exon	3997	4068	.	+	.	ID=exon:PSAMB.scaffold7910size6902.g30696.t2.9;Parent=transcript:PSAMB.scaffold7910size6902.g30696.t2
+PSAMB.scaffold7910size6902	WormBase_imported	CDS	147	275	.	+	0	ID=cds:PSAMB.scaffold7910size6902.g30696.t1;Parent=transcript:PSAMB.scaffold7910size6902.g30696.t1
+PSAMB.scaffold7910size6902	WormBase_imported	CDS	498	539	.	+	0	ID=cds:PSAMB.scaffold7910size6902.g30696.t1;Parent=transcript:PSAMB.scaffold7910size6902.g30696.t1
+PSAMB.scaffold7910size6902	WormBase_imported	CDS	1123	1170	.	+	0	ID=cds:PSAMB.scaffold7910size6902.g30696.t1;Parent=transcript:PSAMB.scaffold7910size6902.g30696.t1
+PSAMB.scaffold7910size6902	WormBase_imported	CDS	1266	1292	.	+	0	ID=cds:PSAMB.scaffold7910size6902.g30696.t1;Parent=transcript:PSAMB.scaffold7910size6902.g30696.t1
+PSAMB.scaffold7910size6902	WormBase_imported	CDS	2087	2143	.	+	0	ID=cds:PSAMB.scaffold7910size6902.g30696.t1;Parent=transcript:PSAMB.scaffold7910size6902.g30696.t1
+PSAMB.scaffold7910size6902	WormBase_imported	CDS	2524	2828	.	+	0	ID=cds:PSAMB.scaffold7910size6902.g30696.t1;Parent=transcript:PSAMB.scaffold7910size6902.g30696.t1
+PSAMB.scaffold7910size6902	WormBase_imported	CDS	3219	3402	.	+	1	ID=cds:PSAMB.scaffold7910size6902.g30696.t1;Parent=transcript:PSAMB.scaffold7910size6902.g30696.t1
+PSAMB.scaffold7910size6902	WormBase_imported	CDS	3997	4068	.	+	0	ID=cds:PSAMB.scaffold7910size6902.g30696.t1;Parent=transcript:PSAMB.scaffold7910size6902.g30696.t1
+PSAMB.scaffold7910size6902	WormBase_imported	CDS	147	275	.	+	0	ID=cds:PSAMB.scaffold7910size6902.g30696.t2;Parent=transcript:PSAMB.scaffold7910size6902.g30696.t2
+PSAMB.scaffold7910size6902	WormBase_imported	CDS	498	539	.	+	0	ID=cds:PSAMB.scaffold7910size6902.g30696.t2;Parent=transcript:PSAMB.scaffold7910size6902.g30696.t2
+PSAMB.scaffold7910size6902	WormBase_imported	CDS	1123	1170	.	+	0	ID=cds:PSAMB.scaffold7910size6902.g30696.t2;Parent=transcript:PSAMB.scaffold7910size6902.g30696.t2
+PSAMB.scaffold7910size6902	WormBase_imported	CDS	1266	1292	.	+	0	ID=cds:PSAMB.scaffold7910size6902.g30696.t2;Parent=transcript:PSAMB.scaffold7910size6902.g30696.t2
+PSAMB.scaffold7910size6902	WormBase_imported	CDS	1411	1515	.	+	0	ID=cds:PSAMB.scaffold7910size6902.g30696.t2;Parent=transcript:PSAMB.scaffold7910size6902.g30696.t2
+PSAMB.scaffold7910size6902	WormBase_imported	CDS	2087	2143	.	+	0	ID=cds:PSAMB.scaffold7910size6902.g30696.t2;Parent=transcript:PSAMB.scaffold7910size6902.g30696.t2
+PSAMB.scaffold7910size6902	WormBase_imported	CDS	2524	2828	.	+	0	ID=cds:PSAMB.scaffold7910size6902.g30696.t2;Parent=transcript:PSAMB.scaffold7910size6902.g30696.t2
+PSAMB.scaffold7910size6902	WormBase_imported	CDS	3219	3402	.	+	1	ID=cds:PSAMB.scaffold7910size6902.g30696.t2;Parent=transcript:PSAMB.scaffold7910size6902.g30696.t2
+PSAMB.scaffold7910size6902	WormBase_imported	CDS	3997	4068	.	+	0	ID=cds:PSAMB.scaffold7910size6902.g30696.t2;Parent=transcript:PSAMB.scaffold7910size6902.g30696.t2

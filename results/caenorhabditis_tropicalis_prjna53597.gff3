@@ -1,27 +1,31 @@
-Scaffold629	WormBase_imported	gene	32759101	32759839	.	-	.	ID=gene:Csp11.Scaffold629.g16491;Name=Csp11.Scaffold629.g16491;biotype=protein_coding
-Scaffold629	WormBase_imported	mRNA	32759101	32759839	.	-	.	ID=transcript:Csp11.Scaffold629.g16491.t1;Parent=gene:Csp11.Scaffold629.g16491;Name=Csp11.Scaffold629.g16491.t1
-#microexons transcript:Csp11.Scaffold629.g16491.t1:  7 113 54-48
-Scaffold629	WormBase_imported	mRNA	32759101	32759839	.	-	.	ID=transcript:Csp11.Scaffold629.g16491.t2;Parent=gene:Csp11.Scaffold629.g16491;Name=Csp11.Scaffold629.g16491.t2;info=method:InterPro accession:IPR005828 description:Major facilitator%2C  sugar transporter-like
-#microexons transcript:Csp11.Scaffold629.g16491.t2:  7 113 134 73 45-54-48
-Scaffold629	WormBase_imported	exon	32759833	32759839	.	-	.	ID=exon:Csp11.Scaffold629.g16491.t1.1;Parent=transcript:Csp11.Scaffold629.g16491.t1
-Scaffold629	WormBase_imported	exon	32759676	32759788	.	-	.	ID=exon:Csp11.Scaffold629.g16491.t1.2;Parent=transcript:Csp11.Scaffold629.g16491.t1
-Scaffold629	WormBase_imported	exon	32759197	32759250	.	-	.	ID=exon:Csp11.Scaffold629.g16491.t1.3;Parent=transcript:Csp11.Scaffold629.g16491.t1
-Scaffold629	WormBase_imported	exon	32759101	32759148	.	-	.	ID=exon:Csp11.Scaffold629.g16491.t1.4;Parent=transcript:Csp11.Scaffold629.g16491.t1
-Scaffold629	WormBase_imported	exon	32759833	32759839	.	-	.	ID=exon:Csp11.Scaffold629.g16491.t2.1;Parent=transcript:Csp11.Scaffold629.g16491.t2
-Scaffold629	WormBase_imported	exon	32759676	32759788	.	-	.	ID=exon:Csp11.Scaffold629.g16491.t2.2;Parent=transcript:Csp11.Scaffold629.g16491.t2
-Scaffold629	WormBase_imported	exon	32759502	32759635	.	-	.	ID=exon:Csp11.Scaffold629.g16491.t2.3;Parent=transcript:Csp11.Scaffold629.g16491.t2
-Scaffold629	WormBase_imported	exon	32759385	32759457	.	-	.	ID=exon:Csp11.Scaffold629.g16491.t2.4;Parent=transcript:Csp11.Scaffold629.g16491.t2
-Scaffold629	WormBase_imported	exon	32759297	32759341	.	-	.	ID=exon:Csp11.Scaffold629.g16491.t2.5;Parent=transcript:Csp11.Scaffold629.g16491.t2
-Scaffold629	WormBase_imported	exon	32759197	32759250	.	-	.	ID=exon:Csp11.Scaffold629.g16491.t2.6;Parent=transcript:Csp11.Scaffold629.g16491.t2
-Scaffold629	WormBase_imported	exon	32759101	32759148	.	-	.	ID=exon:Csp11.Scaffold629.g16491.t2.7;Parent=transcript:Csp11.Scaffold629.g16491.t2
-Scaffold629	WormBase_imported	CDS	32759833	32759839	.	-	0	ID=cds:Csp11.Scaffold629.g16491.t1;Parent=transcript:Csp11.Scaffold629.g16491.t1
-Scaffold629	WormBase_imported	CDS	32759676	32759788	.	-	2	ID=cds:Csp11.Scaffold629.g16491.t1;Parent=transcript:Csp11.Scaffold629.g16491.t1
-Scaffold629	WormBase_imported	CDS	32759197	32759250	.	-	0	ID=cds:Csp11.Scaffold629.g16491.t1;Parent=transcript:Csp11.Scaffold629.g16491.t1
-Scaffold629	WormBase_imported	CDS	32759101	32759148	.	-	0	ID=cds:Csp11.Scaffold629.g16491.t1;Parent=transcript:Csp11.Scaffold629.g16491.t1
-Scaffold629	WormBase_imported	CDS	32759833	32759839	.	-	0	ID=cds:Csp11.Scaffold629.g16491.t2;Parent=transcript:Csp11.Scaffold629.g16491.t2
-Scaffold629	WormBase_imported	CDS	32759676	32759788	.	-	2	ID=cds:Csp11.Scaffold629.g16491.t2;Parent=transcript:Csp11.Scaffold629.g16491.t2
-Scaffold629	WormBase_imported	CDS	32759502	32759635	.	-	0	ID=cds:Csp11.Scaffold629.g16491.t2;Parent=transcript:Csp11.Scaffold629.g16491.t2
-Scaffold629	WormBase_imported	CDS	32759385	32759457	.	-	1	ID=cds:Csp11.Scaffold629.g16491.t2;Parent=transcript:Csp11.Scaffold629.g16491.t2
-Scaffold629	WormBase_imported	CDS	32759297	32759341	.	-	0	ID=cds:Csp11.Scaffold629.g16491.t2;Parent=transcript:Csp11.Scaffold629.g16491.t2
-Scaffold629	WormBase_imported	CDS	32759197	32759250	.	-	0	ID=cds:Csp11.Scaffold629.g16491.t2;Parent=transcript:Csp11.Scaffold629.g16491.t2
-Scaffold629	WormBase_imported	CDS	32759101	32759148	.	-	0	ID=cds:Csp11.Scaffold629.g16491.t2;Parent=transcript:Csp11.Scaffold629.g16491.t2
+Scaffold629	WormBase_imported	gene	15367897	15370993	.	-	.	ID=gene:Csp11.Scaffold629.g11670;Name=Csp11.Scaffold629.g11670;biotype=protein_coding
+Scaffold629	WormBase_imported	mRNA	15367897	15370993	.	-	.	ID=transcript:Csp11.Scaffold629.g11670.t1;Parent=gene:Csp11.Scaffold629.g11670;Name=Csp11.Scaffold629.g11670.t1;info=method:InterPro accession:IPR008676 description:MRG %0Amethod:InterPro accession:IPR016197 description:Chromo-like domain superfamily %0Amethod:InterPro accession:IPR025995 description:RNA binding activity-knot of a chromodomain
+#microexons transcript:Csp11.Scaffold629.g11670.t1:  573-558-54-54-48-54-48-60-54-90-39-108-66-285
+Scaffold629	WormBase_imported	exon	15370421	15370993	.	-	.	ID=exon:Csp11.Scaffold629.g11670.t1.1;Parent=transcript:Csp11.Scaffold629.g11670.t1
+Scaffold629	WormBase_imported	exon	15369504	15370061	.	-	.	ID=exon:Csp11.Scaffold629.g11670.t1.2;Parent=transcript:Csp11.Scaffold629.g11670.t1
+Scaffold629	WormBase_imported	exon	15369405	15369458	.	-	.	ID=exon:Csp11.Scaffold629.g11670.t1.3;Parent=transcript:Csp11.Scaffold629.g11670.t1
+Scaffold629	WormBase_imported	exon	15369301	15369354	.	-	.	ID=exon:Csp11.Scaffold629.g11670.t1.4;Parent=transcript:Csp11.Scaffold629.g11670.t1
+Scaffold629	WormBase_imported	exon	15369206	15369253	.	-	.	ID=exon:Csp11.Scaffold629.g11670.t1.5;Parent=transcript:Csp11.Scaffold629.g11670.t1
+Scaffold629	WormBase_imported	exon	15369102	15369155	.	-	.	ID=exon:Csp11.Scaffold629.g11670.t1.6;Parent=transcript:Csp11.Scaffold629.g11670.t1
+Scaffold629	WormBase_imported	exon	15369007	15369054	.	-	.	ID=exon:Csp11.Scaffold629.g11670.t1.7;Parent=transcript:Csp11.Scaffold629.g11670.t1
+Scaffold629	WormBase_imported	exon	15368898	15368957	.	-	.	ID=exon:Csp11.Scaffold629.g11670.t1.8;Parent=transcript:Csp11.Scaffold629.g11670.t1
+Scaffold629	WormBase_imported	exon	15368785	15368838	.	-	.	ID=exon:Csp11.Scaffold629.g11670.t1.9;Parent=transcript:Csp11.Scaffold629.g11670.t1
+Scaffold629	WormBase_imported	exon	15368653	15368742	.	-	.	ID=exon:Csp11.Scaffold629.g11670.t1.10;Parent=transcript:Csp11.Scaffold629.g11670.t1
+Scaffold629	WormBase_imported	exon	15368571	15368609	.	-	.	ID=exon:Csp11.Scaffold629.g11670.t1.11;Parent=transcript:Csp11.Scaffold629.g11670.t1
+Scaffold629	WormBase_imported	exon	15368422	15368529	.	-	.	ID=exon:Csp11.Scaffold629.g11670.t1.12;Parent=transcript:Csp11.Scaffold629.g11670.t1
+Scaffold629	WormBase_imported	exon	15368314	15368379	.	-	.	ID=exon:Csp11.Scaffold629.g11670.t1.13;Parent=transcript:Csp11.Scaffold629.g11670.t1
+Scaffold629	WormBase_imported	exon	15367897	15368181	.	-	.	ID=exon:Csp11.Scaffold629.g11670.t1.14;Parent=transcript:Csp11.Scaffold629.g11670.t1
+Scaffold629	WormBase_imported	CDS	15370421	15370993	.	-	0	ID=cds:Csp11.Scaffold629.g11670.t1;Parent=transcript:Csp11.Scaffold629.g11670.t1
+Scaffold629	WormBase_imported	CDS	15369504	15370061	.	-	0	ID=cds:Csp11.Scaffold629.g11670.t1;Parent=transcript:Csp11.Scaffold629.g11670.t1
+Scaffold629	WormBase_imported	CDS	15369405	15369458	.	-	0	ID=cds:Csp11.Scaffold629.g11670.t1;Parent=transcript:Csp11.Scaffold629.g11670.t1
+Scaffold629	WormBase_imported	CDS	15369301	15369354	.	-	0	ID=cds:Csp11.Scaffold629.g11670.t1;Parent=transcript:Csp11.Scaffold629.g11670.t1
+Scaffold629	WormBase_imported	CDS	15369206	15369253	.	-	0	ID=cds:Csp11.Scaffold629.g11670.t1;Parent=transcript:Csp11.Scaffold629.g11670.t1
+Scaffold629	WormBase_imported	CDS	15369102	15369155	.	-	0	ID=cds:Csp11.Scaffold629.g11670.t1;Parent=transcript:Csp11.Scaffold629.g11670.t1
+Scaffold629	WormBase_imported	CDS	15369007	15369054	.	-	0	ID=cds:Csp11.Scaffold629.g11670.t1;Parent=transcript:Csp11.Scaffold629.g11670.t1
+Scaffold629	WormBase_imported	CDS	15368898	15368957	.	-	0	ID=cds:Csp11.Scaffold629.g11670.t1;Parent=transcript:Csp11.Scaffold629.g11670.t1
+Scaffold629	WormBase_imported	CDS	15368785	15368838	.	-	0	ID=cds:Csp11.Scaffold629.g11670.t1;Parent=transcript:Csp11.Scaffold629.g11670.t1
+Scaffold629	WormBase_imported	CDS	15368653	15368742	.	-	0	ID=cds:Csp11.Scaffold629.g11670.t1;Parent=transcript:Csp11.Scaffold629.g11670.t1
+Scaffold629	WormBase_imported	CDS	15368571	15368609	.	-	0	ID=cds:Csp11.Scaffold629.g11670.t1;Parent=transcript:Csp11.Scaffold629.g11670.t1
+Scaffold629	WormBase_imported	CDS	15368422	15368529	.	-	0	ID=cds:Csp11.Scaffold629.g11670.t1;Parent=transcript:Csp11.Scaffold629.g11670.t1
+Scaffold629	WormBase_imported	CDS	15368314	15368379	.	-	0	ID=cds:Csp11.Scaffold629.g11670.t1;Parent=transcript:Csp11.Scaffold629.g11670.t1
+Scaffold629	WormBase_imported	CDS	15367897	15368181	.	-	0	ID=cds:Csp11.Scaffold629.g11670.t1;Parent=transcript:Csp11.Scaffold629.g11670.t1

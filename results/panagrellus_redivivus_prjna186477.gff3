@@ -1,3 +1,20 @@
+KB455409	WormBase_imported	gene	124085	125474	.	+	.	ID=gene:Pan_g13020;Name=Pan_g13020;biotype=protein_coding
+KB455409	WormBase_imported	mRNA	124085	125474	.	+	.	ID=transcript:Pan_g13020.t1;Parent=gene:Pan_g13020;Name=Pan_g13020.t1
+#microexons transcript:Pan_g13020.t1:  21-57-57-57-126 122 127
+KB455409	WormBase_imported	exon	124085	124105	.	+	.	ID=exon:Pan_g13020.t1.1;Parent=transcript:Pan_g13020.t1
+KB455409	WormBase_imported	exon	124151	124207	.	+	.	ID=exon:Pan_g13020.t1.2;Parent=transcript:Pan_g13020.t1
+KB455409	WormBase_imported	exon	124253	124309	.	+	.	ID=exon:Pan_g13020.t1.3;Parent=transcript:Pan_g13020.t1
+KB455409	WormBase_imported	exon	124355	124411	.	+	.	ID=exon:Pan_g13020.t1.4;Parent=transcript:Pan_g13020.t1
+KB455409	WormBase_imported	exon	124458	124583	.	+	.	ID=exon:Pan_g13020.t1.5;Parent=transcript:Pan_g13020.t1
+KB455409	WormBase_imported	exon	125176	125297	.	+	.	ID=exon:Pan_g13020.t1.6;Parent=transcript:Pan_g13020.t1
+KB455409	WormBase_imported	exon	125348	125474	.	+	.	ID=exon:Pan_g13020.t1.7;Parent=transcript:Pan_g13020.t1
+KB455409	WormBase_imported	CDS	124085	124105	.	+	0	ID=cds:Pan_g13020.t1;Parent=transcript:Pan_g13020.t1
+KB455409	WormBase_imported	CDS	124151	124207	.	+	0	ID=cds:Pan_g13020.t1;Parent=transcript:Pan_g13020.t1
+KB455409	WormBase_imported	CDS	124253	124309	.	+	0	ID=cds:Pan_g13020.t1;Parent=transcript:Pan_g13020.t1
+KB455409	WormBase_imported	CDS	124355	124411	.	+	0	ID=cds:Pan_g13020.t1;Parent=transcript:Pan_g13020.t1
+KB455409	WormBase_imported	CDS	124458	124583	.	+	0	ID=cds:Pan_g13020.t1;Parent=transcript:Pan_g13020.t1
+KB455409	WormBase_imported	CDS	125176	125297	.	+	0	ID=cds:Pan_g13020.t1;Parent=transcript:Pan_g13020.t1
+KB455409	WormBase_imported	CDS	125348	125474	.	+	1	ID=cds:Pan_g13020.t1;Parent=transcript:Pan_g13020.t1
 KB455338	WormBase_imported	gene	72263	79984	.	+	.	ID=gene:Pan_g10807;Name=Pan_g10807;biotype=protein_coding
 KB455338	WormBase_imported	mRNA	72263	79984	.	+	.	ID=transcript:Pan_g10807.t1;Parent=gene:Pan_g10807;Name=Pan_g10807.t1
 #microexons transcript:Pan_g10807.t1:  127 294-51-51-51-57-51 455

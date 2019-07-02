@@ -1,3 +1,20 @@
+D917DFT_Contig491	WormBase_imported	gene	21412	23280	.	-	.	ID=gene:D917_00324;Name=D917_00324;biotype=protein_coding
+D917DFT_Contig491	WormBase_imported	mRNA	21412	23280	.	-	.	ID=transcript:D917_00324;Parent=gene:D917_00324;Name=D917_00324
+#microexons transcript:D917_00324:  48-36-45-57-63-135-42
+D917DFT_Contig491	WormBase_imported	exon	23233	23280	.	-	.	ID=exon:D917_00324.1;Parent=transcript:D917_00324
+D917DFT_Contig491	WormBase_imported	exon	22750	22785	.	-	.	ID=exon:D917_00324.2;Parent=transcript:D917_00324
+D917DFT_Contig491	WormBase_imported	exon	22579	22623	.	-	.	ID=exon:D917_00324.3;Parent=transcript:D917_00324
+D917DFT_Contig491	WormBase_imported	exon	22273	22329	.	-	.	ID=exon:D917_00324.4;Parent=transcript:D917_00324
+D917DFT_Contig491	WormBase_imported	exon	22002	22064	.	-	.	ID=exon:D917_00324.5;Parent=transcript:D917_00324
+D917DFT_Contig491	WormBase_imported	exon	21798	21932	.	-	.	ID=exon:D917_00324.6;Parent=transcript:D917_00324
+D917DFT_Contig491	WormBase_imported	exon	21412	21453	.	-	.	ID=exon:D917_00324.7;Parent=transcript:D917_00324
+D917DFT_Contig491	WormBase_imported	CDS	23233	23280	.	-	0	ID=cds:D917_00324;Parent=transcript:D917_00324
+D917DFT_Contig491	WormBase_imported	CDS	22750	22785	.	-	0	ID=cds:D917_00324;Parent=transcript:D917_00324
+D917DFT_Contig491	WormBase_imported	CDS	22579	22623	.	-	0	ID=cds:D917_00324;Parent=transcript:D917_00324
+D917DFT_Contig491	WormBase_imported	CDS	22273	22329	.	-	0	ID=cds:D917_00324;Parent=transcript:D917_00324
+D917DFT_Contig491	WormBase_imported	CDS	22002	22064	.	-	0	ID=cds:D917_00324;Parent=transcript:D917_00324
+D917DFT_Contig491	WormBase_imported	CDS	21798	21932	.	-	0	ID=cds:D917_00324;Parent=transcript:D917_00324
+D917DFT_Contig491	WormBase_imported	CDS	21412	21453	.	-	0	ID=cds:D917_00324;Parent=transcript:D917_00324
 D917DFT_Contig1891	WormBase_imported	gene	120	3533	.	+	.	ID=gene:D917_01474;Name=D917_01474;biotype=protein_coding
 D917DFT_Contig1891	WormBase_imported	mRNA	120	3533	.	+	.	ID=transcript:D917_01474;Parent=gene:D917_01474;Name=D917_01474
 #microexons transcript:D917_01474:  63 730 72 128 27-33-36-42-51-150
@@ -21,22 +38,3 @@ D917DFT_Contig1891	WormBase_imported	CDS	2013	2048	.	+	0	ID=cds:D917_01474;Paren
 D917DFT_Contig1891	WormBase_imported	CDS	2723	2764	.	+	0	ID=cds:D917_01474;Parent=transcript:D917_01474
 D917DFT_Contig1891	WormBase_imported	CDS	2912	2962	.	+	0	ID=cds:D917_01474;Parent=transcript:D917_01474
 D917DFT_Contig1891	WormBase_imported	CDS	3384	3533	.	+	0	ID=cds:D917_01474;Parent=transcript:D917_01474
-D917DFT_Contig22110	WormBase_imported	gene	67	788	.	-	.	ID=gene:D917_07755;Name=D917_07755;biotype=protein_coding
-D917DFT_Contig22110	WormBase_imported	mRNA	67	788	.	-	.	ID=transcript:D917_07755;Parent=gene:D917_07755;Name=D917_07755
-#microexons transcript:D917_07755:  24-6-6 11 16 11 149 263
-D917DFT_Contig22110	WormBase_imported	exon	765	788	.	-	.	ID=exon:D917_07755.1;Parent=transcript:D917_07755
-D917DFT_Contig22110	WormBase_imported	exon	729	734	.	-	.	ID=exon:D917_07755.2;Parent=transcript:D917_07755
-D917DFT_Contig22110	WormBase_imported	exon	711	716	.	-	.	ID=exon:D917_07755.3;Parent=transcript:D917_07755
-D917DFT_Contig22110	WormBase_imported	exon	681	691	.	-	.	ID=exon:D917_07755.4;Parent=transcript:D917_07755
-D917DFT_Contig22110	WormBase_imported	exon	561	576	.	-	.	ID=exon:D917_07755.5;Parent=transcript:D917_07755
-D917DFT_Contig22110	WormBase_imported	exon	525	535	.	-	.	ID=exon:D917_07755.6;Parent=transcript:D917_07755
-D917DFT_Contig22110	WormBase_imported	exon	341	489	.	-	.	ID=exon:D917_07755.7;Parent=transcript:D917_07755
-D917DFT_Contig22110	WormBase_imported	exon	67	329	.	-	.	ID=exon:D917_07755.8;Parent=transcript:D917_07755
-D917DFT_Contig22110	WormBase_imported	CDS	765	788	.	-	0	ID=cds:D917_07755;Parent=transcript:D917_07755
-D917DFT_Contig22110	WormBase_imported	CDS	729	734	.	-	0	ID=cds:D917_07755;Parent=transcript:D917_07755
-D917DFT_Contig22110	WormBase_imported	CDS	711	716	.	-	0	ID=cds:D917_07755;Parent=transcript:D917_07755
-D917DFT_Contig22110	WormBase_imported	CDS	681	691	.	-	0	ID=cds:D917_07755;Parent=transcript:D917_07755
-D917DFT_Contig22110	WormBase_imported	CDS	561	576	.	-	1	ID=cds:D917_07755;Parent=transcript:D917_07755
-D917DFT_Contig22110	WormBase_imported	CDS	525	535	.	-	0	ID=cds:D917_07755;Parent=transcript:D917_07755
-D917DFT_Contig22110	WormBase_imported	CDS	341	489	.	-	1	ID=cds:D917_07755;Parent=transcript:D917_07755
-D917DFT_Contig22110	WormBase_imported	CDS	67	329	.	-	2	ID=cds:D917_07755;Parent=transcript:D917_07755

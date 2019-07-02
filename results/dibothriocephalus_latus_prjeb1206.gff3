@@ -1,26 +1,3 @@
-DILT_scaffold0000564	WormBase_imported	gene	4840	17756	.	-	.	ID=gene:DILT_0000255201;Name=DILT_0000255201;biotype=protein_coding
-DILT_scaffold0000564	WormBase_imported	mRNA	4840	17756	.	-	.	ID=transcript:DILT_0000255201-mRNA-1;Parent=gene:DILT_0000255201;Name=DILT_0000255201-mRNA-1;info=method:InterPro accession:IPR011021 description:Arrestin-like%2C N-terminal %0Amethod:InterPro accession:IPR014752 description:Arrestin%2C C-terminal
-#microexons transcript:DILT_0000255201-mRNA-1:  10 51-57-54-57 245 200 130 348-111
-DILT_scaffold0000564	WormBase_imported	exon	17747	17756	.	-	.	ID=exon:DILT_0000255201-mRNA-1.1;Parent=transcript:DILT_0000255201-mRNA-1
-DILT_scaffold0000564	WormBase_imported	exon	14387	14437	.	-	.	ID=exon:DILT_0000255201-mRNA-1.2;Parent=transcript:DILT_0000255201-mRNA-1
-DILT_scaffold0000564	WormBase_imported	exon	14216	14272	.	-	.	ID=exon:DILT_0000255201-mRNA-1.3;Parent=transcript:DILT_0000255201-mRNA-1
-DILT_scaffold0000564	WormBase_imported	exon	14074	14127	.	-	.	ID=exon:DILT_0000255201-mRNA-1.4;Parent=transcript:DILT_0000255201-mRNA-1
-DILT_scaffold0000564	WormBase_imported	exon	13538	13594	.	-	.	ID=exon:DILT_0000255201-mRNA-1.5;Parent=transcript:DILT_0000255201-mRNA-1
-DILT_scaffold0000564	WormBase_imported	exon	10118	10362	.	-	.	ID=exon:DILT_0000255201-mRNA-1.6;Parent=transcript:DILT_0000255201-mRNA-1
-DILT_scaffold0000564	WormBase_imported	exon	7564	7763	.	-	.	ID=exon:DILT_0000255201-mRNA-1.7;Parent=transcript:DILT_0000255201-mRNA-1
-DILT_scaffold0000564	WormBase_imported	exon	6392	6521	.	-	.	ID=exon:DILT_0000255201-mRNA-1.8;Parent=transcript:DILT_0000255201-mRNA-1
-DILT_scaffold0000564	WormBase_imported	exon	5091	5438	.	-	.	ID=exon:DILT_0000255201-mRNA-1.9;Parent=transcript:DILT_0000255201-mRNA-1
-DILT_scaffold0000564	WormBase_imported	exon	4840	4950	.	-	.	ID=exon:DILT_0000255201-mRNA-1.10;Parent=transcript:DILT_0000255201-mRNA-1
-DILT_scaffold0000564	WormBase_imported	CDS	17747	17756	.	-	0	ID=cds:DILT_0000255201-mRNA-1;Parent=transcript:DILT_0000255201-mRNA-1
-DILT_scaffold0000564	WormBase_imported	CDS	14387	14437	.	-	2	ID=cds:DILT_0000255201-mRNA-1;Parent=transcript:DILT_0000255201-mRNA-1
-DILT_scaffold0000564	WormBase_imported	CDS	14216	14272	.	-	2	ID=cds:DILT_0000255201-mRNA-1;Parent=transcript:DILT_0000255201-mRNA-1
-DILT_scaffold0000564	WormBase_imported	CDS	14074	14127	.	-	2	ID=cds:DILT_0000255201-mRNA-1;Parent=transcript:DILT_0000255201-mRNA-1
-DILT_scaffold0000564	WormBase_imported	CDS	13538	13594	.	-	2	ID=cds:DILT_0000255201-mRNA-1;Parent=transcript:DILT_0000255201-mRNA-1
-DILT_scaffold0000564	WormBase_imported	CDS	10118	10362	.	-	2	ID=cds:DILT_0000255201-mRNA-1;Parent=transcript:DILT_0000255201-mRNA-1
-DILT_scaffold0000564	WormBase_imported	CDS	7564	7763	.	-	0	ID=cds:DILT_0000255201-mRNA-1;Parent=transcript:DILT_0000255201-mRNA-1
-DILT_scaffold0000564	WormBase_imported	CDS	6392	6521	.	-	1	ID=cds:DILT_0000255201-mRNA-1;Parent=transcript:DILT_0000255201-mRNA-1
-DILT_scaffold0000564	WormBase_imported	CDS	5091	5438	.	-	0	ID=cds:DILT_0000255201-mRNA-1;Parent=transcript:DILT_0000255201-mRNA-1
-DILT_scaffold0000564	WormBase_imported	CDS	4840	4950	.	-	0	ID=cds:DILT_0000255201-mRNA-1;Parent=transcript:DILT_0000255201-mRNA-1
 DILT_scaffold0003077	WormBase_imported	gene	2817	15436	.	-	.	ID=gene:DILT_0000407801;Name=DILT_0000407801;biotype=protein_coding
 DILT_scaffold0003077	WormBase_imported	mRNA	2817	15436	.	-	.	ID=transcript:DILT_0000407801-mRNA-1;Parent=gene:DILT_0000407801;Name=DILT_0000407801-mRNA-1
 #microexons transcript:DILT_0000407801-mRNA-1:  214 57-57-57-57-57-57-57-57-57-57-57-57-57 113
@@ -54,6 +31,23 @@ DILT_scaffold0003077	WormBase_imported	CDS	5738	5794	.	-	2	ID=cds:DILT_000040780
 DILT_scaffold0003077	WormBase_imported	CDS	5381	5437	.	-	2	ID=cds:DILT_0000407801-mRNA-1;Parent=transcript:DILT_0000407801-mRNA-1
 DILT_scaffold0003077	WormBase_imported	CDS	5213	5269	.	-	2	ID=cds:DILT_0000407801-mRNA-1;Parent=transcript:DILT_0000407801-mRNA-1
 DILT_scaffold0003077	WormBase_imported	CDS	2817	2929	.	-	2	ID=cds:DILT_0000407801-mRNA-1;Parent=transcript:DILT_0000407801-mRNA-1
+DILT_scaffold0005270	WormBase_imported	gene	5286	12845	.	+	.	ID=gene:DILT_0000523601;Name=DILT_0000523601;biotype=protein_coding
+DILT_scaffold0005270	WormBase_imported	mRNA	5286	12845	.	+	.	ID=transcript:DILT_0000523601-mRNA-1;Parent=gene:DILT_0000523601;Name=DILT_0000523601-mRNA-1
+#microexons transcript:DILT_0000523601-mRNA-1:  52 48-48-51-48-75 131
+DILT_scaffold0005270	WormBase_imported	exon	5286	5337	.	+	.	ID=exon:DILT_0000523601-mRNA-1.1;Parent=transcript:DILT_0000523601-mRNA-1
+DILT_scaffold0005270	WormBase_imported	exon	8923	8970	.	+	.	ID=exon:DILT_0000523601-mRNA-1.2;Parent=transcript:DILT_0000523601-mRNA-1
+DILT_scaffold0005270	WormBase_imported	exon	9054	9101	.	+	.	ID=exon:DILT_0000523601-mRNA-1.3;Parent=transcript:DILT_0000523601-mRNA-1
+DILT_scaffold0005270	WormBase_imported	exon	10356	10406	.	+	.	ID=exon:DILT_0000523601-mRNA-1.4;Parent=transcript:DILT_0000523601-mRNA-1
+DILT_scaffold0005270	WormBase_imported	exon	10492	10539	.	+	.	ID=exon:DILT_0000523601-mRNA-1.5;Parent=transcript:DILT_0000523601-mRNA-1
+DILT_scaffold0005270	WormBase_imported	exon	12556	12630	.	+	.	ID=exon:DILT_0000523601-mRNA-1.6;Parent=transcript:DILT_0000523601-mRNA-1
+DILT_scaffold0005270	WormBase_imported	exon	12715	12845	.	+	.	ID=exon:DILT_0000523601-mRNA-1.7;Parent=transcript:DILT_0000523601-mRNA-1
+DILT_scaffold0005270	WormBase_imported	CDS	5286	5337	.	+	0	ID=cds:DILT_0000523601-mRNA-1;Parent=transcript:DILT_0000523601-mRNA-1
+DILT_scaffold0005270	WormBase_imported	CDS	8923	8970	.	+	2	ID=cds:DILT_0000523601-mRNA-1;Parent=transcript:DILT_0000523601-mRNA-1
+DILT_scaffold0005270	WormBase_imported	CDS	9054	9101	.	+	2	ID=cds:DILT_0000523601-mRNA-1;Parent=transcript:DILT_0000523601-mRNA-1
+DILT_scaffold0005270	WormBase_imported	CDS	10356	10406	.	+	2	ID=cds:DILT_0000523601-mRNA-1;Parent=transcript:DILT_0000523601-mRNA-1
+DILT_scaffold0005270	WormBase_imported	CDS	10492	10539	.	+	2	ID=cds:DILT_0000523601-mRNA-1;Parent=transcript:DILT_0000523601-mRNA-1
+DILT_scaffold0005270	WormBase_imported	CDS	12556	12630	.	+	2	ID=cds:DILT_0000523601-mRNA-1;Parent=transcript:DILT_0000523601-mRNA-1
+DILT_scaffold0005270	WormBase_imported	CDS	12715	12845	.	+	2	ID=cds:DILT_0000523601-mRNA-1;Parent=transcript:DILT_0000523601-mRNA-1
 DILT_scaffold0030189	WormBase_imported	gene	3009	5052	.	+	.	ID=gene:DILT_0001400301;Name=DILT_0001400301;biotype=protein_coding
 DILT_scaffold0030189	WormBase_imported	mRNA	3009	5052	.	+	.	ID=transcript:DILT_0001400301-mRNA-1;Parent=gene:DILT_0001400301;Name=DILT_0001400301-mRNA-1
 #microexons transcript:DILT_0001400301-mRNA-1:  46 48-57-57-57-57-57-57 26

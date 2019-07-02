@@ -1,3 +1,22 @@
+FXSY01000008.1	WormBase_imported	gene	240175	241441	.	+	.	ID=gene:Minc3s00008g00565;Name=Minc3s00008g00565;biotype=protein_coding
+FXSY01000008.1	WormBase_imported	mRNA	240175	241441	.	+	.	ID=transcript:Minc3s00008g00565;Parent=gene:Minc3s00008g00565;Name=Minc3s00008g00565;info=method:InterPro accession:IPR001279 description:Metallo-beta-lactamase %0Amethod:InterPro accession:IPR036866 description:Ribonuclease Z/Hydroxyacylglutathione hydrolase-like %0Amethod:InterPro accession:IPR039344 description:Metallo-beta-lactamase domain-containing protein 1
+#microexons transcript:Minc3s00008g00565:  126 133 32 30-33-18-51-96
+FXSY01000008.1	WormBase_imported	exon	240175	240300	.	+	.	ID=exon:Minc3s00008g00565.1;Parent=transcript:Minc3s00008g00565
+FXSY01000008.1	WormBase_imported	exon	240555	240687	.	+	.	ID=exon:Minc3s00008g00565.2;Parent=transcript:Minc3s00008g00565
+FXSY01000008.1	WormBase_imported	exon	240731	240762	.	+	.	ID=exon:Minc3s00008g00565.3;Parent=transcript:Minc3s00008g00565
+FXSY01000008.1	WormBase_imported	exon	240810	240839	.	+	.	ID=exon:Minc3s00008g00565.4;Parent=transcript:Minc3s00008g00565
+FXSY01000008.1	WormBase_imported	exon	240919	240951	.	+	.	ID=exon:Minc3s00008g00565.5;Parent=transcript:Minc3s00008g00565
+FXSY01000008.1	WormBase_imported	exon	241159	241176	.	+	.	ID=exon:Minc3s00008g00565.6;Parent=transcript:Minc3s00008g00565
+FXSY01000008.1	WormBase_imported	exon	241245	241295	.	+	.	ID=exon:Minc3s00008g00565.7;Parent=transcript:Minc3s00008g00565
+FXSY01000008.1	WormBase_imported	exon	241346	241441	.	+	.	ID=exon:Minc3s00008g00565.8;Parent=transcript:Minc3s00008g00565
+FXSY01000008.1	WormBase_imported	CDS	240175	240300	.	+	0	ID=cds:Minc3s00008g00565;Parent=transcript:Minc3s00008g00565
+FXSY01000008.1	WormBase_imported	CDS	240555	240687	.	+	0	ID=cds:Minc3s00008g00565;Parent=transcript:Minc3s00008g00565
+FXSY01000008.1	WormBase_imported	CDS	240731	240762	.	+	2	ID=cds:Minc3s00008g00565;Parent=transcript:Minc3s00008g00565
+FXSY01000008.1	WormBase_imported	CDS	240810	240839	.	+	0	ID=cds:Minc3s00008g00565;Parent=transcript:Minc3s00008g00565
+FXSY01000008.1	WormBase_imported	CDS	240919	240951	.	+	0	ID=cds:Minc3s00008g00565;Parent=transcript:Minc3s00008g00565
+FXSY01000008.1	WormBase_imported	CDS	241159	241176	.	+	0	ID=cds:Minc3s00008g00565;Parent=transcript:Minc3s00008g00565
+FXSY01000008.1	WormBase_imported	CDS	241245	241295	.	+	0	ID=cds:Minc3s00008g00565;Parent=transcript:Minc3s00008g00565
+FXSY01000008.1	WormBase_imported	CDS	241346	241441	.	+	0	ID=cds:Minc3s00008g00565;Parent=transcript:Minc3s00008g00565
 FXSY01000081.1	WormBase_imported	gene	137662	140144	.	-	.	ID=gene:Minc3s00081g03910;Name=Minc3s00081g03910;biotype=protein_coding;previous_stable_id=Minc02573
 FXSY01000081.1	WormBase_imported	mRNA	137662	140144	.	-	.	ID=transcript:Minc3s00081g03910;Parent=gene:Minc3s00081g03910;Name=Minc3s00081g03910
 #microexons transcript:Minc3s00081g03910:  25 36-39-33-48-42 313
@@ -16,83 +35,87 @@ FXSY01000081.1	WormBase_imported	CDS	138617	138664	.	-	2	ID=cds:Minc3s00081g0391
 FXSY01000081.1	WormBase_imported	CDS	138020	138061	.	-	2	ID=cds:Minc3s00081g03910;Parent=transcript:Minc3s00081g03910
 FXSY01000081.1	WormBase_imported	CDS	137865	137974	.	-	2	ID=cds:Minc3s00081g03910;Parent=transcript:Minc3s00081g03910
 FXSY01000081.1	WormBase_imported	three_prime_UTR	137662	137864	.	-	.	Parent=transcript:Minc3s00081g03910
-FXSY01000180.1	WormBase_imported	gene	104919	106780	.	+	.	ID=gene:Minc3s00180g06933;Name=Minc3s00180g06933;biotype=protein_coding
-FXSY01000180.1	WormBase_imported	mRNA	104919	106780	.	+	.	ID=transcript:Minc3s00180g06933;Parent=gene:Minc3s00180g06933;Name=Minc3s00180g06933
-#microexons transcript:Minc3s00180g06933:  116 36-48-39 26 30-180
-FXSY01000180.1	WormBase_imported	exon	104919	105034	.	+	.	ID=exon:Minc3s00180g06933.1;Parent=transcript:Minc3s00180g06933
-FXSY01000180.1	WormBase_imported	exon	105087	105122	.	+	.	ID=exon:Minc3s00180g06933.2;Parent=transcript:Minc3s00180g06933
-FXSY01000180.1	WormBase_imported	exon	105315	105362	.	+	.	ID=exon:Minc3s00180g06933.3;Parent=transcript:Minc3s00180g06933
-FXSY01000180.1	WormBase_imported	exon	105480	105518	.	+	.	ID=exon:Minc3s00180g06933.4;Parent=transcript:Minc3s00180g06933
-FXSY01000180.1	WormBase_imported	exon	106078	106103	.	+	.	ID=exon:Minc3s00180g06933.5;Parent=transcript:Minc3s00180g06933
-FXSY01000180.1	WormBase_imported	exon	106523	106552	.	+	.	ID=exon:Minc3s00180g06933.6;Parent=transcript:Minc3s00180g06933
-FXSY01000180.1	WormBase_imported	exon	106601	106780	.	+	.	ID=exon:Minc3s00180g06933.7;Parent=transcript:Minc3s00180g06933
-FXSY01000180.1	WormBase_imported	five_prime_UTR	104919	104939	.	+	.	Parent=transcript:Minc3s00180g06933
-FXSY01000180.1	WormBase_imported	CDS	104940	105034	.	+	0	ID=cds:Minc3s00180g06933;Parent=transcript:Minc3s00180g06933
-FXSY01000180.1	WormBase_imported	CDS	105087	105122	.	+	1	ID=cds:Minc3s00180g06933;Parent=transcript:Minc3s00180g06933
-FXSY01000180.1	WormBase_imported	CDS	105315	105362	.	+	1	ID=cds:Minc3s00180g06933;Parent=transcript:Minc3s00180g06933
-FXSY01000180.1	WormBase_imported	CDS	105480	105518	.	+	1	ID=cds:Minc3s00180g06933;Parent=transcript:Minc3s00180g06933
-FXSY01000180.1	WormBase_imported	CDS	106078	106103	.	+	1	ID=cds:Minc3s00180g06933;Parent=transcript:Minc3s00180g06933
-FXSY01000180.1	WormBase_imported	CDS	106523	106552	.	+	2	ID=cds:Minc3s00180g06933;Parent=transcript:Minc3s00180g06933
-FXSY01000180.1	WormBase_imported	CDS	106601	106647	.	+	2	ID=cds:Minc3s00180g06933;Parent=transcript:Minc3s00180g06933
-FXSY01000180.1	WormBase_imported	three_prime_UTR	106648	106780	.	+	.	Parent=transcript:Minc3s00180g06933
-FXSY01000381.1	WormBase_imported	gene	51792	54218	.	-	.	ID=gene:Minc3s00381g11355;Name=Minc3s00381g11355;biotype=protein_coding
-FXSY01000381.1	WormBase_imported	mRNA	51792	54218	.	-	.	ID=transcript:Minc3s00381g11355;Parent=gene:Minc3s00381g11355;Name=Minc3s00381g11355
-#microexons transcript:Minc3s00381g11355:  56 48 112 57-45-54 85 457
-FXSY01000381.1	WormBase_imported	exon	54163	54218	.	-	.	ID=exon:Minc3s00381g11355.1;Parent=transcript:Minc3s00381g11355
-FXSY01000381.1	WormBase_imported	exon	53971	54018	.	-	.	ID=exon:Minc3s00381g11355.2;Parent=transcript:Minc3s00381g11355
-FXSY01000381.1	WormBase_imported	exon	53543	53654	.	-	.	ID=exon:Minc3s00381g11355.3;Parent=transcript:Minc3s00381g11355
-FXSY01000381.1	WormBase_imported	exon	52968	53024	.	-	.	ID=exon:Minc3s00381g11355.4;Parent=transcript:Minc3s00381g11355
-FXSY01000381.1	WormBase_imported	exon	52862	52906	.	-	.	ID=exon:Minc3s00381g11355.5;Parent=transcript:Minc3s00381g11355
-FXSY01000381.1	WormBase_imported	exon	52515	52568	.	-	.	ID=exon:Minc3s00381g11355.6;Parent=transcript:Minc3s00381g11355
-FXSY01000381.1	WormBase_imported	exon	52367	52451	.	-	.	ID=exon:Minc3s00381g11355.7;Parent=transcript:Minc3s00381g11355
-FXSY01000381.1	WormBase_imported	exon	51792	52248	.	-	.	ID=exon:Minc3s00381g11355.8;Parent=transcript:Minc3s00381g11355
-FXSY01000381.1	WormBase_imported	CDS	54163	54218	.	-	0	ID=cds:Minc3s00381g11355;Parent=transcript:Minc3s00381g11355
-FXSY01000381.1	WormBase_imported	CDS	53971	54018	.	-	1	ID=cds:Minc3s00381g11355;Parent=transcript:Minc3s00381g11355
-FXSY01000381.1	WormBase_imported	CDS	53543	53654	.	-	1	ID=cds:Minc3s00381g11355;Parent=transcript:Minc3s00381g11355
-FXSY01000381.1	WormBase_imported	CDS	52968	53024	.	-	0	ID=cds:Minc3s00381g11355;Parent=transcript:Minc3s00381g11355
-FXSY01000381.1	WormBase_imported	CDS	52862	52906	.	-	0	ID=cds:Minc3s00381g11355;Parent=transcript:Minc3s00381g11355
-FXSY01000381.1	WormBase_imported	CDS	52515	52568	.	-	0	ID=cds:Minc3s00381g11355;Parent=transcript:Minc3s00381g11355
-FXSY01000381.1	WormBase_imported	CDS	52367	52451	.	-	0	ID=cds:Minc3s00381g11355;Parent=transcript:Minc3s00381g11355
-FXSY01000381.1	WormBase_imported	CDS	52022	52248	.	-	2	ID=cds:Minc3s00381g11355;Parent=transcript:Minc3s00381g11355
-FXSY01000381.1	WormBase_imported	three_prime_UTR	51792	52021	.	-	.	Parent=transcript:Minc3s00381g11355
-FXSY01000468.1	WormBase_imported	gene	46022	48176	.	-	.	ID=gene:Minc3s00468g12846;Name=Minc3s00468g12846;biotype=protein_coding
-FXSY01000468.1	WormBase_imported	mRNA	46022	48176	.	-	.	ID=transcript:Minc3s00468g12846;Parent=gene:Minc3s00468g12846;Name=Minc3s00468g12846;info=method:InterPro accession:IPR003914 description:Rabaptin %0Amethod:InterPro accession:IPR015390 description:Rabaptin%2C GTPase-Rab5 binding domain
-#microexons transcript:Minc3s00468g12846:  36-48-42 22 107 152 121 114
-FXSY01000468.1	WormBase_imported	exon	48141	48176	.	-	.	ID=exon:Minc3s00468g12846.1;Parent=transcript:Minc3s00468g12846
-FXSY01000468.1	WormBase_imported	exon	48043	48090	.	-	.	ID=exon:Minc3s00468g12846.2;Parent=transcript:Minc3s00468g12846
-FXSY01000468.1	WormBase_imported	exon	47471	47512	.	-	.	ID=exon:Minc3s00468g12846.3;Parent=transcript:Minc3s00468g12846
-FXSY01000468.1	WormBase_imported	exon	47402	47423	.	-	.	ID=exon:Minc3s00468g12846.4;Parent=transcript:Minc3s00468g12846
-FXSY01000468.1	WormBase_imported	exon	47249	47355	.	-	.	ID=exon:Minc3s00468g12846.5;Parent=transcript:Minc3s00468g12846
-FXSY01000468.1	WormBase_imported	exon	46635	46786	.	-	.	ID=exon:Minc3s00468g12846.6;Parent=transcript:Minc3s00468g12846
-FXSY01000468.1	WormBase_imported	exon	46465	46585	.	-	.	ID=exon:Minc3s00468g12846.7;Parent=transcript:Minc3s00468g12846
-FXSY01000468.1	WormBase_imported	exon	46022	46135	.	-	.	ID=exon:Minc3s00468g12846.8;Parent=transcript:Minc3s00468g12846
-FXSY01000468.1	WormBase_imported	CDS	48141	48176	.	-	0	ID=cds:Minc3s00468g12846;Parent=transcript:Minc3s00468g12846
-FXSY01000468.1	WormBase_imported	CDS	48043	48090	.	-	0	ID=cds:Minc3s00468g12846;Parent=transcript:Minc3s00468g12846
-FXSY01000468.1	WormBase_imported	CDS	47471	47512	.	-	0	ID=cds:Minc3s00468g12846;Parent=transcript:Minc3s00468g12846
-FXSY01000468.1	WormBase_imported	CDS	47402	47423	.	-	0	ID=cds:Minc3s00468g12846;Parent=transcript:Minc3s00468g12846
-FXSY01000468.1	WormBase_imported	CDS	47249	47355	.	-	2	ID=cds:Minc3s00468g12846;Parent=transcript:Minc3s00468g12846
-FXSY01000468.1	WormBase_imported	CDS	46635	46786	.	-	0	ID=cds:Minc3s00468g12846;Parent=transcript:Minc3s00468g12846
-FXSY01000468.1	WormBase_imported	CDS	46465	46585	.	-	1	ID=cds:Minc3s00468g12846;Parent=transcript:Minc3s00468g12846
-FXSY01000468.1	WormBase_imported	CDS	46022	46135	.	-	0	ID=cds:Minc3s00468g12846;Parent=transcript:Minc3s00468g12846
-FXSY01000854.1	WormBase_imported	gene	23336	24030	.	+	.	ID=gene:Minc3s00854g18122;Name=Minc3s00854g18122;biotype=protein_coding
-FXSY01000854.1	WormBase_imported	mRNA	23336	24030	.	+	.	ID=transcript:Minc3s00854g18122;Parent=gene:Minc3s00854g18122;Name=Minc3s00854g18122;info=method:InterPro accession:IPR005746 description:Thioredoxin %0Amethod:InterPro accession:IPR013766 description:Thioredoxin domain %0Amethod:InterPro accession:IPR017937 description:Thioredoxin%2C conserved site %0Amethod:InterPro accession:IPR036249 description:Thioredoxin-like superfamily
-#microexons transcript:Minc3s00854g18122:  53 68 37 57-30-42 151
-FXSY01000854.1	WormBase_imported	exon	23336	23388	.	+	.	ID=exon:Minc3s00854g18122.1;Parent=transcript:Minc3s00854g18122
-FXSY01000854.1	WormBase_imported	exon	23439	23506	.	+	.	ID=exon:Minc3s00854g18122.2;Parent=transcript:Minc3s00854g18122
-FXSY01000854.1	WormBase_imported	exon	23546	23582	.	+	.	ID=exon:Minc3s00854g18122.3;Parent=transcript:Minc3s00854g18122
-FXSY01000854.1	WormBase_imported	exon	23627	23683	.	+	.	ID=exon:Minc3s00854g18122.4;Parent=transcript:Minc3s00854g18122
-FXSY01000854.1	WormBase_imported	exon	23727	23756	.	+	.	ID=exon:Minc3s00854g18122.5;Parent=transcript:Minc3s00854g18122
-FXSY01000854.1	WormBase_imported	exon	23798	23839	.	+	.	ID=exon:Minc3s00854g18122.6;Parent=transcript:Minc3s00854g18122
-FXSY01000854.1	WormBase_imported	exon	23880	24030	.	+	.	ID=exon:Minc3s00854g18122.7;Parent=transcript:Minc3s00854g18122
-FXSY01000854.1	WormBase_imported	five_prime_UTR	23336	23355	.	+	.	Parent=transcript:Minc3s00854g18122
-FXSY01000854.1	WormBase_imported	CDS	23356	23388	.	+	0	ID=cds:Minc3s00854g18122;Parent=transcript:Minc3s00854g18122
-FXSY01000854.1	WormBase_imported	CDS	23439	23506	.	+	0	ID=cds:Minc3s00854g18122;Parent=transcript:Minc3s00854g18122
-FXSY01000854.1	WormBase_imported	CDS	23546	23582	.	+	1	ID=cds:Minc3s00854g18122;Parent=transcript:Minc3s00854g18122
-FXSY01000854.1	WormBase_imported	CDS	23627	23683	.	+	0	ID=cds:Minc3s00854g18122;Parent=transcript:Minc3s00854g18122
-FXSY01000854.1	WormBase_imported	CDS	23727	23756	.	+	0	ID=cds:Minc3s00854g18122;Parent=transcript:Minc3s00854g18122
-FXSY01000854.1	WormBase_imported	CDS	23798	23839	.	+	0	ID=cds:Minc3s00854g18122;Parent=transcript:Minc3s00854g18122
-FXSY01000854.1	WormBase_imported	CDS	23880	23939	.	+	0	ID=cds:Minc3s00854g18122;Parent=transcript:Minc3s00854g18122
-FXSY01000854.1	WormBase_imported	three_prime_UTR	23940	24030	.	+	.	Parent=transcript:Minc3s00854g18122
+FXSY01000266.1	WormBase_imported	gene	23843	25252	.	-	.	ID=gene:Minc3s00266g08974;Name=Minc3s00266g08974;biotype=protein_coding
+FXSY01000266.1	WormBase_imported	mRNA	23843	25252	.	-	.	ID=transcript:Minc3s00266g08974;Parent=gene:Minc3s00266g08974;Name=Minc3s00266g08974
+#microexons transcript:Minc3s00266g08974:  318-90-27-18-36-24 259
+FXSY01000266.1	WormBase_imported	exon	24935	25252	.	-	.	ID=exon:Minc3s00266g08974.1;Parent=transcript:Minc3s00266g08974
+FXSY01000266.1	WormBase_imported	exon	24720	24809	.	-	.	ID=exon:Minc3s00266g08974.2;Parent=transcript:Minc3s00266g08974
+FXSY01000266.1	WormBase_imported	exon	24393	24419	.	-	.	ID=exon:Minc3s00266g08974.3;Parent=transcript:Minc3s00266g08974
+FXSY01000266.1	WormBase_imported	exon	24326	24343	.	-	.	ID=exon:Minc3s00266g08974.4;Parent=transcript:Minc3s00266g08974
+FXSY01000266.1	WormBase_imported	exon	24244	24279	.	-	.	ID=exon:Minc3s00266g08974.5;Parent=transcript:Minc3s00266g08974
+FXSY01000266.1	WormBase_imported	exon	24173	24196	.	-	.	ID=exon:Minc3s00266g08974.6;Parent=transcript:Minc3s00266g08974
+FXSY01000266.1	WormBase_imported	exon	23843	24101	.	-	.	ID=exon:Minc3s00266g08974.7;Parent=transcript:Minc3s00266g08974
+FXSY01000266.1	WormBase_imported	five_prime_UTR	25132	25252	.	-	.	Parent=transcript:Minc3s00266g08974
+FXSY01000266.1	WormBase_imported	CDS	24935	25131	.	-	0	ID=cds:Minc3s00266g08974;Parent=transcript:Minc3s00266g08974
+FXSY01000266.1	WormBase_imported	CDS	24720	24809	.	-	1	ID=cds:Minc3s00266g08974;Parent=transcript:Minc3s00266g08974
+FXSY01000266.1	WormBase_imported	CDS	24393	24419	.	-	1	ID=cds:Minc3s00266g08974;Parent=transcript:Minc3s00266g08974
+FXSY01000266.1	WormBase_imported	CDS	24326	24343	.	-	1	ID=cds:Minc3s00266g08974;Parent=transcript:Minc3s00266g08974
+FXSY01000266.1	WormBase_imported	CDS	24244	24279	.	-	1	ID=cds:Minc3s00266g08974;Parent=transcript:Minc3s00266g08974
+FXSY01000266.1	WormBase_imported	CDS	24173	24196	.	-	1	ID=cds:Minc3s00266g08974;Parent=transcript:Minc3s00266g08974
+FXSY01000266.1	WormBase_imported	CDS	24002	24101	.	-	1	ID=cds:Minc3s00266g08974;Parent=transcript:Minc3s00266g08974
+FXSY01000266.1	WormBase_imported	three_prime_UTR	23843	24001	.	-	.	Parent=transcript:Minc3s00266g08974
+FXSY01000315.1	WormBase_imported	gene	70110	71650	.	-	.	ID=gene:Minc3s00315g10023;Name=Minc3s00315g10023;biotype=protein_coding;previous_stable_id=Minc07627
+FXSY01000315.1	WormBase_imported	mRNA	70110	71650	.	-	.	ID=transcript:Minc3s00315g10023;Parent=gene:Minc3s00315g10023;Name=Minc3s00315g10023
+#microexons transcript:Minc3s00315g10023:  301 90-30-18-36-24-249
+FXSY01000315.1	WormBase_imported	exon	71350	71650	.	-	.	ID=exon:Minc3s00315g10023.1;Parent=transcript:Minc3s00315g10023
+FXSY01000315.1	WormBase_imported	exon	71123	71212	.	-	.	ID=exon:Minc3s00315g10023.2;Parent=transcript:Minc3s00315g10023
+FXSY01000315.1	WormBase_imported	exon	70644	70673	.	-	.	ID=exon:Minc3s00315g10023.3;Parent=transcript:Minc3s00315g10023
+FXSY01000315.1	WormBase_imported	exon	70581	70598	.	-	.	ID=exon:Minc3s00315g10023.4;Parent=transcript:Minc3s00315g10023
+FXSY01000315.1	WormBase_imported	exon	70498	70533	.	-	.	ID=exon:Minc3s00315g10023.5;Parent=transcript:Minc3s00315g10023
+FXSY01000315.1	WormBase_imported	exon	70427	70450	.	-	.	ID=exon:Minc3s00315g10023.6;Parent=transcript:Minc3s00315g10023
+FXSY01000315.1	WormBase_imported	exon	70110	70358	.	-	.	ID=exon:Minc3s00315g10023.7;Parent=transcript:Minc3s00315g10023
+FXSY01000315.1	WormBase_imported	five_prime_UTR	71350	71650	.	-	.	Parent=transcript:Minc3s00315g10023
+FXSY01000315.1	WormBase_imported	five_prime_UTR	71161	71212	.	-	.	Parent=transcript:Minc3s00315g10023
+FXSY01000315.1	WormBase_imported	CDS	71123	71160	.	-	0	ID=cds:Minc3s00315g10023;Parent=transcript:Minc3s00315g10023
+FXSY01000315.1	WormBase_imported	CDS	70644	70673	.	-	1	ID=cds:Minc3s00315g10023;Parent=transcript:Minc3s00315g10023
+FXSY01000315.1	WormBase_imported	CDS	70581	70598	.	-	1	ID=cds:Minc3s00315g10023;Parent=transcript:Minc3s00315g10023
+FXSY01000315.1	WormBase_imported	CDS	70498	70533	.	-	1	ID=cds:Minc3s00315g10023;Parent=transcript:Minc3s00315g10023
+FXSY01000315.1	WormBase_imported	CDS	70427	70450	.	-	1	ID=cds:Minc3s00315g10023;Parent=transcript:Minc3s00315g10023
+FXSY01000315.1	WormBase_imported	CDS	70259	70358	.	-	1	ID=cds:Minc3s00315g10023;Parent=transcript:Minc3s00315g10023
+FXSY01000315.1	WormBase_imported	three_prime_UTR	70110	70258	.	-	.	Parent=transcript:Minc3s00315g10023
+FXSY01000583.1	WormBase_imported	gene	3996	5428	.	+	.	ID=gene:Minc3s00583g14630;Name=Minc3s00583g14630;biotype=protein_coding
+FXSY01000583.1	WormBase_imported	mRNA	3996	5428	.	+	.	ID=transcript:Minc3s00583g14630;Parent=gene:Minc3s00583g14630;Name=Minc3s00583g14630;info=method:InterPro accession:IPR005225 description:Small GTP-binding protein domain %0Amethod:InterPro accession:IPR006689 description:Small GTPase superfamily%2C ARF/SAR type %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase
+#microexons transcript:Minc3s00583g14630:  3-66 95 94 57-45-24-48-69 158
+FXSY01000583.1	WormBase_imported	exon	3996	3998	.	+	.	ID=exon:Minc3s00583g14630.1;Parent=transcript:Minc3s00583g14630
+FXSY01000583.1	WormBase_imported	exon	4048	4113	.	+	.	ID=exon:Minc3s00583g14630.2;Parent=transcript:Minc3s00583g14630
+FXSY01000583.1	WormBase_imported	exon	4157	4251	.	+	.	ID=exon:Minc3s00583g14630.3;Parent=transcript:Minc3s00583g14630
+FXSY01000583.1	WormBase_imported	exon	4578	4671	.	+	.	ID=exon:Minc3s00583g14630.4;Parent=transcript:Minc3s00583g14630
+FXSY01000583.1	WormBase_imported	exon	4716	4772	.	+	.	ID=exon:Minc3s00583g14630.5;Parent=transcript:Minc3s00583g14630
+FXSY01000583.1	WormBase_imported	exon	4817	4861	.	+	.	ID=exon:Minc3s00583g14630.6;Parent=transcript:Minc3s00583g14630
+FXSY01000583.1	WormBase_imported	exon	4920	4943	.	+	.	ID=exon:Minc3s00583g14630.7;Parent=transcript:Minc3s00583g14630
+FXSY01000583.1	WormBase_imported	exon	4991	5038	.	+	.	ID=exon:Minc3s00583g14630.8;Parent=transcript:Minc3s00583g14630
+FXSY01000583.1	WormBase_imported	exon	5152	5220	.	+	.	ID=exon:Minc3s00583g14630.9;Parent=transcript:Minc3s00583g14630
+FXSY01000583.1	WormBase_imported	exon	5271	5428	.	+	.	ID=exon:Minc3s00583g14630.10;Parent=transcript:Minc3s00583g14630
+FXSY01000583.1	WormBase_imported	CDS	3996	3998	.	+	0	ID=cds:Minc3s00583g14630;Parent=transcript:Minc3s00583g14630
+FXSY01000583.1	WormBase_imported	CDS	4048	4113	.	+	0	ID=cds:Minc3s00583g14630;Parent=transcript:Minc3s00583g14630
+FXSY01000583.1	WormBase_imported	CDS	4157	4251	.	+	0	ID=cds:Minc3s00583g14630;Parent=transcript:Minc3s00583g14630
+FXSY01000583.1	WormBase_imported	CDS	4578	4671	.	+	1	ID=cds:Minc3s00583g14630;Parent=transcript:Minc3s00583g14630
+FXSY01000583.1	WormBase_imported	CDS	4716	4772	.	+	0	ID=cds:Minc3s00583g14630;Parent=transcript:Minc3s00583g14630
+FXSY01000583.1	WormBase_imported	CDS	4817	4861	.	+	0	ID=cds:Minc3s00583g14630;Parent=transcript:Minc3s00583g14630
+FXSY01000583.1	WormBase_imported	CDS	4920	4943	.	+	0	ID=cds:Minc3s00583g14630;Parent=transcript:Minc3s00583g14630
+FXSY01000583.1	WormBase_imported	CDS	4991	5038	.	+	0	ID=cds:Minc3s00583g14630;Parent=transcript:Minc3s00583g14630
+FXSY01000583.1	WormBase_imported	CDS	5152	5220	.	+	0	ID=cds:Minc3s00583g14630;Parent=transcript:Minc3s00583g14630
+FXSY01000583.1	WormBase_imported	CDS	5271	5345	.	+	0	ID=cds:Minc3s00583g14630;Parent=transcript:Minc3s00583g14630
+FXSY01000583.1	WormBase_imported	three_prime_UTR	5346	5428	.	+	.	Parent=transcript:Minc3s00583g14630
+FXSY01001104.1	WormBase_imported	gene	34353	35713	.	+	.	ID=gene:Minc3s01104g20764;Name=Minc3s01104g20764;biotype=protein_coding
+FXSY01001104.1	WormBase_imported	mRNA	34353	35713	.	+	.	ID=transcript:Minc3s01104g20764;Parent=gene:Minc3s01104g20764;Name=Minc3s01104g20764;info=method:InterPro accession:IPR001279 description:Metallo-beta-lactamase %0Amethod:InterPro accession:IPR036866 description:Ribonuclease Z/Hydroxyacylglutathione hydrolase-like %0Amethod:InterPro accession:IPR039344 description:Metallo-beta-lactamase domain-containing protein 1
+#microexons transcript:Minc3s01104g20764:  132 133 32 30-33-18-51-96
+FXSY01001104.1	WormBase_imported	exon	34353	34484	.	+	.	ID=exon:Minc3s01104g20764.1;Parent=transcript:Minc3s01104g20764
+FXSY01001104.1	WormBase_imported	exon	34819	34951	.	+	.	ID=exon:Minc3s01104g20764.2;Parent=transcript:Minc3s01104g20764
+FXSY01001104.1	WormBase_imported	exon	34990	35021	.	+	.	ID=exon:Minc3s01104g20764.3;Parent=transcript:Minc3s01104g20764
+FXSY01001104.1	WormBase_imported	exon	35066	35095	.	+	.	ID=exon:Minc3s01104g20764.4;Parent=transcript:Minc3s01104g20764
+FXSY01001104.1	WormBase_imported	exon	35183	35215	.	+	.	ID=exon:Minc3s01104g20764.5;Parent=transcript:Minc3s01104g20764
+FXSY01001104.1	WormBase_imported	exon	35442	35459	.	+	.	ID=exon:Minc3s01104g20764.6;Parent=transcript:Minc3s01104g20764
+FXSY01001104.1	WormBase_imported	exon	35520	35570	.	+	.	ID=exon:Minc3s01104g20764.7;Parent=transcript:Minc3s01104g20764
+FXSY01001104.1	WormBase_imported	exon	35618	35713	.	+	.	ID=exon:Minc3s01104g20764.8;Parent=transcript:Minc3s01104g20764
+FXSY01001104.1	WormBase_imported	CDS	34353	34484	.	+	0	ID=cds:Minc3s01104g20764;Parent=transcript:Minc3s01104g20764
+FXSY01001104.1	WormBase_imported	CDS	34819	34951	.	+	0	ID=cds:Minc3s01104g20764;Parent=transcript:Minc3s01104g20764
+FXSY01001104.1	WormBase_imported	CDS	34990	35021	.	+	2	ID=cds:Minc3s01104g20764;Parent=transcript:Minc3s01104g20764
+FXSY01001104.1	WormBase_imported	CDS	35066	35095	.	+	0	ID=cds:Minc3s01104g20764;Parent=transcript:Minc3s01104g20764
+FXSY01001104.1	WormBase_imported	CDS	35183	35215	.	+	0	ID=cds:Minc3s01104g20764;Parent=transcript:Minc3s01104g20764
+FXSY01001104.1	WormBase_imported	CDS	35442	35459	.	+	0	ID=cds:Minc3s01104g20764;Parent=transcript:Minc3s01104g20764
+FXSY01001104.1	WormBase_imported	CDS	35520	35570	.	+	0	ID=cds:Minc3s01104g20764;Parent=transcript:Minc3s01104g20764
+FXSY01001104.1	WormBase_imported	CDS	35618	35713	.	+	0	ID=cds:Minc3s01104g20764;Parent=transcript:Minc3s01104g20764
 FXSY01001470.1	WormBase_imported	gene	2334	4303	.	+	.	ID=gene:Minc3s01470g24091;Name=Minc3s01470g24091;biotype=protein_coding;previous_stable_id=Minc18849
 FXSY01001470.1	WormBase_imported	mRNA	2334	4303	.	+	.	ID=transcript:Minc3s01470g24091;Parent=gene:Minc3s01470g24091;Name=Minc3s01470g24091
 #microexons transcript:Minc3s01470g24091:  109 36-36-39-45-39-237

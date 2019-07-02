@@ -1,0 +1,27 @@
+Scaffold722	WormBase_imported	gene	166333	172614	.	+	.	ID=gene:GS_12325;Name=GS_12325;biotype=protein_coding
+Scaffold722	WormBase_imported	mRNA	166333	172614	.	+	.	ID=transcript:GS_12325;Parent=gene:GS_12325;Name=GS_12325;info=method:InterPro accession:IPR008405 description:Apolipoprotein L
+#microexons transcript:GS_12325:  30-132 118 170 39-54-54-51-54-63-57-264
+Scaffold722	WormBase_imported	exon	166333	166362	.	+	.	ID=exon:GS_12325.1;Parent=transcript:GS_12325
+Scaffold722	WormBase_imported	exon	166945	167076	.	+	.	ID=exon:GS_12325.2;Parent=transcript:GS_12325
+Scaffold722	WormBase_imported	exon	167413	167530	.	+	.	ID=exon:GS_12325.3;Parent=transcript:GS_12325
+Scaffold722	WormBase_imported	exon	167997	168166	.	+	.	ID=exon:GS_12325.4;Parent=transcript:GS_12325
+Scaffold722	WormBase_imported	exon	168426	168464	.	+	.	ID=exon:GS_12325.5;Parent=transcript:GS_12325
+Scaffold722	WormBase_imported	exon	169016	169069	.	+	.	ID=exon:GS_12325.6;Parent=transcript:GS_12325
+Scaffold722	WormBase_imported	exon	169861	169914	.	+	.	ID=exon:GS_12325.7;Parent=transcript:GS_12325
+Scaffold722	WormBase_imported	exon	170246	170296	.	+	.	ID=exon:GS_12325.8;Parent=transcript:GS_12325
+Scaffold722	WormBase_imported	exon	171090	171143	.	+	.	ID=exon:GS_12325.9;Parent=transcript:GS_12325
+Scaffold722	WormBase_imported	exon	171512	171574	.	+	.	ID=exon:GS_12325.10;Parent=transcript:GS_12325
+Scaffold722	WormBase_imported	exon	171904	171960	.	+	.	ID=exon:GS_12325.11;Parent=transcript:GS_12325
+Scaffold722	WormBase_imported	exon	172351	172614	.	+	.	ID=exon:GS_12325.12;Parent=transcript:GS_12325
+Scaffold722	WormBase_imported	CDS	166333	166362	.	+	0	ID=cds:GS_12325;Parent=transcript:GS_12325
+Scaffold722	WormBase_imported	CDS	166945	167076	.	+	0	ID=cds:GS_12325;Parent=transcript:GS_12325
+Scaffold722	WormBase_imported	CDS	167413	167530	.	+	0	ID=cds:GS_12325;Parent=transcript:GS_12325
+Scaffold722	WormBase_imported	CDS	167997	168166	.	+	2	ID=cds:GS_12325;Parent=transcript:GS_12325
+Scaffold722	WormBase_imported	CDS	168426	168464	.	+	0	ID=cds:GS_12325;Parent=transcript:GS_12325
+Scaffold722	WormBase_imported	CDS	169016	169069	.	+	0	ID=cds:GS_12325;Parent=transcript:GS_12325
+Scaffold722	WormBase_imported	CDS	169861	169914	.	+	0	ID=cds:GS_12325;Parent=transcript:GS_12325
+Scaffold722	WormBase_imported	CDS	170246	170296	.	+	0	ID=cds:GS_12325;Parent=transcript:GS_12325
+Scaffold722	WormBase_imported	CDS	171090	171143	.	+	0	ID=cds:GS_12325;Parent=transcript:GS_12325
+Scaffold722	WormBase_imported	CDS	171512	171574	.	+	0	ID=cds:GS_12325;Parent=transcript:GS_12325
+Scaffold722	WormBase_imported	CDS	171904	171960	.	+	0	ID=cds:GS_12325;Parent=transcript:GS_12325
+Scaffold722	WormBase_imported	CDS	172351	172614	.	+	0	ID=cds:GS_12325;Parent=transcript:GS_12325

@@ -1,39 +1,3 @@
-NXFT01002039.1	WormBase_imported	gene	48855	49801	.	+	.	ID=gene:NXFT01002039.1.5273_g;Name=NXFT01002039.1.5273_g;biotype=protein_coding
-NXFT01002039.1	WormBase_imported	mRNA	48855	49801	.	+	.	ID=transcript:NXFT01002039.1.5273_g;Parent=gene:NXFT01002039.1.5273_g;Name=NXFT01002039.1.5273_g
-#microexons transcript:NXFT01002039.1.5273_g:  21-57-48 74 28 69-69
-NXFT01002039.1	WormBase_imported	exon	48855	48875	.	+	.	ID=exon:NXFT01002039.1.5273_g.1;Parent=transcript:NXFT01002039.1.5273_g
-NXFT01002039.1	WormBase_imported	exon	49020	49076	.	+	.	ID=exon:NXFT01002039.1.5273_g.2;Parent=transcript:NXFT01002039.1.5273_g
-NXFT01002039.1	WormBase_imported	exon	49182	49229	.	+	.	ID=exon:NXFT01002039.1.5273_g.3;Parent=transcript:NXFT01002039.1.5273_g
-NXFT01002039.1	WormBase_imported	exon	49272	49345	.	+	.	ID=exon:NXFT01002039.1.5273_g.4;Parent=transcript:NXFT01002039.1.5273_g
-NXFT01002039.1	WormBase_imported	exon	49381	49408	.	+	.	ID=exon:NXFT01002039.1.5273_g.5;Parent=transcript:NXFT01002039.1.5273_g
-NXFT01002039.1	WormBase_imported	exon	49627	49695	.	+	.	ID=exon:NXFT01002039.1.5273_g.6;Parent=transcript:NXFT01002039.1.5273_g
-NXFT01002039.1	WormBase_imported	exon	49733	49801	.	+	.	ID=exon:NXFT01002039.1.5273_g.7;Parent=transcript:NXFT01002039.1.5273_g
-NXFT01002039.1	WormBase_imported	CDS	48855	48875	.	+	0	ID=cds:NXFT01002039.1.5273_g;Parent=transcript:NXFT01002039.1.5273_g
-NXFT01002039.1	WormBase_imported	CDS	49020	49076	.	+	0	ID=cds:NXFT01002039.1.5273_g;Parent=transcript:NXFT01002039.1.5273_g
-NXFT01002039.1	WormBase_imported	CDS	49182	49229	.	+	0	ID=cds:NXFT01002039.1.5273_g;Parent=transcript:NXFT01002039.1.5273_g
-NXFT01002039.1	WormBase_imported	CDS	49272	49345	.	+	0	ID=cds:NXFT01002039.1.5273_g;Parent=transcript:NXFT01002039.1.5273_g
-NXFT01002039.1	WormBase_imported	CDS	49381	49408	.	+	1	ID=cds:NXFT01002039.1.5273_g;Parent=transcript:NXFT01002039.1.5273_g
-NXFT01002039.1	WormBase_imported	CDS	49627	49695	.	+	0	ID=cds:NXFT01002039.1.5273_g;Parent=transcript:NXFT01002039.1.5273_g
-NXFT01002039.1	WormBase_imported	CDS	49733	49801	.	+	0	ID=cds:NXFT01002039.1.5273_g;Parent=transcript:NXFT01002039.1.5273_g
-NXFT01000328.1	WormBase_imported	gene	26039	27145	.	+	.	ID=gene:NXFT01000328.1.8621_g;Name=NXFT01000328.1.8621_g;biotype=protein_coding
-NXFT01000328.1	WormBase_imported	mRNA	26039	27145	.	+	.	ID=transcript:NXFT01000328.1.8621_g;Parent=gene:NXFT01000328.1.8621_g;Name=NXFT01000328.1.8621_g;info=method:InterPro accession:IPR003582 description:ShKT domain
-#microexons transcript:NXFT01000328.1.8621_g:  110 192 101 33-27-15 76 109
-NXFT01000328.1	WormBase_imported	exon	26039	26148	.	+	.	ID=exon:NXFT01000328.1.8621_g.1;Parent=transcript:NXFT01000328.1.8621_g
-NXFT01000328.1	WormBase_imported	exon	26209	26400	.	+	.	ID=exon:NXFT01000328.1.8621_g.2;Parent=transcript:NXFT01000328.1.8621_g
-NXFT01000328.1	WormBase_imported	exon	26439	26539	.	+	.	ID=exon:NXFT01000328.1.8621_g.3;Parent=transcript:NXFT01000328.1.8621_g
-NXFT01000328.1	WormBase_imported	exon	26585	26617	.	+	.	ID=exon:NXFT01000328.1.8621_g.4;Parent=transcript:NXFT01000328.1.8621_g
-NXFT01000328.1	WormBase_imported	exon	26696	26722	.	+	.	ID=exon:NXFT01000328.1.8621_g.5;Parent=transcript:NXFT01000328.1.8621_g
-NXFT01000328.1	WormBase_imported	exon	26769	26783	.	+	.	ID=exon:NXFT01000328.1.8621_g.6;Parent=transcript:NXFT01000328.1.8621_g
-NXFT01000328.1	WormBase_imported	exon	26917	26992	.	+	.	ID=exon:NXFT01000328.1.8621_g.7;Parent=transcript:NXFT01000328.1.8621_g
-NXFT01000328.1	WormBase_imported	exon	27037	27145	.	+	.	ID=exon:NXFT01000328.1.8621_g.8;Parent=transcript:NXFT01000328.1.8621_g
-NXFT01000328.1	WormBase_imported	CDS	26039	26148	.	+	0	ID=cds:NXFT01000328.1.8621_g;Parent=transcript:NXFT01000328.1.8621_g
-NXFT01000328.1	WormBase_imported	CDS	26209	26400	.	+	1	ID=cds:NXFT01000328.1.8621_g;Parent=transcript:NXFT01000328.1.8621_g
-NXFT01000328.1	WormBase_imported	CDS	26439	26539	.	+	1	ID=cds:NXFT01000328.1.8621_g;Parent=transcript:NXFT01000328.1.8621_g
-NXFT01000328.1	WormBase_imported	CDS	26585	26617	.	+	2	ID=cds:NXFT01000328.1.8621_g;Parent=transcript:NXFT01000328.1.8621_g
-NXFT01000328.1	WormBase_imported	CDS	26696	26722	.	+	2	ID=cds:NXFT01000328.1.8621_g;Parent=transcript:NXFT01000328.1.8621_g
-NXFT01000328.1	WormBase_imported	CDS	26769	26783	.	+	2	ID=cds:NXFT01000328.1.8621_g;Parent=transcript:NXFT01000328.1.8621_g
-NXFT01000328.1	WormBase_imported	CDS	26917	26992	.	+	2	ID=cds:NXFT01000328.1.8621_g;Parent=transcript:NXFT01000328.1.8621_g
-NXFT01000328.1	WormBase_imported	CDS	27037	27145	.	+	1	ID=cds:NXFT01000328.1.8621_g;Parent=transcript:NXFT01000328.1.8621_g
 NXFT01000465.1	WormBase_imported	gene	119	1137	.	-	.	ID=gene:NXFT01000465.1.1054_g;Name=NXFT01000465.1.1054_g;biotype=protein_coding
 NXFT01000465.1	WormBase_imported	mRNA	119	1137	.	-	.	ID=transcript:NXFT01000465.1.1054_g;Parent=gene:NXFT01000465.1.1054_g;Name=NXFT01000465.1.1054_g
 #microexons transcript:NXFT01000465.1.1054_g:  27-54-207-48-45-42-45
@@ -51,27 +15,6 @@ NXFT01000465.1	WormBase_imported	CDS	445	492	.	-	0	ID=cds:NXFT01000465.1.1054_g;
 NXFT01000465.1	WormBase_imported	CDS	293	337	.	-	0	ID=cds:NXFT01000465.1.1054_g;Parent=transcript:NXFT01000465.1.1054_g
 NXFT01000465.1	WormBase_imported	CDS	212	253	.	-	0	ID=cds:NXFT01000465.1.1054_g;Parent=transcript:NXFT01000465.1.1054_g
 NXFT01000465.1	WormBase_imported	CDS	119	163	.	-	0	ID=cds:NXFT01000465.1.1054_g;Parent=transcript:NXFT01000465.1.1054_g
-NXFT01000032.1	WormBase_imported	gene	3030	4144	.	-	.	ID=gene:NXFT01000032.1.8342_g;Name=NXFT01000032.1.8342_g;biotype=protein_coding
-NXFT01000032.1	WormBase_imported	mRNA	3030	4144	.	-	.	ID=transcript:NXFT01000032.1.8342_g;Parent=gene:NXFT01000032.1.8342_g;Name=NXFT01000032.1.8342_g;info=method:InterPro accession:IPR003914 description:Rabaptin %0Amethod:InterPro accession:IPR015390 description:Rabaptin%2C GTPase-Rab5 binding domain
-#microexons transcript:NXFT01000032.1.8342_g:  30-48-54-42 22 76 141 121 114
-NXFT01000032.1	WormBase_imported	exon	4115	4144	.	-	.	ID=exon:NXFT01000032.1.8342_g.1;Parent=transcript:NXFT01000032.1.8342_g
-NXFT01000032.1	WormBase_imported	exon	4027	4074	.	-	.	ID=exon:NXFT01000032.1.8342_g.2;Parent=transcript:NXFT01000032.1.8342_g
-NXFT01000032.1	WormBase_imported	exon	3951	4004	.	-	.	ID=exon:NXFT01000032.1.8342_g.3;Parent=transcript:NXFT01000032.1.8342_g
-NXFT01000032.1	WormBase_imported	exon	3791	3832	.	-	.	ID=exon:NXFT01000032.1.8342_g.4;Parent=transcript:NXFT01000032.1.8342_g
-NXFT01000032.1	WormBase_imported	exon	3727	3748	.	-	.	ID=exon:NXFT01000032.1.8342_g.5;Parent=transcript:NXFT01000032.1.8342_g
-NXFT01000032.1	WormBase_imported	exon	3611	3686	.	-	.	ID=exon:NXFT01000032.1.8342_g.6;Parent=transcript:NXFT01000032.1.8342_g
-NXFT01000032.1	WormBase_imported	exon	3384	3524	.	-	.	ID=exon:NXFT01000032.1.8342_g.7;Parent=transcript:NXFT01000032.1.8342_g
-NXFT01000032.1	WormBase_imported	exon	3215	3335	.	-	.	ID=exon:NXFT01000032.1.8342_g.8;Parent=transcript:NXFT01000032.1.8342_g
-NXFT01000032.1	WormBase_imported	exon	3030	3143	.	-	.	ID=exon:NXFT01000032.1.8342_g.9;Parent=transcript:NXFT01000032.1.8342_g
-NXFT01000032.1	WormBase_imported	CDS	4115	4144	.	-	0	ID=cds:NXFT01000032.1.8342_g;Parent=transcript:NXFT01000032.1.8342_g
-NXFT01000032.1	WormBase_imported	CDS	4027	4074	.	-	0	ID=cds:NXFT01000032.1.8342_g;Parent=transcript:NXFT01000032.1.8342_g
-NXFT01000032.1	WormBase_imported	CDS	3951	4004	.	-	0	ID=cds:NXFT01000032.1.8342_g;Parent=transcript:NXFT01000032.1.8342_g
-NXFT01000032.1	WormBase_imported	CDS	3791	3832	.	-	0	ID=cds:NXFT01000032.1.8342_g;Parent=transcript:NXFT01000032.1.8342_g
-NXFT01000032.1	WormBase_imported	CDS	3727	3748	.	-	0	ID=cds:NXFT01000032.1.8342_g;Parent=transcript:NXFT01000032.1.8342_g
-NXFT01000032.1	WormBase_imported	CDS	3611	3686	.	-	2	ID=cds:NXFT01000032.1.8342_g;Parent=transcript:NXFT01000032.1.8342_g
-NXFT01000032.1	WormBase_imported	CDS	3384	3524	.	-	1	ID=cds:NXFT01000032.1.8342_g;Parent=transcript:NXFT01000032.1.8342_g
-NXFT01000032.1	WormBase_imported	CDS	3215	3335	.	-	1	ID=cds:NXFT01000032.1.8342_g;Parent=transcript:NXFT01000032.1.8342_g
-NXFT01000032.1	WormBase_imported	CDS	3030	3143	.	-	0	ID=cds:NXFT01000032.1.8342_g;Parent=transcript:NXFT01000032.1.8342_g
 NXFT01002171.1	WormBase_imported	gene	11628	17870	.	+	.	ID=gene:NXFT01002171.1.5743_g;Name=NXFT01002171.1.5743_g;biotype=protein_coding
 NXFT01002171.1	WormBase_imported	mRNA	11628	17870	.	+	.	ID=transcript:NXFT01002171.1.5743_g;Parent=gene:NXFT01002171.1.5743_g;Name=NXFT01002171.1.5743_g;info=method:InterPro accession:IPR010285 description:DNA helicase Pif1-like %0Amethod:InterPro accession:IPR025476 description:Helitron helicase-like domain %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase
 #microexons transcript:NXFT01002171.1.5743_g:  126 1808 3029 48-21-30-51 80
@@ -91,42 +34,23 @@ NXFT01002171.1	WormBase_imported	CDS	17394	17414	.	+	2	ID=cds:NXFT01002171.1.574
 NXFT01002171.1	WormBase_imported	CDS	17458	17487	.	+	2	ID=cds:NXFT01002171.1.5743_g;Parent=transcript:NXFT01002171.1.5743_g
 NXFT01002171.1	WormBase_imported	CDS	17616	17666	.	+	2	ID=cds:NXFT01002171.1.5743_g;Parent=transcript:NXFT01002171.1.5743_g
 NXFT01002171.1	WormBase_imported	CDS	17791	17870	.	+	2	ID=cds:NXFT01002171.1.5743_g;Parent=transcript:NXFT01002171.1.5743_g
-NXFT01000103.1	WormBase_imported	gene	11369	12399	.	-	.	ID=gene:NXFT01000103.1.2699_g;Name=NXFT01000103.1.2699_g;biotype=protein_coding
-NXFT01000103.1	WormBase_imported	mRNA	11369	12399	.	-	.	ID=transcript:NXFT01000103.1.2699_g;Parent=gene:NXFT01000103.1.2699_g;Name=NXFT01000103.1.2699_g;info=method:InterPro accession:IPR008160 description:Collagen triple helix repeat
-#microexons transcript:NXFT01000103.1.2699_g:  145 18-45-27 140 22 176
-NXFT01000103.1	WormBase_imported	exon	12255	12399	.	-	.	ID=exon:NXFT01000103.1.2699_g.1;Parent=transcript:NXFT01000103.1.2699_g
-NXFT01000103.1	WormBase_imported	exon	12098	12115	.	-	.	ID=exon:NXFT01000103.1.2699_g.2;Parent=transcript:NXFT01000103.1.2699_g
-NXFT01000103.1	WormBase_imported	exon	11915	11959	.	-	.	ID=exon:NXFT01000103.1.2699_g.3;Parent=transcript:NXFT01000103.1.2699_g
-NXFT01000103.1	WormBase_imported	exon	11841	11867	.	-	.	ID=exon:NXFT01000103.1.2699_g.4;Parent=transcript:NXFT01000103.1.2699_g
-NXFT01000103.1	WormBase_imported	exon	11656	11795	.	-	.	ID=exon:NXFT01000103.1.2699_g.5;Parent=transcript:NXFT01000103.1.2699_g
-NXFT01000103.1	WormBase_imported	exon	11585	11606	.	-	.	ID=exon:NXFT01000103.1.2699_g.6;Parent=transcript:NXFT01000103.1.2699_g
-NXFT01000103.1	WormBase_imported	exon	11369	11544	.	-	.	ID=exon:NXFT01000103.1.2699_g.7;Parent=transcript:NXFT01000103.1.2699_g
-NXFT01000103.1	WormBase_imported	CDS	12255	12399	.	-	0	ID=cds:NXFT01000103.1.2699_g;Parent=transcript:NXFT01000103.1.2699_g
-NXFT01000103.1	WormBase_imported	CDS	12098	12115	.	-	2	ID=cds:NXFT01000103.1.2699_g;Parent=transcript:NXFT01000103.1.2699_g
-NXFT01000103.1	WormBase_imported	CDS	11915	11959	.	-	2	ID=cds:NXFT01000103.1.2699_g;Parent=transcript:NXFT01000103.1.2699_g
-NXFT01000103.1	WormBase_imported	CDS	11841	11867	.	-	2	ID=cds:NXFT01000103.1.2699_g;Parent=transcript:NXFT01000103.1.2699_g
-NXFT01000103.1	WormBase_imported	CDS	11656	11795	.	-	2	ID=cds:NXFT01000103.1.2699_g;Parent=transcript:NXFT01000103.1.2699_g
-NXFT01000103.1	WormBase_imported	CDS	11585	11606	.	-	0	ID=cds:NXFT01000103.1.2699_g;Parent=transcript:NXFT01000103.1.2699_g
-NXFT01000103.1	WormBase_imported	CDS	11369	11544	.	-	2	ID=cds:NXFT01000103.1.2699_g;Parent=transcript:NXFT01000103.1.2699_g
-NXFT01003603.1	WormBase_imported	gene	924	2075	.	-	.	ID=gene:NXFT01003603.1.838_g;Name=NXFT01003603.1.838_g;biotype=protein_coding
-NXFT01003603.1	WormBase_imported	mRNA	924	2075	.	-	.	ID=transcript:NXFT01003603.1.838_g;Parent=gene:NXFT01003603.1.838_g;Name=NXFT01003603.1.838_g
-#microexons transcript:NXFT01003603.1.838_g:  9 143 50 60 164 39-30-24
-NXFT01003603.1	WormBase_imported	exon	2067	2075	.	-	.	ID=exon:NXFT01003603.1.838_g.1;Parent=transcript:NXFT01003603.1.838_g
-NXFT01003603.1	WormBase_imported	exon	1878	2020	.	-	.	ID=exon:NXFT01003603.1.838_g.2;Parent=transcript:NXFT01003603.1.838_g
-NXFT01003603.1	WormBase_imported	exon	1678	1727	.	-	.	ID=exon:NXFT01003603.1.838_g.3;Parent=transcript:NXFT01003603.1.838_g
-NXFT01003603.1	WormBase_imported	exon	1575	1634	.	-	.	ID=exon:NXFT01003603.1.838_g.4;Parent=transcript:NXFT01003603.1.838_g
-NXFT01003603.1	WormBase_imported	exon	1186	1349	.	-	.	ID=exon:NXFT01003603.1.838_g.5;Parent=transcript:NXFT01003603.1.838_g
-NXFT01003603.1	WormBase_imported	exon	1108	1146	.	-	.	ID=exon:NXFT01003603.1.838_g.6;Parent=transcript:NXFT01003603.1.838_g
-NXFT01003603.1	WormBase_imported	exon	993	1022	.	-	.	ID=exon:NXFT01003603.1.838_g.7;Parent=transcript:NXFT01003603.1.838_g
-NXFT01003603.1	WormBase_imported	exon	924	947	.	-	.	ID=exon:NXFT01003603.1.838_g.8;Parent=transcript:NXFT01003603.1.838_g
-NXFT01003603.1	WormBase_imported	CDS	2067	2075	.	-	0	ID=cds:NXFT01003603.1.838_g;Parent=transcript:NXFT01003603.1.838_g
-NXFT01003603.1	WormBase_imported	CDS	1878	2020	.	-	0	ID=cds:NXFT01003603.1.838_g;Parent=transcript:NXFT01003603.1.838_g
-NXFT01003603.1	WormBase_imported	CDS	1678	1727	.	-	1	ID=cds:NXFT01003603.1.838_g;Parent=transcript:NXFT01003603.1.838_g
-NXFT01003603.1	WormBase_imported	CDS	1575	1634	.	-	2	ID=cds:NXFT01003603.1.838_g;Parent=transcript:NXFT01003603.1.838_g
-NXFT01003603.1	WormBase_imported	CDS	1186	1349	.	-	2	ID=cds:NXFT01003603.1.838_g;Parent=transcript:NXFT01003603.1.838_g
-NXFT01003603.1	WormBase_imported	CDS	1108	1146	.	-	0	ID=cds:NXFT01003603.1.838_g;Parent=transcript:NXFT01003603.1.838_g
-NXFT01003603.1	WormBase_imported	CDS	993	1022	.	-	0	ID=cds:NXFT01003603.1.838_g;Parent=transcript:NXFT01003603.1.838_g
-NXFT01003603.1	WormBase_imported	CDS	924	947	.	-	0	ID=cds:NXFT01003603.1.838_g;Parent=transcript:NXFT01003603.1.838_g
+NXFT01001382.1	WormBase_imported	gene	1063	1976	.	-	.	ID=gene:NXFT01001382.1.3520_g;Name=NXFT01001382.1.3520_g;biotype=protein_coding
+NXFT01001382.1	WormBase_imported	mRNA	1063	1976	.	-	.	ID=transcript:NXFT01001382.1.3520_g;Parent=gene:NXFT01001382.1.3520_g;Name=NXFT01001382.1.3520_g;info=method:InterPro accession:IPR002833 description:Peptidyl-tRNA hydrolase%2C PTH2 %0Amethod:InterPro accession:IPR023476 description:Peptidyl-tRNA hydrolase II domain superfamily
+#microexons transcript:NXFT01001382.1.3520_g:  7 56 6-27-54-57-183
+NXFT01001382.1	WormBase_imported	exon	1970	1976	.	-	.	ID=exon:NXFT01001382.1.3520_g.1;Parent=transcript:NXFT01001382.1.3520_g
+NXFT01001382.1	WormBase_imported	exon	1871	1926	.	-	.	ID=exon:NXFT01001382.1.3520_g.2;Parent=transcript:NXFT01001382.1.3520_g
+NXFT01001382.1	WormBase_imported	exon	1821	1826	.	-	.	ID=exon:NXFT01001382.1.3520_g.3;Parent=transcript:NXFT01001382.1.3520_g
+NXFT01001382.1	WormBase_imported	exon	1725	1751	.	-	.	ID=exon:NXFT01001382.1.3520_g.4;Parent=transcript:NXFT01001382.1.3520_g
+NXFT01001382.1	WormBase_imported	exon	1453	1506	.	-	.	ID=exon:NXFT01001382.1.3520_g.5;Parent=transcript:NXFT01001382.1.3520_g
+NXFT01001382.1	WormBase_imported	exon	1344	1400	.	-	.	ID=exon:NXFT01001382.1.3520_g.6;Parent=transcript:NXFT01001382.1.3520_g
+NXFT01001382.1	WormBase_imported	exon	1063	1245	.	-	.	ID=exon:NXFT01001382.1.3520_g.7;Parent=transcript:NXFT01001382.1.3520_g
+NXFT01001382.1	WormBase_imported	CDS	1970	1976	.	-	0	ID=cds:NXFT01001382.1.3520_g;Parent=transcript:NXFT01001382.1.3520_g
+NXFT01001382.1	WormBase_imported	CDS	1871	1926	.	-	2	ID=cds:NXFT01001382.1.3520_g;Parent=transcript:NXFT01001382.1.3520_g
+NXFT01001382.1	WormBase_imported	CDS	1821	1826	.	-	0	ID=cds:NXFT01001382.1.3520_g;Parent=transcript:NXFT01001382.1.3520_g
+NXFT01001382.1	WormBase_imported	CDS	1725	1751	.	-	0	ID=cds:NXFT01001382.1.3520_g;Parent=transcript:NXFT01001382.1.3520_g
+NXFT01001382.1	WormBase_imported	CDS	1453	1506	.	-	0	ID=cds:NXFT01001382.1.3520_g;Parent=transcript:NXFT01001382.1.3520_g
+NXFT01001382.1	WormBase_imported	CDS	1344	1400	.	-	0	ID=cds:NXFT01001382.1.3520_g;Parent=transcript:NXFT01001382.1.3520_g
+NXFT01001382.1	WormBase_imported	CDS	1063	1245	.	-	0	ID=cds:NXFT01001382.1.3520_g;Parent=transcript:NXFT01001382.1.3520_g
 NXFT01002302.1	WormBase_imported	gene	30	2928	.	+	.	ID=gene:NXFT01002302.1.6121_g;Name=NXFT01002302.1.6121_g;biotype=protein_coding
 NXFT01002302.1	WormBase_imported	mRNA	30	2928	.	+	.	ID=transcript:NXFT01002302.1.6121_g;Parent=gene:NXFT01002302.1.6121_g;Name=NXFT01002302.1.6121_g;info=method:InterPro accession:IPR001279 description:Metallo-beta-lactamase %0Amethod:InterPro accession:IPR036866 description:Ribonuclease Z/Hydroxyacylglutathione hydrolase-like %0Amethod:InterPro accession:IPR039344 description:Metallo-beta-lactamase domain-containing protein 1
 #microexons transcript:NXFT01002302.1.6121_g:  57-135-135-84 133 32 30-33-18-51-84-51
@@ -154,6 +78,27 @@ NXFT01002302.1	WormBase_imported	CDS	2440	2457	.	+	0	ID=cds:NXFT01002302.1.6121_
 NXFT01002302.1	WormBase_imported	CDS	2498	2548	.	+	0	ID=cds:NXFT01002302.1.6121_g;Parent=transcript:NXFT01002302.1.6121_g
 NXFT01002302.1	WormBase_imported	CDS	2601	2684	.	+	0	ID=cds:NXFT01002302.1.6121_g;Parent=transcript:NXFT01002302.1.6121_g
 NXFT01002302.1	WormBase_imported	CDS	2878	2928	.	+	0	ID=cds:NXFT01002302.1.6121_g;Parent=transcript:NXFT01002302.1.6121_g
+NXFT01001490.1	WormBase_imported	gene	78	1772	.	+	.	ID=gene:NXFT01001490.1.3893_g;Name=NXFT01001490.1.3893_g;biotype=protein_coding
+NXFT01001490.1	WormBase_imported	mRNA	78	1772	.	+	.	ID=transcript:NXFT01001490.1.3893_g;Parent=gene:NXFT01001490.1.3893_g;Name=NXFT01001490.1.3893_g;info=method:InterPro accession:IPR013087 description:Zinc finger C2H2-type %0Amethod:InterPro accession:IPR036236 description:Zinc finger C2H2 superfamily
+#microexons transcript:NXFT01001490.1.3893_g:  57-48-54-54-111-84-315-231-6
+NXFT01001490.1	WormBase_imported	exon	78	134	.	+	.	ID=exon:NXFT01001490.1.3893_g.1;Parent=transcript:NXFT01001490.1.3893_g
+NXFT01001490.1	WormBase_imported	exon	181	228	.	+	.	ID=exon:NXFT01001490.1.3893_g.2;Parent=transcript:NXFT01001490.1.3893_g
+NXFT01001490.1	WormBase_imported	exon	278	331	.	+	.	ID=exon:NXFT01001490.1.3893_g.3;Parent=transcript:NXFT01001490.1.3893_g
+NXFT01001490.1	WormBase_imported	exon	383	436	.	+	.	ID=exon:NXFT01001490.1.3893_g.4;Parent=transcript:NXFT01001490.1.3893_g
+NXFT01001490.1	WormBase_imported	exon	485	595	.	+	.	ID=exon:NXFT01001490.1.3893_g.5;Parent=transcript:NXFT01001490.1.3893_g
+NXFT01001490.1	WormBase_imported	exon	645	728	.	+	.	ID=exon:NXFT01001490.1.3893_g.6;Parent=transcript:NXFT01001490.1.3893_g
+NXFT01001490.1	WormBase_imported	exon	770	1084	.	+	.	ID=exon:NXFT01001490.1.3893_g.7;Parent=transcript:NXFT01001490.1.3893_g
+NXFT01001490.1	WormBase_imported	exon	1466	1696	.	+	.	ID=exon:NXFT01001490.1.3893_g.8;Parent=transcript:NXFT01001490.1.3893_g
+NXFT01001490.1	WormBase_imported	exon	1767	1772	.	+	.	ID=exon:NXFT01001490.1.3893_g.9;Parent=transcript:NXFT01001490.1.3893_g
+NXFT01001490.1	WormBase_imported	CDS	78	134	.	+	0	ID=cds:NXFT01001490.1.3893_g;Parent=transcript:NXFT01001490.1.3893_g
+NXFT01001490.1	WormBase_imported	CDS	181	228	.	+	0	ID=cds:NXFT01001490.1.3893_g;Parent=transcript:NXFT01001490.1.3893_g
+NXFT01001490.1	WormBase_imported	CDS	278	331	.	+	0	ID=cds:NXFT01001490.1.3893_g;Parent=transcript:NXFT01001490.1.3893_g
+NXFT01001490.1	WormBase_imported	CDS	383	436	.	+	0	ID=cds:NXFT01001490.1.3893_g;Parent=transcript:NXFT01001490.1.3893_g
+NXFT01001490.1	WormBase_imported	CDS	485	595	.	+	0	ID=cds:NXFT01001490.1.3893_g;Parent=transcript:NXFT01001490.1.3893_g
+NXFT01001490.1	WormBase_imported	CDS	645	728	.	+	0	ID=cds:NXFT01001490.1.3893_g;Parent=transcript:NXFT01001490.1.3893_g
+NXFT01001490.1	WormBase_imported	CDS	770	1084	.	+	0	ID=cds:NXFT01001490.1.3893_g;Parent=transcript:NXFT01001490.1.3893_g
+NXFT01001490.1	WormBase_imported	CDS	1466	1696	.	+	0	ID=cds:NXFT01001490.1.3893_g;Parent=transcript:NXFT01001490.1.3893_g
+NXFT01001490.1	WormBase_imported	CDS	1767	1772	.	+	0	ID=cds:NXFT01001490.1.3893_g;Parent=transcript:NXFT01001490.1.3893_g
 NXFT01001193.1	WormBase_imported	gene	155	784	.	-	.	ID=gene:NXFT01001193.1.3046_g;Name=NXFT01001193.1.3046_g;biotype=protein_coding
 NXFT01001193.1	WormBase_imported	mRNA	155	784	.	-	.	ID=transcript:NXFT01001193.1.3046_g;Parent=gene:NXFT01001193.1.3046_g;Name=NXFT01001193.1.3046_g
 #microexons transcript:NXFT01001193.1.3046_g:  48-87-51-48-51-54-39

@@ -1,0 +1,19 @@
+ASIM_scaffold0003723	WormBase_imported	gene	83	2715	.	-	.	ID=gene:ASIM_0001847401;Name=ASIM_0001847401;biotype=protein_coding
+ASIM_scaffold0003723	WormBase_imported	mRNA	83	2715	.	-	.	ID=transcript:ASIM_0001847401-mRNA-1;Parent=gene:ASIM_0001847401;Name=ASIM_0001847401-mRNA-1;info=method:InterPro accession:IPR011701 description:Major facilitator superfamily %0Amethod:InterPro accession:IPR020846 description:Major facilitator superfamily domain %0Amethod:InterPro accession:IPR036259 description:MFS transporter superfamily
+#microexons transcript:ASIM_0001847401-mRNA-1:  23 69-45-48-45-45 133 333
+ASIM_scaffold0003723	WormBase_imported	exon	2693	2715	.	-	.	ID=exon:ASIM_0001847401-mRNA-1.1;Parent=transcript:ASIM_0001847401-mRNA-1
+ASIM_scaffold0003723	WormBase_imported	exon	2432	2500	.	-	.	ID=exon:ASIM_0001847401-mRNA-1.2;Parent=transcript:ASIM_0001847401-mRNA-1
+ASIM_scaffold0003723	WormBase_imported	exon	2056	2100	.	-	.	ID=exon:ASIM_0001847401-mRNA-1.3;Parent=transcript:ASIM_0001847401-mRNA-1
+ASIM_scaffold0003723	WormBase_imported	exon	1944	1991	.	-	.	ID=exon:ASIM_0001847401-mRNA-1.4;Parent=transcript:ASIM_0001847401-mRNA-1
+ASIM_scaffold0003723	WormBase_imported	exon	1568	1612	.	-	.	ID=exon:ASIM_0001847401-mRNA-1.5;Parent=transcript:ASIM_0001847401-mRNA-1
+ASIM_scaffold0003723	WormBase_imported	exon	1464	1508	.	-	.	ID=exon:ASIM_0001847401-mRNA-1.6;Parent=transcript:ASIM_0001847401-mRNA-1
+ASIM_scaffold0003723	WormBase_imported	exon	1058	1190	.	-	.	ID=exon:ASIM_0001847401-mRNA-1.7;Parent=transcript:ASIM_0001847401-mRNA-1
+ASIM_scaffold0003723	WormBase_imported	exon	83	415	.	-	.	ID=exon:ASIM_0001847401-mRNA-1.8;Parent=transcript:ASIM_0001847401-mRNA-1
+ASIM_scaffold0003723	WormBase_imported	CDS	2693	2715	.	-	0	ID=cds:ASIM_0001847401-mRNA-1;Parent=transcript:ASIM_0001847401-mRNA-1
+ASIM_scaffold0003723	WormBase_imported	CDS	2432	2500	.	-	1	ID=cds:ASIM_0001847401-mRNA-1;Parent=transcript:ASIM_0001847401-mRNA-1
+ASIM_scaffold0003723	WormBase_imported	CDS	2056	2100	.	-	1	ID=cds:ASIM_0001847401-mRNA-1;Parent=transcript:ASIM_0001847401-mRNA-1
+ASIM_scaffold0003723	WormBase_imported	CDS	1944	1991	.	-	1	ID=cds:ASIM_0001847401-mRNA-1;Parent=transcript:ASIM_0001847401-mRNA-1
+ASIM_scaffold0003723	WormBase_imported	CDS	1568	1612	.	-	1	ID=cds:ASIM_0001847401-mRNA-1;Parent=transcript:ASIM_0001847401-mRNA-1
+ASIM_scaffold0003723	WormBase_imported	CDS	1464	1508	.	-	1	ID=cds:ASIM_0001847401-mRNA-1;Parent=transcript:ASIM_0001847401-mRNA-1
+ASIM_scaffold0003723	WormBase_imported	CDS	1058	1190	.	-	1	ID=cds:ASIM_0001847401-mRNA-1;Parent=transcript:ASIM_0001847401-mRNA-1
+ASIM_scaffold0003723	WormBase_imported	CDS	83	415	.	-	0	ID=cds:ASIM_0001847401-mRNA-1;Parent=transcript:ASIM_0001847401-mRNA-1

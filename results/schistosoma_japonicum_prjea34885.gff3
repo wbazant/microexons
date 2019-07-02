@@ -1,0 +1,19 @@
+SJC_S003739	WormBase_imported	gene	528	4660	.	+	.	ID=gene:Sjp_0100240;Name=Sjp_0100240;biotype=protein_coding
+SJC_S003739	WormBase_imported	mRNA	528	4660	.	+	.	ID=transcript:Sjp_0100240;Parent=gene:Sjp_0100240;Name=Sjp_0100240;info=method:InterPro accession:IPR021442 description:Protein of unknown function DUF3091
+#microexons transcript:Sjp_0100240:  82 54-48-57-42-66-69 65
+SJC_S003739	WormBase_imported	exon	528	609	.	+	.	ID=exon:Sjp_0100240.1;Parent=transcript:Sjp_0100240
+SJC_S003739	WormBase_imported	exon	1170	1223	.	+	.	ID=exon:Sjp_0100240.2;Parent=transcript:Sjp_0100240
+SJC_S003739	WormBase_imported	exon	2381	2428	.	+	.	ID=exon:Sjp_0100240.3;Parent=transcript:Sjp_0100240
+SJC_S003739	WormBase_imported	exon	2476	2532	.	+	.	ID=exon:Sjp_0100240.4;Parent=transcript:Sjp_0100240
+SJC_S003739	WormBase_imported	exon	3303	3344	.	+	.	ID=exon:Sjp_0100240.5;Parent=transcript:Sjp_0100240
+SJC_S003739	WormBase_imported	exon	3562	3627	.	+	.	ID=exon:Sjp_0100240.6;Parent=transcript:Sjp_0100240
+SJC_S003739	WormBase_imported	exon	4267	4335	.	+	.	ID=exon:Sjp_0100240.7;Parent=transcript:Sjp_0100240
+SJC_S003739	WormBase_imported	exon	4596	4660	.	+	.	ID=exon:Sjp_0100240.8;Parent=transcript:Sjp_0100240
+SJC_S003739	WormBase_imported	CDS	528	609	.	+	0	ID=cds:Sjp_0100240;Parent=transcript:Sjp_0100240
+SJC_S003739	WormBase_imported	CDS	1170	1223	.	+	2	ID=cds:Sjp_0100240;Parent=transcript:Sjp_0100240
+SJC_S003739	WormBase_imported	CDS	2381	2428	.	+	2	ID=cds:Sjp_0100240;Parent=transcript:Sjp_0100240
+SJC_S003739	WormBase_imported	CDS	2476	2532	.	+	2	ID=cds:Sjp_0100240;Parent=transcript:Sjp_0100240
+SJC_S003739	WormBase_imported	CDS	3303	3344	.	+	2	ID=cds:Sjp_0100240;Parent=transcript:Sjp_0100240
+SJC_S003739	WormBase_imported	CDS	3562	3627	.	+	2	ID=cds:Sjp_0100240;Parent=transcript:Sjp_0100240
+SJC_S003739	WormBase_imported	CDS	4267	4335	.	+	2	ID=cds:Sjp_0100240;Parent=transcript:Sjp_0100240
+SJC_S003739	WormBase_imported	CDS	4596	4660	.	+	2	ID=cds:Sjp_0100240;Parent=transcript:Sjp_0100240

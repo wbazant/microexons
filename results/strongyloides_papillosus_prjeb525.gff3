@@ -1,3 +1,34 @@
+SPAL_scaffold0000067	WormBase_imported	gene	34892	36615	.	-	.	ID=gene:SPAL_0001518600;Name=SPAL_0001518600;biotype=protein_coding
+SPAL_scaffold0000067	WormBase_imported	mRNA	34892	36615	.	-	.	ID=transcript:SPAL_0001518600.1;Parent=gene:SPAL_0001518600;Name=SPAL_0001518600.1
+#microexons transcript:SPAL_0001518600.1:  46 120-45-54-51-27-42-39-42-66-72-69-30 92
+SPAL_scaffold0000067	WormBase_imported	exon	36570	36615	.	-	.	ID=exon:SPAL_0001518600.1.1;Parent=transcript:SPAL_0001518600.1
+SPAL_scaffold0000067	WormBase_imported	exon	36403	36522	.	-	.	ID=exon:SPAL_0001518600.1.2;Parent=transcript:SPAL_0001518600.1
+SPAL_scaffold0000067	WormBase_imported	exon	36311	36355	.	-	.	ID=exon:SPAL_0001518600.1.3;Parent=transcript:SPAL_0001518600.1
+SPAL_scaffold0000067	WormBase_imported	exon	36203	36256	.	-	.	ID=exon:SPAL_0001518600.1.4;Parent=transcript:SPAL_0001518600.1
+SPAL_scaffold0000067	WormBase_imported	exon	35939	35989	.	-	.	ID=exon:SPAL_0001518600.1.5;Parent=transcript:SPAL_0001518600.1
+SPAL_scaffold0000067	WormBase_imported	exon	35871	35897	.	-	.	ID=exon:SPAL_0001518600.1.6;Parent=transcript:SPAL_0001518600.1
+SPAL_scaffold0000067	WormBase_imported	exon	35773	35814	.	-	.	ID=exon:SPAL_0001518600.1.7;Parent=transcript:SPAL_0001518600.1
+SPAL_scaffold0000067	WormBase_imported	exon	35694	35732	.	-	.	ID=exon:SPAL_0001518600.1.8;Parent=transcript:SPAL_0001518600.1
+SPAL_scaffold0000067	WormBase_imported	exon	35612	35653	.	-	.	ID=exon:SPAL_0001518600.1.9;Parent=transcript:SPAL_0001518600.1
+SPAL_scaffold0000067	WormBase_imported	exon	35342	35407	.	-	.	ID=exon:SPAL_0001518600.1.10;Parent=transcript:SPAL_0001518600.1
+SPAL_scaffold0000067	WormBase_imported	exon	35219	35290	.	-	.	ID=exon:SPAL_0001518600.1.11;Parent=transcript:SPAL_0001518600.1
+SPAL_scaffold0000067	WormBase_imported	exon	35098	35166	.	-	.	ID=exon:SPAL_0001518600.1.12;Parent=transcript:SPAL_0001518600.1
+SPAL_scaffold0000067	WormBase_imported	exon	35031	35060	.	-	.	ID=exon:SPAL_0001518600.1.13;Parent=transcript:SPAL_0001518600.1
+SPAL_scaffold0000067	WormBase_imported	exon	34892	34983	.	-	.	ID=exon:SPAL_0001518600.1.14;Parent=transcript:SPAL_0001518600.1
+SPAL_scaffold0000067	WormBase_imported	CDS	36570	36615	.	-	0	ID=cds:SPAL_0001518600.1;Parent=transcript:SPAL_0001518600.1
+SPAL_scaffold0000067	WormBase_imported	CDS	36403	36522	.	-	2	ID=cds:SPAL_0001518600.1;Parent=transcript:SPAL_0001518600.1
+SPAL_scaffold0000067	WormBase_imported	CDS	36311	36355	.	-	2	ID=cds:SPAL_0001518600.1;Parent=transcript:SPAL_0001518600.1
+SPAL_scaffold0000067	WormBase_imported	CDS	36203	36256	.	-	2	ID=cds:SPAL_0001518600.1;Parent=transcript:SPAL_0001518600.1
+SPAL_scaffold0000067	WormBase_imported	CDS	35939	35989	.	-	2	ID=cds:SPAL_0001518600.1;Parent=transcript:SPAL_0001518600.1
+SPAL_scaffold0000067	WormBase_imported	CDS	35871	35897	.	-	2	ID=cds:SPAL_0001518600.1;Parent=transcript:SPAL_0001518600.1
+SPAL_scaffold0000067	WormBase_imported	CDS	35773	35814	.	-	2	ID=cds:SPAL_0001518600.1;Parent=transcript:SPAL_0001518600.1
+SPAL_scaffold0000067	WormBase_imported	CDS	35694	35732	.	-	2	ID=cds:SPAL_0001518600.1;Parent=transcript:SPAL_0001518600.1
+SPAL_scaffold0000067	WormBase_imported	CDS	35612	35653	.	-	2	ID=cds:SPAL_0001518600.1;Parent=transcript:SPAL_0001518600.1
+SPAL_scaffold0000067	WormBase_imported	CDS	35342	35407	.	-	2	ID=cds:SPAL_0001518600.1;Parent=transcript:SPAL_0001518600.1
+SPAL_scaffold0000067	WormBase_imported	CDS	35219	35290	.	-	2	ID=cds:SPAL_0001518600.1;Parent=transcript:SPAL_0001518600.1
+SPAL_scaffold0000067	WormBase_imported	CDS	35098	35166	.	-	2	ID=cds:SPAL_0001518600.1;Parent=transcript:SPAL_0001518600.1
+SPAL_scaffold0000067	WormBase_imported	CDS	35031	35060	.	-	2	ID=cds:SPAL_0001518600.1;Parent=transcript:SPAL_0001518600.1
+SPAL_scaffold0000067	WormBase_imported	CDS	34892	34983	.	-	2	ID=cds:SPAL_0001518600.1;Parent=transcript:SPAL_0001518600.1
 SPAL_contig0001669	WormBase_imported	gene	2878	4095	.	+	.	ID=gene:SPAL_0000017600;Name=SPAL_0000017600;biotype=protein_coding
 SPAL_contig0001669	WormBase_imported	mRNA	2878	4095	.	+	.	ID=transcript:SPAL_0000017600.1;Parent=gene:SPAL_0000017600;Name=SPAL_0000017600.1
 #microexons transcript:SPAL_0000017600.1:  151 48-30-48-57-42-36-27-42-33 71

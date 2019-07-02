@@ -58,25 +58,31 @@ scaf462	WormBase_imported	CDS	176616	176651	.	+	1	ID=cds:BOX15_Mlig001751g4;Pare
 scaf462	WormBase_imported	CDS	176808	176846	.	+	1	ID=cds:BOX15_Mlig001751g4;Parent=transcript:BOX15_Mlig001751g4
 scaf462	WormBase_imported	CDS	178223	178250	.	+	1	ID=cds:BOX15_Mlig001751g4;Parent=transcript:BOX15_Mlig001751g4
 scaf462	WormBase_imported	three_prime_UTR	178251	178590	.	+	.	Parent=transcript:BOX15_Mlig001751g4
-scaf709	WormBase_imported	gene	53505	57864	.	+	.	ID=gene:BOX15_Mlig027664g1;Name=BOX15_Mlig027664g1;biotype=protein_coding
-scaf709	WormBase_imported	mRNA	53505	57864	.	+	.	ID=transcript:BOX15_Mlig027664g1;Parent=gene:BOX15_Mlig027664g1;Name=BOX15_Mlig027664g1;info=method:InterPro accession:IPR000727 description:Target SNARE coiled-coil homology domain %0Amethod:InterPro accession:IPR006011 description:Syntaxin%2C N-terminal domain %0Amethod:InterPro accession:IPR010989 description:SNARE
-#microexons transcript:BOX15_Mlig027664g1:  305 247 421 6-6-9 950
-scaf709	WormBase_imported	exon	53505	53809	.	+	.	ID=exon:BOX15_Mlig027664g1.1;Parent=transcript:BOX15_Mlig027664g1
-scaf709	WormBase_imported	exon	54945	55191	.	+	.	ID=exon:BOX15_Mlig027664g1.2;Parent=transcript:BOX15_Mlig027664g1
-scaf709	WormBase_imported	exon	55852	56272	.	+	.	ID=exon:BOX15_Mlig027664g1.3;Parent=transcript:BOX15_Mlig027664g1
-scaf709	WormBase_imported	exon	56302	56307	.	+	.	ID=exon:BOX15_Mlig027664g1.4;Parent=transcript:BOX15_Mlig027664g1
-scaf709	WormBase_imported	exon	56762	56767	.	+	.	ID=exon:BOX15_Mlig027664g1.5;Parent=transcript:BOX15_Mlig027664g1
-scaf709	WormBase_imported	exon	56883	56891	.	+	.	ID=exon:BOX15_Mlig027664g1.6;Parent=transcript:BOX15_Mlig027664g1
-scaf709	WormBase_imported	exon	56915	57864	.	+	.	ID=exon:BOX15_Mlig027664g1.7;Parent=transcript:BOX15_Mlig027664g1
-scaf709	WormBase_imported	five_prime_UTR	53505	53506	.	+	.	Parent=transcript:BOX15_Mlig027664g1
-scaf709	WormBase_imported	CDS	53507	53809	.	+	0	ID=cds:BOX15_Mlig027664g1;Parent=transcript:BOX15_Mlig027664g1
-scaf709	WormBase_imported	CDS	54945	55191	.	+	0	ID=cds:BOX15_Mlig027664g1;Parent=transcript:BOX15_Mlig027664g1
-scaf709	WormBase_imported	CDS	55852	56096	.	+	2	ID=cds:BOX15_Mlig027664g1;Parent=transcript:BOX15_Mlig027664g1
-scaf709	WormBase_imported	three_prime_UTR	56097	56272	.	+	.	Parent=transcript:BOX15_Mlig027664g1
-scaf709	WormBase_imported	three_prime_UTR	56302	56307	.	+	.	Parent=transcript:BOX15_Mlig027664g1
-scaf709	WormBase_imported	three_prime_UTR	56762	56767	.	+	.	Parent=transcript:BOX15_Mlig027664g1
-scaf709	WormBase_imported	three_prime_UTR	56883	56891	.	+	.	Parent=transcript:BOX15_Mlig027664g1
-scaf709	WormBase_imported	three_prime_UTR	56915	57864	.	+	.	Parent=transcript:BOX15_Mlig027664g1
+scaf696	WormBase_imported	gene	226836	228876	.	+	.	ID=gene:BOX15_Mlig022928g3;Name=BOX15_Mlig022928g3;biotype=protein_coding
+scaf696	WormBase_imported	mRNA	226836	228876	.	+	.	ID=transcript:BOX15_Mlig022928g3;Parent=gene:BOX15_Mlig022928g3;Name=BOX15_Mlig022928g3
+#microexons transcript:BOX15_Mlig022928g3:  217 78-42-42-42-42-42-51-45-501
+scaf696	WormBase_imported	exon	226836	227052	.	+	.	ID=exon:BOX15_Mlig022928g3.1;Parent=transcript:BOX15_Mlig022928g3
+scaf696	WormBase_imported	exon	227126	227203	.	+	.	ID=exon:BOX15_Mlig022928g3.2;Parent=transcript:BOX15_Mlig022928g3
+scaf696	WormBase_imported	exon	227292	227333	.	+	.	ID=exon:BOX15_Mlig022928g3.3;Parent=transcript:BOX15_Mlig022928g3
+scaf696	WormBase_imported	exon	227443	227484	.	+	.	ID=exon:BOX15_Mlig022928g3.4;Parent=transcript:BOX15_Mlig022928g3
+scaf696	WormBase_imported	exon	227589	227630	.	+	.	ID=exon:BOX15_Mlig022928g3.5;Parent=transcript:BOX15_Mlig022928g3
+scaf696	WormBase_imported	exon	227772	227813	.	+	.	ID=exon:BOX15_Mlig022928g3.6;Parent=transcript:BOX15_Mlig022928g3
+scaf696	WormBase_imported	exon	227922	227963	.	+	.	ID=exon:BOX15_Mlig022928g3.7;Parent=transcript:BOX15_Mlig022928g3
+scaf696	WormBase_imported	exon	228076	228126	.	+	.	ID=exon:BOX15_Mlig022928g3.8;Parent=transcript:BOX15_Mlig022928g3
+scaf696	WormBase_imported	exon	228256	228300	.	+	.	ID=exon:BOX15_Mlig022928g3.9;Parent=transcript:BOX15_Mlig022928g3
+scaf696	WormBase_imported	exon	228376	228876	.	+	.	ID=exon:BOX15_Mlig022928g3.10;Parent=transcript:BOX15_Mlig022928g3
+scaf696	WormBase_imported	five_prime_UTR	226836	226958	.	+	.	Parent=transcript:BOX15_Mlig022928g3
+scaf696	WormBase_imported	CDS	226959	227052	.	+	0	ID=cds:BOX15_Mlig022928g3;Parent=transcript:BOX15_Mlig022928g3
+scaf696	WormBase_imported	CDS	227126	227203	.	+	2	ID=cds:BOX15_Mlig022928g3;Parent=transcript:BOX15_Mlig022928g3
+scaf696	WormBase_imported	CDS	227292	227333	.	+	2	ID=cds:BOX15_Mlig022928g3;Parent=transcript:BOX15_Mlig022928g3
+scaf696	WormBase_imported	CDS	227443	227484	.	+	2	ID=cds:BOX15_Mlig022928g3;Parent=transcript:BOX15_Mlig022928g3
+scaf696	WormBase_imported	CDS	227589	227630	.	+	2	ID=cds:BOX15_Mlig022928g3;Parent=transcript:BOX15_Mlig022928g3
+scaf696	WormBase_imported	CDS	227772	227813	.	+	2	ID=cds:BOX15_Mlig022928g3;Parent=transcript:BOX15_Mlig022928g3
+scaf696	WormBase_imported	CDS	227922	227963	.	+	2	ID=cds:BOX15_Mlig022928g3;Parent=transcript:BOX15_Mlig022928g3
+scaf696	WormBase_imported	CDS	228076	228126	.	+	2	ID=cds:BOX15_Mlig022928g3;Parent=transcript:BOX15_Mlig022928g3
+scaf696	WormBase_imported	CDS	228256	228300	.	+	2	ID=cds:BOX15_Mlig022928g3;Parent=transcript:BOX15_Mlig022928g3
+scaf696	WormBase_imported	CDS	228376	228401	.	+	2	ID=cds:BOX15_Mlig022928g3;Parent=transcript:BOX15_Mlig022928g3
+scaf696	WormBase_imported	three_prime_UTR	228402	228876	.	+	.	Parent=transcript:BOX15_Mlig022928g3
 scaf1187	WormBase_imported	gene	274756	284272	.	+	.	ID=gene:BOX15_Mlig001594g1;Name=BOX15_Mlig001594g1;biotype=protein_coding
 scaf1187	WormBase_imported	mRNA	274756	284272	.	+	.	ID=transcript:BOX15_Mlig001594g1;Parent=gene:BOX15_Mlig001594g1;Name=BOX15_Mlig001594g1;info=method:InterPro accession:IPR002889 description:Carbohydrate-binding WSC
 #microexons transcript:BOX15_Mlig001594g1:  70 33-45-36-30-27-33-33-45-9-300 397
@@ -165,6 +171,31 @@ scaf1523	WormBase_imported	CDS	34752	34802	.	-	2	ID=cds:BOX15_Mlig022928g1;Paren
 scaf1523	WormBase_imported	CDS	34576	34620	.	-	2	ID=cds:BOX15_Mlig022928g1;Parent=transcript:BOX15_Mlig022928g1
 scaf1523	WormBase_imported	CDS	34475	34500	.	-	2	ID=cds:BOX15_Mlig022928g1;Parent=transcript:BOX15_Mlig022928g1
 scaf1523	WormBase_imported	three_prime_UTR	34004	34474	.	-	.	Parent=transcript:BOX15_Mlig022928g1
+scaf1601	WormBase_imported	gene	217445	219440	.	+	.	ID=gene:BOX15_Mlig022928g2;Name=BOX15_Mlig022928g2;biotype=protein_coding
+scaf1601	WormBase_imported	mRNA	217445	219440	.	+	.	ID=transcript:BOX15_Mlig022928g2;Parent=gene:BOX15_Mlig022928g2;Name=BOX15_Mlig022928g2
+#microexons transcript:BOX15_Mlig022928g2:  161 78-42-42-42-42-42-51-45-510
+scaf1601	WormBase_imported	exon	217445	217605	.	+	.	ID=exon:BOX15_Mlig022928g2.1;Parent=transcript:BOX15_Mlig022928g2
+scaf1601	WormBase_imported	exon	217679	217756	.	+	.	ID=exon:BOX15_Mlig022928g2.2;Parent=transcript:BOX15_Mlig022928g2
+scaf1601	WormBase_imported	exon	217845	217886	.	+	.	ID=exon:BOX15_Mlig022928g2.3;Parent=transcript:BOX15_Mlig022928g2
+scaf1601	WormBase_imported	exon	217996	218037	.	+	.	ID=exon:BOX15_Mlig022928g2.4;Parent=transcript:BOX15_Mlig022928g2
+scaf1601	WormBase_imported	exon	218142	218183	.	+	.	ID=exon:BOX15_Mlig022928g2.5;Parent=transcript:BOX15_Mlig022928g2
+scaf1601	WormBase_imported	exon	218325	218366	.	+	.	ID=exon:BOX15_Mlig022928g2.6;Parent=transcript:BOX15_Mlig022928g2
+scaf1601	WormBase_imported	exon	218475	218516	.	+	.	ID=exon:BOX15_Mlig022928g2.7;Parent=transcript:BOX15_Mlig022928g2
+scaf1601	WormBase_imported	exon	218629	218679	.	+	.	ID=exon:BOX15_Mlig022928g2.8;Parent=transcript:BOX15_Mlig022928g2
+scaf1601	WormBase_imported	exon	218811	218855	.	+	.	ID=exon:BOX15_Mlig022928g2.9;Parent=transcript:BOX15_Mlig022928g2
+scaf1601	WormBase_imported	exon	218931	219440	.	+	.	ID=exon:BOX15_Mlig022928g2.10;Parent=transcript:BOX15_Mlig022928g2
+scaf1601	WormBase_imported	five_prime_UTR	217445	217511	.	+	.	Parent=transcript:BOX15_Mlig022928g2
+scaf1601	WormBase_imported	CDS	217512	217605	.	+	0	ID=cds:BOX15_Mlig022928g2;Parent=transcript:BOX15_Mlig022928g2
+scaf1601	WormBase_imported	CDS	217679	217756	.	+	2	ID=cds:BOX15_Mlig022928g2;Parent=transcript:BOX15_Mlig022928g2
+scaf1601	WormBase_imported	CDS	217845	217886	.	+	2	ID=cds:BOX15_Mlig022928g2;Parent=transcript:BOX15_Mlig022928g2
+scaf1601	WormBase_imported	CDS	217996	218037	.	+	2	ID=cds:BOX15_Mlig022928g2;Parent=transcript:BOX15_Mlig022928g2
+scaf1601	WormBase_imported	CDS	218142	218183	.	+	2	ID=cds:BOX15_Mlig022928g2;Parent=transcript:BOX15_Mlig022928g2
+scaf1601	WormBase_imported	CDS	218325	218366	.	+	2	ID=cds:BOX15_Mlig022928g2;Parent=transcript:BOX15_Mlig022928g2
+scaf1601	WormBase_imported	CDS	218475	218516	.	+	2	ID=cds:BOX15_Mlig022928g2;Parent=transcript:BOX15_Mlig022928g2
+scaf1601	WormBase_imported	CDS	218629	218679	.	+	2	ID=cds:BOX15_Mlig022928g2;Parent=transcript:BOX15_Mlig022928g2
+scaf1601	WormBase_imported	CDS	218811	218855	.	+	2	ID=cds:BOX15_Mlig022928g2;Parent=transcript:BOX15_Mlig022928g2
+scaf1601	WormBase_imported	CDS	218931	218956	.	+	2	ID=cds:BOX15_Mlig022928g2;Parent=transcript:BOX15_Mlig022928g2
+scaf1601	WormBase_imported	three_prime_UTR	218957	219440	.	+	.	Parent=transcript:BOX15_Mlig022928g2
 scaf128	WormBase_imported	gene	21281	38628	.	-	.	ID=gene:BOX15_Mlig001751g2;Name=BOX15_Mlig001751g2;biotype=protein_coding
 scaf128	WormBase_imported	mRNA	21281	38628	.	-	.	ID=transcript:BOX15_Mlig001751g2;Parent=gene:BOX15_Mlig001751g2;Name=BOX15_Mlig001751g2
 #microexons transcript:BOX15_Mlig001751g2:  92 142 33-36-36-36-36-36-36-36-36-39-375
@@ -196,45 +227,30 @@ scaf128	WormBase_imported	CDS	23297	23332	.	-	1	ID=cds:BOX15_Mlig001751g2;Parent
 scaf128	WormBase_imported	CDS	23102	23140	.	-	1	ID=cds:BOX15_Mlig001751g2;Parent=transcript:BOX15_Mlig001751g2
 scaf128	WormBase_imported	CDS	21628	21655	.	-	1	ID=cds:BOX15_Mlig001751g2;Parent=transcript:BOX15_Mlig001751g2
 scaf128	WormBase_imported	three_prime_UTR	21281	21627	.	-	.	Parent=transcript:BOX15_Mlig001751g2
-scaf3377	WormBase_imported	gene	93356	95763	.	+	.	ID=gene:BOX15_Mlig000193g1;Name=BOX15_Mlig000193g1;biotype=protein_coding
-scaf3377	WormBase_imported	mRNA	93356	95763	.	+	.	ID=transcript:BOX15_Mlig000193g1;Parent=gene:BOX15_Mlig000193g1;Name=BOX15_Mlig000193g1;info=method:InterPro accession:IPR000086 description:NUDIX hydrolase domain %0Amethod:InterPro accession:IPR003293 description:Nudix hydrolase 6-like %0Amethod:InterPro accession:IPR015797 description:NUDIX hydrolase-like domain superfamily %0Amethod:InterPro accession:IPR020084 description:NUDIX hydrolase%2C conserved site %0Amethod:InterPro accession:IPR020476 description:NUDIX hydrolase %0Amethod:InterPro accession:IPR040618 description:Pre-nudix hydrolase domain
-#microexons transcript:BOX15_Mlig000193g1:  260 266 572 78 41 3-45-33
-scaf3377	WormBase_imported	exon	93356	93615	.	+	.	ID=exon:BOX15_Mlig000193g1.1;Parent=transcript:BOX15_Mlig000193g1
-scaf3377	WormBase_imported	exon	94275	94540	.	+	.	ID=exon:BOX15_Mlig000193g1.2;Parent=transcript:BOX15_Mlig000193g1
-scaf3377	WormBase_imported	exon	94818	95389	.	+	.	ID=exon:BOX15_Mlig000193g1.3;Parent=transcript:BOX15_Mlig000193g1
-scaf3377	WormBase_imported	exon	95420	95497	.	+	.	ID=exon:BOX15_Mlig000193g1.4;Parent=transcript:BOX15_Mlig000193g1
-scaf3377	WormBase_imported	exon	95561	95601	.	+	.	ID=exon:BOX15_Mlig000193g1.5;Parent=transcript:BOX15_Mlig000193g1
-scaf3377	WormBase_imported	exon	95634	95636	.	+	.	ID=exon:BOX15_Mlig000193g1.6;Parent=transcript:BOX15_Mlig000193g1
-scaf3377	WormBase_imported	exon	95659	95703	.	+	.	ID=exon:BOX15_Mlig000193g1.7;Parent=transcript:BOX15_Mlig000193g1
-scaf3377	WormBase_imported	exon	95731	95763	.	+	.	ID=exon:BOX15_Mlig000193g1.8;Parent=transcript:BOX15_Mlig000193g1
-scaf3377	WormBase_imported	five_prime_UTR	93356	93356	.	+	.	Parent=transcript:BOX15_Mlig000193g1
-scaf3377	WormBase_imported	CDS	93357	93615	.	+	0	ID=cds:BOX15_Mlig000193g1;Parent=transcript:BOX15_Mlig000193g1
-scaf3377	WormBase_imported	CDS	94275	94540	.	+	2	ID=cds:BOX15_Mlig000193g1;Parent=transcript:BOX15_Mlig000193g1
-scaf3377	WormBase_imported	CDS	94818	95288	.	+	0	ID=cds:BOX15_Mlig000193g1;Parent=transcript:BOX15_Mlig000193g1
-scaf3377	WormBase_imported	three_prime_UTR	95289	95389	.	+	.	Parent=transcript:BOX15_Mlig000193g1
-scaf3377	WormBase_imported	three_prime_UTR	95420	95497	.	+	.	Parent=transcript:BOX15_Mlig000193g1
-scaf3377	WormBase_imported	three_prime_UTR	95561	95601	.	+	.	Parent=transcript:BOX15_Mlig000193g1
-scaf3377	WormBase_imported	three_prime_UTR	95634	95636	.	+	.	Parent=transcript:BOX15_Mlig000193g1
-scaf3377	WormBase_imported	three_prime_UTR	95659	95703	.	+	.	Parent=transcript:BOX15_Mlig000193g1
-scaf3377	WormBase_imported	three_prime_UTR	95731	95763	.	+	.	Parent=transcript:BOX15_Mlig000193g1
-scaf4337	WormBase_imported	gene	30754	38396	.	-	.	ID=gene:BOX15_Mlig028116g1;Name=BOX15_Mlig028116g1;biotype=protein_coding
-scaf4337	WormBase_imported	mRNA	30754	38396	.	-	.	ID=transcript:BOX15_Mlig028116g1;Parent=gene:BOX15_Mlig028116g1;Name=BOX15_Mlig028116g1;info=method:InterPro accession:IPR000007 description:Tubby%2C C-terminal %0Amethod:InterPro accession:IPR015943 description:WD40/YVTN repeat-like-containing domain superfamily %0Amethod:InterPro accession:IPR025659 description:Tubby-like%2C C-terminal %0Amethod:InterPro accession:IPR036322 description:WD40-repeat-containing domain superfamily
-#microexons transcript:BOX15_Mlig028116g1:  319 397 2339 21-21-30 29 1053
-scaf4337	WormBase_imported	exon	38078	38396	.	-	.	ID=exon:BOX15_Mlig028116g1.1;Parent=transcript:BOX15_Mlig028116g1
-scaf4337	WormBase_imported	exon	37154	37550	.	-	.	ID=exon:BOX15_Mlig028116g1.2;Parent=transcript:BOX15_Mlig028116g1
-scaf4337	WormBase_imported	exon	32091	34429	.	-	.	ID=exon:BOX15_Mlig028116g1.3;Parent=transcript:BOX15_Mlig028116g1
-scaf4337	WormBase_imported	exon	32056	32076	.	-	.	ID=exon:BOX15_Mlig028116g1.4;Parent=transcript:BOX15_Mlig028116g1
-scaf4337	WormBase_imported	exon	31993	32013	.	-	.	ID=exon:BOX15_Mlig028116g1.5;Parent=transcript:BOX15_Mlig028116g1
-scaf4337	WormBase_imported	exon	31862	31891	.	-	.	ID=exon:BOX15_Mlig028116g1.6;Parent=transcript:BOX15_Mlig028116g1
-scaf4337	WormBase_imported	exon	31820	31848	.	-	.	ID=exon:BOX15_Mlig028116g1.7;Parent=transcript:BOX15_Mlig028116g1
-scaf4337	WormBase_imported	exon	30754	31806	.	-	.	ID=exon:BOX15_Mlig028116g1.8;Parent=transcript:BOX15_Mlig028116g1
-scaf4337	WormBase_imported	five_prime_UTR	38243	38396	.	-	.	Parent=transcript:BOX15_Mlig028116g1
-scaf4337	WormBase_imported	CDS	38078	38242	.	-	0	ID=cds:BOX15_Mlig028116g1;Parent=transcript:BOX15_Mlig028116g1
-scaf4337	WormBase_imported	CDS	37154	37550	.	-	0	ID=cds:BOX15_Mlig028116g1;Parent=transcript:BOX15_Mlig028116g1
-scaf4337	WormBase_imported	CDS	32241	34429	.	-	2	ID=cds:BOX15_Mlig028116g1;Parent=transcript:BOX15_Mlig028116g1
-scaf4337	WormBase_imported	three_prime_UTR	32091	32240	.	-	.	Parent=transcript:BOX15_Mlig028116g1
-scaf4337	WormBase_imported	three_prime_UTR	32056	32076	.	-	.	Parent=transcript:BOX15_Mlig028116g1
-scaf4337	WormBase_imported	three_prime_UTR	31993	32013	.	-	.	Parent=transcript:BOX15_Mlig028116g1
-scaf4337	WormBase_imported	three_prime_UTR	31862	31891	.	-	.	Parent=transcript:BOX15_Mlig028116g1
-scaf4337	WormBase_imported	three_prime_UTR	31820	31848	.	-	.	Parent=transcript:BOX15_Mlig028116g1
-scaf4337	WormBase_imported	three_prime_UTR	30754	31806	.	-	.	Parent=transcript:BOX15_Mlig028116g1
+scaf26	WormBase_imported	gene	53021	61759	.	+	.	ID=gene:BOX15_Mlig001594g18;Name=BOX15_Mlig001594g18;biotype=protein_coding
+scaf26	WormBase_imported	mRNA	53021	61759	.	+	.	ID=transcript:BOX15_Mlig001594g18;Parent=gene:BOX15_Mlig001594g18;Name=BOX15_Mlig001594g18;info=method:InterPro accession:IPR002889 description:Carbohydrate-binding WSC
+#microexons transcript:BOX15_Mlig001594g18:  192-33-45-36-30-27-33-33-45-300 397
+scaf26	WormBase_imported	exon	53021	53212	.	+	.	ID=exon:BOX15_Mlig001594g18.1;Parent=transcript:BOX15_Mlig001594g18
+scaf26	WormBase_imported	exon	54216	54248	.	+	.	ID=exon:BOX15_Mlig001594g18.2;Parent=transcript:BOX15_Mlig001594g18
+scaf26	WormBase_imported	exon	55043	55087	.	+	.	ID=exon:BOX15_Mlig001594g18.3;Parent=transcript:BOX15_Mlig001594g18
+scaf26	WormBase_imported	exon	55250	55285	.	+	.	ID=exon:BOX15_Mlig001594g18.4;Parent=transcript:BOX15_Mlig001594g18
+scaf26	WormBase_imported	exon	55395	55424	.	+	.	ID=exon:BOX15_Mlig001594g18.5;Parent=transcript:BOX15_Mlig001594g18
+scaf26	WormBase_imported	exon	55926	55952	.	+	.	ID=exon:BOX15_Mlig001594g18.6;Parent=transcript:BOX15_Mlig001594g18
+scaf26	WormBase_imported	exon	57300	57332	.	+	.	ID=exon:BOX15_Mlig001594g18.7;Parent=transcript:BOX15_Mlig001594g18
+scaf26	WormBase_imported	exon	58074	58106	.	+	.	ID=exon:BOX15_Mlig001594g18.8;Parent=transcript:BOX15_Mlig001594g18
+scaf26	WormBase_imported	exon	59264	59308	.	+	.	ID=exon:BOX15_Mlig001594g18.9;Parent=transcript:BOX15_Mlig001594g18
+scaf26	WormBase_imported	exon	59546	59845	.	+	.	ID=exon:BOX15_Mlig001594g18.10;Parent=transcript:BOX15_Mlig001594g18
+scaf26	WormBase_imported	exon	61363	61759	.	+	.	ID=exon:BOX15_Mlig001594g18.11;Parent=transcript:BOX15_Mlig001594g18
+scaf26	WormBase_imported	five_prime_UTR	53021	53154	.	+	.	Parent=transcript:BOX15_Mlig001594g18
+scaf26	WormBase_imported	CDS	53155	53212	.	+	0	ID=cds:BOX15_Mlig001594g18;Parent=transcript:BOX15_Mlig001594g18
+scaf26	WormBase_imported	CDS	54216	54248	.	+	2	ID=cds:BOX15_Mlig001594g18;Parent=transcript:BOX15_Mlig001594g18
+scaf26	WormBase_imported	CDS	55043	55087	.	+	2	ID=cds:BOX15_Mlig001594g18;Parent=transcript:BOX15_Mlig001594g18
+scaf26	WormBase_imported	CDS	55250	55285	.	+	2	ID=cds:BOX15_Mlig001594g18;Parent=transcript:BOX15_Mlig001594g18
+scaf26	WormBase_imported	CDS	55395	55424	.	+	2	ID=cds:BOX15_Mlig001594g18;Parent=transcript:BOX15_Mlig001594g18
+scaf26	WormBase_imported	CDS	55926	55952	.	+	2	ID=cds:BOX15_Mlig001594g18;Parent=transcript:BOX15_Mlig001594g18
+scaf26	WormBase_imported	CDS	57300	57332	.	+	2	ID=cds:BOX15_Mlig001594g18;Parent=transcript:BOX15_Mlig001594g18
+scaf26	WormBase_imported	CDS	58074	58106	.	+	2	ID=cds:BOX15_Mlig001594g18;Parent=transcript:BOX15_Mlig001594g18
+scaf26	WormBase_imported	CDS	59264	59308	.	+	2	ID=cds:BOX15_Mlig001594g18;Parent=transcript:BOX15_Mlig001594g18
+scaf26	WormBase_imported	CDS	59546	59845	.	+	2	ID=cds:BOX15_Mlig001594g18;Parent=transcript:BOX15_Mlig001594g18
+scaf26	WormBase_imported	CDS	61363	61667	.	+	2	ID=cds:BOX15_Mlig001594g18;Parent=transcript:BOX15_Mlig001594g18
+scaf26	WormBase_imported	three_prime_UTR	61668	61759	.	+	.	Parent=transcript:BOX15_Mlig001594g18

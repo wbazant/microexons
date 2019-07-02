@@ -1,3 +1,24 @@
+V	WormBase_imported	gene	18163439	18164858	.	-	.	ID=gene:WBGene00007569;Name=WBGene00007569;biotype=protein_coding;locus=C14A6.5
+V	WormBase_imported	mRNA	18163439	18164858	.	-	.	ID=transcript:C14A6.5.1;Parent=gene:WBGene00007569;Name=C14A6.5.1
+#microexons transcript:C14A6.5.1:  42-36-33-54-66-81-90 269
+V	WormBase_imported	exon	18164817	18164858	.	-	.	ID=exon:C14A6.5.1.1;Parent=transcript:C14A6.5.1
+V	WormBase_imported	exon	18164732	18164767	.	-	.	ID=exon:C14A6.5.1.2;Parent=transcript:C14A6.5.1
+V	WormBase_imported	exon	18164645	18164677	.	-	.	ID=exon:C14A6.5.1.3;Parent=transcript:C14A6.5.1
+V	WormBase_imported	exon	18164548	18164601	.	-	.	ID=exon:C14A6.5.1.4;Parent=transcript:C14A6.5.1
+V	WormBase_imported	exon	18164441	18164506	.	-	.	ID=exon:C14A6.5.1.5;Parent=transcript:C14A6.5.1
+V	WormBase_imported	exon	18164281	18164361	.	-	.	ID=exon:C14A6.5.1.6;Parent=transcript:C14A6.5.1
+V	WormBase_imported	exon	18164095	18164184	.	-	.	ID=exon:C14A6.5.1.7;Parent=transcript:C14A6.5.1
+V	WormBase_imported	exon	18163439	18163707	.	-	.	ID=exon:C14A6.5.1.8;Parent=transcript:C14A6.5.1
+V	WormBase_imported	five_prime_UTR	18164829	18164858	.	-	.	Parent=transcript:C14A6.5.1
+V	WormBase_imported	CDS	18164817	18164828	.	-	0	ID=cds:C14A6.5.1;Parent=transcript:C14A6.5.1
+V	WormBase_imported	CDS	18164732	18164767	.	-	0	ID=cds:C14A6.5.1;Parent=transcript:C14A6.5.1
+V	WormBase_imported	CDS	18164645	18164677	.	-	0	ID=cds:C14A6.5.1;Parent=transcript:C14A6.5.1
+V	WormBase_imported	CDS	18164548	18164601	.	-	0	ID=cds:C14A6.5.1;Parent=transcript:C14A6.5.1
+V	WormBase_imported	CDS	18164441	18164506	.	-	0	ID=cds:C14A6.5.1;Parent=transcript:C14A6.5.1
+V	WormBase_imported	CDS	18164356	18164361	.	-	0	ID=cds:C14A6.5.1;Parent=transcript:C14A6.5.1
+V	WormBase_imported	three_prime_UTR	18164281	18164355	.	-	.	Parent=transcript:C14A6.5.1
+V	WormBase_imported	three_prime_UTR	18164095	18164184	.	-	.	Parent=transcript:C14A6.5.1
+V	WormBase_imported	three_prime_UTR	18163439	18163707	.	-	.	Parent=transcript:C14A6.5.1
 X	WormBase_imported	gene	12580074	12583213	.	+	.	ID=gene:WBGene00011991;Name=WBGene00011991;biotype=protein_coding;locus=T24D5.3
 X	WormBase_imported	mRNA	12580074	12583213	.	+	.	ID=transcript:T24D5.3.1;Parent=gene:WBGene00011991;Name=T24D5.3.1
 #microexons transcript:T24D5.3.1:  11 117-45-57-51-57-54 107 311
@@ -50,6 +71,31 @@ X	WormBase_imported	CDS	15967198	15967254	.	-	2	ID=cds:C09G1.1.1;Parent=transcri
 X	WormBase_imported	CDS	15967101	15967148	.	-	2	ID=cds:C09G1.1.1;Parent=transcript:C09G1.1.1
 X	WormBase_imported	CDS	15966993	15967040	.	-	2	ID=cds:C09G1.1.1;Parent=transcript:C09G1.1.1
 X	WormBase_imported	CDS	15966112	15966194	.	-	2	ID=cds:C09G1.1.1;Parent=transcript:C09G1.1.1
+IV	WormBase_imported	gene	11926023	11928415	.	+	.	ID=gene:WBGene00014091;Name=WBGene00014091;biotype=protein_coding;locus=ZK822.4
+IV	WormBase_imported	mRNA	11926023	11928415	.	+	.	ID=transcript:ZK822.4.1;Parent=gene:WBGene00014091;Name=ZK822.4.1;info=method:InterPro accession:IPR003677 description:Domain of unknown function DUF148
+#microexons transcript:ZK822.4.1:  154 108-39-54-54-54 394 54-234-333
+IV	WormBase_imported	exon	11926023	11926176	.	+	.	ID=exon:ZK822.4.1.1;Parent=transcript:ZK822.4.1
+IV	WormBase_imported	exon	11926555	11926662	.	+	.	ID=exon:ZK822.4.1.2;Parent=transcript:ZK822.4.1
+IV	WormBase_imported	exon	11926715	11926753	.	+	.	ID=exon:ZK822.4.1.3;Parent=transcript:ZK822.4.1
+IV	WormBase_imported	exon	11926801	11926854	.	+	.	ID=exon:ZK822.4.1.4;Parent=transcript:ZK822.4.1
+IV	WormBase_imported	exon	11926902	11926955	.	+	.	ID=exon:ZK822.4.1.5;Parent=transcript:ZK822.4.1
+IV	WormBase_imported	exon	11927010	11927063	.	+	.	ID=exon:ZK822.4.1.6;Parent=transcript:ZK822.4.1
+IV	WormBase_imported	exon	11927187	11927580	.	+	.	ID=exon:ZK822.4.1.7;Parent=transcript:ZK822.4.1
+IV	WormBase_imported	exon	11927700	11927753	.	+	.	ID=exon:ZK822.4.1.8;Parent=transcript:ZK822.4.1
+IV	WormBase_imported	exon	11927803	11928036	.	+	.	ID=exon:ZK822.4.1.9;Parent=transcript:ZK822.4.1
+IV	WormBase_imported	exon	11928083	11928415	.	+	.	ID=exon:ZK822.4.1.10;Parent=transcript:ZK822.4.1
+IV	WormBase_imported	five_prime_UTR	11926023	11926093	.	+	.	Parent=transcript:ZK822.4.1
+IV	WormBase_imported	CDS	11926094	11926176	.	+	0	ID=cds:ZK822.4.1;Parent=transcript:ZK822.4.1
+IV	WormBase_imported	CDS	11926555	11926662	.	+	1	ID=cds:ZK822.4.1;Parent=transcript:ZK822.4.1
+IV	WormBase_imported	CDS	11926715	11926753	.	+	1	ID=cds:ZK822.4.1;Parent=transcript:ZK822.4.1
+IV	WormBase_imported	CDS	11926801	11926854	.	+	1	ID=cds:ZK822.4.1;Parent=transcript:ZK822.4.1
+IV	WormBase_imported	CDS	11926902	11926955	.	+	1	ID=cds:ZK822.4.1;Parent=transcript:ZK822.4.1
+IV	WormBase_imported	CDS	11927010	11927063	.	+	1	ID=cds:ZK822.4.1;Parent=transcript:ZK822.4.1
+IV	WormBase_imported	CDS	11927187	11927580	.	+	1	ID=cds:ZK822.4.1;Parent=transcript:ZK822.4.1
+IV	WormBase_imported	CDS	11927700	11927753	.	+	0	ID=cds:ZK822.4.1;Parent=transcript:ZK822.4.1
+IV	WormBase_imported	CDS	11927803	11928036	.	+	0	ID=cds:ZK822.4.1;Parent=transcript:ZK822.4.1
+IV	WormBase_imported	CDS	11928083	11928370	.	+	0	ID=cds:ZK822.4.1;Parent=transcript:ZK822.4.1
+IV	WormBase_imported	three_prime_UTR	11928371	11928415	.	+	.	Parent=transcript:ZK822.4.1
 IV	WormBase_imported	gene	17351886	17357895	.	+	.	ID=gene:WBGene00007820;Name=WBGene00007820;biotype=protein_coding;description=C-type LECtin;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0K3AXC2;locus=clec-199
 IV	WormBase_imported	mRNA	17351886	17357895	.	+	.	ID=transcript:C30H6.1a.1;Parent=gene:WBGene00007820;Name=C30H6.1a.1;info=method:InterPro accession:IPR001304 description:C-type lectin-like %0Amethod:InterPro accession:IPR016186 description:C-type lectin-like/link domain superfamily %0Amethod:InterPro accession:IPR016187 description:C-type lectin fold
 #microexons transcript:C30H6.1a.1:  136 375 56 105 118 86 42-39-24-48-21-33-54-36-42-42-42-42-51-39-33-42-42-162 106 104 108
@@ -931,68 +977,69 @@ IV	WormBase_imported	CDS	17357211	17357372	.	+	0	ID=cds:C30H6.1q.1;Parent=transc
 IV	WormBase_imported	CDS	17357420	17357525	.	+	0	ID=cds:C30H6.1q.1;Parent=transcript:C30H6.1q.1
 IV	WormBase_imported	CDS	17357601	17357704	.	+	2	ID=cds:C30H6.1q.1;Parent=transcript:C30H6.1q.1
 IV	WormBase_imported	CDS	17357788	17357895	.	+	0	ID=cds:C30H6.1q.1;Parent=transcript:C30H6.1q.1
-II	WormBase_imported	gene	11728949	11731226	.	+	.	ID=gene:WBGene00000114;Name=WBGene00000114;biotype=protein_coding;description=Probable methylmalonate-semialdehyde dehydrogenase [acylating], mitochondrial;description_source=UniProtKB/Swiss-Prot;description_source_acc=P52713;locus=alh-8
-II	WormBase_imported	mRNA	11729011	11731198	.	+	.	ID=transcript:F13D12.4a.1;Parent=gene:WBGene00000114;Name=F13D12.4a.1;info=method:InterPro accession:IPR010061 description:Methylmalonate-semialdehyde dehydrogenase %0Amethod:InterPro accession:IPR015590 description:Aldehyde dehydrogenase domain %0Amethod:InterPro accession:IPR016160 description:Aldehyde dehydrogenase%2C cysteine active site %0Amethod:InterPro accession:IPR016161 description:Aldehyde/histidinol dehydrogenase %0Amethod:InterPro accession:IPR016162 description:Aldehyde dehydrogenase%2C N-terminal %0Amethod:InterPro accession:IPR016163 description:Aldehyde dehydrogenase%2C C-terminal
-#microexons transcript:F13D12.4a.1:  95 57 173 508 450-522
-II	WormBase_imported	mRNA	11729055	11731226	.	+	.	ID=transcript:F13D12.4a.2;Parent=gene:WBGene00000114;Name=F13D12.4a.2;info=method:InterPro accession:IPR010061 description:Methylmalonate-semialdehyde dehydrogenase %0Amethod:InterPro accession:IPR015590 description:Aldehyde dehydrogenase domain %0Amethod:InterPro accession:IPR016160 description:Aldehyde dehydrogenase%2C cysteine active site %0Amethod:InterPro accession:IPR016161 description:Aldehyde/histidinol dehydrogenase %0Amethod:InterPro accession:IPR016162 description:Aldehyde dehydrogenase%2C N-terminal %0Amethod:InterPro accession:IPR016163 description:Aldehyde dehydrogenase%2C C-terminal
-#microexons transcript:F13D12.4a.2:  51-57 173 508 450 550
-II	WormBase_imported	mRNA	11728949	11731226	.	+	.	ID=transcript:F13D12.4a.3;Parent=gene:WBGene00000114;Name=F13D12.4a.3;info=method:InterPro accession:IPR010061 description:Methylmalonate-semialdehyde dehydrogenase %0Amethod:InterPro accession:IPR015590 description:Aldehyde dehydrogenase domain %0Amethod:InterPro accession:IPR016160 description:Aldehyde dehydrogenase%2C cysteine active site %0Amethod:InterPro accession:IPR016161 description:Aldehyde/histidinol dehydrogenase %0Amethod:InterPro accession:IPR016162 description:Aldehyde dehydrogenase%2C N-terminal %0Amethod:InterPro accession:IPR016163 description:Aldehyde dehydrogenase%2C C-terminal
-#microexons transcript:F13D12.4a.3:  51-51-57 173 508 450 550
-II	WormBase_imported	mRNA	11729055	11731201	.	+	.	ID=transcript:F13D12.4b.1;Parent=gene:WBGene00000114;Name=F13D12.4b.1;info=method:InterPro accession:IPR010061 description:Methylmalonate-semialdehyde dehydrogenase %0Amethod:InterPro accession:IPR015590 description:Aldehyde dehydrogenase domain %0Amethod:InterPro accession:IPR016161 description:Aldehyde/histidinol dehydrogenase %0Amethod:InterPro accession:IPR016162 description:Aldehyde dehydrogenase%2C N-terminal
-#microexons transcript:F13D12.4b.1:  51-57 173 1026 517
-II	WormBase_imported	exon	11729011	11729105	.	+	.	ID=exon:F13D12.4a.1.1;Parent=transcript:F13D12.4a.1
-II	WormBase_imported	exon	11729266	11729322	.	+	.	ID=exon:F13D12.4a.1.2;Parent=transcript:F13D12.4a.1
-II	WormBase_imported	exon	11729377	11729549	.	+	.	ID=exon:F13D12.4a.1.3;Parent=transcript:F13D12.4a.1
-II	WormBase_imported	exon	11729607	11730114	.	+	.	ID=exon:F13D12.4a.1.4;Parent=transcript:F13D12.4a.1
-II	WormBase_imported	exon	11730173	11730622	.	+	.	ID=exon:F13D12.4a.1.5;Parent=transcript:F13D12.4a.1
-II	WormBase_imported	exon	11730677	11731198	.	+	.	ID=exon:F13D12.4a.1.6;Parent=transcript:F13D12.4a.1
-II	WormBase_imported	exon	11729055	11729105	.	+	.	ID=exon:F13D12.4a.2.1;Parent=transcript:F13D12.4a.2
-II	WormBase_imported	exon	11729266	11729322	.	+	.	ID=exon:F13D12.4a.2.2;Parent=transcript:F13D12.4a.2
-II	WormBase_imported	exon	11729377	11729549	.	+	.	ID=exon:F13D12.4a.2.3;Parent=transcript:F13D12.4a.2
-II	WormBase_imported	exon	11729607	11730114	.	+	.	ID=exon:F13D12.4a.2.4;Parent=transcript:F13D12.4a.2
-II	WormBase_imported	exon	11730173	11730622	.	+	.	ID=exon:F13D12.4a.2.5;Parent=transcript:F13D12.4a.2
-II	WormBase_imported	exon	11730677	11731226	.	+	.	ID=exon:F13D12.4a.2.6;Parent=transcript:F13D12.4a.2
-II	WormBase_imported	exon	11728949	11728999	.	+	.	ID=exon:F13D12.4a.3.1;Parent=transcript:F13D12.4a.3
-II	WormBase_imported	exon	11729055	11729105	.	+	.	ID=exon:F13D12.4a.3.2;Parent=transcript:F13D12.4a.3
-II	WormBase_imported	exon	11729266	11729322	.	+	.	ID=exon:F13D12.4a.3.3;Parent=transcript:F13D12.4a.3
-II	WormBase_imported	exon	11729377	11729549	.	+	.	ID=exon:F13D12.4a.3.4;Parent=transcript:F13D12.4a.3
-II	WormBase_imported	exon	11729607	11730114	.	+	.	ID=exon:F13D12.4a.3.5;Parent=transcript:F13D12.4a.3
-II	WormBase_imported	exon	11730173	11730622	.	+	.	ID=exon:F13D12.4a.3.6;Parent=transcript:F13D12.4a.3
-II	WormBase_imported	exon	11730677	11731226	.	+	.	ID=exon:F13D12.4a.3.7;Parent=transcript:F13D12.4a.3
-II	WormBase_imported	exon	11729055	11729105	.	+	.	ID=exon:F13D12.4b.1.1;Parent=transcript:F13D12.4b.1
-II	WormBase_imported	exon	11729266	11729322	.	+	.	ID=exon:F13D12.4b.1.2;Parent=transcript:F13D12.4b.1
-II	WormBase_imported	exon	11729377	11729549	.	+	.	ID=exon:F13D12.4b.1.3;Parent=transcript:F13D12.4b.1
-II	WormBase_imported	exon	11729597	11730622	.	+	.	ID=exon:F13D12.4b.1.4;Parent=transcript:F13D12.4b.1
-II	WormBase_imported	exon	11730685	11731201	.	+	.	ID=exon:F13D12.4b.1.5;Parent=transcript:F13D12.4b.1
-II	WormBase_imported	five_prime_UTR	11729011	11729078	.	+	.	Parent=transcript:F13D12.4a.1
-II	WormBase_imported	CDS	11729079	11729105	.	+	0	ID=cds:F13D12.4a.1;Parent=transcript:F13D12.4a.1
-II	WormBase_imported	CDS	11729266	11729322	.	+	0	ID=cds:F13D12.4a.1;Parent=transcript:F13D12.4a.1
-II	WormBase_imported	CDS	11729377	11729549	.	+	0	ID=cds:F13D12.4a.1;Parent=transcript:F13D12.4a.1
-II	WormBase_imported	CDS	11729607	11730114	.	+	1	ID=cds:F13D12.4a.1;Parent=transcript:F13D12.4a.1
-II	WormBase_imported	CDS	11730173	11730622	.	+	0	ID=cds:F13D12.4a.1;Parent=transcript:F13D12.4a.1
-II	WormBase_imported	CDS	11730677	11731033	.	+	0	ID=cds:F13D12.4a.1;Parent=transcript:F13D12.4a.1
-II	WormBase_imported	three_prime_UTR	11731034	11731198	.	+	.	Parent=transcript:F13D12.4a.1
-II	WormBase_imported	five_prime_UTR	11729055	11729078	.	+	.	Parent=transcript:F13D12.4a.2
-II	WormBase_imported	CDS	11729079	11729105	.	+	0	ID=cds:F13D12.4a.2;Parent=transcript:F13D12.4a.2
-II	WormBase_imported	CDS	11729266	11729322	.	+	0	ID=cds:F13D12.4a.2;Parent=transcript:F13D12.4a.2
-II	WormBase_imported	CDS	11729377	11729549	.	+	0	ID=cds:F13D12.4a.2;Parent=transcript:F13D12.4a.2
-II	WormBase_imported	CDS	11729607	11730114	.	+	1	ID=cds:F13D12.4a.2;Parent=transcript:F13D12.4a.2
-II	WormBase_imported	CDS	11730173	11730622	.	+	0	ID=cds:F13D12.4a.2;Parent=transcript:F13D12.4a.2
-II	WormBase_imported	CDS	11730677	11731033	.	+	0	ID=cds:F13D12.4a.2;Parent=transcript:F13D12.4a.2
-II	WormBase_imported	three_prime_UTR	11731034	11731226	.	+	.	Parent=transcript:F13D12.4a.2
-II	WormBase_imported	five_prime_UTR	11728949	11728999	.	+	.	Parent=transcript:F13D12.4a.3
-II	WormBase_imported	five_prime_UTR	11729055	11729078	.	+	.	Parent=transcript:F13D12.4a.3
-II	WormBase_imported	CDS	11729079	11729105	.	+	0	ID=cds:F13D12.4a.3;Parent=transcript:F13D12.4a.3
-II	WormBase_imported	CDS	11729266	11729322	.	+	0	ID=cds:F13D12.4a.3;Parent=transcript:F13D12.4a.3
-II	WormBase_imported	CDS	11729377	11729549	.	+	0	ID=cds:F13D12.4a.3;Parent=transcript:F13D12.4a.3
-II	WormBase_imported	CDS	11729607	11730114	.	+	1	ID=cds:F13D12.4a.3;Parent=transcript:F13D12.4a.3
-II	WormBase_imported	CDS	11730173	11730622	.	+	0	ID=cds:F13D12.4a.3;Parent=transcript:F13D12.4a.3
-II	WormBase_imported	CDS	11730677	11731033	.	+	0	ID=cds:F13D12.4a.3;Parent=transcript:F13D12.4a.3
-II	WormBase_imported	three_prime_UTR	11731034	11731226	.	+	.	Parent=transcript:F13D12.4a.3
-II	WormBase_imported	five_prime_UTR	11729055	11729078	.	+	.	Parent=transcript:F13D12.4b.1
-II	WormBase_imported	CDS	11729079	11729105	.	+	0	ID=cds:F13D12.4b.1;Parent=transcript:F13D12.4b.1
-II	WormBase_imported	CDS	11729266	11729322	.	+	0	ID=cds:F13D12.4b.1;Parent=transcript:F13D12.4b.1
-II	WormBase_imported	CDS	11729377	11729549	.	+	0	ID=cds:F13D12.4b.1;Parent=transcript:F13D12.4b.1
-II	WormBase_imported	CDS	11729597	11729681	.	+	1	ID=cds:F13D12.4b.1;Parent=transcript:F13D12.4b.1
-II	WormBase_imported	three_prime_UTR	11729682	11730622	.	+	.	Parent=transcript:F13D12.4b.1
-II	WormBase_imported	three_prime_UTR	11730685	11731201	.	+	.	Parent=transcript:F13D12.4b.1
+II	WormBase_imported	gene	12888762	12890460	.	+	.	ID=gene:WBGene00009391;Name=WBGene00009391;biotype=protein_coding;locus=F35C5.3
+II	WormBase_imported	mRNA	12888762	12890460	.	+	.	ID=transcript:F35C5.3.1;Parent=gene:WBGene00009391;Name=F35C5.3.1;info=method:InterPro accession:IPR011004 description:Trimeric LpxA-like superfamily %0Amethod:InterPro accession:IPR038787 description:Serine/arginine repetitive matrix protein 5
+#microexons transcript:F35C5.3.1:  82 87-57-645-54-45-42-36-33-66-54
+II	WormBase_imported	exon	12888762	12888843	.	+	.	ID=exon:F35C5.3.1.1;Parent=transcript:F35C5.3.1
+II	WormBase_imported	exon	12888891	12888977	.	+	.	ID=exon:F35C5.3.1.2;Parent=transcript:F35C5.3.1
+II	WormBase_imported	exon	12889023	12889079	.	+	.	ID=exon:F35C5.3.1.3;Parent=transcript:F35C5.3.1
+II	WormBase_imported	exon	12889127	12889771	.	+	.	ID=exon:F35C5.3.1.4;Parent=transcript:F35C5.3.1
+II	WormBase_imported	exon	12889824	12889877	.	+	.	ID=exon:F35C5.3.1.5;Parent=transcript:F35C5.3.1
+II	WormBase_imported	exon	12889933	12889977	.	+	.	ID=exon:F35C5.3.1.6;Parent=transcript:F35C5.3.1
+II	WormBase_imported	exon	12890028	12890069	.	+	.	ID=exon:F35C5.3.1.7;Parent=transcript:F35C5.3.1
+II	WormBase_imported	exon	12890117	12890152	.	+	.	ID=exon:F35C5.3.1.8;Parent=transcript:F35C5.3.1
+II	WormBase_imported	exon	12890200	12890232	.	+	.	ID=exon:F35C5.3.1.9;Parent=transcript:F35C5.3.1
+II	WormBase_imported	exon	12890284	12890349	.	+	.	ID=exon:F35C5.3.1.10;Parent=transcript:F35C5.3.1
+II	WormBase_imported	exon	12890407	12890460	.	+	.	ID=exon:F35C5.3.1.11;Parent=transcript:F35C5.3.1
+II	WormBase_imported	five_prime_UTR	12888762	12888777	.	+	.	Parent=transcript:F35C5.3.1
+II	WormBase_imported	CDS	12888778	12888843	.	+	0	ID=cds:F35C5.3.1;Parent=transcript:F35C5.3.1
+II	WormBase_imported	CDS	12888891	12888977	.	+	0	ID=cds:F35C5.3.1;Parent=transcript:F35C5.3.1
+II	WormBase_imported	CDS	12889023	12889079	.	+	0	ID=cds:F35C5.3.1;Parent=transcript:F35C5.3.1
+II	WormBase_imported	CDS	12889127	12889771	.	+	0	ID=cds:F35C5.3.1;Parent=transcript:F35C5.3.1
+II	WormBase_imported	CDS	12889824	12889877	.	+	0	ID=cds:F35C5.3.1;Parent=transcript:F35C5.3.1
+II	WormBase_imported	CDS	12889933	12889977	.	+	0	ID=cds:F35C5.3.1;Parent=transcript:F35C5.3.1
+II	WormBase_imported	CDS	12890028	12890069	.	+	0	ID=cds:F35C5.3.1;Parent=transcript:F35C5.3.1
+II	WormBase_imported	CDS	12890117	12890152	.	+	0	ID=cds:F35C5.3.1;Parent=transcript:F35C5.3.1
+II	WormBase_imported	CDS	12890200	12890232	.	+	0	ID=cds:F35C5.3.1;Parent=transcript:F35C5.3.1
+II	WormBase_imported	CDS	12890284	12890349	.	+	0	ID=cds:F35C5.3.1;Parent=transcript:F35C5.3.1
+II	WormBase_imported	CDS	12890407	12890460	.	+	0	ID=cds:F35C5.3.1;Parent=transcript:F35C5.3.1
+II	WormBase_imported	gene	12890630	12892024	.	+	.	ID=gene:WBGene00009392;Name=WBGene00009392;biotype=protein_coding;locus=F35C5.4
+II	WormBase_imported	mRNA	12890630	12892024	.	+	.	ID=transcript:F35C5.4.1;Parent=gene:WBGene00009392;Name=F35C5.4.1
+#microexons transcript:F35C5.4.1:  21-186-78-48-45-39-42-60
+II	WormBase_imported	exon	12890630	12890650	.	+	.	ID=exon:F35C5.4.1.1;Parent=transcript:F35C5.4.1
+II	WormBase_imported	exon	12890888	12891073	.	+	.	ID=exon:F35C5.4.1.2;Parent=transcript:F35C5.4.1
+II	WormBase_imported	exon	12891438	12891515	.	+	.	ID=exon:F35C5.4.1.3;Parent=transcript:F35C5.4.1
+II	WormBase_imported	exon	12891570	12891617	.	+	.	ID=exon:F35C5.4.1.4;Parent=transcript:F35C5.4.1
+II	WormBase_imported	exon	12891663	12891707	.	+	.	ID=exon:F35C5.4.1.5;Parent=transcript:F35C5.4.1
+II	WormBase_imported	exon	12891763	12891801	.	+	.	ID=exon:F35C5.4.1.6;Parent=transcript:F35C5.4.1
+II	WormBase_imported	exon	12891860	12891901	.	+	.	ID=exon:F35C5.4.1.7;Parent=transcript:F35C5.4.1
+II	WormBase_imported	exon	12891965	12892024	.	+	.	ID=exon:F35C5.4.1.8;Parent=transcript:F35C5.4.1
+II	WormBase_imported	CDS	12890630	12890650	.	+	0	ID=cds:F35C5.4.1;Parent=transcript:F35C5.4.1
+II	WormBase_imported	CDS	12890888	12891073	.	+	0	ID=cds:F35C5.4.1;Parent=transcript:F35C5.4.1
+II	WormBase_imported	CDS	12891438	12891515	.	+	0	ID=cds:F35C5.4.1;Parent=transcript:F35C5.4.1
+II	WormBase_imported	CDS	12891570	12891617	.	+	0	ID=cds:F35C5.4.1;Parent=transcript:F35C5.4.1
+II	WormBase_imported	CDS	12891663	12891707	.	+	0	ID=cds:F35C5.4.1;Parent=transcript:F35C5.4.1
+II	WormBase_imported	CDS	12891763	12891801	.	+	0	ID=cds:F35C5.4.1;Parent=transcript:F35C5.4.1
+II	WormBase_imported	CDS	12891860	12891901	.	+	0	ID=cds:F35C5.4.1;Parent=transcript:F35C5.4.1
+II	WormBase_imported	CDS	12891965	12892024	.	+	0	ID=cds:F35C5.4.1;Parent=transcript:F35C5.4.1
+III	WormBase_imported	gene	913248	916997	.	-	.	ID=gene:WBGene00017761;Name=WBGene00017761;biotype=protein_coding;locus=F23H11.6
+III	WormBase_imported	mRNA	913248	916997	.	-	.	ID=transcript:F23H11.6.1;Parent=gene:WBGene00017761;Name=F23H11.6.1
+#microexons transcript:F23H11.6.1:  42-99-57-57-57-57-63-249-198
+III	WormBase_imported	exon	916956	916997	.	-	.	ID=exon:F23H11.6.1.1;Parent=transcript:F23H11.6.1
+III	WormBase_imported	exon	916809	916907	.	-	.	ID=exon:F23H11.6.1.2;Parent=transcript:F23H11.6.1
+III	WormBase_imported	exon	915398	915454	.	-	.	ID=exon:F23H11.6.1.3;Parent=transcript:F23H11.6.1
+III	WormBase_imported	exon	915289	915345	.	-	.	ID=exon:F23H11.6.1.4;Parent=transcript:F23H11.6.1
+III	WormBase_imported	exon	914707	914763	.	-	.	ID=exon:F23H11.6.1.5;Parent=transcript:F23H11.6.1
+III	WormBase_imported	exon	914600	914656	.	-	.	ID=exon:F23H11.6.1.6;Parent=transcript:F23H11.6.1
+III	WormBase_imported	exon	914490	914552	.	-	.	ID=exon:F23H11.6.1.7;Parent=transcript:F23H11.6.1
+III	WormBase_imported	exon	914197	914445	.	-	.	ID=exon:F23H11.6.1.8;Parent=transcript:F23H11.6.1
+III	WormBase_imported	exon	913248	913445	.	-	.	ID=exon:F23H11.6.1.9;Parent=transcript:F23H11.6.1
+III	WormBase_imported	CDS	916956	916997	.	-	0	ID=cds:F23H11.6.1;Parent=transcript:F23H11.6.1
+III	WormBase_imported	CDS	916809	916907	.	-	0	ID=cds:F23H11.6.1;Parent=transcript:F23H11.6.1
+III	WormBase_imported	CDS	915398	915454	.	-	0	ID=cds:F23H11.6.1;Parent=transcript:F23H11.6.1
+III	WormBase_imported	CDS	915289	915345	.	-	0	ID=cds:F23H11.6.1;Parent=transcript:F23H11.6.1
+III	WormBase_imported	CDS	914707	914763	.	-	0	ID=cds:F23H11.6.1;Parent=transcript:F23H11.6.1
+III	WormBase_imported	CDS	914600	914656	.	-	0	ID=cds:F23H11.6.1;Parent=transcript:F23H11.6.1
+III	WormBase_imported	CDS	914490	914552	.	-	0	ID=cds:F23H11.6.1;Parent=transcript:F23H11.6.1
+III	WormBase_imported	CDS	914197	914445	.	-	0	ID=cds:F23H11.6.1;Parent=transcript:F23H11.6.1
+III	WormBase_imported	CDS	913248	913445	.	-	0	ID=cds:F23H11.6.1;Parent=transcript:F23H11.6.1

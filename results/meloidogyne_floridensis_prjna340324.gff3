@@ -1,17 +1,35 @@
-scf7180000417836	WormBase_imported	gene	522	1597	.	-	.	ID=gene:scf7180000417836.g1828;Name=scf7180000417836.g1828;biotype=protein_coding
-scf7180000417836	WormBase_imported	mRNA	522	1597	.	-	.	ID=transcript:scf7180000417836.g1828;Parent=gene:scf7180000417836.g1828;Name=scf7180000417836.g1828;info=method:InterPro accession:IPR005817 description:Wnt
-#microexons transcript:scf7180000417836.g1828:  127 47 52 125 45-45-57
-scf7180000417836	WormBase_imported	exon	1471	1597	.	-	.	ID=exon:scf7180000417836.g1828.1;Parent=transcript:scf7180000417836.g1828
-scf7180000417836	WormBase_imported	exon	1283	1329	.	-	.	ID=exon:scf7180000417836.g1828.2;Parent=transcript:scf7180000417836.g1828
-scf7180000417836	WormBase_imported	exon	991	1042	.	-	.	ID=exon:scf7180000417836.g1828.3;Parent=transcript:scf7180000417836.g1828
-scf7180000417836	WormBase_imported	exon	819	943	.	-	.	ID=exon:scf7180000417836.g1828.4;Parent=transcript:scf7180000417836.g1828
-scf7180000417836	WormBase_imported	exon	727	771	.	-	.	ID=exon:scf7180000417836.g1828.5;Parent=transcript:scf7180000417836.g1828
-scf7180000417836	WormBase_imported	exon	634	678	.	-	.	ID=exon:scf7180000417836.g1828.6;Parent=transcript:scf7180000417836.g1828
-scf7180000417836	WormBase_imported	exon	522	578	.	-	.	ID=exon:scf7180000417836.g1828.7;Parent=transcript:scf7180000417836.g1828
-scf7180000417836	WormBase_imported	CDS	1471	1597	.	-	0	ID=cds:scf7180000417836.g1828;Parent=transcript:scf7180000417836.g1828
-scf7180000417836	WormBase_imported	CDS	1283	1329	.	-	2	ID=cds:scf7180000417836.g1828;Parent=transcript:scf7180000417836.g1828
-scf7180000417836	WormBase_imported	CDS	991	1042	.	-	0	ID=cds:scf7180000417836.g1828;Parent=transcript:scf7180000417836.g1828
-scf7180000417836	WormBase_imported	CDS	819	943	.	-	2	ID=cds:scf7180000417836.g1828;Parent=transcript:scf7180000417836.g1828
-scf7180000417836	WormBase_imported	CDS	727	771	.	-	0	ID=cds:scf7180000417836.g1828;Parent=transcript:scf7180000417836.g1828
-scf7180000417836	WormBase_imported	CDS	634	678	.	-	0	ID=cds:scf7180000417836.g1828;Parent=transcript:scf7180000417836.g1828
-scf7180000417836	WormBase_imported	CDS	522	578	.	-	0	ID=cds:scf7180000417836.g1828;Parent=transcript:scf7180000417836.g1828
+scf7180000424386	WormBase_imported	gene	9924	13759	.	-	.	ID=gene:scf7180000424386.g12935;Name=scf7180000424386.g12935;biotype=protein_coding
+scf7180000424386	WormBase_imported	mRNA	9924	13759	.	-	.	ID=transcript:scf7180000424386.g12935;Parent=gene:scf7180000424386.g12935;Name=scf7180000424386.g12935;info=method:InterPro accession:IPR001841 description:Zinc finger%2C RING-type %0Amethod:InterPro accession:IPR013083 description:Zinc finger%2C RING/FYVE/PHD-type
+#microexons transcript:scf7180000424386.g12935:  138-96-72-51-51-51-51-51-51-51 134 169 259 11 48-375
+scf7180000424386	WormBase_imported	exon	13622	13759	.	-	.	ID=exon:scf7180000424386.g12935.1;Parent=transcript:scf7180000424386.g12935
+scf7180000424386	WormBase_imported	exon	13408	13503	.	-	.	ID=exon:scf7180000424386.g12935.2;Parent=transcript:scf7180000424386.g12935
+scf7180000424386	WormBase_imported	exon	13222	13293	.	-	.	ID=exon:scf7180000424386.g12935.3;Parent=transcript:scf7180000424386.g12935
+scf7180000424386	WormBase_imported	exon	13079	13129	.	-	.	ID=exon:scf7180000424386.g12935.4;Parent=transcript:scf7180000424386.g12935
+scf7180000424386	WormBase_imported	exon	12968	13018	.	-	.	ID=exon:scf7180000424386.g12935.5;Parent=transcript:scf7180000424386.g12935
+scf7180000424386	WormBase_imported	exon	12848	12898	.	-	.	ID=exon:scf7180000424386.g12935.6;Parent=transcript:scf7180000424386.g12935
+scf7180000424386	WormBase_imported	exon	12717	12767	.	-	.	ID=exon:scf7180000424386.g12935.7;Parent=transcript:scf7180000424386.g12935
+scf7180000424386	WormBase_imported	exon	12575	12625	.	-	.	ID=exon:scf7180000424386.g12935.8;Parent=transcript:scf7180000424386.g12935
+scf7180000424386	WormBase_imported	exon	12448	12498	.	-	.	ID=exon:scf7180000424386.g12935.9;Parent=transcript:scf7180000424386.g12935
+scf7180000424386	WormBase_imported	exon	12312	12362	.	-	.	ID=exon:scf7180000424386.g12935.10;Parent=transcript:scf7180000424386.g12935
+scf7180000424386	WormBase_imported	exon	11980	12113	.	-	.	ID=exon:scf7180000424386.g12935.11;Parent=transcript:scf7180000424386.g12935
+scf7180000424386	WormBase_imported	exon	11715	11883	.	-	.	ID=exon:scf7180000424386.g12935.12;Parent=transcript:scf7180000424386.g12935
+scf7180000424386	WormBase_imported	exon	11409	11667	.	-	.	ID=exon:scf7180000424386.g12935.13;Parent=transcript:scf7180000424386.g12935
+scf7180000424386	WormBase_imported	exon	10897	10907	.	-	.	ID=exon:scf7180000424386.g12935.14;Parent=transcript:scf7180000424386.g12935
+scf7180000424386	WormBase_imported	exon	10338	10385	.	-	.	ID=exon:scf7180000424386.g12935.15;Parent=transcript:scf7180000424386.g12935
+scf7180000424386	WormBase_imported	exon	9924	10298	.	-	.	ID=exon:scf7180000424386.g12935.16;Parent=transcript:scf7180000424386.g12935
+scf7180000424386	WormBase_imported	CDS	13622	13759	.	-	0	ID=cds:scf7180000424386.g12935;Parent=transcript:scf7180000424386.g12935
+scf7180000424386	WormBase_imported	CDS	13408	13503	.	-	0	ID=cds:scf7180000424386.g12935;Parent=transcript:scf7180000424386.g12935
+scf7180000424386	WormBase_imported	CDS	13222	13293	.	-	0	ID=cds:scf7180000424386.g12935;Parent=transcript:scf7180000424386.g12935
+scf7180000424386	WormBase_imported	CDS	13079	13129	.	-	0	ID=cds:scf7180000424386.g12935;Parent=transcript:scf7180000424386.g12935
+scf7180000424386	WormBase_imported	CDS	12968	13018	.	-	0	ID=cds:scf7180000424386.g12935;Parent=transcript:scf7180000424386.g12935
+scf7180000424386	WormBase_imported	CDS	12848	12898	.	-	0	ID=cds:scf7180000424386.g12935;Parent=transcript:scf7180000424386.g12935
+scf7180000424386	WormBase_imported	CDS	12717	12767	.	-	0	ID=cds:scf7180000424386.g12935;Parent=transcript:scf7180000424386.g12935
+scf7180000424386	WormBase_imported	CDS	12575	12625	.	-	0	ID=cds:scf7180000424386.g12935;Parent=transcript:scf7180000424386.g12935
+scf7180000424386	WormBase_imported	CDS	12448	12498	.	-	0	ID=cds:scf7180000424386.g12935;Parent=transcript:scf7180000424386.g12935
+scf7180000424386	WormBase_imported	CDS	12312	12362	.	-	0	ID=cds:scf7180000424386.g12935;Parent=transcript:scf7180000424386.g12935
+scf7180000424386	WormBase_imported	CDS	11980	12113	.	-	0	ID=cds:scf7180000424386.g12935;Parent=transcript:scf7180000424386.g12935
+scf7180000424386	WormBase_imported	CDS	11715	11883	.	-	1	ID=cds:scf7180000424386.g12935;Parent=transcript:scf7180000424386.g12935
+scf7180000424386	WormBase_imported	CDS	11409	11667	.	-	0	ID=cds:scf7180000424386.g12935;Parent=transcript:scf7180000424386.g12935
+scf7180000424386	WormBase_imported	CDS	10897	10907	.	-	2	ID=cds:scf7180000424386.g12935;Parent=transcript:scf7180000424386.g12935
+scf7180000424386	WormBase_imported	CDS	10338	10385	.	-	0	ID=cds:scf7180000424386.g12935;Parent=transcript:scf7180000424386.g12935
+scf7180000424386	WormBase_imported	CDS	9924	10298	.	-	0	ID=cds:scf7180000424386.g12935;Parent=transcript:scf7180000424386.g12935

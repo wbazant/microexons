@@ -1,3 +1,28 @@
+Contig3	WormBase_imported	gene	5499496	5501389	.	-	.	ID=gene:FL82_03804;Name=FL82_03804;biotype=protein_coding
+Contig3	WormBase_imported	mRNA	5499496	5501389	.	-	.	ID=transcript:FL82_03804;Parent=gene:FL82_03804;Name=FL82_03804;info=method:InterPro accession:IPR003677 description:Domain of unknown function DUF148
+#microexons transcript:FL82_03804:  121 126-42-54-54-54 394 54-255-321
+Contig3	WormBase_imported	exon	5501269	5501389	.	-	.	ID=exon:FL82_03804.1;Parent=transcript:FL82_03804
+Contig3	WormBase_imported	exon	5501096	5501221	.	-	.	ID=exon:FL82_03804.2;Parent=transcript:FL82_03804
+Contig3	WormBase_imported	exon	5501006	5501047	.	-	.	ID=exon:FL82_03804.3;Parent=transcript:FL82_03804
+Contig3	WormBase_imported	exon	5500905	5500958	.	-	.	ID=exon:FL82_03804.4;Parent=transcript:FL82_03804
+Contig3	WormBase_imported	exon	5500806	5500859	.	-	.	ID=exon:FL82_03804.5;Parent=transcript:FL82_03804
+Contig3	WormBase_imported	exon	5500708	5500761	.	-	.	ID=exon:FL82_03804.6;Parent=transcript:FL82_03804
+Contig3	WormBase_imported	exon	5500268	5500661	.	-	.	ID=exon:FL82_03804.7;Parent=transcript:FL82_03804
+Contig3	WormBase_imported	exon	5500167	5500220	.	-	.	ID=exon:FL82_03804.8;Parent=transcript:FL82_03804
+Contig3	WormBase_imported	exon	5499865	5500119	.	-	.	ID=exon:FL82_03804.9;Parent=transcript:FL82_03804
+Contig3	WormBase_imported	exon	5499496	5499816	.	-	.	ID=exon:FL82_03804.10;Parent=transcript:FL82_03804
+Contig3	WormBase_imported	five_prime_UTR	5501352	5501389	.	-	.	Parent=transcript:FL82_03804
+Contig3	WormBase_imported	CDS	5501269	5501351	.	-	0	ID=cds:FL82_03804;Parent=transcript:FL82_03804
+Contig3	WormBase_imported	CDS	5501096	5501221	.	-	1	ID=cds:FL82_03804;Parent=transcript:FL82_03804
+Contig3	WormBase_imported	CDS	5501006	5501047	.	-	1	ID=cds:FL82_03804;Parent=transcript:FL82_03804
+Contig3	WormBase_imported	CDS	5500905	5500958	.	-	1	ID=cds:FL82_03804;Parent=transcript:FL82_03804
+Contig3	WormBase_imported	CDS	5500806	5500859	.	-	1	ID=cds:FL82_03804;Parent=transcript:FL82_03804
+Contig3	WormBase_imported	CDS	5500708	5500761	.	-	1	ID=cds:FL82_03804;Parent=transcript:FL82_03804
+Contig3	WormBase_imported	CDS	5500268	5500661	.	-	1	ID=cds:FL82_03804;Parent=transcript:FL82_03804
+Contig3	WormBase_imported	CDS	5500167	5500220	.	-	0	ID=cds:FL82_03804;Parent=transcript:FL82_03804
+Contig3	WormBase_imported	CDS	5499865	5500119	.	-	0	ID=cds:FL82_03804;Parent=transcript:FL82_03804
+Contig3	WormBase_imported	CDS	5499529	5499816	.	-	0	ID=cds:FL82_03804;Parent=transcript:FL82_03804
+Contig3	WormBase_imported	three_prime_UTR	5499496	5499528	.	-	.	Parent=transcript:FL82_03804
 Contig116	WormBase_imported	gene	136820	147975	.	+	.	ID=gene:FL82_21154;Name=FL82_21154;biotype=protein_coding
 Contig116	WormBase_imported	mRNA	136820	147975	.	+	.	ID=transcript:FL82_21154;Parent=gene:FL82_21154;Name=FL82_21154
 #microexons transcript:FL82_21154:  45-57-9-51 52 32 51
@@ -15,3 +40,20 @@ Contig116	WormBase_imported	CDS	141444	141494	.	+	0	ID=cds:FL82_21154;Parent=tra
 Contig116	WormBase_imported	CDS	141613	141664	.	+	0	ID=cds:FL82_21154;Parent=transcript:FL82_21154
 Contig116	WormBase_imported	CDS	147208	147239	.	+	2	ID=cds:FL82_21154;Parent=transcript:FL82_21154
 Contig116	WormBase_imported	CDS	147925	147975	.	+	0	ID=cds:FL82_21154;Parent=transcript:FL82_21154
+Contig250	WormBase_imported	gene	33588	35603	.	-	.	ID=gene:FL82_24461;Name=FL82_24461;biotype=protein_coding
+Contig250	WormBase_imported	mRNA	33588	35603	.	-	.	ID=transcript:FL82_24461;Parent=gene:FL82_24461;Name=FL82_24461
+#microexons transcript:FL82_24461:  89 295 147-42-42-45-57
+Contig250	WormBase_imported	exon	35515	35603	.	-	.	ID=exon:FL82_24461.1;Parent=transcript:FL82_24461
+Contig250	WormBase_imported	exon	35178	35472	.	-	.	ID=exon:FL82_24461.2;Parent=transcript:FL82_24461
+Contig250	WormBase_imported	exon	33963	34109	.	-	.	ID=exon:FL82_24461.3;Parent=transcript:FL82_24461
+Contig250	WormBase_imported	exon	33877	33918	.	-	.	ID=exon:FL82_24461.4;Parent=transcript:FL82_24461
+Contig250	WormBase_imported	exon	33788	33829	.	-	.	ID=exon:FL82_24461.5;Parent=transcript:FL82_24461
+Contig250	WormBase_imported	exon	33694	33738	.	-	.	ID=exon:FL82_24461.6;Parent=transcript:FL82_24461
+Contig250	WormBase_imported	exon	33588	33644	.	-	.	ID=exon:FL82_24461.7;Parent=transcript:FL82_24461
+Contig250	WormBase_imported	CDS	35515	35603	.	-	0	ID=cds:FL82_24461;Parent=transcript:FL82_24461
+Contig250	WormBase_imported	CDS	35178	35472	.	-	1	ID=cds:FL82_24461;Parent=transcript:FL82_24461
+Contig250	WormBase_imported	CDS	33963	34109	.	-	0	ID=cds:FL82_24461;Parent=transcript:FL82_24461
+Contig250	WormBase_imported	CDS	33877	33918	.	-	0	ID=cds:FL82_24461;Parent=transcript:FL82_24461
+Contig250	WormBase_imported	CDS	33788	33829	.	-	0	ID=cds:FL82_24461;Parent=transcript:FL82_24461
+Contig250	WormBase_imported	CDS	33694	33738	.	-	0	ID=cds:FL82_24461;Parent=transcript:FL82_24461
+Contig250	WormBase_imported	CDS	33588	33644	.	-	0	ID=cds:FL82_24461;Parent=transcript:FL82_24461

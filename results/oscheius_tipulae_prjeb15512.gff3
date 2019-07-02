@@ -1,0 +1,25 @@
+nOt.2.0.scaf00008	WormBase_imported	gene	733435	735525	.	-	.	ID=gene:OTIPU.nOt.2.0.1.g05299;Name=OTIPU.nOt.2.0.1.g05299;biotype=protein_coding
+nOt.2.0.scaf00008	WormBase_imported	mRNA	733435	735525	.	-	.	ID=transcript:OTIPU.nOt.2.0.1.t05299;Parent=gene:OTIPU.nOt.2.0.1.g05299;Name=OTIPU.nOt.2.0.1.t05299
+#microexons transcript:OTIPU.nOt.2.0.1.t05299:  126-105-51-57-54-45 53 46 57-57-114
+nOt.2.0.scaf00008	WormBase_imported	exon	735400	735525	.	-	.	ID=exon:OTIPU.nOt.2.0.1.t05299.1;Parent=transcript:OTIPU.nOt.2.0.1.t05299
+nOt.2.0.scaf00008	WormBase_imported	exon	734876	734980	.	-	.	ID=exon:OTIPU.nOt.2.0.1.t05299.2;Parent=transcript:OTIPU.nOt.2.0.1.t05299
+nOt.2.0.scaf00008	WormBase_imported	exon	734784	734834	.	-	.	ID=exon:OTIPU.nOt.2.0.1.t05299.3;Parent=transcript:OTIPU.nOt.2.0.1.t05299
+nOt.2.0.scaf00008	WormBase_imported	exon	734687	734743	.	-	.	ID=exon:OTIPU.nOt.2.0.1.t05299.4;Parent=transcript:OTIPU.nOt.2.0.1.t05299
+nOt.2.0.scaf00008	WormBase_imported	exon	734574	734627	.	-	.	ID=exon:OTIPU.nOt.2.0.1.t05299.5;Parent=transcript:OTIPU.nOt.2.0.1.t05299
+nOt.2.0.scaf00008	WormBase_imported	exon	734486	734530	.	-	.	ID=exon:OTIPU.nOt.2.0.1.t05299.6;Parent=transcript:OTIPU.nOt.2.0.1.t05299
+nOt.2.0.scaf00008	WormBase_imported	exon	734392	734444	.	-	.	ID=exon:OTIPU.nOt.2.0.1.t05299.7;Parent=transcript:OTIPU.nOt.2.0.1.t05299
+nOt.2.0.scaf00008	WormBase_imported	exon	734288	734333	.	-	.	ID=exon:OTIPU.nOt.2.0.1.t05299.8;Parent=transcript:OTIPU.nOt.2.0.1.t05299
+nOt.2.0.scaf00008	WormBase_imported	exon	734191	734247	.	-	.	ID=exon:OTIPU.nOt.2.0.1.t05299.9;Parent=transcript:OTIPU.nOt.2.0.1.t05299
+nOt.2.0.scaf00008	WormBase_imported	exon	734090	734146	.	-	.	ID=exon:OTIPU.nOt.2.0.1.t05299.10;Parent=transcript:OTIPU.nOt.2.0.1.t05299
+nOt.2.0.scaf00008	WormBase_imported	exon	733435	733548	.	-	.	ID=exon:OTIPU.nOt.2.0.1.t05299.11;Parent=transcript:OTIPU.nOt.2.0.1.t05299
+nOt.2.0.scaf00008	WormBase_imported	CDS	735400	735525	.	-	0	ID=cds:OTIPU.nOt.2.0.1.t05299;Parent=transcript:OTIPU.nOt.2.0.1.t05299
+nOt.2.0.scaf00008	WormBase_imported	CDS	734876	734980	.	-	0	ID=cds:OTIPU.nOt.2.0.1.t05299;Parent=transcript:OTIPU.nOt.2.0.1.t05299
+nOt.2.0.scaf00008	WormBase_imported	CDS	734784	734834	.	-	0	ID=cds:OTIPU.nOt.2.0.1.t05299;Parent=transcript:OTIPU.nOt.2.0.1.t05299
+nOt.2.0.scaf00008	WormBase_imported	CDS	734687	734743	.	-	0	ID=cds:OTIPU.nOt.2.0.1.t05299;Parent=transcript:OTIPU.nOt.2.0.1.t05299
+nOt.2.0.scaf00008	WormBase_imported	CDS	734574	734627	.	-	0	ID=cds:OTIPU.nOt.2.0.1.t05299;Parent=transcript:OTIPU.nOt.2.0.1.t05299
+nOt.2.0.scaf00008	WormBase_imported	CDS	734486	734530	.	-	0	ID=cds:OTIPU.nOt.2.0.1.t05299;Parent=transcript:OTIPU.nOt.2.0.1.t05299
+nOt.2.0.scaf00008	WormBase_imported	CDS	734392	734444	.	-	0	ID=cds:OTIPU.nOt.2.0.1.t05299;Parent=transcript:OTIPU.nOt.2.0.1.t05299
+nOt.2.0.scaf00008	WormBase_imported	CDS	734288	734333	.	-	1	ID=cds:OTIPU.nOt.2.0.1.t05299;Parent=transcript:OTIPU.nOt.2.0.1.t05299
+nOt.2.0.scaf00008	WormBase_imported	CDS	734191	734247	.	-	0	ID=cds:OTIPU.nOt.2.0.1.t05299;Parent=transcript:OTIPU.nOt.2.0.1.t05299
+nOt.2.0.scaf00008	WormBase_imported	CDS	734090	734146	.	-	0	ID=cds:OTIPU.nOt.2.0.1.t05299;Parent=transcript:OTIPU.nOt.2.0.1.t05299
+nOt.2.0.scaf00008	WormBase_imported	CDS	733435	733548	.	-	0	ID=cds:OTIPU.nOt.2.0.1.t05299;Parent=transcript:OTIPU.nOt.2.0.1.t05299

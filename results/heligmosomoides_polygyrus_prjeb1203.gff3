@@ -115,21 +115,3 @@ HPBE_scaffold0007250	WormBase_imported	CDS	20547	20588	.	+	1	ID=cds:HPBE_0002088
 HPBE_scaffold0007250	WormBase_imported	CDS	20712	20753	.	+	1	ID=cds:HPBE_0002088501-mRNA-1;Parent=transcript:HPBE_0002088501-mRNA-1
 HPBE_scaffold0007250	WormBase_imported	CDS	20877	20918	.	+	1	ID=cds:HPBE_0002088501-mRNA-1;Parent=transcript:HPBE_0002088501-mRNA-1
 HPBE_scaffold0007250	WormBase_imported	CDS	21043	21121	.	+	1	ID=cds:HPBE_0002088501-mRNA-1;Parent=transcript:HPBE_0002088501-mRNA-1
-HPBE_scaffold0013617	WormBase_imported	gene	4022	8870	.	-	.	ID=gene:HPBE_0002594201;Name=HPBE_0002594201;biotype=protein_coding
-HPBE_scaffold0013617	WormBase_imported	mRNA	4022	8870	.	-	.	ID=transcript:HPBE_0002594201-mRNA-1;Parent=gene:HPBE_0002594201;Name=HPBE_0002594201-mRNA-1
-#microexons transcript:HPBE_0002594201-mRNA-1:  30-21-45 151 158 181 53
-HPBE_scaffold0013617	WormBase_imported	exon	8841	8870	.	-	.	ID=exon:HPBE_0002594201-mRNA-1.1;Parent=transcript:HPBE_0002594201-mRNA-1
-HPBE_scaffold0013617	WormBase_imported	exon	8808	8828	.	-	.	ID=exon:HPBE_0002594201-mRNA-1.2;Parent=transcript:HPBE_0002594201-mRNA-1
-HPBE_scaffold0013617	WormBase_imported	exon	8724	8768	.	-	.	ID=exon:HPBE_0002594201-mRNA-1.3;Parent=transcript:HPBE_0002594201-mRNA-1
-HPBE_scaffold0013617	WormBase_imported	exon	8393	8543	.	-	.	ID=exon:HPBE_0002594201-mRNA-1.4;Parent=transcript:HPBE_0002594201-mRNA-1
-HPBE_scaffold0013617	WormBase_imported	exon	4608	4765	.	-	.	ID=exon:HPBE_0002594201-mRNA-1.5;Parent=transcript:HPBE_0002594201-mRNA-1
-HPBE_scaffold0013617	WormBase_imported	exon	4263	4443	.	-	.	ID=exon:HPBE_0002594201-mRNA-1.6;Parent=transcript:HPBE_0002594201-mRNA-1
-HPBE_scaffold0013617	WormBase_imported	exon	4022	4074	.	-	.	ID=exon:HPBE_0002594201-mRNA-1.7;Parent=transcript:HPBE_0002594201-mRNA-1
-HPBE_scaffold0013617	WormBase_imported	five_prime_UTR	8841	8870	.	-	.	Parent=transcript:HPBE_0002594201-mRNA-1
-HPBE_scaffold0013617	WormBase_imported	five_prime_UTR	8814	8828	.	-	.	Parent=transcript:HPBE_0002594201-mRNA-1
-HPBE_scaffold0013617	WormBase_imported	CDS	8808	8813	.	-	0	ID=cds:HPBE_0002594201-mRNA-1;Parent=transcript:HPBE_0002594201-mRNA-1
-HPBE_scaffold0013617	WormBase_imported	CDS	8724	8768	.	-	0	ID=cds:HPBE_0002594201-mRNA-1;Parent=transcript:HPBE_0002594201-mRNA-1
-HPBE_scaffold0013617	WormBase_imported	CDS	8393	8543	.	-	0	ID=cds:HPBE_0002594201-mRNA-1;Parent=transcript:HPBE_0002594201-mRNA-1
-HPBE_scaffold0013617	WormBase_imported	CDS	4608	4765	.	-	2	ID=cds:HPBE_0002594201-mRNA-1;Parent=transcript:HPBE_0002594201-mRNA-1
-HPBE_scaffold0013617	WormBase_imported	CDS	4263	4443	.	-	0	ID=cds:HPBE_0002594201-mRNA-1;Parent=transcript:HPBE_0002594201-mRNA-1
-HPBE_scaffold0013617	WormBase_imported	CDS	4022	4074	.	-	2	ID=cds:HPBE_0002594201-mRNA-1;Parent=transcript:HPBE_0002594201-mRNA-1

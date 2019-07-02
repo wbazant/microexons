@@ -38,40 +38,6 @@ PPA_ChrI	WormBase_imported	CDS	8948148	8948198	.	-	0	ID=cds:PPA38995.1;Parent=tr
 PPA_ChrI	WormBase_imported	CDS	8947853	8947891	.	-	0	ID=cds:PPA38995.1;Parent=transcript:PPA38995.1
 PPA_ChrI	WormBase_imported	CDS	8947693	8947806	.	-	0	ID=cds:PPA38995.1;Parent=transcript:PPA38995.1
 PPA_ChrI	WormBase_imported	CDS	8947564	8947614	.	-	0	ID=cds:PPA38995.1;Parent=transcript:PPA38995.1
-PPA_ChrI	WormBase_imported	gene	17335413	17337322	.	-	.	ID=gene:WBGene00272943;Name=WBGene00272943;biotype=protein_coding;description=Major sperm protein;description_source=UniProtKB/TrEMBL;description_source_acc=A0A2A6C857;locus=PPA34574
-PPA_ChrI	WormBase_imported	mRNA	17335413	17337322	.	-	.	ID=transcript:PPA34574.1;Parent=gene:WBGene00272943;Name=PPA34574.1;info=method:InterPro accession:IPR000535 description:Major sperm protein (MSP) domain %0Amethod:InterPro accession:IPR008962 description:PapD-like superfamily %0Amethod:InterPro accession:IPR013783 description:Immunoglobulin-like fold
-#microexons transcript:PPA34574.1:  18-54-54 92 64 69-36
-PPA_ChrI	WormBase_imported	exon	17337305	17337322	.	-	.	ID=exon:PPA34574.1.1;Parent=transcript:PPA34574.1
-PPA_ChrI	WormBase_imported	exon	17337071	17337124	.	-	.	ID=exon:PPA34574.1.2;Parent=transcript:PPA34574.1
-PPA_ChrI	WormBase_imported	exon	17336678	17336731	.	-	.	ID=exon:PPA34574.1.3;Parent=transcript:PPA34574.1
-PPA_ChrI	WormBase_imported	exon	17336419	17336510	.	-	.	ID=exon:PPA34574.1.4;Parent=transcript:PPA34574.1
-PPA_ChrI	WormBase_imported	exon	17336061	17336124	.	-	.	ID=exon:PPA34574.1.5;Parent=transcript:PPA34574.1
-PPA_ChrI	WormBase_imported	exon	17335773	17335841	.	-	.	ID=exon:PPA34574.1.6;Parent=transcript:PPA34574.1
-PPA_ChrI	WormBase_imported	exon	17335413	17335448	.	-	.	ID=exon:PPA34574.1.7;Parent=transcript:PPA34574.1
-PPA_ChrI	WormBase_imported	CDS	17337305	17337322	.	-	0	ID=cds:PPA34574.1;Parent=transcript:PPA34574.1
-PPA_ChrI	WormBase_imported	CDS	17337071	17337124	.	-	0	ID=cds:PPA34574.1;Parent=transcript:PPA34574.1
-PPA_ChrI	WormBase_imported	CDS	17336678	17336731	.	-	0	ID=cds:PPA34574.1;Parent=transcript:PPA34574.1
-PPA_ChrI	WormBase_imported	CDS	17336419	17336510	.	-	0	ID=cds:PPA34574.1;Parent=transcript:PPA34574.1
-PPA_ChrI	WormBase_imported	CDS	17336061	17336124	.	-	1	ID=cds:PPA34574.1;Parent=transcript:PPA34574.1
-PPA_ChrI	WormBase_imported	CDS	17335773	17335841	.	-	0	ID=cds:PPA34574.1;Parent=transcript:PPA34574.1
-PPA_ChrI	WormBase_imported	CDS	17335413	17335448	.	-	0	ID=cds:PPA34574.1;Parent=transcript:PPA34574.1
-PPA_ChrI	WormBase_imported	gene	18736066	18737967	.	-	.	ID=gene:WBGene00273026;Name=WBGene00273026;biotype=protein_coding;description=Major sperm protein;description_source=UniProtKB/TrEMBL;description_source_acc=A0A2A6C5X8;locus=PPA34657
-PPA_ChrI	WormBase_imported	mRNA	18736066	18737967	.	-	.	ID=transcript:PPA34657.1;Parent=gene:WBGene00273026;Name=PPA34657.1;info=method:InterPro accession:IPR000535 description:Major sperm protein (MSP) domain %0Amethod:InterPro accession:IPR008962 description:PapD-like superfamily %0Amethod:InterPro accession:IPR013783 description:Immunoglobulin-like fold
-#microexons transcript:PPA34657.1:  18-54-54 92 64 66-27
-PPA_ChrI	WormBase_imported	exon	18737950	18737967	.	-	.	ID=exon:PPA34657.1.1;Parent=transcript:PPA34657.1
-PPA_ChrI	WormBase_imported	exon	18737592	18737645	.	-	.	ID=exon:PPA34657.1.2;Parent=transcript:PPA34657.1
-PPA_ChrI	WormBase_imported	exon	18737062	18737115	.	-	.	ID=exon:PPA34657.1.3;Parent=transcript:PPA34657.1
-PPA_ChrI	WormBase_imported	exon	18736723	18736814	.	-	.	ID=exon:PPA34657.1.4;Parent=transcript:PPA34657.1
-PPA_ChrI	WormBase_imported	exon	18736427	18736490	.	-	.	ID=exon:PPA34657.1.5;Parent=transcript:PPA34657.1
-PPA_ChrI	WormBase_imported	exon	18736223	18736288	.	-	.	ID=exon:PPA34657.1.6;Parent=transcript:PPA34657.1
-PPA_ChrI	WormBase_imported	exon	18736066	18736092	.	-	.	ID=exon:PPA34657.1.7;Parent=transcript:PPA34657.1
-PPA_ChrI	WormBase_imported	CDS	18737950	18737967	.	-	0	ID=cds:PPA34657.1;Parent=transcript:PPA34657.1
-PPA_ChrI	WormBase_imported	CDS	18737592	18737645	.	-	0	ID=cds:PPA34657.1;Parent=transcript:PPA34657.1
-PPA_ChrI	WormBase_imported	CDS	18737062	18737115	.	-	0	ID=cds:PPA34657.1;Parent=transcript:PPA34657.1
-PPA_ChrI	WormBase_imported	CDS	18736723	18736814	.	-	0	ID=cds:PPA34657.1;Parent=transcript:PPA34657.1
-PPA_ChrI	WormBase_imported	CDS	18736427	18736490	.	-	1	ID=cds:PPA34657.1;Parent=transcript:PPA34657.1
-PPA_ChrI	WormBase_imported	CDS	18736223	18736288	.	-	0	ID=cds:PPA34657.1;Parent=transcript:PPA34657.1
-PPA_ChrI	WormBase_imported	CDS	18736066	18736092	.	-	0	ID=cds:PPA34657.1;Parent=transcript:PPA34657.1
 PPA_ChrI	WormBase_imported	gene	20031593	20032475	.	-	.	ID=gene:WBGene00116140;Name=WBGene00116140;biotype=protein_coding;locus=PPA26586
 PPA_ChrI	WormBase_imported	mRNA	20031593	20032475	.	-	.	ID=transcript:PPA26586.1;Parent=gene:WBGene00116140;Name=PPA26586.1
 #microexons transcript:PPA26586.1:  109 35 40 35 54-33-30-39
@@ -148,23 +114,6 @@ PPA_ChrI	WormBase_imported	CDS	28862684	28862698	.	-	2	ID=cds:PPA44773.1;Parent=
 PPA_ChrI	WormBase_imported	CDS	28862527	28862541	.	-	2	ID=cds:PPA44773.1;Parent=transcript:PPA44773.1
 PPA_ChrI	WormBase_imported	CDS	28861838	28861943	.	-	2	ID=cds:PPA44773.1;Parent=transcript:PPA44773.1
 PPA_ChrI	WormBase_imported	CDS	28861633	28861714	.	-	1	ID=cds:PPA44773.1;Parent=transcript:PPA44773.1
-PPA_ChrI	WormBase_imported	gene	29812920	29813684	.	-	.	ID=gene:WBGene00116823;Name=WBGene00116823;biotype=protein_coding;locus=PPA27269
-PPA_ChrI	WormBase_imported	mRNA	29812920	29813684	.	-	.	ID=transcript:PPA27269.1;Parent=gene:WBGene00116823;Name=PPA27269.1
-#microexons transcript:PPA27269.1:  96-93 139 12-24-51 68
-PPA_ChrI	WormBase_imported	exon	29813589	29813684	.	-	.	ID=exon:PPA27269.1.1;Parent=transcript:PPA27269.1
-PPA_ChrI	WormBase_imported	exon	29813452	29813544	.	-	.	ID=exon:PPA27269.1.2;Parent=transcript:PPA27269.1
-PPA_ChrI	WormBase_imported	exon	29813259	29813397	.	-	.	ID=exon:PPA27269.1.3;Parent=transcript:PPA27269.1
-PPA_ChrI	WormBase_imported	exon	29813203	29813214	.	-	.	ID=exon:PPA27269.1.4;Parent=transcript:PPA27269.1
-PPA_ChrI	WormBase_imported	exon	29813132	29813155	.	-	.	ID=exon:PPA27269.1.5;Parent=transcript:PPA27269.1
-PPA_ChrI	WormBase_imported	exon	29813036	29813086	.	-	.	ID=exon:PPA27269.1.6;Parent=transcript:PPA27269.1
-PPA_ChrI	WormBase_imported	exon	29812920	29812987	.	-	.	ID=exon:PPA27269.1.7;Parent=transcript:PPA27269.1
-PPA_ChrI	WormBase_imported	CDS	29813589	29813684	.	-	0	ID=cds:PPA27269.1;Parent=transcript:PPA27269.1
-PPA_ChrI	WormBase_imported	CDS	29813452	29813544	.	-	0	ID=cds:PPA27269.1;Parent=transcript:PPA27269.1
-PPA_ChrI	WormBase_imported	CDS	29813259	29813397	.	-	0	ID=cds:PPA27269.1;Parent=transcript:PPA27269.1
-PPA_ChrI	WormBase_imported	CDS	29813203	29813214	.	-	2	ID=cds:PPA27269.1;Parent=transcript:PPA27269.1
-PPA_ChrI	WormBase_imported	CDS	29813132	29813155	.	-	2	ID=cds:PPA27269.1;Parent=transcript:PPA27269.1
-PPA_ChrI	WormBase_imported	CDS	29813036	29813086	.	-	2	ID=cds:PPA27269.1;Parent=transcript:PPA27269.1
-PPA_ChrI	WormBase_imported	CDS	29812920	29812987	.	-	2	ID=cds:PPA27269.1;Parent=transcript:PPA27269.1
 PPA_ChrI	WormBase_imported	gene	30759562	30761664	.	+	.	ID=gene:WBGene00111286;Name=WBGene00111286;biotype=protein_coding;locus=PPA21732
 PPA_ChrI	WormBase_imported	mRNA	30759562	30761664	.	+	.	ID=transcript:PPA21732.1;Parent=gene:WBGene00111286;Name=PPA21732.1
 #microexons transcript:PPA21732.1:  50 42-54-39-39-78-48 188
@@ -185,6 +134,27 @@ PPA_ChrI	WormBase_imported	CDS	30760851	30760928	.	+	1	ID=cds:PPA21732.1;Parent=
 PPA_ChrI	WormBase_imported	CDS	30761145	30761192	.	+	1	ID=cds:PPA21732.1;Parent=transcript:PPA21732.1
 PPA_ChrI	WormBase_imported	CDS	30761477	30761495	.	+	1	ID=cds:PPA21732.1;Parent=transcript:PPA21732.1
 PPA_ChrI	WormBase_imported	three_prime_UTR	30761496	30761664	.	+	.	Parent=transcript:PPA21732.1
+PPA_ChrIV	WormBase_imported	gene	26884078	26886159	.	-	.	ID=gene:WBGene00205046;Name=WBGene00205046;biotype=protein_coding;locus=PPA32184
+PPA_ChrIV	WormBase_imported	mRNA	26884078	26886159	.	-	.	ID=transcript:PPA32184.1;Parent=gene:WBGene00205046;Name=PPA32184.1
+#microexons transcript:PPA32184.1:  33-84-51-39-33-33-60-57-165
+PPA_ChrIV	WormBase_imported	exon	26886127	26886159	.	-	.	ID=exon:PPA32184.1.1;Parent=transcript:PPA32184.1
+PPA_ChrIV	WormBase_imported	exon	26885972	26886055	.	-	.	ID=exon:PPA32184.1.2;Parent=transcript:PPA32184.1
+PPA_ChrIV	WormBase_imported	exon	26885771	26885821	.	-	.	ID=exon:PPA32184.1.3;Parent=transcript:PPA32184.1
+PPA_ChrIV	WormBase_imported	exon	26885543	26885581	.	-	.	ID=exon:PPA32184.1.4;Parent=transcript:PPA32184.1
+PPA_ChrIV	WormBase_imported	exon	26885411	26885443	.	-	.	ID=exon:PPA32184.1.5;Parent=transcript:PPA32184.1
+PPA_ChrIV	WormBase_imported	exon	26885212	26885244	.	-	.	ID=exon:PPA32184.1.6;Parent=transcript:PPA32184.1
+PPA_ChrIV	WormBase_imported	exon	26884714	26884773	.	-	.	ID=exon:PPA32184.1.7;Parent=transcript:PPA32184.1
+PPA_ChrIV	WormBase_imported	exon	26884486	26884542	.	-	.	ID=exon:PPA32184.1.8;Parent=transcript:PPA32184.1
+PPA_ChrIV	WormBase_imported	exon	26884078	26884242	.	-	.	ID=exon:PPA32184.1.9;Parent=transcript:PPA32184.1
+PPA_ChrIV	WormBase_imported	CDS	26886127	26886159	.	-	0	ID=cds:PPA32184.1;Parent=transcript:PPA32184.1
+PPA_ChrIV	WormBase_imported	CDS	26885972	26886055	.	-	0	ID=cds:PPA32184.1;Parent=transcript:PPA32184.1
+PPA_ChrIV	WormBase_imported	CDS	26885771	26885821	.	-	0	ID=cds:PPA32184.1;Parent=transcript:PPA32184.1
+PPA_ChrIV	WormBase_imported	CDS	26885543	26885581	.	-	0	ID=cds:PPA32184.1;Parent=transcript:PPA32184.1
+PPA_ChrIV	WormBase_imported	CDS	26885411	26885443	.	-	0	ID=cds:PPA32184.1;Parent=transcript:PPA32184.1
+PPA_ChrIV	WormBase_imported	CDS	26885212	26885244	.	-	0	ID=cds:PPA32184.1;Parent=transcript:PPA32184.1
+PPA_ChrIV	WormBase_imported	CDS	26884714	26884773	.	-	0	ID=cds:PPA32184.1;Parent=transcript:PPA32184.1
+PPA_ChrIV	WormBase_imported	CDS	26884486	26884542	.	-	0	ID=cds:PPA32184.1;Parent=transcript:PPA32184.1
+PPA_ChrIV	WormBase_imported	CDS	26884078	26884242	.	-	0	ID=cds:PPA32184.1;Parent=transcript:PPA32184.1
 PPA_ChrII	WormBase_imported	gene	5031101	5048394	.	-	.	ID=gene:WBGene00271964;Name=WBGene00271964;biotype=protein_coding;locus=PPA33595
 PPA_ChrII	WormBase_imported	mRNA	5031101	5048394	.	-	.	ID=transcript:PPA33595.1;Parent=gene:WBGene00271964;Name=PPA33595.1
 #microexons transcript:PPA33595.1:  6-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-39-69
@@ -550,23 +520,86 @@ PPA_ChrII	WormBase_imported	CDS	5031382	5031420	.	-	0	ID=cds:PPA33595.1;Parent=t
 PPA_ChrII	WormBase_imported	CDS	5031297	5031335	.	-	0	ID=cds:PPA33595.1;Parent=transcript:PPA33595.1
 PPA_ChrII	WormBase_imported	CDS	5031216	5031254	.	-	0	ID=cds:PPA33595.1;Parent=transcript:PPA33595.1
 PPA_ChrII	WormBase_imported	CDS	5031101	5031169	.	-	0	ID=cds:PPA33595.1;Parent=transcript:PPA33595.1
-PPA_ChrII	WormBase_imported	gene	21420526	21422840	.	+	.	ID=gene:WBGene00091501;Name=WBGene00091501;biotype=protein_coding;locus=PPA01947
-PPA_ChrII	WormBase_imported	mRNA	21420526	21422840	.	+	.	ID=transcript:PPA01947.1;Parent=gene:WBGene00091501;Name=PPA01947.1
-#microexons transcript:PPA01947.1:  58 42-54-48 110 117-240
-PPA_ChrII	WormBase_imported	exon	21420526	21420583	.	+	.	ID=exon:PPA01947.1.1;Parent=transcript:PPA01947.1
-PPA_ChrII	WormBase_imported	exon	21420779	21420820	.	+	.	ID=exon:PPA01947.1.2;Parent=transcript:PPA01947.1
-PPA_ChrII	WormBase_imported	exon	21421209	21421262	.	+	.	ID=exon:PPA01947.1.3;Parent=transcript:PPA01947.1
-PPA_ChrII	WormBase_imported	exon	21421506	21421553	.	+	.	ID=exon:PPA01947.1.4;Parent=transcript:PPA01947.1
-PPA_ChrII	WormBase_imported	exon	21421625	21421734	.	+	.	ID=exon:PPA01947.1.5;Parent=transcript:PPA01947.1
-PPA_ChrII	WormBase_imported	exon	21422255	21422371	.	+	.	ID=exon:PPA01947.1.6;Parent=transcript:PPA01947.1
-PPA_ChrII	WormBase_imported	exon	21422601	21422840	.	+	.	ID=exon:PPA01947.1.7;Parent=transcript:PPA01947.1
-PPA_ChrII	WormBase_imported	CDS	21420526	21420583	.	+	0	ID=cds:PPA01947.1;Parent=transcript:PPA01947.1
-PPA_ChrII	WormBase_imported	CDS	21420779	21420820	.	+	2	ID=cds:PPA01947.1;Parent=transcript:PPA01947.1
-PPA_ChrII	WormBase_imported	CDS	21421209	21421262	.	+	2	ID=cds:PPA01947.1;Parent=transcript:PPA01947.1
-PPA_ChrII	WormBase_imported	CDS	21421506	21421553	.	+	2	ID=cds:PPA01947.1;Parent=transcript:PPA01947.1
-PPA_ChrII	WormBase_imported	CDS	21421625	21421734	.	+	2	ID=cds:PPA01947.1;Parent=transcript:PPA01947.1
-PPA_ChrII	WormBase_imported	CDS	21422255	21422371	.	+	0	ID=cds:PPA01947.1;Parent=transcript:PPA01947.1
-PPA_ChrII	WormBase_imported	CDS	21422601	21422840	.	+	0	ID=cds:PPA01947.1;Parent=transcript:PPA01947.1
+PPA_ChrII	WormBase_imported	gene	20555525	20558899	.	+	.	ID=gene:WBGene00274822;Name=WBGene00274822;biotype=protein_coding;locus=PPA36453
+PPA_ChrII	WormBase_imported	mRNA	20555525	20558899	.	+	.	ID=transcript:PPA36453.1;Parent=gene:WBGene00274822;Name=PPA36453.1;info=method:InterPro accession:IPR007284 description:Ground-like domain
+#microexons transcript:PPA36453.1:  57 88 53 54-54-36-57-90-57-45-93 61 116 45 80 64
+PPA_ChrII	WormBase_imported	exon	20555525	20555581	.	+	.	ID=exon:PPA36453.1.1;Parent=transcript:PPA36453.1
+PPA_ChrII	WormBase_imported	exon	20556412	20556499	.	+	.	ID=exon:PPA36453.1.2;Parent=transcript:PPA36453.1
+PPA_ChrII	WormBase_imported	exon	20556720	20556772	.	+	.	ID=exon:PPA36453.1.3;Parent=transcript:PPA36453.1
+PPA_ChrII	WormBase_imported	exon	20556843	20556896	.	+	.	ID=exon:PPA36453.1.4;Parent=transcript:PPA36453.1
+PPA_ChrII	WormBase_imported	exon	20556961	20557014	.	+	.	ID=exon:PPA36453.1.5;Parent=transcript:PPA36453.1
+PPA_ChrII	WormBase_imported	exon	20557108	20557143	.	+	.	ID=exon:PPA36453.1.6;Parent=transcript:PPA36453.1
+PPA_ChrII	WormBase_imported	exon	20557204	20557260	.	+	.	ID=exon:PPA36453.1.7;Parent=transcript:PPA36453.1
+PPA_ChrII	WormBase_imported	exon	20557326	20557415	.	+	.	ID=exon:PPA36453.1.8;Parent=transcript:PPA36453.1
+PPA_ChrII	WormBase_imported	exon	20557565	20557621	.	+	.	ID=exon:PPA36453.1.9;Parent=transcript:PPA36453.1
+PPA_ChrII	WormBase_imported	exon	20557684	20557728	.	+	.	ID=exon:PPA36453.1.10;Parent=transcript:PPA36453.1
+PPA_ChrII	WormBase_imported	exon	20557876	20557968	.	+	.	ID=exon:PPA36453.1.11;Parent=transcript:PPA36453.1
+PPA_ChrII	WormBase_imported	exon	20558075	20558135	.	+	.	ID=exon:PPA36453.1.12;Parent=transcript:PPA36453.1
+PPA_ChrII	WormBase_imported	exon	20558199	20558314	.	+	.	ID=exon:PPA36453.1.13;Parent=transcript:PPA36453.1
+PPA_ChrII	WormBase_imported	exon	20558398	20558442	.	+	.	ID=exon:PPA36453.1.14;Parent=transcript:PPA36453.1
+PPA_ChrII	WormBase_imported	exon	20558605	20558684	.	+	.	ID=exon:PPA36453.1.15;Parent=transcript:PPA36453.1
+PPA_ChrII	WormBase_imported	exon	20558836	20558899	.	+	.	ID=exon:PPA36453.1.16;Parent=transcript:PPA36453.1
+PPA_ChrII	WormBase_imported	CDS	20555525	20555581	.	+	0	ID=cds:PPA36453.1;Parent=transcript:PPA36453.1
+PPA_ChrII	WormBase_imported	CDS	20556412	20556499	.	+	0	ID=cds:PPA36453.1;Parent=transcript:PPA36453.1
+PPA_ChrII	WormBase_imported	CDS	20556720	20556772	.	+	2	ID=cds:PPA36453.1;Parent=transcript:PPA36453.1
+PPA_ChrII	WormBase_imported	CDS	20556843	20556896	.	+	0	ID=cds:PPA36453.1;Parent=transcript:PPA36453.1
+PPA_ChrII	WormBase_imported	CDS	20556961	20557014	.	+	0	ID=cds:PPA36453.1;Parent=transcript:PPA36453.1
+PPA_ChrII	WormBase_imported	CDS	20557108	20557143	.	+	0	ID=cds:PPA36453.1;Parent=transcript:PPA36453.1
+PPA_ChrII	WormBase_imported	CDS	20557204	20557260	.	+	0	ID=cds:PPA36453.1;Parent=transcript:PPA36453.1
+PPA_ChrII	WormBase_imported	CDS	20557326	20557415	.	+	0	ID=cds:PPA36453.1;Parent=transcript:PPA36453.1
+PPA_ChrII	WormBase_imported	CDS	20557565	20557621	.	+	0	ID=cds:PPA36453.1;Parent=transcript:PPA36453.1
+PPA_ChrII	WormBase_imported	CDS	20557684	20557728	.	+	0	ID=cds:PPA36453.1;Parent=transcript:PPA36453.1
+PPA_ChrII	WormBase_imported	CDS	20557876	20557968	.	+	0	ID=cds:PPA36453.1;Parent=transcript:PPA36453.1
+PPA_ChrII	WormBase_imported	CDS	20558075	20558135	.	+	0	ID=cds:PPA36453.1;Parent=transcript:PPA36453.1
+PPA_ChrII	WormBase_imported	CDS	20558199	20558314	.	+	2	ID=cds:PPA36453.1;Parent=transcript:PPA36453.1
+PPA_ChrII	WormBase_imported	CDS	20558398	20558442	.	+	0	ID=cds:PPA36453.1;Parent=transcript:PPA36453.1
+PPA_ChrII	WormBase_imported	CDS	20558605	20558684	.	+	0	ID=cds:PPA36453.1;Parent=transcript:PPA36453.1
+PPA_ChrII	WormBase_imported	CDS	20558836	20558899	.	+	1	ID=cds:PPA36453.1;Parent=transcript:PPA36453.1
+PPA_ChrIII	WormBase_imported	gene	7141598	7147116	.	+	.	ID=gene:WBGene00104766;Name=WBGene00104766;biotype=protein_coding;locus=PPA15212
+PPA_ChrIII	WormBase_imported	mRNA	7141598	7147116	.	+	.	ID=transcript:PPA15212.1;Parent=gene:WBGene00104766;Name=PPA15212.1
+#microexons transcript:PPA15212.1:  78-42-42-24-27-39-21 34 71 39-42-42-39-15-87-84-48-27-42-42-150
+PPA_ChrIII	WormBase_imported	exon	7141598	7141675	.	+	.	ID=exon:PPA15212.1.1;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	exon	7141958	7141999	.	+	.	ID=exon:PPA15212.1.2;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	exon	7142044	7142085	.	+	.	ID=exon:PPA15212.1.3;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	exon	7142193	7142216	.	+	.	ID=exon:PPA15212.1.4;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	exon	7142363	7142389	.	+	.	ID=exon:PPA15212.1.5;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	exon	7142533	7142571	.	+	.	ID=exon:PPA15212.1.6;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	exon	7142673	7142693	.	+	.	ID=exon:PPA15212.1.7;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	exon	7142822	7142855	.	+	.	ID=exon:PPA15212.1.8;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	exon	7143493	7143563	.	+	.	ID=exon:PPA15212.1.9;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	exon	7143825	7143863	.	+	.	ID=exon:PPA15212.1.10;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	exon	7143963	7144004	.	+	.	ID=exon:PPA15212.1.11;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	exon	7144222	7144263	.	+	.	ID=exon:PPA15212.1.12;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	exon	7144308	7144346	.	+	.	ID=exon:PPA15212.1.13;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	exon	7144424	7144438	.	+	.	ID=exon:PPA15212.1.14;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	exon	7144574	7144660	.	+	.	ID=exon:PPA15212.1.15;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	exon	7146225	7146308	.	+	.	ID=exon:PPA15212.1.16;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	exon	7146452	7146499	.	+	.	ID=exon:PPA15212.1.17;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	exon	7146580	7146606	.	+	.	ID=exon:PPA15212.1.18;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	exon	7146698	7146739	.	+	.	ID=exon:PPA15212.1.19;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	exon	7146834	7146875	.	+	.	ID=exon:PPA15212.1.20;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	exon	7146967	7147116	.	+	.	ID=exon:PPA15212.1.21;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	CDS	7141598	7141675	.	+	0	ID=cds:PPA15212.1;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	CDS	7141958	7141999	.	+	0	ID=cds:PPA15212.1;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	CDS	7142044	7142085	.	+	0	ID=cds:PPA15212.1;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	CDS	7142193	7142216	.	+	0	ID=cds:PPA15212.1;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	CDS	7142363	7142389	.	+	0	ID=cds:PPA15212.1;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	CDS	7142533	7142571	.	+	0	ID=cds:PPA15212.1;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	CDS	7142673	7142693	.	+	0	ID=cds:PPA15212.1;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	CDS	7142822	7142855	.	+	0	ID=cds:PPA15212.1;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	CDS	7143493	7143563	.	+	2	ID=cds:PPA15212.1;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	CDS	7143825	7143863	.	+	0	ID=cds:PPA15212.1;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	CDS	7143963	7144004	.	+	0	ID=cds:PPA15212.1;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	CDS	7144222	7144263	.	+	0	ID=cds:PPA15212.1;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	CDS	7144308	7144346	.	+	0	ID=cds:PPA15212.1;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	CDS	7144424	7144438	.	+	0	ID=cds:PPA15212.1;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	CDS	7144574	7144660	.	+	0	ID=cds:PPA15212.1;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	CDS	7146225	7146308	.	+	0	ID=cds:PPA15212.1;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	CDS	7146452	7146499	.	+	0	ID=cds:PPA15212.1;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	CDS	7146580	7146606	.	+	0	ID=cds:PPA15212.1;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	CDS	7146698	7146739	.	+	0	ID=cds:PPA15212.1;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	CDS	7146834	7146875	.	+	0	ID=cds:PPA15212.1;Parent=transcript:PPA15212.1
+PPA_ChrIII	WormBase_imported	CDS	7146967	7147116	.	+	0	ID=cds:PPA15212.1;Parent=transcript:PPA15212.1
 PPA_ChrX	WormBase_imported	gene	2363814	2367215	.	-	.	ID=gene:WBGene00283414;Name=WBGene00283414;biotype=protein_coding;locus=PPA45045
 PPA_ChrX	WormBase_imported	mRNA	2363814	2367215	.	-	.	ID=transcript:PPA45045.1;Parent=gene:WBGene00283414;Name=PPA45045.1
 #microexons transcript:PPA45045.1:  17 51-51-51-51-51-51 10
@@ -586,3 +619,30 @@ PPA_ChrX	WormBase_imported	CDS	2364625	2364675	.	-	1	ID=cds:PPA45045.1;Parent=tr
 PPA_ChrX	WormBase_imported	CDS	2364129	2364179	.	-	1	ID=cds:PPA45045.1;Parent=transcript:PPA45045.1
 PPA_ChrX	WormBase_imported	CDS	2363964	2364014	.	-	1	ID=cds:PPA45045.1;Parent=transcript:PPA45045.1
 PPA_ChrX	WormBase_imported	CDS	2363814	2363823	.	-	1	ID=cds:PPA45045.1;Parent=transcript:PPA45045.1
+PPA_ChrX	WormBase_imported	gene	11290668	11292779	.	+	.	ID=gene:WBGene00284618;Name=WBGene00284618;biotype=protein_coding;locus=PPA46249
+PPA_ChrX	WormBase_imported	mRNA	11290668	11292779	.	+	.	ID=transcript:PPA46249.1;Parent=gene:WBGene00284618;Name=PPA46249.1
+#microexons transcript:PPA46249.1:  81-48-54-51-54-24-54-54-51-54-102-120
+PPA_ChrX	WormBase_imported	exon	11290668	11290748	.	+	.	ID=exon:PPA46249.1.1;Parent=transcript:PPA46249.1
+PPA_ChrX	WormBase_imported	exon	11290825	11290872	.	+	.	ID=exon:PPA46249.1.2;Parent=transcript:PPA46249.1
+PPA_ChrX	WormBase_imported	exon	11290922	11290975	.	+	.	ID=exon:PPA46249.1.3;Parent=transcript:PPA46249.1
+PPA_ChrX	WormBase_imported	exon	11291087	11291137	.	+	.	ID=exon:PPA46249.1.4;Parent=transcript:PPA46249.1
+PPA_ChrX	WormBase_imported	exon	11291269	11291322	.	+	.	ID=exon:PPA46249.1.5;Parent=transcript:PPA46249.1
+PPA_ChrX	WormBase_imported	exon	11291465	11291488	.	+	.	ID=exon:PPA46249.1.6;Parent=transcript:PPA46249.1
+PPA_ChrX	WormBase_imported	exon	11291572	11291625	.	+	.	ID=exon:PPA46249.1.7;Parent=transcript:PPA46249.1
+PPA_ChrX	WormBase_imported	exon	11291697	11291750	.	+	.	ID=exon:PPA46249.1.8;Parent=transcript:PPA46249.1
+PPA_ChrX	WormBase_imported	exon	11291802	11291852	.	+	.	ID=exon:PPA46249.1.9;Parent=transcript:PPA46249.1
+PPA_ChrX	WormBase_imported	exon	11291930	11291983	.	+	.	ID=exon:PPA46249.1.10;Parent=transcript:PPA46249.1
+PPA_ChrX	WormBase_imported	exon	11292389	11292490	.	+	.	ID=exon:PPA46249.1.11;Parent=transcript:PPA46249.1
+PPA_ChrX	WormBase_imported	exon	11292660	11292779	.	+	.	ID=exon:PPA46249.1.12;Parent=transcript:PPA46249.1
+PPA_ChrX	WormBase_imported	CDS	11290668	11290748	.	+	0	ID=cds:PPA46249.1;Parent=transcript:PPA46249.1
+PPA_ChrX	WormBase_imported	CDS	11290825	11290872	.	+	0	ID=cds:PPA46249.1;Parent=transcript:PPA46249.1
+PPA_ChrX	WormBase_imported	CDS	11290922	11290975	.	+	0	ID=cds:PPA46249.1;Parent=transcript:PPA46249.1
+PPA_ChrX	WormBase_imported	CDS	11291087	11291137	.	+	0	ID=cds:PPA46249.1;Parent=transcript:PPA46249.1
+PPA_ChrX	WormBase_imported	CDS	11291269	11291322	.	+	0	ID=cds:PPA46249.1;Parent=transcript:PPA46249.1
+PPA_ChrX	WormBase_imported	CDS	11291465	11291488	.	+	0	ID=cds:PPA46249.1;Parent=transcript:PPA46249.1
+PPA_ChrX	WormBase_imported	CDS	11291572	11291625	.	+	0	ID=cds:PPA46249.1;Parent=transcript:PPA46249.1
+PPA_ChrX	WormBase_imported	CDS	11291697	11291750	.	+	0	ID=cds:PPA46249.1;Parent=transcript:PPA46249.1
+PPA_ChrX	WormBase_imported	CDS	11291802	11291852	.	+	0	ID=cds:PPA46249.1;Parent=transcript:PPA46249.1
+PPA_ChrX	WormBase_imported	CDS	11291930	11291983	.	+	0	ID=cds:PPA46249.1;Parent=transcript:PPA46249.1
+PPA_ChrX	WormBase_imported	CDS	11292389	11292490	.	+	0	ID=cds:PPA46249.1;Parent=transcript:PPA46249.1
+PPA_ChrX	WormBase_imported	CDS	11292660	11292779	.	+	0	ID=cds:PPA46249.1;Parent=transcript:PPA46249.1
