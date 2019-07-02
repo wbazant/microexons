@@ -1,3 +1,20 @@
+CGOC_contig0001000	WormBase_imported	gene	338	1757	.	-	.	ID=gene:CGOC_0000116801;Name=CGOC_0000116801;biotype=protein_coding
+CGOC_contig0001000	WormBase_imported	mRNA	338	1757	.	-	.	ID=transcript:CGOC_0000116801-mRNA-1;Parent=gene:CGOC_0000116801;Name=CGOC_0000116801-mRNA-1
+#microexons transcript:CGOC_0000116801-mRNA-1:  162-45-42-45-60-96-60
+CGOC_contig0001000	WormBase_imported	exon	1596	1757	.	-	.	ID=exon:CGOC_0000116801-mRNA-1.1;Parent=transcript:CGOC_0000116801-mRNA-1
+CGOC_contig0001000	WormBase_imported	exon	1268	1312	.	-	.	ID=exon:CGOC_0000116801-mRNA-1.2;Parent=transcript:CGOC_0000116801-mRNA-1
+CGOC_contig0001000	WormBase_imported	exon	1173	1214	.	-	.	ID=exon:CGOC_0000116801-mRNA-1.3;Parent=transcript:CGOC_0000116801-mRNA-1
+CGOC_contig0001000	WormBase_imported	exon	910	954	.	-	.	ID=exon:CGOC_0000116801-mRNA-1.4;Parent=transcript:CGOC_0000116801-mRNA-1
+CGOC_contig0001000	WormBase_imported	exon	628	687	.	-	.	ID=exon:CGOC_0000116801-mRNA-1.5;Parent=transcript:CGOC_0000116801-mRNA-1
+CGOC_contig0001000	WormBase_imported	exon	453	548	.	-	.	ID=exon:CGOC_0000116801-mRNA-1.6;Parent=transcript:CGOC_0000116801-mRNA-1
+CGOC_contig0001000	WormBase_imported	exon	338	397	.	-	.	ID=exon:CGOC_0000116801-mRNA-1.7;Parent=transcript:CGOC_0000116801-mRNA-1
+CGOC_contig0001000	WormBase_imported	CDS	1596	1757	.	-	0	ID=cds:CGOC_0000116801-mRNA-1;Parent=transcript:CGOC_0000116801-mRNA-1
+CGOC_contig0001000	WormBase_imported	CDS	1268	1312	.	-	0	ID=cds:CGOC_0000116801-mRNA-1;Parent=transcript:CGOC_0000116801-mRNA-1
+CGOC_contig0001000	WormBase_imported	CDS	1173	1214	.	-	0	ID=cds:CGOC_0000116801-mRNA-1;Parent=transcript:CGOC_0000116801-mRNA-1
+CGOC_contig0001000	WormBase_imported	CDS	910	954	.	-	0	ID=cds:CGOC_0000116801-mRNA-1;Parent=transcript:CGOC_0000116801-mRNA-1
+CGOC_contig0001000	WormBase_imported	CDS	628	687	.	-	0	ID=cds:CGOC_0000116801-mRNA-1;Parent=transcript:CGOC_0000116801-mRNA-1
+CGOC_contig0001000	WormBase_imported	CDS	453	548	.	-	0	ID=cds:CGOC_0000116801-mRNA-1;Parent=transcript:CGOC_0000116801-mRNA-1
+CGOC_contig0001000	WormBase_imported	CDS	338	397	.	-	0	ID=cds:CGOC_0000116801-mRNA-1;Parent=transcript:CGOC_0000116801-mRNA-1
 CGOC_contig0007877	WormBase_imported	gene	271	1593	.	+	.	ID=gene:CGOC_0000383201;Name=CGOC_0000383201;biotype=protein_coding
 CGOC_contig0007877	WormBase_imported	mRNA	271	1593	.	+	.	ID=transcript:CGOC_0000383201-mRNA-1;Parent=gene:CGOC_0000383201;Name=CGOC_0000383201-mRNA-1
 #microexons transcript:CGOC_0000383201-mRNA-1:  36-36-36-30-42-39-147
@@ -16,3 +33,46 @@ CGOC_contig0007877	WormBase_imported	CDS	542	571	.	+	0	ID=cds:CGOC_0000383201-mR
 CGOC_contig0007877	WormBase_imported	CDS	642	683	.	+	0	ID=cds:CGOC_0000383201-mRNA-1;Parent=transcript:CGOC_0000383201-mRNA-1
 CGOC_contig0007877	WormBase_imported	CDS	736	774	.	+	0	ID=cds:CGOC_0000383201-mRNA-1;Parent=transcript:CGOC_0000383201-mRNA-1
 CGOC_contig0007877	WormBase_imported	CDS	1447	1593	.	+	0	ID=cds:CGOC_0000383201-mRNA-1;Parent=transcript:CGOC_0000383201-mRNA-1
+CGOC_contig0008569	WormBase_imported	gene	535	1621	.	-	.	ID=gene:CGOC_0000404101;Name=CGOC_0000404101;biotype=protein_coding
+CGOC_contig0008569	WormBase_imported	mRNA	535	1621	.	-	.	ID=transcript:CGOC_0000404101-mRNA-1;Parent=gene:CGOC_0000404101;Name=CGOC_0000404101-mRNA-1
+#microexons transcript:CGOC_0000404101-mRNA-1:  30-51-60-60-54-54-48-93-81-99
+CGOC_contig0008569	WormBase_imported	exon	1592	1621	.	-	.	ID=exon:CGOC_0000404101-mRNA-1.1;Parent=transcript:CGOC_0000404101-mRNA-1
+CGOC_contig0008569	WormBase_imported	exon	1497	1547	.	-	.	ID=exon:CGOC_0000404101-mRNA-1.2;Parent=transcript:CGOC_0000404101-mRNA-1
+CGOC_contig0008569	WormBase_imported	exon	1388	1447	.	-	.	ID=exon:CGOC_0000404101-mRNA-1.3;Parent=transcript:CGOC_0000404101-mRNA-1
+CGOC_contig0008569	WormBase_imported	exon	1282	1341	.	-	.	ID=exon:CGOC_0000404101-mRNA-1.4;Parent=transcript:CGOC_0000404101-mRNA-1
+CGOC_contig0008569	WormBase_imported	exon	1178	1231	.	-	.	ID=exon:CGOC_0000404101-mRNA-1.5;Parent=transcript:CGOC_0000404101-mRNA-1
+CGOC_contig0008569	WormBase_imported	exon	1079	1132	.	-	.	ID=exon:CGOC_0000404101-mRNA-1.6;Parent=transcript:CGOC_0000404101-mRNA-1
+CGOC_contig0008569	WormBase_imported	exon	985	1032	.	-	.	ID=exon:CGOC_0000404101-mRNA-1.7;Parent=transcript:CGOC_0000404101-mRNA-1
+CGOC_contig0008569	WormBase_imported	exon	844	936	.	-	.	ID=exon:CGOC_0000404101-mRNA-1.8;Parent=transcript:CGOC_0000404101-mRNA-1
+CGOC_contig0008569	WormBase_imported	exon	689	769	.	-	.	ID=exon:CGOC_0000404101-mRNA-1.9;Parent=transcript:CGOC_0000404101-mRNA-1
+CGOC_contig0008569	WormBase_imported	exon	535	633	.	-	.	ID=exon:CGOC_0000404101-mRNA-1.10;Parent=transcript:CGOC_0000404101-mRNA-1
+CGOC_contig0008569	WormBase_imported	CDS	1592	1621	.	-	0	ID=cds:CGOC_0000404101-mRNA-1;Parent=transcript:CGOC_0000404101-mRNA-1
+CGOC_contig0008569	WormBase_imported	CDS	1497	1547	.	-	0	ID=cds:CGOC_0000404101-mRNA-1;Parent=transcript:CGOC_0000404101-mRNA-1
+CGOC_contig0008569	WormBase_imported	CDS	1388	1447	.	-	0	ID=cds:CGOC_0000404101-mRNA-1;Parent=transcript:CGOC_0000404101-mRNA-1
+CGOC_contig0008569	WormBase_imported	CDS	1282	1341	.	-	0	ID=cds:CGOC_0000404101-mRNA-1;Parent=transcript:CGOC_0000404101-mRNA-1
+CGOC_contig0008569	WormBase_imported	CDS	1178	1231	.	-	0	ID=cds:CGOC_0000404101-mRNA-1;Parent=transcript:CGOC_0000404101-mRNA-1
+CGOC_contig0008569	WormBase_imported	CDS	1079	1132	.	-	0	ID=cds:CGOC_0000404101-mRNA-1;Parent=transcript:CGOC_0000404101-mRNA-1
+CGOC_contig0008569	WormBase_imported	CDS	985	1032	.	-	0	ID=cds:CGOC_0000404101-mRNA-1;Parent=transcript:CGOC_0000404101-mRNA-1
+CGOC_contig0008569	WormBase_imported	CDS	844	936	.	-	0	ID=cds:CGOC_0000404101-mRNA-1;Parent=transcript:CGOC_0000404101-mRNA-1
+CGOC_contig0008569	WormBase_imported	CDS	689	769	.	-	0	ID=cds:CGOC_0000404101-mRNA-1;Parent=transcript:CGOC_0000404101-mRNA-1
+CGOC_contig0008569	WormBase_imported	CDS	535	633	.	-	0	ID=cds:CGOC_0000404101-mRNA-1;Parent=transcript:CGOC_0000404101-mRNA-1
+CGOC_contig0010449	WormBase_imported	gene	30	1542	.	-	.	ID=gene:CGOC_0000465001;Name=CGOC_0000465001;biotype=protein_coding
+CGOC_contig0010449	WormBase_imported	mRNA	30	1542	.	-	.	ID=transcript:CGOC_0000465001-mRNA-1;Parent=gene:CGOC_0000465001;Name=CGOC_0000465001-mRNA-1;info=method:InterPro accession:IPR040384 description:Feeding circuit activating peptide precursor
+#microexons transcript:CGOC_0000465001-mRNA-1:  66-45-48-48-96 113 108-102
+CGOC_contig0010449	WormBase_imported	exon	1477	1542	.	-	.	ID=exon:CGOC_0000465001-mRNA-1.1;Parent=transcript:CGOC_0000465001-mRNA-1
+CGOC_contig0010449	WormBase_imported	exon	1320	1364	.	-	.	ID=exon:CGOC_0000465001-mRNA-1.2;Parent=transcript:CGOC_0000465001-mRNA-1
+CGOC_contig0010449	WormBase_imported	exon	1177	1224	.	-	.	ID=exon:CGOC_0000465001-mRNA-1.3;Parent=transcript:CGOC_0000465001-mRNA-1
+CGOC_contig0010449	WormBase_imported	exon	864	911	.	-	.	ID=exon:CGOC_0000465001-mRNA-1.4;Parent=transcript:CGOC_0000465001-mRNA-1
+CGOC_contig0010449	WormBase_imported	exon	532	627	.	-	.	ID=exon:CGOC_0000465001-mRNA-1.5;Parent=transcript:CGOC_0000465001-mRNA-1
+CGOC_contig0010449	WormBase_imported	exon	366	478	.	-	.	ID=exon:CGOC_0000465001-mRNA-1.6;Parent=transcript:CGOC_0000465001-mRNA-1
+CGOC_contig0010449	WormBase_imported	exon	212	319	.	-	.	ID=exon:CGOC_0000465001-mRNA-1.7;Parent=transcript:CGOC_0000465001-mRNA-1
+CGOC_contig0010449	WormBase_imported	exon	30	131	.	-	.	ID=exon:CGOC_0000465001-mRNA-1.8;Parent=transcript:CGOC_0000465001-mRNA-1
+CGOC_contig0010449	WormBase_imported	CDS	1477	1542	.	-	0	ID=cds:CGOC_0000465001-mRNA-1;Parent=transcript:CGOC_0000465001-mRNA-1
+CGOC_contig0010449	WormBase_imported	CDS	1320	1364	.	-	0	ID=cds:CGOC_0000465001-mRNA-1;Parent=transcript:CGOC_0000465001-mRNA-1
+CGOC_contig0010449	WormBase_imported	CDS	1177	1224	.	-	0	ID=cds:CGOC_0000465001-mRNA-1;Parent=transcript:CGOC_0000465001-mRNA-1
+CGOC_contig0010449	WormBase_imported	CDS	864	911	.	-	0	ID=cds:CGOC_0000465001-mRNA-1;Parent=transcript:CGOC_0000465001-mRNA-1
+CGOC_contig0010449	WormBase_imported	CDS	532	627	.	-	0	ID=cds:CGOC_0000465001-mRNA-1;Parent=transcript:CGOC_0000465001-mRNA-1
+CGOC_contig0010449	WormBase_imported	CDS	366	478	.	-	0	ID=cds:CGOC_0000465001-mRNA-1;Parent=transcript:CGOC_0000465001-mRNA-1
+CGOC_contig0010449	WormBase_imported	CDS	212	319	.	-	0	ID=cds:CGOC_0000465001-mRNA-1;Parent=transcript:CGOC_0000465001-mRNA-1
+CGOC_contig0010449	WormBase_imported	CDS	32	131	.	-	0	ID=cds:CGOC_0000465001-mRNA-1;Parent=transcript:CGOC_0000465001-mRNA-1
+CGOC_contig0010449	WormBase_imported	three_prime_UTR	30	31	.	-	.	Parent=transcript:CGOC_0000465001-mRNA-1

@@ -1,0 +1,27 @@
+GLAS_7097	WormBase_imported	gene	73306	74996	.	+	.	ID=gene:L893_g30139;Name=L893_g30139;biotype=protein_coding
+GLAS_7097	WormBase_imported	mRNA	73306	74996	.	+	.	ID=transcript:L893_g30139.t1;Parent=gene:L893_g30139;Name=L893_g30139.t1
+#microexons transcript:L893_g30139.t1:  382 45 116 48-36-60-63-54-141-39 241
+GLAS_7097	WormBase_imported	exon	73306	73687	.	+	.	ID=exon:L893_g30139.t1.1;Parent=transcript:L893_g30139.t1
+GLAS_7097	WormBase_imported	exon	73733	73777	.	+	.	ID=exon:L893_g30139.t1.2;Parent=transcript:L893_g30139.t1
+GLAS_7097	WormBase_imported	exon	73826	73941	.	+	.	ID=exon:L893_g30139.t1.3;Parent=transcript:L893_g30139.t1
+GLAS_7097	WormBase_imported	exon	73989	74036	.	+	.	ID=exon:L893_g30139.t1.4;Parent=transcript:L893_g30139.t1
+GLAS_7097	WormBase_imported	exon	74082	74117	.	+	.	ID=exon:L893_g30139.t1.5;Parent=transcript:L893_g30139.t1
+GLAS_7097	WormBase_imported	exon	74165	74224	.	+	.	ID=exon:L893_g30139.t1.6;Parent=transcript:L893_g30139.t1
+GLAS_7097	WormBase_imported	exon	74271	74333	.	+	.	ID=exon:L893_g30139.t1.7;Parent=transcript:L893_g30139.t1
+GLAS_7097	WormBase_imported	exon	74377	74430	.	+	.	ID=exon:L893_g30139.t1.8;Parent=transcript:L893_g30139.t1
+GLAS_7097	WormBase_imported	exon	74477	74617	.	+	.	ID=exon:L893_g30139.t1.9;Parent=transcript:L893_g30139.t1
+GLAS_7097	WormBase_imported	exon	74667	74705	.	+	.	ID=exon:L893_g30139.t1.10;Parent=transcript:L893_g30139.t1
+GLAS_7097	WormBase_imported	exon	74756	74996	.	+	.	ID=exon:L893_g30139.t1.11;Parent=transcript:L893_g30139.t1
+GLAS_7097	WormBase_imported	five_prime_UTR	73306	73542	.	+	.	Parent=transcript:L893_g30139.t1
+GLAS_7097	WormBase_imported	CDS	73543	73687	.	+	0	ID=cds:L893_g30139.t1;Parent=transcript:L893_g30139.t1
+GLAS_7097	WormBase_imported	CDS	73733	73777	.	+	2	ID=cds:L893_g30139.t1;Parent=transcript:L893_g30139.t1
+GLAS_7097	WormBase_imported	CDS	73826	73941	.	+	2	ID=cds:L893_g30139.t1;Parent=transcript:L893_g30139.t1
+GLAS_7097	WormBase_imported	CDS	73989	74036	.	+	0	ID=cds:L893_g30139.t1;Parent=transcript:L893_g30139.t1
+GLAS_7097	WormBase_imported	CDS	74082	74117	.	+	0	ID=cds:L893_g30139.t1;Parent=transcript:L893_g30139.t1
+GLAS_7097	WormBase_imported	CDS	74165	74224	.	+	0	ID=cds:L893_g30139.t1;Parent=transcript:L893_g30139.t1
+GLAS_7097	WormBase_imported	CDS	74271	74333	.	+	0	ID=cds:L893_g30139.t1;Parent=transcript:L893_g30139.t1
+GLAS_7097	WormBase_imported	CDS	74377	74430	.	+	0	ID=cds:L893_g30139.t1;Parent=transcript:L893_g30139.t1
+GLAS_7097	WormBase_imported	CDS	74477	74617	.	+	0	ID=cds:L893_g30139.t1;Parent=transcript:L893_g30139.t1
+GLAS_7097	WormBase_imported	CDS	74667	74705	.	+	0	ID=cds:L893_g30139.t1;Parent=transcript:L893_g30139.t1
+GLAS_7097	WormBase_imported	CDS	74756	74779	.	+	0	ID=cds:L893_g30139.t1;Parent=transcript:L893_g30139.t1
+GLAS_7097	WormBase_imported	three_prime_UTR	74780	74996	.	+	.	Parent=transcript:L893_g30139.t1

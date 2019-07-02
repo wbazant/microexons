@@ -1,3 +1,56 @@
+scaffold296	WormBase_imported	gene	12519	16336	.	+	.	ID=gene:MS3_01478;Name=MS3_01478;biotype=protein_coding;previous_stable_id=A_09197
+scaffold296	WormBase_imported	mRNA	12519	16336	.	+	.	ID=transcript:MS3_01478.1;Parent=gene:MS3_01478;Name=MS3_01478.1
+#microexons transcript:MS3_01478.1:  70 63-57-42-54-69 50
+scaffold296	WormBase_imported	exon	12519	12588	.	+	.	ID=exon:MS3_01478.1.1;Parent=transcript:MS3_01478.1
+scaffold296	WormBase_imported	exon	13123	13185	.	+	.	ID=exon:MS3_01478.1.2;Parent=transcript:MS3_01478.1
+scaffold296	WormBase_imported	exon	13597	13653	.	+	.	ID=exon:MS3_01478.1.3;Parent=transcript:MS3_01478.1
+scaffold296	WormBase_imported	exon	14297	14338	.	+	.	ID=exon:MS3_01478.1.4;Parent=transcript:MS3_01478.1
+scaffold296	WormBase_imported	exon	15117	15170	.	+	.	ID=exon:MS3_01478.1.5;Parent=transcript:MS3_01478.1
+scaffold296	WormBase_imported	exon	15751	15819	.	+	.	ID=exon:MS3_01478.1.6;Parent=transcript:MS3_01478.1
+scaffold296	WormBase_imported	exon	16287	16336	.	+	.	ID=exon:MS3_01478.1.7;Parent=transcript:MS3_01478.1
+scaffold296	WormBase_imported	CDS	12519	12588	.	+	0	ID=cds:MS3_01478.1;Parent=transcript:MS3_01478.1
+scaffold296	WormBase_imported	CDS	13123	13185	.	+	2	ID=cds:MS3_01478.1;Parent=transcript:MS3_01478.1
+scaffold296	WormBase_imported	CDS	13597	13653	.	+	2	ID=cds:MS3_01478.1;Parent=transcript:MS3_01478.1
+scaffold296	WormBase_imported	CDS	14297	14338	.	+	2	ID=cds:MS3_01478.1;Parent=transcript:MS3_01478.1
+scaffold296	WormBase_imported	CDS	15117	15170	.	+	2	ID=cds:MS3_01478.1;Parent=transcript:MS3_01478.1
+scaffold296	WormBase_imported	CDS	15751	15819	.	+	2	ID=cds:MS3_01478.1;Parent=transcript:MS3_01478.1
+scaffold296	WormBase_imported	CDS	16287	16336	.	+	2	ID=cds:MS3_01478.1;Parent=transcript:MS3_01478.1
+scaffold1162	WormBase_imported	gene	447	13778	.	+	.	ID=gene:MS3_06438;Name=MS3_06438;biotype=protein_coding;previous_stable_id=D_00203
+scaffold1162	WormBase_imported	mRNA	447	13778	.	+	.	ID=transcript:MS3_06438.1;Parent=gene:MS3_06438;Name=MS3_06438.1
+#microexons transcript:MS3_06438.1:  30-60-69-45-60-63-57 65
+scaffold1162	WormBase_imported	exon	447	476	.	+	.	ID=exon:MS3_06438.1.1;Parent=transcript:MS3_06438.1
+scaffold1162	WormBase_imported	exon	2642	2701	.	+	.	ID=exon:MS3_06438.1.2;Parent=transcript:MS3_06438.1
+scaffold1162	WormBase_imported	exon	6816	6884	.	+	.	ID=exon:MS3_06438.1.3;Parent=transcript:MS3_06438.1
+scaffold1162	WormBase_imported	exon	8673	8717	.	+	.	ID=exon:MS3_06438.1.4;Parent=transcript:MS3_06438.1
+scaffold1162	WormBase_imported	exon	9769	9828	.	+	.	ID=exon:MS3_06438.1.5;Parent=transcript:MS3_06438.1
+scaffold1162	WormBase_imported	exon	12104	12166	.	+	.	ID=exon:MS3_06438.1.6;Parent=transcript:MS3_06438.1
+scaffold1162	WormBase_imported	exon	13618	13674	.	+	.	ID=exon:MS3_06438.1.7;Parent=transcript:MS3_06438.1
+scaffold1162	WormBase_imported	exon	13714	13778	.	+	.	ID=exon:MS3_06438.1.8;Parent=transcript:MS3_06438.1
+scaffold1162	WormBase_imported	CDS	447	476	.	+	2	ID=cds:MS3_06438.1;Parent=transcript:MS3_06438.1
+scaffold1162	WormBase_imported	CDS	2642	2701	.	+	2	ID=cds:MS3_06438.1;Parent=transcript:MS3_06438.1
+scaffold1162	WormBase_imported	CDS	6816	6884	.	+	2	ID=cds:MS3_06438.1;Parent=transcript:MS3_06438.1
+scaffold1162	WormBase_imported	CDS	8673	8717	.	+	2	ID=cds:MS3_06438.1;Parent=transcript:MS3_06438.1
+scaffold1162	WormBase_imported	CDS	9769	9828	.	+	2	ID=cds:MS3_06438.1;Parent=transcript:MS3_06438.1
+scaffold1162	WormBase_imported	CDS	12104	12166	.	+	2	ID=cds:MS3_06438.1;Parent=transcript:MS3_06438.1
+scaffold1162	WormBase_imported	CDS	13618	13674	.	+	2	ID=cds:MS3_06438.1;Parent=transcript:MS3_06438.1
+scaffold1162	WormBase_imported	CDS	13714	13778	.	+	2	ID=cds:MS3_06438.1;Parent=transcript:MS3_06438.1
+scaffold808	WormBase_imported	gene	52375	77042	.	-	.	ID=gene:MS3_07013;Name=MS3_07013;biotype=protein_coding;previous_stable_id=C_01437
+scaffold808	WormBase_imported	mRNA	52375	77042	.	-	.	ID=transcript:MS3_07013.1;Parent=gene:MS3_07013;Name=MS3_07013.1;info=method:InterPro accession:IPR008160 description:Collagen triple helix repeat
+#microexons transcript:MS3_07013.1:  85 54-54-63-36-66 50
+scaffold808	WormBase_imported	exon	76958	77042	.	-	.	ID=exon:MS3_07013.1.1;Parent=transcript:MS3_07013.1
+scaffold808	WormBase_imported	exon	66239	66292	.	-	.	ID=exon:MS3_07013.1.2;Parent=transcript:MS3_07013.1
+scaffold808	WormBase_imported	exon	63695	63748	.	-	.	ID=exon:MS3_07013.1.3;Parent=transcript:MS3_07013.1
+scaffold808	WormBase_imported	exon	60832	60894	.	-	.	ID=exon:MS3_07013.1.4;Parent=transcript:MS3_07013.1
+scaffold808	WormBase_imported	exon	56690	56725	.	-	.	ID=exon:MS3_07013.1.5;Parent=transcript:MS3_07013.1
+scaffold808	WormBase_imported	exon	54622	54687	.	-	.	ID=exon:MS3_07013.1.6;Parent=transcript:MS3_07013.1
+scaffold808	WormBase_imported	exon	52375	52424	.	-	.	ID=exon:MS3_07013.1.7;Parent=transcript:MS3_07013.1
+scaffold808	WormBase_imported	CDS	76958	77042	.	-	0	ID=cds:MS3_07013.1;Parent=transcript:MS3_07013.1
+scaffold808	WormBase_imported	CDS	66239	66292	.	-	2	ID=cds:MS3_07013.1;Parent=transcript:MS3_07013.1
+scaffold808	WormBase_imported	CDS	63695	63748	.	-	2	ID=cds:MS3_07013.1;Parent=transcript:MS3_07013.1
+scaffold808	WormBase_imported	CDS	60832	60894	.	-	2	ID=cds:MS3_07013.1;Parent=transcript:MS3_07013.1
+scaffold808	WormBase_imported	CDS	56690	56725	.	-	2	ID=cds:MS3_07013.1;Parent=transcript:MS3_07013.1
+scaffold808	WormBase_imported	CDS	54622	54687	.	-	2	ID=cds:MS3_07013.1;Parent=transcript:MS3_07013.1
+scaffold808	WormBase_imported	CDS	52375	52424	.	-	2	ID=cds:MS3_07013.1;Parent=transcript:MS3_07013.1
 scaffold494	WormBase_imported	gene	67244	89865	.	+	.	ID=gene:MS3_07738;Name=MS3_07738;biotype=protein_coding;previous_stable_id=B_00182
 scaffold494	WormBase_imported	mRNA	67244	89865	.	+	.	ID=transcript:MS3_07738.1;Parent=gene:MS3_07738;Name=MS3_07738.1
 #microexons transcript:MS3_07738.1:  52 45-48-51-51-36-54-36-36-36 47
@@ -40,3 +93,26 @@ scaffold1404	WormBase_imported	CDS	3396	3422	.	+	1	ID=cds:MS3_08135.1;Parent=tra
 scaffold1404	WormBase_imported	CDS	4722	4757	.	+	1	ID=cds:MS3_08135.1;Parent=transcript:MS3_08135.1
 scaffold1404	WormBase_imported	CDS	6882	6908	.	+	1	ID=cds:MS3_08135.1;Parent=transcript:MS3_08135.1
 scaffold1404	WormBase_imported	CDS	7452	7500	.	+	1	ID=cds:MS3_08135.1;Parent=transcript:MS3_08135.1
+scaffold2637	WormBase_imported	gene	377	14398	.	-	.	ID=gene:MS3_10721;Name=MS3_10721;biotype=protein_coding;description=von Willebrand factor A domain-containing protein;description_source=UniProtKB/TrEMBL;description_source_acc=A0A095A471;previous_stable_id=A_06650
+scaffold2637	WormBase_imported	mRNA	377	14398	.	-	.	ID=transcript:MS3_10721.1;Parent=gene:MS3_10721;Name=MS3_10721.1;info=method:InterPro accession:IPR036465 description:von Willebrand factor A-like domain superfamily
+#microexons transcript:MS3_10721.1:  48 134 200 324-60-54-27-60-27 155
+scaffold2637	WormBase_imported	exon	14351	14398	.	-	.	ID=exon:MS3_10721.1.1;Parent=transcript:MS3_10721.1
+scaffold2637	WormBase_imported	exon	13193	13326	.	-	.	ID=exon:MS3_10721.1.2;Parent=transcript:MS3_10721.1
+scaffold2637	WormBase_imported	exon	11691	11890	.	-	.	ID=exon:MS3_10721.1.3;Parent=transcript:MS3_10721.1
+scaffold2637	WormBase_imported	exon	10453	10776	.	-	.	ID=exon:MS3_10721.1.4;Parent=transcript:MS3_10721.1
+scaffold2637	WormBase_imported	exon	10203	10262	.	-	.	ID=exon:MS3_10721.1.5;Parent=transcript:MS3_10721.1
+scaffold2637	WormBase_imported	exon	8744	8797	.	-	.	ID=exon:MS3_10721.1.6;Parent=transcript:MS3_10721.1
+scaffold2637	WormBase_imported	exon	8063	8089	.	-	.	ID=exon:MS3_10721.1.7;Parent=transcript:MS3_10721.1
+scaffold2637	WormBase_imported	exon	5837	5896	.	-	.	ID=exon:MS3_10721.1.8;Parent=transcript:MS3_10721.1
+scaffold2637	WormBase_imported	exon	2722	2748	.	-	.	ID=exon:MS3_10721.1.9;Parent=transcript:MS3_10721.1
+scaffold2637	WormBase_imported	exon	377	531	.	-	.	ID=exon:MS3_10721.1.10;Parent=transcript:MS3_10721.1
+scaffold2637	WormBase_imported	CDS	14351	14398	.	-	0	ID=cds:MS3_10721.1;Parent=transcript:MS3_10721.1
+scaffold2637	WormBase_imported	CDS	13193	13326	.	-	0	ID=cds:MS3_10721.1;Parent=transcript:MS3_10721.1
+scaffold2637	WormBase_imported	CDS	11691	11890	.	-	1	ID=cds:MS3_10721.1;Parent=transcript:MS3_10721.1
+scaffold2637	WormBase_imported	CDS	10453	10776	.	-	2	ID=cds:MS3_10721.1;Parent=transcript:MS3_10721.1
+scaffold2637	WormBase_imported	CDS	10203	10262	.	-	2	ID=cds:MS3_10721.1;Parent=transcript:MS3_10721.1
+scaffold2637	WormBase_imported	CDS	8744	8797	.	-	2	ID=cds:MS3_10721.1;Parent=transcript:MS3_10721.1
+scaffold2637	WormBase_imported	CDS	8063	8089	.	-	2	ID=cds:MS3_10721.1;Parent=transcript:MS3_10721.1
+scaffold2637	WormBase_imported	CDS	5837	5896	.	-	2	ID=cds:MS3_10721.1;Parent=transcript:MS3_10721.1
+scaffold2637	WormBase_imported	CDS	2722	2748	.	-	2	ID=cds:MS3_10721.1;Parent=transcript:MS3_10721.1
+scaffold2637	WormBase_imported	CDS	377	531	.	-	2	ID=cds:MS3_10721.1;Parent=transcript:MS3_10721.1

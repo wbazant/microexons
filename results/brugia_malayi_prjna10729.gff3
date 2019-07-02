@@ -1,3 +1,56 @@
+Bm_v4_Chr2_contig_001	WormBase_imported	gene	11882361	11885320	.	-	.	ID=gene:WBGene00230114;Name=WBGene00230114;biotype=protein_coding;locus=Bm9853
+Bm_v4_Chr2_contig_001	WormBase_imported	mRNA	11882361	11885320	.	-	.	ID=transcript:Bm9853a.1;Parent=gene:WBGene00230114;Name=Bm9853a.1
+#microexons transcript:Bm9853a.1:  60-66-66-66-66-66-66-66-66-66-66-87
+Bm_v4_Chr2_contig_001	WormBase_imported	mRNA	11882361	11885320	.	-	.	ID=transcript:Bm9853b.1;Parent=gene:WBGene00230114;Name=Bm9853b.1
+#microexons transcript:Bm9853b.1:  60-66-66-66-66-66-66-66-66-72-66-87
+Bm_v4_Chr2_contig_001	WormBase_imported	exon	11885261	11885320	.	-	.	ID=exon:Bm9853a.1.1;Parent=transcript:Bm9853a.1
+Bm_v4_Chr2_contig_001	WormBase_imported	exon	11884704	11884769	.	-	.	ID=exon:Bm9853a.1.2;Parent=transcript:Bm9853a.1
+Bm_v4_Chr2_contig_001	WormBase_imported	exon	11884434	11884499	.	-	.	ID=exon:Bm9853a.1.3;Parent=transcript:Bm9853a.1
+Bm_v4_Chr2_contig_001	WormBase_imported	exon	11884170	11884235	.	-	.	ID=exon:Bm9853a.1.4;Parent=transcript:Bm9853a.1
+Bm_v4_Chr2_contig_001	WormBase_imported	exon	11883968	11884033	.	-	.	ID=exon:Bm9853a.1.5;Parent=transcript:Bm9853a.1
+Bm_v4_Chr2_contig_001	WormBase_imported	exon	11883766	11883831	.	-	.	ID=exon:Bm9853a.1.6;Parent=transcript:Bm9853a.1
+Bm_v4_Chr2_contig_001	WormBase_imported	exon	11883504	11883569	.	-	.	ID=exon:Bm9853a.1.7;Parent=transcript:Bm9853a.1
+Bm_v4_Chr2_contig_001	WormBase_imported	exon	11883302	11883367	.	-	.	ID=exon:Bm9853a.1.8;Parent=transcript:Bm9853a.1
+Bm_v4_Chr2_contig_001	WormBase_imported	exon	11883100	11883165	.	-	.	ID=exon:Bm9853a.1.9;Parent=transcript:Bm9853a.1
+Bm_v4_Chr2_contig_001	WormBase_imported	exon	11882898	11882963	.	-	.	ID=exon:Bm9853a.1.10;Parent=transcript:Bm9853a.1
+Bm_v4_Chr2_contig_001	WormBase_imported	exon	11882632	11882697	.	-	.	ID=exon:Bm9853a.1.11;Parent=transcript:Bm9853a.1
+Bm_v4_Chr2_contig_001	WormBase_imported	exon	11882361	11882447	.	-	.	ID=exon:Bm9853a.1.12;Parent=transcript:Bm9853a.1
+Bm_v4_Chr2_contig_001	WormBase_imported	exon	11885261	11885320	.	-	.	ID=exon:Bm9853b.1.1;Parent=transcript:Bm9853b.1
+Bm_v4_Chr2_contig_001	WormBase_imported	exon	11884704	11884769	.	-	.	ID=exon:Bm9853b.1.2;Parent=transcript:Bm9853b.1
+Bm_v4_Chr2_contig_001	WormBase_imported	exon	11884434	11884499	.	-	.	ID=exon:Bm9853b.1.3;Parent=transcript:Bm9853b.1
+Bm_v4_Chr2_contig_001	WormBase_imported	exon	11884170	11884235	.	-	.	ID=exon:Bm9853b.1.4;Parent=transcript:Bm9853b.1
+Bm_v4_Chr2_contig_001	WormBase_imported	exon	11883968	11884033	.	-	.	ID=exon:Bm9853b.1.5;Parent=transcript:Bm9853b.1
+Bm_v4_Chr2_contig_001	WormBase_imported	exon	11883766	11883831	.	-	.	ID=exon:Bm9853b.1.6;Parent=transcript:Bm9853b.1
+Bm_v4_Chr2_contig_001	WormBase_imported	exon	11883504	11883569	.	-	.	ID=exon:Bm9853b.1.7;Parent=transcript:Bm9853b.1
+Bm_v4_Chr2_contig_001	WormBase_imported	exon	11883302	11883367	.	-	.	ID=exon:Bm9853b.1.8;Parent=transcript:Bm9853b.1
+Bm_v4_Chr2_contig_001	WormBase_imported	exon	11883100	11883165	.	-	.	ID=exon:Bm9853b.1.9;Parent=transcript:Bm9853b.1
+Bm_v4_Chr2_contig_001	WormBase_imported	exon	11882892	11882963	.	-	.	ID=exon:Bm9853b.1.10;Parent=transcript:Bm9853b.1
+Bm_v4_Chr2_contig_001	WormBase_imported	exon	11882632	11882697	.	-	.	ID=exon:Bm9853b.1.11;Parent=transcript:Bm9853b.1
+Bm_v4_Chr2_contig_001	WormBase_imported	exon	11882361	11882447	.	-	.	ID=exon:Bm9853b.1.12;Parent=transcript:Bm9853b.1
+Bm_v4_Chr2_contig_001	WormBase_imported	CDS	11885261	11885320	.	-	0	ID=cds:Bm9853a.1;Parent=transcript:Bm9853a.1
+Bm_v4_Chr2_contig_001	WormBase_imported	CDS	11884704	11884769	.	-	0	ID=cds:Bm9853a.1;Parent=transcript:Bm9853a.1
+Bm_v4_Chr2_contig_001	WormBase_imported	CDS	11884434	11884499	.	-	0	ID=cds:Bm9853a.1;Parent=transcript:Bm9853a.1
+Bm_v4_Chr2_contig_001	WormBase_imported	CDS	11884170	11884235	.	-	0	ID=cds:Bm9853a.1;Parent=transcript:Bm9853a.1
+Bm_v4_Chr2_contig_001	WormBase_imported	CDS	11883968	11884033	.	-	0	ID=cds:Bm9853a.1;Parent=transcript:Bm9853a.1
+Bm_v4_Chr2_contig_001	WormBase_imported	CDS	11883766	11883831	.	-	0	ID=cds:Bm9853a.1;Parent=transcript:Bm9853a.1
+Bm_v4_Chr2_contig_001	WormBase_imported	CDS	11883504	11883569	.	-	0	ID=cds:Bm9853a.1;Parent=transcript:Bm9853a.1
+Bm_v4_Chr2_contig_001	WormBase_imported	CDS	11883302	11883367	.	-	0	ID=cds:Bm9853a.1;Parent=transcript:Bm9853a.1
+Bm_v4_Chr2_contig_001	WormBase_imported	CDS	11883100	11883165	.	-	0	ID=cds:Bm9853a.1;Parent=transcript:Bm9853a.1
+Bm_v4_Chr2_contig_001	WormBase_imported	CDS	11882898	11882963	.	-	0	ID=cds:Bm9853a.1;Parent=transcript:Bm9853a.1
+Bm_v4_Chr2_contig_001	WormBase_imported	CDS	11882632	11882697	.	-	0	ID=cds:Bm9853a.1;Parent=transcript:Bm9853a.1
+Bm_v4_Chr2_contig_001	WormBase_imported	CDS	11882361	11882447	.	-	0	ID=cds:Bm9853a.1;Parent=transcript:Bm9853a.1
+Bm_v4_Chr2_contig_001	WormBase_imported	CDS	11885261	11885320	.	-	0	ID=cds:Bm9853b.1;Parent=transcript:Bm9853b.1
+Bm_v4_Chr2_contig_001	WormBase_imported	CDS	11884704	11884769	.	-	0	ID=cds:Bm9853b.1;Parent=transcript:Bm9853b.1
+Bm_v4_Chr2_contig_001	WormBase_imported	CDS	11884434	11884499	.	-	0	ID=cds:Bm9853b.1;Parent=transcript:Bm9853b.1
+Bm_v4_Chr2_contig_001	WormBase_imported	CDS	11884170	11884235	.	-	0	ID=cds:Bm9853b.1;Parent=transcript:Bm9853b.1
+Bm_v4_Chr2_contig_001	WormBase_imported	CDS	11883968	11884033	.	-	0	ID=cds:Bm9853b.1;Parent=transcript:Bm9853b.1
+Bm_v4_Chr2_contig_001	WormBase_imported	CDS	11883766	11883831	.	-	0	ID=cds:Bm9853b.1;Parent=transcript:Bm9853b.1
+Bm_v4_Chr2_contig_001	WormBase_imported	CDS	11883504	11883569	.	-	0	ID=cds:Bm9853b.1;Parent=transcript:Bm9853b.1
+Bm_v4_Chr2_contig_001	WormBase_imported	CDS	11883302	11883367	.	-	0	ID=cds:Bm9853b.1;Parent=transcript:Bm9853b.1
+Bm_v4_Chr2_contig_001	WormBase_imported	CDS	11883100	11883165	.	-	0	ID=cds:Bm9853b.1;Parent=transcript:Bm9853b.1
+Bm_v4_Chr2_contig_001	WormBase_imported	CDS	11882892	11882963	.	-	0	ID=cds:Bm9853b.1;Parent=transcript:Bm9853b.1
+Bm_v4_Chr2_contig_001	WormBase_imported	CDS	11882632	11882697	.	-	0	ID=cds:Bm9853b.1;Parent=transcript:Bm9853b.1
+Bm_v4_Chr2_contig_001	WormBase_imported	CDS	11882361	11882447	.	-	0	ID=cds:Bm9853b.1;Parent=transcript:Bm9853b.1
 Bm_v4_Chr4_scaffold_001	WormBase_imported	gene	6509478	6512872	.	-	.	ID=gene:WBGene00235006;Name=WBGene00235006;biotype=protein_coding;description=Bm14671, isoform a; Bm14671, isoform b;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0K0J1C5;locus=Bm14671
 Bm_v4_Chr4_scaffold_001	WormBase_imported	mRNA	6509478	6512872	.	-	.	ID=transcript:Bm14671.1;Parent=gene:WBGene00235006;Name=Bm14671.1;info=method:InterPro accession:IPR004296 description:DUF236 repeat
 #microexons transcript:Bm14671.1:  54 191 136 136 105-54-27-33-33-93-33 98

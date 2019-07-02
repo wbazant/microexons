@@ -48,3 +48,24 @@ scaffold00600	WormBase_imported	CDS	401849	401896	.	+	2	ID=cds:BXY_0675400.1;Par
 scaffold00600	WormBase_imported	CDS	402009	402056	.	+	2	ID=cds:BXY_0675400.1;Parent=transcript:BXY_0675400.1
 scaffold00600	WormBase_imported	CDS	402169	402216	.	+	2	ID=cds:BXY_0675400.1;Parent=transcript:BXY_0675400.1
 scaffold00600	WormBase_imported	CDS	402289	402572	.	+	2	ID=cds:BXY_0675400.1;Parent=transcript:BXY_0675400.1
+scaffold01571	WormBase_imported	gene	2	2021	.	+	.	ID=gene:BXY_1288100;Name=BXY_1288100;biotype=protein_coding
+scaffold01571	WormBase_imported	mRNA	2	2021	.	+	.	ID=transcript:BXY_1288100.1;Parent=gene:BXY_1288100;Name=BXY_1288100.1
+#microexons transcript:BXY_1288100.1:  124 109 60-45-63-60-57-60-147
+scaffold01571	WormBase_imported	exon	2	125	.	+	.	ID=exon:BXY_1288100.1.1;Parent=transcript:BXY_1288100.1
+scaffold01571	WormBase_imported	exon	212	320	.	+	.	ID=exon:BXY_1288100.1.2;Parent=transcript:BXY_1288100.1
+scaffold01571	WormBase_imported	exon	384	443	.	+	.	ID=exon:BXY_1288100.1.3;Parent=transcript:BXY_1288100.1
+scaffold01571	WormBase_imported	exon	503	547	.	+	.	ID=exon:BXY_1288100.1.4;Parent=transcript:BXY_1288100.1
+scaffold01571	WormBase_imported	exon	877	939	.	+	.	ID=exon:BXY_1288100.1.5;Parent=transcript:BXY_1288100.1
+scaffold01571	WormBase_imported	exon	1517	1576	.	+	.	ID=exon:BXY_1288100.1.6;Parent=transcript:BXY_1288100.1
+scaffold01571	WormBase_imported	exon	1638	1694	.	+	.	ID=exon:BXY_1288100.1.7;Parent=transcript:BXY_1288100.1
+scaffold01571	WormBase_imported	exon	1756	1815	.	+	.	ID=exon:BXY_1288100.1.8;Parent=transcript:BXY_1288100.1
+scaffold01571	WormBase_imported	exon	1875	2021	.	+	.	ID=exon:BXY_1288100.1.9;Parent=transcript:BXY_1288100.1
+scaffold01571	WormBase_imported	CDS	2	125	.	+	0	ID=cds:BXY_1288100.1;Parent=transcript:BXY_1288100.1
+scaffold01571	WormBase_imported	CDS	212	320	.	+	2	ID=cds:BXY_1288100.1;Parent=transcript:BXY_1288100.1
+scaffold01571	WormBase_imported	CDS	384	443	.	+	1	ID=cds:BXY_1288100.1;Parent=transcript:BXY_1288100.1
+scaffold01571	WormBase_imported	CDS	503	547	.	+	1	ID=cds:BXY_1288100.1;Parent=transcript:BXY_1288100.1
+scaffold01571	WormBase_imported	CDS	877	939	.	+	1	ID=cds:BXY_1288100.1;Parent=transcript:BXY_1288100.1
+scaffold01571	WormBase_imported	CDS	1517	1576	.	+	1	ID=cds:BXY_1288100.1;Parent=transcript:BXY_1288100.1
+scaffold01571	WormBase_imported	CDS	1638	1694	.	+	1	ID=cds:BXY_1288100.1;Parent=transcript:BXY_1288100.1
+scaffold01571	WormBase_imported	CDS	1756	1815	.	+	1	ID=cds:BXY_1288100.1;Parent=transcript:BXY_1288100.1
+scaffold01571	WormBase_imported	CDS	1875	2021	.	+	1	ID=cds:BXY_1288100.1;Parent=transcript:BXY_1288100.1

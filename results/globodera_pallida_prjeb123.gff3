@@ -40,6 +40,44 @@ pathogens_Gpal_scaffold_20	WormBase_imported	CDS	224896	224952	.	+	2	ID=cds:GPLI
 pathogens_Gpal_scaffold_20	WormBase_imported	CDS	225003	225016	.	+	2	ID=cds:GPLIN_000121300;Parent=transcript:GPLIN_000121300
 pathogens_Gpal_scaffold_20	WormBase_imported	CDS	225234	225263	.	+	0	ID=cds:GPLIN_000121300;Parent=transcript:GPLIN_000121300
 pathogens_Gpal_scaffold_20	WormBase_imported	CDS	225323	225331	.	+	0	ID=cds:GPLIN_000121300;Parent=transcript:GPLIN_000121300
+pathogens_Gpal_scaffold_27	WormBase_imported	gene	13663	16284	.	+	.	ID=gene:GPLIN_000153600;Name=GPLIN_000153600;biotype=protein_coding
+pathogens_Gpal_scaffold_27	WormBase_imported	mRNA	13663	16284	.	+	.	ID=transcript:GPLIN_000153600;Parent=gene:GPLIN_000153600;Name=GPLIN_000153600
+#microexons transcript:GPLIN_000153600:  42-66-60-63-144 103 71
+pathogens_Gpal_scaffold_27	WormBase_imported	exon	13663	13704	.	+	.	ID=exon:GPLIN_000153600.1;Parent=transcript:GPLIN_000153600
+pathogens_Gpal_scaffold_27	WormBase_imported	exon	13772	13837	.	+	.	ID=exon:GPLIN_000153600.2;Parent=transcript:GPLIN_000153600
+pathogens_Gpal_scaffold_27	WormBase_imported	exon	13965	14024	.	+	.	ID=exon:GPLIN_000153600.3;Parent=transcript:GPLIN_000153600
+pathogens_Gpal_scaffold_27	WormBase_imported	exon	14223	14285	.	+	.	ID=exon:GPLIN_000153600.4;Parent=transcript:GPLIN_000153600
+pathogens_Gpal_scaffold_27	WormBase_imported	exon	14349	14492	.	+	.	ID=exon:GPLIN_000153600.5;Parent=transcript:GPLIN_000153600
+pathogens_Gpal_scaffold_27	WormBase_imported	exon	14548	14650	.	+	.	ID=exon:GPLIN_000153600.6;Parent=transcript:GPLIN_000153600
+pathogens_Gpal_scaffold_27	WormBase_imported	exon	16214	16284	.	+	.	ID=exon:GPLIN_000153600.7;Parent=transcript:GPLIN_000153600
+pathogens_Gpal_scaffold_27	WormBase_imported	CDS	13663	13704	.	+	0	ID=cds:GPLIN_000153600;Parent=transcript:GPLIN_000153600
+pathogens_Gpal_scaffold_27	WormBase_imported	CDS	13772	13837	.	+	0	ID=cds:GPLIN_000153600;Parent=transcript:GPLIN_000153600
+pathogens_Gpal_scaffold_27	WormBase_imported	CDS	13965	14024	.	+	0	ID=cds:GPLIN_000153600;Parent=transcript:GPLIN_000153600
+pathogens_Gpal_scaffold_27	WormBase_imported	CDS	14223	14285	.	+	0	ID=cds:GPLIN_000153600;Parent=transcript:GPLIN_000153600
+pathogens_Gpal_scaffold_27	WormBase_imported	CDS	14349	14492	.	+	0	ID=cds:GPLIN_000153600;Parent=transcript:GPLIN_000153600
+pathogens_Gpal_scaffold_27	WormBase_imported	CDS	14548	14650	.	+	0	ID=cds:GPLIN_000153600;Parent=transcript:GPLIN_000153600
+pathogens_Gpal_scaffold_27	WormBase_imported	CDS	16214	16284	.	+	2	ID=cds:GPLIN_000153600;Parent=transcript:GPLIN_000153600
+pathogens_Gpal_scaffold_60	WormBase_imported	gene	202434	205836	.	+	.	ID=gene:GPLIN_000294600;Name=GPLIN_000294600;biotype=protein_coding
+pathogens_Gpal_scaffold_60	WormBase_imported	mRNA	202434	205836	.	+	.	ID=transcript:GPLIN_000294600;Parent=gene:GPLIN_000294600;Name=GPLIN_000294600
+#microexons transcript:GPLIN_000294600:  90-135-42-42-39-60-42-48-63
+pathogens_Gpal_scaffold_60	WormBase_imported	exon	202434	202523	.	+	.	ID=exon:GPLIN_000294600.1;Parent=transcript:GPLIN_000294600
+pathogens_Gpal_scaffold_60	WormBase_imported	exon	202576	202710	.	+	.	ID=exon:GPLIN_000294600.2;Parent=transcript:GPLIN_000294600
+pathogens_Gpal_scaffold_60	WormBase_imported	exon	202774	202815	.	+	.	ID=exon:GPLIN_000294600.3;Parent=transcript:GPLIN_000294600
+pathogens_Gpal_scaffold_60	WormBase_imported	exon	203127	203168	.	+	.	ID=exon:GPLIN_000294600.4;Parent=transcript:GPLIN_000294600
+pathogens_Gpal_scaffold_60	WormBase_imported	exon	203595	203633	.	+	.	ID=exon:GPLIN_000294600.5;Parent=transcript:GPLIN_000294600
+pathogens_Gpal_scaffold_60	WormBase_imported	exon	203695	203754	.	+	.	ID=exon:GPLIN_000294600.6;Parent=transcript:GPLIN_000294600
+pathogens_Gpal_scaffold_60	WormBase_imported	exon	203833	203874	.	+	.	ID=exon:GPLIN_000294600.7;Parent=transcript:GPLIN_000294600
+pathogens_Gpal_scaffold_60	WormBase_imported	exon	203994	204041	.	+	.	ID=exon:GPLIN_000294600.8;Parent=transcript:GPLIN_000294600
+pathogens_Gpal_scaffold_60	WormBase_imported	exon	205774	205836	.	+	.	ID=exon:GPLIN_000294600.9;Parent=transcript:GPLIN_000294600
+pathogens_Gpal_scaffold_60	WormBase_imported	CDS	202434	202523	.	+	0	ID=cds:GPLIN_000294600;Parent=transcript:GPLIN_000294600
+pathogens_Gpal_scaffold_60	WormBase_imported	CDS	202576	202710	.	+	0	ID=cds:GPLIN_000294600;Parent=transcript:GPLIN_000294600
+pathogens_Gpal_scaffold_60	WormBase_imported	CDS	202774	202815	.	+	0	ID=cds:GPLIN_000294600;Parent=transcript:GPLIN_000294600
+pathogens_Gpal_scaffold_60	WormBase_imported	CDS	203127	203168	.	+	0	ID=cds:GPLIN_000294600;Parent=transcript:GPLIN_000294600
+pathogens_Gpal_scaffold_60	WormBase_imported	CDS	203595	203633	.	+	0	ID=cds:GPLIN_000294600;Parent=transcript:GPLIN_000294600
+pathogens_Gpal_scaffold_60	WormBase_imported	CDS	203695	203754	.	+	0	ID=cds:GPLIN_000294600;Parent=transcript:GPLIN_000294600
+pathogens_Gpal_scaffold_60	WormBase_imported	CDS	203833	203874	.	+	0	ID=cds:GPLIN_000294600;Parent=transcript:GPLIN_000294600
+pathogens_Gpal_scaffold_60	WormBase_imported	CDS	203994	204041	.	+	0	ID=cds:GPLIN_000294600;Parent=transcript:GPLIN_000294600
+pathogens_Gpal_scaffold_60	WormBase_imported	CDS	205774	205836	.	+	0	ID=cds:GPLIN_000294600;Parent=transcript:GPLIN_000294600
 pathogens_Gpal_scaffold_61	WormBase_imported	gene	198684	203741	.	-	.	ID=gene:GPLIN_000297100;Name=GPLIN_000297100;biotype=protein_coding
 pathogens_Gpal_scaffold_61	WormBase_imported	mRNA	198684	203741	.	-	.	ID=transcript:GPLIN_000297100;Parent=gene:GPLIN_000297100;Name=GPLIN_000297100
 #microexons transcript:GPLIN_000297100:  65 115 201 163 89 179 15-99-21-21-18-24-21-21-21-27 19
@@ -146,6 +184,23 @@ pathogens_Gpal_scaffold_82	WormBase_imported	CDS	119027	119083	.	-	0	ID=cds:GPLI
 pathogens_Gpal_scaffold_82	WormBase_imported	CDS	118867	118923	.	-	0	ID=cds:GPLIN_000371900;Parent=transcript:GPLIN_000371900
 pathogens_Gpal_scaffold_82	WormBase_imported	CDS	118651	118701	.	-	0	ID=cds:GPLIN_000371900;Parent=transcript:GPLIN_000371900
 pathogens_Gpal_scaffold_82	WormBase_imported	CDS	118330	118350	.	-	0	ID=cds:GPLIN_000371900;Parent=transcript:GPLIN_000371900
+pathogens_Gpal_scaffold_123	WormBase_imported	gene	59414	60834	.	+	.	ID=gene:GPLIN_000482400;Name=GPLIN_000482400;biotype=protein_coding
+pathogens_Gpal_scaffold_123	WormBase_imported	mRNA	59414	60834	.	+	.	ID=transcript:GPLIN_000482400;Parent=gene:GPLIN_000482400;Name=GPLIN_000482400
+#microexons transcript:GPLIN_000482400:  13 11 39-60-42-48-63
+pathogens_Gpal_scaffold_123	WormBase_imported	exon	59414	59426	.	+	.	ID=exon:GPLIN_000482400.1;Parent=transcript:GPLIN_000482400
+pathogens_Gpal_scaffold_123	WormBase_imported	exon	60020	60030	.	+	.	ID=exon:GPLIN_000482400.2;Parent=transcript:GPLIN_000482400
+pathogens_Gpal_scaffold_123	WormBase_imported	exon	60146	60184	.	+	.	ID=exon:GPLIN_000482400.3;Parent=transcript:GPLIN_000482400
+pathogens_Gpal_scaffold_123	WormBase_imported	exon	60248	60307	.	+	.	ID=exon:GPLIN_000482400.4;Parent=transcript:GPLIN_000482400
+pathogens_Gpal_scaffold_123	WormBase_imported	exon	60388	60429	.	+	.	ID=exon:GPLIN_000482400.5;Parent=transcript:GPLIN_000482400
+pathogens_Gpal_scaffold_123	WormBase_imported	exon	60549	60596	.	+	.	ID=exon:GPLIN_000482400.6;Parent=transcript:GPLIN_000482400
+pathogens_Gpal_scaffold_123	WormBase_imported	exon	60772	60834	.	+	.	ID=exon:GPLIN_000482400.7;Parent=transcript:GPLIN_000482400
+pathogens_Gpal_scaffold_123	WormBase_imported	CDS	59414	59426	.	+	0	ID=cds:GPLIN_000482400;Parent=transcript:GPLIN_000482400
+pathogens_Gpal_scaffold_123	WormBase_imported	CDS	60020	60030	.	+	2	ID=cds:GPLIN_000482400;Parent=transcript:GPLIN_000482400
+pathogens_Gpal_scaffold_123	WormBase_imported	CDS	60146	60184	.	+	0	ID=cds:GPLIN_000482400;Parent=transcript:GPLIN_000482400
+pathogens_Gpal_scaffold_123	WormBase_imported	CDS	60248	60307	.	+	0	ID=cds:GPLIN_000482400;Parent=transcript:GPLIN_000482400
+pathogens_Gpal_scaffold_123	WormBase_imported	CDS	60388	60429	.	+	0	ID=cds:GPLIN_000482400;Parent=transcript:GPLIN_000482400
+pathogens_Gpal_scaffold_123	WormBase_imported	CDS	60549	60596	.	+	0	ID=cds:GPLIN_000482400;Parent=transcript:GPLIN_000482400
+pathogens_Gpal_scaffold_123	WormBase_imported	CDS	60772	60834	.	+	0	ID=cds:GPLIN_000482400;Parent=transcript:GPLIN_000482400
 pathogens_Gpal_scaffold_174	WormBase_imported	gene	68827	70789	.	+	.	ID=gene:GPLIN_000613200;Name=GPLIN_000613200;biotype=protein_coding
 pathogens_Gpal_scaffold_174	WormBase_imported	mRNA	68827	70789	.	+	.	ID=transcript:GPLIN_000613200;Parent=gene:GPLIN_000613200;Name=GPLIN_000613200
 #microexons transcript:GPLIN_000613200:  87-135-39-42-39-48-42-48-30-42
@@ -169,6 +224,23 @@ pathogens_Gpal_scaffold_174	WormBase_imported	CDS	70203	70244	.	+	0	ID=cds:GPLIN
 pathogens_Gpal_scaffold_174	WormBase_imported	CDS	70329	70376	.	+	0	ID=cds:GPLIN_000613200;Parent=transcript:GPLIN_000613200
 pathogens_Gpal_scaffold_174	WormBase_imported	CDS	70516	70545	.	+	0	ID=cds:GPLIN_000613200;Parent=transcript:GPLIN_000613200
 pathogens_Gpal_scaffold_174	WormBase_imported	CDS	70748	70789	.	+	0	ID=cds:GPLIN_000613200;Parent=transcript:GPLIN_000613200
+pathogens_Gpal_scaffold_254	WormBase_imported	gene	67437	68543	.	+	.	ID=gene:GPLIN_000767000;Name=GPLIN_000767000;biotype=protein_coding
+pathogens_Gpal_scaffold_254	WormBase_imported	mRNA	67437	68543	.	+	.	ID=transcript:GPLIN_000767000;Parent=gene:GPLIN_000767000;Name=GPLIN_000767000
+#microexons transcript:GPLIN_000767000:  46 33-60-36-60 59 102
+pathogens_Gpal_scaffold_254	WormBase_imported	exon	67437	67482	.	+	.	ID=exon:GPLIN_000767000.1;Parent=transcript:GPLIN_000767000
+pathogens_Gpal_scaffold_254	WormBase_imported	exon	67601	67633	.	+	.	ID=exon:GPLIN_000767000.2;Parent=transcript:GPLIN_000767000
+pathogens_Gpal_scaffold_254	WormBase_imported	exon	67680	67739	.	+	.	ID=exon:GPLIN_000767000.3;Parent=transcript:GPLIN_000767000
+pathogens_Gpal_scaffold_254	WormBase_imported	exon	67875	67910	.	+	.	ID=exon:GPLIN_000767000.4;Parent=transcript:GPLIN_000767000
+pathogens_Gpal_scaffold_254	WormBase_imported	exon	67982	68041	.	+	.	ID=exon:GPLIN_000767000.5;Parent=transcript:GPLIN_000767000
+pathogens_Gpal_scaffold_254	WormBase_imported	exon	68097	68155	.	+	.	ID=exon:GPLIN_000767000.6;Parent=transcript:GPLIN_000767000
+pathogens_Gpal_scaffold_254	WormBase_imported	exon	68442	68543	.	+	.	ID=exon:GPLIN_000767000.7;Parent=transcript:GPLIN_000767000
+pathogens_Gpal_scaffold_254	WormBase_imported	CDS	67437	67482	.	+	0	ID=cds:GPLIN_000767000;Parent=transcript:GPLIN_000767000
+pathogens_Gpal_scaffold_254	WormBase_imported	CDS	67601	67633	.	+	2	ID=cds:GPLIN_000767000;Parent=transcript:GPLIN_000767000
+pathogens_Gpal_scaffold_254	WormBase_imported	CDS	67680	67739	.	+	2	ID=cds:GPLIN_000767000;Parent=transcript:GPLIN_000767000
+pathogens_Gpal_scaffold_254	WormBase_imported	CDS	67875	67910	.	+	2	ID=cds:GPLIN_000767000;Parent=transcript:GPLIN_000767000
+pathogens_Gpal_scaffold_254	WormBase_imported	CDS	67982	68041	.	+	2	ID=cds:GPLIN_000767000;Parent=transcript:GPLIN_000767000
+pathogens_Gpal_scaffold_254	WormBase_imported	CDS	68097	68155	.	+	2	ID=cds:GPLIN_000767000;Parent=transcript:GPLIN_000767000
+pathogens_Gpal_scaffold_254	WormBase_imported	CDS	68442	68543	.	+	0	ID=cds:GPLIN_000767000;Parent=transcript:GPLIN_000767000
 pathogens_Gpal_scaffold_336	WormBase_imported	gene	53575	55381	.	+	.	ID=gene:GPLIN_000901600;Name=GPLIN_000901600;biotype=protein_coding
 pathogens_Gpal_scaffold_336	WormBase_imported	mRNA	53575	55381	.	+	.	ID=transcript:GPLIN_000901600;Parent=gene:GPLIN_000901600;Name=GPLIN_000901600
 #microexons transcript:GPLIN_000901600:  109 54-33-33-33-33-42 35
@@ -188,6 +260,44 @@ pathogens_Gpal_scaffold_336	WormBase_imported	CDS	54330	54362	.	+	2	ID=cds:GPLIN
 pathogens_Gpal_scaffold_336	WormBase_imported	CDS	54450	54482	.	+	2	ID=cds:GPLIN_000901600;Parent=transcript:GPLIN_000901600
 pathogens_Gpal_scaffold_336	WormBase_imported	CDS	54603	54644	.	+	2	ID=cds:GPLIN_000901600;Parent=transcript:GPLIN_000901600
 pathogens_Gpal_scaffold_336	WormBase_imported	CDS	55347	55381	.	+	2	ID=cds:GPLIN_000901600;Parent=transcript:GPLIN_000901600
+pathogens_Gpal_scaffold_336	WormBase_imported	gene	58251	59956	.	+	.	ID=gene:GPLIN_000901700;Name=GPLIN_000901700;biotype=protein_coding
+pathogens_Gpal_scaffold_336	WormBase_imported	mRNA	58251	59956	.	+	.	ID=transcript:GPLIN_000901700;Parent=gene:GPLIN_000901700;Name=GPLIN_000901700
+#microexons transcript:GPLIN_000901700:  94 21-60-30-36-36 20
+pathogens_Gpal_scaffold_336	WormBase_imported	exon	58251	58344	.	+	.	ID=exon:GPLIN_000901700.1;Parent=transcript:GPLIN_000901700
+pathogens_Gpal_scaffold_336	WormBase_imported	exon	58407	58427	.	+	.	ID=exon:GPLIN_000901700.2;Parent=transcript:GPLIN_000901700
+pathogens_Gpal_scaffold_336	WormBase_imported	exon	59177	59236	.	+	.	ID=exon:GPLIN_000901700.3;Parent=transcript:GPLIN_000901700
+pathogens_Gpal_scaffold_336	WormBase_imported	exon	59409	59438	.	+	.	ID=exon:GPLIN_000901700.4;Parent=transcript:GPLIN_000901700
+pathogens_Gpal_scaffold_336	WormBase_imported	exon	59574	59609	.	+	.	ID=exon:GPLIN_000901700.5;Parent=transcript:GPLIN_000901700
+pathogens_Gpal_scaffold_336	WormBase_imported	exon	59745	59780	.	+	.	ID=exon:GPLIN_000901700.6;Parent=transcript:GPLIN_000901700
+pathogens_Gpal_scaffold_336	WormBase_imported	exon	59937	59956	.	+	.	ID=exon:GPLIN_000901700.7;Parent=transcript:GPLIN_000901700
+pathogens_Gpal_scaffold_336	WormBase_imported	CDS	58251	58344	.	+	0	ID=cds:GPLIN_000901700;Parent=transcript:GPLIN_000901700
+pathogens_Gpal_scaffold_336	WormBase_imported	CDS	58407	58427	.	+	2	ID=cds:GPLIN_000901700;Parent=transcript:GPLIN_000901700
+pathogens_Gpal_scaffold_336	WormBase_imported	CDS	59177	59236	.	+	2	ID=cds:GPLIN_000901700;Parent=transcript:GPLIN_000901700
+pathogens_Gpal_scaffold_336	WormBase_imported	CDS	59409	59438	.	+	2	ID=cds:GPLIN_000901700;Parent=transcript:GPLIN_000901700
+pathogens_Gpal_scaffold_336	WormBase_imported	CDS	59574	59609	.	+	2	ID=cds:GPLIN_000901700;Parent=transcript:GPLIN_000901700
+pathogens_Gpal_scaffold_336	WormBase_imported	CDS	59745	59780	.	+	2	ID=cds:GPLIN_000901700;Parent=transcript:GPLIN_000901700
+pathogens_Gpal_scaffold_336	WormBase_imported	CDS	59937	59956	.	+	2	ID=cds:GPLIN_000901700;Parent=transcript:GPLIN_000901700
+pathogens_Gpal_scaffold_364	WormBase_imported	gene	53384	55303	.	+	.	ID=gene:GPLIN_000930500;Name=GPLIN_000930500;biotype=protein_coding
+pathogens_Gpal_scaffold_364	WormBase_imported	mRNA	53384	55303	.	+	.	ID=transcript:GPLIN_000930500;Parent=gene:GPLIN_000930500;Name=GPLIN_000930500
+#microexons transcript:GPLIN_000930500:  90-129-39-42-39-60-42-48-12
+pathogens_Gpal_scaffold_364	WormBase_imported	exon	53384	53473	.	+	.	ID=exon:GPLIN_000930500.1;Parent=transcript:GPLIN_000930500
+pathogens_Gpal_scaffold_364	WormBase_imported	exon	53525	53653	.	+	.	ID=exon:GPLIN_000930500.2;Parent=transcript:GPLIN_000930500
+pathogens_Gpal_scaffold_364	WormBase_imported	exon	53771	53809	.	+	.	ID=exon:GPLIN_000930500.3;Parent=transcript:GPLIN_000930500
+pathogens_Gpal_scaffold_364	WormBase_imported	exon	53882	53923	.	+	.	ID=exon:GPLIN_000930500.4;Parent=transcript:GPLIN_000930500
+pathogens_Gpal_scaffold_364	WormBase_imported	exon	54329	54367	.	+	.	ID=exon:GPLIN_000930500.5;Parent=transcript:GPLIN_000930500
+pathogens_Gpal_scaffold_364	WormBase_imported	exon	54443	54502	.	+	.	ID=exon:GPLIN_000930500.6;Parent=transcript:GPLIN_000930500
+pathogens_Gpal_scaffold_364	WormBase_imported	exon	54594	54635	.	+	.	ID=exon:GPLIN_000930500.7;Parent=transcript:GPLIN_000930500
+pathogens_Gpal_scaffold_364	WormBase_imported	exon	55006	55053	.	+	.	ID=exon:GPLIN_000930500.8;Parent=transcript:GPLIN_000930500
+pathogens_Gpal_scaffold_364	WormBase_imported	exon	55292	55303	.	+	.	ID=exon:GPLIN_000930500.9;Parent=transcript:GPLIN_000930500
+pathogens_Gpal_scaffold_364	WormBase_imported	CDS	53384	53473	.	+	0	ID=cds:GPLIN_000930500;Parent=transcript:GPLIN_000930500
+pathogens_Gpal_scaffold_364	WormBase_imported	CDS	53525	53653	.	+	0	ID=cds:GPLIN_000930500;Parent=transcript:GPLIN_000930500
+pathogens_Gpal_scaffold_364	WormBase_imported	CDS	53771	53809	.	+	0	ID=cds:GPLIN_000930500;Parent=transcript:GPLIN_000930500
+pathogens_Gpal_scaffold_364	WormBase_imported	CDS	53882	53923	.	+	0	ID=cds:GPLIN_000930500;Parent=transcript:GPLIN_000930500
+pathogens_Gpal_scaffold_364	WormBase_imported	CDS	54329	54367	.	+	0	ID=cds:GPLIN_000930500;Parent=transcript:GPLIN_000930500
+pathogens_Gpal_scaffold_364	WormBase_imported	CDS	54443	54502	.	+	0	ID=cds:GPLIN_000930500;Parent=transcript:GPLIN_000930500
+pathogens_Gpal_scaffold_364	WormBase_imported	CDS	54594	54635	.	+	0	ID=cds:GPLIN_000930500;Parent=transcript:GPLIN_000930500
+pathogens_Gpal_scaffold_364	WormBase_imported	CDS	55006	55053	.	+	0	ID=cds:GPLIN_000930500;Parent=transcript:GPLIN_000930500
+pathogens_Gpal_scaffold_364	WormBase_imported	CDS	55292	55303	.	+	0	ID=cds:GPLIN_000930500;Parent=transcript:GPLIN_000930500
 pathogens_Gpal_scaffold_391	WormBase_imported	gene	59114	63012	.	+	.	ID=gene:GPLIN_000968900;Name=GPLIN_000968900;biotype=protein_coding
 pathogens_Gpal_scaffold_391	WormBase_imported	mRNA	59114	63012	.	+	.	ID=transcript:GPLIN_000968900;Parent=gene:GPLIN_000968900;Name=GPLIN_000968900
 #microexons transcript:GPLIN_000968900:  120 106 119 144-39-42-39-45-54-42
@@ -211,6 +321,44 @@ pathogens_Gpal_scaffold_391	WormBase_imported	CDS	62391	62429	.	+	0	ID=cds:GPLIN
 pathogens_Gpal_scaffold_391	WormBase_imported	CDS	62484	62528	.	+	0	ID=cds:GPLIN_000968900;Parent=transcript:GPLIN_000968900
 pathogens_Gpal_scaffold_391	WormBase_imported	CDS	62766	62819	.	+	0	ID=cds:GPLIN_000968900;Parent=transcript:GPLIN_000968900
 pathogens_Gpal_scaffold_391	WormBase_imported	CDS	62971	63012	.	+	0	ID=cds:GPLIN_000968900;Parent=transcript:GPLIN_000968900
+pathogens_Gpal_scaffold_391	WormBase_imported	gene	91226	92900	.	-	.	ID=gene:GPLIN_000969400;Name=GPLIN_000969400;biotype=protein_coding
+pathogens_Gpal_scaffold_391	WormBase_imported	mRNA	91226	92900	.	-	.	ID=transcript:GPLIN_000969400;Parent=gene:GPLIN_000969400;Name=GPLIN_000969400
+#microexons transcript:GPLIN_000969400:  105-39-39-60-42-54-42
+pathogens_Gpal_scaffold_391	WormBase_imported	exon	92796	92900	.	-	.	ID=exon:GPLIN_000969400.1;Parent=transcript:GPLIN_000969400
+pathogens_Gpal_scaffold_391	WormBase_imported	exon	92650	92688	.	-	.	ID=exon:GPLIN_000969400.2;Parent=transcript:GPLIN_000969400
+pathogens_Gpal_scaffold_391	WormBase_imported	exon	91788	91826	.	-	.	ID=exon:GPLIN_000969400.3;Parent=transcript:GPLIN_000969400
+pathogens_Gpal_scaffold_391	WormBase_imported	exon	91667	91726	.	-	.	ID=exon:GPLIN_000969400.4;Parent=transcript:GPLIN_000969400
+pathogens_Gpal_scaffold_391	WormBase_imported	exon	91538	91579	.	-	.	ID=exon:GPLIN_000969400.5;Parent=transcript:GPLIN_000969400
+pathogens_Gpal_scaffold_391	WormBase_imported	exon	91384	91437	.	-	.	ID=exon:GPLIN_000969400.6;Parent=transcript:GPLIN_000969400
+pathogens_Gpal_scaffold_391	WormBase_imported	exon	91226	91267	.	-	.	ID=exon:GPLIN_000969400.7;Parent=transcript:GPLIN_000969400
+pathogens_Gpal_scaffold_391	WormBase_imported	CDS	92796	92900	.	-	0	ID=cds:GPLIN_000969400;Parent=transcript:GPLIN_000969400
+pathogens_Gpal_scaffold_391	WormBase_imported	CDS	92650	92688	.	-	0	ID=cds:GPLIN_000969400;Parent=transcript:GPLIN_000969400
+pathogens_Gpal_scaffold_391	WormBase_imported	CDS	91788	91826	.	-	0	ID=cds:GPLIN_000969400;Parent=transcript:GPLIN_000969400
+pathogens_Gpal_scaffold_391	WormBase_imported	CDS	91667	91726	.	-	0	ID=cds:GPLIN_000969400;Parent=transcript:GPLIN_000969400
+pathogens_Gpal_scaffold_391	WormBase_imported	CDS	91538	91579	.	-	0	ID=cds:GPLIN_000969400;Parent=transcript:GPLIN_000969400
+pathogens_Gpal_scaffold_391	WormBase_imported	CDS	91384	91437	.	-	0	ID=cds:GPLIN_000969400;Parent=transcript:GPLIN_000969400
+pathogens_Gpal_scaffold_391	WormBase_imported	CDS	91226	91267	.	-	0	ID=cds:GPLIN_000969400;Parent=transcript:GPLIN_000969400
+pathogens_Gpal_scaffold_438	WormBase_imported	gene	12433	14329	.	-	.	ID=gene:GPLIN_001016900;Name=GPLIN_001016900;biotype=protein_coding
+pathogens_Gpal_scaffold_438	WormBase_imported	mRNA	12433	14329	.	-	.	ID=transcript:GPLIN_001016900;Parent=gene:GPLIN_001016900;Name=GPLIN_001016900
+#microexons transcript:GPLIN_001016900:  84-63-93-165-36-39-45-60-48
+pathogens_Gpal_scaffold_438	WormBase_imported	exon	14246	14329	.	-	.	ID=exon:GPLIN_001016900.1;Parent=transcript:GPLIN_001016900
+pathogens_Gpal_scaffold_438	WormBase_imported	exon	13995	14057	.	-	.	ID=exon:GPLIN_001016900.2;Parent=transcript:GPLIN_001016900
+pathogens_Gpal_scaffold_438	WormBase_imported	exon	13603	13695	.	-	.	ID=exon:GPLIN_001016900.3;Parent=transcript:GPLIN_001016900
+pathogens_Gpal_scaffold_438	WormBase_imported	exon	13390	13554	.	-	.	ID=exon:GPLIN_001016900.4;Parent=transcript:GPLIN_001016900
+pathogens_Gpal_scaffold_438	WormBase_imported	exon	13313	13348	.	-	.	ID=exon:GPLIN_001016900.5;Parent=transcript:GPLIN_001016900
+pathogens_Gpal_scaffold_438	WormBase_imported	exon	13166	13204	.	-	.	ID=exon:GPLIN_001016900.6;Parent=transcript:GPLIN_001016900
+pathogens_Gpal_scaffold_438	WormBase_imported	exon	12979	13023	.	-	.	ID=exon:GPLIN_001016900.7;Parent=transcript:GPLIN_001016900
+pathogens_Gpal_scaffold_438	WormBase_imported	exon	12598	12657	.	-	.	ID=exon:GPLIN_001016900.8;Parent=transcript:GPLIN_001016900
+pathogens_Gpal_scaffold_438	WormBase_imported	exon	12433	12480	.	-	.	ID=exon:GPLIN_001016900.9;Parent=transcript:GPLIN_001016900
+pathogens_Gpal_scaffold_438	WormBase_imported	CDS	14246	14329	.	-	0	ID=cds:GPLIN_001016900;Parent=transcript:GPLIN_001016900
+pathogens_Gpal_scaffold_438	WormBase_imported	CDS	13995	14057	.	-	0	ID=cds:GPLIN_001016900;Parent=transcript:GPLIN_001016900
+pathogens_Gpal_scaffold_438	WormBase_imported	CDS	13603	13695	.	-	0	ID=cds:GPLIN_001016900;Parent=transcript:GPLIN_001016900
+pathogens_Gpal_scaffold_438	WormBase_imported	CDS	13390	13554	.	-	0	ID=cds:GPLIN_001016900;Parent=transcript:GPLIN_001016900
+pathogens_Gpal_scaffold_438	WormBase_imported	CDS	13313	13348	.	-	0	ID=cds:GPLIN_001016900;Parent=transcript:GPLIN_001016900
+pathogens_Gpal_scaffold_438	WormBase_imported	CDS	13166	13204	.	-	0	ID=cds:GPLIN_001016900;Parent=transcript:GPLIN_001016900
+pathogens_Gpal_scaffold_438	WormBase_imported	CDS	12979	13023	.	-	0	ID=cds:GPLIN_001016900;Parent=transcript:GPLIN_001016900
+pathogens_Gpal_scaffold_438	WormBase_imported	CDS	12598	12657	.	-	0	ID=cds:GPLIN_001016900;Parent=transcript:GPLIN_001016900
+pathogens_Gpal_scaffold_438	WormBase_imported	CDS	12433	12480	.	-	0	ID=cds:GPLIN_001016900;Parent=transcript:GPLIN_001016900
 pathogens_Gpal_scaffold_588	WormBase_imported	gene	6850	8785	.	+	.	ID=gene:GPLIN_001154400;Name=GPLIN_001154400;biotype=protein_coding
 pathogens_Gpal_scaffold_588	WormBase_imported	mRNA	6850	8785	.	+	.	ID=transcript:GPLIN_001154400;Parent=gene:GPLIN_001154400;Name=GPLIN_001154400;info=method:InterPro accession:IPR002602 description:Domain of unknown function DB
 #microexons transcript:GPLIN_001154400:  116 60 202 42-57-51-42

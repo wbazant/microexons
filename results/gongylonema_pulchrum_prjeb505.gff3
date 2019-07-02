@@ -1,0 +1,23 @@
+GPUH_scaffold0000474	WormBase_imported	gene	3702	14931	.	-	.	ID=gene:GPUH_0001107701;Name=GPUH_0001107701;biotype=protein_coding
+GPUH_scaffold0000474	WormBase_imported	mRNA	3702	14931	.	-	.	ID=transcript:GPUH_0001107701-mRNA-1;Parent=gene:GPUH_0001107701;Name=GPUH_0001107701-mRNA-1
+#microexons transcript:GPUH_0001107701-mRNA-1:  88 66-66-66-96-66-45-66-27 62
+GPUH_scaffold0000474	WormBase_imported	exon	14844	14931	.	-	.	ID=exon:GPUH_0001107701-mRNA-1.1;Parent=transcript:GPUH_0001107701-mRNA-1
+GPUH_scaffold0000474	WormBase_imported	exon	13776	13841	.	-	.	ID=exon:GPUH_0001107701-mRNA-1.2;Parent=transcript:GPUH_0001107701-mRNA-1
+GPUH_scaffold0000474	WormBase_imported	exon	13543	13608	.	-	.	ID=exon:GPUH_0001107701-mRNA-1.3;Parent=transcript:GPUH_0001107701-mRNA-1
+GPUH_scaffold0000474	WormBase_imported	exon	12526	12591	.	-	.	ID=exon:GPUH_0001107701-mRNA-1.4;Parent=transcript:GPUH_0001107701-mRNA-1
+GPUH_scaffold0000474	WormBase_imported	exon	9777	9872	.	-	.	ID=exon:GPUH_0001107701-mRNA-1.5;Parent=transcript:GPUH_0001107701-mRNA-1
+GPUH_scaffold0000474	WormBase_imported	exon	8158	8223	.	-	.	ID=exon:GPUH_0001107701-mRNA-1.6;Parent=transcript:GPUH_0001107701-mRNA-1
+GPUH_scaffold0000474	WormBase_imported	exon	7753	7797	.	-	.	ID=exon:GPUH_0001107701-mRNA-1.7;Parent=transcript:GPUH_0001107701-mRNA-1
+GPUH_scaffold0000474	WormBase_imported	exon	5434	5499	.	-	.	ID=exon:GPUH_0001107701-mRNA-1.8;Parent=transcript:GPUH_0001107701-mRNA-1
+GPUH_scaffold0000474	WormBase_imported	exon	3985	4011	.	-	.	ID=exon:GPUH_0001107701-mRNA-1.9;Parent=transcript:GPUH_0001107701-mRNA-1
+GPUH_scaffold0000474	WormBase_imported	exon	3702	3763	.	-	.	ID=exon:GPUH_0001107701-mRNA-1.10;Parent=transcript:GPUH_0001107701-mRNA-1
+GPUH_scaffold0000474	WormBase_imported	CDS	14844	14931	.	-	0	ID=cds:GPUH_0001107701-mRNA-1;Parent=transcript:GPUH_0001107701-mRNA-1
+GPUH_scaffold0000474	WormBase_imported	CDS	13776	13841	.	-	2	ID=cds:GPUH_0001107701-mRNA-1;Parent=transcript:GPUH_0001107701-mRNA-1
+GPUH_scaffold0000474	WormBase_imported	CDS	13543	13608	.	-	2	ID=cds:GPUH_0001107701-mRNA-1;Parent=transcript:GPUH_0001107701-mRNA-1
+GPUH_scaffold0000474	WormBase_imported	CDS	12526	12591	.	-	2	ID=cds:GPUH_0001107701-mRNA-1;Parent=transcript:GPUH_0001107701-mRNA-1
+GPUH_scaffold0000474	WormBase_imported	CDS	9777	9872	.	-	2	ID=cds:GPUH_0001107701-mRNA-1;Parent=transcript:GPUH_0001107701-mRNA-1
+GPUH_scaffold0000474	WormBase_imported	CDS	8158	8223	.	-	2	ID=cds:GPUH_0001107701-mRNA-1;Parent=transcript:GPUH_0001107701-mRNA-1
+GPUH_scaffold0000474	WormBase_imported	CDS	7753	7797	.	-	2	ID=cds:GPUH_0001107701-mRNA-1;Parent=transcript:GPUH_0001107701-mRNA-1
+GPUH_scaffold0000474	WormBase_imported	CDS	5434	5499	.	-	2	ID=cds:GPUH_0001107701-mRNA-1;Parent=transcript:GPUH_0001107701-mRNA-1
+GPUH_scaffold0000474	WormBase_imported	CDS	3985	4011	.	-	2	ID=cds:GPUH_0001107701-mRNA-1;Parent=transcript:GPUH_0001107701-mRNA-1
+GPUH_scaffold0000474	WormBase_imported	CDS	3702	3763	.	-	2	ID=cds:GPUH_0001107701-mRNA-1;Parent=transcript:GPUH_0001107701-mRNA-1

@@ -1,0 +1,21 @@
+MhA1_Contig481	WormBase_imported	gene	44360	47502	.	+	.	ID=gene:MhA1_Contig481.frz3.gene28;Name=MhA1_Contig481.frz3.gene28;biotype=protein_coding
+MhA1_Contig481	WormBase_imported	mRNA	44360	47502	.	+	.	ID=transcript:MhA1_Contig481.frz3.gene28;Parent=gene:MhA1_Contig481.frz3.gene28;Name=MhA1_Contig481.frz3.gene28
+#microexons transcript:MhA1_Contig481.frz3.gene28:  48-81-63-60-66-69-57 223 179
+MhA1_Contig481	WormBase_imported	exon	44360	44407	.	+	.	ID=exon:MhA1_Contig481.frz3.gene28.1;Parent=transcript:MhA1_Contig481.frz3.gene28
+MhA1_Contig481	WormBase_imported	exon	44500	44580	.	+	.	ID=exon:MhA1_Contig481.frz3.gene28.2;Parent=transcript:MhA1_Contig481.frz3.gene28
+MhA1_Contig481	WormBase_imported	exon	45570	45632	.	+	.	ID=exon:MhA1_Contig481.frz3.gene28.3;Parent=transcript:MhA1_Contig481.frz3.gene28
+MhA1_Contig481	WormBase_imported	exon	45685	45744	.	+	.	ID=exon:MhA1_Contig481.frz3.gene28.4;Parent=transcript:MhA1_Contig481.frz3.gene28
+MhA1_Contig481	WormBase_imported	exon	45869	45934	.	+	.	ID=exon:MhA1_Contig481.frz3.gene28.5;Parent=transcript:MhA1_Contig481.frz3.gene28
+MhA1_Contig481	WormBase_imported	exon	45981	46049	.	+	.	ID=exon:MhA1_Contig481.frz3.gene28.6;Parent=transcript:MhA1_Contig481.frz3.gene28
+MhA1_Contig481	WormBase_imported	exon	46281	46337	.	+	.	ID=exon:MhA1_Contig481.frz3.gene28.7;Parent=transcript:MhA1_Contig481.frz3.gene28
+MhA1_Contig481	WormBase_imported	exon	46411	46633	.	+	.	ID=exon:MhA1_Contig481.frz3.gene28.8;Parent=transcript:MhA1_Contig481.frz3.gene28
+MhA1_Contig481	WormBase_imported	exon	47324	47502	.	+	.	ID=exon:MhA1_Contig481.frz3.gene28.9;Parent=transcript:MhA1_Contig481.frz3.gene28
+MhA1_Contig481	WormBase_imported	CDS	44360	44407	.	+	0	ID=cds:MhA1_Contig481.frz3.gene28;Parent=transcript:MhA1_Contig481.frz3.gene28
+MhA1_Contig481	WormBase_imported	CDS	44500	44580	.	+	0	ID=cds:MhA1_Contig481.frz3.gene28;Parent=transcript:MhA1_Contig481.frz3.gene28
+MhA1_Contig481	WormBase_imported	CDS	45570	45632	.	+	0	ID=cds:MhA1_Contig481.frz3.gene28;Parent=transcript:MhA1_Contig481.frz3.gene28
+MhA1_Contig481	WormBase_imported	CDS	45685	45744	.	+	0	ID=cds:MhA1_Contig481.frz3.gene28;Parent=transcript:MhA1_Contig481.frz3.gene28
+MhA1_Contig481	WormBase_imported	CDS	45869	45934	.	+	0	ID=cds:MhA1_Contig481.frz3.gene28;Parent=transcript:MhA1_Contig481.frz3.gene28
+MhA1_Contig481	WormBase_imported	CDS	45981	46049	.	+	0	ID=cds:MhA1_Contig481.frz3.gene28;Parent=transcript:MhA1_Contig481.frz3.gene28
+MhA1_Contig481	WormBase_imported	CDS	46281	46337	.	+	0	ID=cds:MhA1_Contig481.frz3.gene28;Parent=transcript:MhA1_Contig481.frz3.gene28
+MhA1_Contig481	WormBase_imported	CDS	46411	46633	.	+	0	ID=cds:MhA1_Contig481.frz3.gene28;Parent=transcript:MhA1_Contig481.frz3.gene28
+MhA1_Contig481	WormBase_imported	CDS	47324	47502	.	+	2	ID=cds:MhA1_Contig481.frz3.gene28;Parent=transcript:MhA1_Contig481.frz3.gene28

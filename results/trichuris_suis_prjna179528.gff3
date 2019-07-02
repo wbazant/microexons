@@ -1,3 +1,42 @@
+T_suis-1.0_Cont6	WormBase_imported	gene	1518963	1523216	.	+	.	ID=gene:D918_03134;Name=D918_03134;biotype=protein_coding
+T_suis-1.0_Cont6	WormBase_imported	mRNA	1518963	1523216	.	+	.	ID=transcript:D918_03134;Parent=gene:D918_03134;Name=D918_03134
+#microexons transcript:D918_03134:  162-165-60-81-60-60-60-60-117-75-27-57-210-27-39-51-60-585
+T_suis-1.0_Cont6	WormBase_imported	exon	1518963	1519124	.	+	.	ID=exon:D918_03134.1;Parent=transcript:D918_03134
+T_suis-1.0_Cont6	WormBase_imported	exon	1519179	1519343	.	+	.	ID=exon:D918_03134.2;Parent=transcript:D918_03134
+T_suis-1.0_Cont6	WormBase_imported	exon	1519397	1519456	.	+	.	ID=exon:D918_03134.3;Parent=transcript:D918_03134
+T_suis-1.0_Cont6	WormBase_imported	exon	1519511	1519591	.	+	.	ID=exon:D918_03134.4;Parent=transcript:D918_03134
+T_suis-1.0_Cont6	WormBase_imported	exon	1519643	1519702	.	+	.	ID=exon:D918_03134.5;Parent=transcript:D918_03134
+T_suis-1.0_Cont6	WormBase_imported	exon	1519756	1519815	.	+	.	ID=exon:D918_03134.6;Parent=transcript:D918_03134
+T_suis-1.0_Cont6	WormBase_imported	exon	1520120	1520179	.	+	.	ID=exon:D918_03134.7;Parent=transcript:D918_03134
+T_suis-1.0_Cont6	WormBase_imported	exon	1520233	1520292	.	+	.	ID=exon:D918_03134.8;Parent=transcript:D918_03134
+T_suis-1.0_Cont6	WormBase_imported	exon	1520347	1520463	.	+	.	ID=exon:D918_03134.9;Parent=transcript:D918_03134
+T_suis-1.0_Cont6	WormBase_imported	exon	1520520	1520594	.	+	.	ID=exon:D918_03134.10;Parent=transcript:D918_03134
+T_suis-1.0_Cont6	WormBase_imported	exon	1521715	1521741	.	+	.	ID=exon:D918_03134.11;Parent=transcript:D918_03134
+T_suis-1.0_Cont6	WormBase_imported	exon	1521799	1521855	.	+	.	ID=exon:D918_03134.12;Parent=transcript:D918_03134
+T_suis-1.0_Cont6	WormBase_imported	exon	1521899	1522108	.	+	.	ID=exon:D918_03134.13;Parent=transcript:D918_03134
+T_suis-1.0_Cont6	WormBase_imported	exon	1522166	1522192	.	+	.	ID=exon:D918_03134.14;Parent=transcript:D918_03134
+T_suis-1.0_Cont6	WormBase_imported	exon	1522244	1522282	.	+	.	ID=exon:D918_03134.15;Parent=transcript:D918_03134
+T_suis-1.0_Cont6	WormBase_imported	exon	1522331	1522381	.	+	.	ID=exon:D918_03134.16;Parent=transcript:D918_03134
+T_suis-1.0_Cont6	WormBase_imported	exon	1522438	1522497	.	+	.	ID=exon:D918_03134.17;Parent=transcript:D918_03134
+T_suis-1.0_Cont6	WormBase_imported	exon	1522632	1523216	.	+	.	ID=exon:D918_03134.18;Parent=transcript:D918_03134
+T_suis-1.0_Cont6	WormBase_imported	CDS	1518963	1519124	.	+	0	ID=cds:D918_03134;Parent=transcript:D918_03134
+T_suis-1.0_Cont6	WormBase_imported	CDS	1519179	1519343	.	+	0	ID=cds:D918_03134;Parent=transcript:D918_03134
+T_suis-1.0_Cont6	WormBase_imported	CDS	1519397	1519456	.	+	0	ID=cds:D918_03134;Parent=transcript:D918_03134
+T_suis-1.0_Cont6	WormBase_imported	CDS	1519511	1519591	.	+	0	ID=cds:D918_03134;Parent=transcript:D918_03134
+T_suis-1.0_Cont6	WormBase_imported	CDS	1519643	1519702	.	+	0	ID=cds:D918_03134;Parent=transcript:D918_03134
+T_suis-1.0_Cont6	WormBase_imported	CDS	1519756	1519815	.	+	0	ID=cds:D918_03134;Parent=transcript:D918_03134
+T_suis-1.0_Cont6	WormBase_imported	CDS	1520120	1520179	.	+	0	ID=cds:D918_03134;Parent=transcript:D918_03134
+T_suis-1.0_Cont6	WormBase_imported	CDS	1520233	1520292	.	+	0	ID=cds:D918_03134;Parent=transcript:D918_03134
+T_suis-1.0_Cont6	WormBase_imported	CDS	1520347	1520463	.	+	0	ID=cds:D918_03134;Parent=transcript:D918_03134
+T_suis-1.0_Cont6	WormBase_imported	CDS	1520520	1520594	.	+	0	ID=cds:D918_03134;Parent=transcript:D918_03134
+T_suis-1.0_Cont6	WormBase_imported	CDS	1521715	1521741	.	+	0	ID=cds:D918_03134;Parent=transcript:D918_03134
+T_suis-1.0_Cont6	WormBase_imported	CDS	1521799	1521855	.	+	0	ID=cds:D918_03134;Parent=transcript:D918_03134
+T_suis-1.0_Cont6	WormBase_imported	CDS	1521899	1522108	.	+	0	ID=cds:D918_03134;Parent=transcript:D918_03134
+T_suis-1.0_Cont6	WormBase_imported	CDS	1522166	1522192	.	+	0	ID=cds:D918_03134;Parent=transcript:D918_03134
+T_suis-1.0_Cont6	WormBase_imported	CDS	1522244	1522282	.	+	0	ID=cds:D918_03134;Parent=transcript:D918_03134
+T_suis-1.0_Cont6	WormBase_imported	CDS	1522331	1522381	.	+	0	ID=cds:D918_03134;Parent=transcript:D918_03134
+T_suis-1.0_Cont6	WormBase_imported	CDS	1522438	1522497	.	+	0	ID=cds:D918_03134;Parent=transcript:D918_03134
+T_suis-1.0_Cont6	WormBase_imported	CDS	1522632	1523216	.	+	0	ID=cds:D918_03134;Parent=transcript:D918_03134
 T_suis-1.0_Cont6	WormBase_imported	gene	1527585	1529704	.	+	.	ID=gene:D918_03135;Name=D918_03135;biotype=protein_coding
 T_suis-1.0_Cont6	WormBase_imported	mRNA	1527585	1529704	.	+	.	ID=transcript:D918_03135;Parent=gene:D918_03135;Name=D918_03135
 #microexons transcript:D918_03135:  54-54-42-54-27-57-210-51-60-27-54-492
@@ -25,6 +64,23 @@ T_suis-1.0_Cont6	WormBase_imported	CDS	1528921	1528980	.	+	0	ID=cds:D918_03135;P
 T_suis-1.0_Cont6	WormBase_imported	CDS	1529034	1529060	.	+	0	ID=cds:D918_03135;Parent=transcript:D918_03135
 T_suis-1.0_Cont6	WormBase_imported	CDS	1529114	1529167	.	+	0	ID=cds:D918_03135;Parent=transcript:D918_03135
 T_suis-1.0_Cont6	WormBase_imported	CDS	1529213	1529704	.	+	0	ID=cds:D918_03135;Parent=transcript:D918_03135
+T_suis-1.0_Cont9	WormBase_imported	gene	46882	49840	.	+	.	ID=gene:D918_03880;Name=D918_03880;biotype=protein_coding
+T_suis-1.0_Cont9	WormBase_imported	mRNA	46882	49840	.	+	.	ID=transcript:D918_03880;Parent=gene:D918_03880;Name=D918_03880
+#microexons transcript:D918_03880:  67 94 54-66-69-45 70
+T_suis-1.0_Cont9	WormBase_imported	exon	46882	46948	.	+	.	ID=exon:D918_03880.1;Parent=transcript:D918_03880
+T_suis-1.0_Cont9	WormBase_imported	exon	47907	48000	.	+	.	ID=exon:D918_03880.2;Parent=transcript:D918_03880
+T_suis-1.0_Cont9	WormBase_imported	exon	48965	49018	.	+	.	ID=exon:D918_03880.3;Parent=transcript:D918_03880
+T_suis-1.0_Cont9	WormBase_imported	exon	49070	49135	.	+	.	ID=exon:D918_03880.4;Parent=transcript:D918_03880
+T_suis-1.0_Cont9	WormBase_imported	exon	49209	49277	.	+	.	ID=exon:D918_03880.5;Parent=transcript:D918_03880
+T_suis-1.0_Cont9	WormBase_imported	exon	49675	49719	.	+	.	ID=exon:D918_03880.6;Parent=transcript:D918_03880
+T_suis-1.0_Cont9	WormBase_imported	exon	49771	49840	.	+	.	ID=exon:D918_03880.7;Parent=transcript:D918_03880
+T_suis-1.0_Cont9	WormBase_imported	CDS	46882	46948	.	+	0	ID=cds:D918_03880;Parent=transcript:D918_03880
+T_suis-1.0_Cont9	WormBase_imported	CDS	47907	48000	.	+	2	ID=cds:D918_03880;Parent=transcript:D918_03880
+T_suis-1.0_Cont9	WormBase_imported	CDS	48965	49018	.	+	1	ID=cds:D918_03880;Parent=transcript:D918_03880
+T_suis-1.0_Cont9	WormBase_imported	CDS	49070	49135	.	+	1	ID=cds:D918_03880;Parent=transcript:D918_03880
+T_suis-1.0_Cont9	WormBase_imported	CDS	49209	49277	.	+	1	ID=cds:D918_03880;Parent=transcript:D918_03880
+T_suis-1.0_Cont9	WormBase_imported	CDS	49675	49719	.	+	1	ID=cds:D918_03880;Parent=transcript:D918_03880
+T_suis-1.0_Cont9	WormBase_imported	CDS	49771	49840	.	+	1	ID=cds:D918_03880;Parent=transcript:D918_03880
 T_suis-1.0_Cont13	WormBase_imported	gene	171839	187764	.	+	.	ID=gene:D918_04934;Name=D918_04934;biotype=protein_coding
 T_suis-1.0_Cont13	WormBase_imported	mRNA	171839	187764	.	+	.	ID=transcript:D918_04934;Parent=gene:D918_04934;Name=D918_04934
 #microexons transcript:D918_04934:  48-39-39-42-36-45-39-42 130 89 39-39-39-42-42-150

@@ -1,0 +1,17 @@
+nOo.2.0.Scaf03473	WormBase_imported	gene	336	2669	.	-	.	ID=gene:nOo.2.0.1.g08375;Name=nOo.2.0.1.g08375;biotype=protein_coding
+nOo.2.0.Scaf03473	WormBase_imported	mRNA	336	2669	.	-	.	ID=transcript:nOo.2.0.1.t08375-RA;Parent=gene:nOo.2.0.1.g08375;Name=nOo.2.0.1.t08375-RA;info=method:InterPro accession:IPR000719 description:Protein kinase domain %0Amethod:InterPro accession:IPR008271 description:Serine/threonine-protein kinase%2C active site %0Amethod:InterPro accession:IPR011009 description:Protein kinase-like domain superfamily %0Amethod:InterPro accession:IPR017441 description:Protein kinase%2C ATP binding site
+#microexons transcript:nOo.2.0.1.t08375-RA:  12-66-57-45-198 164 195
+nOo.2.0.Scaf03473	WormBase_imported	exon	2658	2669	.	-	.	ID=exon:nOo.2.0.1.t08375-RA.1;Parent=transcript:nOo.2.0.1.t08375-RA
+nOo.2.0.Scaf03473	WormBase_imported	exon	2299	2364	.	-	.	ID=exon:nOo.2.0.1.t08375-RA.2;Parent=transcript:nOo.2.0.1.t08375-RA
+nOo.2.0.Scaf03473	WormBase_imported	exon	2060	2116	.	-	.	ID=exon:nOo.2.0.1.t08375-RA.3;Parent=transcript:nOo.2.0.1.t08375-RA
+nOo.2.0.Scaf03473	WormBase_imported	exon	1795	1839	.	-	.	ID=exon:nOo.2.0.1.t08375-RA.4;Parent=transcript:nOo.2.0.1.t08375-RA
+nOo.2.0.Scaf03473	WormBase_imported	exon	1273	1470	.	-	.	ID=exon:nOo.2.0.1.t08375-RA.5;Parent=transcript:nOo.2.0.1.t08375-RA
+nOo.2.0.Scaf03473	WormBase_imported	exon	997	1160	.	-	.	ID=exon:nOo.2.0.1.t08375-RA.6;Parent=transcript:nOo.2.0.1.t08375-RA
+nOo.2.0.Scaf03473	WormBase_imported	exon	336	530	.	-	.	ID=exon:nOo.2.0.1.t08375-RA.7;Parent=transcript:nOo.2.0.1.t08375-RA
+nOo.2.0.Scaf03473	WormBase_imported	CDS	2658	2669	.	-	0	ID=cds:nOo.2.0.1.t08375-RA;Parent=transcript:nOo.2.0.1.t08375-RA
+nOo.2.0.Scaf03473	WormBase_imported	CDS	2299	2364	.	-	0	ID=cds:nOo.2.0.1.t08375-RA;Parent=transcript:nOo.2.0.1.t08375-RA
+nOo.2.0.Scaf03473	WormBase_imported	CDS	2060	2116	.	-	0	ID=cds:nOo.2.0.1.t08375-RA;Parent=transcript:nOo.2.0.1.t08375-RA
+nOo.2.0.Scaf03473	WormBase_imported	CDS	1795	1839	.	-	0	ID=cds:nOo.2.0.1.t08375-RA;Parent=transcript:nOo.2.0.1.t08375-RA
+nOo.2.0.Scaf03473	WormBase_imported	CDS	1273	1470	.	-	0	ID=cds:nOo.2.0.1.t08375-RA;Parent=transcript:nOo.2.0.1.t08375-RA
+nOo.2.0.Scaf03473	WormBase_imported	CDS	997	1160	.	-	0	ID=cds:nOo.2.0.1.t08375-RA;Parent=transcript:nOo.2.0.1.t08375-RA
+nOo.2.0.Scaf03473	WormBase_imported	CDS	336	530	.	-	1	ID=cds:nOo.2.0.1.t08375-RA;Parent=transcript:nOo.2.0.1.t08375-RA

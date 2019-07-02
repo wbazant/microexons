@@ -1,0 +1,19 @@
+WBA_contig0006595	WormBase_imported	gene	388	2217	.	+	.	ID=gene:WBA_0001118401;Name=WBA_0001118401;biotype=protein_coding
+WBA_contig0006595	WormBase_imported	mRNA	388	2217	.	+	.	ID=transcript:WBA_0001118401-mRNA-1;Parent=gene:WBA_0001118401;Name=WBA_0001118401-mRNA-1;info=method:InterPro accession:IPR000684 description:RNA polymerase II%2C heptapeptide repeat%2C eukaryotic
+#microexons transcript:WBA_0001118401-mRNA-1:  106 189 107 60-63-57-63-60
+WBA_contig0006595	WormBase_imported	exon	388	493	.	+	.	ID=exon:WBA_0001118401-mRNA-1.1;Parent=transcript:WBA_0001118401-mRNA-1
+WBA_contig0006595	WormBase_imported	exon	598	786	.	+	.	ID=exon:WBA_0001118401-mRNA-1.2;Parent=transcript:WBA_0001118401-mRNA-1
+WBA_contig0006595	WormBase_imported	exon	959	1065	.	+	.	ID=exon:WBA_0001118401-mRNA-1.3;Parent=transcript:WBA_0001118401-mRNA-1
+WBA_contig0006595	WormBase_imported	exon	1184	1243	.	+	.	ID=exon:WBA_0001118401-mRNA-1.4;Parent=transcript:WBA_0001118401-mRNA-1
+WBA_contig0006595	WormBase_imported	exon	1381	1443	.	+	.	ID=exon:WBA_0001118401-mRNA-1.5;Parent=transcript:WBA_0001118401-mRNA-1
+WBA_contig0006595	WormBase_imported	exon	1597	1653	.	+	.	ID=exon:WBA_0001118401-mRNA-1.6;Parent=transcript:WBA_0001118401-mRNA-1
+WBA_contig0006595	WormBase_imported	exon	1756	1818	.	+	.	ID=exon:WBA_0001118401-mRNA-1.7;Parent=transcript:WBA_0001118401-mRNA-1
+WBA_contig0006595	WormBase_imported	exon	2158	2217	.	+	.	ID=exon:WBA_0001118401-mRNA-1.8;Parent=transcript:WBA_0001118401-mRNA-1
+WBA_contig0006595	WormBase_imported	CDS	388	493	.	+	0	ID=cds:WBA_0001118401-mRNA-1;Parent=transcript:WBA_0001118401-mRNA-1
+WBA_contig0006595	WormBase_imported	CDS	598	786	.	+	2	ID=cds:WBA_0001118401-mRNA-1;Parent=transcript:WBA_0001118401-mRNA-1
+WBA_contig0006595	WormBase_imported	CDS	959	1065	.	+	2	ID=cds:WBA_0001118401-mRNA-1;Parent=transcript:WBA_0001118401-mRNA-1
+WBA_contig0006595	WormBase_imported	CDS	1184	1243	.	+	0	ID=cds:WBA_0001118401-mRNA-1;Parent=transcript:WBA_0001118401-mRNA-1
+WBA_contig0006595	WormBase_imported	CDS	1381	1443	.	+	0	ID=cds:WBA_0001118401-mRNA-1;Parent=transcript:WBA_0001118401-mRNA-1
+WBA_contig0006595	WormBase_imported	CDS	1597	1653	.	+	0	ID=cds:WBA_0001118401-mRNA-1;Parent=transcript:WBA_0001118401-mRNA-1
+WBA_contig0006595	WormBase_imported	CDS	1756	1818	.	+	0	ID=cds:WBA_0001118401-mRNA-1;Parent=transcript:WBA_0001118401-mRNA-1
+WBA_contig0006595	WormBase_imported	CDS	2158	2217	.	+	0	ID=cds:WBA_0001118401-mRNA-1;Parent=transcript:WBA_0001118401-mRNA-1

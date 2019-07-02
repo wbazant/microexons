@@ -58,6 +58,31 @@ scf7180006948709	WormBase_imported	CDS	9723	9746	.	-	0	ID=cds:snap_masked-scf718
 scf7180006948709	WormBase_imported	CDS	9320	9340	.	-	0	ID=cds:snap_masked-scf7180006948709-processed-gene-0.20-mRNA-1;Parent=transcript:snap_masked-scf7180006948709-processed-gene-0.20-mRNA-1
 scf7180006948709	WormBase_imported	CDS	9225	9251	.	-	0	ID=cds:snap_masked-scf7180006948709-processed-gene-0.20-mRNA-1;Parent=transcript:snap_masked-scf7180006948709-processed-gene-0.20-mRNA-1
 scf7180006948709	WormBase_imported	CDS	8063	8125	.	-	0	ID=cds:snap_masked-scf7180006948709-processed-gene-0.20-mRNA-1;Parent=transcript:snap_masked-scf7180006948709-processed-gene-0.20-mRNA-1
+scf7180006952542	WormBase_imported	gene	40713	42900	.	+	.	ID=gene:snap_masked-scf7180006952542-processed-gene-0.7;Name=snap_masked-scf7180006952542-processed-gene-0.7;biotype=protein_coding
+scf7180006952542	WormBase_imported	mRNA	40713	42900	.	+	.	ID=transcript:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1;Parent=gene:snap_masked-scf7180006952542-processed-gene-0.7;Name=snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1
+#microexons transcript:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1:  13 75-75-69-51-63-63-27-51-6 32
+scf7180006952542	WormBase_imported	exon	40713	40725	.	+	.	ID=exon:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1.1;Parent=transcript:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1
+scf7180006952542	WormBase_imported	exon	41126	41200	.	+	.	ID=exon:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1.2;Parent=transcript:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1
+scf7180006952542	WormBase_imported	exon	41321	41395	.	+	.	ID=exon:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1.3;Parent=transcript:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1
+scf7180006952542	WormBase_imported	exon	41451	41519	.	+	.	ID=exon:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1.4;Parent=transcript:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1
+scf7180006952542	WormBase_imported	exon	41666	41716	.	+	.	ID=exon:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1.5;Parent=transcript:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1
+scf7180006952542	WormBase_imported	exon	41776	41838	.	+	.	ID=exon:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1.6;Parent=transcript:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1
+scf7180006952542	WormBase_imported	exon	41874	41936	.	+	.	ID=exon:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1.7;Parent=transcript:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1
+scf7180006952542	WormBase_imported	exon	42615	42641	.	+	.	ID=exon:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1.8;Parent=transcript:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1
+scf7180006952542	WormBase_imported	exon	42698	42748	.	+	.	ID=exon:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1.9;Parent=transcript:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1
+scf7180006952542	WormBase_imported	exon	42805	42810	.	+	.	ID=exon:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1.10;Parent=transcript:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1
+scf7180006952542	WormBase_imported	exon	42869	42900	.	+	.	ID=exon:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1.11;Parent=transcript:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1
+scf7180006952542	WormBase_imported	CDS	40713	40725	.	+	0	ID=cds:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1;Parent=transcript:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1
+scf7180006952542	WormBase_imported	CDS	41126	41200	.	+	2	ID=cds:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1;Parent=transcript:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1
+scf7180006952542	WormBase_imported	CDS	41321	41395	.	+	2	ID=cds:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1;Parent=transcript:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1
+scf7180006952542	WormBase_imported	CDS	41451	41519	.	+	2	ID=cds:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1;Parent=transcript:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1
+scf7180006952542	WormBase_imported	CDS	41666	41716	.	+	2	ID=cds:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1;Parent=transcript:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1
+scf7180006952542	WormBase_imported	CDS	41776	41838	.	+	2	ID=cds:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1;Parent=transcript:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1
+scf7180006952542	WormBase_imported	CDS	41874	41936	.	+	2	ID=cds:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1;Parent=transcript:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1
+scf7180006952542	WormBase_imported	CDS	42615	42641	.	+	2	ID=cds:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1;Parent=transcript:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1
+scf7180006952542	WormBase_imported	CDS	42698	42748	.	+	2	ID=cds:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1;Parent=transcript:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1
+scf7180006952542	WormBase_imported	CDS	42805	42810	.	+	2	ID=cds:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1;Parent=transcript:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1
+scf7180006952542	WormBase_imported	CDS	42869	42900	.	+	2	ID=cds:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1;Parent=transcript:snap_masked-scf7180006952542-processed-gene-0.7-mRNA-1
 scf7180006949376	WormBase_imported	gene	26133	31614	.	-	.	ID=gene:snap_masked-scf7180006949376-processed-gene-0.11;Name=snap_masked-scf7180006949376-processed-gene-0.11;biotype=protein_coding
 scf7180006949376	WormBase_imported	mRNA	26133	31614	.	-	.	ID=transcript:snap_masked-scf7180006949376-processed-gene-0.11-mRNA-1;Parent=gene:snap_masked-scf7180006949376-processed-gene-0.11;Name=snap_masked-scf7180006949376-processed-gene-0.11-mRNA-1
 #microexons transcript:snap_masked-scf7180006949376-processed-gene-0.11-mRNA-1:  56 27 19 15-18-15-18-9 7 20 15-15 23 167 12-24-36-6-27 170
@@ -884,6 +909,26 @@ scf7180006950896	WormBase_imported	CDS	2651	2707	.	+	1	ID=cds:snap_masked-scf718
 scf7180006950896	WormBase_imported	CDS	2986	3039	.	+	1	ID=cds:snap_masked-scf7180006950896-processed-gene-0.10-mRNA-1;Parent=transcript:snap_masked-scf7180006950896-processed-gene-0.10-mRNA-1
 scf7180006950896	WormBase_imported	CDS	3095	3878	.	+	1	ID=cds:snap_masked-scf7180006950896-processed-gene-0.10-mRNA-1;Parent=transcript:snap_masked-scf7180006950896-processed-gene-0.10-mRNA-1
 scf7180006950896	WormBase_imported	CDS	3999	4022	.	+	0	ID=cds:snap_masked-scf7180006950896-processed-gene-0.10-mRNA-1;Parent=transcript:snap_masked-scf7180006950896-processed-gene-0.10-mRNA-1
+scf7180006953070	WormBase_imported	gene	598	4287	.	+	.	ID=gene:snap_masked-scf7180006953070-processed-gene-0.7;Name=snap_masked-scf7180006953070-processed-gene-0.7;biotype=protein_coding
+scf7180006953070	WormBase_imported	mRNA	598	4287	.	+	.	ID=transcript:snap_masked-scf7180006953070-processed-gene-0.7-mRNA-1;Parent=gene:snap_masked-scf7180006953070-processed-gene-0.7;Name=snap_masked-scf7180006953070-processed-gene-0.7-mRNA-1
+#microexons transcript:snap_masked-scf7180006953070-processed-gene-0.7-mRNA-1:  182 45-36-63-63-159 146 9
+scf7180006953070	WormBase_imported	exon	598	779	.	+	.	ID=exon:snap_masked-scf7180006953070-processed-gene-0.7-mRNA-1.1;Parent=transcript:snap_masked-scf7180006953070-processed-gene-0.7-mRNA-1
+scf7180006953070	WormBase_imported	exon	1335	1379	.	+	.	ID=exon:snap_masked-scf7180006953070-processed-gene-0.7-mRNA-1.2;Parent=transcript:snap_masked-scf7180006953070-processed-gene-0.7-mRNA-1
+scf7180006953070	WormBase_imported	exon	1768	1803	.	+	.	ID=exon:snap_masked-scf7180006953070-processed-gene-0.7-mRNA-1.3;Parent=transcript:snap_masked-scf7180006953070-processed-gene-0.7-mRNA-1
+scf7180006953070	WormBase_imported	exon	1865	1927	.	+	.	ID=exon:snap_masked-scf7180006953070-processed-gene-0.7-mRNA-1.4;Parent=transcript:snap_masked-scf7180006953070-processed-gene-0.7-mRNA-1
+scf7180006953070	WormBase_imported	exon	2001	2063	.	+	.	ID=exon:snap_masked-scf7180006953070-processed-gene-0.7-mRNA-1.5;Parent=transcript:snap_masked-scf7180006953070-processed-gene-0.7-mRNA-1
+scf7180006953070	WormBase_imported	exon	2307	2465	.	+	.	ID=exon:snap_masked-scf7180006953070-processed-gene-0.7-mRNA-1.6;Parent=transcript:snap_masked-scf7180006953070-processed-gene-0.7-mRNA-1
+scf7180006953070	WormBase_imported	exon	2915	3060	.	+	.	ID=exon:snap_masked-scf7180006953070-processed-gene-0.7-mRNA-1.7;Parent=transcript:snap_masked-scf7180006953070-processed-gene-0.7-mRNA-1
+scf7180006953070	WormBase_imported	exon	4279	4287	.	+	.	ID=exon:snap_masked-scf7180006953070-processed-gene-0.7-mRNA-1.8;Parent=transcript:snap_masked-scf7180006953070-processed-gene-0.7-mRNA-1
+scf7180006953070	WormBase_imported	five_prime_UTR	598	619	.	+	.	Parent=transcript:snap_masked-scf7180006953070-processed-gene-0.7-mRNA-1
+scf7180006953070	WormBase_imported	CDS	620	779	.	+	0	ID=cds:snap_masked-scf7180006953070-processed-gene-0.7-mRNA-1;Parent=transcript:snap_masked-scf7180006953070-processed-gene-0.7-mRNA-1
+scf7180006953070	WormBase_imported	CDS	1335	1379	.	+	2	ID=cds:snap_masked-scf7180006953070-processed-gene-0.7-mRNA-1;Parent=transcript:snap_masked-scf7180006953070-processed-gene-0.7-mRNA-1
+scf7180006953070	WormBase_imported	CDS	1768	1803	.	+	2	ID=cds:snap_masked-scf7180006953070-processed-gene-0.7-mRNA-1;Parent=transcript:snap_masked-scf7180006953070-processed-gene-0.7-mRNA-1
+scf7180006953070	WormBase_imported	CDS	1865	1927	.	+	2	ID=cds:snap_masked-scf7180006953070-processed-gene-0.7-mRNA-1;Parent=transcript:snap_masked-scf7180006953070-processed-gene-0.7-mRNA-1
+scf7180006953070	WormBase_imported	CDS	2001	2063	.	+	2	ID=cds:snap_masked-scf7180006953070-processed-gene-0.7-mRNA-1;Parent=transcript:snap_masked-scf7180006953070-processed-gene-0.7-mRNA-1
+scf7180006953070	WormBase_imported	CDS	2307	2465	.	+	2	ID=cds:snap_masked-scf7180006953070-processed-gene-0.7-mRNA-1;Parent=transcript:snap_masked-scf7180006953070-processed-gene-0.7-mRNA-1
+scf7180006953070	WormBase_imported	CDS	2915	3060	.	+	2	ID=cds:snap_masked-scf7180006953070-processed-gene-0.7-mRNA-1;Parent=transcript:snap_masked-scf7180006953070-processed-gene-0.7-mRNA-1
+scf7180006953070	WormBase_imported	CDS	4279	4287	.	+	0	ID=cds:snap_masked-scf7180006953070-processed-gene-0.7-mRNA-1;Parent=transcript:snap_masked-scf7180006953070-processed-gene-0.7-mRNA-1
 scf7180006950926	WormBase_imported	gene	32	14003	.	-	.	ID=gene:snap_masked-scf7180006950926-processed-gene-0.6;Name=snap_masked-scf7180006950926-processed-gene-0.6;biotype=protein_coding
 scf7180006950926	WormBase_imported	mRNA	32	14003	.	-	.	ID=transcript:snap_masked-scf7180006950926-processed-gene-0.6-mRNA-1;Parent=gene:snap_masked-scf7180006950926-processed-gene-0.6;Name=snap_masked-scf7180006950926-processed-gene-0.6-mRNA-1
 #microexons transcript:snap_masked-scf7180006950926-processed-gene-0.6-mRNA-1:  10 56 21-9-9-27-84-15-9-30-198-45-45-54-54-54-69-42-45
@@ -2023,6 +2068,27 @@ scf7180006947377	WormBase_imported	CDS	10156	10167	.	+	0	ID=cds:snap_masked-scf7
 scf7180006947377	WormBase_imported	CDS	11394	11408	.	+	0	ID=cds:snap_masked-scf7180006947377-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006947377-processed-gene-0.1-mRNA-1
 scf7180006947377	WormBase_imported	CDS	11524	11547	.	+	0	ID=cds:snap_masked-scf7180006947377-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006947377-processed-gene-0.1-mRNA-1
 scf7180006947377	WormBase_imported	CDS	11766	11783	.	+	0	ID=cds:snap_masked-scf7180006947377-processed-gene-0.1-mRNA-1;Parent=transcript:snap_masked-scf7180006947377-processed-gene-0.1-mRNA-1
+scf7180006953436	WormBase_imported	gene	7080	11354	.	-	.	ID=gene:snap_masked-scf7180006953436-processed-gene-0.5;Name=snap_masked-scf7180006953436-processed-gene-0.5;biotype=protein_coding
+scf7180006953436	WormBase_imported	mRNA	7080	11354	.	-	.	ID=transcript:snap_masked-scf7180006953436-processed-gene-0.5-mRNA-1;Parent=gene:snap_masked-scf7180006953436-processed-gene-0.5;Name=snap_masked-scf7180006953436-processed-gene-0.5-mRNA-1;info=method:InterPro accession:IPR006629 description:LPS-induced tumour necrosis factor alpha factor %0Amethod:InterPro accession:IPR037519 description:LITAF domain containing protein
+#microexons transcript:snap_masked-scf7180006953436-processed-gene-0.5-mRNA-1:  7 6-24-36-54 142 79 60-243
+scf7180006953436	WormBase_imported	exon	11348	11354	.	-	.	ID=exon:snap_masked-scf7180006953436-processed-gene-0.5-mRNA-1.1;Parent=transcript:snap_masked-scf7180006953436-processed-gene-0.5-mRNA-1
+scf7180006953436	WormBase_imported	exon	11238	11243	.	-	.	ID=exon:snap_masked-scf7180006953436-processed-gene-0.5-mRNA-1.2;Parent=transcript:snap_masked-scf7180006953436-processed-gene-0.5-mRNA-1
+scf7180006953436	WormBase_imported	exon	10651	10674	.	-	.	ID=exon:snap_masked-scf7180006953436-processed-gene-0.5-mRNA-1.3;Parent=transcript:snap_masked-scf7180006953436-processed-gene-0.5-mRNA-1
+scf7180006953436	WormBase_imported	exon	10001	10036	.	-	.	ID=exon:snap_masked-scf7180006953436-processed-gene-0.5-mRNA-1.4;Parent=transcript:snap_masked-scf7180006953436-processed-gene-0.5-mRNA-1
+scf7180006953436	WormBase_imported	exon	9729	9782	.	-	.	ID=exon:snap_masked-scf7180006953436-processed-gene-0.5-mRNA-1.5;Parent=transcript:snap_masked-scf7180006953436-processed-gene-0.5-mRNA-1
+scf7180006953436	WormBase_imported	exon	8026	8167	.	-	.	ID=exon:snap_masked-scf7180006953436-processed-gene-0.5-mRNA-1.6;Parent=transcript:snap_masked-scf7180006953436-processed-gene-0.5-mRNA-1
+scf7180006953436	WormBase_imported	exon	7774	7852	.	-	.	ID=exon:snap_masked-scf7180006953436-processed-gene-0.5-mRNA-1.7;Parent=transcript:snap_masked-scf7180006953436-processed-gene-0.5-mRNA-1
+scf7180006953436	WormBase_imported	exon	7353	7412	.	-	.	ID=exon:snap_masked-scf7180006953436-processed-gene-0.5-mRNA-1.8;Parent=transcript:snap_masked-scf7180006953436-processed-gene-0.5-mRNA-1
+scf7180006953436	WormBase_imported	exon	7080	7322	.	-	.	ID=exon:snap_masked-scf7180006953436-processed-gene-0.5-mRNA-1.9;Parent=transcript:snap_masked-scf7180006953436-processed-gene-0.5-mRNA-1
+scf7180006953436	WormBase_imported	CDS	11348	11354	.	-	0	ID=cds:snap_masked-scf7180006953436-processed-gene-0.5-mRNA-1;Parent=transcript:snap_masked-scf7180006953436-processed-gene-0.5-mRNA-1
+scf7180006953436	WormBase_imported	CDS	11238	11243	.	-	2	ID=cds:snap_masked-scf7180006953436-processed-gene-0.5-mRNA-1;Parent=transcript:snap_masked-scf7180006953436-processed-gene-0.5-mRNA-1
+scf7180006953436	WormBase_imported	CDS	10651	10674	.	-	2	ID=cds:snap_masked-scf7180006953436-processed-gene-0.5-mRNA-1;Parent=transcript:snap_masked-scf7180006953436-processed-gene-0.5-mRNA-1
+scf7180006953436	WormBase_imported	CDS	10001	10036	.	-	2	ID=cds:snap_masked-scf7180006953436-processed-gene-0.5-mRNA-1;Parent=transcript:snap_masked-scf7180006953436-processed-gene-0.5-mRNA-1
+scf7180006953436	WormBase_imported	CDS	9729	9782	.	-	2	ID=cds:snap_masked-scf7180006953436-processed-gene-0.5-mRNA-1;Parent=transcript:snap_masked-scf7180006953436-processed-gene-0.5-mRNA-1
+scf7180006953436	WormBase_imported	CDS	8026	8167	.	-	2	ID=cds:snap_masked-scf7180006953436-processed-gene-0.5-mRNA-1;Parent=transcript:snap_masked-scf7180006953436-processed-gene-0.5-mRNA-1
+scf7180006953436	WormBase_imported	CDS	7774	7852	.	-	1	ID=cds:snap_masked-scf7180006953436-processed-gene-0.5-mRNA-1;Parent=transcript:snap_masked-scf7180006953436-processed-gene-0.5-mRNA-1
+scf7180006953436	WormBase_imported	CDS	7353	7412	.	-	0	ID=cds:snap_masked-scf7180006953436-processed-gene-0.5-mRNA-1;Parent=transcript:snap_masked-scf7180006953436-processed-gene-0.5-mRNA-1
+scf7180006953436	WormBase_imported	CDS	7080	7322	.	-	0	ID=cds:snap_masked-scf7180006953436-processed-gene-0.5-mRNA-1;Parent=transcript:snap_masked-scf7180006953436-processed-gene-0.5-mRNA-1
 scf7180006953025	WormBase_imported	gene	3016	8425	.	+	.	ID=gene:genemark-scf7180006953025-processed-gene-0.1;Name=genemark-scf7180006953025-processed-gene-0.1;biotype=protein_coding
 scf7180006953025	WormBase_imported	mRNA	3016	8425	.	+	.	ID=transcript:genemark-scf7180006953025-processed-gene-0.1-mRNA-1;Parent=gene:genemark-scf7180006953025-processed-gene-0.1;Name=genemark-scf7180006953025-processed-gene-0.1-mRNA-1;info=method:InterPro accession:IPR001752 description:Kinesin motor domain %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase %0Amethod:InterPro accession:IPR027640 description:Kinesin-like protein %0Amethod:InterPro accession:IPR036961 description:Kinesin motor domain superfamily
 #microexons transcript:genemark-scf7180006953025-processed-gene-0.1-mRNA-1:  435-195 596 192-57-144 142 45-42-42-36-39-9
@@ -2052,6 +2118,50 @@ scf7180006953025	WormBase_imported	CDS	8027	8068	.	+	0	ID=cds:genemark-scf718000
 scf7180006953025	WormBase_imported	CDS	8129	8164	.	+	0	ID=cds:genemark-scf7180006953025-processed-gene-0.1-mRNA-1;Parent=transcript:genemark-scf7180006953025-processed-gene-0.1-mRNA-1
 scf7180006953025	WormBase_imported	CDS	8232	8270	.	+	0	ID=cds:genemark-scf7180006953025-processed-gene-0.1-mRNA-1;Parent=transcript:genemark-scf7180006953025-processed-gene-0.1-mRNA-1
 scf7180006953025	WormBase_imported	CDS	8417	8425	.	+	0	ID=cds:genemark-scf7180006953025-processed-gene-0.1-mRNA-1;Parent=transcript:genemark-scf7180006953025-processed-gene-0.1-mRNA-1
+scf7180006951430	WormBase_imported	gene	4981	11292	.	+	.	ID=gene:snap_masked-scf7180006951430-processed-gene-0.5;Name=snap_masked-scf7180006951430-processed-gene-0.5;biotype=protein_coding
+scf7180006951430	WormBase_imported	mRNA	4981	11292	.	+	.	ID=transcript:snap_masked-scf7180006951430-processed-gene-0.5-mRNA-1;Parent=gene:snap_masked-scf7180006951430-processed-gene-0.5;Name=snap_masked-scf7180006951430-processed-gene-0.5-mRNA-1
+#microexons transcript:snap_masked-scf7180006951430-processed-gene-0.5-mRNA-1:  62 31 60-69-21-9 133 233
+scf7180006951430	WormBase_imported	exon	4981	5042	.	+	.	ID=exon:snap_masked-scf7180006951430-processed-gene-0.5-mRNA-1.1;Parent=transcript:snap_masked-scf7180006951430-processed-gene-0.5-mRNA-1
+scf7180006951430	WormBase_imported	exon	5107	5137	.	+	.	ID=exon:snap_masked-scf7180006951430-processed-gene-0.5-mRNA-1.2;Parent=transcript:snap_masked-scf7180006951430-processed-gene-0.5-mRNA-1
+scf7180006951430	WormBase_imported	exon	6368	6427	.	+	.	ID=exon:snap_masked-scf7180006951430-processed-gene-0.5-mRNA-1.3;Parent=transcript:snap_masked-scf7180006951430-processed-gene-0.5-mRNA-1
+scf7180006951430	WormBase_imported	exon	8498	8566	.	+	.	ID=exon:snap_masked-scf7180006951430-processed-gene-0.5-mRNA-1.4;Parent=transcript:snap_masked-scf7180006951430-processed-gene-0.5-mRNA-1
+scf7180006951430	WormBase_imported	exon	9247	9267	.	+	.	ID=exon:snap_masked-scf7180006951430-processed-gene-0.5-mRNA-1.5;Parent=transcript:snap_masked-scf7180006951430-processed-gene-0.5-mRNA-1
+scf7180006951430	WormBase_imported	exon	9497	9505	.	+	.	ID=exon:snap_masked-scf7180006951430-processed-gene-0.5-mRNA-1.6;Parent=transcript:snap_masked-scf7180006951430-processed-gene-0.5-mRNA-1
+scf7180006951430	WormBase_imported	exon	10889	11021	.	+	.	ID=exon:snap_masked-scf7180006951430-processed-gene-0.5-mRNA-1.7;Parent=transcript:snap_masked-scf7180006951430-processed-gene-0.5-mRNA-1
+scf7180006951430	WormBase_imported	exon	11060	11292	.	+	.	ID=exon:snap_masked-scf7180006951430-processed-gene-0.5-mRNA-1.8;Parent=transcript:snap_masked-scf7180006951430-processed-gene-0.5-mRNA-1
+scf7180006951430	WormBase_imported	CDS	4981	5042	.	+	0	ID=cds:snap_masked-scf7180006951430-processed-gene-0.5-mRNA-1;Parent=transcript:snap_masked-scf7180006951430-processed-gene-0.5-mRNA-1
+scf7180006951430	WormBase_imported	CDS	5107	5137	.	+	1	ID=cds:snap_masked-scf7180006951430-processed-gene-0.5-mRNA-1;Parent=transcript:snap_masked-scf7180006951430-processed-gene-0.5-mRNA-1
+scf7180006951430	WormBase_imported	CDS	6368	6427	.	+	0	ID=cds:snap_masked-scf7180006951430-processed-gene-0.5-mRNA-1;Parent=transcript:snap_masked-scf7180006951430-processed-gene-0.5-mRNA-1
+scf7180006951430	WormBase_imported	CDS	8498	8566	.	+	0	ID=cds:snap_masked-scf7180006951430-processed-gene-0.5-mRNA-1;Parent=transcript:snap_masked-scf7180006951430-processed-gene-0.5-mRNA-1
+scf7180006951430	WormBase_imported	CDS	9247	9267	.	+	0	ID=cds:snap_masked-scf7180006951430-processed-gene-0.5-mRNA-1;Parent=transcript:snap_masked-scf7180006951430-processed-gene-0.5-mRNA-1
+scf7180006951430	WormBase_imported	CDS	9497	9505	.	+	0	ID=cds:snap_masked-scf7180006951430-processed-gene-0.5-mRNA-1;Parent=transcript:snap_masked-scf7180006951430-processed-gene-0.5-mRNA-1
+scf7180006951430	WormBase_imported	CDS	10889	11021	.	+	0	ID=cds:snap_masked-scf7180006951430-processed-gene-0.5-mRNA-1;Parent=transcript:snap_masked-scf7180006951430-processed-gene-0.5-mRNA-1
+scf7180006951430	WormBase_imported	CDS	11060	11292	.	+	2	ID=cds:snap_masked-scf7180006951430-processed-gene-0.5-mRNA-1;Parent=transcript:snap_masked-scf7180006951430-processed-gene-0.5-mRNA-1
+scf7180006952289	WormBase_imported	gene	7090	10854	.	-	.	ID=gene:snap_masked-scf7180006952289-processed-gene-0.4;Name=snap_masked-scf7180006952289-processed-gene-0.4;biotype=protein_coding
+scf7180006952289	WormBase_imported	mRNA	7090	10854	.	-	.	ID=transcript:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1;Parent=gene:snap_masked-scf7180006952289-processed-gene-0.4;Name=snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1
+#microexons transcript:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1:  138 74 166 69-12-69-66-27-318-57-24
+scf7180006952289	WormBase_imported	exon	10717	10854	.	-	.	ID=exon:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1.1;Parent=transcript:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1
+scf7180006952289	WormBase_imported	exon	10231	10304	.	-	.	ID=exon:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1.2;Parent=transcript:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1
+scf7180006952289	WormBase_imported	exon	10040	10205	.	-	.	ID=exon:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1.3;Parent=transcript:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1
+scf7180006952289	WormBase_imported	exon	9600	9668	.	-	.	ID=exon:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1.4;Parent=transcript:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1
+scf7180006952289	WormBase_imported	exon	9452	9463	.	-	.	ID=exon:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1.5;Parent=transcript:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1
+scf7180006952289	WormBase_imported	exon	9297	9365	.	-	.	ID=exon:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1.6;Parent=transcript:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1
+scf7180006952289	WormBase_imported	exon	8576	8641	.	-	.	ID=exon:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1.7;Parent=transcript:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1
+scf7180006952289	WormBase_imported	exon	8455	8481	.	-	.	ID=exon:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1.8;Parent=transcript:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1
+scf7180006952289	WormBase_imported	exon	8102	8419	.	-	.	ID=exon:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1.9;Parent=transcript:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1
+scf7180006952289	WormBase_imported	exon	7949	8005	.	-	.	ID=exon:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1.10;Parent=transcript:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1
+scf7180006952289	WormBase_imported	exon	7090	7113	.	-	.	ID=exon:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1.11;Parent=transcript:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1
+scf7180006952289	WormBase_imported	CDS	10717	10854	.	-	0	ID=cds:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1;Parent=transcript:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1
+scf7180006952289	WormBase_imported	CDS	10231	10304	.	-	0	ID=cds:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1;Parent=transcript:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1
+scf7180006952289	WormBase_imported	CDS	10040	10205	.	-	1	ID=cds:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1;Parent=transcript:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1
+scf7180006952289	WormBase_imported	CDS	9600	9668	.	-	0	ID=cds:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1;Parent=transcript:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1
+scf7180006952289	WormBase_imported	CDS	9452	9463	.	-	0	ID=cds:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1;Parent=transcript:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1
+scf7180006952289	WormBase_imported	CDS	9297	9365	.	-	0	ID=cds:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1;Parent=transcript:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1
+scf7180006952289	WormBase_imported	CDS	8576	8641	.	-	0	ID=cds:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1;Parent=transcript:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1
+scf7180006952289	WormBase_imported	CDS	8455	8481	.	-	0	ID=cds:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1;Parent=transcript:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1
+scf7180006952289	WormBase_imported	CDS	8102	8419	.	-	0	ID=cds:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1;Parent=transcript:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1
+scf7180006952289	WormBase_imported	CDS	7949	8005	.	-	0	ID=cds:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1;Parent=transcript:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1
+scf7180006952289	WormBase_imported	CDS	7090	7113	.	-	0	ID=cds:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1;Parent=transcript:snap_masked-scf7180006952289-processed-gene-0.4-mRNA-1
 scf7180006949648	WormBase_imported	gene	1575	10224	.	+	.	ID=gene:snap_masked-scf7180006949648-processed-gene-0.1;Name=snap_masked-scf7180006949648-processed-gene-0.1;biotype=protein_coding
 scf7180006949648	WormBase_imported	mRNA	1575	10224	.	+	.	ID=transcript:snap_masked-scf7180006949648-processed-gene-0.1-mRNA-1;Parent=gene:snap_masked-scf7180006949648-processed-gene-0.1;Name=snap_masked-scf7180006949648-processed-gene-0.1-mRNA-1
 #microexons transcript:snap_masked-scf7180006949648-processed-gene-0.1-mRNA-1:  6-21-6-6-15-12-27 20 13 15-9-9-15-9-9-30-24-27-15-18-15 19 97 21 19

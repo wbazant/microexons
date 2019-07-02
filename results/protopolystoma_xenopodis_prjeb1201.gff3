@@ -1,3 +1,22 @@
+PXEA_scaffold0017998	WormBase_imported	gene	2304	3582	.	+	.	ID=gene:PXEA_0003408301;Name=PXEA_0003408301;biotype=protein_coding
+PXEA_scaffold0017998	WormBase_imported	mRNA	2304	3582	.	+	.	ID=transcript:PXEA_0003408301-mRNA-1;Parent=gene:PXEA_0003408301;Name=PXEA_0003408301-mRNA-1
+#microexons transcript:PXEA_0003408301-mRNA-1:  7 73 49 60-60-60-24-21
+PXEA_scaffold0017998	WormBase_imported	exon	2304	2310	.	+	.	ID=exon:PXEA_0003408301-mRNA-1.1;Parent=transcript:PXEA_0003408301-mRNA-1
+PXEA_scaffold0017998	WormBase_imported	exon	2484	2556	.	+	.	ID=exon:PXEA_0003408301-mRNA-1.2;Parent=transcript:PXEA_0003408301-mRNA-1
+PXEA_scaffold0017998	WormBase_imported	exon	2565	2613	.	+	.	ID=exon:PXEA_0003408301-mRNA-1.3;Parent=transcript:PXEA_0003408301-mRNA-1
+PXEA_scaffold0017998	WormBase_imported	exon	3076	3135	.	+	.	ID=exon:PXEA_0003408301-mRNA-1.4;Parent=transcript:PXEA_0003408301-mRNA-1
+PXEA_scaffold0017998	WormBase_imported	exon	3290	3349	.	+	.	ID=exon:PXEA_0003408301-mRNA-1.5;Parent=transcript:PXEA_0003408301-mRNA-1
+PXEA_scaffold0017998	WormBase_imported	exon	3364	3423	.	+	.	ID=exon:PXEA_0003408301-mRNA-1.6;Parent=transcript:PXEA_0003408301-mRNA-1
+PXEA_scaffold0017998	WormBase_imported	exon	3470	3493	.	+	.	ID=exon:PXEA_0003408301-mRNA-1.7;Parent=transcript:PXEA_0003408301-mRNA-1
+PXEA_scaffold0017998	WormBase_imported	exon	3562	3582	.	+	.	ID=exon:PXEA_0003408301-mRNA-1.8;Parent=transcript:PXEA_0003408301-mRNA-1
+PXEA_scaffold0017998	WormBase_imported	CDS	2304	2310	.	+	0	ID=cds:PXEA_0003408301-mRNA-1;Parent=transcript:PXEA_0003408301-mRNA-1
+PXEA_scaffold0017998	WormBase_imported	CDS	2484	2556	.	+	2	ID=cds:PXEA_0003408301-mRNA-1;Parent=transcript:PXEA_0003408301-mRNA-1
+PXEA_scaffold0017998	WormBase_imported	CDS	2565	2613	.	+	1	ID=cds:PXEA_0003408301-mRNA-1;Parent=transcript:PXEA_0003408301-mRNA-1
+PXEA_scaffold0017998	WormBase_imported	CDS	3076	3135	.	+	0	ID=cds:PXEA_0003408301-mRNA-1;Parent=transcript:PXEA_0003408301-mRNA-1
+PXEA_scaffold0017998	WormBase_imported	CDS	3290	3349	.	+	0	ID=cds:PXEA_0003408301-mRNA-1;Parent=transcript:PXEA_0003408301-mRNA-1
+PXEA_scaffold0017998	WormBase_imported	CDS	3364	3423	.	+	0	ID=cds:PXEA_0003408301-mRNA-1;Parent=transcript:PXEA_0003408301-mRNA-1
+PXEA_scaffold0017998	WormBase_imported	CDS	3470	3493	.	+	0	ID=cds:PXEA_0003408301-mRNA-1;Parent=transcript:PXEA_0003408301-mRNA-1
+PXEA_scaffold0017998	WormBase_imported	CDS	3562	3582	.	+	0	ID=cds:PXEA_0003408301-mRNA-1;Parent=transcript:PXEA_0003408301-mRNA-1
 PXEA_contig0096278	WormBase_imported	gene	78	1299	.	-	.	ID=gene:PXEA_0000782601;Name=PXEA_0000782601;biotype=protein_coding
 PXEA_contig0096278	WormBase_imported	mRNA	78	1299	.	-	.	ID=transcript:PXEA_0000782601-mRNA-1;Parent=gene:PXEA_0000782601;Name=PXEA_0000782601-mRNA-1;info=method:InterPro accession:IPR008942 description:ENTH/VHS %0Amethod:InterPro accession:IPR011417 description:AP180 N-terminal homology (ANTH) domain %0Amethod:InterPro accession:IPR013809 description:ENTH  domain %0Amethod:InterPro accession:IPR014712 description:Phosphoinositide-binding clathrin adaptor%2C domain 2
 #microexons transcript:PXEA_0000782601-mRNA-1:  143 76 103 40 57-39-42-24

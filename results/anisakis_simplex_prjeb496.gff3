@@ -1,3 +1,28 @@
+ASIM_scaffold0000320	WormBase_imported	gene	29600	33985	.	+	.	ID=gene:ASIM_0001356001;Name=ASIM_0001356001;biotype=protein_coding
+ASIM_scaffold0000320	WormBase_imported	mRNA	29600	33985	.	+	.	ID=transcript:ASIM_0001356001-mRNA-1;Parent=gene:ASIM_0001356001;Name=ASIM_0001356001-mRNA-1;info=method:InterPro accession:IPR008405 description:Apolipoprotein L
+#microexons transcript:ASIM_0001356001-mRNA-1:  21-132 118 122 54-96-51-54-63-57-267
+ASIM_scaffold0000320	WormBase_imported	exon	29600	29620	.	+	.	ID=exon:ASIM_0001356001-mRNA-1.1;Parent=transcript:ASIM_0001356001-mRNA-1
+ASIM_scaffold0000320	WormBase_imported	exon	30535	30666	.	+	.	ID=exon:ASIM_0001356001-mRNA-1.2;Parent=transcript:ASIM_0001356001-mRNA-1
+ASIM_scaffold0000320	WormBase_imported	exon	30893	31010	.	+	.	ID=exon:ASIM_0001356001-mRNA-1.3;Parent=transcript:ASIM_0001356001-mRNA-1
+ASIM_scaffold0000320	WormBase_imported	exon	31214	31335	.	+	.	ID=exon:ASIM_0001356001-mRNA-1.4;Parent=transcript:ASIM_0001356001-mRNA-1
+ASIM_scaffold0000320	WormBase_imported	exon	31831	31884	.	+	.	ID=exon:ASIM_0001356001-mRNA-1.5;Parent=transcript:ASIM_0001356001-mRNA-1
+ASIM_scaffold0000320	WormBase_imported	exon	32086	32181	.	+	.	ID=exon:ASIM_0001356001-mRNA-1.6;Parent=transcript:ASIM_0001356001-mRNA-1
+ASIM_scaffold0000320	WormBase_imported	exon	32387	32437	.	+	.	ID=exon:ASIM_0001356001-mRNA-1.7;Parent=transcript:ASIM_0001356001-mRNA-1
+ASIM_scaffold0000320	WormBase_imported	exon	32773	32826	.	+	.	ID=exon:ASIM_0001356001-mRNA-1.8;Parent=transcript:ASIM_0001356001-mRNA-1
+ASIM_scaffold0000320	WormBase_imported	exon	33023	33085	.	+	.	ID=exon:ASIM_0001356001-mRNA-1.9;Parent=transcript:ASIM_0001356001-mRNA-1
+ASIM_scaffold0000320	WormBase_imported	exon	33445	33501	.	+	.	ID=exon:ASIM_0001356001-mRNA-1.10;Parent=transcript:ASIM_0001356001-mRNA-1
+ASIM_scaffold0000320	WormBase_imported	exon	33719	33985	.	+	.	ID=exon:ASIM_0001356001-mRNA-1.11;Parent=transcript:ASIM_0001356001-mRNA-1
+ASIM_scaffold0000320	WormBase_imported	CDS	29600	29620	.	+	0	ID=cds:ASIM_0001356001-mRNA-1;Parent=transcript:ASIM_0001356001-mRNA-1
+ASIM_scaffold0000320	WormBase_imported	CDS	30535	30666	.	+	0	ID=cds:ASIM_0001356001-mRNA-1;Parent=transcript:ASIM_0001356001-mRNA-1
+ASIM_scaffold0000320	WormBase_imported	CDS	30893	31010	.	+	0	ID=cds:ASIM_0001356001-mRNA-1;Parent=transcript:ASIM_0001356001-mRNA-1
+ASIM_scaffold0000320	WormBase_imported	CDS	31214	31335	.	+	2	ID=cds:ASIM_0001356001-mRNA-1;Parent=transcript:ASIM_0001356001-mRNA-1
+ASIM_scaffold0000320	WormBase_imported	CDS	31831	31884	.	+	0	ID=cds:ASIM_0001356001-mRNA-1;Parent=transcript:ASIM_0001356001-mRNA-1
+ASIM_scaffold0000320	WormBase_imported	CDS	32086	32181	.	+	0	ID=cds:ASIM_0001356001-mRNA-1;Parent=transcript:ASIM_0001356001-mRNA-1
+ASIM_scaffold0000320	WormBase_imported	CDS	32387	32437	.	+	0	ID=cds:ASIM_0001356001-mRNA-1;Parent=transcript:ASIM_0001356001-mRNA-1
+ASIM_scaffold0000320	WormBase_imported	CDS	32773	32826	.	+	0	ID=cds:ASIM_0001356001-mRNA-1;Parent=transcript:ASIM_0001356001-mRNA-1
+ASIM_scaffold0000320	WormBase_imported	CDS	33023	33085	.	+	0	ID=cds:ASIM_0001356001-mRNA-1;Parent=transcript:ASIM_0001356001-mRNA-1
+ASIM_scaffold0000320	WormBase_imported	CDS	33445	33501	.	+	0	ID=cds:ASIM_0001356001-mRNA-1;Parent=transcript:ASIM_0001356001-mRNA-1
+ASIM_scaffold0000320	WormBase_imported	CDS	33719	33985	.	+	0	ID=cds:ASIM_0001356001-mRNA-1;Parent=transcript:ASIM_0001356001-mRNA-1
 ASIM_scaffold0003723	WormBase_imported	gene	83	2715	.	-	.	ID=gene:ASIM_0001847401;Name=ASIM_0001847401;biotype=protein_coding
 ASIM_scaffold0003723	WormBase_imported	mRNA	83	2715	.	-	.	ID=transcript:ASIM_0001847401-mRNA-1;Parent=gene:ASIM_0001847401;Name=ASIM_0001847401-mRNA-1;info=method:InterPro accession:IPR011701 description:Major facilitator superfamily %0Amethod:InterPro accession:IPR020846 description:Major facilitator superfamily domain %0Amethod:InterPro accession:IPR036259 description:MFS transporter superfamily
 #microexons transcript:ASIM_0001847401-mRNA-1:  23 69-45-48-45-45 133 333

@@ -1,3 +1,57 @@
+D915DFT_Contig144	WormBase_imported	gene	1003	399053	.	+	.	ID=gene:D915_00991;Name=D915_00991;biotype=protein_coding
+D915DFT_Contig144	WormBase_imported	mRNA	1003	399053	.	+	.	ID=transcript:D915_00991;Parent=gene:D915_00991;Name=D915_00991;info=method:InterPro accession:IPR001584 description:Integrase%2C catalytic core %0Amethod:InterPro accession:IPR012337 description:Ribonuclease H-like superfamily %0Amethod:InterPro accession:IPR036397 description:Ribonuclease H superfamily
+#microexons transcript:D915_00991:  51-402-303 43 54 50 60 70 200 21-12-12-12-75
+D915DFT_Contig144	WormBase_imported	exon	1003	1053	.	+	.	ID=exon:D915_00991.1;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	exon	57900	58301	.	+	.	ID=exon:D915_00991.2;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	exon	58347	58649	.	+	.	ID=exon:D915_00991.3;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	exon	88454	88496	.	+	.	ID=exon:D915_00991.4;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	exon	134995	135048	.	+	.	ID=exon:D915_00991.5;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	exon	137068	137117	.	+	.	ID=exon:D915_00991.6;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	exon	163629	163688	.	+	.	ID=exon:D915_00991.7;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	exon	179006	179075	.	+	.	ID=exon:D915_00991.8;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	exon	215660	215859	.	+	.	ID=exon:D915_00991.9;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	exon	215961	215981	.	+	.	ID=exon:D915_00991.10;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	exon	222772	222783	.	+	.	ID=exon:D915_00991.11;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	exon	227287	227298	.	+	.	ID=exon:D915_00991.12;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	exon	229549	229560	.	+	.	ID=exon:D915_00991.13;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	exon	398979	399053	.	+	.	ID=exon:D915_00991.14;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	CDS	1003	1053	.	+	0	ID=cds:D915_00991;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	CDS	57900	58301	.	+	0	ID=cds:D915_00991;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	CDS	58347	58649	.	+	0	ID=cds:D915_00991;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	CDS	88454	88496	.	+	0	ID=cds:D915_00991;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	CDS	134995	135048	.	+	2	ID=cds:D915_00991;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	CDS	137068	137117	.	+	2	ID=cds:D915_00991;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	CDS	163629	163688	.	+	0	ID=cds:D915_00991;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	CDS	179006	179075	.	+	0	ID=cds:D915_00991;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	CDS	215660	215859	.	+	2	ID=cds:D915_00991;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	CDS	215961	215981	.	+	0	ID=cds:D915_00991;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	CDS	222772	222783	.	+	0	ID=cds:D915_00991;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	CDS	227287	227298	.	+	0	ID=cds:D915_00991;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	CDS	229549	229560	.	+	0	ID=cds:D915_00991;Parent=transcript:D915_00991
+D915DFT_Contig144	WormBase_imported	CDS	398979	399053	.	+	0	ID=cds:D915_00991;Parent=transcript:D915_00991
+D915DFT_Contig785	WormBase_imported	gene	1785	204945	.	-	.	ID=gene:D915_04442;Name=D915_04442;biotype=protein_coding;description=Histone H4;description_source=UniProtKB/TrEMBL;description_source_acc=A0A2H1CL27
+D915DFT_Contig785	WormBase_imported	mRNA	1785	204945	.	-	.	ID=transcript:D915_04442;Parent=gene:D915_04442;Name=D915_04442;info=method:InterPro accession:IPR001951 description:Histone H4 %0Amethod:InterPro accession:IPR009072 description:Histone-fold
+#microexons transcript:D915_04442:  307 137 63-30-57-63-63-21 22 314
+D915DFT_Contig785	WormBase_imported	exon	204639	204945	.	-	.	ID=exon:D915_04442.1;Parent=transcript:D915_04442
+D915DFT_Contig785	WormBase_imported	exon	138924	139060	.	-	.	ID=exon:D915_04442.2;Parent=transcript:D915_04442
+D915DFT_Contig785	WormBase_imported	exon	114744	114806	.	-	.	ID=exon:D915_04442.3;Parent=transcript:D915_04442
+D915DFT_Contig785	WormBase_imported	exon	99279	99308	.	-	.	ID=exon:D915_04442.4;Parent=transcript:D915_04442
+D915DFT_Contig785	WormBase_imported	exon	24664	24720	.	-	.	ID=exon:D915_04442.5;Parent=transcript:D915_04442
+D915DFT_Contig785	WormBase_imported	exon	22110	22172	.	-	.	ID=exon:D915_04442.6;Parent=transcript:D915_04442
+D915DFT_Contig785	WormBase_imported	exon	21586	21648	.	-	.	ID=exon:D915_04442.7;Parent=transcript:D915_04442
+D915DFT_Contig785	WormBase_imported	exon	13593	13613	.	-	.	ID=exon:D915_04442.8;Parent=transcript:D915_04442
+D915DFT_Contig785	WormBase_imported	exon	3990	4011	.	-	.	ID=exon:D915_04442.9;Parent=transcript:D915_04442
+D915DFT_Contig785	WormBase_imported	exon	1785	2098	.	-	.	ID=exon:D915_04442.10;Parent=transcript:D915_04442
+D915DFT_Contig785	WormBase_imported	CDS	204639	204945	.	-	0	ID=cds:D915_04442;Parent=transcript:D915_04442
+D915DFT_Contig785	WormBase_imported	CDS	138924	139060	.	-	2	ID=cds:D915_04442;Parent=transcript:D915_04442
+D915DFT_Contig785	WormBase_imported	CDS	114744	114806	.	-	0	ID=cds:D915_04442;Parent=transcript:D915_04442
+D915DFT_Contig785	WormBase_imported	CDS	99279	99308	.	-	0	ID=cds:D915_04442;Parent=transcript:D915_04442
+D915DFT_Contig785	WormBase_imported	CDS	24664	24720	.	-	0	ID=cds:D915_04442;Parent=transcript:D915_04442
+D915DFT_Contig785	WormBase_imported	CDS	22110	22172	.	-	0	ID=cds:D915_04442;Parent=transcript:D915_04442
+D915DFT_Contig785	WormBase_imported	CDS	21586	21648	.	-	0	ID=cds:D915_04442;Parent=transcript:D915_04442
+D915DFT_Contig785	WormBase_imported	CDS	13593	13613	.	-	0	ID=cds:D915_04442;Parent=transcript:D915_04442
+D915DFT_Contig785	WormBase_imported	CDS	3990	4011	.	-	0	ID=cds:D915_04442;Parent=transcript:D915_04442
+D915DFT_Contig785	WormBase_imported	CDS	1785	2098	.	-	2	ID=cds:D915_04442;Parent=transcript:D915_04442
 D915DFT_Contig894	WormBase_imported	gene	1182	237297	.	+	.	ID=gene:D915_04859;Name=D915_04859;biotype=protein_coding
 D915DFT_Contig894	WormBase_imported	mRNA	1182	237297	.	+	.	ID=transcript:D915_04859;Parent=gene:D915_04859;Name=D915_04859
 #microexons transcript:D915_04859:  352 33-24-33-33-141-36-60-60-63-42-42-42-72-57-57-63-57-63-51 23

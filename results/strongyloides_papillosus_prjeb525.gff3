@@ -1,3 +1,37 @@
+SPAL_scaffold0000005	WormBase_imported	gene	409822	411076	.	+	.	ID=gene:SPAL_0001417550;Name=SPAL_0001417550;biotype=protein_coding
+SPAL_scaffold0000005	WormBase_imported	mRNA	409822	411076	.	+	.	ID=transcript:SPAL_0001417550.1;Parent=gene:SPAL_0001417550;Name=SPAL_0001417550.1
+#microexons transcript:SPAL_0001417550.1:  36 32 49 18-60-12-42
+SPAL_scaffold0000005	WormBase_imported	exon	409822	409857	.	+	.	ID=exon:SPAL_0001417550.1.1;Parent=transcript:SPAL_0001417550.1
+SPAL_scaffold0000005	WormBase_imported	exon	410122	410153	.	+	.	ID=exon:SPAL_0001417550.1.2;Parent=transcript:SPAL_0001417550.1
+SPAL_scaffold0000005	WormBase_imported	exon	410397	410445	.	+	.	ID=exon:SPAL_0001417550.1.3;Parent=transcript:SPAL_0001417550.1
+SPAL_scaffold0000005	WormBase_imported	exon	410528	410545	.	+	.	ID=exon:SPAL_0001417550.1.4;Parent=transcript:SPAL_0001417550.1
+SPAL_scaffold0000005	WormBase_imported	exon	410624	410683	.	+	.	ID=exon:SPAL_0001417550.1.5;Parent=transcript:SPAL_0001417550.1
+SPAL_scaffold0000005	WormBase_imported	exon	410716	410727	.	+	.	ID=exon:SPAL_0001417550.1.6;Parent=transcript:SPAL_0001417550.1
+SPAL_scaffold0000005	WormBase_imported	exon	411035	411076	.	+	.	ID=exon:SPAL_0001417550.1.7;Parent=transcript:SPAL_0001417550.1
+SPAL_scaffold0000005	WormBase_imported	CDS	409822	409857	.	+	0	ID=cds:SPAL_0001417550.1;Parent=transcript:SPAL_0001417550.1
+SPAL_scaffold0000005	WormBase_imported	CDS	410122	410153	.	+	0	ID=cds:SPAL_0001417550.1;Parent=transcript:SPAL_0001417550.1
+SPAL_scaffold0000005	WormBase_imported	CDS	410397	410445	.	+	1	ID=cds:SPAL_0001417550.1;Parent=transcript:SPAL_0001417550.1
+SPAL_scaffold0000005	WormBase_imported	CDS	410528	410545	.	+	0	ID=cds:SPAL_0001417550.1;Parent=transcript:SPAL_0001417550.1
+SPAL_scaffold0000005	WormBase_imported	CDS	410624	410683	.	+	0	ID=cds:SPAL_0001417550.1;Parent=transcript:SPAL_0001417550.1
+SPAL_scaffold0000005	WormBase_imported	CDS	410716	410727	.	+	0	ID=cds:SPAL_0001417550.1;Parent=transcript:SPAL_0001417550.1
+SPAL_scaffold0000005	WormBase_imported	CDS	411035	411076	.	+	0	ID=cds:SPAL_0001417550.1;Parent=transcript:SPAL_0001417550.1
+SPAL_contig0000002	WormBase_imported	gene	255459	256228	.	-	.	ID=gene:SPAL_0000911450;Name=SPAL_0000911450;biotype=protein_coding
+SPAL_contig0000002	WormBase_imported	mRNA	255459	256228	.	-	.	ID=transcript:SPAL_0000911450.1;Parent=gene:SPAL_0000911450;Name=SPAL_0000911450.1
+#microexons transcript:SPAL_0000911450.1:  28 121 16 6-63-6-30
+SPAL_contig0000002	WormBase_imported	exon	256201	256228	.	-	.	ID=exon:SPAL_0000911450.1.1;Parent=transcript:SPAL_0000911450.1
+SPAL_contig0000002	WormBase_imported	exon	256044	256164	.	-	.	ID=exon:SPAL_0000911450.1.2;Parent=transcript:SPAL_0000911450.1
+SPAL_contig0000002	WormBase_imported	exon	255941	255956	.	-	.	ID=exon:SPAL_0000911450.1.3;Parent=transcript:SPAL_0000911450.1
+SPAL_contig0000002	WormBase_imported	exon	255705	255710	.	-	.	ID=exon:SPAL_0000911450.1.4;Parent=transcript:SPAL_0000911450.1
+SPAL_contig0000002	WormBase_imported	exon	255633	255695	.	-	.	ID=exon:SPAL_0000911450.1.5;Parent=transcript:SPAL_0000911450.1
+SPAL_contig0000002	WormBase_imported	exon	255502	255507	.	-	.	ID=exon:SPAL_0000911450.1.6;Parent=transcript:SPAL_0000911450.1
+SPAL_contig0000002	WormBase_imported	exon	255459	255488	.	-	.	ID=exon:SPAL_0000911450.1.7;Parent=transcript:SPAL_0000911450.1
+SPAL_contig0000002	WormBase_imported	CDS	256201	256228	.	-	0	ID=cds:SPAL_0000911450.1;Parent=transcript:SPAL_0000911450.1
+SPAL_contig0000002	WormBase_imported	CDS	256044	256164	.	-	2	ID=cds:SPAL_0000911450.1;Parent=transcript:SPAL_0000911450.1
+SPAL_contig0000002	WormBase_imported	CDS	255941	255956	.	-	1	ID=cds:SPAL_0000911450.1;Parent=transcript:SPAL_0000911450.1
+SPAL_contig0000002	WormBase_imported	CDS	255705	255710	.	-	0	ID=cds:SPAL_0000911450.1;Parent=transcript:SPAL_0000911450.1
+SPAL_contig0000002	WormBase_imported	CDS	255633	255695	.	-	0	ID=cds:SPAL_0000911450.1;Parent=transcript:SPAL_0000911450.1
+SPAL_contig0000002	WormBase_imported	CDS	255502	255507	.	-	0	ID=cds:SPAL_0000911450.1;Parent=transcript:SPAL_0000911450.1
+SPAL_contig0000002	WormBase_imported	CDS	255459	255488	.	-	0	ID=cds:SPAL_0000911450.1;Parent=transcript:SPAL_0000911450.1
 SPAL_scaffold0000067	WormBase_imported	gene	34892	36615	.	-	.	ID=gene:SPAL_0001518600;Name=SPAL_0001518600;biotype=protein_coding
 SPAL_scaffold0000067	WormBase_imported	mRNA	34892	36615	.	-	.	ID=transcript:SPAL_0001518600.1;Parent=gene:SPAL_0001518600;Name=SPAL_0001518600.1
 #microexons transcript:SPAL_0001518600.1:  46 120-45-54-51-27-42-39-42-66-72-69-30 92
@@ -54,6 +88,29 @@ SPAL_contig0001669	WormBase_imported	CDS	3787	3813	.	+	2	ID=cds:SPAL_0000017600.
 SPAL_contig0001669	WormBase_imported	CDS	3869	3910	.	+	2	ID=cds:SPAL_0000017600.1;Parent=transcript:SPAL_0000017600.1
 SPAL_contig0001669	WormBase_imported	CDS	3951	3983	.	+	2	ID=cds:SPAL_0000017600.1;Parent=transcript:SPAL_0000017600.1
 SPAL_contig0001669	WormBase_imported	CDS	4025	4095	.	+	2	ID=cds:SPAL_0000017600.1;Parent=transcript:SPAL_0000017600.1
+SPAL_contig0002627	WormBase_imported	gene	226	1583	.	-	.	ID=gene:SPAL_0001774700;Name=SPAL_0001774700;biotype=protein_coding
+SPAL_contig0002627	WormBase_imported	mRNA	226	1583	.	-	.	ID=transcript:SPAL_0001774700.1;Parent=gene:SPAL_0001774700;Name=SPAL_0001774700.1
+#microexons transcript:SPAL_0001774700.1:  28 30-39-30-60-39-24-69-87 71
+SPAL_contig0002627	WormBase_imported	exon	1556	1583	.	-	.	ID=exon:SPAL_0001774700.1.1;Parent=transcript:SPAL_0001774700.1
+SPAL_contig0002627	WormBase_imported	exon	1480	1509	.	-	.	ID=exon:SPAL_0001774700.1.2;Parent=transcript:SPAL_0001774700.1
+SPAL_contig0002627	WormBase_imported	exon	1276	1314	.	-	.	ID=exon:SPAL_0001774700.1.3;Parent=transcript:SPAL_0001774700.1
+SPAL_contig0002627	WormBase_imported	exon	1194	1223	.	-	.	ID=exon:SPAL_0001774700.1.4;Parent=transcript:SPAL_0001774700.1
+SPAL_contig0002627	WormBase_imported	exon	1082	1141	.	-	.	ID=exon:SPAL_0001774700.1.5;Parent=transcript:SPAL_0001774700.1
+SPAL_contig0002627	WormBase_imported	exon	999	1037	.	-	.	ID=exon:SPAL_0001774700.1.6;Parent=transcript:SPAL_0001774700.1
+SPAL_contig0002627	WormBase_imported	exon	925	948	.	-	.	ID=exon:SPAL_0001774700.1.7;Parent=transcript:SPAL_0001774700.1
+SPAL_contig0002627	WormBase_imported	exon	800	868	.	-	.	ID=exon:SPAL_0001774700.1.8;Parent=transcript:SPAL_0001774700.1
+SPAL_contig0002627	WormBase_imported	exon	508	594	.	-	.	ID=exon:SPAL_0001774700.1.9;Parent=transcript:SPAL_0001774700.1
+SPAL_contig0002627	WormBase_imported	exon	226	296	.	-	.	ID=exon:SPAL_0001774700.1.10;Parent=transcript:SPAL_0001774700.1
+SPAL_contig0002627	WormBase_imported	CDS	1556	1583	.	-	0	ID=cds:SPAL_0001774700.1;Parent=transcript:SPAL_0001774700.1
+SPAL_contig0002627	WormBase_imported	CDS	1480	1509	.	-	2	ID=cds:SPAL_0001774700.1;Parent=transcript:SPAL_0001774700.1
+SPAL_contig0002627	WormBase_imported	CDS	1276	1314	.	-	2	ID=cds:SPAL_0001774700.1;Parent=transcript:SPAL_0001774700.1
+SPAL_contig0002627	WormBase_imported	CDS	1194	1223	.	-	2	ID=cds:SPAL_0001774700.1;Parent=transcript:SPAL_0001774700.1
+SPAL_contig0002627	WormBase_imported	CDS	1082	1141	.	-	2	ID=cds:SPAL_0001774700.1;Parent=transcript:SPAL_0001774700.1
+SPAL_contig0002627	WormBase_imported	CDS	999	1037	.	-	2	ID=cds:SPAL_0001774700.1;Parent=transcript:SPAL_0001774700.1
+SPAL_contig0002627	WormBase_imported	CDS	925	948	.	-	2	ID=cds:SPAL_0001774700.1;Parent=transcript:SPAL_0001774700.1
+SPAL_contig0002627	WormBase_imported	CDS	800	868	.	-	2	ID=cds:SPAL_0001774700.1;Parent=transcript:SPAL_0001774700.1
+SPAL_contig0002627	WormBase_imported	CDS	508	594	.	-	2	ID=cds:SPAL_0001774700.1;Parent=transcript:SPAL_0001774700.1
+SPAL_contig0002627	WormBase_imported	CDS	226	296	.	-	2	ID=cds:SPAL_0001774700.1;Parent=transcript:SPAL_0001774700.1
 SPAL_contig0003354	WormBase_imported	gene	252	1265	.	-	.	ID=gene:SPAL_0001778300;Name=SPAL_0001778300;biotype=protein_coding
 SPAL_contig0003354	WormBase_imported	mRNA	252	1265	.	-	.	ID=transcript:SPAL_0001778300.1;Parent=gene:SPAL_0001778300;Name=SPAL_0001778300.1
 #microexons transcript:SPAL_0001778300.1:  31 27-39-42-33-42-42-42-48-54-39 71

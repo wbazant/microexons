@@ -300,6 +300,37 @@ SRAE_chr2	WormBase_imported	CDS	16149710	16149742	.	-	2	ID=cds:SRAE_2000510400;P
 SRAE_chr2	WormBase_imported	CDS	16149636	16149668	.	-	2	ID=cds:SRAE_2000510400;Parent=transcript:SRAE_2000510400
 SRAE_chr2	WormBase_imported	CDS	16149540	16149581	.	-	2	ID=cds:SRAE_2000510400;Parent=transcript:SRAE_2000510400
 SRAE_chr2	WormBase_imported	CDS	16149421	16149500	.	-	2	ID=cds:SRAE_2000510400;Parent=transcript:SRAE_2000510400
+SRAE_chrX_scaffold3	WormBase_imported	gene	677513	679447	.	-	.	ID=gene:WBGene00267532;Name=WBGene00267532;biotype=protein_coding;locus=SRAE_X000195600
+SRAE_chrX_scaffold3	WormBase_imported	mRNA	677513	679447	.	-	.	ID=transcript:SRAE_X000195600;Parent=gene:WBGene00267532;Name=SRAE_X000195600
+#microexons transcript:SRAE_X000195600:  120 133 36-24-27-60-24-270-51-51-39-75-66 59
+SRAE_chrX_scaffold3	WormBase_imported	exon	679328	679447	.	-	.	ID=exon:SRAE_X000195600.1;Parent=transcript:SRAE_X000195600
+SRAE_chrX_scaffold3	WormBase_imported	exon	679137	679269	.	-	.	ID=exon:SRAE_X000195600.2;Parent=transcript:SRAE_X000195600
+SRAE_chrX_scaffold3	WormBase_imported	exon	679062	679097	.	-	.	ID=exon:SRAE_X000195600.3;Parent=transcript:SRAE_X000195600
+SRAE_chrX_scaffold3	WormBase_imported	exon	678990	679013	.	-	.	ID=exon:SRAE_X000195600.4;Parent=transcript:SRAE_X000195600
+SRAE_chrX_scaffold3	WormBase_imported	exon	678630	678656	.	-	.	ID=exon:SRAE_X000195600.5;Parent=transcript:SRAE_X000195600
+SRAE_chrX_scaffold3	WormBase_imported	exon	678527	678586	.	-	.	ID=exon:SRAE_X000195600.6;Parent=transcript:SRAE_X000195600
+SRAE_chrX_scaffold3	WormBase_imported	exon	678464	678487	.	-	.	ID=exon:SRAE_X000195600.7;Parent=transcript:SRAE_X000195600
+SRAE_chrX_scaffold3	WormBase_imported	exon	678119	678388	.	-	.	ID=exon:SRAE_X000195600.8;Parent=transcript:SRAE_X000195600
+SRAE_chrX_scaffold3	WormBase_imported	exon	678020	678070	.	-	.	ID=exon:SRAE_X000195600.9;Parent=transcript:SRAE_X000195600
+SRAE_chrX_scaffold3	WormBase_imported	exon	677915	677965	.	-	.	ID=exon:SRAE_X000195600.10;Parent=transcript:SRAE_X000195600
+SRAE_chrX_scaffold3	WormBase_imported	exon	677841	677879	.	-	.	ID=exon:SRAE_X000195600.11;Parent=transcript:SRAE_X000195600
+SRAE_chrX_scaffold3	WormBase_imported	exon	677732	677806	.	-	.	ID=exon:SRAE_X000195600.12;Parent=transcript:SRAE_X000195600
+SRAE_chrX_scaffold3	WormBase_imported	exon	677616	677681	.	-	.	ID=exon:SRAE_X000195600.13;Parent=transcript:SRAE_X000195600
+SRAE_chrX_scaffold3	WormBase_imported	exon	677513	677571	.	-	.	ID=exon:SRAE_X000195600.14;Parent=transcript:SRAE_X000195600
+SRAE_chrX_scaffold3	WormBase_imported	CDS	679328	679447	.	-	0	ID=cds:SRAE_X000195600;Parent=transcript:SRAE_X000195600
+SRAE_chrX_scaffold3	WormBase_imported	CDS	679137	679269	.	-	0	ID=cds:SRAE_X000195600;Parent=transcript:SRAE_X000195600
+SRAE_chrX_scaffold3	WormBase_imported	CDS	679062	679097	.	-	2	ID=cds:SRAE_X000195600;Parent=transcript:SRAE_X000195600
+SRAE_chrX_scaffold3	WormBase_imported	CDS	678990	679013	.	-	2	ID=cds:SRAE_X000195600;Parent=transcript:SRAE_X000195600
+SRAE_chrX_scaffold3	WormBase_imported	CDS	678630	678656	.	-	2	ID=cds:SRAE_X000195600;Parent=transcript:SRAE_X000195600
+SRAE_chrX_scaffold3	WormBase_imported	CDS	678527	678586	.	-	2	ID=cds:SRAE_X000195600;Parent=transcript:SRAE_X000195600
+SRAE_chrX_scaffold3	WormBase_imported	CDS	678464	678487	.	-	2	ID=cds:SRAE_X000195600;Parent=transcript:SRAE_X000195600
+SRAE_chrX_scaffold3	WormBase_imported	CDS	678119	678388	.	-	2	ID=cds:SRAE_X000195600;Parent=transcript:SRAE_X000195600
+SRAE_chrX_scaffold3	WormBase_imported	CDS	678020	678070	.	-	2	ID=cds:SRAE_X000195600;Parent=transcript:SRAE_X000195600
+SRAE_chrX_scaffold3	WormBase_imported	CDS	677915	677965	.	-	2	ID=cds:SRAE_X000195600;Parent=transcript:SRAE_X000195600
+SRAE_chrX_scaffold3	WormBase_imported	CDS	677841	677879	.	-	2	ID=cds:SRAE_X000195600;Parent=transcript:SRAE_X000195600
+SRAE_chrX_scaffold3	WormBase_imported	CDS	677732	677806	.	-	2	ID=cds:SRAE_X000195600;Parent=transcript:SRAE_X000195600
+SRAE_chrX_scaffold3	WormBase_imported	CDS	677616	677681	.	-	2	ID=cds:SRAE_X000195600;Parent=transcript:SRAE_X000195600
+SRAE_chrX_scaffold3	WormBase_imported	CDS	677513	677571	.	-	2	ID=cds:SRAE_X000195600;Parent=transcript:SRAE_X000195600
 SRAE_scaffold41	WormBase_imported	gene	1728	2485	.	-	.	ID=gene:WBGene00256536;Name=WBGene00256536;biotype=protein_coding;locus=SRAE_0000077700
 SRAE_scaffold41	WormBase_imported	mRNA	1728	2485	.	-	.	ID=transcript:SRAE_0000077700;Parent=gene:WBGene00256536;Name=SRAE_0000077700
 #microexons transcript:SRAE_0000077700:  111 52 30-30-30-54-39 65

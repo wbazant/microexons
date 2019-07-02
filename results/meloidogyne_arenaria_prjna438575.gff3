@@ -1,3 +1,20 @@
+tig00002014	WormBase_imported	gene	453138	454525	.	-	.	ID=gene:tig00002014.g70685;Name=tig00002014.g70685;biotype=protein_coding
+tig00002014	WormBase_imported	mRNA	453138	454525	.	-	.	ID=transcript:tig00002014.g70685.t1;Parent=gene:tig00002014.g70685;Name=tig00002014.g70685.t1;info=method:InterPro accession:IPR006689 description:Small GTPase superfamily%2C ARF/SAR type %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase
+#microexons transcript:tig00002014.g70685.t1:  56 13 45-24-48-69-114
+tig00002014	WormBase_imported	exon	454470	454525	.	-	.	ID=exon:tig00002014.g70685.t1.1;Parent=transcript:tig00002014.g70685.t1
+tig00002014	WormBase_imported	exon	453763	453775	.	-	.	ID=exon:tig00002014.g70685.t1.2;Parent=transcript:tig00002014.g70685.t1
+tig00002014	WormBase_imported	exon	453659	453703	.	-	.	ID=exon:tig00002014.g70685.t1.3;Parent=transcript:tig00002014.g70685.t1
+tig00002014	WormBase_imported	exon	453577	453600	.	-	.	ID=exon:tig00002014.g70685.t1.4;Parent=transcript:tig00002014.g70685.t1
+tig00002014	WormBase_imported	exon	453481	453528	.	-	.	ID=exon:tig00002014.g70685.t1.5;Parent=transcript:tig00002014.g70685.t1
+tig00002014	WormBase_imported	exon	453302	453370	.	-	.	ID=exon:tig00002014.g70685.t1.6;Parent=transcript:tig00002014.g70685.t1
+tig00002014	WormBase_imported	exon	453138	453251	.	-	.	ID=exon:tig00002014.g70685.t1.7;Parent=transcript:tig00002014.g70685.t1
+tig00002014	WormBase_imported	CDS	454470	454525	.	-	0	ID=cds:tig00002014.g70685.t1;Parent=transcript:tig00002014.g70685.t1
+tig00002014	WormBase_imported	CDS	453763	453775	.	-	1	ID=cds:tig00002014.g70685.t1;Parent=transcript:tig00002014.g70685.t1
+tig00002014	WormBase_imported	CDS	453659	453703	.	-	0	ID=cds:tig00002014.g70685.t1;Parent=transcript:tig00002014.g70685.t1
+tig00002014	WormBase_imported	CDS	453577	453600	.	-	0	ID=cds:tig00002014.g70685.t1;Parent=transcript:tig00002014.g70685.t1
+tig00002014	WormBase_imported	CDS	453481	453528	.	-	0	ID=cds:tig00002014.g70685.t1;Parent=transcript:tig00002014.g70685.t1
+tig00002014	WormBase_imported	CDS	453302	453370	.	-	0	ID=cds:tig00002014.g70685.t1;Parent=transcript:tig00002014.g70685.t1
+tig00002014	WormBase_imported	CDS	453138	453251	.	-	0	ID=cds:tig00002014.g70685.t1;Parent=transcript:tig00002014.g70685.t1
 tig00002014	WormBase_imported	gene	455323	456639	.	-	.	ID=gene:tig00002014.g70686;Name=tig00002014.g70686;biotype=protein_coding
 tig00002014	WormBase_imported	mRNA	455323	456639	.	-	.	ID=transcript:tig00002014.g70686.t1;Parent=gene:tig00002014.g70686;Name=tig00002014.g70686.t1;info=method:InterPro accession:IPR005225 description:Small GTP-binding protein domain %0Amethod:InterPro accession:IPR006689 description:Small GTPase superfamily%2C ARF/SAR type %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase
 #microexons transcript:tig00002014.g70686.t1:  3-66 95 94 57-45-24-48-69-30
@@ -21,6 +38,98 @@ tig00002014	WormBase_imported	CDS	455682	455705	.	-	0	ID=cds:tig00002014.g70686.
 tig00002014	WormBase_imported	CDS	455585	455632	.	-	0	ID=cds:tig00002014.g70686.t1;Parent=transcript:tig00002014.g70686.t1
 tig00002014	WormBase_imported	CDS	455404	455472	.	-	0	ID=cds:tig00002014.g70686.t1;Parent=transcript:tig00002014.g70686.t1
 tig00002014	WormBase_imported	CDS	455323	455352	.	-	0	ID=cds:tig00002014.g70686.t1;Parent=transcript:tig00002014.g70686.t1
+tig00000658	WormBase_imported	gene	572928	575302	.	+	.	ID=gene:tig00000658.g59763;Name=tig00000658.g59763;biotype=protein_coding
+tig00000658	WormBase_imported	mRNA	572928	575302	.	+	.	ID=transcript:tig00000658.g59763.t1;Parent=gene:tig00000658.g59763;Name=tig00000658.g59763.t1;info=method:InterPro accession:IPR000304 description:Pyrroline-5-carboxylate reductase %0Amethod:InterPro accession:IPR008927 description:6-phosphogluconate dehydrogenase-like%2C C-terminal domain superfamily %0Amethod:InterPro accession:IPR028939 description:Pyrroline-5-carboxylate reductase%2C catalytic%2C N-terminal %0Amethod:InterPro accession:IPR029036 description:Pyrroline-5-carboxylate reductase%2C dimerisation domain %0Amethod:InterPro accession:IPR036291 description:NAD(P)-binding domain superfamily
+#microexons transcript:tig00000658.g59763.t1:  46 62 30 37 66-51-66-45-18 53 57-45 118 130 181
+tig00000658	WormBase_imported	exon	572928	572973	.	+	.	ID=exon:tig00000658.g59763.t1.1;Parent=transcript:tig00000658.g59763.t1
+tig00000658	WormBase_imported	exon	573027	573088	.	+	.	ID=exon:tig00000658.g59763.t1.2;Parent=transcript:tig00000658.g59763.t1
+tig00000658	WormBase_imported	exon	573128	573157	.	+	.	ID=exon:tig00000658.g59763.t1.3;Parent=transcript:tig00000658.g59763.t1
+tig00000658	WormBase_imported	exon	573204	573240	.	+	.	ID=exon:tig00000658.g59763.t1.4;Parent=transcript:tig00000658.g59763.t1
+tig00000658	WormBase_imported	exon	573283	573348	.	+	.	ID=exon:tig00000658.g59763.t1.5;Parent=transcript:tig00000658.g59763.t1
+tig00000658	WormBase_imported	exon	573391	573441	.	+	.	ID=exon:tig00000658.g59763.t1.6;Parent=transcript:tig00000658.g59763.t1
+tig00000658	WormBase_imported	exon	573484	573549	.	+	.	ID=exon:tig00000658.g59763.t1.7;Parent=transcript:tig00000658.g59763.t1
+tig00000658	WormBase_imported	exon	573596	573640	.	+	.	ID=exon:tig00000658.g59763.t1.8;Parent=transcript:tig00000658.g59763.t1
+tig00000658	WormBase_imported	exon	574057	574074	.	+	.	ID=exon:tig00000658.g59763.t1.9;Parent=transcript:tig00000658.g59763.t1
+tig00000658	WormBase_imported	exon	574129	574181	.	+	.	ID=exon:tig00000658.g59763.t1.10;Parent=transcript:tig00000658.g59763.t1
+tig00000658	WormBase_imported	exon	574236	574292	.	+	.	ID=exon:tig00000658.g59763.t1.11;Parent=transcript:tig00000658.g59763.t1
+tig00000658	WormBase_imported	exon	574338	574382	.	+	.	ID=exon:tig00000658.g59763.t1.12;Parent=transcript:tig00000658.g59763.t1
+tig00000658	WormBase_imported	exon	574427	574544	.	+	.	ID=exon:tig00000658.g59763.t1.13;Parent=transcript:tig00000658.g59763.t1
+tig00000658	WormBase_imported	exon	574635	574764	.	+	.	ID=exon:tig00000658.g59763.t1.14;Parent=transcript:tig00000658.g59763.t1
+tig00000658	WormBase_imported	exon	575122	575302	.	+	.	ID=exon:tig00000658.g59763.t1.15;Parent=transcript:tig00000658.g59763.t1
+tig00000658	WormBase_imported	CDS	572928	572973	.	+	0	ID=cds:tig00000658.g59763.t1;Parent=transcript:tig00000658.g59763.t1
+tig00000658	WormBase_imported	CDS	573027	573088	.	+	2	ID=cds:tig00000658.g59763.t1;Parent=transcript:tig00000658.g59763.t1
+tig00000658	WormBase_imported	CDS	573128	573157	.	+	0	ID=cds:tig00000658.g59763.t1;Parent=transcript:tig00000658.g59763.t1
+tig00000658	WormBase_imported	CDS	573204	573240	.	+	0	ID=cds:tig00000658.g59763.t1;Parent=transcript:tig00000658.g59763.t1
+tig00000658	WormBase_imported	CDS	573283	573348	.	+	2	ID=cds:tig00000658.g59763.t1;Parent=transcript:tig00000658.g59763.t1
+tig00000658	WormBase_imported	CDS	573391	573441	.	+	2	ID=cds:tig00000658.g59763.t1;Parent=transcript:tig00000658.g59763.t1
+tig00000658	WormBase_imported	CDS	573484	573549	.	+	2	ID=cds:tig00000658.g59763.t1;Parent=transcript:tig00000658.g59763.t1
+tig00000658	WormBase_imported	CDS	573596	573640	.	+	2	ID=cds:tig00000658.g59763.t1;Parent=transcript:tig00000658.g59763.t1
+tig00000658	WormBase_imported	CDS	574057	574074	.	+	2	ID=cds:tig00000658.g59763.t1;Parent=transcript:tig00000658.g59763.t1
+tig00000658	WormBase_imported	CDS	574129	574181	.	+	2	ID=cds:tig00000658.g59763.t1;Parent=transcript:tig00000658.g59763.t1
+tig00000658	WormBase_imported	CDS	574236	574292	.	+	0	ID=cds:tig00000658.g59763.t1;Parent=transcript:tig00000658.g59763.t1
+tig00000658	WormBase_imported	CDS	574338	574382	.	+	0	ID=cds:tig00000658.g59763.t1;Parent=transcript:tig00000658.g59763.t1
+tig00000658	WormBase_imported	CDS	574427	574544	.	+	0	ID=cds:tig00000658.g59763.t1;Parent=transcript:tig00000658.g59763.t1
+tig00000658	WormBase_imported	CDS	574635	574764	.	+	2	ID=cds:tig00000658.g59763.t1;Parent=transcript:tig00000658.g59763.t1
+tig00000658	WormBase_imported	CDS	575122	575302	.	+	1	ID=cds:tig00000658.g59763.t1;Parent=transcript:tig00000658.g59763.t1
+tig00001225	WormBase_imported	gene	33801	34907	.	-	.	ID=gene:tig00001225.g24937;Name=tig00001225.g24937;biotype=protein_coding
+tig00001225	WormBase_imported	mRNA	33801	34907	.	-	.	ID=transcript:tig00001225.g24937.t1;Parent=gene:tig00001225.g24937;Name=tig00001225.g24937.t1;info=method:InterPro accession:IPR006214 description:Bax inhibitor 1-related
+#microexons transcript:tig00001225.g24937.t1:  159-222 119 100 57-63-60-3
+tig00001225	WormBase_imported	exon	34749	34907	.	-	.	ID=exon:tig00001225.g24937.t1.1;Parent=transcript:tig00001225.g24937.t1
+tig00001225	WormBase_imported	exon	34481	34702	.	-	.	ID=exon:tig00001225.g24937.t1.2;Parent=transcript:tig00001225.g24937.t1
+tig00001225	WormBase_imported	exon	34319	34437	.	-	.	ID=exon:tig00001225.g24937.t1.3;Parent=transcript:tig00001225.g24937.t1
+tig00001225	WormBase_imported	exon	34164	34263	.	-	.	ID=exon:tig00001225.g24937.t1.4;Parent=transcript:tig00001225.g24937.t1
+tig00001225	WormBase_imported	exon	34065	34121	.	-	.	ID=exon:tig00001225.g24937.t1.5;Parent=transcript:tig00001225.g24937.t1
+tig00001225	WormBase_imported	exon	33955	34017	.	-	.	ID=exon:tig00001225.g24937.t1.6;Parent=transcript:tig00001225.g24937.t1
+tig00001225	WormBase_imported	exon	33850	33909	.	-	.	ID=exon:tig00001225.g24937.t1.7;Parent=transcript:tig00001225.g24937.t1
+tig00001225	WormBase_imported	exon	33801	33803	.	-	.	ID=exon:tig00001225.g24937.t1.8;Parent=transcript:tig00001225.g24937.t1
+tig00001225	WormBase_imported	CDS	34749	34907	.	-	0	ID=cds:tig00001225.g24937.t1;Parent=transcript:tig00001225.g24937.t1
+tig00001225	WormBase_imported	CDS	34481	34702	.	-	0	ID=cds:tig00001225.g24937.t1;Parent=transcript:tig00001225.g24937.t1
+tig00001225	WormBase_imported	CDS	34319	34437	.	-	0	ID=cds:tig00001225.g24937.t1;Parent=transcript:tig00001225.g24937.t1
+tig00001225	WormBase_imported	CDS	34164	34263	.	-	1	ID=cds:tig00001225.g24937.t1;Parent=transcript:tig00001225.g24937.t1
+tig00001225	WormBase_imported	CDS	34065	34121	.	-	0	ID=cds:tig00001225.g24937.t1;Parent=transcript:tig00001225.g24937.t1
+tig00001225	WormBase_imported	CDS	33955	34017	.	-	0	ID=cds:tig00001225.g24937.t1;Parent=transcript:tig00001225.g24937.t1
+tig00001225	WormBase_imported	CDS	33850	33909	.	-	0	ID=cds:tig00001225.g24937.t1;Parent=transcript:tig00001225.g24937.t1
+tig00001225	WormBase_imported	CDS	33801	33803	.	-	0	ID=cds:tig00001225.g24937.t1;Parent=transcript:tig00001225.g24937.t1
+tig00002071	WormBase_imported	gene	423021	423819	.	+	.	ID=gene:tig00002071.g22196;Name=tig00002071.g22196;biotype=protein_coding
+tig00002071	WormBase_imported	mRNA	423021	423819	.	+	.	ID=transcript:tig00002071.g22196.t1;Parent=gene:tig00002071.g22196;Name=tig00002071.g22196.t1;info=method:InterPro accession:IPR001978 description:Troponin %0Amethod:InterPro accession:IPR038077 description:Troponin domain superfamily
+#microexons transcript:tig00002071.g22196.t1:  94 145 31 12-60-30-39
+tig00002071	WormBase_imported	exon	423021	423114	.	+	.	ID=exon:tig00002071.g22196.t1.1;Parent=transcript:tig00002071.g22196.t1
+tig00002071	WormBase_imported	exon	423176	423320	.	+	.	ID=exon:tig00002071.g22196.t1.2;Parent=transcript:tig00002071.g22196.t1
+tig00002071	WormBase_imported	exon	423366	423396	.	+	.	ID=exon:tig00002071.g22196.t1.3;Parent=transcript:tig00002071.g22196.t1
+tig00002071	WormBase_imported	exon	423445	423456	.	+	.	ID=exon:tig00002071.g22196.t1.4;Parent=transcript:tig00002071.g22196.t1
+tig00002071	WormBase_imported	exon	423514	423573	.	+	.	ID=exon:tig00002071.g22196.t1.5;Parent=transcript:tig00002071.g22196.t1
+tig00002071	WormBase_imported	exon	423681	423710	.	+	.	ID=exon:tig00002071.g22196.t1.6;Parent=transcript:tig00002071.g22196.t1
+tig00002071	WormBase_imported	exon	423781	423819	.	+	.	ID=exon:tig00002071.g22196.t1.7;Parent=transcript:tig00002071.g22196.t1
+tig00002071	WormBase_imported	CDS	423021	423114	.	+	0	ID=cds:tig00002071.g22196.t1;Parent=transcript:tig00002071.g22196.t1
+tig00002071	WormBase_imported	CDS	423176	423320	.	+	2	ID=cds:tig00002071.g22196.t1;Parent=transcript:tig00002071.g22196.t1
+tig00002071	WormBase_imported	CDS	423366	423396	.	+	1	ID=cds:tig00002071.g22196.t1;Parent=transcript:tig00002071.g22196.t1
+tig00002071	WormBase_imported	CDS	423445	423456	.	+	0	ID=cds:tig00002071.g22196.t1;Parent=transcript:tig00002071.g22196.t1
+tig00002071	WormBase_imported	CDS	423514	423573	.	+	0	ID=cds:tig00002071.g22196.t1;Parent=transcript:tig00002071.g22196.t1
+tig00002071	WormBase_imported	CDS	423681	423710	.	+	0	ID=cds:tig00002071.g22196.t1;Parent=transcript:tig00002071.g22196.t1
+tig00002071	WormBase_imported	CDS	423781	423819	.	+	0	ID=cds:tig00002071.g22196.t1;Parent=transcript:tig00002071.g22196.t1
+tig00002535	WormBase_imported	gene	346079	347729	.	-	.	ID=gene:tig00002535.g16962;Name=tig00002535.g16962;biotype=protein_coding
+tig00002535	WormBase_imported	mRNA	346079	347729	.	-	.	ID=transcript:tig00002535.g16962.t1;Parent=gene:tig00002535.g16962;Name=tig00002535.g16962.t1;info=method:InterPro accession:IPR001978 description:Troponin %0Amethod:InterPro accession:IPR038077 description:Troponin domain superfamily
+#microexons transcript:tig00002535.g16962.t1:  21-90-36 124 145 31 12-60-30-39
+tig00002535	WormBase_imported	exon	347709	347729	.	-	.	ID=exon:tig00002535.g16962.t1.1;Parent=transcript:tig00002535.g16962.t1
+tig00002535	WormBase_imported	exon	347579	347668	.	-	.	ID=exon:tig00002535.g16962.t1.2;Parent=transcript:tig00002535.g16962.t1
+tig00002535	WormBase_imported	exon	347497	347532	.	-	.	ID=exon:tig00002535.g16962.t1.3;Parent=transcript:tig00002535.g16962.t1
+tig00002535	WormBase_imported	exon	347059	347182	.	-	.	ID=exon:tig00002535.g16962.t1.4;Parent=transcript:tig00002535.g16962.t1
+tig00002535	WormBase_imported	exon	346874	347018	.	-	.	ID=exon:tig00002535.g16962.t1.5;Parent=transcript:tig00002535.g16962.t1
+tig00002535	WormBase_imported	exon	346799	346829	.	-	.	ID=exon:tig00002535.g16962.t1.6;Parent=transcript:tig00002535.g16962.t1
+tig00002535	WormBase_imported	exon	346731	346742	.	-	.	ID=exon:tig00002535.g16962.t1.7;Parent=transcript:tig00002535.g16962.t1
+tig00002535	WormBase_imported	exon	346611	346670	.	-	.	ID=exon:tig00002535.g16962.t1.8;Parent=transcript:tig00002535.g16962.t1
+tig00002535	WormBase_imported	exon	346187	346216	.	-	.	ID=exon:tig00002535.g16962.t1.9;Parent=transcript:tig00002535.g16962.t1
+tig00002535	WormBase_imported	exon	346079	346117	.	-	.	ID=exon:tig00002535.g16962.t1.10;Parent=transcript:tig00002535.g16962.t1
+tig00002535	WormBase_imported	CDS	347709	347729	.	-	0	ID=cds:tig00002535.g16962.t1;Parent=transcript:tig00002535.g16962.t1
+tig00002535	WormBase_imported	CDS	347579	347668	.	-	0	ID=cds:tig00002535.g16962.t1;Parent=transcript:tig00002535.g16962.t1
+tig00002535	WormBase_imported	CDS	347497	347532	.	-	0	ID=cds:tig00002535.g16962.t1;Parent=transcript:tig00002535.g16962.t1
+tig00002535	WormBase_imported	CDS	347059	347182	.	-	0	ID=cds:tig00002535.g16962.t1;Parent=transcript:tig00002535.g16962.t1
+tig00002535	WormBase_imported	CDS	346874	347018	.	-	2	ID=cds:tig00002535.g16962.t1;Parent=transcript:tig00002535.g16962.t1
+tig00002535	WormBase_imported	CDS	346799	346829	.	-	1	ID=cds:tig00002535.g16962.t1;Parent=transcript:tig00002535.g16962.t1
+tig00002535	WormBase_imported	CDS	346731	346742	.	-	0	ID=cds:tig00002535.g16962.t1;Parent=transcript:tig00002535.g16962.t1
+tig00002535	WormBase_imported	CDS	346611	346670	.	-	0	ID=cds:tig00002535.g16962.t1;Parent=transcript:tig00002535.g16962.t1
+tig00002535	WormBase_imported	CDS	346187	346216	.	-	0	ID=cds:tig00002535.g16962.t1;Parent=transcript:tig00002535.g16962.t1
+tig00002535	WormBase_imported	CDS	346079	346117	.	-	0	ID=cds:tig00002535.g16962.t1;Parent=transcript:tig00002535.g16962.t1
 tig00001897	WormBase_imported	gene	49323	50817	.	-	.	ID=gene:tig00001897.g18221;Name=tig00001897.g18221;biotype=protein_coding
 tig00001897	WormBase_imported	mRNA	49323	50817	.	-	.	ID=transcript:tig00001897.g18221.t1;Parent=gene:tig00001897.g18221;Name=tig00001897.g18221.t1;info=method:InterPro accession:IPR008160 description:Collagen triple helix repeat
 #microexons transcript:tig00001897.g18221.t1:  97 63-72-54-45-36-54-54 65
@@ -59,6 +168,35 @@ tig00001530	WormBase_imported	CDS	275416	275448	.	-	1	ID=cds:tig00001530.g44653.
 tig00001530	WormBase_imported	CDS	275321	275368	.	-	1	ID=cds:tig00001530.g44653.t1;Parent=transcript:tig00001530.g44653.t1
 tig00001530	WormBase_imported	CDS	274750	274791	.	-	1	ID=cds:tig00001530.g44653.t1;Parent=transcript:tig00001530.g44653.t1
 tig00001530	WormBase_imported	CDS	274647	274704	.	-	1	ID=cds:tig00001530.g44653.t1;Parent=transcript:tig00001530.g44653.t1
+tig00001783	WormBase_imported	gene	80206	81841	.	+	.	ID=gene:tig00001783.g44770;Name=tig00001783.g44770;biotype=protein_coding
+tig00001783	WormBase_imported	mRNA	80206	81841	.	+	.	ID=transcript:tig00001783.g44770.t1;Parent=gene:tig00001783.g44770;Name=tig00001783.g44770.t1
+#microexons transcript:tig00001783.g44770.t1:  108-60-60-54-60-60-60-60-60-54-30-51-153
+tig00001783	WormBase_imported	exon	80206	80313	.	+	.	ID=exon:tig00001783.g44770.t1.1;Parent=transcript:tig00001783.g44770.t1
+tig00001783	WormBase_imported	exon	80358	80417	.	+	.	ID=exon:tig00001783.g44770.t1.2;Parent=transcript:tig00001783.g44770.t1
+tig00001783	WormBase_imported	exon	80463	80522	.	+	.	ID=exon:tig00001783.g44770.t1.3;Parent=transcript:tig00001783.g44770.t1
+tig00001783	WormBase_imported	exon	80705	80758	.	+	.	ID=exon:tig00001783.g44770.t1.4;Parent=transcript:tig00001783.g44770.t1
+tig00001783	WormBase_imported	exon	80821	80880	.	+	.	ID=exon:tig00001783.g44770.t1.5;Parent=transcript:tig00001783.g44770.t1
+tig00001783	WormBase_imported	exon	80943	81002	.	+	.	ID=exon:tig00001783.g44770.t1.6;Parent=transcript:tig00001783.g44770.t1
+tig00001783	WormBase_imported	exon	81066	81125	.	+	.	ID=exon:tig00001783.g44770.t1.7;Parent=transcript:tig00001783.g44770.t1
+tig00001783	WormBase_imported	exon	81189	81248	.	+	.	ID=exon:tig00001783.g44770.t1.8;Parent=transcript:tig00001783.g44770.t1
+tig00001783	WormBase_imported	exon	81311	81370	.	+	.	ID=exon:tig00001783.g44770.t1.9;Parent=transcript:tig00001783.g44770.t1
+tig00001783	WormBase_imported	exon	81407	81460	.	+	.	ID=exon:tig00001783.g44770.t1.10;Parent=transcript:tig00001783.g44770.t1
+tig00001783	WormBase_imported	exon	81505	81534	.	+	.	ID=exon:tig00001783.g44770.t1.11;Parent=transcript:tig00001783.g44770.t1
+tig00001783	WormBase_imported	exon	81597	81647	.	+	.	ID=exon:tig00001783.g44770.t1.12;Parent=transcript:tig00001783.g44770.t1
+tig00001783	WormBase_imported	exon	81689	81841	.	+	.	ID=exon:tig00001783.g44770.t1.13;Parent=transcript:tig00001783.g44770.t1
+tig00001783	WormBase_imported	CDS	80206	80313	.	+	0	ID=cds:tig00001783.g44770.t1;Parent=transcript:tig00001783.g44770.t1
+tig00001783	WormBase_imported	CDS	80358	80417	.	+	0	ID=cds:tig00001783.g44770.t1;Parent=transcript:tig00001783.g44770.t1
+tig00001783	WormBase_imported	CDS	80463	80522	.	+	0	ID=cds:tig00001783.g44770.t1;Parent=transcript:tig00001783.g44770.t1
+tig00001783	WormBase_imported	CDS	80705	80758	.	+	0	ID=cds:tig00001783.g44770.t1;Parent=transcript:tig00001783.g44770.t1
+tig00001783	WormBase_imported	CDS	80821	80880	.	+	0	ID=cds:tig00001783.g44770.t1;Parent=transcript:tig00001783.g44770.t1
+tig00001783	WormBase_imported	CDS	80943	81002	.	+	0	ID=cds:tig00001783.g44770.t1;Parent=transcript:tig00001783.g44770.t1
+tig00001783	WormBase_imported	CDS	81066	81125	.	+	0	ID=cds:tig00001783.g44770.t1;Parent=transcript:tig00001783.g44770.t1
+tig00001783	WormBase_imported	CDS	81189	81248	.	+	0	ID=cds:tig00001783.g44770.t1;Parent=transcript:tig00001783.g44770.t1
+tig00001783	WormBase_imported	CDS	81311	81370	.	+	0	ID=cds:tig00001783.g44770.t1;Parent=transcript:tig00001783.g44770.t1
+tig00001783	WormBase_imported	CDS	81407	81460	.	+	0	ID=cds:tig00001783.g44770.t1;Parent=transcript:tig00001783.g44770.t1
+tig00001783	WormBase_imported	CDS	81505	81534	.	+	0	ID=cds:tig00001783.g44770.t1;Parent=transcript:tig00001783.g44770.t1
+tig00001783	WormBase_imported	CDS	81597	81647	.	+	0	ID=cds:tig00001783.g44770.t1;Parent=transcript:tig00001783.g44770.t1
+tig00001783	WormBase_imported	CDS	81689	81841	.	+	0	ID=cds:tig00001783.g44770.t1;Parent=transcript:tig00001783.g44770.t1
 tig00002684	WormBase_imported	gene	137114	138808	.	-	.	ID=gene:tig00002684.g43863;Name=tig00002684.g43863;biotype=protein_coding
 tig00002684	WormBase_imported	mRNA	137114	138808	.	-	.	ID=transcript:tig00002684.g43863.t1;Parent=gene:tig00002684.g43863;Name=tig00002684.g43863.t1
 #microexons transcript:tig00002684.g43863.t1:  3 110 90-27-18-36-24 100
@@ -78,6 +216,62 @@ tig00002684	WormBase_imported	CDS	137448	137465	.	-	1	ID=cds:tig00002684.g43863.
 tig00002684	WormBase_imported	CDS	137357	137392	.	-	1	ID=cds:tig00002684.g43863.t1;Parent=transcript:tig00002684.g43863.t1
 tig00002684	WormBase_imported	CDS	137285	137308	.	-	1	ID=cds:tig00002684.g43863.t1;Parent=transcript:tig00002684.g43863.t1
 tig00002684	WormBase_imported	CDS	137114	137213	.	-	1	ID=cds:tig00002684.g43863.t1;Parent=transcript:tig00002684.g43863.t1
+tig00002120	WormBase_imported	gene	324696	325764	.	-	.	ID=gene:tig00002120.g57091;Name=tig00002120.g57091;biotype=protein_coding
+tig00002120	WormBase_imported	mRNA	324696	325764	.	-	.	ID=transcript:tig00002120.g57091.t1;Parent=gene:tig00002120.g57091;Name=tig00002120.g57091.t1
+#microexons transcript:tig00002120.g57091.t1:  60-60-39-27-36 59 214 171-72
+tig00002120	WormBase_imported	exon	325705	325764	.	-	.	ID=exon:tig00002120.g57091.t1.1;Parent=transcript:tig00002120.g57091.t1
+tig00002120	WormBase_imported	exon	325607	325666	.	-	.	ID=exon:tig00002120.g57091.t1.2;Parent=transcript:tig00002120.g57091.t1
+tig00002120	WormBase_imported	exon	325531	325569	.	-	.	ID=exon:tig00002120.g57091.t1.3;Parent=transcript:tig00002120.g57091.t1
+tig00002120	WormBase_imported	exon	325462	325488	.	-	.	ID=exon:tig00002120.g57091.t1.4;Parent=transcript:tig00002120.g57091.t1
+tig00002120	WormBase_imported	exon	325386	325421	.	-	.	ID=exon:tig00002120.g57091.t1.5;Parent=transcript:tig00002120.g57091.t1
+tig00002120	WormBase_imported	exon	325284	325342	.	-	.	ID=exon:tig00002120.g57091.t1.6;Parent=transcript:tig00002120.g57091.t1
+tig00002120	WormBase_imported	exon	325025	325238	.	-	.	ID=exon:tig00002120.g57091.t1.7;Parent=transcript:tig00002120.g57091.t1
+tig00002120	WormBase_imported	exon	324813	324983	.	-	.	ID=exon:tig00002120.g57091.t1.8;Parent=transcript:tig00002120.g57091.t1
+tig00002120	WormBase_imported	exon	324696	324767	.	-	.	ID=exon:tig00002120.g57091.t1.9;Parent=transcript:tig00002120.g57091.t1
+tig00002120	WormBase_imported	CDS	325705	325764	.	-	0	ID=cds:tig00002120.g57091.t1;Parent=transcript:tig00002120.g57091.t1
+tig00002120	WormBase_imported	CDS	325607	325666	.	-	0	ID=cds:tig00002120.g57091.t1;Parent=transcript:tig00002120.g57091.t1
+tig00002120	WormBase_imported	CDS	325531	325569	.	-	0	ID=cds:tig00002120.g57091.t1;Parent=transcript:tig00002120.g57091.t1
+tig00002120	WormBase_imported	CDS	325462	325488	.	-	0	ID=cds:tig00002120.g57091.t1;Parent=transcript:tig00002120.g57091.t1
+tig00002120	WormBase_imported	CDS	325386	325421	.	-	0	ID=cds:tig00002120.g57091.t1;Parent=transcript:tig00002120.g57091.t1
+tig00002120	WormBase_imported	CDS	325284	325342	.	-	0	ID=cds:tig00002120.g57091.t1;Parent=transcript:tig00002120.g57091.t1
+tig00002120	WormBase_imported	CDS	325025	325238	.	-	1	ID=cds:tig00002120.g57091.t1;Parent=transcript:tig00002120.g57091.t1
+tig00002120	WormBase_imported	CDS	324813	324983	.	-	0	ID=cds:tig00002120.g57091.t1;Parent=transcript:tig00002120.g57091.t1
+tig00002120	WormBase_imported	CDS	324696	324767	.	-	0	ID=cds:tig00002120.g57091.t1;Parent=transcript:tig00002120.g57091.t1
+tig00002534	WormBase_imported	gene	93081	97163	.	+	.	ID=gene:tig00002534.g18573;Name=tig00002534.g18573;biotype=protein_coding
+tig00002534	WormBase_imported	mRNA	93081	97163	.	+	.	ID=transcript:tig00002534.g18573.t1;Parent=gene:tig00002534.g18573;Name=tig00002534.g18573.t1
+#microexons transcript:tig00002534.g18573.t1:  328 75-132-51-63-42-54-72-57-63-24-69-78 95 90-153
+tig00002534	WormBase_imported	exon	93081	93408	.	+	.	ID=exon:tig00002534.g18573.t1.1;Parent=transcript:tig00002534.g18573.t1
+tig00002534	WormBase_imported	exon	93447	93521	.	+	.	ID=exon:tig00002534.g18573.t1.2;Parent=transcript:tig00002534.g18573.t1
+tig00002534	WormBase_imported	exon	93876	94007	.	+	.	ID=exon:tig00002534.g18573.t1.3;Parent=transcript:tig00002534.g18573.t1
+tig00002534	WormBase_imported	exon	94051	94101	.	+	.	ID=exon:tig00002534.g18573.t1.4;Parent=transcript:tig00002534.g18573.t1
+tig00002534	WormBase_imported	exon	94695	94757	.	+	.	ID=exon:tig00002534.g18573.t1.5;Parent=transcript:tig00002534.g18573.t1
+tig00002534	WormBase_imported	exon	94800	94841	.	+	.	ID=exon:tig00002534.g18573.t1.6;Parent=transcript:tig00002534.g18573.t1
+tig00002534	WormBase_imported	exon	94886	94939	.	+	.	ID=exon:tig00002534.g18573.t1.7;Parent=transcript:tig00002534.g18573.t1
+tig00002534	WormBase_imported	exon	95293	95364	.	+	.	ID=exon:tig00002534.g18573.t1.8;Parent=transcript:tig00002534.g18573.t1
+tig00002534	WormBase_imported	exon	95411	95467	.	+	.	ID=exon:tig00002534.g18573.t1.9;Parent=transcript:tig00002534.g18573.t1
+tig00002534	WormBase_imported	exon	95511	95573	.	+	.	ID=exon:tig00002534.g18573.t1.10;Parent=transcript:tig00002534.g18573.t1
+tig00002534	WormBase_imported	exon	96067	96090	.	+	.	ID=exon:tig00002534.g18573.t1.11;Parent=transcript:tig00002534.g18573.t1
+tig00002534	WormBase_imported	exon	96134	96202	.	+	.	ID=exon:tig00002534.g18573.t1.12;Parent=transcript:tig00002534.g18573.t1
+tig00002534	WormBase_imported	exon	96247	96324	.	+	.	ID=exon:tig00002534.g18573.t1.13;Parent=transcript:tig00002534.g18573.t1
+tig00002534	WormBase_imported	exon	96676	96770	.	+	.	ID=exon:tig00002534.g18573.t1.14;Parent=transcript:tig00002534.g18573.t1
+tig00002534	WormBase_imported	exon	96815	96904	.	+	.	ID=exon:tig00002534.g18573.t1.15;Parent=transcript:tig00002534.g18573.t1
+tig00002534	WormBase_imported	exon	97011	97163	.	+	.	ID=exon:tig00002534.g18573.t1.16;Parent=transcript:tig00002534.g18573.t1
+tig00002534	WormBase_imported	CDS	93081	93408	.	+	0	ID=cds:tig00002534.g18573.t1;Parent=transcript:tig00002534.g18573.t1
+tig00002534	WormBase_imported	CDS	93447	93521	.	+	2	ID=cds:tig00002534.g18573.t1;Parent=transcript:tig00002534.g18573.t1
+tig00002534	WormBase_imported	CDS	93876	94007	.	+	2	ID=cds:tig00002534.g18573.t1;Parent=transcript:tig00002534.g18573.t1
+tig00002534	WormBase_imported	CDS	94051	94101	.	+	2	ID=cds:tig00002534.g18573.t1;Parent=transcript:tig00002534.g18573.t1
+tig00002534	WormBase_imported	CDS	94695	94757	.	+	2	ID=cds:tig00002534.g18573.t1;Parent=transcript:tig00002534.g18573.t1
+tig00002534	WormBase_imported	CDS	94800	94841	.	+	2	ID=cds:tig00002534.g18573.t1;Parent=transcript:tig00002534.g18573.t1
+tig00002534	WormBase_imported	CDS	94886	94939	.	+	2	ID=cds:tig00002534.g18573.t1;Parent=transcript:tig00002534.g18573.t1
+tig00002534	WormBase_imported	CDS	95293	95364	.	+	2	ID=cds:tig00002534.g18573.t1;Parent=transcript:tig00002534.g18573.t1
+tig00002534	WormBase_imported	CDS	95411	95467	.	+	2	ID=cds:tig00002534.g18573.t1;Parent=transcript:tig00002534.g18573.t1
+tig00002534	WormBase_imported	CDS	95511	95573	.	+	2	ID=cds:tig00002534.g18573.t1;Parent=transcript:tig00002534.g18573.t1
+tig00002534	WormBase_imported	CDS	96067	96090	.	+	2	ID=cds:tig00002534.g18573.t1;Parent=transcript:tig00002534.g18573.t1
+tig00002534	WormBase_imported	CDS	96134	96202	.	+	2	ID=cds:tig00002534.g18573.t1;Parent=transcript:tig00002534.g18573.t1
+tig00002534	WormBase_imported	CDS	96247	96324	.	+	2	ID=cds:tig00002534.g18573.t1;Parent=transcript:tig00002534.g18573.t1
+tig00002534	WormBase_imported	CDS	96676	96770	.	+	2	ID=cds:tig00002534.g18573.t1;Parent=transcript:tig00002534.g18573.t1
+tig00002534	WormBase_imported	CDS	96815	96904	.	+	0	ID=cds:tig00002534.g18573.t1;Parent=transcript:tig00002534.g18573.t1
+tig00002534	WormBase_imported	CDS	97011	97163	.	+	0	ID=cds:tig00002534.g18573.t1;Parent=transcript:tig00002534.g18573.t1
 tig00001881	WormBase_imported	gene	298345	303100	.	-	.	ID=gene:tig00001881.g32823;Name=tig00001881.g32823;biotype=protein_coding
 tig00001881	WormBase_imported	mRNA	298345	303100	.	-	.	ID=transcript:tig00001881.g32823.t1;Parent=gene:tig00001881.g32823;Name=tig00001881.g32823.t1
 #microexons transcript:tig00001881.g32823.t1:  138-96-72-51-51-51-51-51-51-51-63-201-258-48-399-327
@@ -113,6 +307,130 @@ tig00001881	WormBase_imported	CDS	300767	301024	.	-	0	ID=cds:tig00001881.g32823.
 tig00001881	WormBase_imported	CDS	299705	299752	.	-	0	ID=cds:tig00001881.g32823.t1;Parent=transcript:tig00001881.g32823.t1
 tig00001881	WormBase_imported	CDS	299268	299666	.	-	0	ID=cds:tig00001881.g32823.t1;Parent=transcript:tig00001881.g32823.t1
 tig00001881	WormBase_imported	CDS	298345	298671	.	-	0	ID=cds:tig00001881.g32823.t1;Parent=transcript:tig00001881.g32823.t1
+tig00001375	WormBase_imported	gene	140611	141194	.	-	.	ID=gene:tig00001375.g31690;Name=tig00001375.g31690;biotype=protein_coding
+tig00001375	WormBase_imported	mRNA	140611	141194	.	-	.	ID=transcript:tig00001375.g31690.t1;Parent=gene:tig00001375.g31690;Name=tig00001375.g31690.t1;info=method:InterPro accession:IPR005746 description:Thioredoxin %0Amethod:InterPro accession:IPR013766 description:Thioredoxin domain %0Amethod:InterPro accession:IPR017937 description:Thioredoxin%2C conserved site %0Amethod:InterPro accession:IPR036249 description:Thioredoxin-like superfamily
+#microexons transcript:tig00001375.g31690.t1:  33 68 37 57-30-42-60
+tig00001375	WormBase_imported	exon	141162	141194	.	-	.	ID=exon:tig00001375.g31690.t1.1;Parent=transcript:tig00001375.g31690.t1
+tig00001375	WormBase_imported	exon	141044	141111	.	-	.	ID=exon:tig00001375.g31690.t1.2;Parent=transcript:tig00001375.g31690.t1
+tig00001375	WormBase_imported	exon	140968	141004	.	-	.	ID=exon:tig00001375.g31690.t1.3;Parent=transcript:tig00001375.g31690.t1
+tig00001375	WormBase_imported	exon	140867	140923	.	-	.	ID=exon:tig00001375.g31690.t1.4;Parent=transcript:tig00001375.g31690.t1
+tig00001375	WormBase_imported	exon	140794	140823	.	-	.	ID=exon:tig00001375.g31690.t1.5;Parent=transcript:tig00001375.g31690.t1
+tig00001375	WormBase_imported	exon	140711	140752	.	-	.	ID=exon:tig00001375.g31690.t1.6;Parent=transcript:tig00001375.g31690.t1
+tig00001375	WormBase_imported	exon	140611	140670	.	-	.	ID=exon:tig00001375.g31690.t1.7;Parent=transcript:tig00001375.g31690.t1
+tig00001375	WormBase_imported	CDS	141162	141194	.	-	0	ID=cds:tig00001375.g31690.t1;Parent=transcript:tig00001375.g31690.t1
+tig00001375	WormBase_imported	CDS	141044	141111	.	-	0	ID=cds:tig00001375.g31690.t1;Parent=transcript:tig00001375.g31690.t1
+tig00001375	WormBase_imported	CDS	140968	141004	.	-	1	ID=cds:tig00001375.g31690.t1;Parent=transcript:tig00001375.g31690.t1
+tig00001375	WormBase_imported	CDS	140867	140923	.	-	0	ID=cds:tig00001375.g31690.t1;Parent=transcript:tig00001375.g31690.t1
+tig00001375	WormBase_imported	CDS	140794	140823	.	-	0	ID=cds:tig00001375.g31690.t1;Parent=transcript:tig00001375.g31690.t1
+tig00001375	WormBase_imported	CDS	140711	140752	.	-	0	ID=cds:tig00001375.g31690.t1;Parent=transcript:tig00001375.g31690.t1
+tig00001375	WormBase_imported	CDS	140611	140670	.	-	0	ID=cds:tig00001375.g31690.t1;Parent=transcript:tig00001375.g31690.t1
+tig00001602	WormBase_imported	gene	200247	201499	.	-	.	ID=gene:tig00001602.g57940;Name=tig00001602.g57940;biotype=protein_coding
+tig00001602	WormBase_imported	mRNA	200247	201499	.	-	.	ID=transcript:tig00001602.g57940.t1;Parent=gene:tig00001602.g57940;Name=tig00001602.g57940.t1
+#microexons transcript:tig00001602.g57940.t1:  22 66-36-36-60-270 56 138
+tig00001602	WormBase_imported	exon	201478	201499	.	-	.	ID=exon:tig00001602.g57940.t1.1;Parent=transcript:tig00001602.g57940.t1
+tig00001602	WormBase_imported	exon	201199	201264	.	-	.	ID=exon:tig00001602.g57940.t1.2;Parent=transcript:tig00001602.g57940.t1
+tig00001602	WormBase_imported	exon	201115	201150	.	-	.	ID=exon:tig00001602.g57940.t1.3;Parent=transcript:tig00001602.g57940.t1
+tig00001602	WormBase_imported	exon	201030	201065	.	-	.	ID=exon:tig00001602.g57940.t1.4;Parent=transcript:tig00001602.g57940.t1
+tig00001602	WormBase_imported	exon	200877	200936	.	-	.	ID=exon:tig00001602.g57940.t1.5;Parent=transcript:tig00001602.g57940.t1
+tig00001602	WormBase_imported	exon	200530	200799	.	-	.	ID=exon:tig00001602.g57940.t1.6;Parent=transcript:tig00001602.g57940.t1
+tig00001602	WormBase_imported	exon	200432	200487	.	-	.	ID=exon:tig00001602.g57940.t1.7;Parent=transcript:tig00001602.g57940.t1
+tig00001602	WormBase_imported	exon	200247	200384	.	-	.	ID=exon:tig00001602.g57940.t1.8;Parent=transcript:tig00001602.g57940.t1
+tig00001602	WormBase_imported	CDS	201478	201499	.	-	0	ID=cds:tig00001602.g57940.t1;Parent=transcript:tig00001602.g57940.t1
+tig00001602	WormBase_imported	CDS	201199	201264	.	-	2	ID=cds:tig00001602.g57940.t1;Parent=transcript:tig00001602.g57940.t1
+tig00001602	WormBase_imported	CDS	201115	201150	.	-	2	ID=cds:tig00001602.g57940.t1;Parent=transcript:tig00001602.g57940.t1
+tig00001602	WormBase_imported	CDS	201030	201065	.	-	2	ID=cds:tig00001602.g57940.t1;Parent=transcript:tig00001602.g57940.t1
+tig00001602	WormBase_imported	CDS	200877	200936	.	-	2	ID=cds:tig00001602.g57940.t1;Parent=transcript:tig00001602.g57940.t1
+tig00001602	WormBase_imported	CDS	200530	200799	.	-	2	ID=cds:tig00001602.g57940.t1;Parent=transcript:tig00001602.g57940.t1
+tig00001602	WormBase_imported	CDS	200432	200487	.	-	2	ID=cds:tig00001602.g57940.t1;Parent=transcript:tig00001602.g57940.t1
+tig00001602	WormBase_imported	CDS	200247	200384	.	-	0	ID=cds:tig00001602.g57940.t1;Parent=transcript:tig00001602.g57940.t1
+tig00000545	WormBase_imported	gene	45555	49668	.	-	.	ID=gene:tig00000545.g12182;Name=tig00000545.g12182;biotype=protein_coding
+tig00000545	WormBase_imported	mRNA	45555	49668	.	-	.	ID=transcript:tig00000545.g12182.t1;Parent=gene:tig00000545.g12182;Name=tig00000545.g12182.t1
+#microexons transcript:tig00000545.g12182.t1:  328 75-132-51-63-42-54-72-57-63-24-69-78 95 90-153
+tig00000545	WormBase_imported	exon	49341	49668	.	-	.	ID=exon:tig00000545.g12182.t1.1;Parent=transcript:tig00000545.g12182.t1
+tig00000545	WormBase_imported	exon	49225	49299	.	-	.	ID=exon:tig00000545.g12182.t1.2;Parent=transcript:tig00000545.g12182.t1
+tig00000545	WormBase_imported	exon	48738	48869	.	-	.	ID=exon:tig00000545.g12182.t1.3;Parent=transcript:tig00000545.g12182.t1
+tig00000545	WormBase_imported	exon	48642	48692	.	-	.	ID=exon:tig00000545.g12182.t1.4;Parent=transcript:tig00000545.g12182.t1
+tig00000545	WormBase_imported	exon	47955	48017	.	-	.	ID=exon:tig00000545.g12182.t1.5;Parent=transcript:tig00000545.g12182.t1
+tig00000545	WormBase_imported	exon	47870	47911	.	-	.	ID=exon:tig00000545.g12182.t1.6;Parent=transcript:tig00000545.g12182.t1
+tig00000545	WormBase_imported	exon	47772	47825	.	-	.	ID=exon:tig00000545.g12182.t1.7;Parent=transcript:tig00000545.g12182.t1
+tig00000545	WormBase_imported	exon	47348	47419	.	-	.	ID=exon:tig00000545.g12182.t1.8;Parent=transcript:tig00000545.g12182.t1
+tig00000545	WormBase_imported	exon	47243	47299	.	-	.	ID=exon:tig00000545.g12182.t1.9;Parent=transcript:tig00000545.g12182.t1
+tig00000545	WormBase_imported	exon	47136	47198	.	-	.	ID=exon:tig00000545.g12182.t1.10;Parent=transcript:tig00000545.g12182.t1
+tig00000545	WormBase_imported	exon	46618	46641	.	-	.	ID=exon:tig00000545.g12182.t1.11;Parent=transcript:tig00000545.g12182.t1
+tig00000545	WormBase_imported	exon	46506	46574	.	-	.	ID=exon:tig00000545.g12182.t1.12;Parent=transcript:tig00000545.g12182.t1
+tig00000545	WormBase_imported	exon	46384	46461	.	-	.	ID=exon:tig00000545.g12182.t1.13;Parent=transcript:tig00000545.g12182.t1
+tig00000545	WormBase_imported	exon	45943	46037	.	-	.	ID=exon:tig00000545.g12182.t1.14;Parent=transcript:tig00000545.g12182.t1
+tig00000545	WormBase_imported	exon	45812	45901	.	-	.	ID=exon:tig00000545.g12182.t1.15;Parent=transcript:tig00000545.g12182.t1
+tig00000545	WormBase_imported	exon	45555	45707	.	-	.	ID=exon:tig00000545.g12182.t1.16;Parent=transcript:tig00000545.g12182.t1
+tig00000545	WormBase_imported	CDS	49341	49668	.	-	0	ID=cds:tig00000545.g12182.t1;Parent=transcript:tig00000545.g12182.t1
+tig00000545	WormBase_imported	CDS	49225	49299	.	-	2	ID=cds:tig00000545.g12182.t1;Parent=transcript:tig00000545.g12182.t1
+tig00000545	WormBase_imported	CDS	48738	48869	.	-	2	ID=cds:tig00000545.g12182.t1;Parent=transcript:tig00000545.g12182.t1
+tig00000545	WormBase_imported	CDS	48642	48692	.	-	2	ID=cds:tig00000545.g12182.t1;Parent=transcript:tig00000545.g12182.t1
+tig00000545	WormBase_imported	CDS	47955	48017	.	-	2	ID=cds:tig00000545.g12182.t1;Parent=transcript:tig00000545.g12182.t1
+tig00000545	WormBase_imported	CDS	47870	47911	.	-	2	ID=cds:tig00000545.g12182.t1;Parent=transcript:tig00000545.g12182.t1
+tig00000545	WormBase_imported	CDS	47772	47825	.	-	2	ID=cds:tig00000545.g12182.t1;Parent=transcript:tig00000545.g12182.t1
+tig00000545	WormBase_imported	CDS	47348	47419	.	-	2	ID=cds:tig00000545.g12182.t1;Parent=transcript:tig00000545.g12182.t1
+tig00000545	WormBase_imported	CDS	47243	47299	.	-	2	ID=cds:tig00000545.g12182.t1;Parent=transcript:tig00000545.g12182.t1
+tig00000545	WormBase_imported	CDS	47136	47198	.	-	2	ID=cds:tig00000545.g12182.t1;Parent=transcript:tig00000545.g12182.t1
+tig00000545	WormBase_imported	CDS	46618	46641	.	-	2	ID=cds:tig00000545.g12182.t1;Parent=transcript:tig00000545.g12182.t1
+tig00000545	WormBase_imported	CDS	46506	46574	.	-	2	ID=cds:tig00000545.g12182.t1;Parent=transcript:tig00000545.g12182.t1
+tig00000545	WormBase_imported	CDS	46384	46461	.	-	2	ID=cds:tig00000545.g12182.t1;Parent=transcript:tig00000545.g12182.t1
+tig00000545	WormBase_imported	CDS	45943	46037	.	-	2	ID=cds:tig00000545.g12182.t1;Parent=transcript:tig00000545.g12182.t1
+tig00000545	WormBase_imported	CDS	45812	45901	.	-	0	ID=cds:tig00000545.g12182.t1;Parent=transcript:tig00000545.g12182.t1
+tig00000545	WormBase_imported	CDS	45555	45707	.	-	0	ID=cds:tig00000545.g12182.t1;Parent=transcript:tig00000545.g12182.t1
+tig00002121	WormBase_imported	gene	63663	64256	.	-	.	ID=gene:tig00002121.g55958;Name=tig00002121.g55958;biotype=protein_coding
+tig00002121	WormBase_imported	mRNA	63663	64256	.	-	.	ID=transcript:tig00002121.g55958.t1;Parent=gene:tig00002121.g55958;Name=tig00002121.g55958.t1
+#microexons transcript:tig00002121.g55958.t1:  60-60-39-27-36 59 70
+tig00002121	WormBase_imported	exon	64197	64256	.	-	.	ID=exon:tig00002121.g55958.t1.1;Parent=transcript:tig00002121.g55958.t1
+tig00002121	WormBase_imported	exon	64099	64158	.	-	.	ID=exon:tig00002121.g55958.t1.2;Parent=transcript:tig00002121.g55958.t1
+tig00002121	WormBase_imported	exon	64023	64061	.	-	.	ID=exon:tig00002121.g55958.t1.3;Parent=transcript:tig00002121.g55958.t1
+tig00002121	WormBase_imported	exon	63954	63980	.	-	.	ID=exon:tig00002121.g55958.t1.4;Parent=transcript:tig00002121.g55958.t1
+tig00002121	WormBase_imported	exon	63878	63913	.	-	.	ID=exon:tig00002121.g55958.t1.5;Parent=transcript:tig00002121.g55958.t1
+tig00002121	WormBase_imported	exon	63777	63835	.	-	.	ID=exon:tig00002121.g55958.t1.6;Parent=transcript:tig00002121.g55958.t1
+tig00002121	WormBase_imported	exon	63663	63732	.	-	.	ID=exon:tig00002121.g55958.t1.7;Parent=transcript:tig00002121.g55958.t1
+tig00002121	WormBase_imported	CDS	64197	64256	.	-	0	ID=cds:tig00002121.g55958.t1;Parent=transcript:tig00002121.g55958.t1
+tig00002121	WormBase_imported	CDS	64099	64158	.	-	0	ID=cds:tig00002121.g55958.t1;Parent=transcript:tig00002121.g55958.t1
+tig00002121	WormBase_imported	CDS	64023	64061	.	-	0	ID=cds:tig00002121.g55958.t1;Parent=transcript:tig00002121.g55958.t1
+tig00002121	WormBase_imported	CDS	63954	63980	.	-	0	ID=cds:tig00002121.g55958.t1;Parent=transcript:tig00002121.g55958.t1
+tig00002121	WormBase_imported	CDS	63878	63913	.	-	0	ID=cds:tig00002121.g55958.t1;Parent=transcript:tig00002121.g55958.t1
+tig00002121	WormBase_imported	CDS	63777	63835	.	-	0	ID=cds:tig00002121.g55958.t1;Parent=transcript:tig00002121.g55958.t1
+tig00002121	WormBase_imported	CDS	63663	63732	.	-	1	ID=cds:tig00002121.g55958.t1;Parent=transcript:tig00002121.g55958.t1
+tig00002713	WormBase_imported	gene	205200	206193	.	+	.	ID=gene:tig00002713.g25642;Name=tig00002713.g25642;biotype=protein_coding
+tig00002713	WormBase_imported	mRNA	205200	206193	.	+	.	ID=transcript:tig00002713.g25642.t1;Parent=gene:tig00002713.g25642;Name=tig00002713.g25642.t1;info=method:InterPro accession:IPR000888 description:dTDP-4-dehydrorhamnose 3%2C5-epimerase-related %0Amethod:InterPro accession:IPR011051 description:RmlC-like cupin domain superfamily %0Amethod:InterPro accession:IPR014710 description:RmlC-like jelly roll fold
+#microexons transcript:tig00002713.g25642.t1:  40 99 20 36-57-60-42
+tig00002713	WormBase_imported	exon	205200	205239	.	+	.	ID=exon:tig00002713.g25642.t1.1;Parent=transcript:tig00002713.g25642.t1
+tig00002713	WormBase_imported	exon	205280	205378	.	+	.	ID=exon:tig00002713.g25642.t1.2;Parent=transcript:tig00002713.g25642.t1
+tig00002713	WormBase_imported	exon	205440	205459	.	+	.	ID=exon:tig00002713.g25642.t1.3;Parent=transcript:tig00002713.g25642.t1
+tig00002713	WormBase_imported	exon	205855	205890	.	+	.	ID=exon:tig00002713.g25642.t1.4;Parent=transcript:tig00002713.g25642.t1
+tig00002713	WormBase_imported	exon	205937	205993	.	+	.	ID=exon:tig00002713.g25642.t1.5;Parent=transcript:tig00002713.g25642.t1
+tig00002713	WormBase_imported	exon	206040	206099	.	+	.	ID=exon:tig00002713.g25642.t1.6;Parent=transcript:tig00002713.g25642.t1
+tig00002713	WormBase_imported	exon	206152	206193	.	+	.	ID=exon:tig00002713.g25642.t1.7;Parent=transcript:tig00002713.g25642.t1
+tig00002713	WormBase_imported	CDS	205200	205239	.	+	0	ID=cds:tig00002713.g25642.t1;Parent=transcript:tig00002713.g25642.t1
+tig00002713	WormBase_imported	CDS	205280	205378	.	+	2	ID=cds:tig00002713.g25642.t1;Parent=transcript:tig00002713.g25642.t1
+tig00002713	WormBase_imported	CDS	205440	205459	.	+	2	ID=cds:tig00002713.g25642.t1;Parent=transcript:tig00002713.g25642.t1
+tig00002713	WormBase_imported	CDS	205855	205890	.	+	0	ID=cds:tig00002713.g25642.t1;Parent=transcript:tig00002713.g25642.t1
+tig00002713	WormBase_imported	CDS	205937	205993	.	+	0	ID=cds:tig00002713.g25642.t1;Parent=transcript:tig00002713.g25642.t1
+tig00002713	WormBase_imported	CDS	206040	206099	.	+	0	ID=cds:tig00002713.g25642.t1;Parent=transcript:tig00002713.g25642.t1
+tig00002713	WormBase_imported	CDS	206152	206193	.	+	0	ID=cds:tig00002713.g25642.t1;Parent=transcript:tig00002713.g25642.t1
+tig00000581	WormBase_imported	gene	167697	168979	.	-	.	ID=gene:tig00000581.g53001;Name=tig00000581.g53001;biotype=protein_coding
+tig00000581	WormBase_imported	mRNA	167697	168979	.	-	.	ID=transcript:tig00000581.g53001.t1;Parent=gene:tig00000581.g53001;Name=tig00000581.g53001.t1
+#microexons transcript:tig00000581.g53001.t1:  22 66-36-36-60-270 56 156
+tig00000581	WormBase_imported	exon	168958	168979	.	-	.	ID=exon:tig00000581.g53001.t1.1;Parent=transcript:tig00000581.g53001.t1
+tig00000581	WormBase_imported	exon	168665	168730	.	-	.	ID=exon:tig00000581.g53001.t1.2;Parent=transcript:tig00000581.g53001.t1
+tig00000581	WormBase_imported	exon	168582	168617	.	-	.	ID=exon:tig00000581.g53001.t1.3;Parent=transcript:tig00000581.g53001.t1
+tig00000581	WormBase_imported	exon	168495	168530	.	-	.	ID=exon:tig00000581.g53001.t1.4;Parent=transcript:tig00000581.g53001.t1
+tig00000581	WormBase_imported	exon	168341	168400	.	-	.	ID=exon:tig00000581.g53001.t1.5;Parent=transcript:tig00000581.g53001.t1
+tig00000581	WormBase_imported	exon	167998	168267	.	-	.	ID=exon:tig00000581.g53001.t1.6;Parent=transcript:tig00000581.g53001.t1
+tig00000581	WormBase_imported	exon	167900	167955	.	-	.	ID=exon:tig00000581.g53001.t1.7;Parent=transcript:tig00000581.g53001.t1
+tig00000581	WormBase_imported	exon	167697	167852	.	-	.	ID=exon:tig00000581.g53001.t1.8;Parent=transcript:tig00000581.g53001.t1
+tig00000581	WormBase_imported	CDS	168958	168979	.	-	0	ID=cds:tig00000581.g53001.t1;Parent=transcript:tig00000581.g53001.t1
+tig00000581	WormBase_imported	CDS	168665	168730	.	-	2	ID=cds:tig00000581.g53001.t1;Parent=transcript:tig00000581.g53001.t1
+tig00000581	WormBase_imported	CDS	168582	168617	.	-	2	ID=cds:tig00000581.g53001.t1;Parent=transcript:tig00000581.g53001.t1
+tig00000581	WormBase_imported	CDS	168495	168530	.	-	2	ID=cds:tig00000581.g53001.t1;Parent=transcript:tig00000581.g53001.t1
+tig00000581	WormBase_imported	CDS	168341	168400	.	-	2	ID=cds:tig00000581.g53001.t1;Parent=transcript:tig00000581.g53001.t1
+tig00000581	WormBase_imported	CDS	167998	168267	.	-	2	ID=cds:tig00000581.g53001.t1;Parent=transcript:tig00000581.g53001.t1
+tig00000581	WormBase_imported	CDS	167900	167955	.	-	2	ID=cds:tig00000581.g53001.t1;Parent=transcript:tig00000581.g53001.t1
+tig00000581	WormBase_imported	CDS	167697	167852	.	-	0	ID=cds:tig00000581.g53001.t1;Parent=transcript:tig00000581.g53001.t1
 tig00001735	WormBase_imported	gene	17968	19471	.	+	.	ID=gene:tig00001735.g7391;Name=tig00001735.g7391;biotype=protein_coding
 tig00001735	WormBase_imported	mRNA	17968	19471	.	+	.	ID=transcript:tig00001735.g7391.t1;Parent=gene:tig00001735.g7391;Name=tig00001735.g7391.t1;info=method:InterPro accession:IPR005225 description:Small GTP-binding protein domain %0Amethod:InterPro accession:IPR006689 description:Small GTPase superfamily%2C ARF/SAR type %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase
 #microexons transcript:tig00001735.g7391.t1:  3-66 95 94 57-45-24-48-69-90
@@ -136,6 +454,23 @@ tig00001735	WormBase_imported	CDS	19046	19069	.	+	0	ID=cds:tig00001735.g7391.t1;
 tig00001735	WormBase_imported	CDS	19113	19160	.	+	0	ID=cds:tig00001735.g7391.t1;Parent=transcript:tig00001735.g7391.t1
 tig00001735	WormBase_imported	CDS	19271	19339	.	+	0	ID=cds:tig00001735.g7391.t1;Parent=transcript:tig00001735.g7391.t1
 tig00001735	WormBase_imported	CDS	19382	19471	.	+	0	ID=cds:tig00001735.g7391.t1;Parent=transcript:tig00001735.g7391.t1
+tig00002133	WormBase_imported	gene	61380	61958	.	-	.	ID=gene:tig00002133.g46438;Name=tig00002133.g46438;biotype=protein_coding
+tig00002133	WormBase_imported	mRNA	61380	61958	.	-	.	ID=transcript:tig00002133.g46438.t1;Parent=gene:tig00002133.g46438;Name=tig00002133.g46438.t1;info=method:InterPro accession:IPR005746 description:Thioredoxin %0Amethod:InterPro accession:IPR013766 description:Thioredoxin domain %0Amethod:InterPro accession:IPR017937 description:Thioredoxin%2C conserved site %0Amethod:InterPro accession:IPR036249 description:Thioredoxin-like superfamily
+#microexons transcript:tig00002133.g46438.t1:  33 68 37 57-30-42-60
+tig00002133	WormBase_imported	exon	61926	61958	.	-	.	ID=exon:tig00002133.g46438.t1.1;Parent=transcript:tig00002133.g46438.t1
+tig00002133	WormBase_imported	exon	61808	61875	.	-	.	ID=exon:tig00002133.g46438.t1.2;Parent=transcript:tig00002133.g46438.t1
+tig00002133	WormBase_imported	exon	61733	61769	.	-	.	ID=exon:tig00002133.g46438.t1.3;Parent=transcript:tig00002133.g46438.t1
+tig00002133	WormBase_imported	exon	61632	61688	.	-	.	ID=exon:tig00002133.g46438.t1.4;Parent=transcript:tig00002133.g46438.t1
+tig00002133	WormBase_imported	exon	61561	61590	.	-	.	ID=exon:tig00002133.g46438.t1.5;Parent=transcript:tig00002133.g46438.t1
+tig00002133	WormBase_imported	exon	61479	61520	.	-	.	ID=exon:tig00002133.g46438.t1.6;Parent=transcript:tig00002133.g46438.t1
+tig00002133	WormBase_imported	exon	61380	61439	.	-	.	ID=exon:tig00002133.g46438.t1.7;Parent=transcript:tig00002133.g46438.t1
+tig00002133	WormBase_imported	CDS	61926	61958	.	-	0	ID=cds:tig00002133.g46438.t1;Parent=transcript:tig00002133.g46438.t1
+tig00002133	WormBase_imported	CDS	61808	61875	.	-	0	ID=cds:tig00002133.g46438.t1;Parent=transcript:tig00002133.g46438.t1
+tig00002133	WormBase_imported	CDS	61733	61769	.	-	1	ID=cds:tig00002133.g46438.t1;Parent=transcript:tig00002133.g46438.t1
+tig00002133	WormBase_imported	CDS	61632	61688	.	-	0	ID=cds:tig00002133.g46438.t1;Parent=transcript:tig00002133.g46438.t1
+tig00002133	WormBase_imported	CDS	61561	61590	.	-	0	ID=cds:tig00002133.g46438.t1;Parent=transcript:tig00002133.g46438.t1
+tig00002133	WormBase_imported	CDS	61479	61520	.	-	0	ID=cds:tig00002133.g46438.t1;Parent=transcript:tig00002133.g46438.t1
+tig00002133	WormBase_imported	CDS	61380	61439	.	-	0	ID=cds:tig00002133.g46438.t1;Parent=transcript:tig00002133.g46438.t1
 tig00002172	WormBase_imported	gene	8867	12304	.	+	.	ID=gene:tig00002172.g9047;Name=tig00002172.g9047;biotype=protein_coding
 tig00002172	WormBase_imported	mRNA	8867	12304	.	+	.	ID=transcript:tig00002172.g9047.t1;Parent=gene:tig00002172.g9047;Name=tig00002172.g9047.t1;info=method:InterPro accession:IPR001279 description:Metallo-beta-lactamase %0Amethod:InterPro accession:IPR036866 description:Ribonuclease Z/Hydroxyacylglutathione hydrolase-like %0Amethod:InterPro accession:IPR039344 description:Metallo-beta-lactamase domain-containing protein 1
 #microexons transcript:tig00002172.g9047.t1:  153-24 133 32 30-33-18-51-84-51-207
@@ -222,6 +557,25 @@ tig00002886	WormBase_imported	CDS	54570	54608	.	-	1	ID=cds:tig00002886.g42712.t1
 tig00002886	WormBase_imported	CDS	54446	54490	.	-	1	ID=cds:tig00002886.g42712.t1;Parent=transcript:tig00002886.g42712.t1
 tig00002886	WormBase_imported	CDS	54314	54352	.	-	1	ID=cds:tig00002886.g42712.t1;Parent=transcript:tig00002886.g42712.t1
 tig00002886	WormBase_imported	CDS	53852	53912	.	-	1	ID=cds:tig00002886.g42712.t1;Parent=transcript:tig00002886.g42712.t1
+tig00002339	WormBase_imported	gene	47982	49514	.	+	.	ID=gene:tig00002339.g14517;Name=tig00002339.g14517;biotype=protein_coding
+tig00002339	WormBase_imported	mRNA	47982	49514	.	+	.	ID=transcript:tig00002339.g14517.t1;Parent=gene:tig00002339.g14517;Name=tig00002339.g14517.t1;info=method:InterPro accession:IPR000888 description:dTDP-4-dehydrorhamnose 3%2C5-epimerase-related %0Amethod:InterPro accession:IPR011051 description:RmlC-like cupin domain superfamily %0Amethod:InterPro accession:IPR014710 description:RmlC-like jelly roll fold
+#microexons transcript:tig00002339.g14517.t1:  81 187 102 20 36-57-60-42
+tig00002339	WormBase_imported	exon	47982	48062	.	+	.	ID=exon:tig00002339.g14517.t1.1;Parent=transcript:tig00002339.g14517.t1
+tig00002339	WormBase_imported	exon	48355	48541	.	+	.	ID=exon:tig00002339.g14517.t1.2;Parent=transcript:tig00002339.g14517.t1
+tig00002339	WormBase_imported	exon	48593	48694	.	+	.	ID=exon:tig00002339.g14517.t1.3;Parent=transcript:tig00002339.g14517.t1
+tig00002339	WormBase_imported	exon	48755	48774	.	+	.	ID=exon:tig00002339.g14517.t1.4;Parent=transcript:tig00002339.g14517.t1
+tig00002339	WormBase_imported	exon	49176	49211	.	+	.	ID=exon:tig00002339.g14517.t1.5;Parent=transcript:tig00002339.g14517.t1
+tig00002339	WormBase_imported	exon	49258	49314	.	+	.	ID=exon:tig00002339.g14517.t1.6;Parent=transcript:tig00002339.g14517.t1
+tig00002339	WormBase_imported	exon	49367	49426	.	+	.	ID=exon:tig00002339.g14517.t1.7;Parent=transcript:tig00002339.g14517.t1
+tig00002339	WormBase_imported	exon	49473	49514	.	+	.	ID=exon:tig00002339.g14517.t1.8;Parent=transcript:tig00002339.g14517.t1
+tig00002339	WormBase_imported	CDS	47982	48062	.	+	0	ID=cds:tig00002339.g14517.t1;Parent=transcript:tig00002339.g14517.t1
+tig00002339	WormBase_imported	CDS	48355	48541	.	+	0	ID=cds:tig00002339.g14517.t1;Parent=transcript:tig00002339.g14517.t1
+tig00002339	WormBase_imported	CDS	48593	48694	.	+	2	ID=cds:tig00002339.g14517.t1;Parent=transcript:tig00002339.g14517.t1
+tig00002339	WormBase_imported	CDS	48755	48774	.	+	2	ID=cds:tig00002339.g14517.t1;Parent=transcript:tig00002339.g14517.t1
+tig00002339	WormBase_imported	CDS	49176	49211	.	+	0	ID=cds:tig00002339.g14517.t1;Parent=transcript:tig00002339.g14517.t1
+tig00002339	WormBase_imported	CDS	49258	49314	.	+	0	ID=cds:tig00002339.g14517.t1;Parent=transcript:tig00002339.g14517.t1
+tig00002339	WormBase_imported	CDS	49367	49426	.	+	0	ID=cds:tig00002339.g14517.t1;Parent=transcript:tig00002339.g14517.t1
+tig00002339	WormBase_imported	CDS	49473	49514	.	+	0	ID=cds:tig00002339.g14517.t1;Parent=transcript:tig00002339.g14517.t1
 tig00002793	WormBase_imported	gene	8935	10378	.	+	.	ID=gene:tig00002793.g35406;Name=tig00002793.g35406;biotype=protein_coding
 tig00002793	WormBase_imported	mRNA	8935	10378	.	+	.	ID=transcript:tig00002793.g35406.t1;Parent=gene:tig00002793.g35406;Name=tig00002793.g35406.t1
 #microexons transcript:tig00002793.g35406.t1:  98 36-36-39-45-39 61
@@ -239,6 +593,39 @@ tig00002793	WormBase_imported	CDS	9718	9756	.	+	1	ID=cds:tig00002793.g35406.t1;P
 tig00002793	WormBase_imported	CDS	9836	9880	.	+	1	ID=cds:tig00002793.g35406.t1;Parent=transcript:tig00002793.g35406.t1
 tig00002793	WormBase_imported	CDS	9973	10011	.	+	1	ID=cds:tig00002793.g35406.t1;Parent=transcript:tig00002793.g35406.t1
 tig00002793	WormBase_imported	CDS	10318	10378	.	+	1	ID=cds:tig00002793.g35406.t1;Parent=transcript:tig00002793.g35406.t1
+tig00001828	WormBase_imported	gene	70773	73130	.	+	.	ID=gene:tig00001828.g7487;Name=tig00001828.g7487;biotype=protein_coding
+tig00001828	WormBase_imported	mRNA	70773	73130	.	+	.	ID=transcript:tig00001828.g7487.t1;Parent=gene:tig00001828.g7487;Name=tig00001828.g7487.t1;info=method:InterPro accession:IPR000304 description:Pyrroline-5-carboxylate reductase %0Amethod:InterPro accession:IPR008927 description:6-phosphogluconate dehydrogenase-like%2C C-terminal domain superfamily %0Amethod:InterPro accession:IPR028939 description:Pyrroline-5-carboxylate reductase%2C catalytic%2C N-terminal %0Amethod:InterPro accession:IPR029036 description:Pyrroline-5-carboxylate reductase%2C dimerisation domain %0Amethod:InterPro accession:IPR036291 description:NAD(P)-binding domain superfamily
+#microexons transcript:tig00001828.g7487.t1:  46 62 30 37 66-51-66-45-18 53 57-45 118 130 178
+tig00001828	WormBase_imported	exon	70773	70818	.	+	.	ID=exon:tig00001828.g7487.t1.1;Parent=transcript:tig00001828.g7487.t1
+tig00001828	WormBase_imported	exon	70885	70946	.	+	.	ID=exon:tig00001828.g7487.t1.2;Parent=transcript:tig00001828.g7487.t1
+tig00001828	WormBase_imported	exon	70986	71015	.	+	.	ID=exon:tig00001828.g7487.t1.3;Parent=transcript:tig00001828.g7487.t1
+tig00001828	WormBase_imported	exon	71062	71098	.	+	.	ID=exon:tig00001828.g7487.t1.4;Parent=transcript:tig00001828.g7487.t1
+tig00001828	WormBase_imported	exon	71141	71206	.	+	.	ID=exon:tig00001828.g7487.t1.5;Parent=transcript:tig00001828.g7487.t1
+tig00001828	WormBase_imported	exon	71249	71299	.	+	.	ID=exon:tig00001828.g7487.t1.6;Parent=transcript:tig00001828.g7487.t1
+tig00001828	WormBase_imported	exon	71342	71407	.	+	.	ID=exon:tig00001828.g7487.t1.7;Parent=transcript:tig00001828.g7487.t1
+tig00001828	WormBase_imported	exon	71454	71498	.	+	.	ID=exon:tig00001828.g7487.t1.8;Parent=transcript:tig00001828.g7487.t1
+tig00001828	WormBase_imported	exon	71890	71907	.	+	.	ID=exon:tig00001828.g7487.t1.9;Parent=transcript:tig00001828.g7487.t1
+tig00001828	WormBase_imported	exon	71961	72013	.	+	.	ID=exon:tig00001828.g7487.t1.10;Parent=transcript:tig00001828.g7487.t1
+tig00001828	WormBase_imported	exon	72067	72123	.	+	.	ID=exon:tig00001828.g7487.t1.11;Parent=transcript:tig00001828.g7487.t1
+tig00001828	WormBase_imported	exon	72166	72210	.	+	.	ID=exon:tig00001828.g7487.t1.12;Parent=transcript:tig00001828.g7487.t1
+tig00001828	WormBase_imported	exon	72255	72372	.	+	.	ID=exon:tig00001828.g7487.t1.13;Parent=transcript:tig00001828.g7487.t1
+tig00001828	WormBase_imported	exon	72465	72594	.	+	.	ID=exon:tig00001828.g7487.t1.14;Parent=transcript:tig00001828.g7487.t1
+tig00001828	WormBase_imported	exon	72953	73130	.	+	.	ID=exon:tig00001828.g7487.t1.15;Parent=transcript:tig00001828.g7487.t1
+tig00001828	WormBase_imported	CDS	70773	70818	.	+	0	ID=cds:tig00001828.g7487.t1;Parent=transcript:tig00001828.g7487.t1
+tig00001828	WormBase_imported	CDS	70885	70946	.	+	2	ID=cds:tig00001828.g7487.t1;Parent=transcript:tig00001828.g7487.t1
+tig00001828	WormBase_imported	CDS	70986	71015	.	+	0	ID=cds:tig00001828.g7487.t1;Parent=transcript:tig00001828.g7487.t1
+tig00001828	WormBase_imported	CDS	71062	71098	.	+	0	ID=cds:tig00001828.g7487.t1;Parent=transcript:tig00001828.g7487.t1
+tig00001828	WormBase_imported	CDS	71141	71206	.	+	2	ID=cds:tig00001828.g7487.t1;Parent=transcript:tig00001828.g7487.t1
+tig00001828	WormBase_imported	CDS	71249	71299	.	+	2	ID=cds:tig00001828.g7487.t1;Parent=transcript:tig00001828.g7487.t1
+tig00001828	WormBase_imported	CDS	71342	71407	.	+	2	ID=cds:tig00001828.g7487.t1;Parent=transcript:tig00001828.g7487.t1
+tig00001828	WormBase_imported	CDS	71454	71498	.	+	2	ID=cds:tig00001828.g7487.t1;Parent=transcript:tig00001828.g7487.t1
+tig00001828	WormBase_imported	CDS	71890	71907	.	+	2	ID=cds:tig00001828.g7487.t1;Parent=transcript:tig00001828.g7487.t1
+tig00001828	WormBase_imported	CDS	71961	72013	.	+	2	ID=cds:tig00001828.g7487.t1;Parent=transcript:tig00001828.g7487.t1
+tig00001828	WormBase_imported	CDS	72067	72123	.	+	0	ID=cds:tig00001828.g7487.t1;Parent=transcript:tig00001828.g7487.t1
+tig00001828	WormBase_imported	CDS	72166	72210	.	+	0	ID=cds:tig00001828.g7487.t1;Parent=transcript:tig00001828.g7487.t1
+tig00001828	WormBase_imported	CDS	72255	72372	.	+	0	ID=cds:tig00001828.g7487.t1;Parent=transcript:tig00001828.g7487.t1
+tig00001828	WormBase_imported	CDS	72465	72594	.	+	2	ID=cds:tig00001828.g7487.t1;Parent=transcript:tig00001828.g7487.t1
+tig00001828	WormBase_imported	CDS	72953	73130	.	+	1	ID=cds:tig00001828.g7487.t1;Parent=transcript:tig00001828.g7487.t1
 tig00001482	WormBase_imported	gene	84923	86586	.	-	.	ID=gene:tig00001482.g11099;Name=tig00001482.g11099;biotype=protein_coding
 tig00001482	WormBase_imported	mRNA	84923	86586	.	-	.	ID=transcript:tig00001482.g11099.t1;Parent=gene:tig00001482.g11099;Name=tig00001482.g11099.t1
 #microexons transcript:tig00001482.g11099.t1:  3 110 90-27-18-36-24 100
@@ -258,6 +645,60 @@ tig00001482	WormBase_imported	CDS	85248	85265	.	-	1	ID=cds:tig00001482.g11099.t1
 tig00001482	WormBase_imported	CDS	85162	85197	.	-	1	ID=cds:tig00001482.g11099.t1;Parent=transcript:tig00001482.g11099.t1
 tig00001482	WormBase_imported	CDS	85090	85113	.	-	1	ID=cds:tig00001482.g11099.t1;Parent=transcript:tig00001482.g11099.t1
 tig00001482	WormBase_imported	CDS	84923	85022	.	-	1	ID=cds:tig00001482.g11099.t1;Parent=transcript:tig00001482.g11099.t1
+tig00000026	WormBase_imported	gene	36282	37384	.	-	.	ID=gene:tig00000026.g36429;Name=tig00000026.g36429;biotype=protein_coding
+tig00000026	WormBase_imported	mRNA	36282	37384	.	-	.	ID=transcript:tig00000026.g36429.t1;Parent=gene:tig00000026.g36429;Name=tig00000026.g36429.t1;info=method:InterPro accession:IPR006214 description:Bax inhibitor 1-related
+#microexons transcript:tig00000026.g36429.t1:  159-222 119 100 57-63-60-3
+tig00000026	WormBase_imported	exon	37226	37384	.	-	.	ID=exon:tig00000026.g36429.t1.1;Parent=transcript:tig00000026.g36429.t1
+tig00000026	WormBase_imported	exon	36960	37181	.	-	.	ID=exon:tig00000026.g36429.t1.2;Parent=transcript:tig00000026.g36429.t1
+tig00000026	WormBase_imported	exon	36798	36916	.	-	.	ID=exon:tig00000026.g36429.t1.3;Parent=transcript:tig00000026.g36429.t1
+tig00000026	WormBase_imported	exon	36643	36742	.	-	.	ID=exon:tig00000026.g36429.t1.4;Parent=transcript:tig00000026.g36429.t1
+tig00000026	WormBase_imported	exon	36546	36602	.	-	.	ID=exon:tig00000026.g36429.t1.5;Parent=transcript:tig00000026.g36429.t1
+tig00000026	WormBase_imported	exon	36436	36498	.	-	.	ID=exon:tig00000026.g36429.t1.6;Parent=transcript:tig00000026.g36429.t1
+tig00000026	WormBase_imported	exon	36331	36390	.	-	.	ID=exon:tig00000026.g36429.t1.7;Parent=transcript:tig00000026.g36429.t1
+tig00000026	WormBase_imported	exon	36282	36284	.	-	.	ID=exon:tig00000026.g36429.t1.8;Parent=transcript:tig00000026.g36429.t1
+tig00000026	WormBase_imported	CDS	37226	37384	.	-	0	ID=cds:tig00000026.g36429.t1;Parent=transcript:tig00000026.g36429.t1
+tig00000026	WormBase_imported	CDS	36960	37181	.	-	0	ID=cds:tig00000026.g36429.t1;Parent=transcript:tig00000026.g36429.t1
+tig00000026	WormBase_imported	CDS	36798	36916	.	-	0	ID=cds:tig00000026.g36429.t1;Parent=transcript:tig00000026.g36429.t1
+tig00000026	WormBase_imported	CDS	36643	36742	.	-	1	ID=cds:tig00000026.g36429.t1;Parent=transcript:tig00000026.g36429.t1
+tig00000026	WormBase_imported	CDS	36546	36602	.	-	0	ID=cds:tig00000026.g36429.t1;Parent=transcript:tig00000026.g36429.t1
+tig00000026	WormBase_imported	CDS	36436	36498	.	-	0	ID=cds:tig00000026.g36429.t1;Parent=transcript:tig00000026.g36429.t1
+tig00000026	WormBase_imported	CDS	36331	36390	.	-	0	ID=cds:tig00000026.g36429.t1;Parent=transcript:tig00000026.g36429.t1
+tig00000026	WormBase_imported	CDS	36282	36284	.	-	0	ID=cds:tig00000026.g36429.t1;Parent=transcript:tig00000026.g36429.t1
+tig00000561	WormBase_imported	gene	14979	19276	.	+	.	ID=gene:tig00000561.g74801;Name=tig00000561.g74801;biotype=protein_coding
+tig00000561	WormBase_imported	mRNA	14979	19276	.	+	.	ID=transcript:tig00000561.g74801.t1;Parent=gene:tig00000561.g74801;Name=tig00000561.g74801.t1
+#microexons transcript:tig00000561.g74801.t1:  328 75-132-51-63-42-54-72-57-63-24-69-78 95 90-153
+tig00000561	WormBase_imported	exon	14979	15306	.	+	.	ID=exon:tig00000561.g74801.t1.1;Parent=transcript:tig00000561.g74801.t1
+tig00000561	WormBase_imported	exon	15345	15419	.	+	.	ID=exon:tig00000561.g74801.t1.2;Parent=transcript:tig00000561.g74801.t1
+tig00000561	WormBase_imported	exon	15844	15975	.	+	.	ID=exon:tig00000561.g74801.t1.3;Parent=transcript:tig00000561.g74801.t1
+tig00000561	WormBase_imported	exon	16026	16076	.	+	.	ID=exon:tig00000561.g74801.t1.4;Parent=transcript:tig00000561.g74801.t1
+tig00000561	WormBase_imported	exon	16706	16768	.	+	.	ID=exon:tig00000561.g74801.t1.5;Parent=transcript:tig00000561.g74801.t1
+tig00000561	WormBase_imported	exon	16817	16858	.	+	.	ID=exon:tig00000561.g74801.t1.6;Parent=transcript:tig00000561.g74801.t1
+tig00000561	WormBase_imported	exon	16903	16956	.	+	.	ID=exon:tig00000561.g74801.t1.7;Parent=transcript:tig00000561.g74801.t1
+tig00000561	WormBase_imported	exon	17292	17363	.	+	.	ID=exon:tig00000561.g74801.t1.8;Parent=transcript:tig00000561.g74801.t1
+tig00000561	WormBase_imported	exon	17410	17466	.	+	.	ID=exon:tig00000561.g74801.t1.9;Parent=transcript:tig00000561.g74801.t1
+tig00000561	WormBase_imported	exon	17510	17572	.	+	.	ID=exon:tig00000561.g74801.t1.10;Parent=transcript:tig00000561.g74801.t1
+tig00000561	WormBase_imported	exon	18177	18200	.	+	.	ID=exon:tig00000561.g74801.t1.11;Parent=transcript:tig00000561.g74801.t1
+tig00000561	WormBase_imported	exon	18244	18312	.	+	.	ID=exon:tig00000561.g74801.t1.12;Parent=transcript:tig00000561.g74801.t1
+tig00000561	WormBase_imported	exon	18355	18432	.	+	.	ID=exon:tig00000561.g74801.t1.13;Parent=transcript:tig00000561.g74801.t1
+tig00000561	WormBase_imported	exon	18791	18885	.	+	.	ID=exon:tig00000561.g74801.t1.14;Parent=transcript:tig00000561.g74801.t1
+tig00000561	WormBase_imported	exon	18928	19017	.	+	.	ID=exon:tig00000561.g74801.t1.15;Parent=transcript:tig00000561.g74801.t1
+tig00000561	WormBase_imported	exon	19124	19276	.	+	.	ID=exon:tig00000561.g74801.t1.16;Parent=transcript:tig00000561.g74801.t1
+tig00000561	WormBase_imported	CDS	14979	15306	.	+	0	ID=cds:tig00000561.g74801.t1;Parent=transcript:tig00000561.g74801.t1
+tig00000561	WormBase_imported	CDS	15345	15419	.	+	2	ID=cds:tig00000561.g74801.t1;Parent=transcript:tig00000561.g74801.t1
+tig00000561	WormBase_imported	CDS	15844	15975	.	+	2	ID=cds:tig00000561.g74801.t1;Parent=transcript:tig00000561.g74801.t1
+tig00000561	WormBase_imported	CDS	16026	16076	.	+	2	ID=cds:tig00000561.g74801.t1;Parent=transcript:tig00000561.g74801.t1
+tig00000561	WormBase_imported	CDS	16706	16768	.	+	2	ID=cds:tig00000561.g74801.t1;Parent=transcript:tig00000561.g74801.t1
+tig00000561	WormBase_imported	CDS	16817	16858	.	+	2	ID=cds:tig00000561.g74801.t1;Parent=transcript:tig00000561.g74801.t1
+tig00000561	WormBase_imported	CDS	16903	16956	.	+	2	ID=cds:tig00000561.g74801.t1;Parent=transcript:tig00000561.g74801.t1
+tig00000561	WormBase_imported	CDS	17292	17363	.	+	2	ID=cds:tig00000561.g74801.t1;Parent=transcript:tig00000561.g74801.t1
+tig00000561	WormBase_imported	CDS	17410	17466	.	+	2	ID=cds:tig00000561.g74801.t1;Parent=transcript:tig00000561.g74801.t1
+tig00000561	WormBase_imported	CDS	17510	17572	.	+	2	ID=cds:tig00000561.g74801.t1;Parent=transcript:tig00000561.g74801.t1
+tig00000561	WormBase_imported	CDS	18177	18200	.	+	2	ID=cds:tig00000561.g74801.t1;Parent=transcript:tig00000561.g74801.t1
+tig00000561	WormBase_imported	CDS	18244	18312	.	+	2	ID=cds:tig00000561.g74801.t1;Parent=transcript:tig00000561.g74801.t1
+tig00000561	WormBase_imported	CDS	18355	18432	.	+	2	ID=cds:tig00000561.g74801.t1;Parent=transcript:tig00000561.g74801.t1
+tig00000561	WormBase_imported	CDS	18791	18885	.	+	2	ID=cds:tig00000561.g74801.t1;Parent=transcript:tig00000561.g74801.t1
+tig00000561	WormBase_imported	CDS	18928	19017	.	+	0	ID=cds:tig00000561.g74801.t1;Parent=transcript:tig00000561.g74801.t1
+tig00000561	WormBase_imported	CDS	19124	19276	.	+	0	ID=cds:tig00000561.g74801.t1;Parent=transcript:tig00000561.g74801.t1
 tig00001791	WormBase_imported	gene	124443	126794	.	-	.	ID=gene:tig00001791.g37179;Name=tig00001791.g37179;biotype=protein_coding
 tig00001791	WormBase_imported	mRNA	124443	126794	.	-	.	ID=transcript:tig00001791.g37179.t1;Parent=gene:tig00001791.g37179;Name=tig00001791.g37179.t1
 #microexons transcript:tig00001791.g37179.t1:  138-96-72-51-51-51-51-51-51-51 134 169 264
@@ -287,6 +728,29 @@ tig00001791	WormBase_imported	CDS	125349	125399	.	-	0	ID=cds:tig00001791.g37179.
 tig00001791	WormBase_imported	CDS	125018	125151	.	-	0	ID=cds:tig00001791.g37179.t1;Parent=transcript:tig00001791.g37179.t1
 tig00001791	WormBase_imported	CDS	124754	124922	.	-	1	ID=cds:tig00001791.g37179.t1;Parent=transcript:tig00001791.g37179.t1
 tig00001791	WormBase_imported	CDS	124443	124706	.	-	0	ID=cds:tig00001791.g37179.t1;Parent=transcript:tig00001791.g37179.t1
+tig00002933	WormBase_imported	gene	43140	44817	.	+	.	ID=gene:tig00002933.g9309;Name=tig00002933.g9309;biotype=protein_coding
+tig00002933	WormBase_imported	mRNA	43140	44817	.	+	.	ID=transcript:tig00002933.g9309.t1;Parent=gene:tig00002933.g9309;Name=tig00002933.g9309.t1;info=method:InterPro accession:IPR001978 description:Troponin %0Amethod:InterPro accession:IPR038077 description:Troponin domain superfamily
+#microexons transcript:tig00002933.g9309.t1:  21-90-36 124 145 31 12-60-30-39
+tig00002933	WormBase_imported	exon	43140	43160	.	+	.	ID=exon:tig00002933.g9309.t1.1;Parent=transcript:tig00002933.g9309.t1
+tig00002933	WormBase_imported	exon	43203	43292	.	+	.	ID=exon:tig00002933.g9309.t1.2;Parent=transcript:tig00002933.g9309.t1
+tig00002933	WormBase_imported	exon	43338	43373	.	+	.	ID=exon:tig00002933.g9309.t1.3;Parent=transcript:tig00002933.g9309.t1
+tig00002933	WormBase_imported	exon	43687	43810	.	+	.	ID=exon:tig00002933.g9309.t1.4;Parent=transcript:tig00002933.g9309.t1
+tig00002933	WormBase_imported	exon	43852	43996	.	+	.	ID=exon:tig00002933.g9309.t1.5;Parent=transcript:tig00002933.g9309.t1
+tig00002933	WormBase_imported	exon	44046	44076	.	+	.	ID=exon:tig00002933.g9309.t1.6;Parent=transcript:tig00002933.g9309.t1
+tig00002933	WormBase_imported	exon	44138	44149	.	+	.	ID=exon:tig00002933.g9309.t1.7;Parent=transcript:tig00002933.g9309.t1
+tig00002933	WormBase_imported	exon	44207	44266	.	+	.	ID=exon:tig00002933.g9309.t1.8;Parent=transcript:tig00002933.g9309.t1
+tig00002933	WormBase_imported	exon	44677	44706	.	+	.	ID=exon:tig00002933.g9309.t1.9;Parent=transcript:tig00002933.g9309.t1
+tig00002933	WormBase_imported	exon	44779	44817	.	+	.	ID=exon:tig00002933.g9309.t1.10;Parent=transcript:tig00002933.g9309.t1
+tig00002933	WormBase_imported	CDS	43140	43160	.	+	0	ID=cds:tig00002933.g9309.t1;Parent=transcript:tig00002933.g9309.t1
+tig00002933	WormBase_imported	CDS	43203	43292	.	+	0	ID=cds:tig00002933.g9309.t1;Parent=transcript:tig00002933.g9309.t1
+tig00002933	WormBase_imported	CDS	43338	43373	.	+	0	ID=cds:tig00002933.g9309.t1;Parent=transcript:tig00002933.g9309.t1
+tig00002933	WormBase_imported	CDS	43687	43810	.	+	0	ID=cds:tig00002933.g9309.t1;Parent=transcript:tig00002933.g9309.t1
+tig00002933	WormBase_imported	CDS	43852	43996	.	+	2	ID=cds:tig00002933.g9309.t1;Parent=transcript:tig00002933.g9309.t1
+tig00002933	WormBase_imported	CDS	44046	44076	.	+	1	ID=cds:tig00002933.g9309.t1;Parent=transcript:tig00002933.g9309.t1
+tig00002933	WormBase_imported	CDS	44138	44149	.	+	0	ID=cds:tig00002933.g9309.t1;Parent=transcript:tig00002933.g9309.t1
+tig00002933	WormBase_imported	CDS	44207	44266	.	+	0	ID=cds:tig00002933.g9309.t1;Parent=transcript:tig00002933.g9309.t1
+tig00002933	WormBase_imported	CDS	44677	44706	.	+	0	ID=cds:tig00002933.g9309.t1;Parent=transcript:tig00002933.g9309.t1
+tig00002933	WormBase_imported	CDS	44779	44817	.	+	0	ID=cds:tig00002933.g9309.t1;Parent=transcript:tig00002933.g9309.t1
 tig00000194	WormBase_imported	gene	52805	54286	.	-	.	ID=gene:tig00000194.g44074;Name=tig00000194.g44074;biotype=protein_coding
 tig00000194	WormBase_imported	mRNA	52805	54286	.	-	.	ID=transcript:tig00000194.g44074.t1;Parent=gene:tig00000194.g44074;Name=tig00000194.g44074.t1;info=method:InterPro accession:IPR006689 description:Small GTPase superfamily%2C ARF/SAR type %0Amethod:InterPro accession:IPR027417 description:P-loop containing nucleoside triphosphate hydrolase
 #microexons transcript:tig00000194.g44074.t1:  3-66 95 94 57-45-24-48-69-90
@@ -371,6 +835,75 @@ tig00002002	WormBase_imported	CDS	96567	96590	.	-	0	ID=cds:tig00002002.g3832.t1;
 tig00002002	WormBase_imported	CDS	96479	96526	.	-	0	ID=cds:tig00002002.g3832.t1;Parent=transcript:tig00002002.g3832.t1
 tig00002002	WormBase_imported	CDS	96286	96354	.	-	0	ID=cds:tig00002002.g3832.t1;Parent=transcript:tig00002002.g3832.t1
 tig00002002	WormBase_imported	CDS	96154	96243	.	-	0	ID=cds:tig00002002.g3832.t1;Parent=transcript:tig00002002.g3832.t1
+tig00002582	WormBase_imported	gene	8965	11480	.	+	.	ID=gene:tig00002582.g58239;Name=tig00002582.g58239;biotype=protein_coding
+tig00002582	WormBase_imported	mRNA	8965	11480	.	+	.	ID=transcript:tig00002582.g58239.t1;Parent=gene:tig00002582.g58239;Name=tig00002582.g58239.t1;info=method:InterPro accession:IPR001680 description:WD40 repeat %0Amethod:InterPro accession:IPR015943 description:WD40/YVTN repeat-like-containing domain superfamily %0Amethod:InterPro accession:IPR017986 description:WD40-repeat-containing domain %0Amethod:InterPro accession:IPR019775 description:WD40 repeat%2C conserved site %0Amethod:InterPro accession:IPR036322 description:WD40-repeat-containing domain superfamily
+#microexons transcript:tig00002582.g58239.t1:  63 65 148 30-36-48-51-84 22 69 56 118 45 41 39
+tig00002582	WormBase_imported	exon	8965	9027	.	+	.	ID=exon:tig00002582.g58239.t1.1;Parent=transcript:tig00002582.g58239.t1
+tig00002582	WormBase_imported	exon	9233	9297	.	+	.	ID=exon:tig00002582.g58239.t1.2;Parent=transcript:tig00002582.g58239.t1
+tig00002582	WormBase_imported	exon	9375	9522	.	+	.	ID=exon:tig00002582.g58239.t1.3;Parent=transcript:tig00002582.g58239.t1
+tig00002582	WormBase_imported	exon	9569	9598	.	+	.	ID=exon:tig00002582.g58239.t1.4;Parent=transcript:tig00002582.g58239.t1
+tig00002582	WormBase_imported	exon	10006	10041	.	+	.	ID=exon:tig00002582.g58239.t1.5;Parent=transcript:tig00002582.g58239.t1
+tig00002582	WormBase_imported	exon	10088	10135	.	+	.	ID=exon:tig00002582.g58239.t1.6;Parent=transcript:tig00002582.g58239.t1
+tig00002582	WormBase_imported	exon	10188	10238	.	+	.	ID=exon:tig00002582.g58239.t1.7;Parent=transcript:tig00002582.g58239.t1
+tig00002582	WormBase_imported	exon	10289	10372	.	+	.	ID=exon:tig00002582.g58239.t1.8;Parent=transcript:tig00002582.g58239.t1
+tig00002582	WormBase_imported	exon	10461	10482	.	+	.	ID=exon:tig00002582.g58239.t1.9;Parent=transcript:tig00002582.g58239.t1
+tig00002582	WormBase_imported	exon	10536	10604	.	+	.	ID=exon:tig00002582.g58239.t1.10;Parent=transcript:tig00002582.g58239.t1
+tig00002582	WormBase_imported	exon	10648	10703	.	+	.	ID=exon:tig00002582.g58239.t1.11;Parent=transcript:tig00002582.g58239.t1
+tig00002582	WormBase_imported	exon	11103	11220	.	+	.	ID=exon:tig00002582.g58239.t1.12;Parent=transcript:tig00002582.g58239.t1
+tig00002582	WormBase_imported	exon	11263	11307	.	+	.	ID=exon:tig00002582.g58239.t1.13;Parent=transcript:tig00002582.g58239.t1
+tig00002582	WormBase_imported	exon	11353	11393	.	+	.	ID=exon:tig00002582.g58239.t1.14;Parent=transcript:tig00002582.g58239.t1
+tig00002582	WormBase_imported	exon	11442	11480	.	+	.	ID=exon:tig00002582.g58239.t1.15;Parent=transcript:tig00002582.g58239.t1
+tig00002582	WormBase_imported	CDS	8965	9027	.	+	0	ID=cds:tig00002582.g58239.t1;Parent=transcript:tig00002582.g58239.t1
+tig00002582	WormBase_imported	CDS	9233	9297	.	+	0	ID=cds:tig00002582.g58239.t1;Parent=transcript:tig00002582.g58239.t1
+tig00002582	WormBase_imported	CDS	9375	9522	.	+	1	ID=cds:tig00002582.g58239.t1;Parent=transcript:tig00002582.g58239.t1
+tig00002582	WormBase_imported	CDS	9569	9598	.	+	0	ID=cds:tig00002582.g58239.t1;Parent=transcript:tig00002582.g58239.t1
+tig00002582	WormBase_imported	CDS	10006	10041	.	+	0	ID=cds:tig00002582.g58239.t1;Parent=transcript:tig00002582.g58239.t1
+tig00002582	WormBase_imported	CDS	10088	10135	.	+	0	ID=cds:tig00002582.g58239.t1;Parent=transcript:tig00002582.g58239.t1
+tig00002582	WormBase_imported	CDS	10188	10238	.	+	0	ID=cds:tig00002582.g58239.t1;Parent=transcript:tig00002582.g58239.t1
+tig00002582	WormBase_imported	CDS	10289	10372	.	+	0	ID=cds:tig00002582.g58239.t1;Parent=transcript:tig00002582.g58239.t1
+tig00002582	WormBase_imported	CDS	10461	10482	.	+	0	ID=cds:tig00002582.g58239.t1;Parent=transcript:tig00002582.g58239.t1
+tig00002582	WormBase_imported	CDS	10536	10604	.	+	2	ID=cds:tig00002582.g58239.t1;Parent=transcript:tig00002582.g58239.t1
+tig00002582	WormBase_imported	CDS	10648	10703	.	+	2	ID=cds:tig00002582.g58239.t1;Parent=transcript:tig00002582.g58239.t1
+tig00002582	WormBase_imported	CDS	11103	11220	.	+	0	ID=cds:tig00002582.g58239.t1;Parent=transcript:tig00002582.g58239.t1
+tig00002582	WormBase_imported	CDS	11263	11307	.	+	2	ID=cds:tig00002582.g58239.t1;Parent=transcript:tig00002582.g58239.t1
+tig00002582	WormBase_imported	CDS	11353	11393	.	+	2	ID=cds:tig00002582.g58239.t1;Parent=transcript:tig00002582.g58239.t1
+tig00002582	WormBase_imported	CDS	11442	11480	.	+	0	ID=cds:tig00002582.g58239.t1;Parent=transcript:tig00002582.g58239.t1
+tig00001394	WormBase_imported	gene	52720	53306	.	-	.	ID=gene:tig00001394.g14016;Name=tig00001394.g14016;biotype=protein_coding
+tig00001394	WormBase_imported	mRNA	52720	53306	.	-	.	ID=transcript:tig00001394.g14016.t1;Parent=gene:tig00001394.g14016;Name=tig00001394.g14016.t1;info=method:InterPro accession:IPR005746 description:Thioredoxin %0Amethod:InterPro accession:IPR013766 description:Thioredoxin domain %0Amethod:InterPro accession:IPR017937 description:Thioredoxin%2C conserved site %0Amethod:InterPro accession:IPR036249 description:Thioredoxin-like superfamily
+#microexons transcript:tig00001394.g14016.t1:  33 68 37 57-30-42-60
+tig00001394	WormBase_imported	exon	53274	53306	.	-	.	ID=exon:tig00001394.g14016.t1.1;Parent=transcript:tig00001394.g14016.t1
+tig00001394	WormBase_imported	exon	53156	53223	.	-	.	ID=exon:tig00001394.g14016.t1.2;Parent=transcript:tig00001394.g14016.t1
+tig00001394	WormBase_imported	exon	53081	53117	.	-	.	ID=exon:tig00001394.g14016.t1.3;Parent=transcript:tig00001394.g14016.t1
+tig00001394	WormBase_imported	exon	52980	53036	.	-	.	ID=exon:tig00001394.g14016.t1.4;Parent=transcript:tig00001394.g14016.t1
+tig00001394	WormBase_imported	exon	52906	52935	.	-	.	ID=exon:tig00001394.g14016.t1.5;Parent=transcript:tig00001394.g14016.t1
+tig00001394	WormBase_imported	exon	52823	52864	.	-	.	ID=exon:tig00001394.g14016.t1.6;Parent=transcript:tig00001394.g14016.t1
+tig00001394	WormBase_imported	exon	52720	52779	.	-	.	ID=exon:tig00001394.g14016.t1.7;Parent=transcript:tig00001394.g14016.t1
+tig00001394	WormBase_imported	CDS	53274	53306	.	-	0	ID=cds:tig00001394.g14016.t1;Parent=transcript:tig00001394.g14016.t1
+tig00001394	WormBase_imported	CDS	53156	53223	.	-	0	ID=cds:tig00001394.g14016.t1;Parent=transcript:tig00001394.g14016.t1
+tig00001394	WormBase_imported	CDS	53081	53117	.	-	1	ID=cds:tig00001394.g14016.t1;Parent=transcript:tig00001394.g14016.t1
+tig00001394	WormBase_imported	CDS	52980	53036	.	-	0	ID=cds:tig00001394.g14016.t1;Parent=transcript:tig00001394.g14016.t1
+tig00001394	WormBase_imported	CDS	52906	52935	.	-	0	ID=cds:tig00001394.g14016.t1;Parent=transcript:tig00001394.g14016.t1
+tig00001394	WormBase_imported	CDS	52823	52864	.	-	0	ID=cds:tig00001394.g14016.t1;Parent=transcript:tig00001394.g14016.t1
+tig00001394	WormBase_imported	CDS	52720	52779	.	-	0	ID=cds:tig00001394.g14016.t1;Parent=transcript:tig00001394.g14016.t1
+tig00001402	WormBase_imported	gene	44043	45149	.	-	.	ID=gene:tig00001402.g4752;Name=tig00001402.g4752;biotype=protein_coding
+tig00001402	WormBase_imported	mRNA	44043	45149	.	-	.	ID=transcript:tig00001402.g4752.t1;Parent=gene:tig00001402.g4752;Name=tig00001402.g4752.t1;info=method:InterPro accession:IPR006214 description:Bax inhibitor 1-related
+#microexons transcript:tig00001402.g4752.t1:  159-222 119 100 57-63-60-3
+tig00001402	WormBase_imported	exon	44991	45149	.	-	.	ID=exon:tig00001402.g4752.t1.1;Parent=transcript:tig00001402.g4752.t1
+tig00001402	WormBase_imported	exon	44724	44945	.	-	.	ID=exon:tig00001402.g4752.t1.2;Parent=transcript:tig00001402.g4752.t1
+tig00001402	WormBase_imported	exon	44562	44680	.	-	.	ID=exon:tig00001402.g4752.t1.3;Parent=transcript:tig00001402.g4752.t1
+tig00001402	WormBase_imported	exon	44407	44506	.	-	.	ID=exon:tig00001402.g4752.t1.4;Parent=transcript:tig00001402.g4752.t1
+tig00001402	WormBase_imported	exon	44307	44363	.	-	.	ID=exon:tig00001402.g4752.t1.5;Parent=transcript:tig00001402.g4752.t1
+tig00001402	WormBase_imported	exon	44197	44259	.	-	.	ID=exon:tig00001402.g4752.t1.6;Parent=transcript:tig00001402.g4752.t1
+tig00001402	WormBase_imported	exon	44092	44151	.	-	.	ID=exon:tig00001402.g4752.t1.7;Parent=transcript:tig00001402.g4752.t1
+tig00001402	WormBase_imported	exon	44043	44045	.	-	.	ID=exon:tig00001402.g4752.t1.8;Parent=transcript:tig00001402.g4752.t1
+tig00001402	WormBase_imported	CDS	44991	45149	.	-	0	ID=cds:tig00001402.g4752.t1;Parent=transcript:tig00001402.g4752.t1
+tig00001402	WormBase_imported	CDS	44724	44945	.	-	0	ID=cds:tig00001402.g4752.t1;Parent=transcript:tig00001402.g4752.t1
+tig00001402	WormBase_imported	CDS	44562	44680	.	-	0	ID=cds:tig00001402.g4752.t1;Parent=transcript:tig00001402.g4752.t1
+tig00001402	WormBase_imported	CDS	44407	44506	.	-	1	ID=cds:tig00001402.g4752.t1;Parent=transcript:tig00001402.g4752.t1
+tig00001402	WormBase_imported	CDS	44307	44363	.	-	0	ID=cds:tig00001402.g4752.t1;Parent=transcript:tig00001402.g4752.t1
+tig00001402	WormBase_imported	CDS	44197	44259	.	-	0	ID=cds:tig00001402.g4752.t1;Parent=transcript:tig00001402.g4752.t1
+tig00001402	WormBase_imported	CDS	44092	44151	.	-	0	ID=cds:tig00001402.g4752.t1;Parent=transcript:tig00001402.g4752.t1
+tig00001402	WormBase_imported	CDS	44043	44045	.	-	0	ID=cds:tig00001402.g4752.t1;Parent=transcript:tig00001402.g4752.t1
 tig00001555	WormBase_imported	gene	1308	2766	.	+	.	ID=gene:tig00001555.g26503;Name=tig00001555.g26503;biotype=protein_coding
 tig00001555	WormBase_imported	mRNA	1308	2766	.	+	.	ID=transcript:tig00001555.g26503.t1;Parent=gene:tig00001555.g26503;Name=tig00001555.g26503.t1
 #microexons transcript:tig00001555.g26503.t1:  69-51-51-51-30-51-51 134 67
@@ -409,6 +942,117 @@ tig00002792	WormBase_imported	CDS	62130	62168	.	+	1	ID=cds:tig00002792.g36398.t1
 tig00002792	WormBase_imported	CDS	62247	62291	.	+	1	ID=cds:tig00002792.g36398.t1;Parent=transcript:tig00002792.g36398.t1
 tig00002792	WormBase_imported	CDS	62385	62423	.	+	1	ID=cds:tig00002792.g36398.t1;Parent=transcript:tig00002792.g36398.t1
 tig00002792	WormBase_imported	CDS	62730	62790	.	+	1	ID=cds:tig00002792.g36398.t1;Parent=transcript:tig00002792.g36398.t1
+tig00001116	WormBase_imported	gene	5054	6130	.	+	.	ID=gene:tig00001116.g29648;Name=tig00001116.g29648;biotype=protein_coding
+tig00001116	WormBase_imported	mRNA	5054	6130	.	+	.	ID=transcript:tig00001116.g29648.t1;Parent=gene:tig00001116.g29648;Name=tig00001116.g29648.t1;info=method:InterPro accession:IPR015943 description:WD40/YVTN repeat-like-containing domain superfamily
+#microexons transcript:tig00001116.g29648.t1:  109 59 60-60-60-60-63
+tig00001116	WormBase_imported	exon	5054	5162	.	+	.	ID=exon:tig00001116.g29648.t1.1;Parent=transcript:tig00001116.g29648.t1
+tig00001116	WormBase_imported	exon	5212	5270	.	+	.	ID=exon:tig00001116.g29648.t1.2;Parent=transcript:tig00001116.g29648.t1
+tig00001116	WormBase_imported	exon	5408	5467	.	+	.	ID=exon:tig00001116.g29648.t1.3;Parent=transcript:tig00001116.g29648.t1
+tig00001116	WormBase_imported	exon	5573	5632	.	+	.	ID=exon:tig00001116.g29648.t1.4;Parent=transcript:tig00001116.g29648.t1
+tig00001116	WormBase_imported	exon	5738	5797	.	+	.	ID=exon:tig00001116.g29648.t1.5;Parent=transcript:tig00001116.g29648.t1
+tig00001116	WormBase_imported	exon	5903	5962	.	+	.	ID=exon:tig00001116.g29648.t1.6;Parent=transcript:tig00001116.g29648.t1
+tig00001116	WormBase_imported	exon	6068	6130	.	+	.	ID=exon:tig00001116.g29648.t1.7;Parent=transcript:tig00001116.g29648.t1
+tig00001116	WormBase_imported	CDS	5054	5162	.	+	0	ID=cds:tig00001116.g29648.t1;Parent=transcript:tig00001116.g29648.t1
+tig00001116	WormBase_imported	CDS	5212	5270	.	+	2	ID=cds:tig00001116.g29648.t1;Parent=transcript:tig00001116.g29648.t1
+tig00001116	WormBase_imported	CDS	5408	5467	.	+	0	ID=cds:tig00001116.g29648.t1;Parent=transcript:tig00001116.g29648.t1
+tig00001116	WormBase_imported	CDS	5573	5632	.	+	0	ID=cds:tig00001116.g29648.t1;Parent=transcript:tig00001116.g29648.t1
+tig00001116	WormBase_imported	CDS	5738	5797	.	+	0	ID=cds:tig00001116.g29648.t1;Parent=transcript:tig00001116.g29648.t1
+tig00001116	WormBase_imported	CDS	5903	5962	.	+	0	ID=cds:tig00001116.g29648.t1;Parent=transcript:tig00001116.g29648.t1
+tig00001116	WormBase_imported	CDS	6068	6130	.	+	0	ID=cds:tig00001116.g29648.t1;Parent=transcript:tig00001116.g29648.t1
+tig00001830	WormBase_imported	gene	51249	53877	.	-	.	ID=gene:tig00001830.g4907;Name=tig00001830.g4907;biotype=protein_coding
+tig00001830	WormBase_imported	mRNA	51249	53877	.	-	.	ID=transcript:tig00001830.g4907.t1;Parent=gene:tig00001830.g4907;Name=tig00001830.g4907.t1;info=method:InterPro accession:IPR000304 description:Pyrroline-5-carboxylate reductase %0Amethod:InterPro accession:IPR008927 description:6-phosphogluconate dehydrogenase-like%2C C-terminal domain superfamily %0Amethod:InterPro accession:IPR028939 description:Pyrroline-5-carboxylate reductase%2C catalytic%2C N-terminal %0Amethod:InterPro accession:IPR029036 description:Pyrroline-5-carboxylate reductase%2C dimerisation domain %0Amethod:InterPro accession:IPR036291 description:NAD(P)-binding domain superfamily
+#microexons transcript:tig00001830.g4907.t1:  46 62 30 37 66-51-66-45-18 53 57-45 118 130 136 39
+tig00001830	WormBase_imported	exon	53832	53877	.	-	.	ID=exon:tig00001830.g4907.t1.1;Parent=transcript:tig00001830.g4907.t1
+tig00001830	WormBase_imported	exon	53704	53765	.	-	.	ID=exon:tig00001830.g4907.t1.2;Parent=transcript:tig00001830.g4907.t1
+tig00001830	WormBase_imported	exon	53635	53664	.	-	.	ID=exon:tig00001830.g4907.t1.3;Parent=transcript:tig00001830.g4907.t1
+tig00001830	WormBase_imported	exon	53551	53587	.	-	.	ID=exon:tig00001830.g4907.t1.4;Parent=transcript:tig00001830.g4907.t1
+tig00001830	WormBase_imported	exon	53443	53508	.	-	.	ID=exon:tig00001830.g4907.t1.5;Parent=transcript:tig00001830.g4907.t1
+tig00001830	WormBase_imported	exon	53350	53400	.	-	.	ID=exon:tig00001830.g4907.t1.6;Parent=transcript:tig00001830.g4907.t1
+tig00001830	WormBase_imported	exon	53247	53312	.	-	.	ID=exon:tig00001830.g4907.t1.7;Parent=transcript:tig00001830.g4907.t1
+tig00001830	WormBase_imported	exon	53156	53200	.	-	.	ID=exon:tig00001830.g4907.t1.8;Parent=transcript:tig00001830.g4907.t1
+tig00001830	WormBase_imported	exon	52531	52548	.	-	.	ID=exon:tig00001830.g4907.t1.9;Parent=transcript:tig00001830.g4907.t1
+tig00001830	WormBase_imported	exon	52424	52476	.	-	.	ID=exon:tig00001830.g4907.t1.10;Parent=transcript:tig00001830.g4907.t1
+tig00001830	WormBase_imported	exon	52315	52371	.	-	.	ID=exon:tig00001830.g4907.t1.11;Parent=transcript:tig00001830.g4907.t1
+tig00001830	WormBase_imported	exon	52224	52268	.	-	.	ID=exon:tig00001830.g4907.t1.12;Parent=transcript:tig00001830.g4907.t1
+tig00001830	WormBase_imported	exon	52062	52179	.	-	.	ID=exon:tig00001830.g4907.t1.13;Parent=transcript:tig00001830.g4907.t1
+tig00001830	WormBase_imported	exon	51855	51984	.	-	.	ID=exon:tig00001830.g4907.t1.14;Parent=transcript:tig00001830.g4907.t1
+tig00001830	WormBase_imported	exon	51337	51472	.	-	.	ID=exon:tig00001830.g4907.t1.15;Parent=transcript:tig00001830.g4907.t1
+tig00001830	WormBase_imported	exon	51249	51287	.	-	.	ID=exon:tig00001830.g4907.t1.16;Parent=transcript:tig00001830.g4907.t1
+tig00001830	WormBase_imported	CDS	53832	53877	.	-	0	ID=cds:tig00001830.g4907.t1;Parent=transcript:tig00001830.g4907.t1
+tig00001830	WormBase_imported	CDS	53704	53765	.	-	2	ID=cds:tig00001830.g4907.t1;Parent=transcript:tig00001830.g4907.t1
+tig00001830	WormBase_imported	CDS	53635	53664	.	-	0	ID=cds:tig00001830.g4907.t1;Parent=transcript:tig00001830.g4907.t1
+tig00001830	WormBase_imported	CDS	53551	53587	.	-	0	ID=cds:tig00001830.g4907.t1;Parent=transcript:tig00001830.g4907.t1
+tig00001830	WormBase_imported	CDS	53443	53508	.	-	2	ID=cds:tig00001830.g4907.t1;Parent=transcript:tig00001830.g4907.t1
+tig00001830	WormBase_imported	CDS	53350	53400	.	-	2	ID=cds:tig00001830.g4907.t1;Parent=transcript:tig00001830.g4907.t1
+tig00001830	WormBase_imported	CDS	53247	53312	.	-	2	ID=cds:tig00001830.g4907.t1;Parent=transcript:tig00001830.g4907.t1
+tig00001830	WormBase_imported	CDS	53156	53200	.	-	2	ID=cds:tig00001830.g4907.t1;Parent=transcript:tig00001830.g4907.t1
+tig00001830	WormBase_imported	CDS	52531	52548	.	-	2	ID=cds:tig00001830.g4907.t1;Parent=transcript:tig00001830.g4907.t1
+tig00001830	WormBase_imported	CDS	52424	52476	.	-	2	ID=cds:tig00001830.g4907.t1;Parent=transcript:tig00001830.g4907.t1
+tig00001830	WormBase_imported	CDS	52315	52371	.	-	0	ID=cds:tig00001830.g4907.t1;Parent=transcript:tig00001830.g4907.t1
+tig00001830	WormBase_imported	CDS	52224	52268	.	-	0	ID=cds:tig00001830.g4907.t1;Parent=transcript:tig00001830.g4907.t1
+tig00001830	WormBase_imported	CDS	52062	52179	.	-	0	ID=cds:tig00001830.g4907.t1;Parent=transcript:tig00001830.g4907.t1
+tig00001830	WormBase_imported	CDS	51855	51984	.	-	2	ID=cds:tig00001830.g4907.t1;Parent=transcript:tig00001830.g4907.t1
+tig00001830	WormBase_imported	CDS	51337	51472	.	-	1	ID=cds:tig00001830.g4907.t1;Parent=transcript:tig00001830.g4907.t1
+tig00001830	WormBase_imported	CDS	51249	51287	.	-	0	ID=cds:tig00001830.g4907.t1;Parent=transcript:tig00001830.g4907.t1
+tig00001833	WormBase_imported	gene	57678	60030	.	-	.	ID=gene:tig00001833.g2841;Name=tig00001833.g2841;biotype=protein_coding
+tig00001833	WormBase_imported	mRNA	57678	60030	.	-	.	ID=transcript:tig00001833.g2841.t1;Parent=gene:tig00001833.g2841;Name=tig00001833.g2841.t1
+#microexons transcript:tig00001833.g2841.t1:  24 134 169 219-51-66-66-48-54
+tig00001833	WormBase_imported	exon	60007	60030	.	-	.	ID=exon:tig00001833.g2841.t1.1;Parent=transcript:tig00001833.g2841.t1
+tig00001833	WormBase_imported	exon	59735	59868	.	-	.	ID=exon:tig00001833.g2841.t1.2;Parent=transcript:tig00001833.g2841.t1
+tig00001833	WormBase_imported	exon	59496	59664	.	-	.	ID=exon:tig00001833.g2841.t1.3;Parent=transcript:tig00001833.g2841.t1
+tig00001833	WormBase_imported	exon	59228	59446	.	-	.	ID=exon:tig00001833.g2841.t1.4;Parent=transcript:tig00001833.g2841.t1
+tig00001833	WormBase_imported	exon	58293	58343	.	-	.	ID=exon:tig00001833.g2841.t1.5;Parent=transcript:tig00001833.g2841.t1
+tig00001833	WormBase_imported	exon	58129	58194	.	-	.	ID=exon:tig00001833.g2841.t1.6;Parent=transcript:tig00001833.g2841.t1
+tig00001833	WormBase_imported	exon	57937	58002	.	-	.	ID=exon:tig00001833.g2841.t1.7;Parent=transcript:tig00001833.g2841.t1
+tig00001833	WormBase_imported	exon	57815	57862	.	-	.	ID=exon:tig00001833.g2841.t1.8;Parent=transcript:tig00001833.g2841.t1
+tig00001833	WormBase_imported	exon	57678	57731	.	-	.	ID=exon:tig00001833.g2841.t1.9;Parent=transcript:tig00001833.g2841.t1
+tig00001833	WormBase_imported	CDS	60007	60030	.	-	0	ID=cds:tig00001833.g2841.t1;Parent=transcript:tig00001833.g2841.t1
+tig00001833	WormBase_imported	CDS	59735	59868	.	-	0	ID=cds:tig00001833.g2841.t1;Parent=transcript:tig00001833.g2841.t1
+tig00001833	WormBase_imported	CDS	59496	59664	.	-	1	ID=cds:tig00001833.g2841.t1;Parent=transcript:tig00001833.g2841.t1
+tig00001833	WormBase_imported	CDS	59228	59446	.	-	0	ID=cds:tig00001833.g2841.t1;Parent=transcript:tig00001833.g2841.t1
+tig00001833	WormBase_imported	CDS	58293	58343	.	-	0	ID=cds:tig00001833.g2841.t1;Parent=transcript:tig00001833.g2841.t1
+tig00001833	WormBase_imported	CDS	58129	58194	.	-	0	ID=cds:tig00001833.g2841.t1;Parent=transcript:tig00001833.g2841.t1
+tig00001833	WormBase_imported	CDS	57937	58002	.	-	0	ID=cds:tig00001833.g2841.t1;Parent=transcript:tig00001833.g2841.t1
+tig00001833	WormBase_imported	CDS	57815	57862	.	-	0	ID=cds:tig00001833.g2841.t1;Parent=transcript:tig00001833.g2841.t1
+tig00001833	WormBase_imported	CDS	57678	57731	.	-	0	ID=cds:tig00001833.g2841.t1;Parent=transcript:tig00001833.g2841.t1
+tig00000739	WormBase_imported	gene	366	4071	.	-	.	ID=gene:tig00000739.g59792;Name=tig00000739.g59792;biotype=protein_coding
+tig00000739	WormBase_imported	mRNA	366	4071	.	-	.	ID=transcript:tig00000739.g59792.t1;Parent=gene:tig00000739.g59792;Name=tig00000739.g59792.t1
+#microexons transcript:tig00000739.g59792.t1:  21 25 66-45-66-66-99 133 241
+tig00000739	WormBase_imported	exon	4051	4071	.	-	.	ID=exon:tig00000739.g59792.t1.1;Parent=transcript:tig00000739.g59792.t1
+tig00000739	WormBase_imported	exon	3923	3947	.	-	.	ID=exon:tig00000739.g59792.t1.2;Parent=transcript:tig00000739.g59792.t1
+tig00000739	WormBase_imported	exon	3808	3873	.	-	.	ID=exon:tig00000739.g59792.t1.3;Parent=transcript:tig00000739.g59792.t1
+tig00000739	WormBase_imported	exon	3615	3659	.	-	.	ID=exon:tig00000739.g59792.t1.4;Parent=transcript:tig00000739.g59792.t1
+tig00000739	WormBase_imported	exon	3077	3142	.	-	.	ID=exon:tig00000739.g59792.t1.5;Parent=transcript:tig00000739.g59792.t1
+tig00000739	WormBase_imported	exon	2366	2431	.	-	.	ID=exon:tig00000739.g59792.t1.6;Parent=transcript:tig00000739.g59792.t1
+tig00000739	WormBase_imported	exon	2220	2318	.	-	.	ID=exon:tig00000739.g59792.t1.7;Parent=transcript:tig00000739.g59792.t1
+tig00000739	WormBase_imported	exon	1305	1437	.	-	.	ID=exon:tig00000739.g59792.t1.8;Parent=transcript:tig00000739.g59792.t1
+tig00000739	WormBase_imported	exon	366	606	.	-	.	ID=exon:tig00000739.g59792.t1.9;Parent=transcript:tig00000739.g59792.t1
+tig00000739	WormBase_imported	CDS	4051	4071	.	-	0	ID=cds:tig00000739.g59792.t1;Parent=transcript:tig00000739.g59792.t1
+tig00000739	WormBase_imported	CDS	3923	3947	.	-	0	ID=cds:tig00000739.g59792.t1;Parent=transcript:tig00000739.g59792.t1
+tig00000739	WormBase_imported	CDS	3808	3873	.	-	2	ID=cds:tig00000739.g59792.t1;Parent=transcript:tig00000739.g59792.t1
+tig00000739	WormBase_imported	CDS	3615	3659	.	-	2	ID=cds:tig00000739.g59792.t1;Parent=transcript:tig00000739.g59792.t1
+tig00000739	WormBase_imported	CDS	3077	3142	.	-	2	ID=cds:tig00000739.g59792.t1;Parent=transcript:tig00000739.g59792.t1
+tig00000739	WormBase_imported	CDS	2366	2431	.	-	2	ID=cds:tig00000739.g59792.t1;Parent=transcript:tig00000739.g59792.t1
+tig00000739	WormBase_imported	CDS	2220	2318	.	-	2	ID=cds:tig00000739.g59792.t1;Parent=transcript:tig00000739.g59792.t1
+tig00000739	WormBase_imported	CDS	1305	1437	.	-	2	ID=cds:tig00000739.g59792.t1;Parent=transcript:tig00000739.g59792.t1
+tig00000739	WormBase_imported	CDS	366	606	.	-	1	ID=cds:tig00000739.g59792.t1;Parent=transcript:tig00000739.g59792.t1
+tig00002046	WormBase_imported	gene	13603	14195	.	+	.	ID=gene:tig00002046.g42432;Name=tig00002046.g42432;biotype=protein_coding
+tig00002046	WormBase_imported	mRNA	13603	14195	.	+	.	ID=transcript:tig00002046.g42432.t1;Parent=gene:tig00002046.g42432;Name=tig00002046.g42432.t1;info=method:InterPro accession:IPR005746 description:Thioredoxin %0Amethod:InterPro accession:IPR013766 description:Thioredoxin domain %0Amethod:InterPro accession:IPR017937 description:Thioredoxin%2C conserved site %0Amethod:InterPro accession:IPR036249 description:Thioredoxin-like superfamily
+#microexons transcript:tig00002046.g42432.t1:  33 68 37 57-30-42-60
+tig00002046	WormBase_imported	exon	13603	13635	.	+	.	ID=exon:tig00002046.g42432.t1.1;Parent=transcript:tig00002046.g42432.t1
+tig00002046	WormBase_imported	exon	13691	13758	.	+	.	ID=exon:tig00002046.g42432.t1.2;Parent=transcript:tig00002046.g42432.t1
+tig00002046	WormBase_imported	exon	13800	13836	.	+	.	ID=exon:tig00002046.g42432.t1.3;Parent=transcript:tig00002046.g42432.t1
+tig00002046	WormBase_imported	exon	13880	13936	.	+	.	ID=exon:tig00002046.g42432.t1.4;Parent=transcript:tig00002046.g42432.t1
+tig00002046	WormBase_imported	exon	13977	14006	.	+	.	ID=exon:tig00002046.g42432.t1.5;Parent=transcript:tig00002046.g42432.t1
+tig00002046	WormBase_imported	exon	14047	14088	.	+	.	ID=exon:tig00002046.g42432.t1.6;Parent=transcript:tig00002046.g42432.t1
+tig00002046	WormBase_imported	exon	14136	14195	.	+	.	ID=exon:tig00002046.g42432.t1.7;Parent=transcript:tig00002046.g42432.t1
+tig00002046	WormBase_imported	CDS	13603	13635	.	+	0	ID=cds:tig00002046.g42432.t1;Parent=transcript:tig00002046.g42432.t1
+tig00002046	WormBase_imported	CDS	13691	13758	.	+	0	ID=cds:tig00002046.g42432.t1;Parent=transcript:tig00002046.g42432.t1
+tig00002046	WormBase_imported	CDS	13800	13836	.	+	1	ID=cds:tig00002046.g42432.t1;Parent=transcript:tig00002046.g42432.t1
+tig00002046	WormBase_imported	CDS	13880	13936	.	+	0	ID=cds:tig00002046.g42432.t1;Parent=transcript:tig00002046.g42432.t1
+tig00002046	WormBase_imported	CDS	13977	14006	.	+	0	ID=cds:tig00002046.g42432.t1;Parent=transcript:tig00002046.g42432.t1
+tig00002046	WormBase_imported	CDS	14047	14088	.	+	0	ID=cds:tig00002046.g42432.t1;Parent=transcript:tig00002046.g42432.t1
+tig00002046	WormBase_imported	CDS	14136	14195	.	+	0	ID=cds:tig00002046.g42432.t1;Parent=transcript:tig00002046.g42432.t1
 tig00000381	WormBase_imported	gene	32901	35250	.	+	.	ID=gene:tig00000381.g13591;Name=tig00000381.g13591;biotype=protein_coding
 tig00000381	WormBase_imported	mRNA	32901	35250	.	+	.	ID=transcript:tig00000381.g13591.t1;Parent=gene:tig00000381.g13591;Name=tig00000381.g13591.t1
 #microexons transcript:tig00000381.g13591.t1:  138-96-72-51-51-51-51-51-51-51 134 169 264
@@ -457,6 +1101,37 @@ tig00002232	WormBase_imported	CDS	30557	30583	.	+	1	ID=cds:tig00002232.g32923.t1
 tig00002232	WormBase_imported	CDS	30639	30655	.	+	1	ID=cds:tig00002232.g32923.t1;Parent=transcript:tig00002232.g32923.t1
 tig00002232	WormBase_imported	CDS	30714	30818	.	+	2	ID=cds:tig00002232.g32923.t1;Parent=transcript:tig00002232.g32923.t1
 tig00002232	WormBase_imported	CDS	30860	30972	.	+	2	ID=cds:tig00002232.g32923.t1;Parent=transcript:tig00002232.g32923.t1
+tig00002503	WormBase_imported	gene	7744	10256	.	+	.	ID=gene:tig00002503.g37320;Name=tig00002503.g37320;biotype=protein_coding
+tig00002503	WormBase_imported	mRNA	7744	10256	.	+	.	ID=transcript:tig00002503.g37320.t1;Parent=gene:tig00002503.g37320;Name=tig00002503.g37320.t1;info=method:InterPro accession:IPR001680 description:WD40 repeat %0Amethod:InterPro accession:IPR015943 description:WD40/YVTN repeat-like-containing domain superfamily %0Amethod:InterPro accession:IPR017986 description:WD40-repeat-containing domain %0Amethod:InterPro accession:IPR036322 description:WD40-repeat-containing domain superfamily
+#microexons transcript:tig00002503.g37320.t1:  63 65 148 30-36-48-51 85 27-69 55 29 41 39
+tig00002503	WormBase_imported	exon	7744	7806	.	+	.	ID=exon:tig00002503.g37320.t1.1;Parent=transcript:tig00002503.g37320.t1
+tig00002503	WormBase_imported	exon	8013	8077	.	+	.	ID=exon:tig00002503.g37320.t1.2;Parent=transcript:tig00002503.g37320.t1
+tig00002503	WormBase_imported	exon	8155	8302	.	+	.	ID=exon:tig00002503.g37320.t1.3;Parent=transcript:tig00002503.g37320.t1
+tig00002503	WormBase_imported	exon	8349	8378	.	+	.	ID=exon:tig00002503.g37320.t1.4;Parent=transcript:tig00002503.g37320.t1
+tig00002503	WormBase_imported	exon	8785	8820	.	+	.	ID=exon:tig00002503.g37320.t1.5;Parent=transcript:tig00002503.g37320.t1
+tig00002503	WormBase_imported	exon	8867	8914	.	+	.	ID=exon:tig00002503.g37320.t1.6;Parent=transcript:tig00002503.g37320.t1
+tig00002503	WormBase_imported	exon	8967	9017	.	+	.	ID=exon:tig00002503.g37320.t1.7;Parent=transcript:tig00002503.g37320.t1
+tig00002503	WormBase_imported	exon	9068	9152	.	+	.	ID=exon:tig00002503.g37320.t1.8;Parent=transcript:tig00002503.g37320.t1
+tig00002503	WormBase_imported	exon	9241	9267	.	+	.	ID=exon:tig00002503.g37320.t1.9;Parent=transcript:tig00002503.g37320.t1
+tig00002503	WormBase_imported	exon	9316	9384	.	+	.	ID=exon:tig00002503.g37320.t1.10;Parent=transcript:tig00002503.g37320.t1
+tig00002503	WormBase_imported	exon	9428	9482	.	+	.	ID=exon:tig00002503.g37320.t1.11;Parent=transcript:tig00002503.g37320.t1
+tig00002503	WormBase_imported	exon	10040	10068	.	+	.	ID=exon:tig00002503.g37320.t1.12;Parent=transcript:tig00002503.g37320.t1
+tig00002503	WormBase_imported	exon	10129	10169	.	+	.	ID=exon:tig00002503.g37320.t1.13;Parent=transcript:tig00002503.g37320.t1
+tig00002503	WormBase_imported	exon	10218	10256	.	+	.	ID=exon:tig00002503.g37320.t1.14;Parent=transcript:tig00002503.g37320.t1
+tig00002503	WormBase_imported	CDS	7744	7806	.	+	0	ID=cds:tig00002503.g37320.t1;Parent=transcript:tig00002503.g37320.t1
+tig00002503	WormBase_imported	CDS	8013	8077	.	+	0	ID=cds:tig00002503.g37320.t1;Parent=transcript:tig00002503.g37320.t1
+tig00002503	WormBase_imported	CDS	8155	8302	.	+	1	ID=cds:tig00002503.g37320.t1;Parent=transcript:tig00002503.g37320.t1
+tig00002503	WormBase_imported	CDS	8349	8378	.	+	0	ID=cds:tig00002503.g37320.t1;Parent=transcript:tig00002503.g37320.t1
+tig00002503	WormBase_imported	CDS	8785	8820	.	+	0	ID=cds:tig00002503.g37320.t1;Parent=transcript:tig00002503.g37320.t1
+tig00002503	WormBase_imported	CDS	8867	8914	.	+	0	ID=cds:tig00002503.g37320.t1;Parent=transcript:tig00002503.g37320.t1
+tig00002503	WormBase_imported	CDS	8967	9017	.	+	0	ID=cds:tig00002503.g37320.t1;Parent=transcript:tig00002503.g37320.t1
+tig00002503	WormBase_imported	CDS	9068	9152	.	+	0	ID=cds:tig00002503.g37320.t1;Parent=transcript:tig00002503.g37320.t1
+tig00002503	WormBase_imported	CDS	9241	9267	.	+	2	ID=cds:tig00002503.g37320.t1;Parent=transcript:tig00002503.g37320.t1
+tig00002503	WormBase_imported	CDS	9316	9384	.	+	2	ID=cds:tig00002503.g37320.t1;Parent=transcript:tig00002503.g37320.t1
+tig00002503	WormBase_imported	CDS	9428	9482	.	+	2	ID=cds:tig00002503.g37320.t1;Parent=transcript:tig00002503.g37320.t1
+tig00002503	WormBase_imported	CDS	10040	10068	.	+	1	ID=cds:tig00002503.g37320.t1;Parent=transcript:tig00002503.g37320.t1
+tig00002503	WormBase_imported	CDS	10129	10169	.	+	2	ID=cds:tig00002503.g37320.t1;Parent=transcript:tig00002503.g37320.t1
+tig00002503	WormBase_imported	CDS	10218	10256	.	+	0	ID=cds:tig00002503.g37320.t1;Parent=transcript:tig00002503.g37320.t1
 tig00002074	WormBase_imported	gene	8597	9520	.	-	.	ID=gene:tig00002074.g19462;Name=tig00002074.g19462;biotype=protein_coding
 tig00002074	WormBase_imported	mRNA	8597	9520	.	-	.	ID=transcript:tig00002074.g19462.t1;Parent=gene:tig00002074.g19462;Name=tig00002074.g19462.t1
 #microexons transcript:tig00002074.g19462.t1:  120 194 166 51-42-42-33

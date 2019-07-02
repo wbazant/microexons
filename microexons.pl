@@ -53,7 +53,7 @@ sub any_transcript_has_microexon_structure {
 sub is_microexon_structure {
   my @scores = map {
     my $length = $_->[4] - $_->[3] + 1;
-    ($length % 3 ==0  && $length < 60 ) ? 1 : 0
+    ($length % 3 ==0  && $length < 70 ) ? 1 : 0
   } @_;
   my $scores_count = grep {$_ } @scores;
   my $all_exons = scalar @_;

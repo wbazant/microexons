@@ -1,3 +1,20 @@
+O_flexuosa-1.0_Cont2	WormBase_imported	gene	1147840	1151128	.	+	.	ID=gene:X798_00692;Name=X798_00692;biotype=protein_coding
+O_flexuosa-1.0_Cont2	WormBase_imported	mRNA	1147840	1151128	.	+	.	ID=transcript:X798_00692;Parent=gene:X798_00692;Name=X798_00692
+#microexons transcript:X798_00692:  69-48-18-12 71 7 33
+O_flexuosa-1.0_Cont2	WormBase_imported	exon	1147840	1147908	.	+	.	ID=exon:X798_00692.1;Parent=transcript:X798_00692
+O_flexuosa-1.0_Cont2	WormBase_imported	exon	1147947	1147994	.	+	.	ID=exon:X798_00692.2;Parent=transcript:X798_00692
+O_flexuosa-1.0_Cont2	WormBase_imported	exon	1148440	1148457	.	+	.	ID=exon:X798_00692.3;Parent=transcript:X798_00692
+O_flexuosa-1.0_Cont2	WormBase_imported	exon	1149897	1149908	.	+	.	ID=exon:X798_00692.4;Parent=transcript:X798_00692
+O_flexuosa-1.0_Cont2	WormBase_imported	exon	1150649	1150719	.	+	.	ID=exon:X798_00692.5;Parent=transcript:X798_00692
+O_flexuosa-1.0_Cont2	WormBase_imported	exon	1150995	1151001	.	+	.	ID=exon:X798_00692.6;Parent=transcript:X798_00692
+O_flexuosa-1.0_Cont2	WormBase_imported	exon	1151096	1151128	.	+	.	ID=exon:X798_00692.7;Parent=transcript:X798_00692
+O_flexuosa-1.0_Cont2	WormBase_imported	CDS	1147840	1147908	.	+	0	ID=cds:X798_00692;Parent=transcript:X798_00692
+O_flexuosa-1.0_Cont2	WormBase_imported	CDS	1147947	1147994	.	+	0	ID=cds:X798_00692;Parent=transcript:X798_00692
+O_flexuosa-1.0_Cont2	WormBase_imported	CDS	1148440	1148457	.	+	0	ID=cds:X798_00692;Parent=transcript:X798_00692
+O_flexuosa-1.0_Cont2	WormBase_imported	CDS	1149897	1149908	.	+	0	ID=cds:X798_00692;Parent=transcript:X798_00692
+O_flexuosa-1.0_Cont2	WormBase_imported	CDS	1150649	1150719	.	+	0	ID=cds:X798_00692;Parent=transcript:X798_00692
+O_flexuosa-1.0_Cont2	WormBase_imported	CDS	1150995	1151001	.	+	1	ID=cds:X798_00692;Parent=transcript:X798_00692
+O_flexuosa-1.0_Cont2	WormBase_imported	CDS	1151096	1151128	.	+	0	ID=cds:X798_00692;Parent=transcript:X798_00692
 O_flexuosa-1.0_Cont18	WormBase_imported	gene	416781	418843	.	+	.	ID=gene:X798_03571;Name=X798_03571;biotype=protein_coding
 O_flexuosa-1.0_Cont18	WormBase_imported	mRNA	416781	418843	.	+	.	ID=transcript:X798_03571;Parent=gene:X798_03571;Name=X798_03571
 #microexons transcript:X798_03571:  18 11 64 42-15-57-36

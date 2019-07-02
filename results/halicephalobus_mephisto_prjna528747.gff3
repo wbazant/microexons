@@ -60,6 +60,65 @@ Contig19_1122032_1789918	WormBase_imported	CDS	361367	361393	.	-	0	ID=cds:HMEPH_
 Contig19_1122032_1789918	WormBase_imported	CDS	361229	361255	.	-	0	ID=cds:HMEPH_04151-RA.p1;Parent=transcript:HMEPH_04151-RA.p1
 Contig19_1122032_1789918	WormBase_imported	CDS	359469	359563	.	-	0	ID=cds:HMEPH_04151-RA.p1;Parent=transcript:HMEPH_04151-RA.p1
 Contig19_1122032_1789918	WormBase_imported	CDS	357278	357323	.	-	1	ID=cds:HMEPH_04151-RA.p1;Parent=transcript:HMEPH_04151-RA.p1
+Contig19_1122032_1789918	WormBase_imported	gene	524762	554238	.	+	.	ID=gene:MSTRG.5061;Name=MSTRG.5061;biotype=protein_coding
+Contig19_1122032_1789918	WormBase_imported	mRNA	524762	542527	.	+	.	ID=transcript:HMEPH_04190-RA.p1;Parent=gene:MSTRG.5061;Name=HMEPH_04190-RA.p1
+#microexons transcript:HMEPH_04190-RA.p1:  6 190 6-63-27-69 20
+Contig19_1122032_1789918	WormBase_imported	mRNA	544537	554238	.	+	.	ID=transcript:HMEPH_04193-RA.p1;Parent=gene:MSTRG.5061;Name=HMEPH_04193-RA.p1;info=method:InterPro accession:IPR013087 description:Zinc finger C2H2-type %0Amethod:InterPro accession:IPR036236 description:Zinc finger C2H2 superfamily
+#microexons transcript:HMEPH_04193-RA.p1:  89 2001 320 620
+Contig19_1122032_1789918	WormBase_imported	mRNA	524909	554238	.	+	.	ID=transcript:MSTRG.5061.2.p1;Parent=gene:MSTRG.5061;Name=MSTRG.5061.2.p1;info=method:InterPro accession:IPR013087 description:Zinc finger C2H2-type %0Amethod:InterPro accession:IPR036236 description:Zinc finger C2H2 superfamily
+#microexons transcript:MSTRG.5061.2.p1:  259 83 2001 320 620
+Contig19_1122032_1789918	WormBase_imported	mRNA	524909	554238	.	+	.	ID=transcript:MSTRG.5061.3.p1;Parent=gene:MSTRG.5061;Name=MSTRG.5061.3.p1;info=method:InterPro accession:IPR013087 description:Zinc finger C2H2-type %0Amethod:InterPro accession:IPR036236 description:Zinc finger C2H2 superfamily
+#microexons transcript:MSTRG.5061.3.p1:  259 68 83 2001 320 620
+Contig19_1122032_1789918	WormBase_imported	exon	524762	524767	.	+	.	ID=exon:HMEPH_04190-RA.p1.1;Parent=transcript:HMEPH_04190-RA.p1
+Contig19_1122032_1789918	WormBase_imported	exon	524978	525167	.	+	.	ID=exon:HMEPH_04190-RA.p1.2;Parent=transcript:HMEPH_04190-RA.p1
+Contig19_1122032_1789918	WormBase_imported	exon	525736	525741	.	+	.	ID=exon:HMEPH_04190-RA.p1.3;Parent=transcript:HMEPH_04190-RA.p1
+Contig19_1122032_1789918	WormBase_imported	exon	526827	526889	.	+	.	ID=exon:HMEPH_04190-RA.p1.4;Parent=transcript:HMEPH_04190-RA.p1
+Contig19_1122032_1789918	WormBase_imported	exon	536965	536991	.	+	.	ID=exon:HMEPH_04190-RA.p1.5;Parent=transcript:HMEPH_04190-RA.p1
+Contig19_1122032_1789918	WormBase_imported	exon	537743	537811	.	+	.	ID=exon:HMEPH_04190-RA.p1.6;Parent=transcript:HMEPH_04190-RA.p1
+Contig19_1122032_1789918	WormBase_imported	exon	542508	542527	.	+	.	ID=exon:HMEPH_04190-RA.p1.7;Parent=transcript:HMEPH_04190-RA.p1
+Contig19_1122032_1789918	WormBase_imported	exon	544537	544625	.	+	.	ID=exon:HMEPH_04193-RA.p1.1;Parent=transcript:HMEPH_04193-RA.p1
+Contig19_1122032_1789918	WormBase_imported	exon	550966	552966	.	+	.	ID=exon:HMEPH_04193-RA.p1.2;Parent=transcript:HMEPH_04193-RA.p1
+Contig19_1122032_1789918	WormBase_imported	exon	553257	553576	.	+	.	ID=exon:HMEPH_04193-RA.p1.3;Parent=transcript:HMEPH_04193-RA.p1
+Contig19_1122032_1789918	WormBase_imported	exon	553619	554238	.	+	.	ID=exon:HMEPH_04193-RA.p1.4;Parent=transcript:HMEPH_04193-RA.p1
+Contig19_1122032_1789918	WormBase_imported	exon	524909	525167	.	+	.	ID=exon:MSTRG.5061.2.p1.1;Parent=transcript:MSTRG.5061.2.p1
+Contig19_1122032_1789918	WormBase_imported	exon	544543	544625	.	+	.	ID=exon:MSTRG.5061.2.p1.2;Parent=transcript:MSTRG.5061.2.p1
+Contig19_1122032_1789918	WormBase_imported	exon	550966	552966	.	+	.	ID=exon:MSTRG.5061.2.p1.3;Parent=transcript:MSTRG.5061.2.p1
+Contig19_1122032_1789918	WormBase_imported	exon	553257	553576	.	+	.	ID=exon:MSTRG.5061.2.p1.4;Parent=transcript:MSTRG.5061.2.p1
+Contig19_1122032_1789918	WormBase_imported	exon	553619	554238	.	+	.	ID=exon:MSTRG.5061.2.p1.5;Parent=transcript:MSTRG.5061.2.p1
+Contig19_1122032_1789918	WormBase_imported	exon	524909	525167	.	+	.	ID=exon:MSTRG.5061.3.p1.1;Parent=transcript:MSTRG.5061.3.p1
+Contig19_1122032_1789918	WormBase_imported	exon	528019	528086	.	+	.	ID=exon:MSTRG.5061.3.p1.2;Parent=transcript:MSTRG.5061.3.p1
+Contig19_1122032_1789918	WormBase_imported	exon	544543	544625	.	+	.	ID=exon:MSTRG.5061.3.p1.3;Parent=transcript:MSTRG.5061.3.p1
+Contig19_1122032_1789918	WormBase_imported	exon	550966	552966	.	+	.	ID=exon:MSTRG.5061.3.p1.4;Parent=transcript:MSTRG.5061.3.p1
+Contig19_1122032_1789918	WormBase_imported	exon	553257	553576	.	+	.	ID=exon:MSTRG.5061.3.p1.5;Parent=transcript:MSTRG.5061.3.p1
+Contig19_1122032_1789918	WormBase_imported	exon	553619	554238	.	+	.	ID=exon:MSTRG.5061.3.p1.6;Parent=transcript:MSTRG.5061.3.p1
+Contig19_1122032_1789918	WormBase_imported	CDS	524762	524767	.	+	0	ID=cds:HMEPH_04190-RA.p1;Parent=transcript:HMEPH_04190-RA.p1
+Contig19_1122032_1789918	WormBase_imported	CDS	524978	525167	.	+	0	ID=cds:HMEPH_04190-RA.p1;Parent=transcript:HMEPH_04190-RA.p1
+Contig19_1122032_1789918	WormBase_imported	CDS	525736	525741	.	+	2	ID=cds:HMEPH_04190-RA.p1;Parent=transcript:HMEPH_04190-RA.p1
+Contig19_1122032_1789918	WormBase_imported	CDS	526827	526889	.	+	2	ID=cds:HMEPH_04190-RA.p1;Parent=transcript:HMEPH_04190-RA.p1
+Contig19_1122032_1789918	WormBase_imported	CDS	536965	536991	.	+	2	ID=cds:HMEPH_04190-RA.p1;Parent=transcript:HMEPH_04190-RA.p1
+Contig19_1122032_1789918	WormBase_imported	CDS	537743	537811	.	+	2	ID=cds:HMEPH_04190-RA.p1;Parent=transcript:HMEPH_04190-RA.p1
+Contig19_1122032_1789918	WormBase_imported	CDS	542508	542527	.	+	2	ID=cds:HMEPH_04190-RA.p1;Parent=transcript:HMEPH_04190-RA.p1
+Contig19_1122032_1789918	WormBase_imported	five_prime_UTR	544537	544625	.	+	.	Parent=transcript:HMEPH_04193-RA.p1
+Contig19_1122032_1789918	WormBase_imported	five_prime_UTR	550966	550988	.	+	.	Parent=transcript:HMEPH_04193-RA.p1
+Contig19_1122032_1789918	WormBase_imported	CDS	550989	552966	.	+	0	ID=cds:HMEPH_04193-RA.p1;Parent=transcript:HMEPH_04193-RA.p1
+Contig19_1122032_1789918	WormBase_imported	CDS	553257	553576	.	+	2	ID=cds:HMEPH_04193-RA.p1;Parent=transcript:HMEPH_04193-RA.p1
+Contig19_1122032_1789918	WormBase_imported	CDS	553619	553870	.	+	0	ID=cds:HMEPH_04193-RA.p1;Parent=transcript:HMEPH_04193-RA.p1
+Contig19_1122032_1789918	WormBase_imported	three_prime_UTR	553871	554238	.	+	.	Parent=transcript:HMEPH_04193-RA.p1
+Contig19_1122032_1789918	WormBase_imported	five_prime_UTR	524909	525167	.	+	.	Parent=transcript:MSTRG.5061.2.p1
+Contig19_1122032_1789918	WormBase_imported	five_prime_UTR	544543	544625	.	+	.	Parent=transcript:MSTRG.5061.2.p1
+Contig19_1122032_1789918	WormBase_imported	five_prime_UTR	550966	550988	.	+	.	Parent=transcript:MSTRG.5061.2.p1
+Contig19_1122032_1789918	WormBase_imported	CDS	550989	552966	.	+	0	ID=cds:MSTRG.5061.2.p1;Parent=transcript:MSTRG.5061.2.p1
+Contig19_1122032_1789918	WormBase_imported	CDS	553257	553576	.	+	2	ID=cds:MSTRG.5061.2.p1;Parent=transcript:MSTRG.5061.2.p1
+Contig19_1122032_1789918	WormBase_imported	CDS	553619	553870	.	+	0	ID=cds:MSTRG.5061.2.p1;Parent=transcript:MSTRG.5061.2.p1
+Contig19_1122032_1789918	WormBase_imported	three_prime_UTR	553871	554238	.	+	.	Parent=transcript:MSTRG.5061.2.p1
+Contig19_1122032_1789918	WormBase_imported	five_prime_UTR	524909	525167	.	+	.	Parent=transcript:MSTRG.5061.3.p1
+Contig19_1122032_1789918	WormBase_imported	five_prime_UTR	528019	528086	.	+	.	Parent=transcript:MSTRG.5061.3.p1
+Contig19_1122032_1789918	WormBase_imported	five_prime_UTR	544543	544625	.	+	.	Parent=transcript:MSTRG.5061.3.p1
+Contig19_1122032_1789918	WormBase_imported	five_prime_UTR	550966	550988	.	+	.	Parent=transcript:MSTRG.5061.3.p1
+Contig19_1122032_1789918	WormBase_imported	CDS	550989	552966	.	+	0	ID=cds:MSTRG.5061.3.p1;Parent=transcript:MSTRG.5061.3.p1
+Contig19_1122032_1789918	WormBase_imported	CDS	553257	553576	.	+	2	ID=cds:MSTRG.5061.3.p1;Parent=transcript:MSTRG.5061.3.p1
+Contig19_1122032_1789918	WormBase_imported	CDS	553619	553870	.	+	0	ID=cds:MSTRG.5061.3.p1;Parent=transcript:MSTRG.5061.3.p1
+Contig19_1122032_1789918	WormBase_imported	three_prime_UTR	553871	554238	.	+	.	Parent=transcript:MSTRG.5061.3.p1
 Contig19_1122032_1789918	WormBase_imported	gene	537881	549881	.	-	.	ID=gene:MSTRG.5064;Name=MSTRG.5064;biotype=protein_coding
 Contig19_1122032_1789918	WormBase_imported	mRNA	537881	549881	.	-	.	ID=transcript:HMEPH_04192-RA.p1;Parent=gene:MSTRG.5064;Name=HMEPH_04192-RA.p1
 #microexons transcript:HMEPH_04192-RA.p1:  15 37 20 294-6-24-24-15-6 46 71
@@ -832,6 +891,77 @@ Contig45	WormBase_imported	CDS	184475	184854	.	+	2	ID=cds:MSTRG.11054.3.p1;Paren
 Contig45	WormBase_imported	CDS	185664	185747	.	+	0	ID=cds:MSTRG.11054.3.p1;Parent=transcript:MSTRG.11054.3.p1
 Contig45	WormBase_imported	CDS	185847	185955	.	+	0	ID=cds:MSTRG.11054.3.p1;Parent=transcript:MSTRG.11054.3.p1
 Contig45	WormBase_imported	CDS	188182	188204	.	+	2	ID=cds:MSTRG.11054.3.p1;Parent=transcript:MSTRG.11054.3.p1
+Contig214	WormBase_imported	gene	218967	221752	.	-	.	ID=gene:MSTRG.6289;Name=MSTRG.6289;biotype=protein_coding
+Contig214	WormBase_imported	mRNA	218967	221752	.	-	.	ID=transcript:HMEPH_11015-RA.p1;Parent=gene:MSTRG.6289;Name=HMEPH_11015-RA.p1
+#microexons transcript:HMEPH_11015-RA.p1:  11 25 63-51-51-51-282
+Contig214	WormBase_imported	exon	221742	221752	.	-	.	ID=exon:HMEPH_11015-RA.p1.1;Parent=transcript:HMEPH_11015-RA.p1
+Contig214	WormBase_imported	exon	220243	220267	.	-	.	ID=exon:HMEPH_11015-RA.p1.2;Parent=transcript:HMEPH_11015-RA.p1
+Contig214	WormBase_imported	exon	220060	220122	.	-	.	ID=exon:HMEPH_11015-RA.p1.3;Parent=transcript:HMEPH_11015-RA.p1
+Contig214	WormBase_imported	exon	219522	219572	.	-	.	ID=exon:HMEPH_11015-RA.p1.4;Parent=transcript:HMEPH_11015-RA.p1
+Contig214	WormBase_imported	exon	219440	219490	.	-	.	ID=exon:HMEPH_11015-RA.p1.5;Parent=transcript:HMEPH_11015-RA.p1
+Contig214	WormBase_imported	exon	219280	219330	.	-	.	ID=exon:HMEPH_11015-RA.p1.6;Parent=transcript:HMEPH_11015-RA.p1
+Contig214	WormBase_imported	exon	218967	219248	.	-	.	ID=exon:HMEPH_11015-RA.p1.7;Parent=transcript:HMEPH_11015-RA.p1
+Contig214	WormBase_imported	CDS	221742	221752	.	-	0	ID=cds:HMEPH_11015-RA.p1;Parent=transcript:HMEPH_11015-RA.p1
+Contig214	WormBase_imported	CDS	220243	220267	.	-	1	ID=cds:HMEPH_11015-RA.p1;Parent=transcript:HMEPH_11015-RA.p1
+Contig214	WormBase_imported	CDS	220060	220122	.	-	0	ID=cds:HMEPH_11015-RA.p1;Parent=transcript:HMEPH_11015-RA.p1
+Contig214	WormBase_imported	CDS	219522	219572	.	-	0	ID=cds:HMEPH_11015-RA.p1;Parent=transcript:HMEPH_11015-RA.p1
+Contig214	WormBase_imported	CDS	219440	219490	.	-	0	ID=cds:HMEPH_11015-RA.p1;Parent=transcript:HMEPH_11015-RA.p1
+Contig214	WormBase_imported	CDS	219280	219330	.	-	0	ID=cds:HMEPH_11015-RA.p1;Parent=transcript:HMEPH_11015-RA.p1
+Contig214	WormBase_imported	CDS	218967	219248	.	-	0	ID=cds:HMEPH_11015-RA.p1;Parent=transcript:HMEPH_11015-RA.p1
+Contig103	WormBase_imported	gene	99131	113540	.	+	.	ID=gene:MSTRG.193;Name=MSTRG.193;biotype=protein_coding
+Contig103	WormBase_imported	mRNA	99186	113540	.	+	.	ID=transcript:HMEPH_11775-RA.p1;Parent=gene:MSTRG.193;Name=HMEPH_11775-RA.p1
+#microexons transcript:HMEPH_11775-RA.p1:  80 255 107 227 167 376 36 563 160 30-6-6-30-6-69-15
+Contig103	WormBase_imported	mRNA	99131	112310	.	+	.	ID=transcript:MSTRG.193.1.p1;Parent=gene:MSTRG.193;Name=MSTRG.193.1.p1;info=method:InterPro accession:IPR003280 description:Two pore domain potassium channel %0Amethod:InterPro accession:IPR013099 description:Potassium channel domain
+#microexons transcript:MSTRG.193.1.p1:  429 107 227 167 376 36-954-81
+Contig103	WormBase_imported	exon	99186	99265	.	+	.	ID=exon:HMEPH_11775-RA.p1.1;Parent=transcript:HMEPH_11775-RA.p1
+Contig103	WormBase_imported	exon	99305	99559	.	+	.	ID=exon:HMEPH_11775-RA.p1.2;Parent=transcript:HMEPH_11775-RA.p1
+Contig103	WormBase_imported	exon	105396	105502	.	+	.	ID=exon:HMEPH_11775-RA.p1.3;Parent=transcript:HMEPH_11775-RA.p1
+Contig103	WormBase_imported	exon	108183	108409	.	+	.	ID=exon:HMEPH_11775-RA.p1.4;Parent=transcript:HMEPH_11775-RA.p1
+Contig103	WormBase_imported	exon	108482	108648	.	+	.	ID=exon:HMEPH_11775-RA.p1.5;Parent=transcript:HMEPH_11775-RA.p1
+Contig103	WormBase_imported	exon	108664	109039	.	+	.	ID=exon:HMEPH_11775-RA.p1.6;Parent=transcript:HMEPH_11775-RA.p1
+Contig103	WormBase_imported	exon	110156	110191	.	+	.	ID=exon:HMEPH_11775-RA.p1.7;Parent=transcript:HMEPH_11775-RA.p1
+Contig103	WormBase_imported	exon	111041	111603	.	+	.	ID=exon:HMEPH_11775-RA.p1.8;Parent=transcript:HMEPH_11775-RA.p1
+Contig103	WormBase_imported	exon	111835	111994	.	+	.	ID=exon:HMEPH_11775-RA.p1.9;Parent=transcript:HMEPH_11775-RA.p1
+Contig103	WormBase_imported	exon	112230	112259	.	+	.	ID=exon:HMEPH_11775-RA.p1.10;Parent=transcript:HMEPH_11775-RA.p1
+Contig103	WormBase_imported	exon	112400	112405	.	+	.	ID=exon:HMEPH_11775-RA.p1.11;Parent=transcript:HMEPH_11775-RA.p1
+Contig103	WormBase_imported	exon	112425	112430	.	+	.	ID=exon:HMEPH_11775-RA.p1.12;Parent=transcript:HMEPH_11775-RA.p1
+Contig103	WormBase_imported	exon	112473	112502	.	+	.	ID=exon:HMEPH_11775-RA.p1.13;Parent=transcript:HMEPH_11775-RA.p1
+Contig103	WormBase_imported	exon	112570	112575	.	+	.	ID=exon:HMEPH_11775-RA.p1.14;Parent=transcript:HMEPH_11775-RA.p1
+Contig103	WormBase_imported	exon	112653	112721	.	+	.	ID=exon:HMEPH_11775-RA.p1.15;Parent=transcript:HMEPH_11775-RA.p1
+Contig103	WormBase_imported	exon	113526	113540	.	+	.	ID=exon:HMEPH_11775-RA.p1.16;Parent=transcript:HMEPH_11775-RA.p1
+Contig103	WormBase_imported	exon	99131	99559	.	+	.	ID=exon:MSTRG.193.1.p1.1;Parent=transcript:MSTRG.193.1.p1
+Contig103	WormBase_imported	exon	105396	105502	.	+	.	ID=exon:MSTRG.193.1.p1.2;Parent=transcript:MSTRG.193.1.p1
+Contig103	WormBase_imported	exon	108183	108409	.	+	.	ID=exon:MSTRG.193.1.p1.3;Parent=transcript:MSTRG.193.1.p1
+Contig103	WormBase_imported	exon	108482	108648	.	+	.	ID=exon:MSTRG.193.1.p1.4;Parent=transcript:MSTRG.193.1.p1
+Contig103	WormBase_imported	exon	108664	109039	.	+	.	ID=exon:MSTRG.193.1.p1.5;Parent=transcript:MSTRG.193.1.p1
+Contig103	WormBase_imported	exon	110156	110191	.	+	.	ID=exon:MSTRG.193.1.p1.6;Parent=transcript:MSTRG.193.1.p1
+Contig103	WormBase_imported	exon	111041	111994	.	+	.	ID=exon:MSTRG.193.1.p1.7;Parent=transcript:MSTRG.193.1.p1
+Contig103	WormBase_imported	exon	112230	112310	.	+	.	ID=exon:MSTRG.193.1.p1.8;Parent=transcript:MSTRG.193.1.p1
+Contig103	WormBase_imported	CDS	99186	99265	.	+	0	ID=cds:HMEPH_11775-RA.p1;Parent=transcript:HMEPH_11775-RA.p1
+Contig103	WormBase_imported	CDS	99305	99559	.	+	1	ID=cds:HMEPH_11775-RA.p1;Parent=transcript:HMEPH_11775-RA.p1
+Contig103	WormBase_imported	CDS	105396	105502	.	+	1	ID=cds:HMEPH_11775-RA.p1;Parent=transcript:HMEPH_11775-RA.p1
+Contig103	WormBase_imported	CDS	108183	108409	.	+	2	ID=cds:HMEPH_11775-RA.p1;Parent=transcript:HMEPH_11775-RA.p1
+Contig103	WormBase_imported	CDS	108482	108648	.	+	0	ID=cds:HMEPH_11775-RA.p1;Parent=transcript:HMEPH_11775-RA.p1
+Contig103	WormBase_imported	CDS	108664	109039	.	+	1	ID=cds:HMEPH_11775-RA.p1;Parent=transcript:HMEPH_11775-RA.p1
+Contig103	WormBase_imported	CDS	110156	110191	.	+	0	ID=cds:HMEPH_11775-RA.p1;Parent=transcript:HMEPH_11775-RA.p1
+Contig103	WormBase_imported	CDS	111041	111603	.	+	0	ID=cds:HMEPH_11775-RA.p1;Parent=transcript:HMEPH_11775-RA.p1
+Contig103	WormBase_imported	CDS	111835	111994	.	+	1	ID=cds:HMEPH_11775-RA.p1;Parent=transcript:HMEPH_11775-RA.p1
+Contig103	WormBase_imported	CDS	112230	112259	.	+	0	ID=cds:HMEPH_11775-RA.p1;Parent=transcript:HMEPH_11775-RA.p1
+Contig103	WormBase_imported	CDS	112400	112405	.	+	0	ID=cds:HMEPH_11775-RA.p1;Parent=transcript:HMEPH_11775-RA.p1
+Contig103	WormBase_imported	CDS	112425	112430	.	+	0	ID=cds:HMEPH_11775-RA.p1;Parent=transcript:HMEPH_11775-RA.p1
+Contig103	WormBase_imported	CDS	112473	112502	.	+	0	ID=cds:HMEPH_11775-RA.p1;Parent=transcript:HMEPH_11775-RA.p1
+Contig103	WormBase_imported	CDS	112570	112575	.	+	0	ID=cds:HMEPH_11775-RA.p1;Parent=transcript:HMEPH_11775-RA.p1
+Contig103	WormBase_imported	CDS	112653	112721	.	+	0	ID=cds:HMEPH_11775-RA.p1;Parent=transcript:HMEPH_11775-RA.p1
+Contig103	WormBase_imported	CDS	113526	113540	.	+	0	ID=cds:HMEPH_11775-RA.p1;Parent=transcript:HMEPH_11775-RA.p1
+Contig103	WormBase_imported	five_prime_UTR	99131	99488	.	+	.	Parent=transcript:MSTRG.193.1.p1
+Contig103	WormBase_imported	CDS	99489	99559	.	+	0	ID=cds:MSTRG.193.1.p1;Parent=transcript:MSTRG.193.1.p1
+Contig103	WormBase_imported	CDS	105396	105502	.	+	1	ID=cds:MSTRG.193.1.p1;Parent=transcript:MSTRG.193.1.p1
+Contig103	WormBase_imported	CDS	108183	108409	.	+	2	ID=cds:MSTRG.193.1.p1;Parent=transcript:MSTRG.193.1.p1
+Contig103	WormBase_imported	CDS	108482	108648	.	+	0	ID=cds:MSTRG.193.1.p1;Parent=transcript:MSTRG.193.1.p1
+Contig103	WormBase_imported	CDS	108664	109039	.	+	1	ID=cds:MSTRG.193.1.p1;Parent=transcript:MSTRG.193.1.p1
+Contig103	WormBase_imported	CDS	110156	110191	.	+	0	ID=cds:MSTRG.193.1.p1;Parent=transcript:MSTRG.193.1.p1
+Contig103	WormBase_imported	CDS	111041	111994	.	+	0	ID=cds:MSTRG.193.1.p1;Parent=transcript:MSTRG.193.1.p1
+Contig103	WormBase_imported	CDS	112230	112310	.	+	0	ID=cds:MSTRG.193.1.p1;Parent=transcript:MSTRG.193.1.p1
 Contig142	WormBase_imported	gene	87077	96047	.	+	.	ID=gene:MSTRG.2917;Name=MSTRG.2917;biotype=protein_coding
 Contig142	WormBase_imported	mRNA	87077	95999	.	+	.	ID=transcript:HMEPH_12671-RA.p1;Parent=gene:MSTRG.2917;Name=HMEPH_12671-RA.p1;info=method:InterPro accession:IPR000719 description:Protein kinase domain %0Amethod:InterPro accession:IPR008271 description:Serine/threonine-protein kinase%2C active site %0Amethod:InterPro accession:IPR011009 description:Protein kinase-like domain superfamily
 #microexons transcript:HMEPH_12671-RA.p1:  39-21-21-21-27 11 49 82 953
