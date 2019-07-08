@@ -4,10 +4,10 @@ use warnings;
 
 my $all_exons = 0;
 my @lengths_mod_3 = (0) x 3;
-my $all_exons_under_60 = 0;
-my @lengths_mod_3_under_60 = (0) x 3;
-my $all_exons_over_60 = 0;
-my @lengths_mod_3_over_60 = (0) x 3;
+my $all_exons_under_70 = 0;
+my @lengths_mod_3_under_70 = (0) x 3;
+my $all_exons_over_70 = 0;
+my @lengths_mod_3_over_70 = (0) x 3;
 while(<>){
   next if /^#/;
   my @F = split "\t";
@@ -16,13 +16,13 @@ while(<>){
      $length = 1000 if $length > 1000;
      $lengths_mod_3[$length % 3] ++;
      $all_exons++;
-     if($length < 60 ){
-       $lengths_mod_3_under_60[$length % 3] ++;
-       $all_exons_under_60++;
+     if($length < 70 ){
+       $lengths_mod_3_under_70[$length % 3] ++;
+       $all_exons_under_70++;
      } else {
-       $lengths_mod_3_over_60[$length % 3] ++;
-       $all_exons_over_60++;
+       $lengths_mod_3_over_70[$length % 3] ++;
+       $all_exons_over_70++;
      }
   }
 }
-print sprintf("%.03f\t%.03f\n", $lengths_mod_3[0]/$all_exons - 1/3, $lengths_mod_3_under_60[0]/ $all_exons_under_60 - $lengths_mod_3[0]/$all_exons );
+print sprintf("%.03f\t%.03f\n", $lengths_mod_3[0]/$all_exons - 1/3, $lengths_mod_3_under_70[0]/ $all_exons_under_70 - $lengths_mod_3[0]/$all_exons );
