@@ -1,4 +1,5 @@
 # Microexon genes in WormBase ParaSite genomes
+[![DOI](https://zenodo.org/badge/194257264.svg)](https://zenodo.org/badge/latestdoi/194257264)
 ## About microexon genes
 ### Introduction
 
