@@ -1,5 +1,6 @@
 # Microexon genes in WormBase ParaSite genomes
 [![DOI](https://zenodo.org/badge/194257264.svg)](https://zenodo.org/badge/latestdoi/194257264)
+By [Wojciech Bażant](https://scholar.google.co.uk/citations?view_op=list_works&hl=en&user=aBoZTOkAAAAJ), [Alan Tracey](https://scholar.google.co.uk/citations?user=72pPOvEAAAAJ), and [Matthew Berriman](https://scholar.google.co.uk/citations?user=nxNbMukAAAAJ&hl=en&oi=sra)
 ## About microexon genes
 ### Introduction
 
